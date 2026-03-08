@@ -519,33 +519,8 @@
       <div class="dot green"></div>
       <div class="terminal-title">market_briefing — Saturday 09:30 ET</div>
     </div>
-    <div class="terminal-body">
-<span class="t-comment"># This hits your WhatsApp every weekday at market open</span>
-
-<span class="t-prompt">$</span> <span class="t-cmd">python3 fetch_market_data.py</span>
-
-<span class="t-out">📊 DAILY MARKET BRIEFING — Friday close</span>
-<span class="t-out">════════════════════════════════════════</span>
-
-<span class="t-out">📈 STOCK INDICES</span>
-<span class="t-out">  S&P 500              $6,740.02  ▼ -1.33%</span>
-<span class="t-out">  Nasdaq               $22,387.68 ▼ -1.59%</span>
-<span class="t-out">  Dow Jones            $47,501.55 ▼ -0.95%</span>
-
-<span class="t-out">🛢️  COMMODITIES</span>
-<span class="t-out">  Gold                 $5,146.10  ▲ +0.17%</span>
-<span class="t-out">  Oil (WTI)            $90.90     ▲ +13.55%</span>
-
-<span class="t-out">💱 CRYPTO (live 24/7)</span>
-<span class="t-out">  Bitcoin (BTC)        $67,619    ▼ -1.09%</span>
-<span class="t-out">  Ethereum (ETH)       $1,970     ▼ -0.36%</span>
-
-<span class="t-out">📰 HEADLINES</span>
-<span class="t-out">  [CNBC] Kuwait cuts oil as Strait of Hormuz closure disrupts markets</span>
-<span class="t-out">  [Reuters] Iran war could make affordability a 2026 election issue</span>
-<span class="t-out">  [MarketWatch] 'Can't sell house' searches highest since 2008 crisis</span>
-
-<span class="t-comment"># Delivered to WhatsApp ✅</span>
+    <div class="terminal-body" id="terminal-live">
+<span class="t-comment"># Loading live data...</span>
     </div>
   </div>
 </section>
@@ -658,36 +633,69 @@ What are you waiting to build?
 </footer>
 
 <script>
-// Live crypto ticker
-async function loadTicker() {
+// Load all live data from data.json
+async function loadData() {
   try {
-    const res = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,binancecoin&vs_currencies=usd&include_24hr_change=true');
+    const res = await fetch('data.json?t=' + Date.now());
     const data = await res.json();
-    const map = {
-      bitcoin: 'BTC', ethereum: 'ETH', solana: 'SOL', binancecoin: 'BNB'
-    };
+
+    // Ticker — crypto
     const ticker = document.getElementById('ticker');
-    ticker.innerHTML = Object.entries(map).map(([id, sym], i) => {
-      const d = data[id];
-      const price = d.usd.toLocaleString('en-US', {maximumFractionDigits: 2});
-      const chg = d.usd_24h_change.toFixed(2);
-      const cls = chg >= 0 ? 'up' : 'down';
-      const arrow = chg >= 0 ? '▲' : '▼';
-      return `
-        ${i > 0 ? '<span class="ticker-divider">·</span>' : ''}
+    if (data.crypto && Object.keys(data.crypto).length) {
+      ticker.innerHTML = Object.entries(data.crypto).map(([sym, d], i) => {
+        const price = d.price.toLocaleString('en-US', {maximumFractionDigits: 2});
+        const chg = d.change_pct.toFixed(2);
+        const cls = chg >= 0 ? 'up' : 'down';
+        const arrow = chg >= 0 ? '▲' : '▼';
+        return `${i > 0 ? '<span class="ticker-divider">·</span>' : ''}
         <div class="ticker-item">
           <span class="ticker-name">${sym}</span>
           <span class="ticker-price">$${price}</span>
           <span class="ticker-change ${cls}">${arrow} ${Math.abs(chg)}%</span>
         </div>`;
-    }).join('');
+      }).join('');
+    }
+
+    // Terminal — stocks + commodities + headlines
+    const termBody = document.getElementById('terminal-live');
+    if (termBody && data.stocks) {
+      let html = `<span class="t-comment"># ${data.market_status} — updated ${data.generated_at}</span>\n\n`;
+      html += `<span class="t-prompt">$</span> <span class="t-cmd">python3 fetch_market_data.py</span>\n\n`;
+      html += `<span class="t-out">📈 STOCK INDICES</span>\n`;
+      for (const [name, d] of Object.entries(data.stocks)) {
+        const arrow = d.change_pct >= 0 ? '▲' : '▼';
+        const sign  = d.change_pct >= 0 ? '+' : '';
+        html += `<span class="t-out">  ${name.padEnd(20)} $${d.price.toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2}).padStart(12)}  ${arrow} ${sign}${d.change_pct}%</span>\n`;
+      }
+      html += `\n<span class="t-out">🛢️  COMMODITIES</span>\n`;
+      for (const [name, d] of Object.entries(data.commodities || {})) {
+        const arrow = d.change_pct >= 0 ? '▲' : '▼';
+        const sign  = d.change_pct >= 0 ? '+' : '';
+        html += `<span class="t-out">  ${name.padEnd(20)} $${d.price.toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2}).padStart(12)}  ${arrow} ${sign}${d.change_pct}%</span>\n`;
+      }
+      html += `\n<span class="t-out">💱 CRYPTO (live 24/7)</span>\n`;
+      for (const [sym, d] of Object.entries(data.crypto || {})) {
+        const arrow = d.change_pct >= 0 ? '▲' : '▼';
+        const sign  = d.change_pct >= 0 ? '+' : '';
+        html += `<span class="t-out">  ${sym.padEnd(20)} $${d.price.toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2}).padStart(12)}  ${arrow} ${sign}${d.change_pct}%</span>\n`;
+      }
+      if (data.headlines && data.headlines.length) {
+        html += `\n<span class="t-out">📰 HEADLINES</span>\n`;
+        data.headlines.forEach(h => {
+          html += `<span class="t-out">  [${h.source}] ${h.title}</span>\n`;
+        });
+      }
+      html += `\n<span class="t-comment"># Delivered to WhatsApp ✅</span>`;
+      termBody.innerHTML = html;
+    }
+
   } catch(e) {
-    document.getElementById('ticker').innerHTML = '<span style="color:#64748b;font-size:13px;">Live data loading...</span>';
+    document.getElementById('ticker').innerHTML = '<span style="color:#64748b;font-size:13px;">Loading live data...</span>';
   }
 }
 
-loadTicker();
-setInterval(loadTicker, 60000);
+loadData();
+setInterval(loadData, 300000); // refresh every 5 min
 
 // Copy post
 function copyPost() {

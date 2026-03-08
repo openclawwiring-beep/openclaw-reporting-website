@@ -1,0 +1,72 @@
+{
+  "generated_at": "Saturday, March 07 2026  16:56 PT",
+  "market_status": "Friday close \u2014 market closed",
+  "stocks": {
+    "S&P 500": {
+      "price": 6740.02,
+      "change_pct": -1.33
+    },
+    "Nasdaq": {
+      "price": 22387.68,
+      "change_pct": -1.59
+    },
+    "Dow Jones": {
+      "price": 47501.55,
+      "change_pct": -0.95
+    },
+    "Russell 2000": {
+      "price": 2525.3,
+      "change_pct": -2.33
+    }
+  },
+  "commodities": {
+    "Gold": {
+      "price": 5146.1,
+      "change_pct": 0.17
+    },
+    "Oil (WTI)": {
+      "price": 90.9,
+      "change_pct": 13.55
+    },
+    "Silver": {
+      "price": 83.82,
+      "change_pct": -0.76
+    }
+  },
+  "crypto": {
+    "BTC": {
+      "price": 67192,
+      "change_pct": -1.68
+    },
+    "ETH": {
+      "price": 1967.8,
+      "change_pct": -0.74
+    },
+    "SOL": {
+      "price": 83.02,
+      "change_pct": -2.05
+    },
+    "BNB": {
+      "price": 619.14,
+      "change_pct": -1.63
+    }
+  },
+  "headlines": [
+    {
+      "source": "CNBC",
+      "title": "Iran vows it won't surrender as war with the U.S. and Israel enters second week"
+    },
+    {
+      "source": "CNBC",
+      "title": "Will Iran war fallout end the bull market? When investors really need to worry"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018I don\u2019t own a home\u2019: I\u2019m 62, unemployed and have $1.5 million for retirement. Can I afford to divorce my husband?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "We have $13.5 million and 3 kids, but one is an addict. How do we fairly divide our estate?"
+    }
+  ]
+}
