@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 08 2026  01:00 PT",
+  "generated_at": "Sunday, March 08 2026  01:58 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 67535,
-      "change_pct": -0.34
+      "price": 67718,
+      "change_pct": -0.42
     },
     "ETH": {
-      "price": 1958.95,
-      "change_pct": -0.94
+      "price": 1963.41,
+      "change_pct": -1.17
     },
     "SOL": {
-      "price": 83.04,
-      "change_pct": -1.61
+      "price": 83.2,
+      "change_pct": -1.64
     },
     "BNB": {
-      "price": 619.43,
-      "change_pct": -1.4
+      "price": 620.28,
+      "change_pct": -1.52
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran vows it won't surrender as war with the U.S. and Israel enters second week"
+      "title": "Iranian projectiles continue to strike Gulf countries' infrastructure"
     },
     {
       "source": "CNBC",
