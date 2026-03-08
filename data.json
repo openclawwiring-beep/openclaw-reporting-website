@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 08 2026  14:46 PT",
+  "generated_at": "Sunday, March 08 2026  15:52 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5158.7,
-      "change_pct": 0.42
+      "price": 5134.4,
+      "change_pct": -0.47
     },
     "Oil (WTI)": {
-      "price": 90.9,
-      "change_pct": 13.55
+      "price": 107.9,
+      "change_pct": 18.22
     },
     "Silver": {
-      "price": 84.31,
-      "change_pct": -0.17
+      "price": 82.89,
+      "change_pct": -1.69
     }
   },
   "crypto": {
     "BTC": {
-      "price": 67005,
-      "change_pct": -0.53
+      "price": 66147,
+      "change_pct": -1.67
     },
     "ETH": {
-      "price": 1953.97,
-      "change_pct": -0.63
+      "price": 1941.53,
+      "change_pct": -1.33
     },
     "SOL": {
-      "price": 82.13,
-      "change_pct": -1.06
+      "price": 82.11,
+      "change_pct": -1.15
     },
     "BNB": {
-      "price": 617.45,
-      "change_pct": -0.52
+      "price": 614.36,
+      "change_pct": -0.92
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran names Ayatollah Khamenei's son, Mojtaba, as new supreme leader: Media reports"
+      "title": "Oil prices top $100 per barrel as big Middle East producers cut output amid Iran war"
     },
     {
       "source": "CNBC",
-      "title": "Trump vows legislative blockade until SAVE America voter-ID bill is passed"
+      "title": "Iran names Ayatollah Khamenei's son, Mojtaba, as new supreme leader: Media reports"
     },
     {
       "source": "MarketWatch",
-      "title": "These 8 drugs could help fight dementia \u2014 and they\u2019re already on the market"
+      "title": "U.S. stock futures sink after oil surges above $100 a barrel as Iran conflict rages"
     },
     {
       "source": "MarketWatch",
-      "title": "Medicare Advantage growth is being driven by these niche \u2014 and lucrative \u2014 plans"
+      "title": "Oil prices are the No. 1 thing investors are watching right now. Here\u2019s why."
     }
   ]
 }
