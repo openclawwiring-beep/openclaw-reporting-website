@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 08 2026  04:40 PT",
+  "generated_at": "Sunday, March 08 2026  06:52 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 67526,
-      "change_pct": -0.85
+      "price": 67152,
+      "change_pct": -1.13
     },
     "ETH": {
-      "price": 1951.59,
-      "change_pct": -1.81
+      "price": 1944.57,
+      "change_pct": -1.89
     },
     "SOL": {
-      "price": 82.97,
-      "change_pct": -2.09
+      "price": 81.78,
+      "change_pct": -3.02
     },
     "BNB": {
-      "price": 620.47,
-      "change_pct": -1.21
+      "price": 616.03,
+      "change_pct": -1.8
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iranian projectiles continue to strike Gulf countries; Tehran says new leader appointed"
+      "title": "Iran continues to hit Gulf countries as Israeli strikes intensify; Tehran says new leader appointed"
     },
     {
       "source": "CNBC",
-      "title": "Will Iran war fallout end the bull market? When investors really need to worry"
+      "title": "Investors may be too complacent about mounting risks with the S&P 500 less than 4% from high"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My mother refuses to turn on the heat\u2019: Will America\u2019s war with Iran really push up our utility bills?"
+      "title": "\u2018I don\u2019t own a home\u2019: I\u2019m 62, unemployed and have $1.5 million for retirement. Can I afford to divorce my husband?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018He has been emotionally abusive\u2019: My father, 75, is on oxygen and destitute. What do I owe him?"
+      "title": "\u2018When he doesn\u2019t get money, he becomes angry\u2019: My brother has led a life of chaos and financial ruin. What is my moral obligation?"
     }
   ]
 }
