@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 08 2026  15:52 PT",
+  "generated_at": "Sunday, March 08 2026  16:49 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5134.4,
-      "change_pct": -0.47
+      "price": 5086.1,
+      "change_pct": -1.41
     },
     "Oil (WTI)": {
-      "price": 107.9,
-      "change_pct": 18.22
+      "price": 106.78,
+      "change_pct": 16.99
     },
     "Silver": {
-      "price": 82.89,
-      "change_pct": -1.69
+      "price": 81.71,
+      "change_pct": -3.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66147,
-      "change_pct": -1.67
+      "price": 66071,
+      "change_pct": -1.8
     },
     "ETH": {
-      "price": 1941.53,
-      "change_pct": -1.33
+      "price": 1938.29,
+      "change_pct": -1.6
     },
     "SOL": {
-      "price": 82.11,
-      "change_pct": -1.15
+      "price": 81.8,
+      "change_pct": -1.64
     },
     "BNB": {
-      "price": 614.36,
-      "change_pct": -0.92
+      "price": 612.09,
+      "change_pct": -1.3
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices top $100 per barrel as big Middle East producers cut output amid Iran war"
+      "title": "Oil surges above $100 a barrel; Trump says 'small price to pay' for defeating Iran"
     },
     {
       "source": "CNBC",
