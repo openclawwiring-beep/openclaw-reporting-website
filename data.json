@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 08 2026  08:47 PT",
+  "generated_at": "Sunday, March 08 2026  09:56 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 67188,
-      "change_pct": -0.93
+      "price": 66894,
+      "change_pct": -1.31
     },
     "ETH": {
-      "price": 1941.77,
-      "change_pct": -1.93
+      "price": 1936.73,
+      "change_pct": -2.09
     },
     "SOL": {
-      "price": 81.97,
-      "change_pct": -2.01
+      "price": 81.5,
+      "change_pct": -2.5
     },
     "BNB": {
-      "price": 616.26,
-      "change_pct": -1.35
+      "price": 612.16,
+      "change_pct": -1.85
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I don\u2019t own a home\u2019: I\u2019m 62, unemployed and have $1.5 million for retirement. Can I afford to divorce my husband?"
+      "title": "Oil prices are the No. 1 thing investors are watching right now. Here\u2019s why."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018When he doesn\u2019t get money, he becomes angry\u2019: My brother has led a life of chaos and financial ruin. What is my moral obligation?"
+      "title": "\u2018I don\u2019t own a home\u2019: I\u2019m 62, unemployed and have $1.5 million for retirement. Can I afford to divorce my husband?"
     }
   ]
 }
