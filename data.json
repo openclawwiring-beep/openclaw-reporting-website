@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 08 2026  06:52 PT",
+  "generated_at": "Sunday, March 08 2026  07:53 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 67152,
-      "change_pct": -1.13
+      "price": 67217,
+      "change_pct": -1.21
     },
     "ETH": {
-      "price": 1944.57,
-      "change_pct": -1.89
+      "price": 1943.37,
+      "change_pct": -2.16
     },
     "SOL": {
-      "price": 81.78,
-      "change_pct": -3.02
+      "price": 82.07,
+      "change_pct": -2.53
     },
     "BNB": {
-      "price": 616.03,
-      "change_pct": -1.8
+      "price": 616.67,
+      "change_pct": -1.67
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Investors may be too complacent about mounting risks with the S&P 500 less than 4% from high"
+      "title": "Energy prices will fall when U.S. destroys Iran's ability to attack tankers in Strait of Hormuz: Wright"
     },
     {
       "source": "MarketWatch",
