@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 08 2026  12:02 PT",
+  "generated_at": "Sunday, March 08 2026  12:53 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66825,
-      "change_pct": -1.1
+      "price": 67390,
+      "change_pct": 0.52
     },
     "ETH": {
-      "price": 1929.9,
-      "change_pct": -2.1
+      "price": 1966.09,
+      "change_pct": 0.6
     },
     "SOL": {
-      "price": 81.6,
-      "change_pct": -2.15
+      "price": 82.53,
+      "change_pct": -0.21
     },
     "BNB": {
-      "price": 613.7,
-      "change_pct": -1.3
+      "price": 619.3,
+      "change_pct": -0.04
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018He has been emotionally abusive\u2019: My father, 75, is on oxygen and destitute. What do I owe him?"
+      "title": "My mother will live in her second husband\u2019s house if he dies before her. Will his kids be hopping mad?"
     },
     {
       "source": "MarketWatch",
-      "title": "We have $13.5 million and 3 kids, but one is an addict. How do we fairly divide our estate?"
+      "title": "Oil prices are the No. 1 thing investors are watching right now. Here\u2019s why."
     }
   ]
 }
