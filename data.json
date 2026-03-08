@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 08 2026  09:56 PT",
+  "generated_at": "Sunday, March 08 2026  10:50 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66894,
-      "change_pct": -1.31
+      "price": 67096,
+      "change_pct": -1.16
     },
     "ETH": {
-      "price": 1936.73,
-      "change_pct": -2.09
+      "price": 1937.52,
+      "change_pct": -2.2
     },
     "SOL": {
-      "price": 81.5,
-      "change_pct": -2.5
+      "price": 81.57,
+      "change_pct": -2.85
     },
     "BNB": {
-      "price": 612.16,
-      "change_pct": -1.85
+      "price": 613.43,
+      "change_pct": -1.82
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices are the No. 1 thing investors are watching right now. Here\u2019s why."
+      "title": "\u2018He has been emotionally abusive\u2019: My father, 75, is on oxygen and destitute. What do I owe him?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I don\u2019t own a home\u2019: I\u2019m 62, unemployed and have $1.5 million for retirement. Can I afford to divorce my husband?"
+      "title": "We have $13.5 million and 3 kids, but one is an addict. How do we fairly divide our estate?"
     }
   ]
 }
