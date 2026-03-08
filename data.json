@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 08 2026  01:58 PT",
+  "generated_at": "Sunday, March 08 2026  03:54 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 67718,
-      "change_pct": -0.42
+      "price": 67896,
+      "change_pct": -0.02
     },
     "ETH": {
-      "price": 1963.41,
-      "change_pct": -1.17
+      "price": 1972.24,
+      "change_pct": -0.6
     },
     "SOL": {
-      "price": 83.2,
-      "change_pct": -1.64
+      "price": 83.74,
+      "change_pct": -0.97
     },
     "BNB": {
-      "price": 620.28,
-      "change_pct": -1.52
+      "price": 622.94,
+      "change_pct": -0.62
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iranian projectiles continue to strike Gulf countries' infrastructure"
+      "title": "Iranian projectiles continue to strike Gulf countries; Tehran says new leader appointed"
     },
     {
       "source": "CNBC",
