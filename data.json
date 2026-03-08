@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 08 2026  13:53 PT",
+  "generated_at": "Sunday, March 08 2026  14:46 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 67241,
-      "change_pct": -0.21
-    },
-    "ETH": {
-      "price": 1959.5,
-      "change_pct": -0.32
-    },
-    "SOL": {
-      "price": 82.55,
+      "price": 67005,
       "change_pct": -0.53
     },
+    "ETH": {
+      "price": 1953.97,
+      "change_pct": -0.63
+    },
+    "SOL": {
+      "price": 82.13,
+      "change_pct": -1.06
+    },
     "BNB": {
-      "price": 618.25,
-      "change_pct": -0.42
+      "price": 617.45,
+      "change_pct": -0.52
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran continues to hit Gulf countries as Israeli strikes intensify; Tehran says new leader appointed"
+      "title": "Iran names Ayatollah Khamenei's son, Mojtaba, as new supreme leader: Media reports"
     },
     {
       "source": "CNBC",
