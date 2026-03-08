@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 08 2026  12:53 PT",
+  "generated_at": "Sunday, March 08 2026  13:53 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 67390,
-      "change_pct": 0.52
-    },
-    "ETH": {
-      "price": 1966.09,
-      "change_pct": 0.6
-    },
-    "SOL": {
-      "price": 82.53,
+      "price": 67241,
       "change_pct": -0.21
     },
+    "ETH": {
+      "price": 1959.5,
+      "change_pct": -0.32
+    },
+    "SOL": {
+      "price": 82.55,
+      "change_pct": -0.53
+    },
     "BNB": {
-      "price": 619.3,
-      "change_pct": -0.04
+      "price": 618.25,
+      "change_pct": -0.42
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Energy prices will fall when U.S. destroys Iran's ability to attack tankers in Strait of Hormuz: Wright"
+      "title": "Trump vows legislative blockade until SAVE America voter-ID bill is passed"
     },
     {
       "source": "MarketWatch",
-      "title": "My mother will live in her second husband\u2019s house if he dies before her. Will his kids be hopping mad?"
+      "title": "These 8 drugs could help fight dementia \u2014 and they\u2019re already on the market"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices are the No. 1 thing investors are watching right now. Here\u2019s why."
+      "title": "Medicare Advantage growth is being driven by these niche \u2014 and lucrative \u2014 plans"
     }
   ]
 }
