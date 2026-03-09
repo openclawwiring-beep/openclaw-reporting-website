@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, March 09 2026  15:02 PT",
+  "generated_at": "Monday, March 09 2026  16:46 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5148.7,
-      "change_pct": 0.99
+      "price": 5152.2,
+      "change_pct": 1.06
     },
     "Oil (WTI)": {
-      "price": 85.08,
-      "change_pct": -26.48
+      "price": 89.04,
+      "change_pct": -23.06
     },
     "Silver": {
-      "price": 87.35,
-      "change_pct": 5.11
+      "price": 87.89,
+      "change_pct": 5.76
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69006,
-      "change_pct": 4.41
+      "price": 68538,
+      "change_pct": 3.57
     },
     "ETH": {
-      "price": 2029.72,
-      "change_pct": 5.22
+      "price": 1998.57,
+      "change_pct": 3.02
     },
     "SOL": {
-      "price": 86.03,
-      "change_pct": 5.49
+      "price": 85.25,
+      "change_pct": 4.09
     },
     "BNB": {
-      "price": 640.43,
-      "change_pct": 4.58
+      "price": 634.79,
+      "change_pct": 3.62
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says Iran 'war is very complete,' talks to Putin, reports say"
+      "title": "Trump says Iran war will end 'very soon,' predicts lower oil prices"
     },
     {
       "source": "CNBC",
       "title": "Oil tankers transiting Strait of Hormuz 'must be very careful,' Iran Foreign Ministry warns"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018I don\u2019t own a home\u2019: I\u2019m 62, unemployed and have $1.5 million for retirement. Can I afford to divorce my husband?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Trump announces sanctions relief to ease oil prices, says Iran war to end \u2018very soon\u2019"
     }
   ]
 }
