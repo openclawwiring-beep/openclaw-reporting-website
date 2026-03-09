@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, March 09 2026  14:04 PT",
+  "generated_at": "Monday, March 09 2026  15:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5144.5,
-      "change_pct": 0.91
+      "price": 5148.7,
+      "change_pct": 0.99
     },
     "Oil (WTI)": {
-      "price": 84.79,
-      "change_pct": -26.73
+      "price": 85.08,
+      "change_pct": -26.48
     },
     "Silver": {
-      "price": 87.24,
-      "change_pct": 4.98
+      "price": 87.35,
+      "change_pct": 5.11
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69066,
-      "change_pct": 2.74
+      "price": 69006,
+      "change_pct": 4.41
     },
     "ETH": {
-      "price": 2030.23,
-      "change_pct": 3.59
+      "price": 2029.72,
+      "change_pct": 5.22
     },
     "SOL": {
-      "price": 85.85,
-      "change_pct": 4.22
+      "price": 86.03,
+      "change_pct": 5.49
     },
     "BNB": {
-      "price": 639.01,
-      "change_pct": 3.46
+      "price": 640.43,
+      "change_pct": 4.58
     }
   },
   "headlines": [
@@ -59,14 +59,6 @@
     {
       "source": "CNBC",
       "title": "Oil tankers transiting Strait of Hormuz 'must be very careful,' Iran Foreign Ministry warns"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Older workers embrace job hopping \u2014 and it\u2019s good for their retirement prospects"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "HPE\u2019s stock rises as earnings benefit from two big AI trends"
     }
   ]
 }
