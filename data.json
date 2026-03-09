@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, March 09 2026  12:59 PT",
-  "market_status": "Live \u2014 as of 15:59 ET",
+  "generated_at": "Monday, March 09 2026  14:04 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6792.46,
-      "change_pct": 0.78
+      "price": 6795.99,
+      "change_pct": 0.83
     },
     "Nasdaq": {
-      "price": 22689.79,
-      "change_pct": 1.35
+      "price": 22695.95,
+      "change_pct": 1.38
     },
     "Dow Jones": {
-      "price": 47721.25,
-      "change_pct": 0.49
+      "price": 47740.8,
+      "change_pct": 0.5
     },
     "Russell 2000": {
-      "price": 2553.63,
+      "price": 2553.67,
       "change_pct": 1.12
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5144.3,
+      "price": 5144.5,
       "change_pct": 0.91
     },
     "Oil (WTI)": {
-      "price": 86.31,
-      "change_pct": -25.41
+      "price": 84.79,
+      "change_pct": -26.73
     },
     "Silver": {
-      "price": 86.45,
-      "change_pct": 4.03
+      "price": 87.24,
+      "change_pct": 4.98
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69025,
-      "change_pct": 2.57
+      "price": 69066,
+      "change_pct": 2.74
     },
     "ETH": {
-      "price": 2034.94,
-      "change_pct": 3.61
+      "price": 2030.23,
+      "change_pct": 3.59
     },
     "SOL": {
-      "price": 86.06,
-      "change_pct": 4.43
+      "price": 85.85,
+      "change_pct": 4.22
     },
     "BNB": {
-      "price": 638.14,
-      "change_pct": 3.14
+      "price": 639.01,
+      "change_pct": 3.46
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil tankers transiting Strait of Hormuz 'must be very careful,' Iran Foreign Ministry warns"
+      "title": "Trump says Iran 'war is very complete,' talks to Putin, reports say"
     },
     {
       "source": "CNBC",
-      "title": "Trump says Iran 'war is very complete,' talks to Putin: Reports"
+      "title": "Oil tankers transiting Strait of Hormuz 'must be very careful,' Iran Foreign Ministry warns"
     },
     {
       "source": "MarketWatch",
-      "title": "Gas prices could hit $4 this week, but avoid more \u2018apocalyptic\u2019 levels"
+      "title": "Older workers embrace job hopping \u2014 and it\u2019s good for their retirement prospects"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices pull back from highs near $120 a barrel on talk of G-7 emergency release of crude reserves"
+      "title": "HPE\u2019s stock rises as earnings benefit from two big AI trends"
     }
   ]
 }
