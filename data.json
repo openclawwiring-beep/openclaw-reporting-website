@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, March 09 2026  11:06 PT",
-  "market_status": "Live \u2014 as of 14:06 ET",
+  "generated_at": "Monday, March 09 2026  12:59 PT",
+  "market_status": "Live \u2014 as of 15:59 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6707.79,
-      "change_pct": -0.48
+      "price": 6792.46,
+      "change_pct": 0.78
     },
     "Nasdaq": {
-      "price": 22357.81,
-      "change_pct": -0.13
+      "price": 22689.79,
+      "change_pct": 1.35
     },
     "Dow Jones": {
-      "price": 47089.11,
-      "change_pct": -0.87
+      "price": 47721.25,
+      "change_pct": 0.49
     },
     "Russell 2000": {
-      "price": 2495.33,
-      "change_pct": -1.19
+      "price": 2553.63,
+      "change_pct": 1.12
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5107.7,
-      "change_pct": 0.19
+      "price": 5144.3,
+      "change_pct": 0.91
     },
     "Oil (WTI)": {
-      "price": 94.95,
-      "change_pct": -17.95
+      "price": 86.31,
+      "change_pct": -25.41
     },
     "Silver": {
-      "price": 84.72,
-      "change_pct": 1.95
+      "price": 86.45,
+      "change_pct": 4.03
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68430,
-      "change_pct": 2.15
+      "price": 69025,
+      "change_pct": 2.57
     },
     "ETH": {
-      "price": 2012.33,
-      "change_pct": 4.11
+      "price": 2034.94,
+      "change_pct": 3.61
     },
     "SOL": {
-      "price": 85.01,
-      "change_pct": 4.18
+      "price": 86.06,
+      "change_pct": 4.43
     },
     "BNB": {
-      "price": 636.32,
-      "change_pct": 3.76
+      "price": 638.14,
+      "change_pct": 3.14
     }
   },
   "headlines": [
@@ -58,7 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Oil prices fall below $100 per barrel on possible stockpile release to address supply disruption"
+      "title": "Trump says Iran 'war is very complete,' talks to Putin: Reports"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Gas prices could hit $4 this week, but avoid more \u2018apocalyptic\u2019 levels"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oil prices pull back from highs near $120 a barrel on talk of G-7 emergency release of crude reserves"
     }
   ]
 }
