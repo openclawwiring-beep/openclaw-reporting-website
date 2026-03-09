@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, March 09 2026  05:00 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, March 09 2026  08:43 PT",
+  "market_status": "Live \u2014 as of 11:43 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6740.02,
-      "change_pct": -1.33
+      "price": 6697.28,
+      "change_pct": -0.63
     },
     "Nasdaq": {
-      "price": 22387.68,
-      "change_pct": -1.59
+      "price": 22326.34,
+      "change_pct": -0.27
     },
     "Dow Jones": {
-      "price": 47501.55,
-      "change_pct": -0.95
+      "price": 47024.61,
+      "change_pct": -0.97
     },
     "Russell 2000": {
-      "price": 2525.3,
-      "change_pct": -2.33
+      "price": 2501.96,
+      "change_pct": -0.93
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5093.1,
-      "change_pct": -0.1
+      "price": 5106.3,
+      "change_pct": 0.16
     },
     "Oil (WTI)": {
-      "price": 102.5,
-      "change_pct": -11.42
+      "price": 95.61,
+      "change_pct": -17.38
     },
     "Silver": {
-      "price": 83.22,
-      "change_pct": 0.14
+      "price": 84.75,
+      "change_pct": 1.98
     }
   },
   "crypto": {
     "BTC": {
-      "price": 67771,
-      "change_pct": 0.38
+      "price": 68823,
+      "change_pct": 2.44
     },
     "ETH": {
-      "price": 1992.54,
-      "change_pct": 2.1
+      "price": 2021.42,
+      "change_pct": 4.14
     },
     "SOL": {
-      "price": 83.63,
-      "change_pct": 0.97
+      "price": 84.9,
+      "change_pct": 3.52
     },
     "BNB": {
-      "price": 627.59,
-      "change_pct": 1.17
+      "price": 636.43,
+      "change_pct": 3.27
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil surges above $100 as Gulf states cut back production; WTI nearly touched $120 a barrel at high"
+      "title": "Oil prices topped $100 per barrel on record supply disruption but are off session highs"
     },
     {
       "source": "CNBC",
-      "title": "Congressional Democrats demand reversal of Russian oil sales into India as energy prices soar"
+      "title": "Anthropic sues Trump administration over Pentagon blacklist"
     },
     {
       "source": "MarketWatch",
-      "title": "G-7 scrambles emergency meeting and could deploy unprecedented oil reserves as prices soar"
+      "title": "G-7 hasn\u2019t yet agreed on deploying unprecedented oil reserves as prices soar"
     },
     {
       "source": "MarketWatch",
-      "title": "Spiking oil prices basically end any chance of a market \u2018melt-up,\u2019 says this Wall Street veteran"
+      "title": "Why the TSA shutdown delays could last another week \u2014 and what it means for you"
     }
   ]
 }
