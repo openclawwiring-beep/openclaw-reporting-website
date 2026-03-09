@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 08 2026  22:13 PT",
+  "generated_at": "Monday, March 09 2026  00:57 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5093.9,
-      "change_pct": 0.12
+      "price": 5105.2,
+      "change_pct": 0.14
     },
     "Oil (WTI)": {
-      "price": 115.23,
-      "change_pct": 5.23
+      "price": 103.42,
+      "change_pct": -10.63
     },
     "Silver": {
-      "price": 82.85,
-      "change_pct": 2.56
+      "price": 83.43,
+      "change_pct": 0.39
     }
   },
   "crypto": {
     "BTC": {
-      "price": 67143,
-      "change_pct": 0.27
+      "price": 67493,
+      "change_pct": 0.32
     },
     "ETH": {
-      "price": 1979.88,
-      "change_pct": 1.83
+      "price": 1981.84,
+      "change_pct": 1.36
     },
     "SOL": {
-      "price": 83.3,
-      "change_pct": 1.32
+      "price": 83.13,
+      "change_pct": 0.29
     },
     "BNB": {
-      "price": 622.92,
-      "change_pct": 0.94
+      "price": 621.48,
+      "change_pct": 0.3
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. orders staff to leave Saudi Arabia as Iran war spreads and oil surges above $110"
+      "title": "U.S. orders staff to leave Saudi Arabia as Iran war spreads and oil surges above $100"
     },
     {
       "source": "CNBC",
-      "title": "Oil surges above $110 a barrel; Trump says 'small price to pay' for defeating Iran"
+      "title": "Oil prices pull back after breaching $110 as G7 nations consider tapping emergency reserves"
     },
     {
       "source": "MarketWatch",
