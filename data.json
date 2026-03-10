@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, March 10 2026  14:59 PT",
+  "generated_at": "Tuesday, March 10 2026  15:59 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5198.7,
+      "price": 5199.2,
       "change_pct": 0.63
     },
     "Oil (WTI)": {
-      "price": 86.39,
-      "change_pct": -4.02
+      "price": 88.44,
+      "change_pct": -1.74
     },
     "Silver": {
-      "price": 88.57,
-      "change_pct": 0.11
+      "price": 88.74,
+      "change_pct": 0.3
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69779,
-      "change_pct": 1.2
+      "price": 69706,
+      "change_pct": 1.54
     },
     "ETH": {
-      "price": 2028.3,
-      "change_pct": 0.08
+      "price": 2026.5,
+      "change_pct": 1.18
     },
     "SOL": {
-      "price": 85.61,
-      "change_pct": -0.41
+      "price": 85.52,
+      "change_pct": -0.23
     },
     "BNB": {
-      "price": 641.13,
-      "change_pct": 0.21
+      "price": 641.83,
+      "change_pct": 0.84
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Oracle\u2019s stock rises as AI demand spurs an earnings milestone not seen in 15 years"
+      "title": "New Social Security whistleblower alleges DOGE worker improperly accessed data and planned to share it"
     },
     {
       "source": "MarketWatch",
-      "title": "The NFL\u2019s Dolphins are paying a record $99.2 million to get a player off their team"
+      "title": "Medicare Advantage insurers are overcharging taxpayers and seniors billions of dollars. Why is anyone surprised?"
     }
   ]
 }
