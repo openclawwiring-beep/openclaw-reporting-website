@@ -1,72 +1,64 @@
 {
-  "generated_at": "Tuesday, March 10 2026  04:53 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, March 10 2026  07:36 PT",
+  "market_status": "Live \u2014 as of 10:36 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6795.99,
-      "change_pct": 0.83
+      "price": 6802.43,
+      "change_pct": 0.09
     },
     "Nasdaq": {
-      "price": 22695.95,
-      "change_pct": 1.38
+      "price": 22756.28,
+      "change_pct": 0.27
     },
     "Dow Jones": {
-      "price": 47740.8,
-      "change_pct": 0.5
+      "price": 47794.76,
+      "change_pct": 0.11
     },
     "Russell 2000": {
-      "price": 2553.67,
-      "change_pct": 1.12
+      "price": 2552.31,
+      "change_pct": -0.04
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5186.3,
-      "change_pct": 0.39
+      "price": 5217.0,
+      "change_pct": 0.98
     },
     "Oil (WTI)": {
-      "price": 88.58,
-      "change_pct": -1.59
+      "price": 87.04,
+      "change_pct": -3.3
     },
     "Silver": {
-      "price": 88.39,
-      "change_pct": -0.09
+      "price": 89.21,
+      "change_pct": 0.83
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70672,
-      "change_pct": 4.54
+      "price": 69953,
+      "change_pct": 1.11
     },
     "ETH": {
-      "price": 2064.89,
-      "change_pct": 3.78
+      "price": 2030.05,
+      "change_pct": 0.45
     },
     "SOL": {
-      "price": 86.79,
-      "change_pct": 3.81
+      "price": 85.86,
+      "change_pct": 0.78
     },
     "BNB": {
-      "price": 645.72,
-      "change_pct": 2.94
+      "price": 642.49,
+      "change_pct": 0.92
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Surging oil prices could wipe out benefits from Trump\u2019s \u2018big beautiful bill\u2019"
+      "title": "Surging oil prices could wipe out benefits from Trump's 'big beautiful bill'"
     },
     {
       "source": "CNBC",
-      "title": "Bill Ackman's Pershing Square files for IPO on the NYSE"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Bill Ackman tries again with plan for IPO of Pershing Square and a new fund"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Scientists behind COVID-19 vaccine will depart BioNTech"
+      "title": "February home sales see small rebound, but supply growth is 'sluggish'"
     }
   ]
 }
