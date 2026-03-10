@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, March 10 2026  03:06 PT",
+  "generated_at": "Tuesday, March 10 2026  04:53 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5193.8,
-      "change_pct": 0.53
+      "price": 5186.3,
+      "change_pct": 0.39
     },
     "Oil (WTI)": {
-      "price": 86.75,
-      "change_pct": -3.62
+      "price": 88.58,
+      "change_pct": -1.59
     },
     "Silver": {
-      "price": 89.5,
-      "change_pct": 1.16
+      "price": 88.39,
+      "change_pct": -0.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70993,
-      "change_pct": 4.39
+      "price": 70672,
+      "change_pct": 4.54
     },
     "ETH": {
-      "price": 2066.82,
-      "change_pct": 3.17
+      "price": 2064.89,
+      "change_pct": 3.78
     },
     "SOL": {
-      "price": 87.29,
+      "price": 86.79,
       "change_pct": 3.81
     },
     "BNB": {
-      "price": 646.86,
-      "change_pct": 3.05
+      "price": 645.72,
+      "change_pct": 2.94
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil extends slide as investors assess Trump comments on Iran war, Strait of Hormuz"
+      "title": "Surging oil prices could wipe out benefits from Trump\u2019s \u2018big beautiful bill\u2019"
     },
     {
       "source": "CNBC",
-      "title": "Iran defends strikes on Gulf neighbors. They say a 'huge trust gap' will last for decades"
+      "title": "Bill Ackman's Pershing Square files for IPO on the NYSE"
     },
     {
       "source": "MarketWatch",
-      "title": "Ozempic maker Novo Nordisk gets another downgrade. The end\u2019s in sight for its duopoly status, says TD Cowen."
+      "title": "Bill Ackman tries again with plan for IPO of Pershing Square and a new fund"
     },
     {
       "source": "MarketWatch",
-      "title": "European bonds join Treasury rally as lower oil prices ease inflation fears"
+      "title": "Scientists behind COVID-19 vaccine will depart BioNTech"
     }
   ]
 }
