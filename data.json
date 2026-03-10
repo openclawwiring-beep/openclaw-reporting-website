@@ -1,64 +1,72 @@
 {
-  "generated_at": "Tuesday, March 10 2026  07:36 PT",
-  "market_status": "Live \u2014 as of 10:36 ET",
+  "generated_at": "Tuesday, March 10 2026  10:35 PT",
+  "market_status": "Live \u2014 as of 13:35 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6802.43,
-      "change_pct": 0.09
+      "price": 6833.31,
+      "change_pct": 0.55
     },
     "Nasdaq": {
-      "price": 22756.28,
-      "change_pct": 0.27
+      "price": 22863.29,
+      "change_pct": 0.74
     },
     "Dow Jones": {
-      "price": 47794.76,
-      "change_pct": 0.11
+      "price": 48123.38,
+      "change_pct": 0.8
     },
     "Russell 2000": {
-      "price": 2552.31,
-      "change_pct": -0.04
+      "price": 2584.09,
+      "change_pct": 1.2
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5217.0,
-      "change_pct": 0.98
+      "price": 5237.7,
+      "change_pct": 1.38
     },
     "Oil (WTI)": {
-      "price": 87.04,
-      "change_pct": -3.3
+      "price": 78.31,
+      "change_pct": -13.0
     },
     "Silver": {
-      "price": 89.21,
-      "change_pct": 0.83
+      "price": 89.69,
+      "change_pct": 1.37
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69953,
-      "change_pct": 1.11
+      "price": 71186,
+      "change_pct": 3.6
     },
     "ETH": {
-      "price": 2030.05,
-      "change_pct": 0.45
+      "price": 2078.07,
+      "change_pct": 2.81
     },
     "SOL": {
-      "price": 85.86,
-      "change_pct": 0.78
+      "price": 88.42,
+      "change_pct": 4.12
     },
     "BNB": {
-      "price": 642.49,
-      "change_pct": 0.92
+      "price": 647.74,
+      "change_pct": 1.53
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Surging oil prices could wipe out benefits from Trump's 'big beautiful bill'"
+      "title": "Gas prices pass $3.50 per gallon to highest level since 2024 amid U.S.-Iran war"
     },
     {
       "source": "CNBC",
-      "title": "February home sales see small rebound, but supply growth is 'sluggish'"
+      "title": "Russia told Trump it has not shared intelligence with Iran during war, Witkoff says"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "10-year Treasury yield trades below key level after a drop in oil prices eased inflation fears"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oil futures drop 10%, with energy ministers set to consider release of emergency crude reserves"
     }
   ]
 }
