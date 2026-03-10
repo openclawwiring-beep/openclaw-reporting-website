@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, March 10 2026  12:54 PT",
-  "market_status": "Live \u2014 as of 15:54 ET",
+  "generated_at": "Tuesday, March 10 2026  14:02 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6776.94,
-      "change_pct": -0.28
+      "price": 6781.48,
+      "change_pct": -0.21
     },
     "Nasdaq": {
-      "price": 22663.29,
-      "change_pct": -0.14
+      "price": 22697.1,
+      "change_pct": 0.01
     },
     "Dow Jones": {
-      "price": 47698.36,
-      "change_pct": -0.09
+      "price": 47706.51,
+      "change_pct": -0.07
     },
     "Russell 2000": {
-      "price": 2551.85,
-      "change_pct": -0.06
+      "price": 2548.08,
+      "change_pct": -0.22
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5197.6,
-      "change_pct": 0.6
+      "price": 5202.2,
+      "change_pct": 0.69
     },
     "Oil (WTI)": {
-      "price": 85.86,
-      "change_pct": -4.61
+      "price": 86.66,
+      "change_pct": -3.72
     },
     "Silver": {
-      "price": 88.52,
-      "change_pct": 0.05
+      "price": 88.81,
+      "change_pct": 0.37
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69979,
-      "change_pct": 1.47
+      "price": 70247,
+      "change_pct": 1.7
     },
     "ETH": {
-      "price": 2035.31,
-      "change_pct": 0.16
+      "price": 2042.44,
+      "change_pct": 0.56
     },
     "SOL": {
-      "price": 86.01,
-      "change_pct": -0.27
+      "price": 86.2,
+      "change_pct": 0.23
     },
     "BNB": {
-      "price": 641.18,
-      "change_pct": 0.53
+      "price": 644.08,
+      "change_pct": 0.78
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Kevin Warsh faces an economic 'perfect storm' as he waits to take over as Fed chair"
+      "title": "Thom Tillis refuses to budge on blocking Fed chair pick Kevin Warsh confirmation"
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla and Google team up to push their own fix for rising electricity bills"
+      "title": "Trump\u2019s new world order is taxing your portfolio as diplomacy fades and uncertainty reigns"
     },
     {
       "source": "MarketWatch",
-      "title": "Amazon joins Meta, Google in jumbo bond club with up to $42 billion issuance"
+      "title": "\u2018Cruising used to feel special.\u2019 Cruise lines were struggling even before the Iran conflict."
     }
   ]
 }
