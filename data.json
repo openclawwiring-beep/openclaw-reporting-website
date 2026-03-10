@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, March 09 2026  16:46 PT",
+  "generated_at": "Monday, March 09 2026  22:01 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5152.2,
-      "change_pct": 1.06
+      "price": 5171.8,
+      "change_pct": -0.17
     },
     "Oil (WTI)": {
-      "price": 89.04,
-      "change_pct": -23.06
+      "price": 90.72,
+      "change_pct": 6.54
     },
     "Silver": {
-      "price": 87.89,
-      "change_pct": 5.76
+      "price": 88.66,
+      "change_pct": -0.91
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68538,
-      "change_pct": 3.57
+      "price": 70049,
+      "change_pct": 4.33
     },
     "ETH": {
-      "price": 1998.57,
-      "change_pct": 3.02
+      "price": 2045.03,
+      "change_pct": 3.23
     },
     "SOL": {
-      "price": 85.25,
-      "change_pct": 4.09
+      "price": 86.39,
+      "change_pct": 3.56
     },
     "BNB": {
-      "price": 634.79,
-      "change_pct": 3.62
+      "price": 644.01,
+      "change_pct": 3.31
     }
   },
   "headlines": [
@@ -58,11 +58,11 @@
     },
     {
       "source": "CNBC",
-      "title": "Oil tankers transiting Strait of Hormuz 'must be very careful,' Iran Foreign Ministry warns"
+      "title": "Oil extends slide as investors assess Trump comments on Iran war, Strait of Hormuz"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I don\u2019t own a home\u2019: I\u2019m 62, unemployed and have $1.5 million for retirement. Can I afford to divorce my husband?"
+      "title": "Oracle faces a high bar for earnings as investors look for an AI payoff"
     },
     {
       "source": "MarketWatch",
