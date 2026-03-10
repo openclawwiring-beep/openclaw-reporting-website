@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, March 10 2026  10:35 PT",
-  "market_status": "Live \u2014 as of 13:35 ET",
+  "generated_at": "Tuesday, March 10 2026  12:54 PT",
+  "market_status": "Live \u2014 as of 15:54 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6833.31,
-      "change_pct": 0.55
+      "price": 6776.94,
+      "change_pct": -0.28
     },
     "Nasdaq": {
-      "price": 22863.29,
-      "change_pct": 0.74
+      "price": 22663.29,
+      "change_pct": -0.14
     },
     "Dow Jones": {
-      "price": 48123.38,
-      "change_pct": 0.8
+      "price": 47698.36,
+      "change_pct": -0.09
     },
     "Russell 2000": {
-      "price": 2584.09,
-      "change_pct": 1.2
+      "price": 2551.85,
+      "change_pct": -0.06
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5237.7,
-      "change_pct": 1.38
+      "price": 5197.6,
+      "change_pct": 0.6
     },
     "Oil (WTI)": {
-      "price": 78.31,
-      "change_pct": -13.0
+      "price": 85.86,
+      "change_pct": -4.61
     },
     "Silver": {
-      "price": 89.69,
-      "change_pct": 1.37
+      "price": 88.52,
+      "change_pct": 0.05
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71186,
-      "change_pct": 3.6
+      "price": 69979,
+      "change_pct": 1.47
     },
     "ETH": {
-      "price": 2078.07,
-      "change_pct": 2.81
+      "price": 2035.31,
+      "change_pct": 0.16
     },
     "SOL": {
-      "price": 88.42,
-      "change_pct": 4.12
+      "price": 86.01,
+      "change_pct": -0.27
     },
     "BNB": {
-      "price": 647.74,
-      "change_pct": 1.53
+      "price": 641.18,
+      "change_pct": 0.53
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Gas prices pass $3.50 per gallon to highest level since 2024 amid U.S.-Iran war"
+      "title": "Oil retreats even after Energy Secretary wrongly claims Navy escorted tanker through Strait of Hormuz"
     },
     {
       "source": "CNBC",
-      "title": "Russia told Trump it has not shared intelligence with Iran during war, Witkoff says"
+      "title": "Kevin Warsh faces an economic 'perfect storm' as he waits to take over as Fed chair"
     },
     {
       "source": "MarketWatch",
-      "title": "10-year Treasury yield trades below key level after a drop in oil prices eased inflation fears"
+      "title": "Tesla and Google team up to push their own fix for rising electricity bills"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil futures drop 10%, with energy ministers set to consider release of emergency crude reserves"
+      "title": "Amazon joins Meta, Google in jumbo bond club with up to $42 billion issuance"
     }
   ]
 }
