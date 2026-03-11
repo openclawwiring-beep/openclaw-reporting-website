@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, March 11 2026  10:38 PT",
-  "market_status": "Live \u2014 as of 13:38 ET",
+  "generated_at": "Wednesday, March 11 2026  12:53 PT",
+  "market_status": "Live \u2014 as of 15:53 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6747.41,
-      "change_pct": -0.5
+      "price": 6772.55,
+      "change_pct": -0.13
     },
     "Nasdaq": {
-      "price": 22606.56,
-      "change_pct": -0.4
+      "price": 22703.26,
+      "change_pct": 0.03
     },
     "Dow Jones": {
-      "price": 47242.19,
-      "change_pct": -0.98
+      "price": 47421.48,
+      "change_pct": -0.6
     },
     "Russell 2000": {
-      "price": 2535.84,
-      "change_pct": -0.48
+      "price": 2538.2,
+      "change_pct": -0.39
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5179.6,
-      "change_pct": -0.6
+      "price": 5186.0,
+      "change_pct": -0.48
     },
     "Oil (WTI)": {
-      "price": 86.76,
-      "change_pct": 4.72
+      "price": 87.74,
+      "change_pct": 5.9
     },
     "Silver": {
-      "price": 85.62,
-      "change_pct": -3.12
+      "price": 86.07,
+      "change_pct": -2.62
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70772,
-      "change_pct": 0.19
+      "price": 70704,
+      "change_pct": 1.0
     },
     "ETH": {
-      "price": 2068.19,
-      "change_pct": 0.25
+      "price": 2076.43,
+      "change_pct": 2.01
     },
     "SOL": {
-      "price": 87.44,
-      "change_pct": -0.79
+      "price": 87.26,
+      "change_pct": 1.46
     },
     "BNB": {
-      "price": 652.04,
-      "change_pct": 0.76
+      "price": 653.19,
+      "change_pct": 1.87
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Three cargo ships struck off Iran's coast, UK says, including one in Strait of Hormuz"
+      "title": "Iran war: Trump says he's not worried about domestic terror attack"
     },
     {
       "source": "MarketWatch",
-      "title": "Why defense stocks are the market\u2019s newest safe havens \u2014 and this ETF is a pure play"
+      "title": "Why the IEA\u2019s largest-ever release of oil reserves is pushing up crude prices"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My mother refuses to turn on the heat\u2019: Will America\u2019s war with Iran really push up our utility bills?"
+      "title": "There\u2019s no policy response that can stop the rise in oil prices: Carlyle\u2019s Currie"
     }
   ]
 }
