@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, March 10 2026  16:54 PT",
+  "generated_at": "Tuesday, March 10 2026  22:03 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5199.5,
-      "change_pct": 0.64
+      "price": 5210.8,
+      "change_pct": -0.08
     },
     "Oil (WTI)": {
-      "price": 85.92,
-      "change_pct": -4.54
+      "price": 83.07,
+      "change_pct": -0.73
     },
     "Silver": {
-      "price": 88.69,
-      "change_pct": 0.25
+      "price": 88.36,
+      "change_pct": -0.34
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69912,
-      "change_pct": 2.12
+      "price": 70117,
+      "change_pct": -0.1
     },
     "ETH": {
-      "price": 2036.05,
-      "change_pct": 2.19
+      "price": 2038.97,
+      "change_pct": -0.45
     },
     "SOL": {
-      "price": 85.73,
-      "change_pct": 0.79
+      "price": 86.68,
+      "change_pct": 0.11
     },
     "BNB": {
-      "price": 641.86,
-      "change_pct": 1.18
+      "price": 644.46,
+      "change_pct": 0.06
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil retreats even after Energy Secretary wrongly claims Navy escorted tanker through Strait of Hormuz"
+      "title": "U.S. forces sink 16 Iranian minelayers as reports say Tehran is mining the Strait of Hormuz"
     },
     {
       "source": "CNBC",
-      "title": "Tillis maintains blockade on Fed pick Kevin Warsh over Powell probe"
+      "title": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway"
     },
     {
       "source": "MarketWatch",
-      "title": "Amazon joins Meta, Google in jumbo bond club with up to $42 billion issuance"
+      "title": "Obamacare enrollment is plunging as costs soar, pushing down stocks like Centene"
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla and Google team up to push their own fix for rising electricity bills"
+      "title": "What\u2019s next for crude-oil prices as wealthy nations consider a release of their reserves"
     }
   ]
 }
