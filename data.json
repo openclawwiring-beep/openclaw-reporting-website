@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, March 10 2026  22:03 PT",
+  "generated_at": "Wednesday, March 11 2026  00:54 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5210.8,
-      "change_pct": -0.08
+      "price": 5199.0,
+      "change_pct": -0.23
     },
     "Oil (WTI)": {
-      "price": 83.07,
-      "change_pct": -0.73
+      "price": 85.72,
+      "change_pct": 3.46
     },
     "Silver": {
-      "price": 88.36,
-      "change_pct": -0.34
+      "price": 87.0,
+      "change_pct": -1.56
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70117,
-      "change_pct": -0.1
+      "price": 69699,
+      "change_pct": -0.99
     },
     "ETH": {
-      "price": 2038.97,
-      "change_pct": -0.45
+      "price": 2014.3,
+      "change_pct": -1.87
     },
     "SOL": {
-      "price": 86.68,
-      "change_pct": 0.11
+      "price": 85.44,
+      "change_pct": -1.42
     },
     "BNB": {
-      "price": 644.46,
-      "change_pct": 0.06
+      "price": 640.47,
+      "change_pct": -0.63
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. forces sink 16 Iranian minelayers as reports say Tehran is mining the Strait of Hormuz"
+      "title": "Cargo ship struck by a projectile in the Strait of Hormuz, UK says"
     },
     {
       "source": "CNBC",
-      "title": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway"
+      "title": "U.S. forces sink 16 Iranian minelayers as reports say Tehran is mining the Strait of Hormuz"
     },
     {
       "source": "MarketWatch",
