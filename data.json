@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, March 11 2026  16:00 PT",
+  "generated_at": "Wednesday, March 11 2026  16:54 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5167.4,
-      "change_pct": -0.84
+      "price": 5155.2,
+      "change_pct": -1.07
     },
     "Oil (WTI)": {
-      "price": 91.71,
-      "change_pct": 10.69
+      "price": 94.31,
+      "change_pct": 13.83
     },
     "Silver": {
-      "price": 85.33,
-      "change_pct": -3.45
+      "price": 85.13,
+      "change_pct": -3.68
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70340,
-      "change_pct": 0.91
+      "price": 70236,
+      "change_pct": 0.48
     },
     "ETH": {
-      "price": 2061.75,
-      "change_pct": 1.68
+      "price": 2052.02,
+      "change_pct": 0.86
     },
     "SOL": {
-      "price": 87.04,
-      "change_pct": 1.78
+      "price": 86.65,
+      "change_pct": 1.05
     },
     "BNB": {
-      "price": 652.49,
-      "change_pct": 1.65
+      "price": 651.54,
+      "change_pct": 1.54
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran war: Trump says he'll tap Strategic Petroleum Reserve to cut energy costs"
+      "title": "Iran war: Trump will release 172 million barrels of oil from Strategic Petroleum Reserve"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures slip as traders watch oil prices, Iran war for effect on economy: Live updates"
+      "title": "Trump administration launches Section 301 trade probes into Mexico, China, EU, others"
     },
     {
       "source": "MarketWatch",
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I didn\u2019t ask a man to rear-end my car\u2019: Social Security is replacing my disability benefits. Will the fund run out of money?"
+      "title": "Uber\u2019s stock rises as new Amazon robotaxi partnership is \u2018a positive surprise\u2019"
     }
   ]
 }
