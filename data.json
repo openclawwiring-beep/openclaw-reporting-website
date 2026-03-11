@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, March 11 2026  04:53 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, March 11 2026  07:38 PT",
+  "market_status": "Live \u2014 as of 10:38 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6781.48,
-      "change_pct": -0.21
+      "price": 6780.81,
+      "change_pct": -0.01
     },
     "Nasdaq": {
-      "price": 22697.1,
-      "change_pct": 0.01
+      "price": 22754.34,
+      "change_pct": 0.25
     },
     "Dow Jones": {
-      "price": 47706.51,
-      "change_pct": -0.07
+      "price": 47490.62,
+      "change_pct": -0.46
     },
     "Russell 2000": {
-      "price": 2548.08,
-      "change_pct": -0.22
+      "price": 2545.24,
+      "change_pct": -0.11
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5196.0,
+      "price": 5196.1,
       "change_pct": -0.29
     },
     "Oil (WTI)": {
-      "price": 86.53,
-      "change_pct": 4.44
+      "price": 86.54,
+      "change_pct": 4.45
     },
     "Silver": {
-      "price": 86.5,
-      "change_pct": -2.14
+      "price": 85.66,
+      "change_pct": -3.08
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69350,
-      "change_pct": -1.87
+      "price": 70647,
+      "change_pct": 1.0
     },
     "ETH": {
-      "price": 2019.98,
-      "change_pct": -2.15
+      "price": 2063.69,
+      "change_pct": 1.62
     },
     "SOL": {
-      "price": 84.62,
-      "change_pct": -2.54
+      "price": 86.51,
+      "change_pct": 0.76
     },
     "BNB": {
-      "price": 637.0,
-      "change_pct": -1.35
+      "price": 648.96,
+      "change_pct": 1.03
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Three cargo ships struck off Iran's coast, UK says, including one in Strait of Hormuz"
+      "title": "IEA agrees to release record 400 million barrels of oil to address Iran war supply disruption"
     },
     {
       "source": "CNBC",
-      "title": "Rheinmetall\u00a0sees sales growth of up to 45% in 2026, says it's in 'prime position' to arm the U.S. amid war in Iran"
+      "title": "Three cargo ships struck off Iran's coast, UK says, including one in Strait of Hormuz"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I didn\u2019t ask a man to rear-end my car\u2019: Social Security is replacing my disability benefits. Will the fund run out of money?"
+      "title": "Uber\u2019s stock rises as new Amazon robotaxi partnership is \u2018a positive surprise\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "Medicare Advantage is facing a reality check \u2014 and seniors are the ones who will pay for it"
+      "title": "Oil futures edge up but stay under $100 a barrel as IEA unveils largest-ever release of reserves"
     }
   ]
 }
