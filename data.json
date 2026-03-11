@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, March 11 2026  14:03 PT",
+  "generated_at": "Wednesday, March 11 2026  15:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5185.6,
-      "change_pct": -0.49
+      "price": 5183.9,
+      "change_pct": -0.52
     },
     "Oil (WTI)": {
-      "price": 88.44,
-      "change_pct": 6.75
+      "price": 88.41,
+      "change_pct": 6.71
     },
     "Silver": {
-      "price": 85.99,
-      "change_pct": -2.71
+      "price": 85.91,
+      "change_pct": -2.8
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70685,
-      "change_pct": 0.61
+      "price": 70759,
+      "change_pct": 1.4
     },
     "ETH": {
-      "price": 2068.19,
-      "change_pct": 1.27
+      "price": 2073.41,
+      "change_pct": 2.23
     },
     "SOL": {
-      "price": 87.34,
-      "change_pct": 1.33
+      "price": 87.51,
+      "change_pct": 2.12
     },
     "BNB": {
-      "price": 652.97,
-      "change_pct": 1.38
+      "price": 654.22,
+      "change_pct": 1.95
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "U.S. deficit tops $1 trillion through February but runs below year-ago pace"
+      "title": "Iran war: Trump says he'll tap Strategic Petroleum Reserve to cut energy costs"
     },
     {
       "source": "MarketWatch",
-      "title": "Why the IEA\u2019s largest-ever release of oil reserves is pushing up crude prices"
+      "title": "\u2018I didn\u2019t ask a man to rear-end my car\u2019: Social Security is replacing my disability benefits. Will the fund run out of money?"
     },
     {
       "source": "MarketWatch",
-      "title": "The 70% odds that say your portfolio isn\u2019t ready for the Iran conflict\u2019s escalation"
+      "title": "\u2018I have lost nearly everything\u2019: My mother\u2019s trustee changed her $1 million will and my attorney fleeced me. What can I do?"
     }
   ]
 }
