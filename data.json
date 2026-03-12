@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, March 11 2026  16:54 PT",
+  "generated_at": "Wednesday, March 11 2026  22:08 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5155.2,
-      "change_pct": -1.07
+      "price": 5145.6,
+      "change_pct": -0.29
     },
     "Oil (WTI)": {
-      "price": 94.31,
-      "change_pct": 13.83
+      "price": 94.99,
+      "change_pct": 2.06
     },
     "Silver": {
-      "price": 85.13,
-      "change_pct": -3.68
+      "price": 84.56,
+      "change_pct": -1.37
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70236,
-      "change_pct": 0.48
+      "price": 69385,
+      "change_pct": -0.94
     },
     "ETH": {
-      "price": 2052.02,
-      "change_pct": 0.86
+      "price": 2023.9,
+      "change_pct": -0.65
     },
     "SOL": {
-      "price": 86.65,
-      "change_pct": 1.05
+      "price": 85.14,
+      "change_pct": -1.84
     },
     "BNB": {
-      "price": 651.54,
-      "change_pct": 1.54
+      "price": 643.91,
+      "change_pct": -0.02
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran war: Trump will release 172 million barrels of oil from Strategic Petroleum Reserve"
+      "title": "Brent crude hits $100 a barrel as reserve release plans fail to ease Iran war-led supply worries"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why the IEA\u2019s largest-ever release of oil reserves is pushing up crude prices"
+      "title": "Dow futures down more than 500 points as Brent crude again tops $100 a barrel"
     },
     {
       "source": "MarketWatch",
-      "title": "Uber\u2019s stock rises as new Amazon robotaxi partnership is \u2018a positive surprise\u2019"
+      "title": "Why the IEA\u2019s largest-ever release of oil reserves is pushing up crude prices"
     }
   ]
 }
