@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, March 12 2026  15:02 PT",
+  "generated_at": "Thursday, March 12 2026  16:03 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5084.1,
-      "change_pct": -1.44
+      "price": 5094.9,
+      "change_pct": -1.23
     },
     "Oil (WTI)": {
-      "price": 96.39,
-      "change_pct": 2.01
+      "price": 96.67,
+      "change_pct": 2.31
     },
     "Silver": {
-      "price": 83.96,
-      "change_pct": -1.3
+      "price": 84.26,
+      "change_pct": -0.94
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70291,
-      "change_pct": -0.61
+      "price": 70188,
+      "change_pct": -0.3
     },
     "ETH": {
-      "price": 2063.71,
-      "change_pct": -0.45
+      "price": 2065.6,
+      "change_pct": 0.11
     },
     "SOL": {
-      "price": 86.48,
-      "change_pct": -1.17
+      "price": 86.19,
+      "change_pct": -0.98
     },
     "BNB": {
-      "price": 651.78,
-      "change_pct": -0.36
+      "price": 651.31,
+      "change_pct": -0.19
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Iran War: U.S. Navy will escort oil tankers through Strait of Hormuz when 'militarily possible,' Bessent tells Sky News"
+      "title": "Adobe CEO Shantanu Narayen says he will step down after company installs successor"
     },
     {
       "source": "MarketWatch",
-      "title": "Ulta Beauty says it\u2019s \u2018increasingly mindful\u2019 of effects that global conflicts have on shoppers, as profit forecast sinks stock"
+      "title": "Shoppers seeking a tariff refund from retailers are likely out of luck"
     },
     {
       "source": "MarketWatch",
-      "title": "A key gauge of inflation expectations just logged its highest reading in almost 4 years"
+      "title": "Trump is scrambling to quell the rise of $100 oil. But the market keeps circling one answer."
     }
   ]
 }
