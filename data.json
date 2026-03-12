@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, March 12 2026  07:38 PT",
-  "market_status": "Live \u2014 as of 10:38 ET",
+  "generated_at": "Thursday, March 12 2026  10:38 PT",
+  "market_status": "Live \u2014 as of 13:38 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6685.08,
-      "change_pct": -1.32
+      "price": 6703.95,
+      "change_pct": -1.05
     },
     "Nasdaq": {
-      "price": 22318.12,
-      "change_pct": -1.75
+      "price": 22419.25,
+      "change_pct": -1.31
     },
     "Dow Jones": {
-      "price": 46739.14,
-      "change_pct": -1.42
+      "price": 46902.58,
+      "change_pct": -1.08
     },
     "Russell 2000": {
-      "price": 2502.66,
-      "change_pct": -1.57
+      "price": 2505.64,
+      "change_pct": -1.46
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5158.2,
-      "change_pct": 0.0
+      "price": 5125.3,
+      "change_pct": -0.64
     },
     "Oil (WTI)": {
-      "price": 95.58,
-      "change_pct": 1.15
+      "price": 95.04,
+      "change_pct": 0.58
     },
     "Silver": {
-      "price": 85.94,
-      "change_pct": 1.03
+      "price": 85.0,
+      "change_pct": -0.07
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69849,
-      "change_pct": -1.38
+      "price": 70365,
+      "change_pct": -0.42
     },
     "ETH": {
-      "price": 2053.21,
-      "change_pct": -0.28
+      "price": 2065.29,
+      "change_pct": -0.5
     },
     "SOL": {
-      "price": 86.23,
-      "change_pct": -0.53
+      "price": 86.62,
+      "change_pct": -0.77
     },
     "BNB": {
-      "price": 649.32,
-      "change_pct": 0.17
+      "price": 651.28,
+      "change_pct": -0.04
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Energy Secretary Wright says U.S. 'not ready' to escort oil tankers through Strait of Hormuz yet"
+      "title": "Trump tariffs: Martin Heinrich bill would give families tax rebate for higher import costs"
     },
     {
       "source": "MarketWatch",
-      "title": "Deutsche Bank says its private-credit exposure has increased to $30 billion \u2014 one of the highest of Wall Street banks"
+      "title": "A key inflation gauge just logged its highest reading in almost 4 years"
     },
     {
       "source": "MarketWatch",
-      "title": "Jobless claims show \u2018sluggish but generally stable\u2019 labor market"
+      "title": "\u2018I have lost nearly everything\u2019: My mother\u2019s trustee changed her $1 million will and my attorney fleeced me. What can I do?"
     }
   ]
 }
