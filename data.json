@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, March 12 2026  12:55 PT",
-  "market_status": "Live \u2014 as of 15:55 ET",
+  "generated_at": "Thursday, March 12 2026  14:06 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6676.04,
-      "change_pct": -1.46
+      "price": 6672.62,
+      "change_pct": -1.52
     },
     "Nasdaq": {
-      "price": 22322.7,
-      "change_pct": -1.73
+      "price": 22311.98,
+      "change_pct": -1.78
     },
     "Dow Jones": {
-      "price": 46703.12,
-      "change_pct": -1.5
+      "price": 46677.85,
+      "change_pct": -1.56
     },
     "Russell 2000": {
-      "price": 2495.65,
-      "change_pct": -1.85
+      "price": 2488.99,
+      "change_pct": -2.12
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5097.7,
-      "change_pct": -1.17
+      "price": 5085.0,
+      "change_pct": -1.42
     },
     "Oil (WTI)": {
-      "price": 95.74,
-      "change_pct": 1.32
+      "price": 96.24,
+      "change_pct": 1.85
     },
     "Silver": {
-      "price": 84.78,
-      "change_pct": -0.34
+      "price": 83.97,
+      "change_pct": -1.28
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70411,
-      "change_pct": -0.34
+      "price": 70303,
+      "change_pct": -0.57
     },
     "ETH": {
-      "price": 2070.57,
-      "change_pct": -0.18
+      "price": 2065.41,
+      "change_pct": -0.22
     },
     "SOL": {
-      "price": 86.78,
-      "change_pct": -0.55
+      "price": 86.5,
+      "change_pct": -0.99
     },
     "BNB": {
-      "price": 651.12,
-      "change_pct": -0.32
+      "price": 650.52,
+      "change_pct": -0.38
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Strait of Hormuz must remain closed as 'tool to pressure enemy,' Iran's new supreme leader says"
+      "title": "Markets' hopes for Fed interest rate cuts are rapidly fading away"
     },
     {
       "source": "CNBC",
-      "title": "Iran War: U.S. Navy will escort vessels through Strait of Hormuz as soon as 'militarily possible,' Bessent tells Sky News"
+      "title": "Iran War: U.S. Navy will escort oil tankers through Strait of Hormuz when 'militarily possible,' Bessent tells Sky News"
     },
     {
       "source": "MarketWatch",
-      "title": "Investor who lost everything in private credit wishes several thousand more people had warned him of the risks"
+      "title": "Shoppers seeking a tariff refund from retailers are likely out of luck"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. Treasurys look like the bad boyfriend at the start of a Hallmark movie, finance expert says"
+      "title": "Howard Schultz joins \u2018Billionaire Bunker\u2019 residents Zuckerberg and Bezos in move to Florida"
     }
   ]
 }
