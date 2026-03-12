@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, March 12 2026  10:38 PT",
-  "market_status": "Live \u2014 as of 13:38 ET",
+  "generated_at": "Thursday, March 12 2026  12:55 PT",
+  "market_status": "Live \u2014 as of 15:55 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6703.95,
-      "change_pct": -1.05
+      "price": 6676.04,
+      "change_pct": -1.46
     },
     "Nasdaq": {
-      "price": 22419.25,
-      "change_pct": -1.31
+      "price": 22322.7,
+      "change_pct": -1.73
     },
     "Dow Jones": {
-      "price": 46902.58,
-      "change_pct": -1.08
+      "price": 46703.12,
+      "change_pct": -1.5
     },
     "Russell 2000": {
-      "price": 2505.64,
-      "change_pct": -1.46
+      "price": 2495.65,
+      "change_pct": -1.85
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5125.3,
-      "change_pct": -0.64
+      "price": 5097.7,
+      "change_pct": -1.17
     },
     "Oil (WTI)": {
-      "price": 95.04,
-      "change_pct": 0.58
+      "price": 95.74,
+      "change_pct": 1.32
     },
     "Silver": {
-      "price": 85.0,
-      "change_pct": -0.07
+      "price": 84.78,
+      "change_pct": -0.34
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70365,
-      "change_pct": -0.42
+      "price": 70411,
+      "change_pct": -0.34
     },
     "ETH": {
-      "price": 2065.29,
-      "change_pct": -0.5
+      "price": 2070.57,
+      "change_pct": -0.18
     },
     "SOL": {
-      "price": 86.62,
-      "change_pct": -0.77
+      "price": 86.78,
+      "change_pct": -0.55
     },
     "BNB": {
-      "price": 651.28,
-      "change_pct": -0.04
+      "price": 651.12,
+      "change_pct": -0.32
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump tariffs: Martin Heinrich bill would give families tax rebate for higher import costs"
+      "title": "Iran War: U.S. Navy will escort vessels through Strait of Hormuz as soon as 'militarily possible,' Bessent tells Sky News"
     },
     {
       "source": "MarketWatch",
-      "title": "A key inflation gauge just logged its highest reading in almost 4 years"
+      "title": "Investor who lost everything in private credit wishes several thousand more people had warned him of the risks"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have lost nearly everything\u2019: My mother\u2019s trustee changed her $1 million will and my attorney fleeced me. What can I do?"
+      "title": "U.S. Treasurys look like the bad boyfriend at the start of a Hallmark movie, finance expert says"
     }
   ]
 }
