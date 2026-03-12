@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, March 12 2026  00:54 PT",
+  "generated_at": "Thursday, March 12 2026  03:07 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5184.5,
-      "change_pct": 0.51
+      "price": 5192.2,
+      "change_pct": 0.66
     },
     "Oil (WTI)": {
-      "price": 90.49,
-      "change_pct": -4.23
+      "price": 91.3,
+      "change_pct": -3.38
     },
     "Silver": {
-      "price": 87.12,
-      "change_pct": 2.42
+      "price": 87.17,
+      "change_pct": 2.48
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69826,
-      "change_pct": 0.25
+      "price": 70012,
+      "change_pct": 0.73
     },
     "ETH": {
-      "price": 2039.11,
-      "change_pct": 1.28
+      "price": 2056.75,
+      "change_pct": 1.74
     },
     "SOL": {
-      "price": 85.78,
-      "change_pct": 0.39
+      "price": 86.22,
+      "change_pct": 1.46
     },
     "BNB": {
-      "price": 646.6,
-      "change_pct": 0.98
+      "price": 650.68,
+      "change_pct": 1.51
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Brent crude hits $100 a barrel as reserve release plans fail to ease Iran war-led supply worries"
+      "title": "Oil prices touch $100 again as Iran ramps up shipping attacks in the Persian Gulf"
     },
     {
       "source": "CNBC",
-      "title": "Trump administration launches Section 301 trade probes into Mexico, China, EU, others"
+      "title": "Dow futures fall 200 points as oil prices continue their ascent amid Iran war: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Dow futures down more than 500 points as Brent crude again tops $100 a barrel"
+      "title": "The truth behind 401(k) withdrawal numbers: People aren\u2019t being reckless \u2014 they\u2019re desperate"
     },
     {
       "source": "MarketWatch",
-      "title": "Why the IEA\u2019s largest-ever release of oil reserves is pushing up crude prices"
+      "title": "Goldman warns of $150 oil peak as it hikes price target for second time in a week"
     }
   ]
 }
