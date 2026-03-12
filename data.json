@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, March 12 2026  04:45 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, March 12 2026  07:38 PT",
+  "market_status": "Live \u2014 as of 10:38 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6775.8,
-      "change_pct": -0.08
+      "price": 6685.08,
+      "change_pct": -1.32
     },
     "Nasdaq": {
-      "price": 22716.13,
-      "change_pct": 0.08
+      "price": 22318.12,
+      "change_pct": -1.75
     },
     "Dow Jones": {
-      "price": 47417.27,
-      "change_pct": -0.61
+      "price": 46739.14,
+      "change_pct": -1.42
     },
     "Russell 2000": {
-      "price": 2542.9,
-      "change_pct": -0.2
+      "price": 2502.66,
+      "change_pct": -1.57
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5182.5,
-      "change_pct": 0.47
+      "price": 5158.2,
+      "change_pct": 0.0
     },
     "Oil (WTI)": {
-      "price": 91.4,
-      "change_pct": -3.27
+      "price": 95.58,
+      "change_pct": 1.15
     },
     "Silver": {
-      "price": 87.1,
-      "change_pct": 2.4
+      "price": 85.94,
+      "change_pct": 1.03
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70690,
-      "change_pct": 1.77
+      "price": 69849,
+      "change_pct": -1.38
     },
     "ETH": {
-      "price": 2074.41,
-      "change_pct": 2.53
+      "price": 2053.21,
+      "change_pct": -0.28
     },
     "SOL": {
-      "price": 86.94,
-      "change_pct": 2.34
+      "price": 86.23,
+      "change_pct": -0.53
     },
     "BNB": {
-      "price": 653.67,
-      "change_pct": 2.55
+      "price": 649.32,
+      "change_pct": 0.17
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices touch $100 again as Iran ramps up shipping attacks in the Persian Gulf"
+      "title": "Strait of Hormuz must remain closed as 'tool to pressure enemy,' Iran's new supreme leader says"
     },
     {
       "source": "CNBC",
-      "title": "Dick's Sporting Goods issues weak profit guidance as Foot Locker merger weighs on bottom line"
+      "title": "Energy Secretary Wright says U.S. 'not ready' to escort oil tankers through Strait of Hormuz yet"
     },
     {
       "source": "MarketWatch",
-      "title": "How Texas became the epicenter of the AI data-center boom"
+      "title": "Deutsche Bank says its private-credit exposure has increased to $30 billion \u2014 one of the highest of Wall Street banks"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil taps $101 as Iran dramatically changes strategy and IEA calls conflict biggest supply disruption in history"
+      "title": "Jobless claims show \u2018sluggish but generally stable\u2019 labor market"
     }
   ]
 }
