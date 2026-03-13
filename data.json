@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, March 13 2026  02:59 PT",
+  "generated_at": "Friday, March 13 2026  04:47 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5093.0,
-      "change_pct": -0.51
+      "price": 5099.4,
+      "change_pct": -0.39
     },
     "Oil (WTI)": {
-      "price": 95.67,
-      "change_pct": 0.18
+      "price": 93.95,
+      "change_pct": -1.62
     },
     "Silver": {
-      "price": 82.89,
-      "change_pct": -2.36
+      "price": 83.34,
+      "change_pct": -1.82
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72042,
-      "change_pct": 2.94
+      "price": 72327,
+      "change_pct": 2.32
     },
     "ETH": {
-      "price": 2114.17,
-      "change_pct": 2.87
+      "price": 2122.22,
+      "change_pct": 2.31
     },
     "SOL": {
-      "price": 89.52,
-      "change_pct": 3.97
+      "price": 90.1,
+      "change_pct": 3.61
     },
     "BNB": {
-      "price": 667.63,
-      "change_pct": 2.74
+      "price": 666.67,
+      "change_pct": 1.98
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. allows temporary purchases of Russian oil already at sea to stabilize energy markets"
+      "title": "Oil holds above $100 as Trump says America \u2018has ammunition and plenty of time\u2019 to fight Iran war"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Healthcare is important to me\u2019: I\u2019m worried about relocating to Florida from New Jersey. Are hospitals there under stress?"
+      "title": "Ulta Beauty\u2019s stock heads for worst day in 2 years as consumers get pickier about cosmetics"
     },
     {
       "source": "MarketWatch",
-      "title": "Rivian is fulfilling its promise to launch a $45,000 EV, but there\u2019s a catch"
+      "title": "Brent oil futures climb above $100 on continued disruption to Strait of Hormuz traffic"
     }
   ]
 }
