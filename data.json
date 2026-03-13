@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, March 13 2026  10:05 PT",
-  "market_status": "Live \u2014 as of 13:05 ET",
+  "generated_at": "Friday, March 13 2026  12:25 PT",
+  "market_status": "Live \u2014 as of 15:25 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6644.32,
-      "change_pct": -0.41
+      "price": 6636.26,
+      "change_pct": -0.53
     },
     "Nasdaq": {
-      "price": 22119.5,
-      "change_pct": -0.86
+      "price": 22099.47,
+      "change_pct": -0.95
     },
     "Dow Jones": {
-      "price": 46643.07,
-      "change_pct": -0.06
+      "price": 46600.43,
+      "change_pct": -0.15
     },
     "Russell 2000": {
-      "price": 2477.59,
-      "change_pct": -0.47
+      "price": 2478.03,
+      "change_pct": -0.45
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5054.8,
-      "change_pct": -1.26
+      "price": 5044.3,
+      "change_pct": -1.46
     },
     "Oil (WTI)": {
-      "price": 96.97,
-      "change_pct": 1.54
+      "price": 97.56,
+      "change_pct": 2.16
     },
     "Silver": {
-      "price": 80.58,
-      "change_pct": -5.07
+      "price": 80.99,
+      "change_pct": -4.59
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71908,
-      "change_pct": 2.14
+      "price": 71142,
+      "change_pct": 1.52
     },
     "ETH": {
-      "price": 2135.0,
-      "change_pct": 3.16
+      "price": 2101.36,
+      "change_pct": 2.29
     },
     "SOL": {
-      "price": 89.66,
-      "change_pct": 3.29
+      "price": 88.79,
+      "change_pct": 3.14
     },
     "BNB": {
-      "price": 661.72,
-      "change_pct": 1.55
+      "price": 657.33,
+      "change_pct": 1.2
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%"
+      "title": "Analysis: The U.S. is running out of ways to get oil prices down. It is up to the military."
     },
     {
       "source": "CNBC",
-      "title": "Pete Hegseth on Strait of Hormuz: 'Don't need to worry about it'"
+      "title": "Judge blocks subpoenas in criminal probe of Fed Chair Jerome Powell"
     },
     {
       "source": "MarketWatch",
-      "title": "Global oil prices climb back above $100 as U.S. waiver on some Russian oil sanctions fails to quell supply concerns"
+      "title": "Global oil prices end week above $100, as U.S. waiver on some Russian sanctions fails to quell supply concerns"
     },
     {
       "source": "MarketWatch",
-      "title": "The Iran war is already the biggest threat to global shipping and supply chains since COVID"
+      "title": "Why oil probably won\u2019t go to $150 a barrel"
     }
   ]
 }
