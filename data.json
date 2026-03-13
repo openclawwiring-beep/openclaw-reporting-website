@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, March 13 2026  12:25 PT",
-  "market_status": "Live \u2014 as of 15:25 ET",
+  "generated_at": "Friday, March 13 2026  14:03 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6636.26,
-      "change_pct": -0.53
+      "price": 6632.19,
+      "change_pct": -0.61
     },
     "Nasdaq": {
-      "price": 22099.47,
-      "change_pct": -0.95
+      "price": 22105.36,
+      "change_pct": -0.93
     },
     "Dow Jones": {
-      "price": 46600.43,
-      "change_pct": -0.15
+      "price": 46558.47,
+      "change_pct": -0.26
     },
     "Russell 2000": {
-      "price": 2478.03,
-      "change_pct": -0.45
+      "price": 2480.05,
+      "change_pct": -0.36
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5044.3,
-      "change_pct": -1.46
+      "price": 5023.7,
+      "change_pct": -1.87
     },
     "Oil (WTI)": {
-      "price": 97.56,
-      "change_pct": 2.16
+      "price": 98.9,
+      "change_pct": 3.56
     },
     "Silver": {
-      "price": 80.99,
-      "change_pct": -4.59
+      "price": 80.64,
+      "change_pct": -4.99
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71142,
-      "change_pct": 1.52
+      "price": 71380,
+      "change_pct": 1.68
     },
     "ETH": {
-      "price": 2101.36,
-      "change_pct": 2.29
+      "price": 2112.22,
+      "change_pct": 2.39
     },
     "SOL": {
-      "price": 88.79,
-      "change_pct": 3.14
+      "price": 88.89,
+      "change_pct": 2.77
     },
     "BNB": {
-      "price": 657.33,
-      "change_pct": 1.2
+      "price": 657.7,
+      "change_pct": 1.24
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Analysis: The U.S. is running out of ways to get oil prices down. It is up to the military."
+      "title": "DOJ to appeal judge's decision to block Fed subpoenas in Powell criminal probe"
     },
     {
       "source": "CNBC",
-      "title": "Judge blocks subpoenas in criminal probe of Fed Chair Jerome Powell"
+      "title": "Mortgage rates surge to highest since September, hitting spring housing market"
     },
     {
       "source": "MarketWatch",
-      "title": "Global oil prices end week above $100, as U.S. waiver on some Russian sanctions fails to quell supply concerns"
+      "title": "Kevin Warsh\u2019s Fed confirmation faces new delay, key senator says. Here\u2019s why."
     },
     {
       "source": "MarketWatch",
-      "title": "Why oil probably won\u2019t go to $150 a barrel"
+      "title": "Here\u2019s a rare chance to invest before big stock-index funds and Wall Street dive in"
     }
   ]
 }
