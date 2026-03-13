@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, March 13 2026  15:03 PT",
+  "generated_at": "Friday, March 13 2026  16:46 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 71137,
-      "change_pct": 1.18
+      "price": 70942,
+      "change_pct": 0.45
     },
     "ETH": {
-      "price": 2103.31,
-      "change_pct": 1.91
+      "price": 2091.91,
+      "change_pct": 0.48
     },
     "SOL": {
-      "price": 88.65,
-      "change_pct": 2.51
+      "price": 88.14,
+      "change_pct": 1.35
     },
     "BNB": {
-      "price": 657.05,
-      "change_pct": 0.77
+      "price": 655.45,
+      "change_pct": 0.37
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "DOJ to appeal judge's decision to block Fed subpoenas in Powell criminal probe"
+      "title": "Trump says U.S. 'obliterated' military targets on Iran's Kharg Island but didn't 'wipe out' oil infrastructure"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I didn\u2019t ask a man to rear-end my car\u2019: Social Security is replacing my disability benefits. Will the fund run out of money?"
+      "title": "This little-known energy company\u2019s stock is rallying as Trump invokes 1950 powers for offshore California drilling"
     },
     {
       "source": "MarketWatch",
-      "title": "Warren Buffett\u2019s sage advice about fear and greed is a trap in this market"
+      "title": "\u2018I\u2019m experiencing issues with arthritis\u2019: I\u2019m 68 with $3 million saved. Why am I not ready for a life of leisure?"
     }
   ]
 }
