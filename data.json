@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, March 13 2026  07:30 PT",
-  "market_status": "Live \u2014 as of 10:30 ET",
+  "generated_at": "Friday, March 13 2026  10:05 PT",
+  "market_status": "Live \u2014 as of 13:05 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6703.82,
-      "change_pct": 0.48
+      "price": 6644.32,
+      "change_pct": -0.41
     },
     "Nasdaq": {
-      "price": 22419.23,
-      "change_pct": 0.48
+      "price": 22119.5,
+      "change_pct": -0.86
     },
     "Dow Jones": {
-      "price": 46912.47,
-      "change_pct": 0.52
+      "price": 46643.07,
+      "change_pct": -0.06
     },
     "Russell 2000": {
-      "price": 2499.25,
-      "change_pct": 0.4
+      "price": 2477.59,
+      "change_pct": -0.47
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5096.8,
-      "change_pct": -0.44
+      "price": 5054.8,
+      "change_pct": -1.26
     },
     "Oil (WTI)": {
-      "price": 94.24,
-      "change_pct": -1.32
+      "price": 96.97,
+      "change_pct": 1.54
     },
     "Silver": {
-      "price": 82.71,
-      "change_pct": -2.57
+      "price": 80.58,
+      "change_pct": -5.07
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73767,
-      "change_pct": 5.31
+      "price": 71908,
+      "change_pct": 2.14
     },
     "ETH": {
-      "price": 2198.12,
-      "change_pct": 6.64
+      "price": 2135.0,
+      "change_pct": 3.16
     },
     "SOL": {
-      "price": 92.72,
-      "change_pct": 6.99
+      "price": 89.66,
+      "change_pct": 3.29
     },
     "BNB": {
-      "price": 677.12,
-      "change_pct": 4.14
+      "price": 661.72,
+      "change_pct": 1.55
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Mortgage rates swing back above 6%, raising tricky questions for buyers and sellers"
+      "title": "Global oil prices climb back above $100 as U.S. waiver on some Russian oil sanctions fails to quell supply concerns"
     },
     {
       "source": "MarketWatch",
-      "title": "HOA fees are becoming more common for single-family homes \u2014 and top $500 a month in these hot spots"
+      "title": "The Iran war is already the biggest threat to global shipping and supply chains since COVID"
     }
   ]
 }
