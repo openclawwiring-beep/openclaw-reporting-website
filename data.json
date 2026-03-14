@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 14 2026  06:57 PT",
+  "generated_at": "Saturday, March 14 2026  07:59 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70860,
-      "change_pct": -3.57
+      "price": 70654,
+      "change_pct": -2.44
     },
     "ETH": {
-      "price": 2078.75,
-      "change_pct": -5.02
+      "price": 2073.68,
+      "change_pct": -3.51
     },
     "SOL": {
-      "price": 87.14,
-      "change_pct": -5.22
+      "price": 86.81,
+      "change_pct": -4.6
     },
     "BNB": {
-      "price": 654.14,
-      "change_pct": -2.99
+      "price": 652.74,
+      "change_pct": -2.3
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The financial sector is sending some spooky technical signals about the stock market"
+      "title": "15 stocks in the S&P 500 showing double-digit gains since the attack on Iran began"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My parents begged me never to put him in a home\u2019: I have taken care of my disabled brother my entire life. Am I doing enough?"
+      "title": "S&P 500 and Nasdaq face a lost decade as 2000 dot-com bubble parallels turn real"
     }
   ]
 }
