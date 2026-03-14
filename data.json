@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 14 2026  08:54 PT",
+  "generated_at": "Saturday, March 14 2026  10:01 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70587,
-      "change_pct": -2.0
+      "price": 70683,
+      "change_pct": -1.73
     },
     "ETH": {
-      "price": 2075.38,
-      "change_pct": -2.81
+      "price": 2077.71,
+      "change_pct": -2.74
     },
     "SOL": {
-      "price": 86.75,
-      "change_pct": -3.59
+      "price": 87.09,
+      "change_pct": -2.92
     },
     "BNB": {
-      "price": 653.47,
-      "change_pct": -1.54
+      "price": 654.18,
+      "change_pct": -1.23
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Filing taxes is painful enough without worrying that your accountant is judging you"
+      "title": "The S&P 500 just broke a major support. Another 10% decline is likely."
     },
     {
       "source": "MarketWatch",
-      "title": "Defense stocks are the market\u2019s newest safe havens \u2014 and this ETF is a pure play"
+      "title": "\u2018Healthcare is important to me\u2019: I\u2019m worried about relocating to Florida from New Jersey. Are hospitals there under stress?"
     }
   ]
 }
