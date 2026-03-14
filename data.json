@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 14 2026  11:01 PT",
+  "generated_at": "Saturday, March 14 2026  12:44 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,19 +35,19 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70619,
-      "change_pct": -0.62
+      "price": 70695,
+      "change_pct": -0.55
     },
     "ETH": {
-      "price": 2075.07,
-      "change_pct": -1.47
+      "price": 2078.02,
+      "change_pct": -1.11
     },
     "SOL": {
-      "price": 86.9,
-      "change_pct": -2.13
+      "price": 87.02,
+      "change_pct": -1.93
     },
     "BNB": {
-      "price": 653.08,
+      "price": 653.91,
       "change_pct": -0.46
     }
   },
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "How to tackle your bucket list before it\u2019s too late, according to the Oscar-nominated director of the film \u2018Retirement Plan\u2019"
+      "title": "Here\u2019s a rare chance to invest before big stock-index funds and Wall Street dive in"
     },
     {
       "source": "MarketWatch",
-      "title": "Can my wife switch to my Social Security benefits if she was born after 1954? I receive a lot more than she does."
+      "title": "11 stocks to harden your portfolio against Iran risk"
     }
   ]
 }
