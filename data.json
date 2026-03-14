@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, March 13 2026  16:46 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, March 13 2026  22:02 PT",
+  "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 6632.19,
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5023.1,
-      "change_pct": -1.88
+      "price": 5061.7,
+      "change_pct": -1.12
     },
     "Oil (WTI)": {
-      "price": 99.31,
-      "change_pct": 3.99
+      "price": 98.71,
+      "change_pct": 3.36
     },
     "Silver": {
-      "price": 80.64,
-      "change_pct": -4.99
+      "price": 81.34,
+      "change_pct": -4.17
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70942,
-      "change_pct": 0.45
+      "price": 71060,
+      "change_pct": -0.43
     },
     "ETH": {
-      "price": 2091.91,
-      "change_pct": 0.48
+      "price": 2091.01,
+      "change_pct": -0.88
     },
     "SOL": {
-      "price": 88.14,
-      "change_pct": 1.35
+      "price": 88.33,
+      "change_pct": -1.08
     },
     "BNB": {
-      "price": 655.45,
-      "change_pct": 0.37
+      "price": 655.48,
+      "change_pct": -0.65
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Mortgage rates surge to highest since September, hitting spring housing market"
+      "title": "DOJ to appeal judge's decision to block Fed subpoenas in Powell criminal probe"
     },
     {
       "source": "MarketWatch",
