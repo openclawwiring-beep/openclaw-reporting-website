@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 14 2026  13:57 PT",
+  "generated_at": "Saturday, March 14 2026  14:52 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70830,
-      "change_pct": -0.73
+      "price": 70786,
+      "change_pct": -0.56
     },
     "ETH": {
-      "price": 2086.3,
-      "change_pct": -1.19
+      "price": 2088.24,
+      "change_pct": -0.85
     },
     "SOL": {
-      "price": 87.08,
-      "change_pct": -2.01
+      "price": 87.18,
+      "change_pct": -1.69
     },
     "BNB": {
-      "price": 654.22,
-      "change_pct": -0.46
+      "price": 654.68,
+      "change_pct": -0.42
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump says U.S. 'obliterated' military targets on Iran's Kharg Island but didn't 'wipe out' oil infrastructure"
+      "title": "Iran threatens to retaliate against neighbors; Trump urges countries to assist in securing Strait of Hormuz"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018I\u2019m experiencing issues with arthritis\u2019: I\u2019m 68 with $3 million saved. Why am I not ready for a life of leisure?"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018I didn\u2019t ask a man to rear-end my car\u2019: Social Security is replacing my disability benefits. Will the fund run out of money?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here\u2019s a rare chance to invest before big stock-index funds and Wall Street dive in"
     }
   ]
 }
