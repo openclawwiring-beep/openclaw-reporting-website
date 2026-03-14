@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 14 2026  14:52 PT",
+  "generated_at": "Saturday, March 14 2026  15:57 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70786,
-      "change_pct": -0.56
+      "price": 70724,
+      "change_pct": -0.1
     },
     "ETH": {
-      "price": 2088.24,
-      "change_pct": -0.85
+      "price": 2083.98,
+      "change_pct": -0.26
     },
     "SOL": {
-      "price": 87.18,
-      "change_pct": -1.69
+      "price": 87.3,
+      "change_pct": -0.77
     },
     "BNB": {
-      "price": 654.68,
-      "change_pct": -0.42
+      "price": 655.07,
+      "change_pct": -0.11
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "The biggest release of emergency oil stockpiles in history was announced. Why crude may keep rising"
+      "title": "Fertitta in weekend deal talks to acquire Caesars, while billionaire Carl Icahn waits in the wings"
     },
     {
       "source": "CNBC",
