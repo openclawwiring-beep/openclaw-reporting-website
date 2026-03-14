@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 14 2026  12:44 PT",
+  "generated_at": "Saturday, March 14 2026  13:57 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,19 +35,19 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70695,
-      "change_pct": -0.55
+      "price": 70830,
+      "change_pct": -0.73
     },
     "ETH": {
-      "price": 2078.02,
-      "change_pct": -1.11
+      "price": 2086.3,
+      "change_pct": -1.19
     },
     "SOL": {
-      "price": 87.02,
-      "change_pct": -1.93
+      "price": 87.08,
+      "change_pct": -2.01
     },
     "BNB": {
-      "price": 653.91,
+      "price": 654.22,
       "change_pct": -0.46
     }
   },
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s a rare chance to invest before big stock-index funds and Wall Street dive in"
+      "title": "\u2018I didn\u2019t ask a man to rear-end my car\u2019: Social Security is replacing my disability benefits. Will the fund run out of money?"
     },
     {
       "source": "MarketWatch",
-      "title": "11 stocks to harden your portfolio against Iran risk"
+      "title": "Here\u2019s a rare chance to invest before big stock-index funds and Wall Street dive in"
     }
   ]
 }
