@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 14 2026  03:58 PT",
+  "generated_at": "Saturday, March 14 2026  04:49 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70563,
-      "change_pct": -2.64
+      "price": 70740,
+      "change_pct": -2.12
     },
     "ETH": {
-      "price": 2066.66,
-      "change_pct": -2.87
+      "price": 2076.49,
+      "change_pct": -2.06
     },
     "SOL": {
-      "price": 86.69,
-      "change_pct": -3.84
+      "price": 86.89,
+      "change_pct": -3.6
     },
     "BNB": {
-      "price": 651.26,
-      "change_pct": -2.36
+      "price": 653.49,
+      "change_pct": -1.95
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "This little-known energy company\u2019s stock is rallying as Trump invokes 1950 powers for offshore California drilling"
+      "title": "\u2018I didn\u2019t ask a man to rear-end my car\u2019: Social Security is replacing my disability benefits. Will the fund run out of money?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m experiencing issues with arthritis\u2019: I\u2019m 68 with $3 million saved. Why am I not ready for a life of leisure?"
+      "title": "It was unthinkable a couple of weeks ago, but could the next move by the Fed be a rate hike?"
     }
   ]
 }
