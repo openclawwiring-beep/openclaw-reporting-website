@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 14 2026  10:01 PT",
+  "generated_at": "Saturday, March 14 2026  11:01 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70683,
-      "change_pct": -1.73
+      "price": 70619,
+      "change_pct": -0.62
     },
     "ETH": {
-      "price": 2077.71,
-      "change_pct": -2.74
+      "price": 2075.07,
+      "change_pct": -1.47
     },
     "SOL": {
-      "price": 87.09,
-      "change_pct": -2.92
+      "price": 86.9,
+      "change_pct": -2.13
     },
     "BNB": {
-      "price": 654.18,
-      "change_pct": -1.23
+      "price": 653.08,
+      "change_pct": -0.46
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The S&P 500 just broke a major support. Another 10% decline is likely."
+      "title": "How to tackle your bucket list before it\u2019s too late, according to the Oscar-nominated director of the film \u2018Retirement Plan\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Healthcare is important to me\u2019: I\u2019m worried about relocating to Florida from New Jersey. Are hospitals there under stress?"
+      "title": "Can my wife switch to my Social Security benefits if she was born after 1954? I receive a lot more than she does."
     }
   ]
 }
