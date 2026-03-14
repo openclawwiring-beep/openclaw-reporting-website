@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 14 2026  04:49 PT",
+  "generated_at": "Saturday, March 14 2026  06:57 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70740,
-      "change_pct": -2.12
+      "price": 70860,
+      "change_pct": -3.57
     },
     "ETH": {
-      "price": 2076.49,
-      "change_pct": -2.06
+      "price": 2078.75,
+      "change_pct": -5.02
     },
     "SOL": {
-      "price": 86.89,
-      "change_pct": -3.6
+      "price": 87.14,
+      "change_pct": -5.22
     },
     "BNB": {
-      "price": 653.49,
-      "change_pct": -1.95
+      "price": 654.14,
+      "change_pct": -2.99
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says U.S. 'obliterated' military targets on Iran's Kharg Island but didn't 'wipe out' oil infrastructure"
+      "title": "The biggest release of emergency oil stockpiles in history was announced. Why crude may keep rising"
     },
     {
       "source": "CNBC",
-      "title": "DOJ to appeal judge's decision to block Fed subpoenas in Powell criminal probe"
+      "title": "Trump says U.S. 'obliterated' military targets on Iran's Kharg Island but didn't 'wipe out' oil infrastructure"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I didn\u2019t ask a man to rear-end my car\u2019: Social Security is replacing my disability benefits. Will the fund run out of money?"
+      "title": "The financial sector is sending some spooky technical signals about the stock market"
     },
     {
       "source": "MarketWatch",
-      "title": "It was unthinkable a couple of weeks ago, but could the next move by the Fed be a rate hike?"
+      "title": "\u2018My parents begged me never to put him in a home\u2019: I have taken care of my disabled brother my entire life. Am I doing enough?"
     }
   ]
 }
