@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 15 2026  10:01 PT",
+  "generated_at": "Sunday, March 15 2026  11:02 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 71433,
-      "change_pct": 1.09
+      "price": 71813,
+      "change_pct": 1.72
     },
     "ETH": {
-      "price": 2092.02,
-      "change_pct": 0.72
+      "price": 2110.12,
+      "change_pct": 1.69
     },
     "SOL": {
-      "price": 87.6,
-      "change_pct": 0.59
+      "price": 88.53,
+      "change_pct": 1.88
     },
     "BNB": {
-      "price": 659.13,
-      "change_pct": 0.78
+      "price": 661.98,
+      "change_pct": 1.36
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Individual investors are chasing oil\u2019s Iran conflict surge, institutions are thinking what comes next"
+      "title": "Start on your bucket list now, says the Oscar-nominated director of the film \u2018Retirement Plan\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "Is a $130 Costco executive membership the new VIP status symbol?"
+      "title": "These parents retired in their 30s and 40s while raising young kids. Here\u2019s how they pulled it off."
     }
   ]
 }
