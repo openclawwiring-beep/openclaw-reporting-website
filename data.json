@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 15 2026  07:00 PT",
+  "generated_at": "Sunday, March 15 2026  08:47 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 71558,
-      "change_pct": 0.95
+      "price": 71495,
+      "change_pct": 1.35
     },
     "ETH": {
-      "price": 2095.38,
-      "change_pct": 0.79
+      "price": 2094.1,
+      "change_pct": 0.99
     },
     "SOL": {
-      "price": 87.69,
-      "change_pct": 0.64
+      "price": 87.95,
+      "change_pct": 1.41
     },
     "BNB": {
-      "price": 659.62,
-      "change_pct": 0.87
+      "price": 660.12,
+      "change_pct": 1.08
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran vows to kill Israel's Netanyahu as impact of war on Gulf region widens"
+      "title": "Trump weighing options to strike Iran's critical oil hub, UN Ambassador Waltz says"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia\u2019s big GTC event is on deck, and the company faces a very high bar this year"
+      "title": "Is a $130 Costco executive membership the new VIP status symbol?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I am stuck in a low-income trap\u2019: I\u2019m a teacher and very good at my job. Will I ever earn six figures?"
+      "title": "\u2018It\u2019s all about oil\u2019 as FedEx kicks off earnings this week"
     }
   ]
 }
