@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 15 2026  13:58 PT",
+  "generated_at": "Sunday, March 15 2026  14:55 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 71769,
-      "change_pct": 1.32
+      "price": 72074,
+      "change_pct": 1.79
     },
     "ETH": {
-      "price": 2129.89,
-      "change_pct": 2.07
+      "price": 2137.71,
+      "change_pct": 2.39
     },
     "SOL": {
-      "price": 88.78,
-      "change_pct": 1.94
+      "price": 89.85,
+      "change_pct": 3.01
     },
     "BNB": {
-      "price": 664.21,
-      "change_pct": 1.53
+      "price": 667.52,
+      "change_pct": 1.95
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Why the United Arab Emirates is a target for Iran's aggression"
+      "title": "Democrats blast FCC Chair Carr's broadcast license threats as anti-First Amendment, 'totalitarian'"
     },
     {
       "source": "MarketWatch",
