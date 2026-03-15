@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 15 2026  02:50 PT",
+  "generated_at": "Sunday, March 15 2026  04:01 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,19 +35,19 @@
   },
   "crypto": {
     "BTC": {
-      "price": 71743,
-      "change_pct": 1.71
+      "price": 71797,
+      "change_pct": 1.76
     },
     "ETH": {
-      "price": 2115.65,
-      "change_pct": 2.29
+      "price": 2119.78,
+      "change_pct": 2.58
     },
     "SOL": {
-      "price": 88.53,
-      "change_pct": 1.78
+      "price": 88.5,
+      "change_pct": 2.1
     },
     "BNB": {
-      "price": 663.17,
+      "price": 662.88,
       "change_pct": 1.82
     }
   },
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m experiencing issues with arthritis\u2019: I\u2019m 68 with $3 million saved. Why am I not ready for a life of leisure?"
+      "title": "\u2018I find that advice questionable\u2019: Is it time to rethink the rule of tapping your Roth last \u2014 after your 401(k) and IRA?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I didn\u2019t ask a man to rear-end my car\u2019: Social Security is replacing my disability benefits. Will the fund run out of money?"
+      "title": "\u2018I\u2019m experiencing issues with arthritis\u2019: I\u2019m 68 with $3 million saved. Why am I not ready for a life of leisure?"
     }
   ]
 }
