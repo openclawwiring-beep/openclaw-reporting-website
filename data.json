@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 15 2026  04:57 PT",
+  "generated_at": "Sunday, March 15 2026  07:00 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 71866,
-      "change_pct": 1.63
+      "price": 71558,
+      "change_pct": 0.95
     },
     "ETH": {
-      "price": 2120.74,
-      "change_pct": 2.28
+      "price": 2095.38,
+      "change_pct": 0.79
     },
     "SOL": {
-      "price": 88.56,
-      "change_pct": 1.84
+      "price": 87.69,
+      "change_pct": 0.64
     },
     "BNB": {
-      "price": 661.3,
-      "change_pct": 1.2
+      "price": 659.62,
+      "change_pct": 0.87
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m experiencing issues with arthritis\u2019: I\u2019m 68 with $3 million saved. Why am I not ready for a life of leisure?"
+      "title": "Nvidia\u2019s big GTC event is on deck, and the company faces a very high bar this year"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I find that advice questionable\u2019: Is it time to rethink the rule of tapping your Roth last \u2014 after your 401(k) and IRA?"
+      "title": "\u2018I am stuck in a low-income trap\u2019: I\u2019m a teacher and very good at my job. Will I ever earn six figures?"
     }
   ]
 }
