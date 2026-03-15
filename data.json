@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 15 2026  16:00 PT",
+  "generated_at": "Sunday, March 15 2026  16:57 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5024.8,
-      "change_pct": 0.03
+      "price": 4983.5,
+      "change_pct": -0.79
     },
     "Oil (WTI)": {
-      "price": 100.22,
-      "change_pct": 0.95
+      "price": 99.26,
+      "change_pct": -0.02
     },
     "Silver": {
-      "price": 80.39,
-      "change_pct": -0.31
+      "price": 79.76,
+      "change_pct": -1.1
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72738,
-      "change_pct": 2.85
+      "price": 72762,
+      "change_pct": 2.17
     },
     "ETH": {
-      "price": 2182.72,
-      "change_pct": 4.74
+      "price": 2176.07,
+      "change_pct": 3.79
     },
     "SOL": {
-      "price": 92.46,
-      "change_pct": 5.9
+      "price": 92.15,
+      "change_pct": 4.69
     },
     "BNB": {
-      "price": 676.39,
-      "change_pct": 3.25
+      "price": 673.43,
+      "change_pct": 2.36
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures fall slightly as U.S. oil rises above $100 with S&P 500 on 3-week losing streak: Live updates"
+      "title": "Stock futures rise slightly as oil hovers at $100 with S&P 500 on 3-week losing streak: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,7 +62,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. stock futures dip, oil climbs again as investors brace for escalation of Iran conflict"
+      "title": "U.S. stock futures bounce back, oil climbs as investors weigh developments in Iran conflict"
     },
     {
       "source": "MarketWatch",
