@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 15 2026  00:57 PT",
+  "generated_at": "Sunday, March 15 2026  02:50 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 71436,
-      "change_pct": 1.18
+      "price": 71743,
+      "change_pct": 1.71
     },
     "ETH": {
-      "price": 2104.97,
-      "change_pct": 1.3
+      "price": 2115.65,
+      "change_pct": 2.29
     },
     "SOL": {
-      "price": 88.18,
-      "change_pct": 0.99
+      "price": 88.53,
+      "change_pct": 1.78
     },
     "BNB": {
-      "price": 659.81,
-      "change_pct": 1.14
+      "price": 663.17,
+      "change_pct": 1.82
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Iran threatens to retaliate against neighbors; Trump urges countries to assist in securing Strait of Hormuz"
+      "title": "Oil loading operations at UAE's Fujairah have resumed: media reports"
     },
     {
       "source": "MarketWatch",
