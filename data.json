@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 15 2026  11:02 PT",
+  "generated_at": "Sunday, March 15 2026  12:45 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 71813,
-      "change_pct": 1.72
+      "price": 71504,
+      "change_pct": 1.11
     },
     "ETH": {
-      "price": 2110.12,
-      "change_pct": 1.69
+      "price": 2111.02,
+      "change_pct": 1.56
     },
     "SOL": {
-      "price": 88.53,
-      "change_pct": 1.88
+      "price": 88.17,
+      "change_pct": 1.3
     },
     "BNB": {
-      "price": 661.98,
-      "change_pct": 1.36
+      "price": 660.12,
+      "change_pct": 0.95
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Start on your bucket list now, says the Oscar-nominated director of the film \u2018Retirement Plan\u2019"
+      "title": "\u2018It\u2019s all about oil\u2019: FedEx\u2019s transportation costs will be key to this week\u2019s earnings"
     },
     {
       "source": "MarketWatch",
-      "title": "These parents retired in their 30s and 40s while raising young kids. Here\u2019s how they pulled it off."
+      "title": "Individual investors are chasing oil\u2019s surge amid Iran conflict; institutions are thinking about what comes next"
     }
   ]
 }
