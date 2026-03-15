@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 15 2026  08:47 PT",
+  "generated_at": "Sunday, March 15 2026  10:01 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 71495,
-      "change_pct": 1.35
+      "price": 71433,
+      "change_pct": 1.09
     },
     "ETH": {
-      "price": 2094.1,
-      "change_pct": 0.99
+      "price": 2092.02,
+      "change_pct": 0.72
     },
     "SOL": {
-      "price": 87.95,
-      "change_pct": 1.41
+      "price": 87.6,
+      "change_pct": 0.59
     },
     "BNB": {
-      "price": 660.12,
-      "change_pct": 1.08
+      "price": 659.13,
+      "change_pct": 0.78
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Is a $130 Costco executive membership the new VIP status symbol?"
+      "title": "Individual investors are chasing oil\u2019s Iran conflict surge, institutions are thinking what comes next"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s all about oil\u2019 as FedEx kicks off earnings this week"
+      "title": "Is a $130 Costco executive membership the new VIP status symbol?"
     }
   ]
 }
