@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 15 2026  14:55 PT",
+  "generated_at": "Sunday, March 15 2026  16:00 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5061.7,
-      "change_pct": -1.12
+      "price": 5024.8,
+      "change_pct": 0.03
     },
     "Oil (WTI)": {
-      "price": 98.71,
-      "change_pct": 3.36
+      "price": 100.22,
+      "change_pct": 0.95
     },
     "Silver": {
-      "price": 81.34,
-      "change_pct": -4.17
+      "price": 80.39,
+      "change_pct": -0.31
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72074,
-      "change_pct": 1.79
+      "price": 72738,
+      "change_pct": 2.85
     },
     "ETH": {
-      "price": 2137.71,
-      "change_pct": 2.39
+      "price": 2182.72,
+      "change_pct": 4.74
     },
     "SOL": {
-      "price": 89.85,
-      "change_pct": 3.01
+      "price": 92.46,
+      "change_pct": 5.9
     },
     "BNB": {
-      "price": 667.52,
-      "change_pct": 1.95
+      "price": 676.39,
+      "change_pct": 3.25
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump weighing options to strike Iran's critical oil hub, UN Ambassador Waltz says"
+      "title": "Stock futures fall slightly as U.S. oil rises above $100 with S&P 500 on 3-week losing streak: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Democrats blast FCC Chair Carr's broadcast license threats as anti-First Amendment, 'totalitarian'"
+      "title": "U.S. oil prices top $100 as Trump administration threatens strikes on Iran's crude export facilities"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "U.S. stock futures dip, oil climbs again as investors brace for escalation of Iran conflict"
     },
     {
       "source": "MarketWatch",
       "title": "It was unthinkable a couple of weeks ago, but could the next move by the Fed be a rate hike?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The financial sector is sending some spooky technical signals about the stock market"
     }
   ]
 }
