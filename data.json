@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 15 2026  04:01 PT",
+  "generated_at": "Sunday, March 15 2026  04:57 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 71797,
-      "change_pct": 1.76
+      "price": 71866,
+      "change_pct": 1.63
     },
     "ETH": {
-      "price": 2119.78,
-      "change_pct": 2.58
+      "price": 2120.74,
+      "change_pct": 2.28
     },
     "SOL": {
-      "price": 88.5,
-      "change_pct": 2.1
+      "price": 88.56,
+      "change_pct": 1.84
     },
     "BNB": {
-      "price": 662.88,
-      "change_pct": 1.82
+      "price": 661.3,
+      "change_pct": 1.2
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fertitta in weekend deal talks to acquire Caesars, while billionaire Carl Icahn waits in the wings"
+      "title": "Iran vows to kill Israel's Netanyahu as impact of war on Gulf region widens"
     },
     {
       "source": "CNBC",
-      "title": "Oil loading operations at UAE's Fujairah have resumed: media reports"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018I find that advice questionable\u2019: Is it time to rethink the rule of tapping your Roth last \u2014 after your 401(k) and IRA?"
+      "title": "U.S. and China economic chiefs meet in Paris to clear path to Trump-Xi summit"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018I\u2019m experiencing issues with arthritis\u2019: I\u2019m 68 with $3 million saved. Why am I not ready for a life of leisure?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018I find that advice questionable\u2019: Is it time to rethink the rule of tapping your Roth last \u2014 after your 401(k) and IRA?"
     }
   ]
 }
