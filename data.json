@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 15 2026  23:06 PT",
+  "generated_at": "Monday, March 16 2026  03:14 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5020.2,
-      "change_pct": -0.05
+      "price": 4977.8,
+      "change_pct": -0.89
     },
     "Oil (WTI)": {
-      "price": 98.69,
-      "change_pct": -0.54
+      "price": 98.84,
+      "change_pct": -0.39
     },
     "Silver": {
-      "price": 80.27,
-      "change_pct": -0.01
+      "price": 77.28,
+      "change_pct": -3.74
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73971,
-      "change_pct": 3.36
+      "price": 73354,
+      "change_pct": 2.17
     },
     "ETH": {
-      "price": 2271.55,
-      "change_pct": 7.65
+      "price": 2267.0,
+      "change_pct": 7.14
     },
     "SOL": {
-      "price": 93.9,
-      "change_pct": 6.2
+      "price": 93.41,
+      "change_pct": 5.55
     },
     "BNB": {
-      "price": 683.69,
-      "change_pct": 3.62
+      "price": 677.7,
+      "change_pct": 2.24
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz"
+      "title": "Brent crude holds above $100 as Trump says U.S. may hit Iran's oil hub again 'just for fun'"
     },
     {
       "source": "CNBC",
-      "title": "U.S. oil prices stay elevated as Trump threatens strikes on Iran's crude export facilities"
+      "title": "'We will remember': Trump warns countries to help secure Strait of Hormuz as shipping stalls"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. stock futures, oil prices bounce around as investors weigh developments in Iran conflict"
+      "title": "UniCredit $40 billion offer for Germany\u2019s number-two bank comes with unusual twist \u2014 it expects to fail"
     },
     {
       "source": "MarketWatch",
-      "title": "It was unthinkable a couple of weeks ago, but could the next move by the Fed be a rate hike?"
+      "title": "Nicolas Cage just bought a new 2-unit luxury condo for $6.5 million in a coveted Manhattan building"
     }
   ]
 }
