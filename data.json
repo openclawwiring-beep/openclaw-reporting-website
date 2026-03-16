@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, March 16 2026  12:43 PT",
-  "market_status": "Live \u2014 as of 15:43 ET",
+  "generated_at": "Monday, March 16 2026  14:57 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6695.04,
-      "change_pct": 0.95
+      "price": 6699.38,
+      "change_pct": 1.01
     },
     "Nasdaq": {
-      "price": 22358.38,
-      "change_pct": 1.14
+      "price": 22374.18,
+      "change_pct": 1.22
     },
     "Dow Jones": {
-      "price": 46913.57,
-      "change_pct": 0.76
+      "price": 46946.41,
+      "change_pct": 0.83
     },
     "Russell 2000": {
-      "price": 2506.06,
-      "change_pct": 1.05
+      "price": 2503.29,
+      "change_pct": 0.94
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5016.4,
-      "change_pct": -0.12
+      "price": 5011.3,
+      "change_pct": -0.22
     },
     "Oil (WTI)": {
-      "price": 94.17,
-      "change_pct": -5.1
+      "price": 94.22,
+      "change_pct": -5.05
     },
     "Silver": {
-      "price": 81.09,
-      "change_pct": 1.01
+      "price": 81.0,
+      "change_pct": 0.9
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74200,
-      "change_pct": 3.77
+      "price": 74516,
+      "change_pct": 3.38
     },
     "ETH": {
-      "price": 2336.96,
-      "change_pct": 10.71
+      "price": 2363.84,
+      "change_pct": 10.56
     },
     "SOL": {
-      "price": 95.09,
-      "change_pct": 7.85
+      "price": 96.58,
+      "change_pct": 7.45
     },
     "BNB": {
-      "price": 680.36,
-      "change_pct": 3.07
+      "price": 680.88,
+      "change_pct": 2.02
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices drop more than 5% as U.S. calls for international effort to secure Strait of Hormuz"
+      "title": "U.S. stocks have been surprisingly resilient as the Iran conflict threatens global economic disruption. Thank industry analysts?"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump has 15 days to end the Iran war or markets face a brutal April repricing \u2014 from oil to the S&P 500"
+      "title": "\u2018Healthcare is important to me\u2019: I\u2019m worried about relocating to Florida from New Jersey. Are hospitals there under stress?"
     }
   ]
 }
