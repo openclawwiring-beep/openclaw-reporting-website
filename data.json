@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, March 16 2026  14:57 PT",
+  "generated_at": "Monday, March 16 2026  16:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5011.3,
-      "change_pct": -0.22
+      "price": 5010.9,
+      "change_pct": -0.23
     },
     "Oil (WTI)": {
-      "price": 94.22,
-      "change_pct": -5.05
+      "price": 94.95,
+      "change_pct": -4.31
     },
     "Silver": {
-      "price": 81.0,
-      "change_pct": 0.9
+      "price": 81.09,
+      "change_pct": 1.01
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74516,
-      "change_pct": 3.38
+      "price": 74701,
+      "change_pct": 2.45
     },
     "ETH": {
-      "price": 2363.84,
-      "change_pct": 10.56
+      "price": 2355.3,
+      "change_pct": 7.58
     },
     "SOL": {
-      "price": 96.58,
-      "change_pct": 7.45
+      "price": 96.36,
+      "change_pct": 4.1
     },
     "BNB": {
-      "price": 680.88,
-      "change_pct": 2.02
+      "price": 681.1,
+      "change_pct": 0.59
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump signals coalition to force open Strait of Hormuz is not ready yet: 'Some are less than enthusiastic'"
+      "title": "Trump says U.S. asked China to delay Xi meeting 'a month or so' due to Iran war"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Moody\u2019s says a recession will be hard to avoid if oil prices stay elevated for even a few more weeks"
     },
     {
       "source": "MarketWatch",
       "title": "U.S. stocks have been surprisingly resilient as the Iran conflict threatens global economic disruption. Thank industry analysts?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018Healthcare is important to me\u2019: I\u2019m worried about relocating to Florida from New Jersey. Are hospitals there under stress?"
     }
   ]
 }
