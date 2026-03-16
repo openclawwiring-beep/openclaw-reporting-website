@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, March 16 2026  09:17 PT",
-  "market_status": "Live \u2014 as of 12:17 ET",
+  "generated_at": "Monday, March 16 2026  12:43 PT",
+  "market_status": "Live \u2014 as of 15:43 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6697.39,
-      "change_pct": 0.99
+      "price": 6695.04,
+      "change_pct": 0.95
     },
     "Nasdaq": {
-      "price": 22369.54,
-      "change_pct": 1.2
+      "price": 22358.38,
+      "change_pct": 1.14
     },
     "Dow Jones": {
-      "price": 46974.67,
-      "change_pct": 0.89
+      "price": 46913.57,
+      "change_pct": 0.76
     },
     "Russell 2000": {
-      "price": 2506.07,
+      "price": 2506.06,
       "change_pct": 1.05
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4997.7,
-      "change_pct": -0.49
+      "price": 5016.4,
+      "change_pct": -0.12
     },
     "Oil (WTI)": {
-      "price": 95.3,
-      "change_pct": -3.96
+      "price": 94.17,
+      "change_pct": -5.1
     },
     "Silver": {
-      "price": 80.64,
-      "change_pct": 0.45
+      "price": 81.09,
+      "change_pct": 1.01
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73334,
-      "change_pct": 2.7
+      "price": 74200,
+      "change_pct": 3.77
     },
     "ETH": {
-      "price": 2277.82,
-      "change_pct": 8.89
+      "price": 2336.96,
+      "change_pct": 10.71
     },
     "SOL": {
-      "price": 93.28,
-      "change_pct": 6.19
+      "price": 95.09,
+      "change_pct": 7.85
     },
     "BNB": {
-      "price": 672.15,
-      "change_pct": 1.92
+      "price": 680.36,
+      "change_pct": 3.07
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. is allowing Iranian oil tankers through Strait of Hormuz, says Bessent"
+      "title": "Nvidia GTC 2026: CEO Jensen Huang sees $1 trillion in orders for Blackwell and Vera Rubin through '27"
     },
     {
       "source": "CNBC",
-      "title": "Oil prices fall as Trump pressures allies to help protect tankers in Strait of Hormuz"
+      "title": "Trump signals coalition to force open Strait of Hormuz is not ready yet: 'Some are less than enthusiastic'"
     },
     {
       "source": "MarketWatch",
-      "title": "Medicare premiums could double over next the decade, sabotaging retirement budgets"
+      "title": "Oil prices drop more than 5% as U.S. calls for international effort to secure Strait of Hormuz"
     },
     {
       "source": "MarketWatch",
-      "title": "Record Oscar haul for Warner Bros. caps off a topsy-turvy year for the legendary studio"
+      "title": "Trump has 15 days to end the Iran war or markets face a brutal April repricing \u2014 from oil to the S&P 500"
     }
   ]
 }
