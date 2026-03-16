@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, March 16 2026  03:14 PT",
+  "generated_at": "Monday, March 16 2026  05:08 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4977.8,
-      "change_pct": -0.89
+      "price": 5003.3,
+      "change_pct": -0.38
     },
     "Oil (WTI)": {
-      "price": 98.84,
-      "change_pct": -0.39
+      "price": 96.89,
+      "change_pct": -2.36
     },
     "Silver": {
-      "price": 77.28,
-      "change_pct": -3.74
+      "price": 79.12,
+      "change_pct": -1.44
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73354,
-      "change_pct": 2.17
+      "price": 73647,
+      "change_pct": 2.66
     },
     "ETH": {
-      "price": 2267.0,
-      "change_pct": 7.14
+      "price": 2280.23,
+      "change_pct": 7.69
     },
     "SOL": {
-      "price": 93.41,
-      "change_pct": 5.55
+      "price": 93.8,
+      "change_pct": 6.1
     },
     "BNB": {
-      "price": 677.7,
-      "change_pct": 2.24
+      "price": 678.71,
+      "change_pct": 2.8
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Brent crude holds above $100 as Trump says U.S. may hit Iran's oil hub again 'just for fun'"
+      "title": "U.S. is allowing Iranian tankers through Strait of Hormuz, says Bessent"
     },
     {
       "source": "CNBC",
-      "title": "'We will remember': Trump warns countries to help secure Strait of Hormuz as shipping stalls"
+      "title": "Trump-Xi China summit may be delayed if Trump wants to stay in Washington for Iran war: Bessent"
     },
     {
       "source": "MarketWatch",
-      "title": "UniCredit $40 billion offer for Germany\u2019s number-two bank comes with unusual twist \u2014 it expects to fail"
+      "title": "Trump has 15 days to end the Iran war or markets face a brutal April repricing \u2014 from oil to the S&P 500"
     },
     {
       "source": "MarketWatch",
-      "title": "Nicolas Cage just bought a new 2-unit luxury condo for $6.5 million in a coveted Manhattan building"
+      "title": "\u2018Selling will be a very difficult process\u2019: My mom, 93, owns a timeshare in Florida. How can I disclaim this inheritance?"
     }
   ]
 }
