@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, March 15 2026  16:57 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Sunday, March 15 2026  23:06 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 6632.19,
@@ -21,48 +21,48 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4983.5,
-      "change_pct": -0.79
+      "price": 5020.2,
+      "change_pct": -0.05
     },
     "Oil (WTI)": {
-      "price": 99.26,
-      "change_pct": -0.02
+      "price": 98.69,
+      "change_pct": -0.54
     },
     "Silver": {
-      "price": 79.76,
-      "change_pct": -1.1
+      "price": 80.27,
+      "change_pct": -0.01
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72762,
-      "change_pct": 2.17
+      "price": 73971,
+      "change_pct": 3.36
     },
     "ETH": {
-      "price": 2176.07,
-      "change_pct": 3.79
+      "price": 2271.55,
+      "change_pct": 7.65
     },
     "SOL": {
-      "price": 92.15,
-      "change_pct": 4.69
+      "price": 93.9,
+      "change_pct": 6.2
     },
     "BNB": {
-      "price": 673.43,
-      "change_pct": 2.36
+      "price": 683.69,
+      "change_pct": 3.62
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures rise slightly as oil hovers at $100 with S&P 500 on 3-week losing streak: Live updates"
+      "title": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz"
     },
     {
       "source": "CNBC",
-      "title": "U.S. oil prices top $100 as Trump administration threatens strikes on Iran's crude export facilities"
+      "title": "U.S. oil prices stay elevated as Trump threatens strikes on Iran's crude export facilities"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. stock futures bounce back, oil climbs as investors weigh developments in Iran conflict"
+      "title": "U.S. stock futures, oil prices bounce around as investors weigh developments in Iran conflict"
     },
     {
       "source": "MarketWatch",
