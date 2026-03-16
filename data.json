@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, March 16 2026  05:08 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, March 16 2026  09:17 PT",
+  "market_status": "Live \u2014 as of 12:17 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6632.19,
-      "change_pct": -0.61
+      "price": 6697.39,
+      "change_pct": 0.99
     },
     "Nasdaq": {
-      "price": 22105.36,
-      "change_pct": -0.93
+      "price": 22369.54,
+      "change_pct": 1.2
     },
     "Dow Jones": {
-      "price": 46558.47,
-      "change_pct": -0.26
+      "price": 46974.67,
+      "change_pct": 0.89
     },
     "Russell 2000": {
-      "price": 2480.05,
-      "change_pct": -0.36
+      "price": 2506.07,
+      "change_pct": 1.05
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5003.3,
-      "change_pct": -0.38
+      "price": 4997.7,
+      "change_pct": -0.49
     },
     "Oil (WTI)": {
-      "price": 96.89,
-      "change_pct": -2.36
+      "price": 95.3,
+      "change_pct": -3.96
     },
     "Silver": {
-      "price": 79.12,
-      "change_pct": -1.44
+      "price": 80.64,
+      "change_pct": 0.45
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73647,
-      "change_pct": 2.66
+      "price": 73334,
+      "change_pct": 2.7
     },
     "ETH": {
-      "price": 2280.23,
-      "change_pct": 7.69
+      "price": 2277.82,
+      "change_pct": 8.89
     },
     "SOL": {
-      "price": 93.8,
-      "change_pct": 6.1
+      "price": 93.28,
+      "change_pct": 6.19
     },
     "BNB": {
-      "price": 678.71,
-      "change_pct": 2.8
+      "price": 672.15,
+      "change_pct": 1.92
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. is allowing Iranian tankers through Strait of Hormuz, says Bessent"
+      "title": "U.S. is allowing Iranian oil tankers through Strait of Hormuz, says Bessent"
     },
     {
       "source": "CNBC",
-      "title": "Trump-Xi China summit may be delayed if Trump wants to stay in Washington for Iran war: Bessent"
+      "title": "Oil prices fall as Trump pressures allies to help protect tankers in Strait of Hormuz"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump has 15 days to end the Iran war or markets face a brutal April repricing \u2014 from oil to the S&P 500"
+      "title": "Medicare premiums could double over next the decade, sabotaging retirement budgets"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Selling will be a very difficult process\u2019: My mom, 93, owns a timeshare in Florida. How can I disclaim this inheritance?"
+      "title": "Record Oscar haul for Warner Bros. caps off a topsy-turvy year for the legendary studio"
     }
   ]
 }
