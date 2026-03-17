@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, March 17 2026  07:45 PT",
-  "market_status": "Live \u2014 as of 10:45 ET",
+  "generated_at": "Tuesday, March 17 2026  11:09 PT",
+  "market_status": "Live \u2014 as of 14:09 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6742.41,
-      "change_pct": 0.64
+      "price": 6730.67,
+      "change_pct": 0.46
     },
     "Nasdaq": {
-      "price": 22535.27,
-      "change_pct": 0.72
+      "price": 22513.07,
+      "change_pct": 0.62
     },
     "Dow Jones": {
-      "price": 47205.49,
-      "change_pct": 0.55
+      "price": 47103.73,
+      "change_pct": 0.33
     },
     "Russell 2000": {
-      "price": 2526.73,
-      "change_pct": 0.92
+      "price": 2521.21,
+      "change_pct": 0.7
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5013.0,
-      "change_pct": -0.34
+      "price": 5006.4,
+      "change_pct": -0.48
     },
     "Oil (WTI)": {
-      "price": 94.14,
-      "change_pct": -1.96
+      "price": 95.23,
+      "change_pct": -0.82
     },
     "Silver": {
-      "price": 80.71,
-      "change_pct": -1.01
+      "price": 79.62,
+      "change_pct": -2.34
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74238,
-      "change_pct": 1.5
+      "price": 74606,
+      "change_pct": 0.57
     },
     "ETH": {
-      "price": 2342.1,
-      "change_pct": 3.5
+      "price": 2339.54,
+      "change_pct": 0.46
     },
     "SOL": {
-      "price": 94.36,
-      "change_pct": 1.78
+      "price": 94.63,
+      "change_pct": 0.18
     },
     "BNB": {
-      "price": 669.38,
-      "change_pct": -0.34
+      "price": 673.27,
+      "change_pct": -0.87
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Social Security benefit cuts are coming \u2014 and they will hit current retirees hard"
+      "title": "The \u2018smart money\u2019 on Wall Street hates these bonds \u2014 but they may be a golden buying opportunity for you"
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla investors may have to wait even longer for a rocket-powered sports car"
+      "title": "Oil prices climb as Strait of Hormuz shipping activity remains limited"
     }
   ]
 }
