@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, March 17 2026  01:07 PT",
+  "generated_at": "Tuesday, March 17 2026  04:12 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5026.2,
-      "change_pct": -0.08
+      "price": 5002.3,
+      "change_pct": -0.56
     },
     "Oil (WTI)": {
-      "price": 96.12,
-      "change_pct": 0.1
+      "price": 95.57,
+      "change_pct": -0.47
     },
     "Silver": {
-      "price": 81.16,
-      "change_pct": -0.45
+      "price": 80.24,
+      "change_pct": -1.59
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74415,
-      "change_pct": 0.94
+      "price": 73911,
+      "change_pct": 0.36
     },
     "ETH": {
-      "price": 2331.37,
-      "change_pct": 3.28
+      "price": 2320.9,
+      "change_pct": 2.01
     },
     "SOL": {
-      "price": 94.66,
-      "change_pct": 0.82
+      "price": 93.64,
+      "change_pct": -0.21
     },
     "BNB": {
-      "price": 675.6,
-      "change_pct": -0.73
+      "price": 669.98,
+      "change_pct": -1.32
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "The U.S. dollar is back on top \u2013 for now"
+      "title": "Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz"
     },
     {
       "source": "CNBC",
-      "title": "Oil jumps over 3% as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping"
+      "title": "Israel says Iran\u2019s security chief, Ali Larijani, has been killed in a strike"
     },
     {
       "source": "MarketWatch",
-      "title": "This biotech is working on a GLP-1 pill that could be better than the Wegovy version"
+      "title": "Rose the dog might have just heralded the age of programmable medicine \u2014 and here are the stocks that benefit"
     },
     {
       "source": "MarketWatch",
-      "title": "Moody\u2019s says a recession will be hard to avoid if oil prices stay elevated for even a few more weeks"
+      "title": "Veteran strategist highlights how China is coming out on top of the Iranian war"
     }
   ]
 }
