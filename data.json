@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, March 16 2026  17:02 PT",
+  "generated_at": "Monday, March 16 2026  22:36 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5017.4,
-      "change_pct": -0.1
+      "price": 5040.1,
+      "change_pct": 0.21
     },
     "Oil (WTI)": {
-      "price": 94.61,
-      "change_pct": -4.66
+      "price": 95.62,
+      "change_pct": -0.38
     },
     "Silver": {
-      "price": 81.32,
-      "change_pct": 1.29
+      "price": 82.35,
+      "change_pct": 0.93
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74853,
-      "change_pct": 2.64
+      "price": 74327,
+      "change_pct": 0.57
     },
     "ETH": {
-      "price": 2349.21,
-      "change_pct": 7.66
+      "price": 2313.66,
+      "change_pct": 2.14
     },
     "SOL": {
-      "price": 96.16,
-      "change_pct": 4.23
+      "price": 93.98,
+      "change_pct": -0.0
     },
     "BNB": {
-      "price": 679.37,
-      "change_pct": 0.55
+      "price": 676.23,
+      "change_pct": -1.02
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia GTC 2026: CEO Jensen Huang sees $1 trillion in orders for Blackwell and Vera Rubin through '27"
+      "title": "Oil jumps over 2% as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping"
     },
     {
       "source": "CNBC",
-      "title": "Trump says U.S. asked China to delay Xi meeting 'a month or so' due to Iran war"
+      "title": "Nvidia GTC 2026: CEO Jensen Huang sees $1 trillion in orders for Blackwell and Vera Rubin through '27"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This biotech is working on a GLP-1 pill that could be better than the Wegovy version"
     },
     {
       "source": "MarketWatch",
       "title": "Moody\u2019s says a recession will be hard to avoid if oil prices stay elevated for even a few more weeks"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "U.S. stocks have been surprisingly resilient as the Iran conflict threatens global economic disruption. Thank industry analysts?"
     }
   ]
 }
