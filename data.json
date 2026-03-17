@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, March 17 2026  04:12 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, March 17 2026  07:45 PT",
+  "market_status": "Live \u2014 as of 10:45 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6699.38,
-      "change_pct": 1.01
+      "price": 6742.41,
+      "change_pct": 0.64
     },
     "Nasdaq": {
-      "price": 22374.18,
-      "change_pct": 1.22
+      "price": 22535.27,
+      "change_pct": 0.72
     },
     "Dow Jones": {
-      "price": 46946.41,
-      "change_pct": 0.83
+      "price": 47205.49,
+      "change_pct": 0.55
     },
     "Russell 2000": {
-      "price": 2503.29,
-      "change_pct": 0.94
+      "price": 2526.73,
+      "change_pct": 0.92
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5002.3,
-      "change_pct": -0.56
+      "price": 5013.0,
+      "change_pct": -0.34
     },
     "Oil (WTI)": {
-      "price": 95.57,
-      "change_pct": -0.47
+      "price": 94.14,
+      "change_pct": -1.96
     },
     "Silver": {
-      "price": 80.24,
-      "change_pct": -1.59
+      "price": 80.71,
+      "change_pct": -1.01
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73911,
-      "change_pct": 0.36
+      "price": 74238,
+      "change_pct": 1.5
     },
     "ETH": {
-      "price": 2320.9,
-      "change_pct": 2.01
+      "price": 2342.1,
+      "change_pct": 3.5
     },
     "SOL": {
-      "price": 93.64,
-      "change_pct": -0.21
+      "price": 94.36,
+      "change_pct": 1.78
     },
     "BNB": {
-      "price": 669.98,
-      "change_pct": -1.32
+      "price": 669.38,
+      "change_pct": -0.34
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Israel says Iran\u2019s security chief, Ali Larijani, has been killed in a strike"
+      "title": "U.S. counterterrorism director Joe Kent resigns over war: 'Iran posed no imminent threat'"
     },
     {
       "source": "MarketWatch",
-      "title": "Rose the dog might have just heralded the age of programmable medicine \u2014 and here are the stocks that benefit"
+      "title": "Social Security benefit cuts are coming \u2014 and they will hit current retirees hard"
     },
     {
       "source": "MarketWatch",
-      "title": "Veteran strategist highlights how China is coming out on top of the Iranian war"
+      "title": "Tesla investors may have to wait even longer for a rocket-powered sports car"
     }
   ]
 }
