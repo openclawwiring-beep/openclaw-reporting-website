@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, March 17 2026  13:05 PT",
+  "generated_at": "Tuesday, March 17 2026  15:03 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,58 +15,58 @@
       "change_pct": 0.1
     },
     "Russell 2000": {
-      "price": 2521.34,
-      "change_pct": 0.71
+      "price": 2519.99,
+      "change_pct": 0.67
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5005.5,
-      "change_pct": -0.49
+      "price": 5011.3,
+      "change_pct": -0.38
     },
     "Oil (WTI)": {
-      "price": 95.46,
-      "change_pct": -0.58
+      "price": 95.3,
+      "change_pct": -0.75
     },
     "Silver": {
-      "price": 79.36,
-      "change_pct": -2.66
+      "price": 79.46,
+      "change_pct": -2.54
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74499,
-      "change_pct": 0.75
+      "price": 74700,
+      "change_pct": 0.25
     },
     "ETH": {
-      "price": 2322.43,
-      "change_pct": -0.2
+      "price": 2338.65,
+      "change_pct": -1.1
     },
     "SOL": {
-      "price": 94.77,
-      "change_pct": -0.44
+      "price": 95.26,
+      "change_pct": -1.21
     },
     "BNB": {
-      "price": 672.04,
-      "change_pct": -0.88
+      "price": 673.66,
+      "change_pct": -1.05
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran targets UAE energy infrastructure as gas field set ablaze, tanker struck near Strait of Hormuz"
+      "title": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect"
     },
     {
       "source": "CNBC",
-      "title": "Tesla to buy $4.3 billion of LG Energy battery cells from disbanded GM plant"
+      "title": "OpenAI preps for IPO by end of year, tells employees ChatGPT must be 'productivity tool'"
     },
     {
       "source": "MarketWatch",
-      "title": "The spike in gas prices might affect Olive Garden sales, but not in the way you\u2019d expect"
+      "title": "\u2018Selling will be a very difficult process\u2019: My mom, 93, owns a timeshare in Florida. How can I disclaim this inheritance?"
     },
     {
       "source": "MarketWatch",
-      "title": "Micron\u2019s stock rises as enthusiasm builds ahead of earnings"
+      "title": "\u2018It\u2019s complicated\u2019: My husband, 61, wants to leave me everything. His kids will hate me. What should I do?"
     }
   ]
 }
