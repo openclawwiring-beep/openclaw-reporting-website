@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, March 17 2026  15:03 PT",
+  "generated_at": "Tuesday, March 17 2026  16:53 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5011.3,
-      "change_pct": -0.38
+      "price": 5006.7,
+      "change_pct": -0.47
     },
     "Oil (WTI)": {
-      "price": 95.3,
-      "change_pct": -0.75
+      "price": 95.39,
+      "change_pct": -0.66
     },
     "Silver": {
-      "price": 79.46,
-      "change_pct": -2.54
+      "price": 79.25,
+      "change_pct": -2.79
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74700,
-      "change_pct": 0.25
+      "price": 74021,
+      "change_pct": -0.97
     },
     "ETH": {
-      "price": 2338.65,
-      "change_pct": -1.1
+      "price": 2320.92,
+      "change_pct": -1.23
     },
     "SOL": {
-      "price": 95.26,
-      "change_pct": -1.21
+      "price": 94.82,
+      "change_pct": -1.53
     },
     "BNB": {
-      "price": 673.66,
-      "change_pct": -1.05
+      "price": 669.09,
+      "change_pct": -1.45
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "OpenAI preps for IPO by end of year, tells employees ChatGPT must be 'productivity tool'"
+      "title": "Israel says Iran\u2019s security chief, Ali Larijani, has been killed in a strike"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Selling will be a very difficult process\u2019: My mom, 93, owns a timeshare in Florida. How can I disclaim this inheritance?"
+      "title": "The spike in gas prices might affect Olive Garden sales, but not in the way you\u2019d expect"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s complicated\u2019: My husband, 61, wants to leave me everything. His kids will hate me. What should I do?"
+      "title": "Uber\u2019s stock powers higher as Nvidia robotaxi deal helps avert \u2018doomsday\u2019 scenario"
     }
   ]
 }
