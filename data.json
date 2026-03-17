@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, March 16 2026  22:36 PT",
+  "generated_at": "Tuesday, March 17 2026  01:07 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5040.1,
-      "change_pct": 0.21
+      "price": 5026.2,
+      "change_pct": -0.08
     },
     "Oil (WTI)": {
-      "price": 95.62,
-      "change_pct": -0.38
+      "price": 96.12,
+      "change_pct": 0.1
     },
     "Silver": {
-      "price": 82.35,
-      "change_pct": 0.93
+      "price": 81.16,
+      "change_pct": -0.45
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74327,
-      "change_pct": 0.57
+      "price": 74415,
+      "change_pct": 0.94
     },
     "ETH": {
-      "price": 2313.66,
-      "change_pct": 2.14
+      "price": 2331.37,
+      "change_pct": 3.28
     },
     "SOL": {
-      "price": 93.98,
-      "change_pct": -0.0
+      "price": 94.66,
+      "change_pct": 0.82
     },
     "BNB": {
-      "price": 676.23,
-      "change_pct": -1.02
+      "price": 675.6,
+      "change_pct": -0.73
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil jumps over 2% as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping"
+      "title": "The U.S. dollar is back on top \u2013 for now"
     },
     {
       "source": "CNBC",
-      "title": "Nvidia GTC 2026: CEO Jensen Huang sees $1 trillion in orders for Blackwell and Vera Rubin through '27"
+      "title": "Oil jumps over 3% as doubts linger over U.S.-backed plan to protect Strait of Hormuz shipping"
     },
     {
       "source": "MarketWatch",
