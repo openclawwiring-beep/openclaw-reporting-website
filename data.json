@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, March 17 2026  11:09 PT",
-  "market_status": "Live \u2014 as of 14:09 ET",
+  "generated_at": "Tuesday, March 17 2026  13:05 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6730.67,
-      "change_pct": 0.46
+      "price": 6716.09,
+      "change_pct": 0.25
     },
     "Nasdaq": {
-      "price": 22513.07,
-      "change_pct": 0.62
+      "price": 22479.53,
+      "change_pct": 0.47
     },
     "Dow Jones": {
-      "price": 47103.73,
-      "change_pct": 0.33
+      "price": 46993.26,
+      "change_pct": 0.1
     },
     "Russell 2000": {
-      "price": 2521.21,
-      "change_pct": 0.7
+      "price": 2521.34,
+      "change_pct": 0.71
     }
   },
   "commodities": {
     "Gold": {
-      "price": 5006.4,
-      "change_pct": -0.48
+      "price": 5005.5,
+      "change_pct": -0.49
     },
     "Oil (WTI)": {
-      "price": 95.23,
-      "change_pct": -0.82
+      "price": 95.46,
+      "change_pct": -0.58
     },
     "Silver": {
-      "price": 79.62,
-      "change_pct": -2.34
+      "price": 79.36,
+      "change_pct": -2.66
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74606,
-      "change_pct": 0.57
+      "price": 74499,
+      "change_pct": 0.75
     },
     "ETH": {
-      "price": 2339.54,
-      "change_pct": 0.46
+      "price": 2322.43,
+      "change_pct": -0.2
     },
     "SOL": {
-      "price": 94.63,
-      "change_pct": 0.18
+      "price": 94.77,
+      "change_pct": -0.44
     },
     "BNB": {
-      "price": 673.27,
-      "change_pct": -0.87
+      "price": 672.04,
+      "change_pct": -0.88
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "U.S. counterterrorism director Joe Kent resigns over war: 'Iran posed no imminent threat'"
+      "title": "Tesla to buy $4.3 billion of LG Energy battery cells from disbanded GM plant"
     },
     {
       "source": "MarketWatch",
-      "title": "The \u2018smart money\u2019 on Wall Street hates these bonds \u2014 but they may be a golden buying opportunity for you"
+      "title": "The spike in gas prices might affect Olive Garden sales, but not in the way you\u2019d expect"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices climb as Strait of Hormuz shipping activity remains limited"
+      "title": "Micron\u2019s stock rises as enthusiasm builds ahead of earnings"
     }
   ]
 }
