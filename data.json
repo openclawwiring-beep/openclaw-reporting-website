@@ -1,60 +1,60 @@
 {
-  "generated_at": "Wednesday, March 18 2026  12:31 PT",
-  "market_status": "Live \u2014 as of 15:31 ET",
+  "generated_at": "Wednesday, March 18 2026  14:51 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6638.64,
-      "change_pct": -1.17
+      "price": 6624.7,
+      "change_pct": -1.36
     },
     "Nasdaq": {
-      "price": 22210.68,
-      "change_pct": -1.2
+      "price": 22152.42,
+      "change_pct": -1.46
     },
     "Dow Jones": {
-      "price": 46275.55,
-      "change_pct": -1.55
+      "price": 46225.15,
+      "change_pct": -1.63
     },
     "Russell 2000": {
-      "price": 2489.14,
-      "change_pct": -1.23
+      "price": 2478.64,
+      "change_pct": -1.64
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4860.8,
-      "change_pct": -2.64
+      "price": 4823.9,
+      "change_pct": -3.38
     },
     "Oil (WTI)": {
-      "price": 96.97,
-      "change_pct": 4.75
+      "price": 99.05,
+      "change_pct": 7.0
     },
     "Silver": {
-      "price": 76.3,
-      "change_pct": -3.04
+      "price": 75.42,
+      "change_pct": -4.16
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71289,
-      "change_pct": -4.49
+      "price": 71338,
+      "change_pct": -4.54
     },
     "ETH": {
-      "price": 2193.01,
-      "change_pct": -6.07
+      "price": 2202.76,
+      "change_pct": -5.81
     },
     "SOL": {
-      "price": 89.82,
-      "change_pct": -5.53
+      "price": 90.41,
+      "change_pct": -5.1
     },
     "BNB": {
-      "price": 649.28,
-      "change_pct": -3.63
+      "price": 652.22,
+      "change_pct": -3.19
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fed votes to hold rates steady, notes 'uncertain' impacts from Iran war"
+      "title": "Micron revenue almost triples, tops estimates as demand for memory soars"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Powell delivers his most definitive answer yet on how long he\u2019ll stay on as Fed chair"
+      "title": "Dow falls nearly 800 points after Powell makes one thing clear: There\u2019s no rush to rescue the market"
     },
     {
       "source": "MarketWatch",
-      "title": "Netflix more likely to raise prices with Warner Bros. deal out of the way, Citi says"
+      "title": "Powell warns of \u2018new inflation\u2019 from the Iran conflict as gas prices jump 30%"
     }
   ]
 }
