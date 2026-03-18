@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, March 17 2026  22:22 PT",
+  "generated_at": "Wednesday, March 18 2026  01:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4994.8,
-      "change_pct": -0.07
+      "price": 4996.3,
+      "change_pct": -0.04
     },
     "Oil (WTI)": {
-      "price": 92.58,
-      "change_pct": -1.29
+      "price": 93.25,
+      "change_pct": -0.58
     },
     "Silver": {
-      "price": 79.31,
-      "change_pct": 0.53
+      "price": 79.66,
+      "change_pct": 0.97
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74235,
-      "change_pct": -0.07
+      "price": 73891,
+      "change_pct": -0.72
     },
     "ETH": {
-      "price": 2329.11,
-      "change_pct": 0.68
+      "price": 2317.97,
+      "change_pct": -0.6
     },
     "SOL": {
-      "price": 94.32,
-      "change_pct": 0.44
+      "price": 93.96,
+      "change_pct": -0.48
     },
     "BNB": {
-      "price": 673.22,
-      "change_pct": -0.42
+      "price": 673.82,
+      "change_pct": -0.3
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran launches retaliatory strikes on Israel and U.S. assets after security chief Larijani is killed"
+      "title": "France ready to help U.S. secure Strait of Hormuz \u2014 but not while ships are under attack"
     },
     {
       "source": "CNBC",
-      "title": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect"
+      "title": "Traffic starts trickling through Strait of Hormuz: Who's moving through and who's still stranded or diverting"
     },
     {
       "source": "MarketWatch",
