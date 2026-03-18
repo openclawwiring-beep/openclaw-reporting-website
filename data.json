@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, March 18 2026  04:14 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, March 18 2026  08:50 PT",
+  "market_status": "Live \u2014 as of 11:50 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6716.09,
-      "change_pct": 0.25
+      "price": 6678.34,
+      "change_pct": -0.58
     },
     "Nasdaq": {
-      "price": 22479.53,
-      "change_pct": 0.47
+      "price": 22352.6,
+      "change_pct": -0.56
     },
     "Dow Jones": {
-      "price": 46993.26,
-      "change_pct": 0.1
+      "price": 46571.5,
+      "change_pct": -0.92
     },
     "Russell 2000": {
-      "price": 2519.99,
-      "change_pct": 0.67
+      "price": 2500.21,
+      "change_pct": -0.79
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4963.9,
-      "change_pct": -0.58
+      "price": 4875.8,
+      "change_pct": -2.34
     },
     "Oil (WTI)": {
-      "price": 94.13,
-      "change_pct": 1.69
+      "price": 98.04,
+      "change_pct": 5.91
     },
     "Silver": {
-      "price": 79.07,
-      "change_pct": 0.47
+      "price": 77.07,
+      "change_pct": -2.06
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73980,
-      "change_pct": 0.08
+      "price": 71319,
+      "change_pct": -3.67
     },
     "ETH": {
-      "price": 2315.87,
-      "change_pct": -0.28
+      "price": 2180.64,
+      "change_pct": -5.99
     },
     "SOL": {
-      "price": 93.78,
-      "change_pct": 0.16
+      "price": 89.19,
+      "change_pct": -4.66
     },
     "BNB": {
-      "price": 672.05,
-      "change_pct": 0.32
+      "price": 647.18,
+      "change_pct": -3.15
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "France ready to help U.S. secure Strait of Hormuz \u2014 but not while drones and missiles are flying"
+      "title": "Trump waives U.S. shipping law for 60 days to steady oil market"
     },
     {
       "source": "CNBC",
-      "title": "Macy's expects sales to fall this year, even as store revamp shows progress"
+      "title": "Expectations for the next Fed rate cut get pushed back after hot inflation report"
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s a \u2018black swan\u2019 moment in oil but nowhere else. The stock market is at risk of a 20% fall, say these strategists."
+      "title": "It\u2019s time to rethink how we define obesity as millions turn to GLP-1s"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s complicated\u2019: My husband, 61, wants to leave me everything. His kids will hate me. What should I do?"
+      "title": "Warren Buffett\u2019s parting gift to Berkshire Hathaway: a $2 billion Iran oil windfall"
     }
   ]
 }
