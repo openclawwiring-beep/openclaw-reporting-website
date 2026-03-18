@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, March 18 2026  01:02 PT",
+  "generated_at": "Wednesday, March 18 2026  04:14 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4996.3,
-      "change_pct": -0.04
-    },
-    "Oil (WTI)": {
-      "price": 93.25,
+      "price": 4963.9,
       "change_pct": -0.58
     },
+    "Oil (WTI)": {
+      "price": 94.13,
+      "change_pct": 1.69
+    },
     "Silver": {
-      "price": 79.66,
-      "change_pct": 0.97
+      "price": 79.07,
+      "change_pct": 0.47
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73891,
-      "change_pct": -0.72
+      "price": 73980,
+      "change_pct": 0.08
     },
     "ETH": {
-      "price": 2317.97,
-      "change_pct": -0.6
+      "price": 2315.87,
+      "change_pct": -0.28
     },
     "SOL": {
-      "price": 93.96,
-      "change_pct": -0.48
+      "price": 93.78,
+      "change_pct": 0.16
     },
     "BNB": {
-      "price": 673.82,
-      "change_pct": -0.3
+      "price": 672.05,
+      "change_pct": 0.32
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "France ready to help U.S. secure Strait of Hormuz \u2014 but not while ships are under attack"
+      "title": "France ready to help U.S. secure Strait of Hormuz \u2014 but not while drones and missiles are flying"
     },
     {
       "source": "CNBC",
-      "title": "Traffic starts trickling through Strait of Hormuz: Who's moving through and who's still stranded or diverting"
+      "title": "Macy's expects sales to fall this year, even as store revamp shows progress"
     },
     {
       "source": "MarketWatch",
-      "title": "The \u2018smart money\u2019 on Wall Street hates these bonds \u2014 but they may be a golden buying opportunity for you"
+      "title": "It\u2019s a \u2018black swan\u2019 moment in oil but nowhere else. The stock market is at risk of a 20% fall, say these strategists."
     },
     {
       "source": "MarketWatch",
-      "title": "The spike in gas prices might affect Olive Garden sales, but not in the way you\u2019d expect"
+      "title": "\u2018It\u2019s complicated\u2019: My husband, 61, wants to leave me everything. His kids will hate me. What should I do?"
     }
   ]
 }
