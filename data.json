@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, March 18 2026  08:50 PT",
-  "market_status": "Live \u2014 as of 11:50 ET",
+  "generated_at": "Wednesday, March 18 2026  12:31 PT",
+  "market_status": "Live \u2014 as of 15:31 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6678.34,
-      "change_pct": -0.58
+      "price": 6638.64,
+      "change_pct": -1.17
     },
     "Nasdaq": {
-      "price": 22352.6,
-      "change_pct": -0.56
+      "price": 22210.68,
+      "change_pct": -1.2
     },
     "Dow Jones": {
-      "price": 46571.5,
-      "change_pct": -0.92
+      "price": 46275.55,
+      "change_pct": -1.55
     },
     "Russell 2000": {
-      "price": 2500.21,
-      "change_pct": -0.79
+      "price": 2489.14,
+      "change_pct": -1.23
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4875.8,
-      "change_pct": -2.34
+      "price": 4860.8,
+      "change_pct": -2.64
     },
     "Oil (WTI)": {
-      "price": 98.04,
-      "change_pct": 5.91
+      "price": 96.97,
+      "change_pct": 4.75
     },
     "Silver": {
-      "price": 77.07,
-      "change_pct": -2.06
+      "price": 76.3,
+      "change_pct": -3.04
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71319,
-      "change_pct": -3.67
+      "price": 71289,
+      "change_pct": -4.49
     },
     "ETH": {
-      "price": 2180.64,
-      "change_pct": -5.99
+      "price": 2193.01,
+      "change_pct": -6.07
     },
     "SOL": {
-      "price": 89.19,
-      "change_pct": -4.66
+      "price": 89.82,
+      "change_pct": -5.53
     },
     "BNB": {
-      "price": 647.18,
-      "change_pct": -3.15
+      "price": 649.28,
+      "change_pct": -3.63
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump waives U.S. shipping law for 60 days to steady oil market"
+      "title": "Fed votes to hold rates steady, notes 'uncertain' impacts from Iran war"
     },
     {
       "source": "CNBC",
-      "title": "Expectations for the next Fed rate cut get pushed back after hot inflation report"
+      "title": "Trump waives Jones Act shipping rules for 60 days to steady oil market"
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s time to rethink how we define obesity as millions turn to GLP-1s"
+      "title": "Powell delivers his most definitive answer yet on how long he\u2019ll stay on as Fed chair"
     },
     {
       "source": "MarketWatch",
-      "title": "Warren Buffett\u2019s parting gift to Berkshire Hathaway: a $2 billion Iran oil windfall"
+      "title": "Netflix more likely to raise prices with Warner Bros. deal out of the way, Citi says"
     }
   ]
 }
