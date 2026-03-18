@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, March 17 2026  16:53 PT",
+  "generated_at": "Tuesday, March 17 2026  22:22 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 5006.7,
-      "change_pct": -0.47
+      "price": 4994.8,
+      "change_pct": -0.07
     },
     "Oil (WTI)": {
-      "price": 95.39,
-      "change_pct": -0.66
+      "price": 92.58,
+      "change_pct": -1.29
     },
     "Silver": {
-      "price": 79.25,
-      "change_pct": -2.79
+      "price": 79.31,
+      "change_pct": 0.53
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74021,
-      "change_pct": -0.97
+      "price": 74235,
+      "change_pct": -0.07
     },
     "ETH": {
-      "price": 2320.92,
-      "change_pct": -1.23
+      "price": 2329.11,
+      "change_pct": 0.68
     },
     "SOL": {
-      "price": 94.82,
-      "change_pct": -1.53
+      "price": 94.32,
+      "change_pct": 0.44
     },
     "BNB": {
-      "price": 669.09,
-      "change_pct": -1.45
+      "price": 673.22,
+      "change_pct": -0.42
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect"
+      "title": "Iran launches retaliatory strikes on Israel and U.S. assets after security chief Larijani is killed"
     },
     {
       "source": "CNBC",
-      "title": "Israel says Iran\u2019s security chief, Ali Larijani, has been killed in a strike"
+      "title": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The \u2018smart money\u2019 on Wall Street hates these bonds \u2014 but they may be a golden buying opportunity for you"
     },
     {
       "source": "MarketWatch",
       "title": "The spike in gas prices might affect Olive Garden sales, but not in the way you\u2019d expect"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Uber\u2019s stock powers higher as Nvidia robotaxi deal helps avert \u2018doomsday\u2019 scenario"
     }
   ]
 }
