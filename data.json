@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, March 18 2026  16:02 PT",
+  "generated_at": "Wednesday, March 18 2026  17:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4839.2,
-      "change_pct": -3.07
+      "price": 4834.8,
+      "change_pct": -3.16
     },
     "Oil (WTI)": {
-      "price": 98.07,
-      "change_pct": 5.94
+      "price": 98.47,
+      "change_pct": 6.37
     },
     "Silver": {
-      "price": 75.77,
-      "change_pct": -3.72
+      "price": 76.08,
+      "change_pct": -3.32
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71103,
-      "change_pct": -4.27
+      "price": 71244,
+      "change_pct": -3.58
     },
     "ETH": {
-      "price": 2192.43,
-      "change_pct": -5.85
+      "price": 2203.26,
+      "change_pct": -4.96
     },
     "SOL": {
-      "price": 89.99,
-      "change_pct": -5.55
+      "price": 90.03,
+      "change_pct": -4.91
     },
     "BNB": {
-      "price": 651.4,
-      "change_pct": -2.94
+      "price": 652.13,
+      "change_pct": -2.43
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Your March Madness bracket could wreck your stock portfolio \u2014 so \u2018sit on your hands\u2019 until April 6"
+      "title": "Social media is eroding young people\u2019s happiness. Low-income teens may be most at risk."
     },
     {
       "source": "MarketWatch",
-      "title": "Five Below stock continues its tear, as upbeat outlook eases fears of consumer slowdown"
+      "title": "Why Starbucks\u2019 turnaround plans might not win over the younger crowd"
     }
   ]
 }
