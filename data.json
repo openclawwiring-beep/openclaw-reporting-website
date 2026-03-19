@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, March 19 2026  03:26 PT",
+  "generated_at": "Thursday, March 19 2026  05:00 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4702.6,
-      "change_pct": -3.09
+      "price": 4663.3,
+      "change_pct": -3.9
     },
     "Oil (WTI)": {
-      "price": 95.69,
-      "change_pct": -0.71
+      "price": 97.43,
+      "change_pct": 1.1
     },
     "Silver": {
-      "price": 71.68,
-      "change_pct": -5.62
+      "price": 70.65,
+      "change_pct": -6.97
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70438,
-      "change_pct": -5.07
+      "price": 69935,
+      "change_pct": -4.14
     },
     "ETH": {
-      "price": 2184.2,
-      "change_pct": -6.3
+      "price": 2167.02,
+      "change_pct": -4.51
     },
     "SOL": {
-      "price": 90.26,
-      "change_pct": -4.32
+      "price": 89.58,
+      "change_pct": -2.66
     },
     "BNB": {
-      "price": 648.34,
-      "change_pct": -4.1
+      "price": 643.95,
+      "change_pct": -2.86
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil rises beyond $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran"
+      "title": "Micron falls more than 5% despite blockbuster earnings. Here's what market watchers are saying"
     },
     {
       "source": "CNBC",
-      "title": "Gold and silver sell off as inflation fears grip global markets"
+      "title": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 59. My wife and I bought a second home for $484,000 at 6.2% interest. Will this be a drain on our retirement?"
+      "title": "It\u2019s time to rethink how we define obesity as millions turn to GLP-1s"
     },
     {
       "source": "MarketWatch",
-      "title": "I opened a 0% credit card to pay $11,000 in vacation debt. What could go wrong? Quite a lot, it seems."
+      "title": "\u2018It\u2019s complicated\u2019: My husband, 61, wants to leave me everything. His kids will hate me. What should I do?"
     }
   ]
 }
