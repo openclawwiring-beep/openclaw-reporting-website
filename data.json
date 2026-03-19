@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, March 18 2026  22:37 PT",
+  "generated_at": "Thursday, March 19 2026  01:00 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4850.2,
-      "change_pct": -0.05
+      "price": 4751.3,
+      "change_pct": -2.09
     },
     "Oil (WTI)": {
-      "price": 96.28,
-      "change_pct": -0.09
+      "price": 96.45,
+      "change_pct": 0.08
     },
     "Silver": {
-      "price": 75.82,
-      "change_pct": -0.16
+      "price": 72.0,
+      "change_pct": -5.19
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70743,
-      "change_pct": -4.51
+      "price": 70213,
+      "change_pct": -4.98
     },
     "ETH": {
-      "price": 2188.09,
-      "change_pct": -5.88
+      "price": 2167.23,
+      "change_pct": -6.51
     },
     "SOL": {
-      "price": 89.84,
-      "change_pct": -4.6
+      "price": 89.51,
+      "change_pct": -4.74
     },
     "BNB": {
-      "price": 648.77,
-      "change_pct": -3.4
+      "price": 645.4,
+      "change_pct": -4.24
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump warns to 'blow up' South Pars gas field in Iran if strikes against Qatar energy continue"
+      "title": "Brent hits $114 and Europe gas prices soar 30% after attacks on energy facilities in Qatar, Iran"
     },
     {
       "source": "CNBC",
-      "title": "Micron revenue almost triples, tops estimates as demand for memory soars"
+      "title": "Trump warns to 'blow up' South Pars gas field in Iran if strikes against Qatar energy continue"
     },
     {
       "source": "MarketWatch",
