@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, March 18 2026  17:02 PT",
+  "generated_at": "Wednesday, March 18 2026  22:37 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4834.8,
-      "change_pct": -3.16
+      "price": 4850.2,
+      "change_pct": -0.05
     },
     "Oil (WTI)": {
-      "price": 98.47,
-      "change_pct": 6.37
+      "price": 96.28,
+      "change_pct": -0.09
     },
     "Silver": {
-      "price": 76.08,
-      "change_pct": -3.32
+      "price": 75.82,
+      "change_pct": -0.16
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71244,
-      "change_pct": -3.58
+      "price": 70743,
+      "change_pct": -4.51
     },
     "ETH": {
-      "price": 2203.26,
-      "change_pct": -4.96
+      "price": 2188.09,
+      "change_pct": -5.88
     },
     "SOL": {
-      "price": 90.03,
-      "change_pct": -4.91
+      "price": 89.84,
+      "change_pct": -4.6
     },
     "BNB": {
-      "price": 652.13,
-      "change_pct": -2.43
+      "price": 648.77,
+      "change_pct": -3.4
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Micron revenue almost triples, tops estimates as demand for memory soars"
+      "title": "Trump warns to 'blow up' South Pars gas field in Iran if strikes against Qatar energy continue"
     },
     {
       "source": "CNBC",
-      "title": "Iran missile attack on Qatar causes 'extensive damage' to facility housing huge gas plant"
+      "title": "Micron revenue almost triples, tops estimates as demand for memory soars"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Almost 1 in 3 Americans doesn\u2019t know when \u2014 or even if \u2014 they can retire"
     },
     {
       "source": "MarketWatch",
       "title": "Social media is eroding young people\u2019s happiness. Low-income teens may be most at risk."
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why Starbucks\u2019 turnaround plans might not win over the younger crowd"
     }
   ]
 }
