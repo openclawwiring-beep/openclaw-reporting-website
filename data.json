@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, March 19 2026  05:00 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, March 19 2026  08:08 PT",
+  "market_status": "Live \u2014 as of 11:08 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6624.7,
-      "change_pct": -1.36
+      "price": 6596.77,
+      "change_pct": -0.42
     },
     "Nasdaq": {
-      "price": 22152.42,
-      "change_pct": -1.46
+      "price": 22050.39,
+      "change_pct": -0.46
     },
     "Dow Jones": {
-      "price": 46225.15,
-      "change_pct": -1.63
+      "price": 45951.39,
+      "change_pct": -0.59
     },
     "Russell 2000": {
-      "price": 2478.64,
-      "change_pct": -1.64
+      "price": 2471.38,
+      "change_pct": -0.3
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4663.3,
-      "change_pct": -3.9
+      "price": 4610.0,
+      "change_pct": -5.0
     },
     "Oil (WTI)": {
-      "price": 97.43,
-      "change_pct": 1.1
+      "price": 96.51,
+      "change_pct": 0.15
     },
     "Silver": {
-      "price": 70.65,
-      "change_pct": -6.97
+      "price": 70.21,
+      "change_pct": -7.54
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69935,
-      "change_pct": -4.14
+      "price": 69838,
+      "change_pct": -2.17
     },
     "ETH": {
-      "price": 2167.02,
-      "change_pct": -4.51
+      "price": 2133.08,
+      "change_pct": -2.78
     },
     "SOL": {
-      "price": 89.58,
-      "change_pct": -2.66
+      "price": 88.41,
+      "change_pct": -0.78
     },
     "BNB": {
-      "price": 643.95,
-      "change_pct": -2.86
+      "price": 639.79,
+      "change_pct": -1.55
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Micron falls more than 5% despite blockbuster earnings. Here's what market watchers are saying"
+      "title": "Hegseth says potential $200 billion Iran war spending request could shift: 'Takes money to kill bad guys'"
     },
     {
       "source": "CNBC",
-      "title": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran"
+      "title": "Micron falls 5% after blowout earnings. CEO says it can supply only a fraction of key customer needs"
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s time to rethink how we define obesity as millions turn to GLP-1s"
+      "title": "Why Micron\u2019s stock is sliding despite Nvidia-like earnings performance"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s complicated\u2019: My husband, 61, wants to leave me everything. His kids will hate me. What should I do?"
+      "title": "When will you retire? Maybe never."
     }
   ]
 }
