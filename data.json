@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, March 19 2026  08:08 PT",
-  "market_status": "Live \u2014 as of 11:08 ET",
+  "generated_at": "Thursday, March 19 2026  11:06 PT",
+  "market_status": "Live \u2014 as of 14:06 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6596.77,
-      "change_pct": -0.42
+      "price": 6577.7,
+      "change_pct": -0.7
     },
     "Nasdaq": {
-      "price": 22050.39,
-      "change_pct": -0.46
+      "price": 21964.9,
+      "change_pct": -0.85
     },
     "Dow Jones": {
-      "price": 45951.39,
-      "change_pct": -0.59
+      "price": 45842.47,
+      "change_pct": -0.82
     },
     "Russell 2000": {
-      "price": 2471.38,
-      "change_pct": -0.3
+      "price": 2464.77,
+      "change_pct": -0.56
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4610.0,
-      "change_pct": -5.0
+      "price": 4621.6,
+      "change_pct": -4.76
     },
     "Oil (WTI)": {
-      "price": 96.51,
-      "change_pct": 0.15
+      "price": 95.82,
+      "change_pct": -0.57
     },
     "Silver": {
-      "price": 70.21,
-      "change_pct": -7.54
+      "price": 71.61,
+      "change_pct": -5.7
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69838,
-      "change_pct": -2.17
+      "price": 69756,
+      "change_pct": -3.0
     },
     "ETH": {
-      "price": 2133.08,
-      "change_pct": -2.78
+      "price": 2123.47,
+      "change_pct": -4.18
     },
     "SOL": {
-      "price": 88.41,
-      "change_pct": -0.78
+      "price": 88.13,
+      "change_pct": -2.69
     },
     "BNB": {
-      "price": 639.79,
-      "change_pct": -1.55
+      "price": 637.83,
+      "change_pct": -2.26
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Micron falls 5% after blowout earnings. CEO says it can supply only a fraction of key customer needs"
+      "title": "Trump signals DOJ should continue Powell probe, complicating Warsh Fed nom"
     },
     {
       "source": "MarketWatch",
-      "title": "Why Micron\u2019s stock is sliding despite Nvidia-like earnings performance"
+      "title": "The \u2018smart money\u2019 fled software stocks after that viral AI doomsday report. Here\u2019s where it\u2019s going."
     },
     {
       "source": "MarketWatch",
-      "title": "When will you retire? Maybe never."
+      "title": "Global oil prices ease back from $119 a barrel as Trump tries to sooth markets about Iran conflict"
     }
   ]
 }
