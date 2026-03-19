@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, March 19 2026  14:53 PT",
+  "generated_at": "Thursday, March 19 2026  16:00 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4651.9,
-      "change_pct": -4.14
+      "price": 4648.6,
+      "change_pct": -4.21
     },
     "Oil (WTI)": {
-      "price": 94.59,
-      "change_pct": -1.85
+      "price": 94.1,
+      "change_pct": -2.36
     },
     "Silver": {
-      "price": 72.81,
-      "change_pct": -4.12
+      "price": 72.42,
+      "change_pct": -4.64
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70424,
-      "change_pct": -1.27
+      "price": 70194,
+      "change_pct": -1.32
     },
     "ETH": {
-      "price": 2148.62,
-      "change_pct": -2.46
+      "price": 2140.49,
+      "change_pct": -2.43
     },
     "SOL": {
-      "price": 89.06,
-      "change_pct": -1.5
+      "price": 88.69,
+      "change_pct": -1.46
     },
     "BNB": {
-      "price": 641.72,
-      "change_pct": -1.63
+      "price": 640.39,
+      "change_pct": -1.72
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Copper joins gold in broad commodities sell-off. There's a worrying reason behind it"
+      "title": "Stock futures tick higher, but S&P 500 heads for fourth losing week in a row amid rising oil prices: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Netanyahu says Iran is being 'decimated' but revolution requires 'ground component'"
+      "title": "Trump signals DOJ should continue Powell probe, complicating Warsh Fed nomination"
     },
     {
       "source": "MarketWatch",
-      "title": "Betting scandals leave pro sports just one way to save the $165 billion gaming market"
+      "title": "This is Jeff Bezos\u2019s plan to rival Elon Musk in the race for space-based data centers"
     },
     {
       "source": "MarketWatch",
-      "title": "Investors are bracing for wild trading on Friday as first \u2018triple witching\u2019 of 2026 collides with Iran conflict"
+      "title": "Why Micron\u2019s stock is sliding despite Nvidia-like earnings performance"
     }
   ]
 }
