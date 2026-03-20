@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, March 20 2026  12:28 PT",
-  "market_status": "Live \u2014 as of 15:28 ET",
+  "generated_at": "Friday, March 20 2026  13:59 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6497.69,
-      "change_pct": -1.64
+      "price": 6506.48,
+      "change_pct": -1.51
     },
     "Nasdaq": {
-      "price": 21613.99,
-      "change_pct": -2.16
+      "price": 21647.61,
+      "change_pct": -2.01
     },
     "Dow Jones": {
-      "price": 45510.51,
-      "change_pct": -1.11
+      "price": 45577.47,
+      "change_pct": -0.96
     },
     "Russell 2000": {
-      "price": 2430.69,
-      "change_pct": -2.58
+      "price": 2438.45,
+      "change_pct": -2.26
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4501.1,
-      "change_pct": -4.74
+      "price": 4497.6,
+      "change_pct": -4.82
     },
     "Oil (WTI)": {
-      "price": 98.4,
-      "change_pct": 4.88
+      "price": 97.91,
+      "change_pct": 4.36
     },
     "Silver": {
-      "price": 68.14,
-      "change_pct": -8.17
+      "price": 68.04,
+      "change_pct": -8.3
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69796,
-      "change_pct": -0.73
+      "price": 70040,
+      "change_pct": -0.64
     },
     "ETH": {
-      "price": 2123.0,
-      "change_pct": -1.03
+      "price": 2133.03,
+      "change_pct": -0.6
     },
     "SOL": {
-      "price": 88.5,
-      "change_pct": -0.54
+      "price": 88.97,
+      "change_pct": -0.03
     },
     "BNB": {
-      "price": 638.04,
-      "change_pct": -0.37
+      "price": 639.4,
+      "change_pct": -0.4
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Small cap-focused Russell 2000 becomes the first of major U.S. benchmarks to enter correction territory this year"
+      "title": "Stocks tumble Friday as losses mount from Iran war impact, Dow and Nasdaq near correction: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Super Micro shares tank 30% after employees charged with smuggling Nvidia chips to China"
+      "title": "Trump: 'I don't want to do a ceasefire' in Iran war"
     },
     {
       "source": "MarketWatch",
-      "title": "Retirement investors assume financial pros are held to high standards. That\u2019s not always the case."
+      "title": "History says these 2 overlooked asset classes are the only real shield against 1970s-style stagflation"
     },
     {
       "source": "MarketWatch",
-      "title": "Crypto\u2019s \u2018shadow banks\u2019 don\u2019t want to play by the rules \u2014 setting the stage for a major crisis"
+      "title": "Here\u2019s the exact amount of money you need to make to be financially secure"
     }
   ]
 }
