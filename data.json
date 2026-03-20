@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, March 20 2026  10:11 PT",
-  "market_status": "Live \u2014 as of 13:11 ET",
+  "generated_at": "Friday, March 20 2026  12:28 PT",
+  "market_status": "Live \u2014 as of 15:28 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6550.82,
-      "change_pct": -0.84
+      "price": 6497.69,
+      "change_pct": -1.64
     },
     "Nasdaq": {
-      "price": 21797.4,
-      "change_pct": -1.33
+      "price": 21613.99,
+      "change_pct": -2.16
     },
     "Dow Jones": {
-      "price": 45856.19,
-      "change_pct": -0.36
+      "price": 45510.51,
+      "change_pct": -1.11
     },
     "Russell 2000": {
-      "price": 2461.32,
-      "change_pct": -1.35
+      "price": 2430.69,
+      "change_pct": -2.58
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4583.7,
-      "change_pct": -2.99
+      "price": 4501.1,
+      "change_pct": -4.74
     },
     "Oil (WTI)": {
-      "price": 97.55,
-      "change_pct": 3.98
+      "price": 98.4,
+      "change_pct": 4.88
     },
     "Silver": {
-      "price": 69.82,
-      "change_pct": -5.9
+      "price": 68.14,
+      "change_pct": -8.17
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69852,
-      "change_pct": 0.97
+      "price": 69796,
+      "change_pct": -0.73
     },
     "ETH": {
-      "price": 2135.93,
-      "change_pct": 1.33
+      "price": 2123.0,
+      "change_pct": -1.03
     },
     "SOL": {
-      "price": 88.92,
-      "change_pct": 1.61
+      "price": 88.5,
+      "change_pct": -0.54
     },
     "BNB": {
-      "price": 640.35,
-      "change_pct": 1.03
+      "price": 638.04,
+      "change_pct": -0.37
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Super Micro shares tank 25% after employees charged with smuggling Nvidia chips to China"
+      "title": "Small cap-focused Russell 2000 becomes the first of major U.S. benchmarks to enter correction territory this year"
     },
     {
       "source": "CNBC",
-      "title": "The spring housing market is on, but mortgage rates just shot higher. Here's what to know."
+      "title": "Super Micro shares tank 30% after employees charged with smuggling Nvidia chips to China"
     },
     {
       "source": "MarketWatch",
-      "title": "If you support the Iran war, stop whining about gasoline prices"
+      "title": "Retirement investors assume financial pros are held to high standards. That\u2019s not always the case."
     },
     {
       "source": "MarketWatch",
-      "title": "Stocks, bonds struggle as traders now see chances of Fed rate hike above 50% \u2014 up sharply from earlier this week"
+      "title": "Crypto\u2019s \u2018shadow banks\u2019 don\u2019t want to play by the rules \u2014 setting the stage for a major crisis"
     }
   ]
 }
