@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, March 19 2026  16:00 PT",
+  "generated_at": "Thursday, March 19 2026  17:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -25,30 +25,30 @@
       "change_pct": -4.21
     },
     "Oil (WTI)": {
-      "price": 94.1,
-      "change_pct": -2.36
+      "price": 94.12,
+      "change_pct": -2.33
     },
     "Silver": {
-      "price": 72.42,
-      "change_pct": -4.64
+      "price": 72.67,
+      "change_pct": -4.31
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70194,
-      "change_pct": -1.32
+      "price": 69917,
+      "change_pct": -1.82
     },
     "ETH": {
-      "price": 2140.49,
-      "change_pct": -2.43
+      "price": 2138.12,
+      "change_pct": -2.98
     },
     "SOL": {
-      "price": 88.69,
-      "change_pct": -1.46
+      "price": 88.86,
+      "change_pct": -1.3
     },
     "BNB": {
-      "price": 640.39,
-      "change_pct": -1.72
+      "price": 639.16,
+      "change_pct": -1.97
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "This is Jeff Bezos\u2019s plan to rival Elon Musk in the race for space-based data centers"
+      "title": "\u2018Six figures are missing\u2019: My aunt\u2019s attorney took over her bank account. Two random doctors declared her incompetent. How do I fix this?"
     },
     {
       "source": "MarketWatch",
-      "title": "Why Micron\u2019s stock is sliding despite Nvidia-like earnings performance"
+      "title": "FedEx is upbeat about shipping demand despite surging fuel costs \u2014 and the stock is rallying"
     }
   ]
 }
