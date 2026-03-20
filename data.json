@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, March 20 2026  13:59 PT",
+  "generated_at": "Friday, March 20 2026  14:57 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4497.6,
-      "change_pct": -4.82
+      "price": 4492.0,
+      "change_pct": -4.94
     },
     "Oil (WTI)": {
-      "price": 97.91,
-      "change_pct": 4.36
+      "price": 98.09,
+      "change_pct": 4.55
     },
     "Silver": {
-      "price": 68.04,
-      "change_pct": -8.3
+      "price": 67.81,
+      "change_pct": -8.61
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70040,
-      "change_pct": -0.64
+      "price": 70521,
+      "change_pct": 0.07
     },
     "ETH": {
-      "price": 2133.03,
-      "change_pct": -0.6
+      "price": 2147.78,
+      "change_pct": -0.18
     },
     "SOL": {
-      "price": 88.97,
-      "change_pct": -0.03
+      "price": 89.6,
+      "change_pct": 0.52
     },
     "BNB": {
-      "price": 639.4,
-      "change_pct": -0.4
+      "price": 641.52,
+      "change_pct": -0.14
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "History says these 2 overlooked asset classes are the only real shield against 1970s-style stagflation"
+      "title": "\u2018Six figures are missing\u2019: My aunt\u2019s attorney took over her bank account. Two random doctors declared her incompetent. How do I fix this?"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s the exact amount of money you need to make to be financially secure"
+      "title": "\u2018The money is tax-free\u2019: I\u2019m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?"
     }
   ]
 }
