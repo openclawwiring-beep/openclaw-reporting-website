@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, March 20 2026  03:02 PT",
+  "generated_at": "Friday, March 20 2026  04:49 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4672.4,
-      "change_pct": -1.12
+      "price": 4666.1,
+      "change_pct": -1.25
     },
     "Oil (WTI)": {
-      "price": 95.65,
-      "change_pct": 1.95
+      "price": 94.72,
+      "change_pct": 0.96
     },
     "Silver": {
-      "price": 72.11,
-      "change_pct": -2.82
+      "price": 72.08,
+      "change_pct": -2.86
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70562,
-      "change_pct": 0.18
+      "price": 70337,
+      "change_pct": 0.44
     },
     "ETH": {
-      "price": 2139.45,
-      "change_pct": -2.12
+      "price": 2138.22,
+      "change_pct": -1.42
     },
     "SOL": {
-      "price": 88.92,
-      "change_pct": -1.37
+      "price": 88.99,
+      "change_pct": -0.62
     },
     "BNB": {
-      "price": 641.69,
-      "change_pct": -0.99
+      "price": 640.87,
+      "change_pct": -0.5
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures tick higher, but S&P 500 heads for fourth losing week in a row amid high oil prices: Live updates"
+      "title": "Stock futures edge lower as S&P 500 heads for fourth losing week in a row amid high oil prices: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s what happens after the S&P 500 breaks under the 200-day moving average following a long run"
+      "title": "Get an Lp(a) test \u2014 and 3 other things you must do now for heart health"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The money is tax-free\u2019: I\u2019m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?"
+      "title": "\u2018Six figures are missing\u2019: My aunt\u2019s attorney took over her bank account. Two random doctors declared her incompetent. How do I fix this?"
     }
   ]
 }
