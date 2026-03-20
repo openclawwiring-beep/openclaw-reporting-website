@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, March 20 2026  04:49 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, March 20 2026  07:32 PT",
+  "market_status": "Live \u2014 as of 10:32 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6606.49,
-      "change_pct": -0.27
+      "price": 6553.9,
+      "change_pct": -0.79
     },
     "Nasdaq": {
-      "price": 22090.69,
-      "change_pct": -0.28
+      "price": 21841.57,
+      "change_pct": -1.13
     },
     "Dow Jones": {
-      "price": 46021.43,
-      "change_pct": -0.44
+      "price": 45787.39,
+      "change_pct": -0.51
     },
     "Russell 2000": {
-      "price": 2494.71,
-      "change_pct": 0.65
+      "price": 2458.87,
+      "change_pct": -1.45
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4666.1,
-      "change_pct": -1.25
+      "price": 4572.0,
+      "change_pct": -3.24
     },
     "Oil (WTI)": {
-      "price": 94.72,
-      "change_pct": 0.96
+      "price": 95.95,
+      "change_pct": 2.27
     },
     "Silver": {
-      "price": 72.08,
-      "change_pct": -2.86
+      "price": 69.03,
+      "change_pct": -6.97
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70337,
-      "change_pct": 0.44
+      "price": 69995,
+      "change_pct": 1.06
     },
     "ETH": {
-      "price": 2138.22,
-      "change_pct": -1.42
+      "price": 2137.63,
+      "change_pct": 1.23
     },
     "SOL": {
-      "price": 88.99,
-      "change_pct": -0.62
+      "price": 89.17,
+      "change_pct": 1.66
     },
     "BNB": {
-      "price": 640.87,
-      "change_pct": -0.5
+      "price": 640.13,
+      "change_pct": 0.41
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures edge lower as S&P 500 heads for fourth losing week in a row amid high oil prices: Live updates"
+      "title": "Stocks slip, head for fourth-straight losing week as Iran conflict continues: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Trump invokes emergency powers with $23 billion in Gulf arms sales as Iran war wages on: WSJ report"
+      "title": "Super Micro shares tank 25% after employees charged with smuggling Nvidia chips to China"
     },
     {
       "source": "MarketWatch",
-      "title": "Get an Lp(a) test \u2014 and 3 other things you must do now for heart health"
+      "title": "\u2018This guy has no manners\u2019: My Airbnb guest requested I buy bacon and beer. The $30 bill remains unpaid. Do I insist?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Six figures are missing\u2019: My aunt\u2019s attorney took over her bank account. Two random doctors declared her incompetent. How do I fix this?"
+      "title": "Unilever shift to beauty proceeds with talks to sell division that sells mayonnaise and Marmite"
     }
   ]
 }
