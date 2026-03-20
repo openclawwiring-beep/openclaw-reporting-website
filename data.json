@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, March 20 2026  14:57 PT",
+  "generated_at": "Friday, March 20 2026  16:00 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -33,24 +33,7 @@
       "change_pct": -8.61
     }
   },
-  "crypto": {
-    "BTC": {
-      "price": 70521,
-      "change_pct": 0.07
-    },
-    "ETH": {
-      "price": 2147.78,
-      "change_pct": -0.18
-    },
-    "SOL": {
-      "price": 89.6,
-      "change_pct": 0.52
-    },
-    "BNB": {
-      "price": 641.52,
-      "change_pct": -0.14
-    }
-  },
+  "crypto": {},
   "headlines": [
     {
       "source": "CNBC",
@@ -58,7 +41,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump: 'I don't want to do a ceasefire' in Iran war"
+      "title": "Trump says he doesn't want Iran war ceasefire, but is considering 'winding down' military ops"
     },
     {
       "source": "MarketWatch",
