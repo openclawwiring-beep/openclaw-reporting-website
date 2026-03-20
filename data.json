@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, March 20 2026  00:53 PT",
+  "generated_at": "Friday, March 20 2026  03:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4697.2,
-      "change_pct": -0.59
+      "price": 4672.4,
+      "change_pct": -1.12
     },
     "Oil (WTI)": {
-      "price": 93.89,
-      "change_pct": 0.07
+      "price": 95.65,
+      "change_pct": 1.95
     },
     "Silver": {
-      "price": 72.62,
-      "change_pct": -2.13
+      "price": 72.11,
+      "change_pct": -2.82
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70840,
-      "change_pct": 0.84
+      "price": 70562,
+      "change_pct": 0.18
     },
     "ETH": {
-      "price": 2149.73,
-      "change_pct": -1.02
+      "price": 2139.45,
+      "change_pct": -2.12
     },
     "SOL": {
-      "price": 89.4,
-      "change_pct": -0.18
+      "price": 88.92,
+      "change_pct": -1.37
     },
     "BNB": {
-      "price": 643.93,
-      "change_pct": -0.33
+      "price": 641.69,
+      "change_pct": -0.99
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures tick higher, but S&P 500 heads for fourth losing week in a row amid rising oil prices: Live updates"
+      "title": "Stock futures tick higher, but S&P 500 heads for fourth losing week in a row amid high oil prices: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Trump signals DOJ should continue Powell probe, complicating Warsh Fed nomination"
+      "title": "Trump invokes emergency powers with $23 billion in Gulf arms sales as Iran war wages on: WSJ report"
     },
     {
       "source": "MarketWatch",
-      "title": "Super Micro co-founder engaged in backdoor scheme to divert Nvidia chips to China, U.S. government says"
+      "title": "Here\u2019s what happens after the S&P 500 breaks under the 200-day moving average following a long run"
     },
     {
       "source": "MarketWatch",
-      "title": "This is Jeff Bezos\u2019s plan to rival Elon Musk in the race for space-based data centers"
+      "title": "\u2018The money is tax-free\u2019: I\u2019m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?"
     }
   ]
 }
