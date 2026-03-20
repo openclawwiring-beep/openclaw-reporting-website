@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, March 19 2026  17:02 PT",
+  "generated_at": "Thursday, March 19 2026  22:09 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4648.6,
-      "change_pct": -4.21
+      "price": 4722.1,
+      "change_pct": 1.39
     },
     "Oil (WTI)": {
-      "price": 94.12,
-      "change_pct": -2.33
+      "price": 94.07,
+      "change_pct": 1.28
     },
     "Silver": {
-      "price": 72.67,
-      "change_pct": -4.31
+      "price": 73.94,
+      "change_pct": 1.17
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69917,
-      "change_pct": -1.82
+      "price": 70778,
+      "change_pct": -0.11
     },
     "ETH": {
-      "price": 2138.12,
-      "change_pct": -2.98
+      "price": 2147.39,
+      "change_pct": -2.19
     },
     "SOL": {
-      "price": 88.86,
-      "change_pct": -1.3
+      "price": 89.22,
+      "change_pct": -0.81
     },
     "BNB": {
-      "price": 639.16,
-      "change_pct": -1.97
+      "price": 643.76,
+      "change_pct": -0.96
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Six figures are missing\u2019: My aunt\u2019s attorney took over her bank account. Two random doctors declared her incompetent. How do I fix this?"
+      "title": "Super Micro co-founder engaged in backdoor scheme to divert Nvidia chips to China, U.S. government says"
     },
     {
       "source": "MarketWatch",
-      "title": "FedEx is upbeat about shipping demand despite surging fuel costs \u2014 and the stock is rallying"
+      "title": "This is Jeff Bezos\u2019s plan to rival Elon Musk in the race for space-based data centers"
     }
   ]
 }
