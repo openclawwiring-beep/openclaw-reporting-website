@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, March 20 2026  07:32 PT",
-  "market_status": "Live \u2014 as of 10:32 ET",
+  "generated_at": "Friday, March 20 2026  10:11 PT",
+  "market_status": "Live \u2014 as of 13:11 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6553.9,
-      "change_pct": -0.79
+      "price": 6550.82,
+      "change_pct": -0.84
     },
     "Nasdaq": {
-      "price": 21841.57,
-      "change_pct": -1.13
+      "price": 21797.4,
+      "change_pct": -1.33
     },
     "Dow Jones": {
-      "price": 45787.39,
-      "change_pct": -0.51
+      "price": 45856.19,
+      "change_pct": -0.36
     },
     "Russell 2000": {
-      "price": 2458.87,
-      "change_pct": -1.45
+      "price": 2461.32,
+      "change_pct": -1.35
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4572.0,
-      "change_pct": -3.24
+      "price": 4583.7,
+      "change_pct": -2.99
     },
     "Oil (WTI)": {
-      "price": 95.95,
-      "change_pct": 2.27
+      "price": 97.55,
+      "change_pct": 3.98
     },
     "Silver": {
-      "price": 69.03,
-      "change_pct": -6.97
+      "price": 69.82,
+      "change_pct": -5.9
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69995,
-      "change_pct": 1.06
+      "price": 69852,
+      "change_pct": 0.97
     },
     "ETH": {
-      "price": 2137.63,
-      "change_pct": 1.23
+      "price": 2135.93,
+      "change_pct": 1.33
     },
     "SOL": {
-      "price": 89.17,
-      "change_pct": 1.66
+      "price": 88.92,
+      "change_pct": 1.61
     },
     "BNB": {
-      "price": 640.13,
-      "change_pct": 0.41
+      "price": 640.35,
+      "change_pct": 1.03
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stocks slip, head for fourth-straight losing week as Iran conflict continues: Live updates"
-    },
-    {
-      "source": "CNBC",
       "title": "Super Micro shares tank 25% after employees charged with smuggling Nvidia chips to China"
     },
     {
-      "source": "MarketWatch",
-      "title": "\u2018This guy has no manners\u2019: My Airbnb guest requested I buy bacon and beer. The $30 bill remains unpaid. Do I insist?"
+      "source": "CNBC",
+      "title": "The spring housing market is on, but mortgage rates just shot higher. Here's what to know."
     },
     {
       "source": "MarketWatch",
-      "title": "Unilever shift to beauty proceeds with talks to sell division that sells mayonnaise and Marmite"
+      "title": "If you support the Iran war, stop whining about gasoline prices"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Stocks, bonds struggle as traders now see chances of Fed rate hike above 50% \u2014 up sharply from earlier this week"
     }
   ]
 }
