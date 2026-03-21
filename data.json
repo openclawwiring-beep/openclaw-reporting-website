@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 21 2026  06:54 PT",
+  "generated_at": "Saturday, March 21 2026  07:56 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70735,
-      "change_pct": 1.03
+      "price": 70648,
+      "change_pct": 1.3
     },
     "ETH": {
-      "price": 2155.8,
-      "change_pct": 1.15
+      "price": 2153.17,
+      "change_pct": 1.14
     },
     "SOL": {
-      "price": 90.04,
-      "change_pct": 1.1
+      "price": 89.95,
+      "change_pct": 0.99
     },
     "BNB": {
-      "price": 643.94,
-      "change_pct": 0.71
+      "price": 642.58,
+      "change_pct": 0.57
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says he doesn't want Iran war ceasefire, but is considering 'winding down' military ops"
-    },
-    {
-      "source": "CNBC",
       "title": "OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities"
     },
     {
-      "source": "MarketWatch",
-      "title": "Private-credit \u2018cockroaches\u2019 and record valuations threaten the stock market\u2019s recovery"
+      "source": "CNBC",
+      "title": "U.K. says Iran unsuccessfully targeted British-American Diego Garcia base"
     },
     {
       "source": "MarketWatch",
-      "title": "Jensen Huang once said there was \u2018no evidence\u2019 Nvidia chips were getting diverted to China. The scandal at Super Micro suggests otherwise."
+      "title": "Crypto\u2019s \u2018shadow banks\u2019 don\u2019t want to play by the rules \u2014 setting the stage for a major crisis"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Chuck Norris never dies: How a meme made the actor a cultural icon and multimillion-dollar brand"
     }
   ]
 }
