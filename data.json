@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 21 2026  03:56 PT",
+  "generated_at": "Saturday, March 21 2026  04:47 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70575,
-      "change_pct": -0.03
+      "price": 70627,
+      "change_pct": 0.39
     },
     "ETH": {
-      "price": 2153.19,
-      "change_pct": 0.24
+      "price": 2156.15,
+      "change_pct": 0.81
     },
     "SOL": {
-      "price": 89.93,
-      "change_pct": 0.67
+      "price": 89.92,
+      "change_pct": 1.05
     },
     "BNB": {
-      "price": 642.71,
-      "change_pct": -0.04
+      "price": 643.5,
+      "change_pct": 0.4
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Six figures are missing\u2019: My aunt\u2019s attorney took over her bank account. Two random doctors declared her incompetent. How do I fix this?"
+      "title": "Software stocks are in bargain territory \u2014 and that\u2019s reviving an age-old debate"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The money is tax-free\u2019: I\u2019m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?"
+      "title": "Here\u2019s the exact oil price that would tip the U.S. into a recession \u2014 and we\u2019re getting closer as the Iran conflict drags on"
     }
   ]
 }
