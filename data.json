@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 21 2026  04:47 PT",
+  "generated_at": "Saturday, March 21 2026  06:54 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70627,
-      "change_pct": 0.39
+      "price": 70735,
+      "change_pct": 1.03
     },
     "ETH": {
-      "price": 2156.15,
-      "change_pct": 0.81
+      "price": 2155.8,
+      "change_pct": 1.15
     },
     "SOL": {
-      "price": 89.92,
-      "change_pct": 1.05
+      "price": 90.04,
+      "change_pct": 1.1
     },
     "BNB": {
-      "price": 643.5,
-      "change_pct": 0.4
+      "price": 643.94,
+      "change_pct": 0.71
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Elon Musk misled Twitter investors ahead of $44 billion acquisition, jury says"
+      "title": "OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities"
     },
     {
       "source": "MarketWatch",
-      "title": "Software stocks are in bargain territory \u2014 and that\u2019s reviving an age-old debate"
+      "title": "Private-credit \u2018cockroaches\u2019 and record valuations threaten the stock market\u2019s recovery"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s the exact oil price that would tip the U.S. into a recession \u2014 and we\u2019re getting closer as the Iran conflict drags on"
+      "title": "Jensen Huang once said there was \u2018no evidence\u2019 Nvidia chips were getting diverted to China. The scandal at Super Micro suggests otherwise."
     }
   ]
 }
