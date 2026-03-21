@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 21 2026  07:56 PT",
+  "generated_at": "Saturday, March 21 2026  08:51 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -33,24 +33,7 @@
       "change_pct": -6.11
     }
   },
-  "crypto": {
-    "BTC": {
-      "price": 70648,
-      "change_pct": 1.3
-    },
-    "ETH": {
-      "price": 2153.17,
-      "change_pct": 1.14
-    },
-    "SOL": {
-      "price": 89.95,
-      "change_pct": 0.99
-    },
-    "BNB": {
-      "price": 642.58,
-      "change_pct": 0.57
-    }
-  },
+  "crypto": {},
   "headlines": [
     {
       "source": "CNBC",
@@ -62,11 +45,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Crypto\u2019s \u2018shadow banks\u2019 don\u2019t want to play by the rules \u2014 setting the stage for a major crisis"
+      "title": "Why is everything so expensive? America has a wage problem \u2014 not a price problem."
     },
     {
       "source": "MarketWatch",
-      "title": "Chuck Norris never dies: How a meme made the actor a cultural icon and multimillion-dollar brand"
+      "title": "\u2018It\u2019s out of date to think about a retirement age.\u2019 More Americans want to work into their 70s.\u00a0Smart companies will find ways to work with them."
     }
   ]
 }
