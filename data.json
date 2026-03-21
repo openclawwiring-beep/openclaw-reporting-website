@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 21 2026  10:54 PT",
+  "generated_at": "Saturday, March 21 2026  12:03 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70294,
-      "change_pct": 0.8
+      "price": 70406,
+      "change_pct": 0.78
     },
     "ETH": {
-      "price": 2147.33,
-      "change_pct": 0.85
+      "price": 2151.86,
+      "change_pct": 1.22
     },
     "SOL": {
-      "price": 89.61,
-      "change_pct": 1.47
+      "price": 89.78,
+      "change_pct": 1.33
     },
     "BNB": {
-      "price": 641.41,
-      "change_pct": 0.48
+      "price": 641.37,
+      "change_pct": 0.39
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Former special counsel Robert Mueller dies at 81"
+      "title": "Former special counsel Robert Mueller has died at 81"
     },
     {
       "source": "MarketWatch",
-      "title": "Financial advisers used to say no to bitcoin. Now they\u2019re saying maybe \u2014 but with a catch."
+      "title": "History says these 2 overlooked asset classes are the only real shield against 1970s-style stagflation"
     },
     {
       "source": "MarketWatch",
-      "title": "30% of Americans don\u2019t know when \u2014 or even if \u2014 they will retire"
+      "title": "The stock market actually doesn\u2019t care as much about oil prices as you think"
     }
   ]
 }
