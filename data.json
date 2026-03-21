@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 21 2026  15:54 PT",
+  "generated_at": "Saturday, March 21 2026  16:50 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70270,
-      "change_pct": -0.7
+      "price": 69680,
+      "change_pct": -1.24
     },
     "ETH": {
-      "price": 2149.35,
-      "change_pct": -0.3
+      "price": 2128.65,
+      "change_pct": -0.85
     },
     "SOL": {
-      "price": 89.88,
-      "change_pct": -0.09
+      "price": 89.43,
+      "change_pct": -0.5
     },
     "BNB": {
-      "price": 641.98,
-      "change_pct": -0.28
+      "price": 639.04,
+      "change_pct": -0.47
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "OpenClaw's ChatGPT moment sparks concern that AI models are becoming commodities"
+      "title": "Trump threatens to deploy ICE agents to airports if DHS shutdown doesn't end, while Elon Musk offers to cover TSA agents' pay"
     },
     {
       "source": "CNBC",
-      "title": "Trump threatens to deploy ICE agents to airports if DHS shutdown doesn't end, while Elon Musk offers to cover TSA agents' pay"
+      "title": "Tehran strikes two Israeli communities near nuclear research site after Iran's Natanz enrichment plant hit"
     },
     {
       "source": "MarketWatch",
