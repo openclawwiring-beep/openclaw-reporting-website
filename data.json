@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 21 2026  12:55 PT",
+  "generated_at": "Saturday, March 21 2026  13:54 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70338,
-      "change_pct": 0.28
+      "price": 70430,
+      "change_pct": 0.57
     },
     "ETH": {
-      "price": 2150.35,
-      "change_pct": 0.84
+      "price": 2154.65,
+      "change_pct": 1.02
     },
     "SOL": {
-      "price": 89.76,
-      "change_pct": 1.11
+      "price": 90.13,
+      "change_pct": 1.46
     },
     "BNB": {
-      "price": 641.29,
-      "change_pct": 0.19
+      "price": 642.12,
+      "change_pct": 0.42
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "History says these 2 overlooked asset classes are the only real shield against 1970s-style stagflation"
+      "title": "\u2018I\u2019m completely gobsmacked\u2019: My elderly brother has a reverse mortgage \u2014 yet he still ran out of money. Do I help?"
     },
     {
       "source": "MarketWatch",
-      "title": "The stock market actually doesn\u2019t care as much about oil prices as you think"
+      "title": "\u2018The money is tax-free\u2019: I\u2019m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?"
     }
   ]
 }
