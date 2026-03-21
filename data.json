@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 21 2026  08:51 PT",
+  "generated_at": "Saturday, March 21 2026  09:58 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -33,7 +33,24 @@
       "change_pct": -6.11
     }
   },
-  "crypto": {},
+  "crypto": {
+    "BTC": {
+      "price": 70276,
+      "change_pct": 0.61
+    },
+    "ETH": {
+      "price": 2145.89,
+      "change_pct": 0.35
+    },
+    "SOL": {
+      "price": 89.74,
+      "change_pct": 1.04
+    },
+    "BNB": {
+      "price": 641.14,
+      "change_pct": 0.14
+    }
+  },
   "headlines": [
     {
       "source": "CNBC",
@@ -45,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why is everything so expensive? America has a wage problem \u2014 not a price problem."
+      "title": "Warren Buffett\u2019s parting gift to Berkshire Hathaway: a $2 billion Iran oil windfall"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s out of date to think about a retirement age.\u2019 More Americans want to work into their 70s.\u00a0Smart companies will find ways to work with them."
+      "title": "The 6 biggest changes to Social Security over the past 20 years that affect how much money you\u2019ll get in retirement"
     }
   ]
 }
