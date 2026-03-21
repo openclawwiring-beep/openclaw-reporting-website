@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 21 2026  09:58 PT",
+  "generated_at": "Saturday, March 21 2026  10:54 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70276,
-      "change_pct": 0.61
+      "price": 70294,
+      "change_pct": 0.8
     },
     "ETH": {
-      "price": 2145.89,
-      "change_pct": 0.35
+      "price": 2147.33,
+      "change_pct": 0.85
     },
     "SOL": {
-      "price": 89.74,
-      "change_pct": 1.04
+      "price": 89.61,
+      "change_pct": 1.47
     },
     "BNB": {
-      "price": 641.14,
-      "change_pct": 0.14
+      "price": 641.41,
+      "change_pct": 0.48
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "U.K. says Iran unsuccessfully targeted British-American Diego Garcia base"
+      "title": "Former special counsel Robert Mueller dies at 81"
     },
     {
       "source": "MarketWatch",
-      "title": "Warren Buffett\u2019s parting gift to Berkshire Hathaway: a $2 billion Iran oil windfall"
+      "title": "Financial advisers used to say no to bitcoin. Now they\u2019re saying maybe \u2014 but with a catch."
     },
     {
       "source": "MarketWatch",
-      "title": "The 6 biggest changes to Social Security over the past 20 years that affect how much money you\u2019ll get in retirement"
+      "title": "30% of Americans don\u2019t know when \u2014 or even if \u2014 they will retire"
     }
   ]
 }
