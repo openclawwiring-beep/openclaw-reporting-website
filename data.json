@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 21 2026  02:52 PT",
+  "generated_at": "Saturday, March 21 2026  03:56 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70628,
-      "change_pct": 0.16
+      "price": 70575,
+      "change_pct": -0.03
     },
     "ETH": {
-      "price": 2157.23,
-      "change_pct": 0.91
+      "price": 2153.19,
+      "change_pct": 0.24
     },
     "SOL": {
-      "price": 90.26,
-      "change_pct": 1.53
+      "price": 89.93,
+      "change_pct": 0.67
     },
     "BNB": {
-      "price": 643.21,
-      "change_pct": 0.23
+      "price": 642.71,
+      "change_pct": -0.04
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stocks tumble Friday as losses mount from Iran war impact, Dow and Nasdaq near correction: Live updates"
+      "title": "Trump says he doesn't want Iran war ceasefire, but is considering 'winding down' military ops"
     },
     {
       "source": "CNBC",
-      "title": "Trump says he doesn't want Iran war ceasefire, but is considering 'winding down' military ops"
+      "title": "Elon Musk misled Twitter investors ahead of $44 billion acquisition, jury says"
     },
     {
       "source": "MarketWatch",
