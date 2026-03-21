@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 21 2026  12:03 PT",
+  "generated_at": "Saturday, March 21 2026  12:55 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70406,
-      "change_pct": 0.78
+      "price": 70338,
+      "change_pct": 0.28
     },
     "ETH": {
-      "price": 2151.86,
-      "change_pct": 1.22
+      "price": 2150.35,
+      "change_pct": 0.84
     },
     "SOL": {
-      "price": 89.78,
-      "change_pct": 1.33
+      "price": 89.76,
+      "change_pct": 1.11
     },
     "BNB": {
-      "price": 641.37,
-      "change_pct": 0.39
+      "price": 641.29,
+      "change_pct": 0.19
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Former special counsel Robert Mueller has died at 81"
+      "title": "Trump threatens to deploy ICE agents to airports if DHS shutdown doesn't end, while Elon Musk offers to cover TSA agents' pay"
     },
     {
       "source": "MarketWatch",
