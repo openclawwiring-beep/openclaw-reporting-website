@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 22 2026  02:04 PT",
+  "generated_at": "Sunday, March 22 2026  03:01 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 68792,
-      "change_pct": -2.6
+      "price": 68809,
+      "change_pct": -2.58
     },
     "ETH": {
-      "price": 2086.23,
-      "change_pct": -3.21
+      "price": 2084.79,
+      "change_pct": -3.35
     },
     "SOL": {
-      "price": 87.33,
-      "change_pct": -2.97
+      "price": 87.32,
+      "change_pct": -3.21
     },
     "BNB": {
-      "price": 630.71,
-      "change_pct": -2.02
+      "price": 631.1,
+      "change_pct": -1.85
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m completely gobsmacked\u2019: My elderly brother has a reverse mortgage \u2014 yet he still ran out of money. Do I help?"
+      "title": "\u2018Healthcare is important to me\u2019: I\u2019m worried about relocating to Florida from New Jersey. Are hospitals there under stress?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The money is tax-free\u2019: I\u2019m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?"
+      "title": "\u2018I find that advice questionable\u2019: Is it time to rethink the rule of tapping your Roth last \u2014 after your 401(k) and IRA?"
     }
   ]
 }
