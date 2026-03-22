@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 22 2026  07:57 PT",
+  "generated_at": "Sunday, March 22 2026  08:52 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 68683,
-      "change_pct": -2.7
+      "price": 68812,
+      "change_pct": -2.61
     },
     "ETH": {
-      "price": 2077.22,
-      "change_pct": -3.42
+      "price": 2081.64,
+      "change_pct": -3.41
     },
     "SOL": {
-      "price": 87.24,
-      "change_pct": -2.81
+      "price": 87.37,
+      "change_pct": -2.66
     },
     "BNB": {
-      "price": 629.88,
-      "change_pct": -1.89
+      "price": 629.51,
+      "change_pct": -2.07
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I opened a 0% credit card to pay $11,000 in vacation debt. What could go wrong? Quite a lot, it seems."
+      "title": "Americans are about to get a crash course in the global economy: Higher prices are coming for pineapples, plastic, chocolate and berries"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We\u2019re living the simple life\u2019: I was a fisherman and my wife was a nurse. We retired with $6 million. Here\u2019s how we did it."
+      "title": "Retirees, steel yourselves: Global crises might rattle the markets, but they don\u2019t have to ruin your retirement"
     }
   ]
 }
