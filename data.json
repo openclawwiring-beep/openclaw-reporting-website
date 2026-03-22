@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 21 2026  22:12 PT",
+  "generated_at": "Sunday, March 22 2026  00:47 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 69223,
-      "change_pct": -1.99
+      "price": 68938,
+      "change_pct": -2.53
     },
     "ETH": {
-      "price": 2117.41,
-      "change_pct": -1.64
+      "price": 2098.63,
+      "change_pct": -2.64
     },
     "SOL": {
-      "price": 88.82,
-      "change_pct": -1.64
+      "price": 87.98,
+      "change_pct": -2.3
     },
     "BNB": {
-      "price": 633.91,
-      "change_pct": -1.27
+      "price": 632.62,
+      "change_pct": -1.66
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump says U.S. will attack Iran power plants if Tehran doesn't reopen Strait of Hormuz in 48 hours"
+      "title": "Trump threatens attack on Iran power plants if Strait of Hormuz isn't reopened"
     },
     {
       "source": "MarketWatch",
