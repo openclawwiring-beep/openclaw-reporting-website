@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 22 2026  04:02 PT",
+  "generated_at": "Sunday, March 22 2026  04:56 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 68632,
-      "change_pct": -2.77
+      "price": 68260,
+      "change_pct": -3.36
     },
     "ETH": {
-      "price": 2080.5,
-      "change_pct": -3.39
+      "price": 2070.27,
+      "change_pct": -4.01
     },
     "SOL": {
-      "price": 87.35,
-      "change_pct": -2.88
+      "price": 87.11,
+      "change_pct": -3.12
     },
     "BNB": {
-      "price": 629.55,
-      "change_pct": -2.07
+      "price": 628.31,
+      "change_pct": -2.41
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This guy has no manners\u2019: My Airbnb guest requested I buy bacon and beer. The $30 bill remains unpaid. Do I insist?"
+      "title": "\u2018I\u2019m completely gobsmacked\u2019: My elderly brother has a reverse mortgage \u2014 yet he still ran out of money. Do I help?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Healthcare is important to me\u2019: I\u2019m worried about relocating to Florida from New Jersey. Are hospitals there under stress?"
+      "title": "\u2018This guy has no manners\u2019: My Airbnb guest requested I buy bacon and beer. The $30 bill remains unpaid. Do I insist?"
     }
   ]
 }
