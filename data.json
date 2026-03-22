@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 22 2026  08:52 PT",
+  "generated_at": "Sunday, March 22 2026  09:59 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 68812,
-      "change_pct": -2.61
+      "price": 68821,
+      "change_pct": -2.09
     },
     "ETH": {
-      "price": 2081.64,
-      "change_pct": -3.41
+      "price": 2082.69,
+      "change_pct": -2.95
     },
     "SOL": {
-      "price": 87.37,
-      "change_pct": -2.66
+      "price": 87.47,
+      "change_pct": -2.5
     },
     "BNB": {
-      "price": 629.51,
-      "change_pct": -2.07
+      "price": 630.57,
+      "change_pct": -1.65
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Americans are about to get a crash course in the global economy: Higher prices are coming for pineapples, plastic, chocolate and berries"
+      "title": "Stocks are teetering on the edge of correction territory. Why the \u2018TACO trade\u2019 could flop."
     },
     {
       "source": "MarketWatch",
-      "title": "Retirees, steel yourselves: Global crises might rattle the markets, but they don\u2019t have to ruin your retirement"
+      "title": "Americans are about to get a crash course in the global economy: Higher prices are coming for pineapples, plastic, chocolate and berries"
     }
   ]
 }
