@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 22 2026  06:56 PT",
+  "generated_at": "Sunday, March 22 2026  07:57 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 68710,
-      "change_pct": -2.85
+      "price": 68683,
+      "change_pct": -2.7
     },
     "ETH": {
-      "price": 2079.58,
-      "change_pct": -3.51
+      "price": 2077.22,
+      "change_pct": -3.42
     },
     "SOL": {
-      "price": 87.19,
-      "change_pct": -3.16
+      "price": 87.24,
+      "change_pct": -2.81
     },
     "BNB": {
       "price": 629.88,
-      "change_pct": -2.19
+      "change_pct": -1.89
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 59. My wife and I bought a second home for $484,000 at 6.2% interest. Will this be a drain on our retirement?"
+      "title": "I opened a 0% credit card to pay $11,000 in vacation debt. What could go wrong? Quite a lot, it seems."
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?"
+      "title": "\u2018We\u2019re living the simple life\u2019: I was a fisherman and my wife was a nurse. We retired with $6 million. Here\u2019s how we did it."
     }
   ]
 }
