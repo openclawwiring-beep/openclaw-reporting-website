@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 22 2026  14:53 PT",
+  "generated_at": "Sunday, March 22 2026  15:57 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4574.9,
-      "change_pct": -3.18
+      "price": 4508.6,
+      "change_pct": 0.27
     },
     "Oil (WTI)": {
-      "price": 98.23,
-      "change_pct": 4.7
+      "price": 98.02,
+      "change_pct": -0.07
     },
     "Silver": {
-      "price": 69.66,
-      "change_pct": -6.11
+      "price": 69.12,
+      "change_pct": 1.93
     }
   },
   "crypto": {
     "BTC": {
-      "price": 67823,
-      "change_pct": -3.52
+      "price": 68304,
+      "change_pct": -2.83
     },
     "ETH": {
-      "price": 2043.85,
-      "change_pct": -5.07
+      "price": 2061.19,
+      "change_pct": -4.12
     },
     "SOL": {
-      "price": 85.81,
-      "change_pct": -4.66
+      "price": 86.6,
+      "change_pct": -3.63
     },
     "BNB": {
-      "price": 625.54,
-      "change_pct": -2.51
+      "price": 629.64,
+      "change_pct": -1.93
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "The economy has a Strait of Hormuz deadline for Trump: Two weeks"
+      "title": "Stock futures are little changed after Trump ultimatum to Iran; Wall Street tries to snap 4-week slide: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Stocks are teetering on the edge of correction territory. Why the \u2018TACO trade\u2019 could flop."
+      "title": "U.S. stock futures dip as Trump and Iran trade threats against civilian infrastructure"
     },
     {
       "source": "MarketWatch",
-      "title": "Americans are about to get a crash course in the global economy: Higher prices are coming for pineapples, plastic, chocolate and berries"
+      "title": "Stocks are teetering on the edge of correction territory. Why the \u2018TACO trade\u2019 could flop."
     }
   ]
 }
