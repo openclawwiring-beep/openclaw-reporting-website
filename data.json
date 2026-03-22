@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 22 2026  04:56 PT",
+  "generated_at": "Sunday, March 22 2026  06:56 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 68260,
-      "change_pct": -3.36
+      "price": 68710,
+      "change_pct": -2.85
     },
     "ETH": {
-      "price": 2070.27,
-      "change_pct": -4.01
+      "price": 2079.58,
+      "change_pct": -3.51
     },
     "SOL": {
-      "price": 87.11,
-      "change_pct": -3.12
+      "price": 87.19,
+      "change_pct": -3.16
     },
     "BNB": {
-      "price": 628.31,
-      "change_pct": -2.41
+      "price": 629.88,
+      "change_pct": -2.19
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump threatens to deploy ICE agents to airports if DHS shutdown doesn't end, while Elon Musk offers to cover TSA agents' pay"
+      "title": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO"
     },
     {
       "source": "CNBC",
-      "title": "Trump threatens attack on Iran power plants if Strait of Hormuz isn't reopened"
+      "title": "ICE agents will be deployed to U.S. airports on Monday: Homan"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m completely gobsmacked\u2019: My elderly brother has a reverse mortgage \u2014 yet he still ran out of money. Do I help?"
+      "title": "I\u2019m 59. My wife and I bought a second home for $484,000 at 6.2% interest. Will this be a drain on our retirement?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This guy has no manners\u2019: My Airbnb guest requested I buy bacon and beer. The $30 bill remains unpaid. Do I insist?"
+      "title": "I\u2019m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?"
     }
   ]
 }
