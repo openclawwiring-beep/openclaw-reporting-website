@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 22 2026  03:01 PT",
+  "generated_at": "Sunday, March 22 2026  04:02 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 68809,
-      "change_pct": -2.58
+      "price": 68632,
+      "change_pct": -2.77
     },
     "ETH": {
-      "price": 2084.79,
-      "change_pct": -3.35
+      "price": 2080.5,
+      "change_pct": -3.39
     },
     "SOL": {
-      "price": 87.32,
-      "change_pct": -3.21
+      "price": 87.35,
+      "change_pct": -2.88
     },
     "BNB": {
-      "price": 631.1,
-      "change_pct": -1.85
+      "price": 629.55,
+      "change_pct": -2.07
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Healthcare is important to me\u2019: I\u2019m worried about relocating to Florida from New Jersey. Are hospitals there under stress?"
+      "title": "\u2018This guy has no manners\u2019: My Airbnb guest requested I buy bacon and beer. The $30 bill remains unpaid. Do I insist?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I find that advice questionable\u2019: Is it time to rethink the rule of tapping your Roth last \u2014 after your 401(k) and IRA?"
+      "title": "\u2018Healthcare is important to me\u2019: I\u2019m worried about relocating to Florida from New Jersey. Are hospitals there under stress?"
     }
   ]
 }
