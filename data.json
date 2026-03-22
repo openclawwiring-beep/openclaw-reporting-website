@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 22 2026  12:16 PT",
+  "generated_at": "Sunday, March 22 2026  12:55 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 68384,
-      "change_pct": -2.87
+      "price": 68219,
+      "change_pct": -3.01
     },
     "ETH": {
-      "price": 2062.07,
-      "change_pct": -4.15
+      "price": 2062.71,
+      "change_pct": -4.08
     },
     "SOL": {
-      "price": 86.82,
-      "change_pct": -3.35
+      "price": 86.86,
+      "change_pct": -3.23
     },
     "BNB": {
-      "price": 627.6,
+      "price": 627.53,
       "change_pct": -2.15
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO"
+      "title": "The economy has a Strait of Hormuz deadline for Trump: Two weeks"
     },
     {
       "source": "CNBC",
