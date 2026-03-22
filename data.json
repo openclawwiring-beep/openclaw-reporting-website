@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 21 2026  16:50 PT",
+  "generated_at": "Saturday, March 21 2026  22:12 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 69680,
-      "change_pct": -1.24
+      "price": 69223,
+      "change_pct": -1.99
     },
     "ETH": {
-      "price": 2128.65,
-      "change_pct": -0.85
+      "price": 2117.41,
+      "change_pct": -1.64
     },
     "SOL": {
-      "price": 89.43,
-      "change_pct": -0.5
+      "price": 88.82,
+      "change_pct": -1.64
     },
     "BNB": {
-      "price": 639.04,
-      "change_pct": -0.47
+      "price": 633.91,
+      "change_pct": -1.27
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Tehran strikes two Israeli communities near nuclear research site after Iran's Natanz enrichment plant hit"
+      "title": "Trump says U.S. will attack Iran power plants if Tehran doesn't reopen Strait of Hormuz in 48 hours"
     },
     {
       "source": "MarketWatch",
