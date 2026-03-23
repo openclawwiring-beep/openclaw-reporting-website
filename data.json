@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, March 22 2026  16:57 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Sunday, March 22 2026  22:48 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 6506.48,
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4483.6,
-      "change_pct": -0.19
+      "price": 4334.5,
+      "change_pct": -0.48
     },
     "Oil (WTI)": {
-      "price": 98.11,
-      "change_pct": -0.12
+      "price": 98.21,
+      "change_pct": -1.0
     },
     "Silver": {
-      "price": 68.61,
-      "change_pct": -1.51
+      "price": 65.16,
+      "change_pct": -0.37
     }
   },
   "crypto": {
     "BTC": {
-      "price": 67859,
-      "change_pct": -1.27
+      "price": 68615,
+      "change_pct": -0.83
     },
     "ETH": {
-      "price": 2052.4,
-      "change_pct": -1.23
+      "price": 2062.24,
+      "change_pct": -2.52
     },
     "SOL": {
-      "price": 86.18,
-      "change_pct": -1.86
+      "price": 86.98,
+      "change_pct": -1.77
     },
     "BNB": {
-      "price": 626.42,
-      "change_pct": -0.5
+      "price": 629.99,
+      "change_pct": -0.56
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures are little changed after Trump ultimatum to Iran; Wall Street tries to snap 4-week slide: Live updates"
+      "title": "Iran and U.S.-Israel continue to raise the stakes as Strait of Hormuz tensions build"
     },
     {
       "source": "CNBC",
-      "title": "ICE agents will be deployed to U.S. airports on Monday: Homan"
+      "title": "Stock futures are little changed after Trump ultimatum to Iran; Wall Street tries to snap 4-week slide: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. stock futures dip as Trump and Iran trade threats against civilian infrastructure"
+      "title": "U.S. stock futures flat as Trump and Iran trade threats against civilian infrastructure"
     },
     {
       "source": "MarketWatch",
-      "title": "Financial markets are responding to the Iran conflict in unexpected ways \u2014 leaving some investors puzzled"
+      "title": "March 27 looks like a make-or-break day for American travelers and the partial government shutdown"
     }
   ]
 }
