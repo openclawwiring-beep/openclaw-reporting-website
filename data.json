@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, March 23 2026  13:57 PT",
+  "generated_at": "Monday, March 23 2026  15:00 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4414.2,
-      "change_pct": 1.35
+      "price": 4410.4,
+      "change_pct": 1.27
     },
     "Oil (WTI)": {
-      "price": 88.88,
-      "change_pct": -10.4
+      "price": 88.87,
+      "change_pct": -10.41
     },
     "Silver": {
-      "price": 69.44,
-      "change_pct": 6.18
+      "price": 69.32,
+      "change_pct": 5.99
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70909,
-      "change_pct": 4.0
+      "price": 70871,
+      "change_pct": 4.47
     },
     "ETH": {
-      "price": 2161.86,
-      "change_pct": 4.99
+      "price": 2159.15,
+      "change_pct": 5.62
     },
     "SOL": {
-      "price": 91.83,
-      "change_pct": 5.88
+      "price": 91.69,
+      "change_pct": 6.84
     },
     "BNB": {
-      "price": 639.09,
-      "change_pct": 1.75
+      "price": 639.85,
+      "change_pct": 2.33
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump tells CNBC 'we are very intent on making a deal' with Iran"
+      "title": "Dow surges 600 points in relief rally after Trump says U.S. and Iran have had \u2018productive\u2019 talks: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The U.S. government is about to define what junk food is. But comparing soy milk and gummy bears is complicated."
+      "title": "These chip stocks could be winners as Elon Musk executes on his \u2018Terafab\u2019 vision"
     },
     {
       "source": "MarketWatch",
-      "title": "Global oil prices drop below $100 a barrel after Trump delays strikes on Iranian power plants. Why further declines may be limited."
+      "title": "Estee Lauder says it has a suitor. That\u2019s still not helping its stock."
     }
   ]
 }
