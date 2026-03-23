@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, March 23 2026  08:40 PT",
-  "market_status": "Live \u2014 as of 11:40 ET",
+  "generated_at": "Monday, March 23 2026  11:34 PT",
+  "market_status": "Live \u2014 as of 14:34 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6620.54,
-      "change_pct": 1.75
+      "price": 6610.2,
+      "change_pct": 1.59
     },
     "Nasdaq": {
-      "price": 22068.51,
-      "change_pct": 1.94
+      "price": 22014.51,
+      "change_pct": 1.69
     },
     "Dow Jones": {
-      "price": 46512.13,
-      "change_pct": 2.05
+      "price": 46430.59,
+      "change_pct": 1.87
     },
     "Russell 2000": {
-      "price": 2526.29,
-      "change_pct": 3.62
+      "price": 2505.9,
+      "change_pct": 2.78
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4451.0,
-      "change_pct": 2.2
+      "price": 4415.1,
+      "change_pct": 1.37
     },
     "Oil (WTI)": {
-      "price": 87.0,
-      "change_pct": -12.3
+      "price": 87.38,
+      "change_pct": -11.92
     },
     "Silver": {
-      "price": 69.94,
-      "change_pct": 6.94
+      "price": 69.73,
+      "change_pct": 6.61
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70821,
-      "change_pct": 3.03
+      "price": 70970,
+      "change_pct": 3.42
     },
     "ETH": {
-      "price": 2159.07,
-      "change_pct": 3.96
+      "price": 2149.84,
+      "change_pct": 3.63
     },
     "SOL": {
-      "price": 90.9,
-      "change_pct": 4.11
+      "price": 91.31,
+      "change_pct": 4.67
     },
     "BNB": {
-      "price": 641.78,
-      "change_pct": 1.89
+      "price": 637.84,
+      "change_pct": 1.15
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Oil tumbles after Trump puts hold on U.S. strikes against Iran energy infrastructure for five days"
+      "title": "Volume in stock and oil futures surged minutes before Trump's market-turning post"
     },
     {
       "source": "MarketWatch",
-      "title": "Amazon hasn\u2019t been this cheap since 2008. Here\u2019s how the stock could rally 46% from here."
+      "title": "Did Trump just pull a \u2018TACO\u2019 on Iran? Why markets will remain volatile, even if investors see some relief from selling this week."
     },
     {
       "source": "MarketWatch",
-      "title": "Drivers paying nearly $4 a gallon for gas see hope in oil prices\u2019 fall"
+      "title": "\u2018Do you believe in Elon?\u2019: Musk tests Tesla investors\u2019 faith with an expensive chip-making plan"
     }
   ]
 }
