@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, March 23 2026  01:39 PT",
+  "generated_at": "Monday, March 23 2026  04:33 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4229.3,
-      "change_pct": -2.89
+      "price": 4369.1,
+      "change_pct": 0.32
     },
     "Oil (WTI)": {
-      "price": 100.18,
-      "change_pct": 0.99
+      "price": 90.48,
+      "change_pct": -8.79
     },
     "Silver": {
-      "price": 64.87,
-      "change_pct": -0.82
+      "price": 67.35,
+      "change_pct": 2.97
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68557,
-      "change_pct": -0.17
+      "price": 70863,
+      "change_pct": 3.59
     },
     "ETH": {
-      "price": 2054.24,
-      "change_pct": -1.24
+      "price": 2170.98,
+      "change_pct": 4.4
     },
     "SOL": {
-      "price": 86.25,
-      "change_pct": -1.0
+      "price": 90.41,
+      "change_pct": 3.69
     },
     "BNB": {
-      "price": 625.0,
-      "change_pct": -0.75
+      "price": 647.01,
+      "change_pct": 2.93
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Gold and silver in freefall as investors flee safe haven metals trade"
+      "title": "Dow futures jump 1,000 points after Trump says U.S. and Iran have held 'productive' talks: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Oil prices rise as Trump\u2019s Hormuz ultimatum and Iran threats keep markets on edge"
+      "title": "Oil tumbles after Trump postpones U.S. strikes against Iran energy infrastructure for five days"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. stock futures flat as Trump and Iran trade threats against civilian infrastructure"
+      "title": "\u2018The bank told me I could be liable\u2019: I found out why my brother, who has a reverse mortgage, ran out of money"
     },
     {
       "source": "MarketWatch",
-      "title": "March 27 looks like a make-or-break day for American travelers and the partial government shutdown"
+      "title": "Oil falls after Trump announces \u2018good and productive conversations\u2019 with Iran"
     }
   ]
 }
