@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, March 23 2026  15:00 PT",
+  "generated_at": "Monday, March 23 2026  16:55 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4410.4,
-      "change_pct": 1.27
+      "price": 4432.3,
+      "change_pct": 1.77
     },
     "Oil (WTI)": {
-      "price": 88.87,
-      "change_pct": -10.41
+      "price": 89.08,
+      "change_pct": -10.2
     },
     "Silver": {
-      "price": 69.32,
-      "change_pct": 5.99
+      "price": 69.87,
+      "change_pct": 6.83
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70871,
-      "change_pct": 4.47
+      "price": 70813,
+      "change_pct": 4.37
     },
     "ETH": {
-      "price": 2159.15,
-      "change_pct": 5.62
+      "price": 2147.86,
+      "change_pct": 4.69
     },
     "SOL": {
-      "price": 91.69,
-      "change_pct": 6.84
+      "price": 91.29,
+      "change_pct": 5.87
     },
     "BNB": {
-      "price": 639.85,
-      "change_pct": 2.33
+      "price": 637.85,
+      "change_pct": 1.83
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow surges 600 points in relief rally after Trump says U.S. and Iran have had \u2018productive\u2019 talks: Live updates"
+      "title": "Stock futures tick higher after Monday\u2019s relief rally; traders eye latest developments in Iran: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "These chip stocks could be winners as Elon Musk executes on his \u2018Terafab\u2019 vision"
+      "title": "Apple\u2019s stock rises as enthusiasm builds for a potential foldable iPhone"
     },
     {
       "source": "MarketWatch",
-      "title": "Estee Lauder says it has a suitor. That\u2019s still not helping its stock."
+      "title": "Travel stocks are among the biggest gainers as Trump teases Iran talks"
     }
   ]
 }
