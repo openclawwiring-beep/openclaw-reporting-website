@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, March 23 2026  04:33 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, March 23 2026  08:40 PT",
+  "market_status": "Live \u2014 as of 11:40 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6506.48,
-      "change_pct": -1.51
+      "price": 6620.54,
+      "change_pct": 1.75
     },
     "Nasdaq": {
-      "price": 21647.61,
-      "change_pct": -2.01
+      "price": 22068.51,
+      "change_pct": 1.94
     },
     "Dow Jones": {
-      "price": 45577.47,
-      "change_pct": -0.96
+      "price": 46512.13,
+      "change_pct": 2.05
     },
     "Russell 2000": {
-      "price": 2438.45,
-      "change_pct": -2.26
+      "price": 2526.29,
+      "change_pct": 3.62
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4369.1,
-      "change_pct": 0.32
+      "price": 4451.0,
+      "change_pct": 2.2
     },
     "Oil (WTI)": {
-      "price": 90.48,
-      "change_pct": -8.79
+      "price": 87.0,
+      "change_pct": -12.3
     },
     "Silver": {
-      "price": 67.35,
-      "change_pct": 2.97
+      "price": 69.94,
+      "change_pct": 6.94
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70863,
-      "change_pct": 3.59
+      "price": 70821,
+      "change_pct": 3.03
     },
     "ETH": {
-      "price": 2170.98,
-      "change_pct": 4.4
+      "price": 2159.07,
+      "change_pct": 3.96
     },
     "SOL": {
-      "price": 90.41,
-      "change_pct": 3.69
+      "price": 90.9,
+      "change_pct": 4.11
     },
     "BNB": {
-      "price": 647.01,
-      "change_pct": 2.93
+      "price": 641.78,
+      "change_pct": 1.89
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow futures jump 1,000 points after Trump says U.S. and Iran have held 'productive' talks: Live updates"
+      "title": "Trump tells CNBC 'we are very intent on making a deal' with Iran"
     },
     {
       "source": "CNBC",
-      "title": "Oil tumbles after Trump postpones U.S. strikes against Iran energy infrastructure for five days"
+      "title": "Oil tumbles after Trump puts hold on U.S. strikes against Iran energy infrastructure for five days"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The bank told me I could be liable\u2019: I found out why my brother, who has a reverse mortgage, ran out of money"
+      "title": "Amazon hasn\u2019t been this cheap since 2008. Here\u2019s how the stock could rally 46% from here."
     },
     {
       "source": "MarketWatch",
-      "title": "Oil falls after Trump announces \u2018good and productive conversations\u2019 with Iran"
+      "title": "Drivers paying nearly $4 a gallon for gas see hope in oil prices\u2019 fall"
     }
   ]
 }
