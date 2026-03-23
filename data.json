@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, March 23 2026  11:34 PT",
-  "market_status": "Live \u2014 as of 14:34 ET",
+  "generated_at": "Monday, March 23 2026  13:57 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6610.2,
-      "change_pct": 1.59
+      "price": 6581.0,
+      "change_pct": 1.15
     },
     "Nasdaq": {
-      "price": 22014.51,
-      "change_pct": 1.69
+      "price": 21946.76,
+      "change_pct": 1.38
     },
     "Dow Jones": {
-      "price": 46430.59,
-      "change_pct": 1.87
+      "price": 46208.47,
+      "change_pct": 1.38
     },
     "Russell 2000": {
-      "price": 2505.9,
-      "change_pct": 2.78
+      "price": 2494.23,
+      "change_pct": 2.29
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4415.1,
-      "change_pct": 1.37
+      "price": 4414.2,
+      "change_pct": 1.35
     },
     "Oil (WTI)": {
-      "price": 87.38,
-      "change_pct": -11.92
+      "price": 88.88,
+      "change_pct": -10.4
     },
     "Silver": {
-      "price": 69.73,
-      "change_pct": 6.61
+      "price": 69.44,
+      "change_pct": 6.18
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70970,
-      "change_pct": 3.42
+      "price": 70909,
+      "change_pct": 4.0
     },
     "ETH": {
-      "price": 2149.84,
-      "change_pct": 3.63
+      "price": 2161.86,
+      "change_pct": 4.99
     },
     "SOL": {
-      "price": 91.31,
-      "change_pct": 4.67
+      "price": 91.83,
+      "change_pct": 5.88
     },
     "BNB": {
-      "price": 637.84,
-      "change_pct": 1.15
+      "price": 639.09,
+      "change_pct": 1.75
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Did Trump just pull a \u2018TACO\u2019 on Iran? Why markets will remain volatile, even if investors see some relief from selling this week."
+      "title": "The U.S. government is about to define what junk food is. But comparing soy milk and gummy bears is complicated."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Do you believe in Elon?\u2019: Musk tests Tesla investors\u2019 faith with an expensive chip-making plan"
+      "title": "Global oil prices drop below $100 a barrel after Trump delays strikes on Iranian power plants. Why further declines may be limited."
     }
   ]
 }
