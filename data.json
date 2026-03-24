@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, March 24 2026  13:04 PT",
+  "generated_at": "Tuesday, March 24 2026  15:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,54 +15,54 @@
       "change_pct": -0.18
     },
     "Russell 2000": {
-      "price": 2510.0,
-      "change_pct": 0.64
+      "price": 2505.44,
+      "change_pct": 0.45
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4402.0,
-      "change_pct": 1.27
+      "price": 4474.9,
+      "change_pct": 2.95
     },
     "Oil (WTI)": {
-      "price": 91.72,
-      "change_pct": 0.07
+      "price": 88.39,
+      "change_pct": -3.57
     },
     "Silver": {
-      "price": 69.68,
-      "change_pct": 3.97
+      "price": 71.44,
+      "change_pct": 6.6
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69339,
-      "change_pct": -1.82
+      "price": 70266,
+      "change_pct": -0.55
     },
     "ETH": {
-      "price": 2117.09,
-      "change_pct": -1.66
+      "price": 2147.11,
+      "change_pct": -0.22
     },
     "SOL": {
-      "price": 88.59,
-      "change_pct": -3.04
+      "price": 90.31,
+      "change_pct": -1.32
     },
     "BNB": {
-      "price": 629.97,
-      "change_pct": -1.09
+      "price": 637.17,
+      "change_pct": -0.18
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Jamie Dimon says Iran war makes Middle East peace prospects better in the long term"
+      "title": "Meta must pay $375 million for violating New Mexico law in child exploitation case, jury rules"
     },
     {
       "source": "CNBC",
-      "title": "World has 'never experienced' soaring refining margins like this, TotalEnergies CEO tells CNBC"
+      "title": "U.S. sent Iran 15-point plan to end war, report says; Trump says 'in negotiations right now'"
     },
     {
       "source": "MarketWatch",
-      "title": "The bond market is nearing a 5% threshold \u2014 but there\u2019s a crucial difference this time"
+      "title": "3 signals tied to severe market drops are all flashing now"
     },
     {
       "source": "MarketWatch",
