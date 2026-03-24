@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, March 24 2026  11:09 PT",
-  "market_status": "Live \u2014 as of 14:09 ET",
+  "generated_at": "Tuesday, March 24 2026  13:04 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6565.16,
-      "change_pct": -0.24
+      "price": 6556.37,
+      "change_pct": -0.37
     },
     "Nasdaq": {
-      "price": 21786.73,
-      "change_pct": -0.73
+      "price": 21761.89,
+      "change_pct": -0.84
     },
     "Dow Jones": {
-      "price": 46217.24,
-      "change_pct": 0.02
+      "price": 46124.06,
+      "change_pct": -0.18
     },
     "Russell 2000": {
-      "price": 2496.8,
-      "change_pct": 0.11
+      "price": 2510.0,
+      "change_pct": 0.64
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4387.2,
-      "change_pct": 0.93
+      "price": 4402.0,
+      "change_pct": 1.27
     },
     "Oil (WTI)": {
-      "price": 91.76,
-      "change_pct": 0.11
+      "price": 91.72,
+      "change_pct": 0.07
     },
     "Silver": {
-      "price": 69.5,
-      "change_pct": 3.7
+      "price": 69.68,
+      "change_pct": 3.97
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69237,
-      "change_pct": -2.49
+      "price": 69339,
+      "change_pct": -1.82
     },
     "ETH": {
-      "price": 2107.58,
-      "change_pct": -1.92
+      "price": 2117.09,
+      "change_pct": -1.66
     },
     "SOL": {
-      "price": 89.11,
-      "change_pct": -2.26
+      "price": 88.59,
+      "change_pct": -3.04
     },
     "BNB": {
-      "price": 629.17,
-      "change_pct": -1.14
+      "price": 629.97,
+      "change_pct": -1.09
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Pakistan offers to facilitate U.S.-Iran war talks as Trump, Tehran give mixed signals"
+      "title": "World has 'never experienced' soaring refining margins like this, TotalEnergies CEO tells CNBC"
     },
     {
       "source": "MarketWatch",
-      "title": "The Iran crisis is making this retirement strategy look better than it has in decades"
+      "title": "The bond market is nearing a 5% threshold \u2014 but there\u2019s a crucial difference this time"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We\u2019re living the simple life\u2019: I was a fisherman and my wife was a nurse. We retired with $6 million. Here\u2019s how we did it."
+      "title": "Software stocks fall as fear of AI disruption is back in full force"
     }
   ]
 }
