@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, March 23 2026  16:55 PT",
+  "generated_at": "Monday, March 23 2026  22:15 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4432.3,
-      "change_pct": 1.77
+      "price": 4323.0,
+      "change_pct": 0.16
     },
     "Oil (WTI)": {
-      "price": 89.08,
-      "change_pct": -10.2
+      "price": 91.74,
+      "change_pct": 0.13
     },
     "Silver": {
-      "price": 69.87,
-      "change_pct": 6.83
+      "price": 66.5,
+      "change_pct": -0.39
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70813,
-      "change_pct": 4.37
+      "price": 70183,
+      "change_pct": 2.12
     },
     "ETH": {
-      "price": 2147.86,
-      "change_pct": 4.69
+      "price": 2130.93,
+      "change_pct": 3.09
     },
     "SOL": {
-      "price": 91.29,
-      "change_pct": 5.87
+      "price": 90.06,
+      "change_pct": 3.38
     },
     "BNB": {
-      "price": 637.85,
-      "change_pct": 1.83
+      "price": 627.4,
+      "change_pct": -0.54
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Volume in stock and oil futures surged minutes before Trump's market-turning post"
+      "title": "Senate approves Markwayne Mullin as next DHS secretary"
     },
     {
       "source": "MarketWatch",
-      "title": "Apple\u2019s stock rises as enthusiasm builds for a potential foldable iPhone"
+      "title": "Brent oil prices claw back losses to top $100 again after hours"
     },
     {
       "source": "MarketWatch",
-      "title": "Travel stocks are among the biggest gainers as Trump teases Iran talks"
+      "title": "Estee Lauder says it has a suitor. That\u2019s still not helping its stock."
     }
   ]
 }
