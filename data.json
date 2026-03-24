@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, March 23 2026  22:15 PT",
+  "generated_at": "Tuesday, March 24 2026  01:03 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4323.0,
-      "change_pct": 0.16
+      "price": 4431.0,
+      "change_pct": 1.94
     },
     "Oil (WTI)": {
-      "price": 91.74,
-      "change_pct": 0.13
+      "price": 89.88,
+      "change_pct": -1.94
     },
     "Silver": {
-      "price": 66.5,
-      "change_pct": -0.39
+      "price": 70.29,
+      "change_pct": 4.89
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70183,
-      "change_pct": 2.12
+      "price": 71190,
+      "change_pct": 4.07
     },
     "ETH": {
-      "price": 2130.93,
-      "change_pct": 3.09
+      "price": 2163.43,
+      "change_pct": 5.65
     },
     "SOL": {
-      "price": 90.06,
-      "change_pct": 3.38
+      "price": 91.5,
+      "change_pct": 6.36
     },
     "BNB": {
-      "price": 627.4,
-      "change_pct": -0.54
+      "price": 637.58,
+      "change_pct": 2.14
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures tick higher after Monday\u2019s relief rally; traders eye latest developments in Iran: Live updates"
+      "title": "Gold at $10,000? Market watchers hold firm on forecasts despite bullion bear market slide"
     },
     {
       "source": "CNBC",
