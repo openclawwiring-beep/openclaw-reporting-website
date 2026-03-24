@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, March 24 2026  07:49 PT",
-  "market_status": "Live \u2014 as of 10:49 ET",
+  "generated_at": "Tuesday, March 24 2026  11:09 PT",
+  "market_status": "Live \u2014 as of 14:09 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6560.53,
-      "change_pct": -0.31
+      "price": 6565.16,
+      "change_pct": -0.24
     },
     "Nasdaq": {
-      "price": 21804.31,
-      "change_pct": -0.65
+      "price": 21786.73,
+      "change_pct": -0.73
     },
     "Dow Jones": {
-      "price": 46109.63,
-      "change_pct": -0.21
+      "price": 46217.24,
+      "change_pct": 0.02
     },
     "Russell 2000": {
-      "price": 2487.0,
-      "change_pct": -0.28
+      "price": 2496.8,
+      "change_pct": 0.11
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4408.0,
-      "change_pct": 1.41
+      "price": 4387.2,
+      "change_pct": 0.93
     },
     "Oil (WTI)": {
-      "price": 92.16,
-      "change_pct": 0.55
+      "price": 91.76,
+      "change_pct": 0.11
     },
     "Silver": {
-      "price": 69.22,
-      "change_pct": 3.28
+      "price": 69.5,
+      "change_pct": 3.7
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69717,
-      "change_pct": -2.14
+      "price": 69237,
+      "change_pct": -2.49
     },
     "ETH": {
-      "price": 2130.44,
-      "change_pct": -1.97
+      "price": 2107.58,
+      "change_pct": -1.92
     },
     "SOL": {
-      "price": 89.31,
-      "change_pct": -2.33
+      "price": 89.11,
+      "change_pct": -2.26
     },
     "BNB": {
-      "price": 628.48,
-      "change_pct": -2.62
+      "price": 629.17,
+      "change_pct": -1.14
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Moody's cuts rating on private credit fund run by KKR and Future Standard to junk as bad loans grow"
+      "title": "Jamie Dimon says Iran war makes Middle East peace prospects better in the long term"
     },
     {
       "source": "CNBC",
-      "title": "Oil rises with Brent climbing back above $100 as optimism fades over Iran war de-escalation"
+      "title": "Pakistan offers to facilitate U.S.-Iran war talks as Trump, Tehran give mixed signals"
     },
     {
       "source": "MarketWatch",
-      "title": "America is being haunted by a 1970s bogeyman known as stagflation. Here\u2019s how big the threat is."
+      "title": "The Iran crisis is making this retirement strategy look better than it has in decades"
     },
     {
       "source": "MarketWatch",
-      "title": "Fed rate hikes are a worry as Iran conflict drags on \u2014 but borrowing is already more expensive"
+      "title": "\u2018We\u2019re living the simple life\u2019: I was a fisherman and my wife was a nurse. We retired with $6 million. Here\u2019s how we did it."
     }
   ]
 }
