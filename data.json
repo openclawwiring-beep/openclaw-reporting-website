@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, March 24 2026  04:13 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, March 24 2026  07:49 PT",
+  "market_status": "Live \u2014 as of 10:49 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6581.0,
-      "change_pct": 1.15
+      "price": 6560.53,
+      "change_pct": -0.31
     },
     "Nasdaq": {
-      "price": 21946.76,
-      "change_pct": 1.38
+      "price": 21804.31,
+      "change_pct": -0.65
     },
     "Dow Jones": {
-      "price": 46208.47,
-      "change_pct": 1.38
+      "price": 46109.63,
+      "change_pct": -0.21
     },
     "Russell 2000": {
-      "price": 2494.23,
-      "change_pct": 2.29
+      "price": 2487.0,
+      "change_pct": -0.28
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4405.6,
-      "change_pct": 1.35
+      "price": 4408.0,
+      "change_pct": 1.41
     },
     "Oil (WTI)": {
-      "price": 90.62,
-      "change_pct": -1.13
+      "price": 92.16,
+      "change_pct": 0.55
     },
     "Silver": {
-      "price": 69.76,
-      "change_pct": 4.09
+      "price": 69.22,
+      "change_pct": 3.28
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71144,
-      "change_pct": -0.11
+      "price": 69717,
+      "change_pct": -2.14
     },
     "ETH": {
-      "price": 2160.14,
-      "change_pct": -0.9
+      "price": 2130.44,
+      "change_pct": -1.97
     },
     "SOL": {
-      "price": 91.89,
-      "change_pct": 4.01
+      "price": 89.31,
+      "change_pct": -2.33
     },
     "BNB": {
-      "price": 637.56,
-      "change_pct": -1.55
+      "price": 628.48,
+      "change_pct": -2.62
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil rises with Brent climbing back above $100 as optimism fades over Iran war de-escalation"
+      "title": "Moody's cuts rating on private credit fund run by KKR and Future Standard to junk as bad loans grow"
     },
     {
       "source": "CNBC",
-      "title": "FedEx launches same-day delivery with OneRail as Amazon, Walmart boost their speeds"
+      "title": "Oil rises with Brent climbing back above $100 as optimism fades over Iran war de-escalation"
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s like the sun exploding: One Wall Street firm fears $200 oil \u2014 and says it\u2019s not too late for investors to prepare"
+      "title": "America is being haunted by a 1970s bogeyman known as stagflation. Here\u2019s how big the threat is."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We\u2019re living the simple life\u2019: I was a fisherman and my wife was a nurse. We retired with $6 million. Here\u2019s how we did it."
+      "title": "Fed rate hikes are a worry as Iran conflict drags on \u2014 but borrowing is already more expensive"
     }
   ]
 }
