@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, March 24 2026  15:02 PT",
+  "generated_at": "Tuesday, March 24 2026  16:53 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4474.9,
-      "change_pct": 2.95
+      "price": 4545.2,
+      "change_pct": 4.56
     },
     "Oil (WTI)": {
-      "price": 88.39,
-      "change_pct": -3.57
+      "price": 88.78,
+      "change_pct": -3.14
     },
     "Silver": {
-      "price": 71.44,
-      "change_pct": 6.6
+      "price": 72.96,
+      "change_pct": 8.86
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70266,
-      "change_pct": -0.55
+      "price": 70604,
+      "change_pct": -0.29
     },
     "ETH": {
-      "price": 2147.11,
-      "change_pct": -0.22
+      "price": 2157.97,
+      "change_pct": 0.47
     },
     "SOL": {
-      "price": 90.31,
-      "change_pct": -1.32
+      "price": 90.91,
+      "change_pct": -0.41
     },
     "BNB": {
-      "price": 637.17,
-      "change_pct": -0.18
+      "price": 638.35,
+      "change_pct": 0.08
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "3 signals tied to severe market drops are all flashing now"
+      "title": "Oil prices fall, stock futures climb on reports U.S. has proposed a cease-fire to Iran"
     },
     {
       "source": "MarketWatch",
-      "title": "Software stocks fall as fear of AI disruption is back in full force"
+      "title": "Elizabeth Warren raises concerns over MrBeast\u2019s teen banking app \u2014 and its connection to a troubled bank"
     }
   ]
 }
