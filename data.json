@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, March 25 2026  08:47 PT",
-  "market_status": "Live \u2014 as of 11:47 ET",
+  "generated_at": "Wednesday, March 25 2026  11:38 PT",
+  "market_status": "Live \u2014 as of 14:38 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6591.82,
-      "change_pct": 0.53
+      "price": 6600.48,
+      "change_pct": 0.66
     },
     "Nasdaq": {
-      "price": 21929.33,
-      "change_pct": 0.77
+      "price": 21954.6,
+      "change_pct": 0.89
     },
     "Dow Jones": {
-      "price": 46412.34,
-      "change_pct": 0.61
+      "price": 46475.82,
+      "change_pct": 0.75
     },
     "Russell 2000": {
-      "price": 2534.35,
-      "change_pct": 1.14
+      "price": 2539.46,
+      "change_pct": 1.35
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4561.3,
-      "change_pct": -0.14
+      "price": 4550.4,
+      "change_pct": -0.38
     },
     "Oil (WTI)": {
-      "price": 89.34,
-      "change_pct": 0.45
+      "price": 90.33,
+      "change_pct": 1.56
     },
     "Silver": {
-      "price": 72.89,
-      "change_pct": -0.88
+      "price": 72.53,
+      "change_pct": -1.39
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70825,
-      "change_pct": 1.14
+      "price": 70900,
+      "change_pct": 1.85
     },
     "ETH": {
-      "price": 2161.16,
-      "change_pct": 1.07
+      "price": 2167.32,
+      "change_pct": 2.07
     },
     "SOL": {
-      "price": 91.62,
-      "change_pct": 1.83
+      "price": 91.98,
+      "change_pct": 3.12
     },
     "BNB": {
-      "price": 644.5,
-      "change_pct": 1.98
+      "price": 645.44,
+      "change_pct": 2.2
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Meta cutting several hundred jobs across Reality Labs, Facebook and other departments"
+      "title": "Jury in Los Angeles finds Meta, YouTube negligent in social media addiction trial"
     },
     {
       "source": "MarketWatch",
-      "title": "GameStop\u2019s move to add bitcoin as a treasury asset turns 1. It hasn\u2019t paid off yet."
+      "title": "I don\u2019t want Social Security to switch me from disability to retirement benefits. How can I stop it?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The bank told me I could be liable\u2019: I found out why my brother, who has a reverse mortgage, ran out of money"
+      "title": "Chewy says pet ownership to keep increasing despite worries about rising costs"
     }
   ]
 }
