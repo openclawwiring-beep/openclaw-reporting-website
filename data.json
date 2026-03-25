@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, March 24 2026  16:53 PT",
+  "generated_at": "Tuesday, March 24 2026  22:16 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4545.2,
-      "change_pct": 4.56
+      "price": 4567.7,
+      "change_pct": -0.09
     },
     "Oil (WTI)": {
-      "price": 88.78,
-      "change_pct": -3.14
+      "price": 88.65,
+      "change_pct": 0.07
     },
     "Silver": {
-      "price": 72.96,
-      "change_pct": 8.86
+      "price": 73.45,
+      "change_pct": -0.07
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70604,
-      "change_pct": -0.29
+      "price": 71216,
+      "change_pct": 1.4
     },
     "ETH": {
-      "price": 2157.97,
-      "change_pct": 0.47
+      "price": 2173.55,
+      "change_pct": 1.84
     },
     "SOL": {
-      "price": 90.91,
-      "change_pct": -0.41
+      "price": 92.57,
+      "change_pct": 2.75
     },
     "BNB": {
-      "price": 638.35,
-      "change_pct": 0.08
+      "price": 645.11,
+      "change_pct": 2.71
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "U.S. sent Iran 15-point plan to end war, report says; Trump says 'in negotiations right now'"
+      "title": "Gold jumps over 2% as oil slump eases inflation fears amid Trump Iran talks"
     },
     {
       "source": "MarketWatch",
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Elizabeth Warren raises concerns over MrBeast\u2019s teen banking app \u2014 and its connection to a troubled bank"
+      "title": "7 software stocks set to thrive in the face of AI uncertainty"
     }
   ]
 }
