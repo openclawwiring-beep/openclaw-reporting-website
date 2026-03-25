@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, March 25 2026  04:10 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, March 25 2026  08:47 PT",
+  "market_status": "Live \u2014 as of 11:47 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6556.37,
-      "change_pct": -0.37
+      "price": 6591.82,
+      "change_pct": 0.53
     },
     "Nasdaq": {
-      "price": 21761.89,
-      "change_pct": -0.84
+      "price": 21929.33,
+      "change_pct": 0.77
     },
     "Dow Jones": {
-      "price": 46124.06,
-      "change_pct": -0.18
+      "price": 46412.34,
+      "change_pct": 0.61
     },
     "Russell 2000": {
-      "price": 2505.44,
-      "change_pct": 0.45
+      "price": 2534.35,
+      "change_pct": 1.14
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4554.8,
-      "change_pct": -0.28
+      "price": 4561.3,
+      "change_pct": -0.14
     },
     "Oil (WTI)": {
-      "price": 87.07,
-      "change_pct": -2.1
+      "price": 89.34,
+      "change_pct": 0.45
     },
     "Silver": {
-      "price": 73.14,
-      "change_pct": -0.55
+      "price": 72.89,
+      "change_pct": -0.88
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71516,
-      "change_pct": 0.62
+      "price": 70825,
+      "change_pct": 1.14
     },
     "ETH": {
-      "price": 2184.76,
-      "change_pct": 1.23
+      "price": 2161.16,
+      "change_pct": 1.07
     },
     "SOL": {
-      "price": 92.57,
-      "change_pct": 0.88
+      "price": 91.62,
+      "change_pct": 1.83
     },
     "BNB": {
-      "price": 646.74,
-      "change_pct": 1.53
+      "price": 644.5,
+      "change_pct": 1.98
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. sent Iran 15-point plan to end war, report says; Trump says 'in negotiations right now'"
+      "title": "Iran rejects U.S. ceasefire offer, demands sovereignty over Strait of Hormuz"
     },
     {
       "source": "CNBC",
-      "title": "Mortgage demand drops more than 10% as rates hit the highest level since October"
+      "title": "Meta cutting several hundred jobs across Reality Labs, Facebook and other departments"
     },
     {
       "source": "MarketWatch",
-      "title": "Citrini made a famous call about AI. The new bet is that the market is wrong on the Fed."
+      "title": "GameStop\u2019s move to add bitcoin as a treasury asset turns 1. It hasn\u2019t paid off yet."
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 30 and forgot to pay my dad for my cellphone bill for a year. He charged me $975. Is that fair?"
+      "title": "\u2018The bank told me I could be liable\u2019: I found out why my brother, who has a reverse mortgage, ran out of money"
     }
   ]
 }
