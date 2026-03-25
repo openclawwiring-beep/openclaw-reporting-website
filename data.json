@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, March 25 2026  13:57 PT",
+  "generated_at": "Wednesday, March 25 2026  16:00 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4501.9,
-      "change_pct": -1.44
+      "price": 4518.4,
+      "change_pct": -1.08
     },
     "Oil (WTI)": {
-      "price": 91.35,
-      "change_pct": 2.71
+      "price": 90.93,
+      "change_pct": 2.24
     },
     "Silver": {
-      "price": 71.22,
-      "change_pct": -3.15
+      "price": 71.44,
+      "change_pct": -2.86
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71013,
-      "change_pct": 1.39
+      "price": 71347,
+      "change_pct": 1.53
     },
     "ETH": {
-      "price": 2166.45,
-      "change_pct": 0.84
+      "price": 2173.53,
+      "change_pct": 1.34
     },
     "SOL": {
-      "price": 91.45,
-      "change_pct": 1.64
+      "price": 91.71,
+      "change_pct": 1.61
     },
     "BNB": {
-      "price": 646.46,
-      "change_pct": 1.57
+      "price": 648.7,
+      "change_pct": 1.93
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "JetBlue\u2019s stock turns positive for the year on merger talk"
+      "title": "McDonald\u2019s could make $100 million in just the first few days of selling \u2018KPop Demon Hunters\u2019 meals"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The bank told me I could be liable\u2019: I found out why my brother, who has a reverse mortgage, ran out of money"
+      "title": "\u2018This is a first-world problem\u2019: I can\u2019t roll over my $800,000 401(k) from my prior employer. What did I do wrong?"
     }
   ]
 }
