@@ -1,60 +1,60 @@
 {
-  "generated_at": "Thursday, March 26 2026  12:41 PT",
-  "market_status": "Live \u2014 as of 15:41 ET",
+  "generated_at": "Thursday, March 26 2026  14:05 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6484.72,
-      "change_pct": -1.63
+      "price": 6477.16,
+      "change_pct": -1.74
     },
     "Nasdaq": {
-      "price": 21445.51,
-      "change_pct": -2.21
+      "price": 21408.08,
+      "change_pct": -2.38
     },
     "Dow Jones": {
-      "price": 45977.34,
-      "change_pct": -0.97
+      "price": 45960.11,
+      "change_pct": -1.01
     },
     "Russell 2000": {
-      "price": 2495.46,
-      "change_pct": -1.61
+      "price": 2493.32,
+      "change_pct": -1.7
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4378.4,
-      "change_pct": -2.92
+      "price": 4369.7,
+      "change_pct": -3.12
     },
     "Oil (WTI)": {
-      "price": 94.32,
-      "change_pct": 2.83
+      "price": 93.68,
+      "change_pct": 2.14
     },
     "Silver": {
-      "price": 67.54,
-      "change_pct": -5.97
+      "price": 68.15,
+      "change_pct": -5.1
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68532,
-      "change_pct": -3.45
+      "price": 68896,
+      "change_pct": -2.95
     },
     "ETH": {
-      "price": 2048.15,
-      "change_pct": -5.74
+      "price": 2060.6,
+      "change_pct": -4.84
     },
     "SOL": {
-      "price": 85.64,
-      "change_pct": -6.62
+      "price": 86.28,
+      "change_pct": -5.66
     },
     "BNB": {
-      "price": 625.54,
-      "change_pct": -3.25
+      "price": 629.32,
+      "change_pct": -2.68
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says Iran let 10 oil ships through Strait of Hormuz as 'present' to U.S."
+      "title": "Trump says Iran let 10 oil ships through Strait of Hormuz as a 'present' to U.S."
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s the big risk facing markets \u2014 besides inflation \u2014 as the Iran conflict drags on"
+      "title": "My PayPal account received money from the Philippines with two phone numbers listed. I called them. Big mistake."
     },
     {
       "source": "MarketWatch",
-      "title": "Americans are now providing more than $1 trillion in unpaid family caregiving a year"
+      "title": "An older relative wants to give my daughter $19,000 when she turns 18. I said no. Who\u2019s right?"
     }
   ]
 }
