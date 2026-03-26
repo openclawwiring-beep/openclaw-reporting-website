@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, March 26 2026  01:10 PT",
+  "generated_at": "Thursday, March 26 2026  04:37 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4453.6,
-      "change_pct": -1.25
+      "price": 4440.7,
+      "change_pct": -1.54
     },
     "Oil (WTI)": {
-      "price": 92.93,
-      "change_pct": 1.32
+      "price": 93.7,
+      "change_pct": 2.16
     },
     "Silver": {
-      "price": 69.6,
-      "change_pct": -3.09
+      "price": 67.94,
+      "change_pct": -5.4
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70057,
-      "change_pct": -1.15
+      "price": 69343,
+      "change_pct": -3.58
     },
     "ETH": {
-      "price": 2123.43,
-      "change_pct": -1.98
+      "price": 2069.49,
+      "change_pct": -5.78
     },
     "SOL": {
-      "price": 88.89,
-      "change_pct": -3.26
+      "price": 87.63,
+      "change_pct": -5.95
     },
     "BNB": {
-      "price": 634.78,
-      "change_pct": -1.42
+      "price": 628.8,
+      "change_pct": -3.26
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran has no intention to hold talks with U.S; foreign minister says Trump proposal to end war being reviewed"
+      "title": "Trump says Iranian negotiators 'better get serious soon, before it is too late'"
     },
     {
       "source": "CNBC",
-      "title": "Trump says Justices Barrett, Gorsuch \u2018sicken me\u2019 after Supreme Court tariff ruling"
+      "title": "What comes next? Three attack scenarios as U.S. sends thousands more troops to Middle East"
     },
     {
       "source": "MarketWatch",
-      "title": "Mortgage rates near 6-month high \u2014 but here\u2019s how much worse it would be without Freddie and Fannie\u2019s bond buying"
+      "title": "A lost decade for bonds means high-quality stocks are best way to protect against inflation, says Morgan Stanley strategist"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s what airlines are offering passengers trapped in long TSA lines \u2014 and why travelers won\u2019t get much else"
+      "title": "The dash to cash has only just begun. Here\u2019s what that means for stocks and bonds."
     }
   ]
 }
