@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, March 26 2026  15:01 PT",
+  "generated_at": "Thursday, March 26 2026  16:57 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4376.9,
-      "change_pct": -2.96
+      "price": 4391.2,
+      "change_pct": -2.64
     },
     "Oil (WTI)": {
-      "price": 93.79,
-      "change_pct": 2.26
+      "price": 93.3,
+      "change_pct": 1.72
     },
     "Silver": {
-      "price": 68.12,
-      "change_pct": -5.14
+      "price": 68.67,
+      "change_pct": -4.39
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68888,
-      "change_pct": -3.06
+      "price": 68770,
+      "change_pct": -3.56
     },
     "ETH": {
-      "price": 2068.04,
-      "change_pct": -4.48
+      "price": 2059.04,
+      "change_pct": -5.04
     },
     "SOL": {
-      "price": 86.83,
-      "change_pct": -4.78
+      "price": 86.39,
+      "change_pct": -5.73
     },
     "BNB": {
-      "price": 630.44,
-      "change_pct": -2.62
+      "price": 629.02,
+      "change_pct": -2.83
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump extends pause on attacking Iran energy facilities to April 6"
+      "title": "Anthropic wins preliminary injunction in DOD fight as judge cites 'First Amendment retaliation'"
     },
     {
       "source": "CNBC",
-      "title": "Major outgoing CEOs are citing AI as a factor in their decisions to step down"
+      "title": "Trump extends pause on attacking Iran energy facilities to April 6"
     },
     {
       "source": "MarketWatch",
-      "title": "Why software stocks proved resilient on a dismal day for tech"
+      "title": "Trump says he\u2019ll order that TSA officers be paid, in a move that could end long waits at airport security"
     },
     {
       "source": "MarketWatch",
-      "title": "Micron\u2019s stock falls into a bear market \u2014 and it\u2019s now the cheapest in the S&P 500"
+      "title": "This map shows a crude ticking time bomb that hits much of the world\u2019s oil supply in April"
     }
   ]
 }
