@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, March 26 2026  04:37 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, March 26 2026  08:57 PT",
+  "market_status": "Live \u2014 as of 11:57 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6591.9,
-      "change_pct": 0.54
+      "price": 6540.22,
+      "change_pct": -0.79
     },
     "Nasdaq": {
-      "price": 21929.83,
-      "change_pct": 0.77
+      "price": 21696.07,
+      "change_pct": -1.07
     },
     "Dow Jones": {
-      "price": 46429.49,
-      "change_pct": 0.66
+      "price": 46219.66,
+      "change_pct": -0.45
     },
     "Russell 2000": {
-      "price": 2536.38,
-      "change_pct": 1.23
+      "price": 2517.55,
+      "change_pct": -0.74
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4440.7,
-      "change_pct": -1.54
+      "price": 4440.2,
+      "change_pct": -1.55
     },
     "Oil (WTI)": {
-      "price": 93.7,
-      "change_pct": 2.16
+      "price": 94.24,
+      "change_pct": 2.75
     },
     "Silver": {
-      "price": 67.94,
-      "change_pct": -5.4
+      "price": 68.81,
+      "change_pct": -4.2
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69343,
-      "change_pct": -3.58
+      "price": 69141,
+      "change_pct": -2.4
     },
     "ETH": {
-      "price": 2069.49,
-      "change_pct": -5.78
+      "price": 2071.15,
+      "change_pct": -4.24
     },
     "SOL": {
-      "price": 87.63,
-      "change_pct": -5.95
+      "price": 87.56,
+      "change_pct": -4.53
     },
     "BNB": {
-      "price": 628.8,
-      "change_pct": -3.26
+      "price": 627.59,
+      "change_pct": -2.78
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says Iranian negotiators 'better get serious soon, before it is too late'"
+      "title": "Trump says oil and stock market reaction to Iran conflict not as severe as he expected"
     },
     {
       "source": "CNBC",
-      "title": "What comes next? Three attack scenarios as U.S. sends thousands more troops to Middle East"
+      "title": "Major outgoing CEOs are citing AI as a factor in their decisions to step down"
     },
     {
       "source": "MarketWatch",
-      "title": "A lost decade for bonds means high-quality stocks are best way to protect against inflation, says Morgan Stanley strategist"
+      "title": "Adobe\u2019s stock may not be an \u2018AI loser,\u2019 but this analyst sees a number of reasons to steer clear"
     },
     {
       "source": "MarketWatch",
-      "title": "The dash to cash has only just begun. Here\u2019s what that means for stocks and bonds."
+      "title": "$120-a-barrel oil may be a tipping point that shifts Fed\u2019s focus from high inflation to recession threat"
     }
   ]
 }
