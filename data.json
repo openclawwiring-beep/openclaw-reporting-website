@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, March 26 2026  14:05 PT",
+  "generated_at": "Thursday, March 26 2026  15:01 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4369.7,
-      "change_pct": -3.12
+      "price": 4376.9,
+      "change_pct": -2.96
     },
     "Oil (WTI)": {
-      "price": 93.68,
-      "change_pct": 2.14
+      "price": 93.79,
+      "change_pct": 2.26
     },
     "Silver": {
-      "price": 68.15,
-      "change_pct": -5.1
+      "price": 68.12,
+      "change_pct": -5.14
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68896,
-      "change_pct": -2.95
+      "price": 68888,
+      "change_pct": -3.06
     },
     "ETH": {
-      "price": 2060.6,
-      "change_pct": -4.84
+      "price": 2068.04,
+      "change_pct": -4.48
     },
     "SOL": {
-      "price": 86.28,
-      "change_pct": -5.66
+      "price": 86.83,
+      "change_pct": -4.78
     },
     "BNB": {
-      "price": 629.32,
-      "change_pct": -2.68
+      "price": 630.44,
+      "change_pct": -2.62
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says Iran let 10 oil ships through Strait of Hormuz as a 'present' to U.S."
+      "title": "Trump extends pause on attacking Iran energy facilities to April 6"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My PayPal account received money from the Philippines with two phone numbers listed. I called them. Big mistake."
+      "title": "Why software stocks proved resilient on a dismal day for tech"
     },
     {
       "source": "MarketWatch",
-      "title": "An older relative wants to give my daughter $19,000 when she turns 18. I said no. Who\u2019s right?"
+      "title": "Micron\u2019s stock falls into a bear market \u2014 and it\u2019s now the cheapest in the S&P 500"
     }
   ]
 }
