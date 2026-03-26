@@ -1,60 +1,60 @@
 {
-  "generated_at": "Thursday, March 26 2026  08:57 PT",
-  "market_status": "Live \u2014 as of 11:57 ET",
+  "generated_at": "Thursday, March 26 2026  12:41 PT",
+  "market_status": "Live \u2014 as of 15:41 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6540.22,
-      "change_pct": -0.79
+      "price": 6484.72,
+      "change_pct": -1.63
     },
     "Nasdaq": {
-      "price": 21696.07,
-      "change_pct": -1.07
+      "price": 21445.51,
+      "change_pct": -2.21
     },
     "Dow Jones": {
-      "price": 46219.66,
-      "change_pct": -0.45
+      "price": 45977.34,
+      "change_pct": -0.97
     },
     "Russell 2000": {
-      "price": 2517.55,
-      "change_pct": -0.74
+      "price": 2495.46,
+      "change_pct": -1.61
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4440.2,
-      "change_pct": -1.55
+      "price": 4378.4,
+      "change_pct": -2.92
     },
     "Oil (WTI)": {
-      "price": 94.24,
-      "change_pct": 2.75
+      "price": 94.32,
+      "change_pct": 2.83
     },
     "Silver": {
-      "price": 68.81,
-      "change_pct": -4.2
+      "price": 67.54,
+      "change_pct": -5.97
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69141,
-      "change_pct": -2.4
+      "price": 68532,
+      "change_pct": -3.45
     },
     "ETH": {
-      "price": 2071.15,
-      "change_pct": -4.24
+      "price": 2048.15,
+      "change_pct": -5.74
     },
     "SOL": {
-      "price": 87.56,
-      "change_pct": -4.53
+      "price": 85.64,
+      "change_pct": -6.62
     },
     "BNB": {
-      "price": 627.59,
-      "change_pct": -2.78
+      "price": 625.54,
+      "change_pct": -3.25
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says oil and stock market reaction to Iran conflict not as severe as he expected"
+      "title": "Trump says Iran let 10 oil ships through Strait of Hormuz as 'present' to U.S."
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Adobe\u2019s stock may not be an \u2018AI loser,\u2019 but this analyst sees a number of reasons to steer clear"
+      "title": "Here\u2019s the big risk facing markets \u2014 besides inflation \u2014 as the Iran conflict drags on"
     },
     {
       "source": "MarketWatch",
-      "title": "$120-a-barrel oil may be a tipping point that shifts Fed\u2019s focus from high inflation to recession threat"
+      "title": "Americans are now providing more than $1 trillion in unpaid family caregiving a year"
     }
   ]
 }
