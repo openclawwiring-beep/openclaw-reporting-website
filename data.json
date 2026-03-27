@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, March 27 2026  07:35 PT",
-  "market_status": "Live \u2014 as of 10:35 ET",
+  "generated_at": "Friday, March 27 2026  11:01 PT",
+  "market_status": "Live \u2014 as of 14:01 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6418.47,
-      "change_pct": -0.91
+      "price": 6386.27,
+      "change_pct": -1.4
     },
     "Nasdaq": {
-      "price": 21127.53,
-      "change_pct": -1.31
+      "price": 20987.82,
+      "change_pct": -1.96
     },
     "Dow Jones": {
-      "price": 45552.16,
-      "change_pct": -0.88
+      "price": 45298.54,
+      "change_pct": -1.43
     },
     "Russell 2000": {
-      "price": 2471.66,
-      "change_pct": -0.88
+      "price": 2454.25,
+      "change_pct": -1.58
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4490.8,
-      "change_pct": 1.33
+      "price": 4527.7,
+      "change_pct": 2.16
     },
     "Oil (WTI)": {
-      "price": 97.75,
-      "change_pct": 4.59
+      "price": 98.52,
+      "change_pct": 5.41
     },
     "Silver": {
-      "price": 68.88,
-      "change_pct": -0.74
+      "price": 69.78,
+      "change_pct": 0.55
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65818,
-      "change_pct": -5.45
+      "price": 65602,
+      "change_pct": -4.11
     },
     "ETH": {
-      "price": 1974.61,
-      "change_pct": -4.97
+      "price": 1976.25,
+      "change_pct": -3.59
     },
     "SOL": {
-      "price": 82.7,
-      "change_pct": -5.68
+      "price": 82.23,
+      "change_pct": -5.13
     },
     "BNB": {
-      "price": 606.09,
-      "change_pct": -3.8
+      "price": 607.12,
+      "change_pct": -2.89
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Brent oil tops $110 again after Chinese ships are turned away from Strait of Hormuz"
-    },
-    {
-      "source": "CNBC",
       "title": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount"
     },
     {
-      "source": "MarketWatch",
-      "title": "Parents with student loans could fall into default if they don\u2019t take steps soon"
+      "source": "CNBC",
+      "title": "Epstein victims sue Google, Trump administration for disclosing personal information"
     },
     {
       "source": "MarketWatch",
-      "title": "I have $1,000 in credit-card debt. Is it OK to save for a house instead of paying it off?"
+      "title": "Is Trump losing his grip on the market? Sustained stock declines suggest the president\u2019s influence has waned."
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Not everyone\u2019s happy to see shorter lines at airports, as these stocks are dropping"
     }
   ]
 }
