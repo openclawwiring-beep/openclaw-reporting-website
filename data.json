@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, March 27 2026  04:10 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, March 27 2026  07:35 PT",
+  "market_status": "Live \u2014 as of 10:35 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6477.16,
-      "change_pct": -1.74
+      "price": 6418.47,
+      "change_pct": -0.91
     },
     "Nasdaq": {
-      "price": 21408.08,
-      "change_pct": -2.38
+      "price": 21127.53,
+      "change_pct": -1.31
     },
     "Dow Jones": {
-      "price": 45960.11,
-      "change_pct": -1.01
+      "price": 45552.16,
+      "change_pct": -0.88
     },
     "Russell 2000": {
-      "price": 2493.32,
-      "change_pct": -1.7
+      "price": 2471.66,
+      "change_pct": -0.88
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4443.4,
-      "change_pct": 0.26
+      "price": 4490.8,
+      "change_pct": 1.33
     },
     "Oil (WTI)": {
-      "price": 97.02,
-      "change_pct": 3.81
+      "price": 97.75,
+      "change_pct": 4.59
     },
     "Silver": {
-      "price": 68.2,
-      "change_pct": -1.72
+      "price": 68.88,
+      "change_pct": -0.74
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66448,
-      "change_pct": -4.46
+      "price": 65818,
+      "change_pct": -5.45
     },
     "ETH": {
-      "price": 1991.76,
-      "change_pct": -4.06
+      "price": 1974.61,
+      "change_pct": -4.97
     },
     "SOL": {
-      "price": 83.02,
-      "change_pct": -5.56
+      "price": 82.7,
+      "change_pct": -5.68
     },
     "BNB": {
-      "price": 609.62,
-      "change_pct": -3.22
+      "price": 606.09,
+      "change_pct": -3.8
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices climb to $110 as Trump's Iran deadline extension fails to allay supply fears"
+      "title": "Brent oil tops $110 again after Chinese ships are turned away from Strait of Hormuz"
     },
     {
       "source": "CNBC",
-      "title": "Trump says he will sign an executive order to 'immediately pay' TSA agents"
+      "title": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount"
     },
     {
       "source": "MarketWatch",
-      "title": "The two reasons higher oil prices may not trigger the inflationary spike that investors fear"
+      "title": "Parents with student loans could fall into default if they don\u2019t take steps soon"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices rise with diplomatic efforts yielding little progress as one firm flags $200 risk"
+      "title": "I have $1,000 in credit-card debt. Is it OK to save for a house instead of paying it off?"
     }
   ]
 }
