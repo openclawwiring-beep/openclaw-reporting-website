@@ -1,9 +1,9 @@
 {
-  "generated_at": "Friday, March 27 2026  13:00 PT",
+  "generated_at": "Friday, March 27 2026  14:58 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6368.67,
+      "price": 6368.85,
       "change_pct": -1.67
     },
     "Nasdaq": {
@@ -11,50 +11,50 @@
       "change_pct": -2.15
     },
     "Dow Jones": {
-      "price": 45167.38,
-      "change_pct": -1.71
+      "price": 45166.64,
+      "change_pct": -1.73
     },
     "Russell 2000": {
-      "price": 2446.21,
-      "change_pct": -1.9
+      "price": 2449.7,
+      "change_pct": -1.75
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4536.5,
-      "change_pct": 2.36
+      "price": 4521.3,
+      "change_pct": 2.01
     },
     "Oil (WTI)": {
-      "price": 100.1,
-      "change_pct": 7.1
+      "price": 101.18,
+      "change_pct": 8.26
     },
     "Silver": {
-      "price": 69.8,
-      "change_pct": 0.58
+      "price": 69.77,
+      "change_pct": 0.54
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66036,
-      "change_pct": -3.52
+      "price": 66019,
+      "change_pct": -4.16
     },
     "ETH": {
-      "price": 1993.08,
-      "change_pct": -2.6
+      "price": 1984.17,
+      "change_pct": -4.06
     },
     "SOL": {
-      "price": 82.67,
-      "change_pct": -3.5
+      "price": 82.76,
+      "change_pct": -4.72
     },
     "BNB": {
-      "price": 609.96,
-      "change_pct": -2.44
+      "price": 610.37,
+      "change_pct": -3.18
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Wall Street sell-off picks up steam, Dow loses 800 points and tumbles deeper into correction territory: Live updates"
+      "title": "Dow tumbles almost 800 points and enters correction, S&P 500 posts fifth straight losing week: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Your stock portfolio soared on cheap market risk \u2014 but the easy money is over"
+      "title": "More than half of the S&P 500 industry sectors are in correction territory. How much longer until the index itself succumbs?"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump promises TSA paychecks, even as House objections to Senate\u2019s bill threaten to prolong government shutdown"
+      "title": "These 16 stocks are a short seller\u2019s dream \u2014 likely losers no matter what the market does"
     }
   ]
 }
