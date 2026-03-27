@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, March 27 2026  11:01 PT",
-  "market_status": "Live \u2014 as of 14:01 ET",
+  "generated_at": "Friday, March 27 2026  13:00 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6386.27,
-      "change_pct": -1.4
+      "price": 6368.67,
+      "change_pct": -1.67
     },
     "Nasdaq": {
-      "price": 20987.82,
-      "change_pct": -1.96
+      "price": 20948.36,
+      "change_pct": -2.15
     },
     "Dow Jones": {
-      "price": 45298.54,
-      "change_pct": -1.43
+      "price": 45167.38,
+      "change_pct": -1.71
     },
     "Russell 2000": {
-      "price": 2454.25,
-      "change_pct": -1.58
+      "price": 2446.21,
+      "change_pct": -1.9
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4527.7,
-      "change_pct": 2.16
+      "price": 4536.5,
+      "change_pct": 2.36
     },
     "Oil (WTI)": {
-      "price": 98.52,
-      "change_pct": 5.41
+      "price": 100.1,
+      "change_pct": 7.1
     },
     "Silver": {
-      "price": 69.78,
-      "change_pct": 0.55
+      "price": 69.8,
+      "change_pct": 0.58
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65602,
-      "change_pct": -4.11
+      "price": 66036,
+      "change_pct": -3.52
     },
     "ETH": {
-      "price": 1976.25,
-      "change_pct": -3.59
+      "price": 1993.08,
+      "change_pct": -2.6
     },
     "SOL": {
-      "price": 82.23,
-      "change_pct": -5.13
+      "price": 82.67,
+      "change_pct": -3.5
     },
     "BNB": {
-      "price": 607.12,
-      "change_pct": -2.89
+      "price": 609.96,
+      "change_pct": -2.44
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount"
+      "title": "Wall Street sell-off picks up steam, Dow loses 800 points and tumbles deeper into correction territory: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Epstein victims sue Google, Trump administration for disclosing personal information"
+      "title": "TSA funding update: House GOP spikes DHS funding proposal, extending shutdown that's caused airport delays"
     },
     {
       "source": "MarketWatch",
-      "title": "Is Trump losing his grip on the market? Sustained stock declines suggest the president\u2019s influence has waned."
+      "title": "Your stock portfolio soared on cheap market risk \u2014 but the easy money is over"
     },
     {
       "source": "MarketWatch",
-      "title": "Not everyone\u2019s happy to see shorter lines at airports, as these stocks are dropping"
+      "title": "Trump promises TSA paychecks, even as House objections to Senate\u2019s bill threaten to prolong government shutdown"
     }
   ]
 }
