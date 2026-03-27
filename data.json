@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, March 27 2026  14:58 PT",
+  "generated_at": "Friday, March 27 2026  16:47 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66019,
-      "change_pct": -4.16
+      "price": 66253,
+      "change_pct": -3.59
     },
     "ETH": {
-      "price": 1984.17,
-      "change_pct": -4.06
+      "price": 1990.23,
+      "change_pct": -3.3
     },
     "SOL": {
-      "price": 82.76,
-      "change_pct": -4.72
+      "price": 82.88,
+      "change_pct": -4.0
     },
     "BNB": {
-      "price": 610.37,
-      "change_pct": -3.18
+      "price": 612.28,
+      "change_pct": -2.59
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "TSA funding update: House GOP spikes DHS funding proposal, extending shutdown that's caused airport delays"
+      "title": "Tech stocks suffer worst week in nearly a year, driven down by war worries, Meta legal woes"
     },
     {
       "source": "MarketWatch",
-      "title": "More than half of the S&P 500 industry sectors are in correction territory. How much longer until the index itself succumbs?"
+      "title": "Is Trump losing his grip on the stock market? Sustained declines suggest the president\u2019s influence has waned."
     },
     {
       "source": "MarketWatch",
-      "title": "These 16 stocks are a short seller\u2019s dream \u2014 likely losers no matter what the market does"
+      "title": "\u2018He didn\u2019t seem very alert\u2019: Our new CPA said we owe a $443 tax refund, but we\u2019re actually due $637. Do we fire him?"
     }
   ]
 }
