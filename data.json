@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, March 27 2026  01:09 PT",
+  "generated_at": "Friday, March 27 2026  04:10 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4473.8,
-      "change_pct": 0.94
+      "price": 4443.4,
+      "change_pct": 0.26
     },
     "Oil (WTI)": {
-      "price": 95.13,
-      "change_pct": 1.79
+      "price": 97.02,
+      "change_pct": 3.81
     },
     "Silver": {
-      "price": 69.6,
-      "change_pct": 0.29
+      "price": 68.2,
+      "change_pct": -1.72
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68498,
-      "change_pct": -2.23
+      "price": 66448,
+      "change_pct": -4.46
     },
     "ETH": {
-      "price": 2064.0,
-      "change_pct": -2.81
+      "price": 1991.76,
+      "change_pct": -4.06
     },
     "SOL": {
-      "price": 85.87,
-      "change_pct": -3.51
+      "price": 83.02,
+      "change_pct": -5.56
     },
     "BNB": {
-      "price": 628.03,
-      "change_pct": -1.05
+      "price": 609.62,
+      "change_pct": -3.22
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Private credit's cracks open door for Wall Street banks' comeback: 'The tug of war is just starting'"
+      "title": "Oil prices climb to $110 as Trump's Iran deadline extension fails to allay supply fears"
     },
     {
       "source": "CNBC",
-      "title": "Foreign investors pull a record $12 billion from Indian stocks, sparked by Iran war"
+      "title": "Trump says he will sign an executive order to 'immediately pay' TSA agents"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. airport chaos nearing end as Senate passes bill that funds TSA but not ICE"
+      "title": "The two reasons higher oil prices may not trigger the inflationary spike that investors fear"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump pauses plans to attack Iranian energy infrastructure, as Nasdaq falls into a correction"
+      "title": "Oil prices rise with diplomatic efforts yielding little progress as one firm flags $200 risk"
     }
   ]
 }
