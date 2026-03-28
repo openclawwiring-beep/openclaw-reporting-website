@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, March 27 2026  16:47 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, March 27 2026  22:15 PT",
+  "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 6368.85,
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4521.3,
-      "change_pct": 2.01
+      "price": 4492.0,
+      "change_pct": 1.35
     },
     "Oil (WTI)": {
-      "price": 101.18,
-      "change_pct": 8.26
+      "price": 99.64,
+      "change_pct": 6.61
     },
     "Silver": {
-      "price": 69.77,
-      "change_pct": 0.54
+      "price": 69.54,
+      "change_pct": 0.22
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66253,
-      "change_pct": -3.59
+      "price": 66192,
+      "change_pct": -3.68
     },
     "ETH": {
-      "price": 1990.23,
-      "change_pct": -3.3
+      "price": 1987.82,
+      "change_pct": -3.52
     },
     "SOL": {
-      "price": 82.88,
-      "change_pct": -4.0
+      "price": 82.41,
+      "change_pct": -4.56
     },
     "BNB": {
-      "price": 612.28,
-      "change_pct": -2.59
+      "price": 610.54,
+      "change_pct": -2.91
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Is Trump losing his grip on the stock market? Sustained declines suggest the president\u2019s influence has waned."
+      "title": "\u2018I want safe returns\u2019: I\u2019m 73 with $300,000 saved. I\u2019m not interested in the stock market. What should I do?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018He didn\u2019t seem very alert\u2019: Our new CPA said we owe a $443 tax refund, but we\u2019re actually due $637. Do we fire him?"
+      "title": "Is Trump losing his grip on the stock market? Sustained declines suggest the president\u2019s influence has waned."
     }
   ]
 }
