@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 28 2026  04:02 PT",
+  "generated_at": "Saturday, March 28 2026  04:59 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66179,
-      "change_pct": -0.43
+      "price": 66304,
+      "change_pct": -0.54
     },
     "ETH": {
-      "price": 1995.43,
-      "change_pct": 0.26
+      "price": 1996.9,
+      "change_pct": 0.35
     },
     "SOL": {
-      "price": 82.89,
-      "change_pct": -0.29
+      "price": 82.94,
+      "change_pct": -0.56
     },
     "BNB": {
-      "price": 611.12,
-      "change_pct": 0.4
+      "price": 612.56,
+      "change_pct": 0.27
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow tumbles almost 800 points and enters correction, S&P 500 posts fifth straight losing week: Live updates"
+      "title": "Yemen's Houthis launch Israel strike, the first time since the U.S.-Israel war began"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Several hurricanes have come close\u2019: I\u2019m 73 and live in a mobile home in Florida. Do I ditch my $2,400 home insurance?"
+      "title": "Fears of a prolonged oil shock grow as Iran war lurches toward its second month"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I want safe returns\u2019: I\u2019m 73 with $300,000 saved. I\u2019m not interested in the stock market. What should I do?"
+      "title": "\u2018Several hurricanes have come close\u2019: I\u2019m 73 and live in a mobile home in Florida. Do I ditch my $2,400 home insurance?"
     }
   ]
 }
