@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 28 2026  02:54 PT",
+  "generated_at": "Saturday, March 28 2026  04:02 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66240,
-      "change_pct": -2.3
+      "price": 66179,
+      "change_pct": -0.43
     },
     "ETH": {
-      "price": 1997.04,
-      "change_pct": -2.29
+      "price": 1995.43,
+      "change_pct": 0.26
     },
     "SOL": {
-      "price": 82.96,
-      "change_pct": -2.5
+      "price": 82.89,
+      "change_pct": -0.29
     },
     "BNB": {
-      "price": 611.56,
-      "change_pct": -1.4
+      "price": 611.12,
+      "change_pct": 0.4
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Tech stocks suffer worst week in nearly a year, driven down by war worries, Meta legal woes"
+      "title": "Trump signs order to pay TSA employees after Congress fails to agree on DHS funding"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018Several hurricanes have come close\u2019: I\u2019m 73 and live in a mobile home in Florida. Do I ditch my $2,400 home insurance?"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018I want safe returns\u2019: I\u2019m 73 with $300,000 saved. I\u2019m not interested in the stock market. What should I do?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Is Trump losing his grip on the stock market? Sustained declines suggest the president\u2019s influence has waned."
     }
   ]
 }
