@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 28 2026  11:03 PT",
+  "generated_at": "Saturday, March 28 2026  12:48 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66808,
-      "change_pct": 1.73
+      "price": 66801,
+      "change_pct": 1.37
     },
     "ETH": {
-      "price": 2019.42,
-      "change_pct": 2.09
+      "price": 2018.4,
+      "change_pct": 1.49
     },
     "SOL": {
-      "price": 83.25,
-      "change_pct": 1.24
+      "price": 83.16,
+      "change_pct": 0.7
     },
     "BNB": {
-      "price": 615.88,
-      "change_pct": 1.42
+      "price": 615.95,
+      "change_pct": 1.06
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Yemen's Houthis launch Israel strike, the first time since the U.S.-Israel war began"
+      "title": "How the big oil and gas CEOs think the Iran war supply disruption will play out"
     },
     {
       "source": "CNBC",
-      "title": "Analysis: A new oil shock is building. The next few weeks of war will be decisive for the economy."
+      "title": "Yemen's Houthis launch Israel strike, the first time since the U.S.-Israel war began"
     },
     {
       "source": "MarketWatch",
