@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 28 2026  08:53 PT",
+  "generated_at": "Saturday, March 28 2026  10:04 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66936,
-      "change_pct": 1.13
+      "price": 66893,
+      "change_pct": 1.38
     },
     "ETH": {
-      "price": 2024.07,
-      "change_pct": 1.69
+      "price": 2024.27,
+      "change_pct": 1.91
     },
     "SOL": {
-      "price": 83.73,
-      "change_pct": 0.12
+      "price": 83.54,
+      "change_pct": 0.69
     },
     "BNB": {
-      "price": 616.78,
-      "change_pct": 0.91
+      "price": 616.68,
+      "change_pct": 1.22
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I want safe returns\u2019: I\u2019m 73 with $300,000 saved. I\u2019m not interested in the stock market. What should I do?"
+      "title": "The 5 highest-paid college basketball players this year: No. 1 is making $4.2 million from NIL"
     },
     {
       "source": "MarketWatch",
-      "title": "Parents with student loans could fall into default if they don\u2019t take steps soon"
+      "title": "\u2018Several hurricanes have come close\u2019: I\u2019m 73 and live in a mobile home in Florida. Do I ditch my $2,400 home insurance?"
     }
   ]
 }
