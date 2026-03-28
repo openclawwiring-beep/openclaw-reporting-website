@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 28 2026  04:59 PT",
+  "generated_at": "Saturday, March 28 2026  07:04 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66304,
-      "change_pct": -0.54
+      "price": 66731,
+      "change_pct": 0.8
     },
     "ETH": {
-      "price": 1996.9,
-      "change_pct": 0.35
+      "price": 2020.44,
+      "change_pct": 1.95
     },
     "SOL": {
-      "price": 82.94,
-      "change_pct": -0.56
+      "price": 83.19,
+      "change_pct": 0.37
     },
     "BNB": {
-      "price": 612.56,
-      "change_pct": 0.27
+      "price": 614.98,
+      "change_pct": 1.05
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump signs order to pay TSA employees after Congress fails to agree on DHS funding"
+      "title": "Analysis: A new oil shock is building. The next few weeks of war will be decisive for the economy."
     },
     {
       "source": "MarketWatch",
-      "title": "Fears of a prolonged oil shock grow as Iran war lurches toward its second month"
+      "title": "\u2018The bank told me I could be liable\u2019: I found out why my brother, who has a reverse mortgage, ran out of money"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Several hurricanes have come close\u2019: I\u2019m 73 and live in a mobile home in Florida. Do I ditch my $2,400 home insurance?"
+      "title": "\u2018He didn\u2019t seem very alert\u2019: Our CPA said we owe the IRS $443, but we\u2019re actually due a refund of $637. Do we fire him?"
     }
   ]
 }
