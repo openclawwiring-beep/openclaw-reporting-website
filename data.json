@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 29 2026  07:03 PT",
+  "generated_at": "Sunday, March 29 2026  08:52 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66476,
-      "change_pct": -0.4
+      "price": 66388,
+      "change_pct": -0.83
     },
     "ETH": {
-      "price": 1986.35,
+      "price": 1989.54,
       "change_pct": -1.71
     },
     "SOL": {
-      "price": 81.85,
-      "change_pct": -1.75
+      "price": 81.58,
+      "change_pct": -2.57
     },
     "BNB": {
-      "price": 609.73,
-      "change_pct": -0.85
+      "price": 608.33,
+      "change_pct": -1.37
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Eli Lilly reaches $2.75 billion deal with Insilico to bring AI-developed drugs to the global market"
+      "title": "Trump ban on investor homebuying may come at cost of a bigger real estate deal"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018It feels slimy\u2019: My friend offered to be my adviser, but didn\u2019t tell me he\u2019s paid to push financial products. Can I trust him?"
     },
     {
       "source": "MarketWatch",
       "title": "Nike\u2019s stock is at 9-year lows ahead of earnings. It faces these questions as doubt grows over its turnaround."
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018He didn\u2019t seem very alert\u2019: Our CPA said we owe the IRS $443, but we\u2019re actually due a refund of $637. Do we fire him?"
     }
   ]
 }
