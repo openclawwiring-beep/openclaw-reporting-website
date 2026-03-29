@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 29 2026  08:52 PT",
+  "generated_at": "Sunday, March 29 2026  10:05 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66388,
-      "change_pct": -0.83
+      "price": 66438,
+      "change_pct": -0.71
     },
     "ETH": {
-      "price": 1989.54,
-      "change_pct": -1.71
+      "price": 1995.86,
+      "change_pct": -1.43
     },
     "SOL": {
-      "price": 81.58,
-      "change_pct": -2.57
+      "price": 81.63,
+      "change_pct": -2.27
     },
     "BNB": {
-      "price": 608.33,
-      "change_pct": -1.37
+      "price": 609.15,
+      "change_pct": -1.24
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It feels slimy\u2019: My friend offered to be my adviser, but didn\u2019t tell me he\u2019s paid to push financial products. Can I trust him?"
+      "title": "Investors have nowhere to hide as financial markets groan under the weight of the Iran conflict"
     },
     {
       "source": "MarketWatch",
-      "title": "Nike\u2019s stock is at 9-year lows ahead of earnings. It faces these questions as doubt grows over its turnaround."
+      "title": "\u2018It feels slimy\u2019: My friend offered to be my adviser, but didn\u2019t tell me he\u2019s paid to push financial products. Can I trust him?"
     }
   ]
 }
