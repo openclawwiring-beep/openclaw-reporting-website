@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 29 2026  04:48 PT",
+  "generated_at": "Sunday, March 29 2026  07:03 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66865,
-      "change_pct": 0.85
+      "price": 66476,
+      "change_pct": -0.4
     },
     "ETH": {
-      "price": 2004.64,
-      "change_pct": 0.36
+      "price": 1986.35,
+      "change_pct": -1.71
     },
     "SOL": {
-      "price": 82.64,
-      "change_pct": -0.38
+      "price": 81.85,
+      "change_pct": -1.75
     },
     "BNB": {
-      "price": 613.66,
-      "change_pct": 0.24
+      "price": 609.73,
+      "change_pct": -0.85
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Bahrain aluminum giant says Iranian attack targeted its facility"
+      "title": "Meta's court losses spell potential trouble for AI research, consumer safety"
     },
     {
       "source": "CNBC",
-      "title": "How the big oil and gas CEOs think the Iran war supply disruption will play out"
+      "title": "Eli Lilly reaches $2.75 billion deal with Insilico to bring AI-developed drugs to the global market"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Several hurricanes have come close\u2019: I\u2019m 73 and live in a mobile home in Florida. Do I ditch my $2,400 home insurance?"
+      "title": "Nike\u2019s stock is at 9-year lows ahead of earnings. It faces these questions as doubt grows over its turnaround."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This guy has no manners\u2019: My Airbnb guest requested I buy bacon and beer. The $30 bill remains unpaid. Do I insist?"
+      "title": "\u2018He didn\u2019t seem very alert\u2019: Our CPA said we owe the IRS $443, but we\u2019re actually due a refund of $637. Do we fire him?"
     }
   ]
 }
