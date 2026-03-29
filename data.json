@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 29 2026  12:23 PT",
+  "generated_at": "Sunday, March 29 2026  13:02 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66379,
-      "change_pct": -0.63
+      "price": 66311,
+      "change_pct": -0.93
     },
     "ETH": {
-      "price": 1996.82,
-      "change_pct": -1.08
+      "price": 1994.91,
+      "change_pct": -1.32
     },
     "SOL": {
-      "price": 81.74,
-      "change_pct": -1.71
+      "price": 81.56,
+      "change_pct": -2.06
     },
     "BNB": {
-      "price": 608.84,
-      "change_pct": -1.12
+      "price": 608.76,
+      "change_pct": -1.31
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Investors have nowhere to hide as financial markets groan under the weight of the Iran conflict"
+      "title": "Is Trump losing his grip on the stock market? Sustained declines suggest the president\u2019s influence has waned."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It feels slimy\u2019: My friend offered to be my adviser, but didn\u2019t tell me he\u2019s paid to push financial products. Can I trust him?"
+      "title": "Investors have nowhere to hide as financial markets groan under the weight of the Iran conflict"
     }
   ]
 }
