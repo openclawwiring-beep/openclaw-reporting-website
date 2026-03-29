@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 29 2026  10:05 PT",
+  "generated_at": "Sunday, March 29 2026  12:23 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66438,
-      "change_pct": -0.71
+      "price": 66379,
+      "change_pct": -0.63
     },
     "ETH": {
-      "price": 1995.86,
-      "change_pct": -1.43
+      "price": 1996.82,
+      "change_pct": -1.08
     },
     "SOL": {
-      "price": 81.63,
-      "change_pct": -2.27
+      "price": 81.74,
+      "change_pct": -1.71
     },
     "BNB": {
-      "price": 609.15,
-      "change_pct": -1.24
+      "price": 608.84,
+      "change_pct": -1.12
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump ban on investor homebuying may come at cost of a bigger real estate deal"
+      "title": "Middle East leaders huddle in Pakistan as Trump weighs ground operations in Iran"
     },
     {
       "source": "MarketWatch",
