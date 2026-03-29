@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, March 29 2026  13:02 PT",
+  "generated_at": "Sunday, March 29 2026  14:54 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66311,
-      "change_pct": -0.93
+      "price": 66624,
+      "change_pct": -0.01
     },
     "ETH": {
-      "price": 1994.91,
-      "change_pct": -1.32
+      "price": 2003.38,
+      "change_pct": -0.24
     },
     "SOL": {
-      "price": 81.56,
-      "change_pct": -2.06
+      "price": 82.07,
+      "change_pct": -0.83
     },
     "BNB": {
-      "price": 608.76,
-      "change_pct": -1.31
+      "price": 610.0,
+      "change_pct": -0.83
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Middle East leaders huddle in Pakistan as Trump weighs ground operations in Iran"
+      "title": "Pakistan prepared to host U.S.-Iran talks in 'coming days' as Trump weighs deploying ground troops"
     },
     {
       "source": "MarketWatch",
