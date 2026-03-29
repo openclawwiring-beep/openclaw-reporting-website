@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, March 28 2026  16:54 PT",
+  "generated_at": "Saturday, March 28 2026  22:53 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4492.0,
-      "change_pct": 1.35
+      "price": 4524.3,
+      "change_pct": 2.08
     },
     "Oil (WTI)": {
       "price": 99.64,
       "change_pct": 6.61
     },
     "Silver": {
-      "price": 69.54,
-      "change_pct": 0.22
+      "price": 69.8,
+      "change_pct": 0.58
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66344,
-      "change_pct": 0.04
+      "price": 66667,
+      "change_pct": 0.53
     },
     "ETH": {
-      "price": 1993.7,
-      "change_pct": 0.09
+      "price": 2003.57,
+      "change_pct": 0.54
     },
     "SOL": {
-      "price": 82.03,
-      "change_pct": -1.13
+      "price": 82.65,
+      "change_pct": -0.01
     },
     "BNB": {
-      "price": 610.74,
-      "change_pct": -0.4
+      "price": 613.14,
+      "change_pct": 0.2
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Yemen's Houthis launch Israel strike, the first time since the U.S.-Israel war began"
+      "title": "Berkshire shares suffer longest losing streak in more than 7 years"
     },
     {
       "source": "MarketWatch",
