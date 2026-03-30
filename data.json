@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, March 30 2026  07:54 PT",
-  "market_status": "Live \u2014 as of 10:54 ET",
+  "generated_at": "Monday, March 30 2026  11:06 PT",
+  "market_status": "Live \u2014 as of 14:06 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6385.2,
-      "change_pct": 0.27
+      "price": 6358.1,
+      "change_pct": -0.15
     },
     "Nasdaq": {
-      "price": 20951.07,
-      "change_pct": 0.01
+      "price": 20837.71,
+      "change_pct": -0.53
     },
     "Dow Jones": {
-      "price": 45423.06,
-      "change_pct": 0.59
+      "price": 45313.36,
+      "change_pct": 0.34
     },
     "Russell 2000": {
-      "price": 2434.59,
-      "change_pct": -0.64
+      "price": 2414.21,
+      "change_pct": -1.47
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4551.7,
-      "change_pct": 0.52
+      "price": 4545.6,
+      "change_pct": 0.39
     },
     "Oil (WTI)": {
-      "price": 102.24,
-      "change_pct": 0.61
+      "price": 103.43,
+      "change_pct": 1.78
     },
     "Silver": {
-      "price": 70.63,
-      "change_pct": 0.97
+      "price": 70.56,
+      "change_pct": 0.86
     }
   },
   "crypto": {
     "BTC": {
-      "price": 67274,
-      "change_pct": 1.17
+      "price": 66809,
+      "change_pct": 0.77
     },
     "ETH": {
-      "price": 2052.77,
-      "change_pct": 3.1
+      "price": 2039.83,
+      "change_pct": 2.47
     },
     "SOL": {
-      "price": 83.79,
-      "change_pct": 2.38
+      "price": 83.23,
+      "change_pct": 2.13
     },
     "BNB": {
-      "price": 614.09,
-      "change_pct": 0.67
+      "price": 612.75,
+      "change_pct": 0.72
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says U.S. will destroy Iran\u2019s oil wells, Kharg Island without deal to 'immediately' reopen Hormuz Strait"
+      "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock"
     },
     {
       "source": "CNBC",
-      "title": "401(k) alternative asset rule proposed by Labor Department"
+      "title": "Trump says U.S. will destroy Iran\u2019s oil wells, Kharg Island without deal to 'immediately' reopen Hormuz Strait"
     },
     {
       "source": "MarketWatch",
-      "title": "Want to watch all of the Yankees\u2019 games on TV this season? It\u2019ll cost you over $1,200."
+      "title": "\u2018Several hurricanes have come close\u2019: I\u2019m 73 and live in a mobile home in Florida. Do I ditch my $2,400 home insurance?"
     },
     {
       "source": "MarketWatch",
-      "title": "Sysco goes all in on the \u2018cash and carry\u2019 food-service business with a $29 billion buyout"
+      "title": "This is a reason the Middle East\u2019s major oil-producing countries have been selling their U.S. Treasurys"
     }
   ]
 }
