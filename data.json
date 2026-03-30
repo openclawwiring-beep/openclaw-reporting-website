@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, March 30 2026  03:47 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, March 30 2026  07:54 PT",
+  "market_status": "Live \u2014 as of 10:54 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6368.85,
-      "change_pct": -1.67
+      "price": 6385.2,
+      "change_pct": 0.27
     },
     "Nasdaq": {
-      "price": 20948.36,
-      "change_pct": -2.15
+      "price": 20951.07,
+      "change_pct": 0.01
     },
     "Dow Jones": {
-      "price": 45166.64,
-      "change_pct": -1.73
+      "price": 45423.06,
+      "change_pct": 0.59
     },
     "Russell 2000": {
-      "price": 2449.7,
-      "change_pct": -1.75
+      "price": 2434.59,
+      "change_pct": -0.64
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4562.6,
-      "change_pct": 0.76
+      "price": 4551.7,
+      "change_pct": 0.52
     },
     "Oil (WTI)": {
-      "price": 101.79,
-      "change_pct": 0.17
+      "price": 102.24,
+      "change_pct": 0.61
     },
     "Silver": {
-      "price": 70.93,
-      "change_pct": 1.4
+      "price": 70.63,
+      "change_pct": 0.97
     }
   },
   "crypto": {
     "BTC": {
-      "price": 67376,
-      "change_pct": 1.34
+      "price": 67274,
+      "change_pct": 1.17
     },
     "ETH": {
-      "price": 2049.79,
-      "change_pct": 2.75
+      "price": 2052.77,
+      "change_pct": 3.1
     },
     "SOL": {
-      "price": 83.71,
-      "change_pct": 2.0
+      "price": 83.79,
+      "change_pct": 2.38
     },
     "BNB": {
-      "price": 616.5,
-      "change_pct": 0.8
+      "price": 614.09,
+      "change_pct": 0.67
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices rise with Brent heading for record monthly surge as Iran war enters fifth week"
+      "title": "Trump says U.S. will destroy Iran\u2019s oil wells, Kharg Island without deal to 'immediately' reopen Hormuz Strait"
     },
     {
       "source": "CNBC",
-      "title": "Russia welcomes arrival of oil tanker in Cuba after Trump softens approach to U.S. blockade"
+      "title": "401(k) alternative asset rule proposed by Labor Department"
     },
     {
       "source": "MarketWatch",
-      "title": "German arms manufacturer in damage control mode after PR disaster and stock slump"
+      "title": "Want to watch all of the Yankees\u2019 games on TV this season? It\u2019ll cost you over $1,200."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Several hurricanes have come close\u2019: I\u2019m 73 and live in a mobile home in Florida. Do I ditch my $2,400 home insurance?"
+      "title": "Sysco goes all in on the \u2018cash and carry\u2019 food-service business with a $29 billion buyout"
     }
   ]
 }
