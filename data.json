@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, March 30 2026  11:06 PT",
-  "market_status": "Live \u2014 as of 14:06 ET",
+  "generated_at": "Monday, March 30 2026  14:04 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6358.1,
-      "change_pct": -0.15
+      "price": 6343.72,
+      "change_pct": -0.39
     },
     "Nasdaq": {
-      "price": 20837.71,
-      "change_pct": -0.53
+      "price": 20794.64,
+      "change_pct": -0.73
     },
     "Dow Jones": {
-      "price": 45313.36,
-      "change_pct": 0.34
+      "price": 45216.14,
+      "change_pct": 0.11
     },
     "Russell 2000": {
-      "price": 2414.21,
-      "change_pct": -1.47
+      "price": 2414.01,
+      "change_pct": -1.46
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4545.6,
-      "change_pct": 0.39
+      "price": 4537.3,
+      "change_pct": 0.2
     },
     "Oil (WTI)": {
-      "price": 103.43,
-      "change_pct": 1.78
+      "price": 105.03,
+      "change_pct": 3.36
     },
     "Silver": {
-      "price": 70.56,
-      "change_pct": 0.86
+      "price": 70.19,
+      "change_pct": 0.35
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66809,
-      "change_pct": 0.77
+      "price": 66586,
+      "change_pct": 0.04
     },
     "ETH": {
-      "price": 2039.83,
-      "change_pct": 2.47
+      "price": 2021.0,
+      "change_pct": 0.96
     },
     "SOL": {
-      "price": 83.23,
-      "change_pct": 2.13
+      "price": 82.71,
+      "change_pct": 1.09
     },
     "BNB": {
-      "price": 612.75,
-      "change_pct": 0.72
+      "price": 609.56,
+      "change_pct": 0.05
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock"
+      "title": "Brent oil heads for record monthly surge, WTI settles above $100 for first time since 2022"
     },
     {
       "source": "CNBC",
-      "title": "Trump says U.S. will destroy Iran\u2019s oil wells, Kharg Island without deal to 'immediately' reopen Hormuz Strait"
+      "title": "China suppliers warn of higher prices for Americans due to Strait of Hormuz closure"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Several hurricanes have come close\u2019: I\u2019m 73 and live in a mobile home in Florida. Do I ditch my $2,400 home insurance?"
+      "title": "U.S. stocks are faring worse than during past geopolitical shocks \u2014 and there\u2019s plenty of room for them to fall further"
     },
     {
       "source": "MarketWatch",
-      "title": "This is a reason the Middle East\u2019s major oil-producing countries have been selling their U.S. Treasurys"
+      "title": "This AI power company\u2019s Trump-named power project still has no customers in sight"
     }
   ]
 }
