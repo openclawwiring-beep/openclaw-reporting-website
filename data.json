@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, March 29 2026  16:04 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Sunday, March 29 2026  23:17 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 6368.85,
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4515.7,
-      "change_pct": -0.11
+      "price": 4554.7,
+      "change_pct": 0.59
     },
     "Oil (WTI)": {
-      "price": 102.53,
-      "change_pct": 1.33
+      "price": 100.59,
+      "change_pct": -1.01
     },
     "Silver": {
-      "price": 68.65,
-      "change_pct": -1.6
+      "price": 70.77,
+      "change_pct": 1.17
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66080,
-      "change_pct": -0.85
+      "price": 67375,
+      "change_pct": 0.86
     },
     "ETH": {
-      "price": 1983.06,
-      "change_pct": -1.22
+      "price": 2043.76,
+      "change_pct": 1.95
     },
     "SOL": {
-      "price": 80.75,
-      "change_pct": -2.36
+      "price": 83.62,
+      "change_pct": 1.14
     },
     "BNB": {
-      "price": 605.37,
-      "change_pct": -1.55
+      "price": 616.41,
+      "change_pct": 0.35
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures slide ahead of a holiday-shortened trading week: Live updates"
+      "title": "Trump reportedly wants to 'take the oil in Iran' as Tehran targets water, power facilities in Kuwait"
     },
     {
       "source": "CNBC",
-      "title": "Pakistan prepared to host U.S.-Iran talks in 'coming days' as Trump weighs deploying ground troops"
+      "title": "Stock futures trade flat ahead of a holiday-shortened trading week: Live updates"
     },
     {
       "source": "MarketWatch",
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Is Trump losing his grip on the stock market? Sustained declines suggest the president\u2019s influence has waned."
+      "title": "My brother says lawyers can get him a Medicaid nursing home in Florida for a \u2018hefty fee,\u2019 despite his assets. Is this a scam?"
     }
   ]
 }
