@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, March 30 2026  16:07 PT",
+  "generated_at": "Monday, March 30 2026  22:29 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4541.5,
-      "change_pct": 0.3
+      "price": 4587.2,
+      "change_pct": -1.14
     },
     "Oil (WTI)": {
-      "price": 104.94,
-      "change_pct": 3.27
+      "price": 103.39,
+      "change_pct": 1.98
     },
     "Silver": {
-      "price": 70.11,
-      "change_pct": 0.24
+      "price": 72.08,
+      "change_pct": -1.71
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66417,
-      "change_pct": 0.7
+      "price": 67552,
+      "change_pct": -0.11
     },
     "ETH": {
-      "price": 2016.34,
-      "change_pct": 1.79
+      "price": 2062.61,
+      "change_pct": 0.45
     },
     "SOL": {
-      "price": 82.51,
-      "change_pct": 1.77
+      "price": 83.08,
+      "change_pct": -0.85
     },
     "BNB": {
-      "price": 608.28,
-      "change_pct": 0.45
+      "price": 612.44,
+      "change_pct": -0.74
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Brent oil heads for record monthly surge, WTI settles above $100 for first time since 2022"
+      "title": "Pete Hegseth's broker attempted to make defense investments before Iran war: Financial Times"
     },
     {
       "source": "CNBC",
-      "title": "China suppliers warn of higher prices for Americans due to Strait of Hormuz closure"
+      "title": "Stock futures rise as oil prices fall after report says Trump looking to end Iran war: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. stocks are faring worse than during past geopolitical shocks \u2014 and there\u2019s plenty of room for them to fall further"
+      "title": "Stock futures jump, oil prices retreat on report Trump willing to end war"
     },
     {
       "source": "MarketWatch",
-      "title": "This AI power company\u2019s Trump-named power project still has no customers in sight"
+      "title": "Most people have already gotten their tax refunds. That\u2019s bad news for restaurants and retailers."
     }
   ]
 }
