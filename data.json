@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, March 31 2026  08:54 PT",
-  "market_status": "Live \u2014 as of 11:54 ET",
+  "generated_at": "Tuesday, March 31 2026  12:36 PT",
+  "market_status": "Live \u2014 as of 15:36 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6432.22,
-      "change_pct": 1.39
+      "price": 6527.56,
+      "change_pct": 2.9
     },
     "Nasdaq": {
-      "price": 21182.62,
-      "change_pct": 1.87
+      "price": 21582.84,
+      "change_pct": 3.79
     },
     "Dow Jones": {
-      "price": 45705.03,
-      "change_pct": 1.07
+      "price": 46332.18,
+      "change_pct": 2.46
     },
     "Russell 2000": {
-      "price": 2454.45,
-      "change_pct": 1.66
+      "price": 2494.38,
+      "change_pct": 3.31
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4650.4,
-      "change_pct": 1.43
+      "price": 4702.9,
+      "change_pct": 2.57
     },
     "Oil (WTI)": {
-      "price": 104.27,
-      "change_pct": 1.23
+      "price": 102.36,
+      "change_pct": -0.62
     },
     "Silver": {
-      "price": 73.93,
-      "change_pct": 2.42
+      "price": 75.27,
+      "change_pct": 4.28
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66965,
-      "change_pct": -1.1
+      "price": 67791,
+      "change_pct": 2.27
     },
     "ETH": {
-      "price": 2062.0,
-      "change_pct": -0.71
+      "price": 2096.54,
+      "change_pct": 4.0
     },
     "SOL": {
-      "price": 81.08,
-      "change_pct": -4.12
+      "price": 82.55,
+      "change_pct": 0.48
     },
     "BNB": {
-      "price": 609.57,
-      "change_pct": -1.47
+      "price": 615.33,
+      "change_pct": 1.16
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Warren Buffett says he sold Apple too soon and would buy more of it, though not in this market"
+      "title": "Dow rallies 1,000 points as optimism grows for an end to the Iran war: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending"
+      "title": "Why $4 a gallon gas prices won\u2019t trigger Fed interest rate hikes \u2014 and could lead to cuts"
     },
     {
       "source": "MarketWatch",
-      "title": "Moon launches are having a moment. But can you make money off the lunar frenzy?"
+      "title": "Oracle\u2019s stock rises as company reportedly begins thousands of job cuts"
     },
     {
       "source": "MarketWatch",
-      "title": "20 stocks that bucked the stock market\u2019s decline in March with double-digit gains"
+      "title": "Oil prices gain for the month but fall for the session on hopes that an end to the Iran war may be near"
     }
   ]
 }
