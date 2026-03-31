@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, March 31 2026  01:42 PT",
+  "generated_at": "Tuesday, March 31 2026  04:37 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4599.4,
-      "change_pct": 0.32
+      "price": 4611.2,
+      "change_pct": 0.57
     },
     "Oil (WTI)": {
-      "price": 102.43,
-      "change_pct": -0.55
+      "price": 103.4,
+      "change_pct": 0.39
     },
     "Silver": {
-      "price": 73.21,
-      "change_pct": 1.42
+      "price": 73.4,
+      "change_pct": 1.69
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66964,
-      "change_pct": -1.08
+      "price": 66682,
+      "change_pct": -1.22
     },
     "ETH": {
-      "price": 2045.1,
-      "change_pct": -0.93
+      "price": 2036.04,
+      "change_pct": -1.46
     },
     "SOL": {
-      "price": 82.8,
-      "change_pct": -1.98
+      "price": 80.62,
+      "change_pct": -4.17
     },
     "BNB": {
-      "price": 608.07,
-      "change_pct": -1.89
+      "price": 604.98,
+      "change_pct": -2.14
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. gasoline hits $4 per gallon, highest since 2022, as Iran war drives up fuel prices"
+      "title": "Stock futures rise after report says Trump looking to end Iran war: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Pete Hegseth's broker attempted to make defense investments before Iran war: Financial Times"
+      "title": "Unilever enforces global hiring pause due to 'significant challenges' amid Middle East conflict"
     },
     {
       "source": "MarketWatch",
-      "title": "Stock futures jump, oil prices retreat on report Trump willing to end war"
+      "title": "It\u2019s time to get defensive, say Morgan Stanley strategists. Hold more cash and make these moves."
     },
     {
       "source": "MarketWatch",
-      "title": "Most people have already gotten their tax refunds. That\u2019s bad news for restaurants and retailers."
+      "title": "My wife and I buy promotional CDs with our tax-refund check. Is now a bad time to switch to Treasurys?"
     }
   ]
 }
