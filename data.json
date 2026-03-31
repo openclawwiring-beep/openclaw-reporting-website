@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, March 30 2026  22:29 PT",
+  "generated_at": "Tuesday, March 31 2026  01:42 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4587.2,
-      "change_pct": -1.14
+      "price": 4599.4,
+      "change_pct": 0.32
     },
     "Oil (WTI)": {
-      "price": 103.39,
-      "change_pct": 1.98
+      "price": 102.43,
+      "change_pct": -0.55
     },
     "Silver": {
-      "price": 72.08,
-      "change_pct": -1.71
+      "price": 73.21,
+      "change_pct": 1.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 67552,
-      "change_pct": -0.11
+      "price": 66964,
+      "change_pct": -1.08
     },
     "ETH": {
-      "price": 2062.61,
-      "change_pct": 0.45
+      "price": 2045.1,
+      "change_pct": -0.93
     },
     "SOL": {
-      "price": 83.08,
-      "change_pct": -0.85
+      "price": 82.8,
+      "change_pct": -1.98
     },
     "BNB": {
-      "price": 612.44,
-      "change_pct": -0.74
+      "price": 608.07,
+      "change_pct": -1.89
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Pete Hegseth's broker attempted to make defense investments before Iran war: Financial Times"
+      "title": "U.S. gasoline hits $4 per gallon, highest since 2022, as Iran war drives up fuel prices"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures rise as oil prices fall after report says Trump looking to end Iran war: Live updates"
+      "title": "Pete Hegseth's broker attempted to make defense investments before Iran war: Financial Times"
     },
     {
       "source": "MarketWatch",
