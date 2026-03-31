@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, March 31 2026  14:58 PT",
+  "generated_at": "Tuesday, March 31 2026  16:51 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4699.6,
-      "change_pct": 2.5
+      "price": 4721.6,
+      "change_pct": 2.98
     },
     "Oil (WTI)": {
-      "price": 101.56,
-      "change_pct": -1.4
+      "price": 102.08,
+      "change_pct": -0.89
     },
     "Silver": {
-      "price": 75.35,
-      "change_pct": 4.38
+      "price": 75.29,
+      "change_pct": 4.31
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68230,
+      "price": 68167,
       "change_pct": 2.21
     },
     "ETH": {
-      "price": 2101.7,
-      "change_pct": 3.2
+      "price": 2100.83,
+      "change_pct": 3.78
     },
     "SOL": {
-      "price": 82.9,
-      "change_pct": -0.39
+      "price": 83.04,
+      "change_pct": 0.76
     },
     "BNB": {
-      "price": 617.73,
-      "change_pct": 0.91
+      "price": 616.39,
+      "change_pct": 1.3
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle'"
+      "title": "Trump says U.S. will leave Iran in 'two or three weeks'"
     },
     {
       "source": "CNBC",
-      "title": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO"
+      "title": "Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle'"
     },
     {
       "source": "MarketWatch",
-      "title": "20 stocks that bucked the stock market\u2019s decline in March with gains of up to 40%"
+      "title": "Nike expects more falling sales, as stock sinks amid worries turnaround is not working"
     },
     {
       "source": "MarketWatch",
-      "title": "My wife and I buy promotional CDs with our tax-refund check. Is now a bad time to switch to Treasurys?"
+      "title": "Investors brace for more stock-market volatility, as wild first quarter ends with biggest rally in a year"
     }
   ]
 }
