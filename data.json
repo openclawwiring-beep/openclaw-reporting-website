@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, March 31 2026  04:37 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, March 31 2026  08:54 PT",
+  "market_status": "Live \u2014 as of 11:54 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6343.72,
-      "change_pct": -0.39
+      "price": 6432.22,
+      "change_pct": 1.39
     },
     "Nasdaq": {
-      "price": 20794.64,
-      "change_pct": -0.73
+      "price": 21182.62,
+      "change_pct": 1.87
     },
     "Dow Jones": {
-      "price": 45216.14,
-      "change_pct": 0.11
+      "price": 45705.03,
+      "change_pct": 1.07
     },
     "Russell 2000": {
-      "price": 2414.01,
-      "change_pct": -1.46
+      "price": 2454.45,
+      "change_pct": 1.66
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4611.2,
-      "change_pct": 0.57
+      "price": 4650.4,
+      "change_pct": 1.43
     },
     "Oil (WTI)": {
-      "price": 103.4,
-      "change_pct": 0.39
+      "price": 104.27,
+      "change_pct": 1.23
     },
     "Silver": {
-      "price": 73.4,
-      "change_pct": 1.69
+      "price": 73.93,
+      "change_pct": 2.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66682,
-      "change_pct": -1.22
+      "price": 66965,
+      "change_pct": -1.1
     },
     "ETH": {
-      "price": 2036.04,
-      "change_pct": -1.46
+      "price": 2062.0,
+      "change_pct": -0.71
     },
     "SOL": {
-      "price": 80.62,
-      "change_pct": -4.17
+      "price": 81.08,
+      "change_pct": -4.12
     },
     "BNB": {
-      "price": 604.98,
-      "change_pct": -2.14
+      "price": 609.57,
+      "change_pct": -1.47
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures rise after report says Trump looking to end Iran war: Live updates"
+      "title": "Warren Buffett says he sold Apple too soon and would buy more of it, though not in this market"
     },
     {
       "source": "CNBC",
-      "title": "Unilever enforces global hiring pause due to 'significant challenges' amid Middle East conflict"
+      "title": "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending"
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s time to get defensive, say Morgan Stanley strategists. Hold more cash and make these moves."
+      "title": "Moon launches are having a moment. But can you make money off the lunar frenzy?"
     },
     {
       "source": "MarketWatch",
-      "title": "My wife and I buy promotional CDs with our tax-refund check. Is now a bad time to switch to Treasurys?"
+      "title": "20 stocks that bucked the stock market\u2019s decline in March with double-digit gains"
     }
   ]
 }
