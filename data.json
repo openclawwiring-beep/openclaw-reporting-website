@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, March 31 2026  16:51 PT",
+  "generated_at": "Tuesday, March 31 2026  23:13 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4721.6,
-      "change_pct": 2.98
+      "price": 4712.3,
+      "change_pct": -0.07
     },
     "Oil (WTI)": {
-      "price": 102.08,
-      "change_pct": -0.89
+      "price": 101.16,
+      "change_pct": -2.06
     },
     "Silver": {
-      "price": 75.29,
-      "change_pct": 4.31
+      "price": 74.47,
+      "change_pct": 0.06
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68167,
-      "change_pct": 2.21
+      "price": 68591,
+      "change_pct": 1.72
     },
     "ETH": {
-      "price": 2100.83,
-      "change_pct": 3.78
+      "price": 2136.51,
+      "change_pct": 3.84
     },
     "SOL": {
-      "price": 83.04,
-      "change_pct": 0.76
+      "price": 84.13,
+      "change_pct": 0.87
     },
     "BNB": {
-      "price": 616.39,
-      "change_pct": 1.3
+      "price": 617.73,
+      "change_pct": 0.98
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says U.S. will leave Iran in 'two or three weeks'"
+      "title": "Trump to address nation on Iran war Wednesday night, White House says"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Nike expects more falling sales, as stock sinks amid worries turnaround is not working"
+      "title": "Here are 12 top tech-themed stock picks from UBS analysts"
     },
     {
       "source": "MarketWatch",
-      "title": "Investors brace for more stock-market volatility, as wild first quarter ends with biggest rally in a year"
+      "title": "\u2018She has taken my inheritance\u2019: My mom bullied my grandmother to change her will and physically abused her. What can we do?"
     }
   ]
 }
