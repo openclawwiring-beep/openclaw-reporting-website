@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, April 01 2026  10:39 PT",
-  "market_status": "Live \u2014 as of 13:39 ET",
+  "generated_at": "Wednesday, April 01 2026  13:07 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6606.13,
-      "change_pct": 1.19
+      "price": 6575.32,
+      "change_pct": 0.72
     },
     "Nasdaq": {
-      "price": 21959.63,
-      "change_pct": 1.71
+      "price": 21840.95,
+      "change_pct": 1.16
     },
     "Dow Jones": {
-      "price": 46773.06,
-      "change_pct": 0.94
+      "price": 46565.74,
+      "change_pct": 0.48
     },
     "Russell 2000": {
-      "price": 2537.43,
-      "change_pct": 1.64
+      "price": 2515.1,
+      "change_pct": 0.75
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4812.7,
-      "change_pct": 2.25
+      "price": 4792.6,
+      "change_pct": 1.82
     },
     "Oil (WTI)": {
-      "price": 99.34,
-      "change_pct": -3.47
+      "price": 99.44,
+      "change_pct": -3.37
     },
     "Silver": {
-      "price": 76.13,
-      "change_pct": 2.55
+      "price": 75.35,
+      "change_pct": 1.49
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68410,
-      "change_pct": 1.1
+      "price": 68041,
+      "change_pct": 0.08
     },
     "ETH": {
-      "price": 2141.23,
-      "change_pct": 1.92
+      "price": 2134.25,
+      "change_pct": 1.57
     },
     "SOL": {
-      "price": 84.66,
-      "change_pct": 2.28
+      "price": 83.58,
+      "change_pct": 1.05
     },
     "BNB": {
-      "price": 614.78,
-      "change_pct": -0.04
+      "price": 612.49,
+      "change_pct": -0.65
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Iran threatens Nvidia, Apple and other tech giants with attacks"
+      "title": "TSA Shutdown: GOP leaders Thune and Johnson boost two-track approach to funding DHS"
     },
     {
       "source": "MarketWatch",
-      "title": "RH\u2019s stock plunge shows even the ultrarich are worried about spending on their homes"
+      "title": "Here\u2019s what\u2019s worth streaming in April 2026 on Netflix, Hulu, HBO Max and more"
     },
     {
       "source": "MarketWatch",
-      "title": "Frustrated with Nike\u2019s failing turnaround? Give this stock a try instead, analyst says."
+      "title": "Is there a bargain to be had with Disney stock? This analyst thinks so."
     }
   ]
 }
