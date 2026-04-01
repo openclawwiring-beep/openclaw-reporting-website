@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 01 2026  13:07 PT",
+  "generated_at": "Wednesday, April 01 2026  15:07 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,58 +15,58 @@
       "change_pct": 0.48
     },
     "Russell 2000": {
-      "price": 2515.1,
-      "change_pct": 0.75
+      "price": 2512.37,
+      "change_pct": 0.64
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4792.6,
-      "change_pct": 1.82
+      "price": 4784.6,
+      "change_pct": 1.65
     },
     "Oil (WTI)": {
-      "price": 99.44,
-      "change_pct": -3.37
+      "price": 98.91,
+      "change_pct": -3.89
     },
     "Silver": {
-      "price": 75.35,
-      "change_pct": 1.49
+      "price": 75.2,
+      "change_pct": 1.29
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68041,
-      "change_pct": 0.08
+      "price": 68197,
+      "change_pct": 0.22
     },
     "ETH": {
-      "price": 2134.25,
-      "change_pct": 1.57
+      "price": 2150.74,
+      "change_pct": 2.71
     },
     "SOL": {
-      "price": 83.58,
-      "change_pct": 1.05
+      "price": 81.69,
+      "change_pct": -1.14
     },
     "BNB": {
-      "price": 612.49,
-      "change_pct": -0.65
+      "price": 613.38,
+      "change_pct": -0.52
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SpaceX confidentially files for IPO, setting stage for record offering"
+      "title": "Dow jumps 200 points to start April as traders bet Middle East conflict will soon end: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "TSA Shutdown: GOP leaders Thune and Johnson boost two-track approach to funding DHS"
+      "title": "SpaceX confidentially files for IPO, setting stage for record offering"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s what\u2019s worth streaming in April 2026 on Netflix, Hulu, HBO Max and more"
+      "title": "How TV\u2019s \u2018Love Story\u2019 helped Calvin Klein parent ease investor anxieties about consumer demand"
     },
     {
       "source": "MarketWatch",
-      "title": "Is there a bargain to be had with Disney stock? This analyst thinks so."
+      "title": "Intel\u2019s stock pops as its latest move signals a \u2018turnaround\u2019 is afoot"
     }
   ]
 }
