@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, April 01 2026  03:15 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, April 01 2026  07:51 PT",
+  "market_status": "Live \u2014 as of 10:51 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6528.52,
-      "change_pct": 2.91
+      "price": 6586.11,
+      "change_pct": 0.88
     },
     "Nasdaq": {
-      "price": 21590.63,
-      "change_pct": 3.83
+      "price": 21866.31,
+      "change_pct": 1.28
     },
     "Dow Jones": {
-      "price": 46341.51,
-      "change_pct": 2.49
+      "price": 46734.83,
+      "change_pct": 0.85
     },
     "Russell 2000": {
-      "price": 2496.37,
-      "change_pct": 3.41
+      "price": 2524.47,
+      "change_pct": 1.13
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4746.5,
-      "change_pct": 0.84
+      "price": 4774.4,
+      "change_pct": 1.43
     },
     "Oil (WTI)": {
-      "price": 100.14,
-      "change_pct": -2.69
+      "price": 99.39,
+      "change_pct": -3.42
     },
     "Silver": {
-      "price": 74.59,
-      "change_pct": 0.47
+      "price": 75.11,
+      "change_pct": 1.17
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68551,
-      "change_pct": 3.32
+      "price": 68465,
+      "change_pct": 2.9
     },
     "ETH": {
-      "price": 2132.46,
-      "change_pct": 5.33
+      "price": 2123.92,
+      "change_pct": 4.04
     },
     "SOL": {
-      "price": 83.33,
-      "change_pct": 3.36
+      "price": 83.12,
+      "change_pct": 2.18
     },
     "BNB": {
-      "price": 615.4,
-      "change_pct": 2.24
+      "price": 613.13,
+      "change_pct": 1.06
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran threatens Nvidia, Apple and other tech giants with attack"
+      "title": "Trump says Iran's president asked for ceasefire, but U.S. wants Hormuz Strait open first"
     },
     {
       "source": "CNBC",
-      "title": "Trump says he's considering pulling U.S. out of 'paper tiger' NATO"
+      "title": "Iran threatens Nvidia, Apple and other tech giants with attacks"
     },
     {
       "source": "MarketWatch",
-      "title": "My wife and I buy promotional CDs with our tax-refund check. Is now a bad time to switch to Treasurys?"
+      "title": "Gas-tax holidays sound tempting at $4 a gallon. Too bad they don\u2019t actually work."
     },
     {
       "source": "MarketWatch",
-      "title": "My husband is giving me 75% of his trust \u2014 and allocating 25% to his sister. Is that fair?"
+      "title": "Most cruise lines can add a fuel surcharge after you book. Here\u2019s what to expect in the near future."
     }
   ]
 }
