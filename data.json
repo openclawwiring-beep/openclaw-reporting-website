@@ -1,60 +1,60 @@
 {
-  "generated_at": "Wednesday, April 01 2026  07:51 PT",
-  "market_status": "Live \u2014 as of 10:51 ET",
+  "generated_at": "Wednesday, April 01 2026  10:39 PT",
+  "market_status": "Live \u2014 as of 13:39 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6586.11,
-      "change_pct": 0.88
+      "price": 6606.13,
+      "change_pct": 1.19
     },
     "Nasdaq": {
-      "price": 21866.31,
-      "change_pct": 1.28
+      "price": 21959.63,
+      "change_pct": 1.71
     },
     "Dow Jones": {
-      "price": 46734.83,
-      "change_pct": 0.85
+      "price": 46773.06,
+      "change_pct": 0.94
     },
     "Russell 2000": {
-      "price": 2524.47,
-      "change_pct": 1.13
+      "price": 2537.43,
+      "change_pct": 1.64
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4774.4,
-      "change_pct": 1.43
+      "price": 4812.7,
+      "change_pct": 2.25
     },
     "Oil (WTI)": {
-      "price": 99.39,
-      "change_pct": -3.42
+      "price": 99.34,
+      "change_pct": -3.47
     },
     "Silver": {
-      "price": 75.11,
-      "change_pct": 1.17
+      "price": 76.13,
+      "change_pct": 2.55
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68465,
-      "change_pct": 2.9
+      "price": 68410,
+      "change_pct": 1.1
     },
     "ETH": {
-      "price": 2123.92,
-      "change_pct": 4.04
+      "price": 2141.23,
+      "change_pct": 1.92
     },
     "SOL": {
-      "price": 83.12,
-      "change_pct": 2.18
+      "price": 84.66,
+      "change_pct": 2.28
     },
     "BNB": {
-      "price": 613.13,
-      "change_pct": 1.06
+      "price": 614.78,
+      "change_pct": -0.04
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says Iran's president asked for ceasefire, but U.S. wants Hormuz Strait open first"
+      "title": "SpaceX confidentially files for IPO, setting stage for record offering"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Gas-tax holidays sound tempting at $4 a gallon. Too bad they don\u2019t actually work."
+      "title": "RH\u2019s stock plunge shows even the ultrarich are worried about spending on their homes"
     },
     {
       "source": "MarketWatch",
-      "title": "Most cruise lines can add a fuel surcharge after you book. Here\u2019s what to expect in the near future."
+      "title": "Frustrated with Nike\u2019s failing turnaround? Give this stock a try instead, analyst says."
     }
   ]
 }
