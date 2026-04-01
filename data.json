@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, March 31 2026  23:13 PT",
+  "generated_at": "Wednesday, April 01 2026  03:15 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4712.3,
-      "change_pct": -0.07
+      "price": 4746.5,
+      "change_pct": 0.84
     },
     "Oil (WTI)": {
-      "price": 101.16,
-      "change_pct": -2.06
+      "price": 100.14,
+      "change_pct": -2.69
     },
     "Silver": {
-      "price": 74.47,
-      "change_pct": 0.06
+      "price": 74.59,
+      "change_pct": 0.47
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68591,
-      "change_pct": 1.72
+      "price": 68551,
+      "change_pct": 3.32
     },
     "ETH": {
-      "price": 2136.51,
-      "change_pct": 3.84
+      "price": 2132.46,
+      "change_pct": 5.33
     },
     "SOL": {
-      "price": 84.13,
-      "change_pct": 0.87
+      "price": 83.33,
+      "change_pct": 3.36
     },
     "BNB": {
-      "price": 617.73,
-      "change_pct": 0.98
+      "price": 615.4,
+      "change_pct": 2.24
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump to address nation on Iran war Wednesday night, White House says"
+      "title": "Iran threatens Nvidia, Apple and other tech giants with attack"
     },
     {
       "source": "CNBC",
-      "title": "Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle'"
+      "title": "Trump says he's considering pulling U.S. out of 'paper tiger' NATO"
     },
     {
       "source": "MarketWatch",
-      "title": "Here are 12 top tech-themed stock picks from UBS analysts"
+      "title": "My wife and I buy promotional CDs with our tax-refund check. Is now a bad time to switch to Treasurys?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She has taken my inheritance\u2019: My mom bullied my grandmother to change her will and physically abused her. What can we do?"
+      "title": "My husband is giving me 75% of his trust \u2014 and allocating 25% to his sister. Is that fair?"
     }
   ]
 }
