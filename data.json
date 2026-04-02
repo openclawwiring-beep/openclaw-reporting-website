@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, April 02 2026  05:07 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, April 02 2026  08:44 PT",
+  "market_status": "Live \u2014 as of 11:44 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6575.32,
-      "change_pct": 0.72
+      "price": 6576.81,
+      "change_pct": 0.03
     },
     "Nasdaq": {
-      "price": 21840.95,
-      "change_pct": 1.16
+      "price": 21842.15,
+      "change_pct": 0.01
     },
     "Dow Jones": {
-      "price": 46565.74,
-      "change_pct": 0.48
+      "price": 46498.7,
+      "change_pct": -0.14
     },
     "Russell 2000": {
-      "price": 2512.37,
-      "change_pct": 0.64
+      "price": 2525.13,
+      "change_pct": 0.51
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4628.0,
-      "change_pct": -1.68
+      "price": 4700.1,
+      "change_pct": -0.15
     },
     "Oil (WTI)": {
-      "price": 109.73,
-      "change_pct": 4.78
+      "price": 110.59,
+      "change_pct": 5.61
     },
     "Silver": {
-      "price": 70.68,
-      "change_pct": -2.23
+      "price": 72.22,
+      "change_pct": -0.11
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66164,
-      "change_pct": -3.44
+      "price": 66842,
+      "change_pct": -2.74
     },
     "ETH": {
-      "price": 2029.73,
-      "change_pct": -4.8
+      "price": 2059.87,
+      "change_pct": -3.33
     },
     "SOL": {
-      "price": 78.33,
-      "change_pct": -5.94
+      "price": 78.89,
+      "change_pct": -5.58
     },
     "BNB": {
-      "price": 581.04,
-      "change_pct": -5.47
+      "price": 572.97,
+      "change_pct": -6.63
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil gains with Brent surging more than 8% as Trump's Iran war speech stokes fears of further escalation"
+      "title": "Iran and Oman drafting protocol to 'monitor' Hormuz Strait traffic: IRNA"
     },
     {
       "source": "CNBC",
-      "title": "Dow futures slump 600 points as oil surges after Trump address on U.S.-Iran war: Live updates"
+      "title": "Trump administration prepares up to 100% pharmaceutical tariffs on some imported drugs"
     },
     {
       "source": "MarketWatch",
-      "title": "My wife and I buy promotional CDs with our tax-refund check. Is now a bad time to switch to Treasurys?"
+      "title": "Options traders are bracing for wild stock-market swings as Trump keeps investors guessing on Iran"
     },
     {
       "source": "MarketWatch",
-      "title": "Why Delta, Starbucks and these other stocks were just added to a market-beating \u2018fresh money\u2019 list"
+      "title": "Blue Owl stokes more private-credit worries, as it paid out less than a quarter of requests"
     }
   ]
 }
