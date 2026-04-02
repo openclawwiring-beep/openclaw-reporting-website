@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 02 2026  02:41 PT",
+  "generated_at": "Thursday, April 02 2026  05:07 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4647.3,
-      "change_pct": -1.27
+      "price": 4628.0,
+      "change_pct": -1.68
     },
     "Oil (WTI)": {
-      "price": 107.42,
-      "change_pct": 2.58
+      "price": 109.73,
+      "change_pct": 4.78
     },
     "Silver": {
-      "price": 71.38,
-      "change_pct": -1.28
+      "price": 70.68,
+      "change_pct": -2.23
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66436,
-      "change_pct": -2.94
+      "price": 66164,
+      "change_pct": -3.44
     },
     "ETH": {
-      "price": 2045.35,
-      "change_pct": -3.95
+      "price": 2029.73,
+      "change_pct": -4.8
     },
     "SOL": {
-      "price": 79.26,
-      "change_pct": -5.02
+      "price": 78.33,
+      "change_pct": -5.94
     },
     "BNB": {
-      "price": 586.07,
-      "change_pct": -4.55
+      "price": 581.04,
+      "change_pct": -5.47
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil gains with Brent surging more than 6% as Trump's Iran war speech stokes fears of further escalation"
+      "title": "Oil gains with Brent surging more than 8% as Trump's Iran war speech stokes fears of further escalation"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures fall after Trump says Iran war will continue for weeks: Live updates"
+      "title": "Dow futures slump 600 points as oil surges after Trump address on U.S.-Iran war: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices rise over 7% as Trump speech leads to uncertainty on Iran war"
+      "title": "My wife and I buy promotional CDs with our tax-refund check. Is now a bad time to switch to Treasurys?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m experiencing issues with arthritis\u2019: I\u2019m 68 with $3 million saved. Why am I not ready for a life of leisure?"
+      "title": "Why Delta, Starbucks and these other stocks were just added to a market-beating \u2018fresh money\u2019 list"
     }
   ]
 }
