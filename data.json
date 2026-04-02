@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, April 02 2026  11:10 PT",
-  "market_status": "Live \u2014 as of 14:10 ET",
+  "generated_at": "Thursday, April 02 2026  13:04 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6566.43,
-      "change_pct": -0.13
+      "price": 6582.69,
+      "change_pct": 0.11
     },
     "Nasdaq": {
-      "price": 21801.6,
-      "change_pct": -0.18
+      "price": 21879.18,
+      "change_pct": 0.18
     },
     "Dow Jones": {
-      "price": 46422.57,
-      "change_pct": -0.3
+      "price": 46504.67,
+      "change_pct": -0.13
     },
     "Russell 2000": {
-      "price": 2516.18,
-      "change_pct": 0.15
+      "price": 2525.86,
+      "change_pct": 0.54
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4679.6,
-      "change_pct": -0.58
+      "price": 4701.6,
+      "change_pct": -0.12
     },
     "Oil (WTI)": {
-      "price": 111.67,
-      "change_pct": 6.64
+      "price": 111.5,
+      "change_pct": 6.47
     },
     "Silver": {
-      "price": 72.53,
-      "change_pct": 0.31
+      "price": 72.82,
+      "change_pct": 0.72
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66627,
-      "change_pct": -2.19
+      "price": 66832,
+      "change_pct": -1.83
     },
     "ETH": {
-      "price": 2045.02,
-      "change_pct": -4.11
+      "price": 2062.72,
+      "change_pct": -3.47
     },
     "SOL": {
-      "price": 78.62,
-      "change_pct": -6.51
+      "price": 78.94,
+      "change_pct": -5.73
     },
     "BNB": {
-      "price": 578.55,
-      "change_pct": -5.7
+      "price": 583.27,
+      "change_pct": -4.82
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. oil prices top Brent for the first time since 2022 after Trump vows to hit Iran \u2018extremely hard\u2019"
+      "title": "OpenAI is officially a media company, after buying Silicon Valley\u2019s favorite podcast TBPN"
     },
     {
       "source": "MarketWatch",
-      "title": "Sam\u2019s Club is hiking its membership fees. Analysts say Costco and BJ\u2019s could be next."
+      "title": "How financially stressed parents can teach their kids about money without passing on their anxiety"
     }
   ]
 }
