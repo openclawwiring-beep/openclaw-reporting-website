@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 01 2026  22:52 PT",
+  "generated_at": "Thursday, April 02 2026  02:41 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4665.5,
-      "change_pct": -0.88
+      "price": 4647.3,
+      "change_pct": -1.27
     },
     "Oil (WTI)": {
-      "price": 105.2,
-      "change_pct": 0.46
+      "price": 107.42,
+      "change_pct": 2.58
     },
     "Silver": {
-      "price": 70.96,
-      "change_pct": -1.86
+      "price": 71.38,
+      "change_pct": -1.28
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66479,
-      "change_pct": -2.91
+      "price": 66436,
+      "change_pct": -2.94
     },
     "ETH": {
-      "price": 2046.88,
-      "change_pct": -3.65
+      "price": 2045.35,
+      "change_pct": -3.95
     },
     "SOL": {
-      "price": 79.08,
-      "change_pct": -5.92
+      "price": 79.26,
+      "change_pct": -5.02
     },
     "BNB": {
-      "price": 590.5,
-      "change_pct": -4.35
+      "price": 586.07,
+      "change_pct": -4.55
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump Iran speech recap: President again says war is nearly over, vows \u2018extremely hard\u2019 hits in coming weeks"
+      "title": "Oil gains with Brent surging more than 6% as Trump's Iran war speech stokes fears of further escalation"
     },
     {
       "source": "CNBC",
-      "title": "Iran sets up 'toll booth' in Strait of Hormuz, as oil tankers detour via Larak Island for safe passage"
+      "title": "Stock futures fall after Trump says Iran war will continue for weeks: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Stock futures sink as Trump says U.S. on track to complete Iran objectives \u2018very shortly\u2019"
+      "title": "Oil prices rise over 7% as Trump speech leads to uncertainty on Iran war"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s what\u2019s worth streaming in April 2026 on Netflix, Hulu, HBO Max and more"
+      "title": "\u2018I\u2019m experiencing issues with arthritis\u2019: I\u2019m 68 with $3 million saved. Why am I not ready for a life of leisure?"
     }
   ]
 }
