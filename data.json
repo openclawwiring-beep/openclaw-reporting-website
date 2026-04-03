@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 02 2026  15:04 PT",
+  "generated_at": "Thursday, April 02 2026  17:01 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66930,
-      "change_pct": -2.14
+      "price": 66911,
+      "change_pct": -1.72
     },
     "ETH": {
-      "price": 2061.97,
-      "change_pct": -4.28
+      "price": 2057.42,
+      "change_pct": -3.79
     },
     "SOL": {
-      "price": 78.93,
-      "change_pct": -3.44
+      "price": 78.94,
+      "change_pct": -2.78
     },
     "BNB": {
-      "price": 584.29,
-      "change_pct": -4.84
+      "price": 583.37,
+      "change_pct": -4.43
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "These charts show the cracks in the stock market are widening"
+      "title": "Here\u2019s what\u2019s worth streaming in April 2026 on Netflix, Hulu, HBO Max and more"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This is an overlooked catastrophe\u2019: Why do so many hospitals not accept Medicare Advantage for cancer patients?"
+      "title": "Gold\u2019s bull run faces hurdles but finish line is not necessarily in view, according to UBS strategist"
     }
   ]
 }
