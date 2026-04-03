@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, April 03 2026  13:02 PT",
+  "generated_at": "Friday, April 03 2026  14:57 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66865,
+      "price": 66933,
       "change_pct": 0.03
     },
     "ETH": {
-      "price": 2052.32,
-      "change_pct": -0.46
+      "price": 2058.4,
+      "change_pct": -0.19
     },
     "SOL": {
-      "price": 80.21,
-      "change_pct": 1.64
+      "price": 80.47,
+      "change_pct": 1.99
     },
     "BNB": {
-      "price": 588.49,
-      "change_pct": 0.91
+      "price": 588.71,
+      "change_pct": 0.78
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Buyers finally have leverage in the housing market. Here are 3 smart ways to use it."
+      "title": "My wife and I buy promotional CDs with our tax-refund check. Is now a bad time to switch to Treasurys?"
     },
     {
       "source": "MarketWatch",
-      "title": "In today\u2019s job market, it\u2019s more \u2018show me a desk\u2019 than \u2018show me the money\u2019"
+      "title": "\u2018This is an overlooked catastrophe\u2019: Why do so many hospitals not accept Medicare Advantage for cancer patients?"
     }
   ]
 }
