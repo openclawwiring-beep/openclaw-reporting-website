@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, April 03 2026  11:04 PT",
-  "market_status": "Live \u2014 as of 14:04 ET",
+  "generated_at": "Friday, April 03 2026  13:02 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 6582.69,
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66843,
-      "change_pct": 0.25
+      "price": 66865,
+      "change_pct": 0.03
     },
     "ETH": {
-      "price": 2049.89,
-      "change_pct": 0.19
+      "price": 2052.32,
+      "change_pct": -0.46
     },
     "SOL": {
-      "price": 80.2,
-      "change_pct": 1.92
+      "price": 80.21,
+      "change_pct": 1.64
     },
     "BNB": {
-      "price": 588.35,
-      "change_pct": 1.62
+      "price": 588.49,
+      "change_pct": 0.91
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "U.S. fighter jet downed in Iran, one crew member rescued, MS NOW reports"
+      "title": "U.S. fighter jet shot down in Iran, one crew member rescued, MS NOW reports"
     },
     {
       "source": "MarketWatch",
-      "title": "Netflix co-founder Reed Hastings has made over $500 million on stock options since last year"
+      "title": "Buyers finally have leverage in the housing market. Here are 3 smart ways to use it."
     },
     {
       "source": "MarketWatch",
-      "title": "My partner\u2019s parents offered a down payment, but they hate the property we chose. What should we do?"
+      "title": "In today\u2019s job market, it\u2019s more \u2018show me a desk\u2019 than \u2018show me the money\u2019"
     }
   ]
 }
