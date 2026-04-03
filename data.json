@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, April 03 2026  09:05 PT",
-  "market_status": "Live \u2014 as of 12:05 ET",
+  "generated_at": "Friday, April 03 2026  11:04 PT",
+  "market_status": "Live \u2014 as of 14:04 ET",
   "stocks": {
     "S&P 500": {
       "price": 6582.69,
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66850,
-      "change_pct": 0.08
+      "price": 66843,
+      "change_pct": 0.25
     },
     "ETH": {
-      "price": 2051.68,
-      "change_pct": -0.34
+      "price": 2049.89,
+      "change_pct": 0.19
     },
     "SOL": {
-      "price": 80.39,
-      "change_pct": 1.8
+      "price": 80.2,
+      "change_pct": 1.92
     },
     "BNB": {
-      "price": 587.43,
-      "change_pct": 2.46
+      "price": 588.35,
+      "change_pct": 1.62
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "U.S. fighter jet downed in Iran, search is on for crew, official says"
+      "title": "U.S. fighter jet downed in Iran, one crew member rescued, MS NOW reports"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I was shoveling sidewalks at 8 years old\u2019: I\u2019m a 73-year-old boomer dad with two kids. Here\u2019s what I teach them about finance"
+      "title": "Netflix co-founder Reed Hastings has made over $500 million on stock options since last year"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Our mood changes almost on a daily basis\u2019: Why $4 gas prices feel a lot worse this time around"
+      "title": "My partner\u2019s parents offered a down payment, but they hate the property we chose. What should we do?"
     }
   ]
 }
