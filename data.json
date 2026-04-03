@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, April 03 2026  04:25 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, April 03 2026  07:09 PT",
+  "market_status": "Live \u2014 as of 10:09 ET",
   "stocks": {
     "S&P 500": {
       "price": 6582.69,
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66918,
-      "change_pct": 0.73
+      "price": 66770,
+      "change_pct": 0.7
     },
     "ETH": {
-      "price": 2060.45,
-      "change_pct": 1.18
+      "price": 2050.47,
+      "change_pct": 0.7
     },
     "SOL": {
-      "price": 80.09,
-      "change_pct": 1.72
+      "price": 79.73,
+      "change_pct": 2.68
     },
     "BNB": {
-      "price": 586.78,
-      "change_pct": 1.11
+      "price": 586.81,
+      "change_pct": 2.42
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump threatens to destroy Iranian infrastructure, saying its government 'knows what has to be done'"
+      "title": "U.S. payrolls rose by 178,000 in March, more than expected; unemployment at 4.3%"
     },
     {
       "source": "CNBC",
-      "title": "Dow closes lower as Trump comments dampen traders\u2019 hopes for Iran war ending: Live updates"
+      "title": "Trump threatens to destroy Iranian infrastructure, saying its government 'knows what has to be done'"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She has taken my inheritance\u2019: My mom bullied my grandmother to change her will and physically abused her. What can we do?"
+      "title": "Mortgage rates rise for the fifth week in a row. Here\u2019s how much more homebuyers are paying since the Iran war started."
     },
     {
       "source": "MarketWatch",
-      "title": "Is the stock market open today for Good Friday? Will banks and the post office be closed?"
+      "title": "\u2018We\u2019re aiming for a monthly income of $11,500\u2019: I\u2019m 64. I\u2019ve $1.5 million in a 401(k). How do I time my withdrawals?"
     }
   ]
 }
