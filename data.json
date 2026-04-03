@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, April 03 2026  14:57 PT",
+  "generated_at": "Friday, April 03 2026  16:50 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66933,
+      "price": 66901,
       "change_pct": 0.03
     },
     "ETH": {
-      "price": 2058.4,
-      "change_pct": -0.19
+      "price": 2052.52,
+      "change_pct": -0.15
     },
     "SOL": {
-      "price": 80.47,
-      "change_pct": 1.99
+      "price": 80.3,
+      "change_pct": 1.78
     },
     "BNB": {
-      "price": 588.71,
-      "change_pct": 0.78
+      "price": 588.14,
+      "change_pct": 0.91
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My wife and I buy promotional CDs with our tax-refund check. Is now a bad time to switch to Treasurys?"
+      "title": "How TBPN went from nerdy online talk show to splashy OpenAI acquisition"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This is an overlooked catastrophe\u2019: Why do so many hospitals not accept Medicare Advantage for cancer patients?"
+      "title": "My wife and I buy promotional CDs with our tax-refund check. Is now a bad time to switch to Treasurys?"
     }
   ]
 }
