@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, April 03 2026  07:09 PT",
-  "market_status": "Live \u2014 as of 10:09 ET",
+  "generated_at": "Friday, April 03 2026  09:05 PT",
+  "market_status": "Live \u2014 as of 12:05 ET",
   "stocks": {
     "S&P 500": {
       "price": 6582.69,
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66770,
-      "change_pct": 0.7
+      "price": 66850,
+      "change_pct": 0.08
     },
     "ETH": {
-      "price": 2050.47,
-      "change_pct": 0.7
+      "price": 2051.68,
+      "change_pct": -0.34
     },
     "SOL": {
-      "price": 79.73,
-      "change_pct": 2.68
+      "price": 80.39,
+      "change_pct": 1.8
     },
     "BNB": {
-      "price": 586.81,
-      "change_pct": 2.42
+      "price": 587.43,
+      "change_pct": 2.46
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump threatens to destroy Iranian infrastructure, saying its government 'knows what has to be done'"
+      "title": "U.S. fighter jet downed in Iran, search is on for crew, official says"
     },
     {
       "source": "MarketWatch",
-      "title": "Mortgage rates rise for the fifth week in a row. Here\u2019s how much more homebuyers are paying since the Iran war started."
+      "title": "\u2018I was shoveling sidewalks at 8 years old\u2019: I\u2019m a 73-year-old boomer dad with two kids. Here\u2019s what I teach them about finance"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We\u2019re aiming for a monthly income of $11,500\u2019: I\u2019m 64. I\u2019ve $1.5 million in a 401(k). How do I time my withdrawals?"
+      "title": "\u2018Our mood changes almost on a daily basis\u2019: Why $4 gas prices feel a lot worse this time around"
     }
   ]
 }
