@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 04 2026  10:19 PT",
+  "generated_at": "Saturday, April 04 2026  12:22 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 67370,
-      "change_pct": 0.85
+      "price": 67419,
+      "change_pct": 0.89
     },
     "ETH": {
-      "price": 2056.62,
-      "change_pct": 0.48
+      "price": 2073.0,
+      "change_pct": 1.13
     },
     "SOL": {
-      "price": 80.86,
-      "change_pct": 0.52
+      "price": 81.08,
+      "change_pct": 1.35
     },
     "BNB": {
-      "price": 591.74,
-      "change_pct": 0.7
+      "price": 595.65,
+      "change_pct": 1.36
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Buyers finally have leverage in the housing market. Here are 3 smart ways to use it."
+      "title": "The 5 highest-paid college basketball players this year: No. 1 is making $4.2 million from NIL"
     },
     {
       "source": "MarketWatch",
-      "title": "Private-credit crisis or growing pains? Why the \u2018Big Six\u2019 banks are a safer bet."
+      "title": "What\u2019s an \u2018E-shaped\u2019 economy \u2014 and where do you fit in it?"
     }
   ]
 }
