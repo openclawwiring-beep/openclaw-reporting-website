@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 04 2026  04:04 PT",
+  "generated_at": "Saturday, April 04 2026  05:03 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 67181,
-      "change_pct": 0.45
+      "price": 67161,
+      "change_pct": 0.22
     },
     "ETH": {
-      "price": 2053.77,
-      "change_pct": -0.32
+      "price": 2052.72,
+      "change_pct": -0.48
     },
     "SOL": {
-      "price": 80.23,
-      "change_pct": 0.3
+      "price": 80.18,
+      "change_pct": 0.16
     },
     "BNB": {
-      "price": 590.21,
-      "change_pct": 0.71
+      "price": 589.59,
+      "change_pct": 0.45
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Debris from aerial interception strikes Oracle building in Dubai, UAE says"
+      "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win"
     },
     {
       "source": "CNBC",
-      "title": "U.S. fighter jet shot down in Iran, one crew member rescued, MS NOW reports"
+      "title": "Debris from aerial interception strikes Oracle building in Dubai, UAE says"
     },
     {
       "source": "MarketWatch",
-      "title": "How TBPN went from nerdy online talk show to splashy OpenAI acquisition"
+      "title": "There\u2019s a new ETF for memory stocks. History suggests that might be an ominous sign."
     },
     {
       "source": "MarketWatch",
-      "title": "My wife and I buy promotional CDs with our tax-refund check. Is now a bad time to switch to Treasurys?"
+      "title": "\u2018I\u2019d like to be a superhost\u2019: Is it unethical to use AI in my Airbnb photos to market my property?"
     }
   ]
 }
