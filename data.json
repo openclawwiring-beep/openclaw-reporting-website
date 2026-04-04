@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 04 2026  07:07 PT",
+  "generated_at": "Saturday, April 04 2026  08:53 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 67193,
-      "change_pct": 0.63
+      "price": 67301,
+      "change_pct": 0.69
     },
     "ETH": {
-      "price": 2053.47,
-      "change_pct": 0.15
+      "price": 2053.87,
+      "change_pct": 0.11
     },
     "SOL": {
-      "price": 80.06,
-      "change_pct": 0.4
+      "price": 80.88,
+      "change_pct": 0.54
     },
     "BNB": {
-      "price": 590.34,
-      "change_pct": 0.6
+      "price": 590.68,
+      "change_pct": 0.68
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Warsh nomination moves ahead, putting Trump's competing Fed plans on a collision course"
+      "title": "Trump warns Iran '48 hours before all Hell will reign down,' while search for missing crew member intensifies"
     },
     {
       "source": "MarketWatch",
-      "title": "The S&P 500 could hit bottom by May \u2014 and 6,000 is the stock market\u2019s correction floor"
+      "title": "\u2018Mass layoffs by email might be the new norm\u2019 as Oracle lays off thousands that way"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We\u2019re aiming for a monthly income of $11,500\u2019: I\u2019m 64. I\u2019ve $1.5 million in a 401(k). How do I time my withdrawals?"
+      "title": "Want to watch every Yankees game on TV this year? It\u2019ll cost you over $1,200."
     }
   ]
 }
