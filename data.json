@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 05 2026  01:04 PT",
+  "generated_at": "Sunday, April 05 2026  03:04 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66834,
-      "change_pct": -0.25
+      "price": 66996,
+      "change_pct": 0.05
     },
     "ETH": {
-      "price": 2036.06,
-      "change_pct": -0.84
+      "price": 2043.67,
+      "change_pct": -0.31
     },
     "SOL": {
-      "price": 79.59,
-      "change_pct": -0.84
+      "price": 79.84,
+      "change_pct": -0.24
     },
     "BNB": {
-      "price": 590.18,
-      "change_pct": -0.04
+      "price": 593.1,
+      "change_pct": 0.52
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win"
+      "title": "'Anything but autos': Can defense save Europe\u2019s ailing car industry?"
     },
     {
       "source": "MarketWatch",
