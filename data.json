@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 04 2026  16:02 PT",
+  "generated_at": "Saturday, April 04 2026  22:52 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4651.5,
-      "change_pct": -1.18
+      "price": 4702.7,
+      "change_pct": -0.09
     },
     "Oil (WTI)": {
-      "price": 111.54,
-      "change_pct": 6.51
+      "price": 112.06,
+      "change_pct": 7.01
     },
     "Silver": {
-      "price": 72.74,
-      "change_pct": 0.6
+      "price": 73.17,
+      "change_pct": 1.2
     }
   },
   "crypto": {
     "BTC": {
-      "price": 67391,
-      "change_pct": 0.75
+      "price": 67044,
+      "change_pct": 0.21
     },
     "ETH": {
-      "price": 2068.88,
-      "change_pct": 0.85
+      "price": 2051.8,
+      "change_pct": -0.09
     },
     "SOL": {
-      "price": 80.99,
-      "change_pct": 1.03
+      "price": 80.32,
+      "change_pct": 0.18
     },
     "BNB": {
-      "price": 594.25,
-      "change_pct": 1.21
+      "price": 593.09,
+      "change_pct": 0.61
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win"
+      "title": "Trump confirms both military officers missing in Iran have been rescued"
     },
     {
       "source": "CNBC",
-      "title": "Trump warns Iran '48 hours before all Hell will reign down,' while search for missing crew member intensifies"
+      "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win"
     },
     {
       "source": "MarketWatch",
