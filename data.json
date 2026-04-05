@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 05 2026  03:04 PT",
+  "generated_at": "Sunday, April 05 2026  04:49 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66996,
-      "change_pct": 0.05
+      "price": 66974,
+      "change_pct": -0.23
     },
     "ETH": {
-      "price": 2043.67,
-      "change_pct": -0.31
+      "price": 2040.71,
+      "change_pct": -0.51
     },
     "SOL": {
-      "price": 79.84,
-      "change_pct": -0.24
+      "price": 79.83,
+      "change_pct": -0.48
     },
     "BNB": {
-      "price": 593.1,
-      "change_pct": 0.52
+      "price": 593.43,
+      "change_pct": 0.67
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump confirms both military officers missing in Iran have been rescued"
+      "title": "Trump confirms missing U.S. crew member in Iran has been rescued"
     },
     {
       "source": "CNBC",
-      "title": "'Anything but autos': Can defense save Europe\u2019s ailing car industry?"
+      "title": "Chinese chip firms hit record high revenue driven by the AI boom and U.S. curbs"
     },
     {
       "source": "MarketWatch",
-      "title": "The 5 highest-paid college basketball players this year: No. 1 is making $4.2 million from NIL"
+      "title": "\u2018Our mood changes almost on a daily basis\u2019: Why $4 gas prices feel a lot worse this time around"
     },
     {
       "source": "MarketWatch",
-      "title": "What\u2019s an \u2018E-shaped\u2019 economy \u2014 and where do you fit in it?"
+      "title": "\u2018This is an overlooked catastrophe\u2019: Why do so many hospitals not accept Medicare Advantage for cancer patients?"
     }
   ]
 }
