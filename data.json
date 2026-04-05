@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 05 2026  14:54 PT",
+  "generated_at": "Sunday, April 05 2026  16:04 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4702.7,
-      "change_pct": -0.09
+      "price": 4645.9,
+      "change_pct": -1.18
     },
     "Oil (WTI)": {
-      "price": 112.06,
-      "change_pct": 7.01
+      "price": 114.17,
+      "change_pct": 1.88
     },
     "Silver": {
-      "price": 73.17,
-      "change_pct": 1.2
+      "price": 72.18,
+      "change_pct": -1.35
     }
   },
   "crypto": {
     "BTC": {
-      "price": 67548,
-      "change_pct": 0.23
+      "price": 68332,
+      "change_pct": 1.43
     },
     "ETH": {
-      "price": 2062.63,
-      "change_pct": -0.38
+      "price": 2084.4,
+      "change_pct": 0.83
     },
     "SOL": {
-      "price": 79.67,
-      "change_pct": -1.58
+      "price": 80.47,
+      "change_pct": -0.64
     },
     "BNB": {
-      "price": 591.62,
-      "change_pct": -0.55
+      "price": 597.74,
+      "change_pct": 0.65
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump vows Iran will be 'living in Hell' by Tuesday if Strait of Hormuz deadline missed"
+      "title": "Stock futures slip after a winning week as oil prices tick higher: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Chinese chip firms hit record high revenue driven by the AI boom and U.S. curbs"
+      "title": "Trump vows Iran will be 'living in Hell' by Tuesday if Strait of Hormuz deadline missed"
     },
     {
       "source": "MarketWatch",
