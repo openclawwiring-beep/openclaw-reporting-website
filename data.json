@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 05 2026  13:03 PT",
+  "generated_at": "Sunday, April 05 2026  14:54 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 67354,
-      "change_pct": 0.11
+      "price": 67548,
+      "change_pct": 0.23
     },
     "ETH": {
-      "price": 2062.08,
-      "change_pct": -0.19
+      "price": 2062.63,
+      "change_pct": -0.38
     },
     "SOL": {
-      "price": 79.73,
-      "change_pct": -1.33
+      "price": 79.67,
+      "change_pct": -1.58
     },
     "BNB": {
-      "price": 592.28,
-      "change_pct": -0.19
+      "price": 591.62,
+      "change_pct": -0.55
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "April is usually a strong month for stocks \u2014 but three factors now jeopardize the market rebound"
+      "title": "\u2018I was shoveling sidewalks at 8 years old\u2019: I\u2019m a 73-year-old boomer dad with two kids. Here\u2019s what I teach them about finance"
     },
     {
       "source": "MarketWatch",
-      "title": "Delta kicks off an earnings season focused on surging gas prices and the Iran war"
+      "title": "\u2018I plan to take out a mortgage\u2019: My father died. Should I buy the family home from my mom at a 40% discount?"
     }
   ]
 }
