@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 05 2026  08:54 PT",
+  "generated_at": "Sunday, April 05 2026  10:18 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 67373,
-      "change_pct": 0.08
+      "price": 67255,
+      "change_pct": -0.16
     },
     "ETH": {
-      "price": 2056.12,
-      "change_pct": 0.12
+      "price": 2054.79,
+      "change_pct": -0.07
     },
     "SOL": {
-      "price": 79.79,
-      "change_pct": -1.36
+      "price": 79.61,
+      "change_pct": -1.53
     },
     "BNB": {
-      "price": 593.66,
-      "change_pct": 0.51
+      "price": 592.97,
+      "change_pct": 0.17
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Delta kicks off an earnings season focused on surging gas prices and the Iran war"
+      "title": "April is usually a strong month for stocks \u2014 but three factors now jeopardize the market rebound"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Our mood changes almost on a daily basis\u2019: Why $4 gas prices feel a lot worse this time around"
+      "title": "Delta kicks off an earnings season focused on surging gas prices and the Iran war"
     }
   ]
 }
