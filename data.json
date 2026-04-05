@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 05 2026  04:49 PT",
+  "generated_at": "Sunday, April 05 2026  07:05 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66974,
-      "change_pct": -0.23
+      "price": 66906,
+      "change_pct": -0.44
     },
     "ETH": {
-      "price": 2040.71,
-      "change_pct": -0.51
+      "price": 2039.41,
+      "change_pct": -0.7
     },
     "SOL": {
-      "price": 79.83,
-      "change_pct": -0.48
+      "price": 79.18,
+      "change_pct": -1.09
     },
     "BNB": {
-      "price": 593.43,
-      "change_pct": 0.67
+      "price": 589.83,
+      "change_pct": -0.08
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump confirms missing U.S. crew member in Iran has been rescued"
+      "title": "Trump says rescued U.S. airman 'seriously wounded,' threatens to strike Iran power plants and bridges"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Our mood changes almost on a daily basis\u2019: Why $4 gas prices feel a lot worse this time around"
+      "title": "Delta kicks off an earnings season focused on surging gas prices and the Iran war"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This is an overlooked catastrophe\u2019: Why do so many hospitals not accept Medicare Advantage for cancer patients?"
+      "title": "\u2018Our mood changes almost on a daily basis\u2019: Why $4 gas prices feel a lot worse this time around"
     }
   ]
 }
