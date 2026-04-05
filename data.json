@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 05 2026  07:05 PT",
+  "generated_at": "Sunday, April 05 2026  08:54 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66906,
-      "change_pct": -0.44
+      "price": 67373,
+      "change_pct": 0.08
     },
     "ETH": {
-      "price": 2039.41,
-      "change_pct": -0.7
+      "price": 2056.12,
+      "change_pct": 0.12
     },
     "SOL": {
-      "price": 79.18,
-      "change_pct": -1.09
+      "price": 79.79,
+      "change_pct": -1.36
     },
     "BNB": {
-      "price": 589.83,
-      "change_pct": -0.08
+      "price": 593.66,
+      "change_pct": 0.51
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says rescued U.S. airman 'seriously wounded,' threatens to strike Iran power plants and bridges"
+      "title": "Trump vows Iran will be 'living in Hell' by Tuesday if Strait of Hormuz deadline missed"
     },
     {
       "source": "CNBC",
