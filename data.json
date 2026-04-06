@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 06 2026  02:47 PT",
+  "generated_at": "Monday, April 06 2026  03:56 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4729.4,
-      "change_pct": 1.35
+      "price": 4714.3,
+      "change_pct": 1.03
     },
     "Oil (WTI)": {
-      "price": 109.66,
-      "change_pct": -1.46
+      "price": 110.84,
+      "change_pct": -0.4
     },
     "Silver": {
-      "price": 73.73,
-      "change_pct": 2.26
+      "price": 73.14,
+      "change_pct": 1.44
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69850,
-      "change_pct": 4.26
+      "price": 69759,
+      "change_pct": 4.06
     },
     "ETH": {
-      "price": 2151.89,
-      "change_pct": 5.25
+      "price": 2151.8,
+      "change_pct": 5.26
     },
     "SOL": {
-      "price": 82.56,
-      "change_pct": 3.49
+      "price": 82.65,
+      "change_pct": 3.45
     },
     "BNB": {
-      "price": 607.22,
-      "change_pct": 2.33
+      "price": 606.28,
+      "change_pct": 2.1
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures edge higher after a winning week as oil prices tick higher: Live updates"
+      "title": "S&P 500 futures nudge higher on report Iran and U.S. are trying for ceasefire: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Trump's Iran ultimatum and signals of a possible deal keep investors on tenterhooks"
+      "title": "JPMorgan CEO Jamie Dimon in annual letter cites risks in geopolitics, AI and private markets"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I feel overwhelmed\u2019: I\u2019m 56 and only have $60,000 in my IRA. Is it too late for me?"
+      "title": "Is the world running out of oil? Here are three ways Goldman Sachs is answering that critical question."
     },
     {
       "source": "MarketWatch",
-      "title": "Hugh Jackman relists $29 million New York apartment, a year after divorce from Deborra-Lee Furness"
+      "title": "\u2018This is an overlooked catastrophe\u2019: Why do so many hospitals not accept Medicare Advantage for cancer patients?"
     }
   ]
 }
