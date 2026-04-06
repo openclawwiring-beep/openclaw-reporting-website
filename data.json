@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 06 2026  04:50 PT",
+  "generated_at": "Monday, April 06 2026  06:09 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4717.4,
-      "change_pct": 1.1
+      "price": 4700.9,
+      "change_pct": 0.74
     },
     "Oil (WTI)": {
-      "price": 110.0,
-      "change_pct": -1.16
+      "price": 110.25,
+      "change_pct": -0.93
     },
     "Silver": {
-      "price": 73.52,
-      "change_pct": 1.97
+      "price": 73.2,
+      "change_pct": 1.53
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69643,
-      "change_pct": 4.0
+      "price": 69423,
+      "change_pct": 3.93
     },
     "ETH": {
-      "price": 2150.64,
-      "change_pct": 5.38
+      "price": 2144.17,
+      "change_pct": 5.64
     },
     "SOL": {
-      "price": 82.43,
-      "change_pct": 3.26
+      "price": 82.31,
+      "change_pct": 4.06
     },
     "BNB": {
-      "price": 605.37,
-      "change_pct": 2.0
+      "price": 604.68,
+      "change_pct": 2.62
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Is the world running out of oil? Here are three ways Goldman Sachs is answering that critical question."
+      "title": "Jamie Dimon isn\u2019t too worried about private credit, but he sees another problem for markets"
     },
     {
       "source": "MarketWatch",
-      "title": "Neurocrine wants to develop new obesity drugs. It\u2019s making an acquisition to accelerate that move."
+      "title": "United Airlines wants even higher ticket prices. It\u2019ll get them \u2014 with or without the Iran war."
     }
   ]
 }
