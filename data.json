@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, April 06 2026  10:14 PT",
-  "market_status": "Live \u2014 as of 13:14 ET",
+  "generated_at": "Monday, April 06 2026  11:11 PT",
+  "market_status": "Live \u2014 as of 14:11 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6581.31,
-      "change_pct": -0.0
+      "price": 6596.33,
+      "change_pct": 0.22
     },
     "Nasdaq": {
-      "price": 21867.9,
-      "change_pct": -0.05
+      "price": 21941.04,
+      "change_pct": 0.28
     },
     "Dow Jones": {
-      "price": 46473.17,
-      "change_pct": -0.07
+      "price": 46569.64,
+      "change_pct": 0.14
     },
     "Russell 2000": {
-      "price": 2538.03,
-      "change_pct": 0.3
+      "price": 2536.33,
+      "change_pct": 0.24
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4682.4,
-      "change_pct": 0.35
+      "price": 4680.7,
+      "change_pct": 0.31
     },
     "Oil (WTI)": {
-      "price": 112.89,
-      "change_pct": 1.44
+      "price": 114.01,
+      "change_pct": 2.44
     },
     "Silver": {
-      "price": 72.54,
-      "change_pct": 0.62
+      "price": 72.76,
+      "change_pct": 0.92
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69554,
-      "change_pct": 3.42
+      "price": 69530,
+      "change_pct": 3.31
     },
     "ETH": {
-      "price": 2135.97,
-      "change_pct": 3.93
+      "price": 2135.07,
+      "change_pct": 3.69
     },
     "SOL": {
       "price": 81.62,
-      "change_pct": 2.56
+      "change_pct": 2.29
     },
     "BNB": {
-      "price": 604.42,
-      "change_pct": 1.92
+      "price": 604.03,
+      "change_pct": 1.99
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Apple\u2019s stock could surge 20%, and the MacBook Neo could be a key catalyst"
+      "title": "\u2018I feel overwhelmed\u2019: I\u2019m 56 and only have $60,000 in my IRA. Is it too late for me?"
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla\u2019s stock could fall another 60%, JPMorgan analyst warns. Here\u2019s what\u2019s behind his \u2018high degree of caution.\u2019"
+      "title": "\u2018Our FICO score is excellent\u2019: My husband and I are in our 70s. How do we raise $10,000 for a new roof?"
     }
   ]
 }
