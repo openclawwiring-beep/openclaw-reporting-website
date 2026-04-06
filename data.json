@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, April 05 2026  16:04 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Sunday, April 05 2026  23:15 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 6582.69,
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4645.9,
-      "change_pct": -1.18
+      "price": 4679.4,
+      "change_pct": 0.28
     },
     "Oil (WTI)": {
-      "price": 114.17,
-      "change_pct": 1.88
+      "price": 112.16,
+      "change_pct": 0.78
     },
     "Silver": {
-      "price": 72.18,
-      "change_pct": -1.35
+      "price": 72.17,
+      "change_pct": 0.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68332,
-      "change_pct": 1.43
+      "price": 69302,
+      "change_pct": 3.97
     },
     "ETH": {
-      "price": 2084.4,
-      "change_pct": 0.83
+      "price": 2136.27,
+      "change_pct": 5.09
     },
     "SOL": {
-      "price": 80.47,
-      "change_pct": -0.64
+      "price": 81.96,
+      "change_pct": 2.65
     },
     "BNB": {
-      "price": 597.74,
-      "change_pct": 0.65
+      "price": 603.55,
+      "change_pct": 2.47
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures slip after a winning week as oil prices tick higher: Live updates"
+      "title": "Trump's Iran ultimatum and signals of a possible deal keep investors on tenterhooks"
     },
     {
       "source": "CNBC",
-      "title": "Trump vows Iran will be 'living in Hell' by Tuesday if Strait of Hormuz deadline missed"
+      "title": "Stock futures slip after a winning week as oil prices tick higher: Live updates"
     },
     {
       "source": "MarketWatch",
