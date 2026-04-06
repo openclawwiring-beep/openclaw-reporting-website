@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 06 2026  13:37 PT",
+  "generated_at": "Monday, April 06 2026  14:37 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4684.6,
-      "change_pct": 0.39
+      "price": 4676.1,
+      "change_pct": 0.21
     },
     "Oil (WTI)": {
-      "price": 112.52,
-      "change_pct": 1.11
+      "price": 112.61,
+      "change_pct": 1.19
     },
     "Silver": {
-      "price": 73.16,
-      "change_pct": 1.47
+      "price": 72.82,
+      "change_pct": 0.99
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69952,
-      "change_pct": 3.43
+      "price": 69647,
+      "change_pct": 3.26
     },
     "ETH": {
-      "price": 2152.29,
-      "change_pct": 3.94
+      "price": 2144.97,
+      "change_pct": 4.21
     },
     "SOL": {
-      "price": 82.09,
-      "change_pct": 2.64
+      "price": 81.73,
+      "change_pct": 2.61
     },
     "BNB": {
-      "price": 607.6,
-      "change_pct": 2.48
+      "price": 605.87,
+      "change_pct": 2.58
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Upstart Wall Street research firm says it sent an analyst to Strait of Hormuz. Here\u2019s what they learned"
+      "title": "S&P 500 posts fourth winning day, rising on hopes for last-minute Iran ceasefire: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Trump says Iran ceasefire proposal 'significant' but 'not good enough' as Hormuz Strait deadline nears"
+      "title": "Offbeat Wall Street research firm says it sent an analyst to Strait of Hormuz. Here's what they learned"
     },
     {
       "source": "MarketWatch",
-      "title": "3 factors that could get software stocks going again after a brutal stretch"
+      "title": "\u2018I worked very hard\u2019: I\u2019m 71 and have $6 million after scrimping and saving. My son, 33, wants money for a house. Do I say yes?"
     },
     {
       "source": "MarketWatch",
-      "title": "As stocks approach a true comeback, here\u2019s where investors can find the richest opportunities"
+      "title": "Strait of Hormuz sees increased ship traffic ahead of Trump\u2019s deadline. Here\u2019s why oil prices are not budging."
     }
   ]
 }
