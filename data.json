@@ -1,60 +1,60 @@
 {
-  "generated_at": "Monday, April 06 2026  11:11 PT",
-  "market_status": "Live \u2014 as of 14:11 ET",
+  "generated_at": "Monday, April 06 2026  12:35 PT",
+  "market_status": "Live \u2014 as of 15:35 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6596.33,
-      "change_pct": 0.22
+      "price": 6605.12,
+      "change_pct": 0.36
     },
     "Nasdaq": {
-      "price": 21941.04,
-      "change_pct": 0.28
+      "price": 21981.59,
+      "change_pct": 0.47
     },
     "Dow Jones": {
-      "price": 46569.64,
-      "change_pct": 0.14
+      "price": 46615.16,
+      "change_pct": 0.24
     },
     "Russell 2000": {
-      "price": 2536.33,
-      "change_pct": 0.24
+      "price": 2541.94,
+      "change_pct": 0.46
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4680.7,
-      "change_pct": 0.31
+      "price": 4673.9,
+      "change_pct": 0.16
     },
     "Oil (WTI)": {
-      "price": 114.01,
-      "change_pct": 2.44
+      "price": 112.87,
+      "change_pct": 1.42
     },
     "Silver": {
-      "price": 72.76,
-      "change_pct": 0.92
+      "price": 73.05,
+      "change_pct": 1.32
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69530,
-      "change_pct": 3.31
+      "price": 69850,
+      "change_pct": 3.57
     },
     "ETH": {
-      "price": 2135.07,
-      "change_pct": 3.69
+      "price": 2144.05,
+      "change_pct": 3.76
     },
     "SOL": {
-      "price": 81.62,
-      "change_pct": 2.29
+      "price": 81.74,
+      "change_pct": 2.12
     },
     "BNB": {
-      "price": 604.03,
-      "change_pct": 1.99
+      "price": 606.65,
+      "change_pct": 2.27
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 rises as investors await possible Iran and U.S. ceasefire: Live updates"
+      "title": "Upstart Wall Street research firm says it sent an analyst to Strait of Hormuz. Here\u2019s what they learned"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I feel overwhelmed\u2019: I\u2019m 56 and only have $60,000 in my IRA. Is it too late for me?"
+      "title": "3 factors that could get software stocks going again after a brutal stretch"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Our FICO score is excellent\u2019: My husband and I are in our 70s. How do we raise $10,000 for a new roof?"
+      "title": "As stocks approach a true comeback, here\u2019s where investors can find the richest opportunities"
     }
   ]
 }
