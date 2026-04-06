@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 06 2026  14:37 PT",
+  "generated_at": "Monday, April 06 2026  15:35 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4676.1,
-      "change_pct": 0.21
+      "price": 4688.5,
+      "change_pct": 0.48
     },
     "Oil (WTI)": {
-      "price": 112.61,
-      "change_pct": 1.19
+      "price": 113.01,
+      "change_pct": 1.55
     },
     "Silver": {
-      "price": 72.82,
-      "change_pct": 0.99
+      "price": 73.18,
+      "change_pct": 1.49
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69647,
-      "change_pct": 3.26
+      "price": 69257,
+      "change_pct": 2.52
     },
     "ETH": {
-      "price": 2144.97,
-      "change_pct": 4.21
+      "price": 2130.68,
+      "change_pct": 3.52
     },
     "SOL": {
-      "price": 81.73,
-      "change_pct": 2.61
+      "price": 81.16,
+      "change_pct": 1.92
     },
     "BNB": {
-      "price": 605.87,
-      "change_pct": 2.58
+      "price": 604.08,
+      "change_pct": 1.9
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 posts fourth winning day, rising on hopes for last-minute Iran ceasefire: Live updates"
+      "title": "S&P 500 futures are little changed as Trump\u2019s deadline to reopen Strait of Hormuz nears: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I worked very hard\u2019: I\u2019m 71 and have $6 million after scrimping and saving. My son, 33, wants money for a house. Do I say yes?"
+      "title": "Amazon, USPS strike a deal \u2014 showing they still need each other despite threats of big delivery cuts"
     },
     {
       "source": "MarketWatch",
-      "title": "Strait of Hormuz sees increased ship traffic ahead of Trump\u2019s deadline. Here\u2019s why oil prices are not budging."
+      "title": "Here\u2019s the somewhat surprising stock that will soon join the S&P 500"
     }
   ]
 }
