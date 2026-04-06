@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, April 06 2026  09:09 PT",
-  "market_status": "Live \u2014 as of 12:09 ET",
+  "generated_at": "Monday, April 06 2026  10:14 PT",
+  "market_status": "Live \u2014 as of 13:14 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6597.26,
-      "change_pct": 0.24
+      "price": 6581.31,
+      "change_pct": -0.0
     },
     "Nasdaq": {
-      "price": 21947.14,
-      "change_pct": 0.31
+      "price": 21867.9,
+      "change_pct": -0.05
     },
     "Dow Jones": {
-      "price": 46593.56,
-      "change_pct": 0.19
+      "price": 46473.17,
+      "change_pct": -0.07
     },
     "Russell 2000": {
-      "price": 2539.84,
-      "change_pct": 0.37
+      "price": 2538.03,
+      "change_pct": 0.3
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4693.0,
-      "change_pct": 0.57
+      "price": 4682.4,
+      "change_pct": 0.35
     },
     "Oil (WTI)": {
-      "price": 112.02,
-      "change_pct": 0.66
+      "price": 112.89,
+      "change_pct": 1.44
     },
     "Silver": {
-      "price": 72.68,
-      "change_pct": 0.8
+      "price": 72.54,
+      "change_pct": 0.62
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69917,
-      "change_pct": 3.88
+      "price": 69554,
+      "change_pct": 3.42
     },
     "ETH": {
-      "price": 2162.21,
-      "change_pct": 5.26
+      "price": 2135.97,
+      "change_pct": 3.93
     },
     "SOL": {
-      "price": 82.18,
-      "change_pct": 3.1
+      "price": 81.62,
+      "change_pct": 2.56
     },
     "BNB": {
-      "price": 608.1,
-      "change_pct": 2.57
+      "price": 604.42,
+      "change_pct": 1.92
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My partner\u2019s parents offered to help us buy a $1 million house, then had second thoughts and we had to pass on the property. Am I right to be annoyed?"
+      "title": "Apple\u2019s stock could surge 20%, and the MacBook Neo could be a key catalyst"
     },
     {
       "source": "MarketWatch",
-      "title": "Google just sucker-punched these highflying tech stocks \u2014 don\u2019t let the relief rally fool you"
+      "title": "Tesla\u2019s stock could fall another 60%, JPMorgan analyst warns. Here\u2019s what\u2019s behind his \u2018high degree of caution.\u2019"
     }
   ]
 }
