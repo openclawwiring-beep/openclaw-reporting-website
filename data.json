@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 05 2026  23:15 PT",
+  "generated_at": "Monday, April 06 2026  01:09 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4679.4,
-      "change_pct": 0.28
+      "price": 4709.6,
+      "change_pct": 0.93
     },
     "Oil (WTI)": {
-      "price": 112.16,
-      "change_pct": 0.78
+      "price": 109.46,
+      "change_pct": -1.64
     },
     "Silver": {
-      "price": 72.17,
-      "change_pct": 0.09
+      "price": 72.61,
+      "change_pct": 0.71
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69302,
-      "change_pct": 3.97
+      "price": 69095,
+      "change_pct": 3.33
     },
     "ETH": {
-      "price": 2136.27,
-      "change_pct": 5.09
+      "price": 2134.56,
+      "change_pct": 4.76
     },
     "SOL": {
-      "price": 81.96,
-      "change_pct": 2.65
+      "price": 81.79,
+      "change_pct": 2.75
     },
     "BNB": {
-      "price": 603.55,
-      "change_pct": 2.47
+      "price": 603.96,
+      "change_pct": 2.2
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Stock futures slip after a winning week as oil prices tick higher: Live updates"
+      "title": "Stock futures edge higher after a winning week as oil prices tick higher: Live updates"
     },
     {
       "source": "MarketWatch",
