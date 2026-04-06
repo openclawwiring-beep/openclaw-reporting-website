@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 06 2026  03:56 PT",
+  "generated_at": "Monday, April 06 2026  04:50 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4714.3,
-      "change_pct": 1.03
+      "price": 4717.4,
+      "change_pct": 1.1
     },
     "Oil (WTI)": {
-      "price": 110.84,
-      "change_pct": -0.4
+      "price": 110.0,
+      "change_pct": -1.16
     },
     "Silver": {
-      "price": 73.14,
-      "change_pct": 1.44
+      "price": 73.52,
+      "change_pct": 1.97
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69759,
-      "change_pct": 4.06
+      "price": 69643,
+      "change_pct": 4.0
     },
     "ETH": {
-      "price": 2151.8,
-      "change_pct": 5.26
+      "price": 2150.64,
+      "change_pct": 5.38
     },
     "SOL": {
-      "price": 82.65,
-      "change_pct": 3.45
+      "price": 82.43,
+      "change_pct": 3.26
     },
     "BNB": {
-      "price": 606.28,
-      "change_pct": 2.1
+      "price": 605.37,
+      "change_pct": 2.0
     }
   },
   "headlines": [
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This is an overlooked catastrophe\u2019: Why do so many hospitals not accept Medicare Advantage for cancer patients?"
+      "title": "Neurocrine wants to develop new obesity drugs. It\u2019s making an acquisition to accelerate that move."
     }
   ]
 }
