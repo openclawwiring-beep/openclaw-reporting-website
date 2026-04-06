@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 06 2026  01:09 PT",
+  "generated_at": "Monday, April 06 2026  02:47 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4709.6,
-      "change_pct": 0.93
+      "price": 4729.4,
+      "change_pct": 1.35
     },
     "Oil (WTI)": {
-      "price": 109.46,
-      "change_pct": -1.64
+      "price": 109.66,
+      "change_pct": -1.46
     },
     "Silver": {
-      "price": 72.61,
-      "change_pct": 0.71
+      "price": 73.73,
+      "change_pct": 2.26
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69095,
-      "change_pct": 3.33
+      "price": 69850,
+      "change_pct": 4.26
     },
     "ETH": {
-      "price": 2134.56,
-      "change_pct": 4.76
+      "price": 2151.89,
+      "change_pct": 5.25
     },
     "SOL": {
-      "price": 81.79,
-      "change_pct": 2.75
+      "price": 82.56,
+      "change_pct": 3.49
     },
     "BNB": {
-      "price": 603.96,
-      "change_pct": 2.2
+      "price": 607.22,
+      "change_pct": 2.33
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump's Iran ultimatum and signals of a possible deal keep investors on tenterhooks"
-    },
-    {
-      "source": "CNBC",
       "title": "Stock futures edge higher after a winning week as oil prices tick higher: Live updates"
     },
     {
-      "source": "MarketWatch",
-      "title": "\u2018I was shoveling sidewalks at 8 years old\u2019: I\u2019m a 73-year-old boomer dad with two kids. Here\u2019s what I teach them about finance"
+      "source": "CNBC",
+      "title": "Trump's Iran ultimatum and signals of a possible deal keep investors on tenterhooks"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I plan to take out a mortgage\u2019: My father died. Should I buy the family home from my mom at a 40% discount?"
+      "title": "\u2018I feel overwhelmed\u2019: I\u2019m 56 and only have $60,000 in my IRA. Is it too late for me?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Hugh Jackman relists $29 million New York apartment, a year after divorce from Deborra-Lee Furness"
     }
   ]
 }
