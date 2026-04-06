@@ -1,60 +1,60 @@
 {
-  "generated_at": "Monday, April 06 2026  06:09 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, April 06 2026  07:30 PT",
+  "market_status": "Live \u2014 as of 10:30 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6582.69,
-      "change_pct": 0.11
+      "price": 6608.75,
+      "change_pct": 0.41
     },
     "Nasdaq": {
-      "price": 21879.18,
-      "change_pct": 0.18
+      "price": 22003.75,
+      "change_pct": 0.57
     },
     "Dow Jones": {
-      "price": 46504.67,
-      "change_pct": -0.13
+      "price": 46660.05,
+      "change_pct": 0.33
     },
     "Russell 2000": {
-      "price": 2530.04,
-      "change_pct": 0.7
+      "price": 2528.11,
+      "change_pct": -0.09
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4700.9,
-      "change_pct": 0.74
+      "price": 4711.1,
+      "change_pct": 0.96
     },
     "Oil (WTI)": {
-      "price": 110.25,
-      "change_pct": -0.93
+      "price": 110.87,
+      "change_pct": -0.38
     },
     "Silver": {
-      "price": 73.2,
-      "change_pct": 1.53
+      "price": 72.86,
+      "change_pct": 1.05
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69423,
-      "change_pct": 3.93
+      "price": 69528,
+      "change_pct": 3.94
     },
     "ETH": {
-      "price": 2144.17,
+      "price": 2154.82,
       "change_pct": 5.64
     },
     "SOL": {
-      "price": 82.31,
-      "change_pct": 4.06
+      "price": 82.48,
+      "change_pct": 4.0
     },
     "BNB": {
-      "price": 604.68,
-      "change_pct": 2.62
+      "price": 606.94,
+      "change_pct": 2.95
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 futures nudge higher on report Iran and U.S. are trying for ceasefire: Live updates"
+      "title": "S&P 500 rises as investors await possible Iran and U.S. ceasefire: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Jamie Dimon isn\u2019t too worried about private credit, but he sees another problem for markets"
+      "title": "\u2018Our FICO score is excellent\u2019: My husband and I are in our 70s. How do we raise $10,000 for a new roof?"
     },
     {
       "source": "MarketWatch",
-      "title": "United Airlines wants even higher ticket prices. It\u2019ll get them \u2014 with or without the Iran war."
+      "title": "Economy jolted by Iran war. Inflation bubbles up and service companies reduce employment."
     }
   ]
 }
