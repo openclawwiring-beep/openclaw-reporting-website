@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 06 2026  19:23 PT",
+  "generated_at": "Monday, April 06 2026  21:57 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4650.1,
-      "change_pct": -0.35
+      "price": 4686.4,
+      "change_pct": 0.7
     },
     "Oil (WTI)": {
-      "price": 115.19,
-      "change_pct": 3.5
+      "price": 115.46,
+      "change_pct": 0.37
     },
     "Silver": {
-      "price": 72.06,
-      "change_pct": -0.06
+      "price": 73.06,
+      "change_pct": 1.26
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68511,
-      "change_pct": -0.93
+      "price": 68877,
+      "change_pct": -0.35
     },
     "ETH": {
-      "price": 2102.63,
-      "change_pct": -1.45
+      "price": 2115.69,
+      "change_pct": -0.68
     },
     "SOL": {
-      "price": 79.66,
-      "change_pct": -3.38
+      "price": 80.01,
+      "change_pct": -2.43
     },
     "BNB": {
-      "price": 598.35,
-      "change_pct": -0.89
+      "price": 600.57,
+      "change_pct": 0.11
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 futures are little changed as Trump\u2019s deadline to reopen Strait of Hormuz nears: Live updates"
+      "title": "S&P 500 futures tumble as Trump\u2019s deadline to reopen Strait of Hormuz nears: Live updates"
     },
     {
       "source": "CNBC",
