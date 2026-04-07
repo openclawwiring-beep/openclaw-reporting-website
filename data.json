@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 07 2026  02:04 PT",
+  "generated_at": "Tuesday, April 07 2026  03:33 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,48 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4709.7,
-      "change_pct": 0.74
+      "price": 4696.5,
+      "change_pct": 0.46
     },
     "Oil (WTI)": {
-      "price": 112.83,
-      "change_pct": -2.4
+      "price": 113.05,
+      "change_pct": -2.21
+    },
+    "Silver": {
+      "price": 72.69,
+      "change_pct": -0.15
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68945,
-      "change_pct": -0.4
+      "price": 68739,
+      "change_pct": -1.54
     },
     "ETH": {
-      "price": 2115.25,
-      "change_pct": -1.12
+      "price": 2107.46,
+      "change_pct": -2.2
     },
     "SOL": {
-      "price": 80.13,
-      "change_pct": -2.3
+      "price": 79.88,
+      "change_pct": -3.31
     },
     "BNB": {
-      "price": 602.71,
-      "change_pct": -0.22
+      "price": 601.54,
+      "change_pct": -0.93
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 futures tumble as Trump\u2019s deadline to reopen Strait of Hormuz nears: Live updates"
+      "title": "S&P 500 futures rise as Trump\u2019s deadline to reopen Strait of Hormuz nears: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "JD Vance heads to Hungary to support Viktor Orb\u00e1n ahead of high-stakes election"
+      "title": "Universal Music stock rises after Pershing Square's $64 billion takeover proposal"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Fire Country\u2019 star\u00a0Diane Farr lists her longtime artist\u2019s retreat in Los Angeles for $2.8 million"
+      "title": "My wife and I want to move to Malaysia. Will we receive Social Security benefits there?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I feel overwhelmed\u2019: I\u2019m 56 and only have $60,000 in my IRA. Is it too late for me?"
+      "title": "\u2018I paid the $10 entry fee\u2019: A friend picked my March Madness bracket. Ethically, do I owe her half of my $150 winnings?"
     }
   ]
 }
