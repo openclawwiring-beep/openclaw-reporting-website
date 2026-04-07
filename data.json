@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 06 2026  16:35 PT",
+  "generated_at": "Monday, April 06 2026  19:23 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4680.4,
-      "change_pct": 0.3
+      "price": 4650.1,
+      "change_pct": -0.35
     },
     "Oil (WTI)": {
-      "price": 113.49,
-      "change_pct": 1.98
+      "price": 115.19,
+      "change_pct": 3.5
     },
     "Silver": {
-      "price": 73.0,
-      "change_pct": 1.25
+      "price": 72.06,
+      "change_pct": -0.06
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68651,
-      "change_pct": -0.52
+      "price": 68511,
+      "change_pct": -0.93
     },
     "ETH": {
-      "price": 2095.92,
-      "change_pct": -1.1
+      "price": 2102.63,
+      "change_pct": -1.45
     },
     "SOL": {
-      "price": 79.86,
-      "change_pct": -2.39
+      "price": 79.66,
+      "change_pct": -3.38
     },
     "BNB": {
-      "price": 598.57,
-      "change_pct": -0.65
+      "price": 598.35,
+      "change_pct": -0.89
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Amazon, USPS strike a deal \u2014 showing they still need each other despite threats of big delivery cuts"
+      "title": "Broadcom\u2019s stock is rising. Here\u2019s why its new Google and Anthropic deals are so significant."
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s the somewhat surprising stock that will soon join the S&P 500"
+      "title": "Amazon, USPS strike a deal \u2014 showing they still need each other despite threats of big delivery cuts"
     }
   ]
 }
