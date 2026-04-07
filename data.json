@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, April 07 2026  07:52 PT",
-  "market_status": "Live \u2014 as of 10:52 ET",
+  "generated_at": "Tuesday, April 07 2026  09:09 PT",
+  "market_status": "Live \u2014 as of 12:09 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6558.24,
-      "change_pct": -0.8
+      "price": 6572.54,
+      "change_pct": -0.59
     },
     "Nasdaq": {
-      "price": 21709.0,
-      "change_pct": -1.31
+      "price": 21808.16,
+      "change_pct": -0.86
     },
     "Dow Jones": {
-      "price": 46406.34,
-      "change_pct": -0.56
+      "price": 46385.73,
+      "change_pct": -0.61
     },
     "Russell 2000": {
-      "price": 2530.38,
-      "change_pct": -0.41
+      "price": 2523.35,
+      "change_pct": -0.68
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4679.5,
-      "change_pct": 0.1
+      "price": 4681.2,
+      "change_pct": 0.13
     },
     "Oil (WTI)": {
-      "price": 116.18,
-      "change_pct": 0.5
+      "price": 114.96,
+      "change_pct": -0.55
     },
     "Silver": {
-      "price": 71.11,
-      "change_pct": -2.33
+      "price": 71.49,
+      "change_pct": -1.81
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68103,
-      "change_pct": -2.1
+      "price": 68216,
+      "change_pct": -2.4
     },
     "ETH": {
-      "price": 2075.29,
-      "change_pct": -3.67
+      "price": 2081.7,
+      "change_pct": -3.71
     },
     "SOL": {
-      "price": 78.82,
-      "change_pct": -3.78
+      "price": 78.9,
+      "change_pct": -3.93
     },
     "BNB": {
-      "price": 595.87,
-      "change_pct": -1.75
+      "price": 599.72,
+      "change_pct": -1.35
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Buyers finally have leverage in the housing market. Here are 3 smart ways to use it."
+      "title": "Google just sucker-punched these highflying tech stocks \u2014 don\u2019t let the relief rally fool you"
     },
     {
       "source": "MarketWatch",
-      "title": "I just learned my 82-year-old mother owes $130,000 in back taxes to the IRS \u2014 and she could lose her house"
+      "title": "Stocks fall as Trump\u2019s Tuesday night deadline for Iran looms: \u2018The market is certainly on edge\u2019"
     }
   ]
 }
