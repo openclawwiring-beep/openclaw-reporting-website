@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, April 07 2026  10:32 PT",
-  "market_status": "Live \u2014 as of 13:32 ET",
+  "generated_at": "Tuesday, April 07 2026  12:03 PT",
+  "market_status": "Live \u2014 as of 15:03 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6583.62,
-      "change_pct": -0.42
+      "price": 6565.75,
+      "change_pct": -0.69
     },
     "Nasdaq": {
-      "price": 21860.66,
-      "change_pct": -0.62
+      "price": 21789.07,
+      "change_pct": -0.94
     },
     "Dow Jones": {
-      "price": 46438.31,
-      "change_pct": -0.5
+      "price": 46314.36,
+      "change_pct": -0.76
     },
     "Russell 2000": {
-      "price": 2535.82,
-      "change_pct": -0.19
+      "price": 2531.13,
+      "change_pct": -0.38
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4680.6,
-      "change_pct": 0.12
+      "price": 4692.4,
+      "change_pct": 0.37
     },
     "Oil (WTI)": {
-      "price": 115.52,
-      "change_pct": -0.07
+      "price": 114.86,
+      "change_pct": -0.64
     },
     "Silver": {
-      "price": 71.83,
-      "change_pct": -1.33
+      "price": 71.85,
+      "change_pct": -1.31
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68400,
-      "change_pct": -1.61
+      "price": 68411,
+      "change_pct": -1.97
     },
     "ETH": {
-      "price": 2085.75,
-      "change_pct": -2.29
+      "price": 2085.63,
+      "change_pct": -2.68
     },
     "SOL": {
-      "price": 79.47,
-      "change_pct": -2.61
+      "price": 79.91,
+      "change_pct": -2.4
     },
     "BNB": {
-      "price": 602.62,
-      "change_pct": -0.34
+      "price": 603.2,
+      "change_pct": -0.55
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Americans would love this $25,000 hybrid SUV \u2014 but it\u2019s not available here yet"
+      "title": "15 stocks to put on your list to buy when the market recovers"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I paid the $10 entry fee\u2019: A friend picked my March Madness bracket. Ethically, do I owe her half of my $150 winnings?"
+      "title": "Amazon\u2019s stock could soar 50%, as this analyst says investors are looking at AI spending all wrong"
     }
   ]
 }
