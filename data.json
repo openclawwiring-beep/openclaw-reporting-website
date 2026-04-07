@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 06 2026  21:57 PT",
+  "generated_at": "Monday, April 06 2026  23:21 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4686.4,
-      "change_pct": 0.7
+      "price": 4667.6,
+      "change_pct": 0.38
     },
     "Oil (WTI)": {
-      "price": 115.46,
-      "change_pct": 0.37
+      "price": 115.27,
+      "change_pct": 0.22
     },
     "Silver": {
-      "price": 73.06,
-      "change_pct": 1.26
+      "price": 72.46,
+      "change_pct": 0.46
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68877,
-      "change_pct": -0.35
+      "price": 68496,
+      "change_pct": -0.75
     },
     "ETH": {
-      "price": 2115.69,
-      "change_pct": -0.68
+      "price": 2099.87,
+      "change_pct": -1.23
     },
     "SOL": {
-      "price": 80.01,
-      "change_pct": -2.43
+      "price": 79.4,
+      "change_pct": -3.08
     },
     "BNB": {
-      "price": 600.57,
-      "change_pct": 0.11
+      "price": 597.17,
+      "change_pct": -0.67
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Offbeat Wall Street research firm says it sent an analyst to Strait of Hormuz. Here's what they learned"
+      "title": "SpaceX lays out IPO details, targets early June roadshow: Reuters"
     },
     {
       "source": "MarketWatch",
