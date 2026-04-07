@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 07 2026  03:33 PT",
+  "generated_at": "Tuesday, April 07 2026  04:53 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4696.5,
-      "change_pct": 0.46
+      "price": 4686.7,
+      "change_pct": 0.25
     },
     "Oil (WTI)": {
-      "price": 113.05,
-      "change_pct": -2.21
+      "price": 114.48,
+      "change_pct": -0.97
     },
     "Silver": {
-      "price": 72.69,
-      "change_pct": -0.15
+      "price": 72.32,
+      "change_pct": -0.66
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68739,
-      "change_pct": -1.54
+      "price": 68385,
+      "change_pct": -1.82
     },
     "ETH": {
-      "price": 2107.46,
-      "change_pct": -2.2
+      "price": 2089.19,
+      "change_pct": -2.95
     },
     "SOL": {
-      "price": 79.88,
-      "change_pct": -3.31
+      "price": 79.3,
+      "change_pct": -3.79
     },
     "BNB": {
-      "price": 601.54,
-      "change_pct": -0.93
+      "price": 597.63,
+      "change_pct": -1.29
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 futures rise as Trump\u2019s deadline to reopen Strait of Hormuz nears: Live updates"
+      "title": "Dow futures drop 200 points as ceasefire hopes fade ahead of Trump's Iran deadline: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My wife and I want to move to Malaysia. Will we receive Social Security benefits there?"
+      "title": "\u2018I worked very hard\u2019: I\u2019m 71 and have $6 million after scrimping and saving. My son, 33, wants money for a house. Do I say yes?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I paid the $10 entry fee\u2019: A friend picked my March Madness bracket. Ethically, do I owe her half of my $150 winnings?"
+      "title": "U.S. assets and gold are being sold offshore as the world scrambles to afford higher oil prices"
     }
   ]
 }
