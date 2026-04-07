@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, April 07 2026  06:18 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, April 07 2026  07:52 PT",
+  "market_status": "Live \u2014 as of 10:52 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6611.83,
-      "change_pct": 0.44
+      "price": 6558.24,
+      "change_pct": -0.8
     },
     "Nasdaq": {
-      "price": 21996.34,
-      "change_pct": 0.54
+      "price": 21709.0,
+      "change_pct": -1.31
     },
     "Dow Jones": {
-      "price": 46669.88,
-      "change_pct": 0.36
+      "price": 46406.34,
+      "change_pct": -0.56
     },
     "Russell 2000": {
-      "price": 2540.64,
-      "change_pct": 0.42
+      "price": 2530.38,
+      "change_pct": -0.41
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4681.5,
-      "change_pct": 0.14
+      "price": 4679.5,
+      "change_pct": 0.1
     },
     "Oil (WTI)": {
-      "price": 114.68,
-      "change_pct": -0.8
+      "price": 116.18,
+      "change_pct": 0.5
     },
     "Silver": {
-      "price": 72.17,
-      "change_pct": -0.88
+      "price": 71.11,
+      "change_pct": -2.33
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68572,
-      "change_pct": -1.12
+      "price": 68103,
+      "change_pct": -2.1
     },
     "ETH": {
-      "price": 2087.18,
-      "change_pct": -2.57
+      "price": 2075.29,
+      "change_pct": -3.67
     },
     "SOL": {
-      "price": 79.09,
-      "change_pct": -3.9
+      "price": 78.82,
+      "change_pct": -3.78
     },
     "BNB": {
-      "price": 598.7,
-      "change_pct": -1.0
+      "price": 595.87,
+      "change_pct": -1.75
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow futures drop 150 points as ceasefire hopes fade ahead of Trump's Iran deadline: Live updates"
-    },
-    {
-      "source": "CNBC",
       "title": "Trump warns Iran\u2019s \u2018whole civilization will die tonight\u2019 unless deal struck"
     },
     {
-      "source": "MarketWatch",
-      "title": "These healthcare stocks offer value and rapid profit growth"
+      "source": "CNBC",
+      "title": "Used car prices rise to highest point since summer 2023"
     },
     {
       "source": "MarketWatch",
-      "title": "A generational buying opportunity has opened up for U.S. tech stocks, says Goldman Sachs"
+      "title": "Buyers finally have leverage in the housing market. Here are 3 smart ways to use it."
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I just learned my 82-year-old mother owes $130,000 in back taxes to the IRS \u2014 and she could lose her house"
     }
   ]
 }
