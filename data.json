@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, April 07 2026  09:09 PT",
-  "market_status": "Live \u2014 as of 12:09 ET",
+  "generated_at": "Tuesday, April 07 2026  10:32 PT",
+  "market_status": "Live \u2014 as of 13:32 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6572.54,
-      "change_pct": -0.59
+      "price": 6583.62,
+      "change_pct": -0.42
     },
     "Nasdaq": {
-      "price": 21808.16,
-      "change_pct": -0.86
+      "price": 21860.66,
+      "change_pct": -0.62
     },
     "Dow Jones": {
-      "price": 46385.73,
-      "change_pct": -0.61
+      "price": 46438.31,
+      "change_pct": -0.5
     },
     "Russell 2000": {
-      "price": 2523.35,
-      "change_pct": -0.68
+      "price": 2535.82,
+      "change_pct": -0.19
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4681.2,
-      "change_pct": 0.13
+      "price": 4680.6,
+      "change_pct": 0.12
     },
     "Oil (WTI)": {
-      "price": 114.96,
-      "change_pct": -0.55
+      "price": 115.52,
+      "change_pct": -0.07
     },
     "Silver": {
-      "price": 71.49,
-      "change_pct": -1.81
+      "price": 71.83,
+      "change_pct": -1.33
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68216,
-      "change_pct": -2.4
+      "price": 68400,
+      "change_pct": -1.61
     },
     "ETH": {
-      "price": 2081.7,
-      "change_pct": -3.71
+      "price": 2085.75,
+      "change_pct": -2.29
     },
     "SOL": {
-      "price": 78.9,
-      "change_pct": -3.93
+      "price": 79.47,
+      "change_pct": -2.61
     },
     "BNB": {
-      "price": 599.72,
-      "change_pct": -1.35
+      "price": 602.62,
+      "change_pct": -0.34
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Used car prices rise to highest point since summer 2023"
+      "title": "Apple shares sink on report of foldable iPhone delays"
     },
     {
       "source": "MarketWatch",
-      "title": "Google just sucker-punched these highflying tech stocks \u2014 don\u2019t let the relief rally fool you"
+      "title": "Americans would love this $25,000 hybrid SUV \u2014 but it\u2019s not available here yet"
     },
     {
       "source": "MarketWatch",
-      "title": "Stocks fall as Trump\u2019s Tuesday night deadline for Iran looms: \u2018The market is certainly on edge\u2019"
+      "title": "\u2018I paid the $10 entry fee\u2019: A friend picked my March Madness bracket. Ethically, do I owe her half of my $150 winnings?"
     }
   ]
 }
