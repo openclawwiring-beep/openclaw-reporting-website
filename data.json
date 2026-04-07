@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 07 2026  00:55 PT",
+  "generated_at": "Tuesday, April 07 2026  02:04 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,30 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4668.1,
-      "change_pct": -0.15
+      "price": 4709.7,
+      "change_pct": 0.74
     },
     "Oil (WTI)": {
-      "price": 115.12,
-      "change_pct": -0.42
-    },
-    "Silver": {
-      "price": 72.36,
-      "change_pct": -0.61
+      "price": 112.83,
+      "change_pct": -2.4
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68658,
-      "change_pct": -0.62
+      "price": 68945,
+      "change_pct": -0.4
     },
     "ETH": {
-      "price": 2103.29,
-      "change_pct": -1.45
+      "price": 2115.25,
+      "change_pct": -1.12
     },
     "SOL": {
-      "price": 79.81,
-      "change_pct": -2.34
+      "price": 80.13,
+      "change_pct": -2.3
     },
     "BNB": {
-      "price": 598.93,
-      "change_pct": -0.79
+      "price": 602.71,
+      "change_pct": -0.22
     }
   },
   "headlines": [
@@ -58,15 +54,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Oil prices extend gains as Trump reaffirms Tuesday deadline for bombarding Iran's power plants, bridges"
+      "title": "JD Vance heads to Hungary to support Viktor Orb\u00e1n ahead of high-stakes election"
     },
     {
       "source": "MarketWatch",
-      "title": "Broadcom\u2019s stock is rising. Here\u2019s why its new Google and Anthropic deals are so significant."
+      "title": "\u2018Fire Country\u2019 star\u00a0Diane Farr lists her longtime artist\u2019s retreat in Los Angeles for $2.8 million"
     },
     {
       "source": "MarketWatch",
-      "title": "Amazon, USPS strike a deal \u2014 showing they still need each other despite threats of big delivery cuts"
+      "title": "\u2018I feel overwhelmed\u2019: I\u2019m 56 and only have $60,000 in my IRA. Is it too late for me?"
     }
   ]
 }
