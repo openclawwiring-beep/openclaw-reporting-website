@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 07 2026  13:05 PT",
+  "generated_at": "Tuesday, April 07 2026  14:10 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,40 +15,40 @@
       "change_pct": -0.18
     },
     "Russell 2000": {
-      "price": 2541.58,
-      "change_pct": 0.03
+      "price": 2544.95,
+      "change_pct": 0.17
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4725.0,
-      "change_pct": 1.07
+      "price": 4733.3,
+      "change_pct": 1.25
     },
     "Oil (WTI)": {
-      "price": 112.34,
-      "change_pct": -2.82
+      "price": 110.34,
+      "change_pct": -4.55
     },
     "Silver": {
-      "price": 73.0,
-      "change_pct": 0.26
+      "price": 73.11,
+      "change_pct": 0.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69369,
-      "change_pct": -0.52
+      "price": 69899,
+      "change_pct": 0.26
     },
     "ETH": {
-      "price": 2121.42,
-      "change_pct": -1.05
+      "price": 2138.77,
+      "change_pct": -0.4
     },
     "SOL": {
-      "price": 81.98,
-      "change_pct": 0.17
+      "price": 82.46,
+      "change_pct": 0.62
     },
     "BNB": {
-      "price": 609.13,
-      "change_pct": 0.36
+      "price": 611.29,
+      "change_pct": 0.86
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Multimillion-dollar CEO pay at these 20 low-wage companies is costing you. This is the only fix."
+      "title": "Real-world oil prices just hit a record high, signaling acute stress in the energy market"
     },
     {
       "source": "MarketWatch",
-      "title": "15 stocks to put on your list to buy when the market recovers"
+      "title": "Ray Dalio says the Iran conflict could evolve into the next world war"
     }
   ]
 }
