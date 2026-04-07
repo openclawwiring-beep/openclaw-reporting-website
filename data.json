@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 07 2026  14:10 PT",
+  "generated_at": "Tuesday, April 07 2026  15:03 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 69899,
-      "change_pct": 0.26
+      "price": 70093,
+      "change_pct": 0.96
     },
     "ETH": {
-      "price": 2138.77,
-      "change_pct": -0.4
+      "price": 2150.0,
+      "change_pct": 0.59
     },
     "SOL": {
-      "price": 82.46,
-      "change_pct": 0.62
+      "price": 83.09,
+      "change_pct": 1.99
     },
     "BNB": {
-      "price": 611.29,
-      "change_pct": 0.86
+      "price": 612.66,
+      "change_pct": 1.26
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Real-world oil prices just hit a record high, signaling acute stress in the energy market"
+      "title": "\u2018Our FICO score is excellent\u2019: My husband and I are in our 70s. How do we raise $10,000 for a new roof?"
     },
     {
       "source": "MarketWatch",
-      "title": "Ray Dalio says the Iran conflict could evolve into the next world war"
+      "title": "CrowdStrike, Palo Alto Networks shares pop as cybersecurity bulls finally get some AI validation"
     }
   ]
 }
