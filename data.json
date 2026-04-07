@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 06 2026  23:21 PT",
+  "generated_at": "Tuesday, April 07 2026  00:55 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4667.6,
-      "change_pct": 0.38
+      "price": 4668.1,
+      "change_pct": -0.15
     },
     "Oil (WTI)": {
-      "price": 115.27,
-      "change_pct": 0.22
+      "price": 115.12,
+      "change_pct": -0.42
     },
     "Silver": {
-      "price": 72.46,
-      "change_pct": 0.46
+      "price": 72.36,
+      "change_pct": -0.61
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68496,
-      "change_pct": -0.75
+      "price": 68658,
+      "change_pct": -0.62
     },
     "ETH": {
-      "price": 2099.87,
-      "change_pct": -1.23
+      "price": 2103.29,
+      "change_pct": -1.45
     },
     "SOL": {
-      "price": 79.4,
-      "change_pct": -3.08
+      "price": 79.81,
+      "change_pct": -2.34
     },
     "BNB": {
-      "price": 597.17,
-      "change_pct": -0.67
+      "price": 598.93,
+      "change_pct": -0.79
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "SpaceX lays out IPO details, targets early June roadshow: Reuters"
+      "title": "Oil prices extend gains as Trump reaffirms Tuesday deadline for bombarding Iran's power plants, bridges"
     },
     {
       "source": "MarketWatch",
