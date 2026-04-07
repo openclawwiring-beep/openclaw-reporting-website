@@ -1,60 +1,60 @@
 {
-  "generated_at": "Tuesday, April 07 2026  12:03 PT",
-  "market_status": "Live \u2014 as of 15:03 ET",
+  "generated_at": "Tuesday, April 07 2026  13:05 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6565.75,
-      "change_pct": -0.69
+      "price": 6616.85,
+      "change_pct": 0.08
     },
     "Nasdaq": {
-      "price": 21789.07,
-      "change_pct": -0.94
+      "price": 22017.85,
+      "change_pct": 0.1
     },
     "Dow Jones": {
-      "price": 46314.36,
-      "change_pct": -0.76
+      "price": 46584.46,
+      "change_pct": -0.18
     },
     "Russell 2000": {
-      "price": 2531.13,
-      "change_pct": -0.38
+      "price": 2541.58,
+      "change_pct": 0.03
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4692.4,
-      "change_pct": 0.37
+      "price": 4725.0,
+      "change_pct": 1.07
     },
     "Oil (WTI)": {
-      "price": 114.86,
-      "change_pct": -0.64
+      "price": 112.34,
+      "change_pct": -2.82
     },
     "Silver": {
-      "price": 71.85,
-      "change_pct": -1.31
+      "price": 73.0,
+      "change_pct": 0.26
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68411,
-      "change_pct": -1.97
+      "price": 69369,
+      "change_pct": -0.52
     },
     "ETH": {
-      "price": 2085.63,
-      "change_pct": -2.68
+      "price": 2121.42,
+      "change_pct": -1.05
     },
     "SOL": {
-      "price": 79.91,
-      "change_pct": -2.4
+      "price": 81.98,
+      "change_pct": 0.17
     },
     "BNB": {
-      "price": 603.2,
-      "change_pct": -0.55
+      "price": 609.13,
+      "change_pct": 0.36
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump warns Iran\u2019s \u2018whole civilization will die tonight\u2019 unless deal struck"
+      "title": "Iran updates: Pakistan seeks 2-week pause after Trump warns 'whole civilization will die' if no deal by deadline"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "15 stocks to put on your list to buy when the market recovers"
+      "title": "Multimillion-dollar CEO pay at these 20 low-wage companies is costing you. This is the only fix."
     },
     {
       "source": "MarketWatch",
-      "title": "Amazon\u2019s stock could soar 50%, as this analyst says investors are looking at AI spending all wrong"
+      "title": "15 stocks to put on your list to buy when the market recovers"
     }
   ]
 }
