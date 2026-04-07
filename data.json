@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 07 2026  15:03 PT",
+  "generated_at": "Tuesday, April 07 2026  16:06 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4733.3,
-      "change_pct": 1.25
+      "price": 4842.0,
+      "change_pct": 3.57
     },
     "Oil (WTI)": {
-      "price": 110.34,
-      "change_pct": -4.55
+      "price": 98.69,
+      "change_pct": -14.63
     },
     "Silver": {
-      "price": 73.11,
-      "change_pct": 0.42
+      "price": 75.79,
+      "change_pct": 4.1
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70093,
-      "change_pct": 0.96
+      "price": 71410,
+      "change_pct": 4.19
     },
     "ETH": {
-      "price": 2150.0,
-      "change_pct": 0.59
+      "price": 2223.17,
+      "change_pct": 6.11
     },
     "SOL": {
-      "price": 83.09,
-      "change_pct": 1.99
+      "price": 85.38,
+      "change_pct": 6.87
     },
     "BNB": {
-      "price": 612.66,
-      "change_pct": 1.26
+      "price": 618.07,
+      "change_pct": 3.31
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran updates: Pakistan seeks 2-week pause after Trump warns 'whole civilization will die' if no deal by deadline"
+      "title": "Trump suspends Iran attack for two weeks, subject to Hormuz Strait opening"
     },
     {
       "source": "CNBC",
-      "title": "Apple shares sink on report of foldable iPhone delays"
+      "title": "U.S. oil prices fall more than 9% after Trump agrees to suspend attacks on Iran for two weeks"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Our FICO score is excellent\u2019: My husband and I are in our 70s. How do we raise $10,000 for a new roof?"
+      "title": "\u2018I paid the $10 entry fee\u2019: A friend picked my March Madness bracket. Ethically, do I owe her half of my $150 winnings?"
     },
     {
       "source": "MarketWatch",
-      "title": "CrowdStrike, Palo Alto Networks shares pop as cybersecurity bulls finally get some AI validation"
+      "title": "From TV deals to titles: Why the Big Ten\u2019s money machine is just getting started"
     }
   ]
 }
