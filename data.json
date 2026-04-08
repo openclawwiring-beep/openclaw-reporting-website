@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, April 08 2026  12:58 PT",
-  "market_status": "Live \u2014 as of 15:58 ET",
+  "generated_at": "Wednesday, April 08 2026  13:55 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6778.82,
-      "change_pct": 2.43
+      "price": 6782.81,
+      "change_pct": 2.51
     },
     "Nasdaq": {
-      "price": 22611.79,
-      "change_pct": 2.7
+      "price": 22634.99,
+      "change_pct": 2.8
     },
     "Dow Jones": {
-      "price": 47904.54,
-      "change_pct": 2.82
+      "price": 47909.92,
+      "change_pct": 2.85
     },
     "Russell 2000": {
-      "price": 2614.97,
-      "change_pct": 2.73
+      "price": 2620.46,
+      "change_pct": 2.97
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4750.7,
-      "change_pct": -1.61
+      "price": 4747.7,
+      "change_pct": -1.67
     },
     "Oil (WTI)": {
-      "price": 96.3,
-      "change_pct": -0.19
+      "price": 96.61,
+      "change_pct": 0.13
     },
     "Silver": {
-      "price": 74.53,
-      "change_pct": -2.52
+      "price": 74.27,
+      "change_pct": -2.86
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71275,
-      "change_pct": 3.33
+      "price": 71344,
+      "change_pct": 3.08
     },
     "ETH": {
-      "price": 2206.68,
-      "change_pct": 4.5
+      "price": 2209.28,
+      "change_pct": 4.55
     },
     "SOL": {
-      "price": 83.01,
-      "change_pct": 1.68
+      "price": 83.24,
+      "change_pct": 1.52
     },
     "BNB": {
-      "price": 603.99,
-      "change_pct": -0.7
+      "price": 604.46,
+      "change_pct": -0.52
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My second husband will leave me $540,000 if I bequeath him my $130,000 net worth. What will happen to my two sons?"
+      "title": "Bonds may be the real winner now that the world economy has sidestepped a historic oil crisis"
     },
     {
       "source": "MarketWatch",
-      "title": "These infrastructure stocks are gaining smart-money interest as data centers strain the U.S. power grid"
+      "title": "Google\u2019s AI lead is growing in this key area. That\u2019s good news for Alphabet\u2019s stock."
     }
   ]
 }
