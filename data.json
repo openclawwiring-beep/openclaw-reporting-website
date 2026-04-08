@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, April 08 2026  08:56 PT",
-  "market_status": "Live \u2014 as of 11:56 ET",
+  "generated_at": "Wednesday, April 08 2026  10:05 PT",
+  "market_status": "Live \u2014 as of 13:05 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6773.86,
-      "change_pct": 2.36
+      "price": 6784.48,
+      "change_pct": 2.52
     },
     "Nasdaq": {
-      "price": 22642.6,
-      "change_pct": 2.84
+      "price": 22695.93,
+      "change_pct": 3.08
     },
     "Dow Jones": {
-      "price": 47802.65,
-      "change_pct": 2.6
+      "price": 47831.92,
+      "change_pct": 2.66
     },
     "Russell 2000": {
-      "price": 2619.9,
-      "change_pct": 2.92
+      "price": 2625.02,
+      "change_pct": 3.12
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4781.1,
-      "change_pct": -0.98
+      "price": 4787.0,
+      "change_pct": -0.85
     },
     "Oil (WTI)": {
-      "price": 95.32,
-      "change_pct": -1.2
+      "price": 94.33,
+      "change_pct": -2.23
     },
     "Silver": {
-      "price": 75.62,
-      "change_pct": -1.09
+      "price": 75.73,
+      "change_pct": -0.95
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71283,
-      "change_pct": 4.61
+      "price": 71718,
+      "change_pct": 5.02
     },
     "ETH": {
-      "price": 2213.39,
-      "change_pct": 6.44
+      "price": 2223.6,
+      "change_pct": 6.73
     },
     "SOL": {
-      "price": 83.33,
-      "change_pct": 5.71
+      "price": 83.55,
+      "change_pct": 5.81
     },
     "BNB": {
-      "price": 605.35,
-      "change_pct": 1.18
+      "price": 605.79,
+      "change_pct": 0.73
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "There\u2019s a simple reason for the stock market\u2019s huge relief rally on the Iran cease-fire"
+      "title": "Iran moves to put the brakes on reopening the Strait of Hormuz"
     },
     {
       "source": "MarketWatch",
-      "title": "Iran may have just put the brakes on reopening the Strait of Hormuz"
+      "title": "Your local banker is getting worried that credit stress will bring the economy to its knees"
     }
   ]
 }
