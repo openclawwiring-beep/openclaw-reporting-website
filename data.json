@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 07 2026  17:02 PT",
+  "generated_at": "Tuesday, April 07 2026  20:38 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4841.6,
-      "change_pct": 3.57
+      "price": 4830.4,
+      "change_pct": 3.33
     },
     "Oil (WTI)": {
-      "price": 96.14,
-      "change_pct": -16.83
+      "price": 95.61,
+      "change_pct": -17.29
     },
     "Silver": {
-      "price": 76.46,
-      "change_pct": 5.02
+      "price": 76.39,
+      "change_pct": 4.92
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71923,
-      "change_pct": 4.4
+      "price": 71389,
+      "change_pct": 3.82
     },
     "ETH": {
-      "price": 2242.97,
-      "change_pct": 6.33
+      "price": 2236.49,
+      "change_pct": 6.1
     },
     "SOL": {
-      "price": 85.71,
-      "change_pct": 7.02
+      "price": 84.56,
+      "change_pct": 5.92
     },
     "BNB": {
-      "price": 620.76,
-      "change_pct": 3.41
+      "price": 615.55,
+      "change_pct": 2.77
     }
   },
   "headlines": [
@@ -58,11 +58,11 @@
     },
     {
       "source": "CNBC",
-      "title": "U.S. oil price plunges below $100 after Iran agrees to safe passage through Strait of Hormuz during ceasefire"
+      "title": "Gulf countries scramble to intercept missiles hours into U.S.-Iran ceasefire agreement"
     },
     {
       "source": "MarketWatch",
-      "title": "Stock futures surge, oil prices fall 18% as Trump announces two-week cease-fire with Iran"
+      "title": "Stock futures surge, oil prices slide as Trump announces two-week cease-fire with Iran"
     },
     {
       "source": "MarketWatch",
