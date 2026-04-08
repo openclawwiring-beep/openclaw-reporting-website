@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 07 2026  16:06 PT",
+  "generated_at": "Tuesday, April 07 2026  17:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4842.0,
+      "price": 4841.6,
       "change_pct": 3.57
     },
     "Oil (WTI)": {
-      "price": 98.69,
-      "change_pct": -14.63
+      "price": 96.14,
+      "change_pct": -16.83
     },
     "Silver": {
-      "price": 75.79,
-      "change_pct": 4.1
+      "price": 76.46,
+      "change_pct": 5.02
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71410,
-      "change_pct": 4.19
+      "price": 71923,
+      "change_pct": 4.4
     },
     "ETH": {
-      "price": 2223.17,
-      "change_pct": 6.11
+      "price": 2242.97,
+      "change_pct": 6.33
     },
     "SOL": {
-      "price": 85.38,
-      "change_pct": 6.87
+      "price": 85.71,
+      "change_pct": 7.02
     },
     "BNB": {
-      "price": 618.07,
-      "change_pct": 3.31
+      "price": 620.76,
+      "change_pct": 3.41
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump suspends Iran attack for two weeks, subject to Hormuz Strait opening"
+      "title": "Trump-Iran agree to two-week ceasefire, plan to open Strait of Hormuz"
     },
     {
       "source": "CNBC",
-      "title": "U.S. oil prices fall more than 9% after Trump agrees to suspend attacks on Iran for two weeks"
+      "title": "U.S. oil price plunges below $100 after Iran agrees to safe passage through Strait of Hormuz during ceasefire"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I paid the $10 entry fee\u2019: A friend picked my March Madness bracket. Ethically, do I owe her half of my $150 winnings?"
+      "title": "Stock futures surge, oil prices fall 18% as Trump announces two-week cease-fire with Iran"
     },
     {
       "source": "MarketWatch",
-      "title": "From TV deals to titles: Why the Big Ten\u2019s money machine is just getting started"
+      "title": "Levi\u2019s boosts its sales outlook, defying concerns about the impact of the Iran conflict"
     }
   ]
 }
