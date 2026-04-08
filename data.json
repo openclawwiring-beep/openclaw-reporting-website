@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 07 2026  22:46 PT",
+  "generated_at": "Wednesday, April 08 2026  00:19 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4849.0,
-      "change_pct": 0.4
+      "price": 4841.3,
+      "change_pct": 0.24
     },
     "Oil (WTI)": {
-      "price": 95.71,
-      "change_pct": 0.19
+      "price": 96.25,
+      "change_pct": 0.75
     },
     "Silver": {
-      "price": 77.04,
-      "change_pct": 0.85
+      "price": 77.23,
+      "change_pct": 1.11
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71686,
-      "change_pct": 4.42
+      "price": 71724,
+      "change_pct": 4.61
     },
     "ETH": {
-      "price": 2240.03,
-      "change_pct": 6.44
+      "price": 2249.31,
+      "change_pct": 7.05
     },
     "SOL": {
-      "price": 84.57,
-      "change_pct": 6.13
+      "price": 84.4,
+      "change_pct": 5.96
     },
     "BNB": {
-      "price": 615.9,
-      "change_pct": 3.06
+      "price": 613.56,
+      "change_pct": 2.59
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump-Iran agree to two-week ceasefire, plan to open Strait of Hormuz"
+      "title": "U.S.-Iran ceasefire relief rally lifts global assets as oil plunges below $100"
     },
     {
       "source": "CNBC",
-      "title": "Gulf countries scramble to intercept missiles hours into U.S.-Iran ceasefire agreement"
+      "title": "Trump-Iran agree to two-week ceasefire, plan to open Strait of Hormuz"
     },
     {
       "source": "MarketWatch",
