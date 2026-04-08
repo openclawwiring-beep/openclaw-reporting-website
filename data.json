@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 08 2026  01:41 PT",
+  "generated_at": "Wednesday, April 08 2026  03:07 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4831.1,
-      "change_pct": 0.06
+      "price": 4811.7,
+      "change_pct": -0.34
     },
     "Oil (WTI)": {
-      "price": 96.54,
-      "change_pct": 0.06
+      "price": 94.68,
+      "change_pct": -1.87
     },
     "Silver": {
-      "price": 76.84,
-      "change_pct": 0.5
+      "price": 76.94,
+      "change_pct": 0.64
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71727,
-      "change_pct": 4.13
+      "price": 71650,
+      "change_pct": 3.81
     },
     "ETH": {
-      "price": 2254.63,
-      "change_pct": 6.72
+      "price": 2249.04,
+      "change_pct": 5.89
     },
     "SOL": {
-      "price": 84.6,
-      "change_pct": 5.6
+      "price": 84.61,
+      "change_pct": 5.34
     },
     "BNB": {
-      "price": 612.37,
-      "change_pct": 1.81
+      "price": 612.04,
+      "change_pct": 1.32
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S.-Iran ceasefire relief rally lifts global assets as oil plunges below $100"
+      "title": "Dow futures jump over 1,000 points, oil tumbles after Trump suspends Iran attacks for two weeks: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Trump-Iran agree to two-week ceasefire, plan to open Strait of Hormuz"
+      "title": "Oil prices plunge below $100 after Iran agrees to safe passage through Strait of Hormuz during ceasefire"
     },
     {
       "source": "MarketWatch",
-      "title": "Then and now: Comparing where the S&P 500, crude and other markets are to the pre-war situation"
+      "title": "We\u2019re in our 70s with no heirs. I like donating $30,000 from our $700,000 IRA to charity \u2014 my husband disagrees. Who\u2019s right?"
     },
     {
       "source": "MarketWatch",
-      "title": "Stock futures surge, oil prices slide as Trump announces two-week cease-fire with Iran"
+      "title": "\u2018I worked very hard\u2019: I\u2019m 71 and have $6 million after scrimping and saving. My son, 33, wants money for a house. Do I say yes?"
     }
   ]
 }
