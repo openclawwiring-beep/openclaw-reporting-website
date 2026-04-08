@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 08 2026  14:40 PT",
+  "generated_at": "Wednesday, April 08 2026  15:38 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4745.0,
-      "change_pct": -1.72
+      "price": 4734.6,
+      "change_pct": -1.94
     },
     "Oil (WTI)": {
-      "price": 96.5,
-      "change_pct": 0.02
+      "price": 96.97,
+      "change_pct": 0.51
     },
     "Silver": {
-      "price": 74.25,
-      "change_pct": -2.89
+      "price": 73.87,
+      "change_pct": -3.38
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71630,
-      "change_pct": 2.54
+      "price": 71336,
+      "change_pct": 0.47
     },
     "ETH": {
-      "price": 2218.7,
-      "change_pct": 3.62
+      "price": 2200.31,
+      "change_pct": 0.79
     },
     "SOL": {
-      "price": 83.46,
-      "change_pct": 0.9
+      "price": 82.93,
+      "change_pct": -1.84
     },
     "BNB": {
-      "price": 606.85,
-      "change_pct": -0.77
+      "price": 605.91,
+      "change_pct": -1.85
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Many on Wall Street saw this 'TACO' coming as Trump's brinkmanship starts to lose grip on market"
+      "title": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "S&P 500 smashes back above two key moving averages, in a rare display of strength. Here\u2019s what history shows happens next."
     },
     {
       "source": "MarketWatch",
       "title": "\u2018This is an overlooked catastrophe\u2019: Why do so many hospitals not accept Medicare Advantage for cancer patients?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018I paid the $10 entry fee\u2019: A friend picked my March Madness bracket. Ethically, do I owe her half of my $150 winnings?"
     }
   ]
 }
