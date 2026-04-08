@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 08 2026  03:07 PT",
+  "generated_at": "Wednesday, April 08 2026  04:30 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4811.7,
-      "change_pct": -0.34
+      "price": 4812.6,
+      "change_pct": -0.32
     },
     "Oil (WTI)": {
-      "price": 94.68,
-      "change_pct": -1.87
+      "price": 94.55,
+      "change_pct": -2.0
     },
     "Silver": {
-      "price": 76.94,
-      "change_pct": 0.64
+      "price": 77.1,
+      "change_pct": 0.84
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71650,
-      "change_pct": 3.81
+      "price": 71633,
+      "change_pct": 4.89
     },
     "ETH": {
-      "price": 2249.04,
-      "change_pct": 5.89
+      "price": 2251.78,
+      "change_pct": 7.62
     },
     "SOL": {
-      "price": 84.61,
-      "change_pct": 5.34
+      "price": 84.63,
+      "change_pct": 6.88
     },
     "BNB": {
-      "price": 612.04,
-      "change_pct": 1.32
+      "price": 612.74,
+      "change_pct": 2.69
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow futures jump over 1,000 points, oil tumbles after Trump suspends Iran attacks for two weeks: Live updates"
+      "title": "Oil prices plunge below $95 after Iran agrees to safe passage through Strait of Hormuz during ceasefire"
     },
     {
       "source": "CNBC",
-      "title": "Oil prices plunge below $100 after Iran agrees to safe passage through Strait of Hormuz during ceasefire"
+      "title": "JD Vance calls Iran ceasefire a 'fragile truce' and says Trump is 'impatient to make progress'"
     },
     {
       "source": "MarketWatch",
-      "title": "We\u2019re in our 70s with no heirs. I like donating $30,000 from our $700,000 IRA to charity \u2014 my husband disagrees. Who\u2019s right?"
+      "title": "Exxon and Shell reveal production hit from Iran war"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I worked very hard\u2019: I\u2019m 71 and have $6 million after scrimping and saving. My son, 33, wants money for a house. Do I say yes?"
+      "title": "The price Americans pay for medicine has gotten horribly out of control. Here\u2019s how to fix it."
     }
   ]
 }
