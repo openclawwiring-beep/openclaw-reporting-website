@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, April 08 2026  07:08 PT",
-  "market_status": "Live \u2014 as of 10:08 ET",
+  "generated_at": "Wednesday, April 08 2026  08:56 PT",
+  "market_status": "Live \u2014 as of 11:56 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6773.96,
+      "price": 6773.86,
       "change_pct": 2.36
     },
     "Nasdaq": {
-      "price": 22635.49,
-      "change_pct": 2.81
+      "price": 22642.6,
+      "change_pct": 2.84
     },
     "Dow Jones": {
-      "price": 47898.81,
-      "change_pct": 2.81
+      "price": 47802.65,
+      "change_pct": 2.6
     },
     "Russell 2000": {
-      "price": 2629.92,
-      "change_pct": 3.31
+      "price": 2619.9,
+      "change_pct": 2.92
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4806.4,
-      "change_pct": -0.45
+      "price": 4781.1,
+      "change_pct": -0.98
     },
     "Oil (WTI)": {
-      "price": 93.08,
-      "change_pct": -3.52
+      "price": 95.32,
+      "change_pct": -1.2
     },
     "Silver": {
-      "price": 76.61,
-      "change_pct": 0.21
+      "price": 75.62,
+      "change_pct": -1.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71654,
-      "change_pct": 5.61
+      "price": 71283,
+      "change_pct": 4.61
     },
     "ETH": {
-      "price": 2235.43,
-      "change_pct": 8.27
+      "price": 2213.39,
+      "change_pct": 6.44
     },
     "SOL": {
-      "price": 83.92,
-      "change_pct": 6.93
+      "price": 83.33,
+      "change_pct": 5.71
     },
     "BNB": {
-      "price": 607.9,
-      "change_pct": 2.3
+      "price": 605.35,
+      "change_pct": 1.18
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump threatens tariffs of 50% on countries 'supplying military weapons to Iran'"
+      "title": "First ships pass Strait of Hormuz since Trump-Iran ceasefire, but traffic remains low amid confusion"
     },
     {
       "source": "CNBC",
-      "title": "JD Vance calls Iran ceasefire a 'fragile truce' and says Trump is 'impatient to make progress'"
+      "title": "Trump threatens tariffs of 50% on countries 'supplying military weapons to Iran'"
     },
     {
       "source": "MarketWatch",
-      "title": "The U.S. government has found \u2018alarming instances\u2019 of nursing homes drugging residents and falsifying medical records"
+      "title": "There\u2019s a simple reason for the stock market\u2019s huge relief rally on the Iran cease-fire"
     },
     {
       "source": "MarketWatch",
-      "title": "The $7 billion reason the Big Ten is dominating college sports"
+      "title": "Iran may have just put the brakes on reopening the Strait of Hormuz"
     }
   ]
 }
