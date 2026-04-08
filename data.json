@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 08 2026  13:55 PT",
+  "generated_at": "Wednesday, April 08 2026  14:40 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4747.7,
-      "change_pct": -1.67
+      "price": 4745.0,
+      "change_pct": -1.72
     },
     "Oil (WTI)": {
-      "price": 96.61,
-      "change_pct": 0.13
+      "price": 96.5,
+      "change_pct": 0.02
     },
     "Silver": {
-      "price": 74.27,
-      "change_pct": -2.86
+      "price": 74.25,
+      "change_pct": -2.89
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71344,
-      "change_pct": 3.08
+      "price": 71630,
+      "change_pct": 2.54
     },
     "ETH": {
-      "price": 2209.28,
-      "change_pct": 4.55
+      "price": 2218.7,
+      "change_pct": 3.62
     },
     "SOL": {
-      "price": 83.24,
-      "change_pct": 1.52
+      "price": 83.46,
+      "change_pct": 0.9
     },
     "BNB": {
-      "price": 604.46,
-      "change_pct": -0.52
+      "price": 606.85,
+      "change_pct": -0.77
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Bonds may be the real winner now that the world economy has sidestepped a historic oil crisis"
+      "title": "\u2018This is an overlooked catastrophe\u2019: Why do so many hospitals not accept Medicare Advantage for cancer patients?"
     },
     {
       "source": "MarketWatch",
-      "title": "Google\u2019s AI lead is growing in this key area. That\u2019s good news for Alphabet\u2019s stock."
+      "title": "\u2018I paid the $10 entry fee\u2019: A friend picked my March Madness bracket. Ethically, do I owe her half of my $150 winnings?"
     }
   ]
 }
