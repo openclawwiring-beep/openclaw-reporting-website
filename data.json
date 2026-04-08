@@ -1,60 +1,60 @@
 {
-  "generated_at": "Wednesday, April 08 2026  05:10 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, April 08 2026  07:08 PT",
+  "market_status": "Live \u2014 as of 10:08 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6616.85,
-      "change_pct": 0.08
+      "price": 6773.96,
+      "change_pct": 2.36
     },
     "Nasdaq": {
-      "price": 22017.85,
-      "change_pct": 0.1
+      "price": 22635.49,
+      "change_pct": 2.81
     },
     "Dow Jones": {
-      "price": 46584.46,
-      "change_pct": -0.18
+      "price": 47898.81,
+      "change_pct": 2.81
     },
     "Russell 2000": {
-      "price": 2544.95,
-      "change_pct": 0.17
+      "price": 2629.92,
+      "change_pct": 3.31
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4828.4,
-      "change_pct": 0.0
+      "price": 4806.4,
+      "change_pct": -0.45
     },
     "Oil (WTI)": {
-      "price": 93.12,
-      "change_pct": -3.48
+      "price": 93.08,
+      "change_pct": -3.52
     },
     "Silver": {
-      "price": 77.5,
-      "change_pct": 1.36
+      "price": 76.61,
+      "change_pct": 0.21
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71710,
-      "change_pct": 5.28
+      "price": 71654,
+      "change_pct": 5.61
     },
     "ETH": {
-      "price": 2250.65,
-      "change_pct": 8.36
+      "price": 2235.43,
+      "change_pct": 8.27
     },
     "SOL": {
-      "price": 84.43,
-      "change_pct": 7.02
+      "price": 83.92,
+      "change_pct": 6.93
     },
     "BNB": {
-      "price": 613.14,
-      "change_pct": 3.21
+      "price": 607.9,
+      "change_pct": 2.3
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow futures soar 1,300 points as traders rush to buy stocks after U.S. and Iran reach two-week ceasefire: Live updates"
+      "title": "Trump threatens tariffs of 50% on countries 'supplying military weapons to Iran'"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Markets looking \u2018through the noise\u2019 of Iran war \u2014 but key questions remain, says JPMorgan"
+      "title": "The U.S. government has found \u2018alarming instances\u2019 of nursing homes drugging residents and falsifying medical records"
     },
     {
       "source": "MarketWatch",
-      "title": "Delta\u2019s stock soars after a well-timed earnings report showed higher fuel costs weren\u2019t an issue"
+      "title": "The $7 billion reason the Big Ten is dominating college sports"
     }
   ]
 }
