@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 09 2026  01:01 PT",
+  "generated_at": "Thursday, April 09 2026  02:48 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4737.0,
-      "change_pct": 0.04
+      "price": 4755.6,
+      "change_pct": 0.44
     },
     "Oil (WTI)": {
-      "price": 98.02,
-      "change_pct": 0.85
+      "price": 97.42,
+      "change_pct": 0.24
     },
     "Silver": {
-      "price": 73.76,
-      "change_pct": -0.42
+      "price": 74.14,
+      "change_pct": 0.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70977,
-      "change_pct": -0.88
+      "price": 71311,
+      "change_pct": -0.43
     },
     "ETH": {
-      "price": 2181.1,
-      "change_pct": -3.15
+      "price": 2186.47,
+      "change_pct": -2.77
     },
     "SOL": {
-      "price": 82.31,
-      "change_pct": -2.49
+      "price": 82.29,
+      "change_pct": -2.75
     },
     "BNB": {
-      "price": 600.24,
-      "change_pct": -2.1
+      "price": 601.69,
+      "change_pct": -1.65
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "U.S. has violated ceasefire agreement, Iran parliamentary speaker says"
+      "title": "Britain to call for toll-free Strait of Hormuz, says Lebanon must be part of Iran ceasefire"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "We\u2019re in our 70s with no heirs. I like donating $30,000 from our $700,000 IRA to charity \u2014 my husband disagrees. Who\u2019s right?"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018I plan to exit corporate life\u2019: I\u2019m 50 and have $400,000. My wife is a teacher. Can I retire at 55?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "S&P 500 smashes back above two key moving averages, in a rare display of strength. Here\u2019s what history shows happens next."
     }
   ]
 }
