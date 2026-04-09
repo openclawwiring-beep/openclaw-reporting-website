@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 09 2026  14:08 PT",
+  "generated_at": "Thursday, April 09 2026  15:05 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4789.5,
-      "change_pct": 1.15
+      "price": 4790.5,
+      "change_pct": 1.17
     },
     "Oil (WTI)": {
-      "price": 97.88,
-      "change_pct": 0.71
+      "price": 97.98,
+      "change_pct": 0.81
     },
     "Silver": {
-      "price": 75.39,
-      "change_pct": 1.78
+      "price": 75.47,
+      "change_pct": 1.9
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72535,
-      "change_pct": 1.55
+      "price": 72310,
+      "change_pct": 1.09
     },
     "ETH": {
-      "price": 2217.92,
-      "change_pct": 0.34
+      "price": 2212.0,
+      "change_pct": 0.03
     },
     "SOL": {
-      "price": 84.5,
-      "change_pct": 1.44
+      "price": 84.25,
+      "change_pct": 1.2
     },
     "BNB": {
-      "price": 609.55,
-      "change_pct": 0.7
+      "price": 606.96,
+      "change_pct": 0.13
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia\u2019s stock is quietly gaining steam \u2014 it\u2019s on its longest winning streak since 2023"
+      "title": "Netflix, big banks face a moment of truth as the Iran cease-fire rally meets earnings season"
     },
     {
       "source": "MarketWatch",
-      "title": "Brown-Forman\u2019s stock is the S&P 500\u2019s top gainer Thursday as merger drama heats up"
+      "title": "Has the cease-fire rally pushed stocks too high, too quickly?"
     }
   ]
 }
