@@ -1,60 +1,60 @@
 {
-  "generated_at": "Thursday, April 09 2026  12:05 PT",
-  "market_status": "Live \u2014 as of 15:05 ET",
+  "generated_at": "Thursday, April 09 2026  13:12 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6819.6,
-      "change_pct": 0.53
+      "price": 6824.66,
+      "change_pct": 0.62
     },
     "Nasdaq": {
-      "price": 22779.85,
-      "change_pct": 0.64
+      "price": 22822.42,
+      "change_pct": 0.83
     },
     "Dow Jones": {
-      "price": 48202.32,
-      "change_pct": 0.6
+      "price": 48185.8,
+      "change_pct": 0.58
     },
     "Russell 2000": {
-      "price": 2632.51,
-      "change_pct": 0.46
+      "price": 2636.14,
+      "change_pct": 0.6
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4794.4,
-      "change_pct": 1.25
+      "price": 4794.5,
+      "change_pct": 1.26
     },
     "Oil (WTI)": {
-      "price": 98.35,
-      "change_pct": 1.19
+      "price": 99.17,
+      "change_pct": 2.04
     },
     "Silver": {
-      "price": 75.96,
-      "change_pct": 2.54
+      "price": 75.73,
+      "change_pct": 2.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71921,
-      "change_pct": 1.08
+      "price": 72038,
+      "change_pct": 0.85
     },
     "ETH": {
-      "price": 2209.0,
-      "change_pct": 0.28
+      "price": 2215.94,
+      "change_pct": 0.05
     },
     "SOL": {
-      "price": 83.92,
-      "change_pct": 1.18
+      "price": 84.3,
+      "change_pct": 1.27
     },
     "BNB": {
-      "price": 607.21,
-      "change_pct": 0.57
+      "price": 608.36,
+      "change_pct": 0.64
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stocks gain for a second day on hope Iran ceasefire can be sustained: Live updates"
+      "title": "Stocks extend relief rally on hopes that U.S.-Iran ceasefire will stick, Dow turns positive for 2026"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The stock-market correction isn\u2019t over yet. Here\u2019s why the Iran cease-fire is actually a bad omen."
+      "title": "Software stocks are having a \u2018full-fledged breakdown\u2019 \u2014 and they may fall even further"
     },
     {
       "source": "MarketWatch",
-      "title": "The Cassidy-Kaine proposal does virtually nothing to solve Social Security\u2019s financial problems"
+      "title": "CoreWeave\u2019s stock bounces back. Why investors are cheering the new Meta deal."
     }
   ]
 }
