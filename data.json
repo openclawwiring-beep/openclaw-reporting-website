@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 08 2026  19:10 PT",
+  "generated_at": "Wednesday, April 08 2026  21:56 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4749.5,
-      "change_pct": -1.63
+      "price": 4744.2,
+      "change_pct": -1.74
     },
     "Oil (WTI)": {
-      "price": 94.41,
-      "change_pct": -2.15
+      "price": 97.68,
+      "change_pct": 1.24
     },
     "Silver": {
-      "price": 75.22,
-      "change_pct": -1.61
+      "price": 74.15,
+      "change_pct": -3.01
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70945,
-      "change_pct": -0.97
+      "price": 70776,
+      "change_pct": -1.14
     },
     "ETH": {
-      "price": 2179.42,
-      "change_pct": -2.81
+      "price": 2178.69,
+      "change_pct": -2.94
     },
     "SOL": {
-      "price": 82.18,
-      "change_pct": -3.16
+      "price": 81.9,
+      "change_pct": -3.14
     },
     "BNB": {
-      "price": 601.99,
-      "change_pct": -2.31
+      "price": 599.33,
+      "change_pct": -2.62
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. has violated ceasefire agreement, Iran parliamentary speaker says"
+      "title": "'Poorly run, piece of ice': Trump targets Greenland again as Iran war deepens NATO rift"
     },
     {
       "source": "CNBC",
-      "title": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting"
+      "title": "U.S. has violated ceasefire agreement, Iran parliamentary speaker says"
     },
     {
       "source": "MarketWatch",
