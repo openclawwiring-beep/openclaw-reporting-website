@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 09 2026  13:12 PT",
+  "generated_at": "Thursday, April 09 2026  14:08 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,58 +15,58 @@
       "change_pct": 0.58
     },
     "Russell 2000": {
-      "price": 2636.14,
+      "price": 2636.31,
       "change_pct": 0.6
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4794.5,
-      "change_pct": 1.26
+      "price": 4789.5,
+      "change_pct": 1.15
     },
     "Oil (WTI)": {
-      "price": 99.17,
-      "change_pct": 2.04
+      "price": 97.88,
+      "change_pct": 0.71
     },
     "Silver": {
-      "price": 75.73,
-      "change_pct": 2.24
+      "price": 75.39,
+      "change_pct": 1.78
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72038,
-      "change_pct": 0.85
+      "price": 72535,
+      "change_pct": 1.55
     },
     "ETH": {
-      "price": 2215.94,
-      "change_pct": 0.05
+      "price": 2217.92,
+      "change_pct": 0.34
     },
     "SOL": {
-      "price": 84.3,
-      "change_pct": 1.27
+      "price": 84.5,
+      "change_pct": 1.44
     },
     "BNB": {
-      "price": 608.36,
-      "change_pct": 0.64
+      "price": 609.55,
+      "change_pct": 0.7
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stocks extend relief rally on hopes that U.S.-Iran ceasefire will stick, Dow turns positive for 2026"
+      "title": "Meta's long-awaited AI model is finally here. But can it make money?"
     },
     {
       "source": "CNBC",
-      "title": "The Strait of Hormuz is not open as Iran controls access after ceasefire, UAE oil CEO says"
+      "title": "Iran attacks on crucial Saudi pipeline and production facilities slash kingdom's oil output"
     },
     {
       "source": "MarketWatch",
-      "title": "Software stocks are having a \u2018full-fledged breakdown\u2019 \u2014 and they may fall even further"
+      "title": "Nvidia\u2019s stock is quietly gaining steam \u2014 it\u2019s on its longest winning streak since 2023"
     },
     {
       "source": "MarketWatch",
-      "title": "CoreWeave\u2019s stock bounces back. Why investors are cheering the new Meta deal."
+      "title": "Brown-Forman\u2019s stock is the S&P 500\u2019s top gainer Thursday as merger drama heats up"
     }
   ]
 }
