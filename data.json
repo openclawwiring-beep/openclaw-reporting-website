@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, April 09 2026  07:04 PT",
-  "market_status": "Live \u2014 as of 10:04 ET",
+  "generated_at": "Thursday, April 09 2026  09:00 PT",
+  "market_status": "Live \u2014 as of 12:00 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6776.57,
-      "change_pct": -0.1
+      "price": 6814.74,
+      "change_pct": 0.46
     },
     "Nasdaq": {
-      "price": 22584.84,
-      "change_pct": -0.22
+      "price": 22774.86,
+      "change_pct": 0.62
     },
     "Dow Jones": {
-      "price": 47863.16,
-      "change_pct": -0.11
+      "price": 48098.48,
+      "change_pct": 0.38
     },
     "Russell 2000": {
-      "price": 2620.79,
-      "change_pct": 0.01
+      "price": 2626.86,
+      "change_pct": 0.24
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4790.0,
-      "change_pct": 1.16
+      "price": 4809.5,
+      "change_pct": 1.57
     },
     "Oil (WTI)": {
-      "price": 100.33,
-      "change_pct": 3.23
+      "price": 99.57,
+      "change_pct": 2.45
     },
     "Silver": {
-      "price": 75.18,
-      "change_pct": 1.49
+      "price": 75.9,
+      "change_pct": 2.47
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70745,
-      "change_pct": -1.29
+      "price": 72122,
+      "change_pct": 1.15
     },
     "ETH": {
-      "price": 2163.86,
-      "change_pct": -3.33
+      "price": 2217.23,
+      "change_pct": 0.07
     },
     "SOL": {
-      "price": 81.78,
-      "change_pct": -2.66
+      "price": 83.79,
+      "change_pct": 0.52
     },
     "BNB": {
-      "price": 600.28,
-      "change_pct": -1.21
+      "price": 606.16,
+      "change_pct": 0.12
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "CoreWeave\u2019s stock dips as the hype around new Meta deal quickly subsides"
+      "title": "The economy slowed sharply even before the Iran war. Where does it go from here?"
     },
     {
       "source": "MarketWatch",
-      "title": "The shaky Trump-Iran cease-fire means being ready to exit any \u2018war\u2019s over\u2019 rally"
+      "title": "Big Tech stocks look like especially good deals as investors eye what is next for the market"
     }
   ]
 }
