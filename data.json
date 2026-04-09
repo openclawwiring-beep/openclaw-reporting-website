@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 09 2026  15:05 PT",
+  "generated_at": "Thursday, April 09 2026  16:08 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4790.5,
-      "change_pct": 1.17
+      "price": 4786.8,
+      "change_pct": 1.09
     },
     "Oil (WTI)": {
-      "price": 97.98,
-      "change_pct": 0.81
+      "price": 98.97,
+      "change_pct": 1.83
     },
     "Silver": {
-      "price": 75.47,
-      "change_pct": 1.9
+      "price": 75.41,
+      "change_pct": 1.81
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72310,
-      "change_pct": 1.09
+      "price": 71965,
+      "change_pct": 1.33
     },
     "ETH": {
-      "price": 2212.0,
-      "change_pct": 0.03
+      "price": 2199.11,
+      "change_pct": 0.7
     },
     "SOL": {
-      "price": 84.25,
-      "change_pct": 1.2
+      "price": 83.95,
+      "change_pct": 1.96
     },
     "BNB": {
-      "price": 606.96,
-      "change_pct": 0.13
+      "price": 606.05,
+      "change_pct": 0.41
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Netflix, big banks face a moment of truth as the Iran cease-fire rally meets earnings season"
+      "title": "\u2018I feel pressured\u2019: My husband has early Alzheimer\u2019s and wants to visit Europe, but I\u2019m terrified of flying. What should I do?"
     },
     {
       "source": "MarketWatch",
-      "title": "Has the cease-fire rally pushed stocks too high, too quickly?"
+      "title": "Netflix, big banks face a moment of truth as the Iran cease-fire rally meets earnings season"
     }
   ]
 }
