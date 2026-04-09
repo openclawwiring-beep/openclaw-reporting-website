@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 09 2026  03:58 PT",
+  "generated_at": "Thursday, April 09 2026  04:58 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4767.6,
-      "change_pct": 0.69
+      "price": 4781.5,
+      "change_pct": 0.98
     },
     "Oil (WTI)": {
-      "price": 99.15,
-      "change_pct": 2.02
+      "price": 98.59,
+      "change_pct": 1.44
     },
     "Silver": {
-      "price": 74.21,
-      "change_pct": 0.19
+      "price": 74.61,
+      "change_pct": 0.74
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71348,
-      "change_pct": -0.21
+      "price": 71170,
+      "change_pct": -0.71
     },
     "ETH": {
-      "price": 2193.89,
-      "change_pct": -2.24
+      "price": 2180.69,
+      "change_pct": -2.95
     },
     "SOL": {
-      "price": 82.6,
-      "change_pct": -2.32
+      "price": 82.23,
+      "change_pct": -2.62
     },
     "BNB": {
-      "price": 602.7,
-      "change_pct": -1.54
+      "price": 602.44,
+      "change_pct": -1.69
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Britain to call for toll-free Strait of Hormuz, says Lebanon must be part of Iran ceasefire"
+      "title": "Meta commits to spending additional $21 billion with CoreWeave as AI costs keep rising"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I feel pressured\u2019: My husband has early Alzheimer\u2019s and wants to visit Europe, but I\u2019m terrified of flying. What should I do?"
+      "title": "You think Iran is only about oil? No, it\u2019s also about your dinner table."
     },
     {
       "source": "MarketWatch",
-      "title": "We\u2019re in our 70s with no heirs. I like donating $30,000 from our $700,000 IRA to charity \u2014 my husband disagrees. Who\u2019s right?"
+      "title": "An earnings boom is around the corner, and it could blindside the stock-market bears"
     }
   ]
 }
