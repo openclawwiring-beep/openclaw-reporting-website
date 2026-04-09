@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, April 09 2026  04:58 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, April 09 2026  07:04 PT",
+  "market_status": "Live \u2014 as of 10:04 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6782.81,
-      "change_pct": 2.51
+      "price": 6776.57,
+      "change_pct": -0.1
     },
     "Nasdaq": {
-      "price": 22634.99,
-      "change_pct": 2.8
+      "price": 22584.84,
+      "change_pct": -0.22
     },
     "Dow Jones": {
-      "price": 47909.92,
-      "change_pct": 2.85
+      "price": 47863.16,
+      "change_pct": -0.11
     },
     "Russell 2000": {
-      "price": 2620.46,
-      "change_pct": 2.97
+      "price": 2620.79,
+      "change_pct": 0.01
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4781.5,
-      "change_pct": 0.98
+      "price": 4790.0,
+      "change_pct": 1.16
     },
     "Oil (WTI)": {
-      "price": 98.59,
-      "change_pct": 1.44
+      "price": 100.33,
+      "change_pct": 3.23
     },
     "Silver": {
-      "price": 74.61,
-      "change_pct": 0.74
+      "price": 75.18,
+      "change_pct": 1.49
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71170,
-      "change_pct": -0.71
+      "price": 70745,
+      "change_pct": -1.29
     },
     "ETH": {
-      "price": 2180.69,
-      "change_pct": -2.95
+      "price": 2163.86,
+      "change_pct": -3.33
     },
     "SOL": {
-      "price": 82.23,
-      "change_pct": -2.62
+      "price": 81.78,
+      "change_pct": -2.66
     },
     "BNB": {
-      "price": 602.44,
-      "change_pct": -1.69
+      "price": 600.28,
+      "change_pct": -1.21
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says U.S. ready for 'next conquest,' warns military to remain near Iran until 'real agreement' is honored"
+      "title": "The Strait of Hormuz is not open as Iran controls access after ceasefire, UAE oil CEO says"
     },
     {
       "source": "CNBC",
-      "title": "Meta commits to spending additional $21 billion with CoreWeave as AI costs keep rising"
+      "title": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows"
     },
     {
       "source": "MarketWatch",
-      "title": "You think Iran is only about oil? No, it\u2019s also about your dinner table."
+      "title": "CoreWeave\u2019s stock dips as the hype around new Meta deal quickly subsides"
     },
     {
       "source": "MarketWatch",
-      "title": "An earnings boom is around the corner, and it could blindside the stock-market bears"
+      "title": "The shaky Trump-Iran cease-fire means being ready to exit any \u2018war\u2019s over\u2019 rally"
     }
   ]
 }
