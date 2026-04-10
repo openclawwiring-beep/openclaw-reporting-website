@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 09 2026  17:01 PT",
+  "generated_at": "Thursday, April 09 2026  20:46 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4785.7,
-      "change_pct": 1.07
+      "price": 4787.3,
+      "change_pct": 1.1
     },
     "Oil (WTI)": {
-      "price": 98.48,
-      "change_pct": 1.33
+      "price": 98.46,
+      "change_pct": 1.31
     },
     "Silver": {
-      "price": 75.53,
-      "change_pct": 1.96
+      "price": 75.96,
+      "change_pct": 2.55
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71775,
-      "change_pct": 1.09
+      "price": 71922,
+      "change_pct": 1.43
     },
     "ETH": {
-      "price": 2189.17,
-      "change_pct": 0.0
+      "price": 2187.47,
+      "change_pct": 0.42
     },
     "SOL": {
-      "price": 83.3,
-      "change_pct": 1.0
+      "price": 82.96,
+      "change_pct": 1.11
     },
     "BNB": {
-      "price": 603.08,
-      "change_pct": 0.43
+      "price": 601.17,
+      "change_pct": 0.14
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Meta's long-awaited AI model is finally here. But can it make money?"
+      "title": "Kevin Warsh Fed chair confirmation plan hits snag as nomination hearing is delayed"
     },
     {
       "source": "CNBC",
-      "title": "Iran attacks on crucial Saudi pipeline and production facilities slash kingdom's oil output"
+      "title": "Meta's long-awaited AI model is finally here. But can it make money?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I plan to exit corporate life\u2019: I\u2019m 50 and have $400,000. My wife is a teacher. Can I retire at 55?"
+      "title": "Your grocery bill will be the next casualty of the Iran war. These investment moves can counter food inflation."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I feel pressured\u2019: My husband has early Alzheimer\u2019s and wants to visit Europe, but I\u2019m terrified of flying. What should I do?"
+      "title": "\u2018I worked very hard\u2019: I\u2019m 71 and have $6 million after scrimping and saving. My son, 33, wants money for a house. Do I say yes?"
     }
   ]
 }
