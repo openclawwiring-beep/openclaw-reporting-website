@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, April 10 2026  08:52 PT",
-  "market_status": "Live \u2014 as of 11:52 ET",
+  "generated_at": "Friday, April 10 2026  09:51 PT",
+  "market_status": "Live \u2014 as of 12:51 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6823.38,
-      "change_pct": -0.01
+      "price": 6816.78,
+      "change_pct": -0.1
     },
     "Nasdaq": {
-      "price": 22911.01,
-      "change_pct": 0.39
+      "price": 22877.12,
+      "change_pct": 0.24
     },
     "Dow Jones": {
-      "price": 47975.52,
-      "change_pct": -0.43
+      "price": 47913.53,
+      "change_pct": -0.56
     },
     "Russell 2000": {
-      "price": 2635.95,
-      "change_pct": -0.01
+      "price": 2625.62,
+      "change_pct": -0.4
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4787.2,
-      "change_pct": -0.04
+      "price": 4783.7,
+      "change_pct": -0.11
     },
     "Oil (WTI)": {
-      "price": 99.24,
-      "change_pct": 1.48
+      "price": 98.77,
+      "change_pct": 1.0
     },
     "Silver": {
-      "price": 76.21,
-      "change_pct": 0.35
+      "price": 76.15,
+      "change_pct": 0.27
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72568,
-      "change_pct": 0.55
+      "price": 72794,
+      "change_pct": 1.4
     },
     "ETH": {
-      "price": 2227.7,
-      "change_pct": 0.49
+      "price": 2240.61,
+      "change_pct": 1.76
     },
     "SOL": {
-      "price": 84.47,
-      "change_pct": 1.28
+      "price": 84.67,
+      "change_pct": 1.84
     },
     "BNB": {
-      "price": 603.85,
-      "change_pct": -0.45
+      "price": 605.37,
+      "change_pct": 0.22
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Here's the inflation breakdown for March 2026 \u2014 in one chart"
+      "title": "Trump praises Palantir with stock down 14% this week as Iran conflict drags on"
     },
     {
       "source": "MarketWatch",
-      "title": "You have until April 15 to claim this $8,000 Roth IRA freebie \u2014 no matter what your income"
+      "title": "\u2018Tip of the inflation iceberg\u2019: Social Security\u2019s COLA forecast rises to 3.2%"
     },
     {
       "source": "MarketWatch",
-      "title": "Palo Alto Networks\u2019 stock leads another dramatic software selloff. Here\u2019s what investors need to know."
+      "title": "Nvidia\u2019s stock extends its hot streak \u2014\u00a0and that\u2019s great news for the S&P 500"
     }
   ]
 }
