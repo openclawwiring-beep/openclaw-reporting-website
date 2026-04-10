@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, April 10 2026  14:36 PT",
+  "generated_at": "Friday, April 10 2026  15:36 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 73059,
-      "change_pct": 1.15
+      "price": 72992,
+      "change_pct": 0.83
     },
     "ETH": {
-      "price": 2247.01,
-      "change_pct": 1.71
+      "price": 2247.29,
+      "change_pct": 1.49
     },
     "SOL": {
-      "price": 85.04,
-      "change_pct": 0.89
+      "price": 85.01,
+      "change_pct": 0.16
     },
     "BNB": {
-      "price": 608.2,
-      "change_pct": 0.11
+      "price": 607.08,
+      "change_pct": -0.13
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Americans would love this $25,000 hybrid SUV \u2014 but it\u2019s not available here yet"
+      "title": "Are you a \u2018HENRY\u2019? Why 90% of financial advisers will waive their minimums to get your business."
     },
     {
       "source": "MarketWatch",
-      "title": "Investors are gloomy about inflation and risk-taking ahead of Saturday\u2019s Iran talks"
+      "title": "How chaotic do your fellow passengers need to be for an airline to give you compensation?"
     }
   ]
 }
