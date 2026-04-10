@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, April 10 2026  13:36 PT",
+  "generated_at": "Friday, April 10 2026  14:36 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4766.4,
-      "change_pct": -0.47
+      "price": 4771.0,
+      "change_pct": -0.38
     },
     "Oil (WTI)": {
-      "price": 95.71,
-      "change_pct": -2.13
+      "price": 95.63,
+      "change_pct": -2.21
     },
     "Silver": {
-      "price": 76.21,
-      "change_pct": 0.34
+      "price": 76.03,
+      "change_pct": 0.1
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73256,
-      "change_pct": 1.2
+      "price": 73059,
+      "change_pct": 1.15
     },
     "ETH": {
-      "price": 2252.14,
-      "change_pct": 1.53
+      "price": 2247.01,
+      "change_pct": 1.71
     },
     "SOL": {
-      "price": 85.44,
-      "change_pct": 1.28
+      "price": 85.04,
+      "change_pct": 0.89
     },
     "BNB": {
-      "price": 609.73,
-      "change_pct": 0.09
+      "price": 608.2,
+      "change_pct": 0.11
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s the real cost of economy airfare after all the fees. \u2018What\u2019s next \u2014 an add-on for access to the bathroom?\u2019"
+      "title": "Americans would love this $25,000 hybrid SUV \u2014 but it\u2019s not available here yet"
     },
     {
       "source": "MarketWatch",
-      "title": "Nike\u2019s stock hits 12-year low, as some analysts are losing faith in management"
+      "title": "Investors are gloomy about inflation and risk-taking ahead of Saturday\u2019s Iran talks"
     }
   ]
 }
