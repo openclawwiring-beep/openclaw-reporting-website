@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, April 10 2026  10:47 PT",
-  "market_status": "Live \u2014 as of 13:47 ET",
+  "generated_at": "Friday, April 10 2026  11:51 PT",
+  "market_status": "Live \u2014 as of 14:51 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6815.55,
-      "change_pct": -0.12
+      "price": 6815.13,
+      "change_pct": -0.13
     },
     "Nasdaq": {
-      "price": 22870.24,
-      "change_pct": 0.21
+      "price": 22877.46,
+      "change_pct": 0.24
     },
     "Dow Jones": {
-      "price": 47922.62,
-      "change_pct": -0.54
+      "price": 47934.79,
+      "change_pct": -0.51
     },
     "Russell 2000": {
-      "price": 2625.58,
-      "change_pct": -0.4
+      "price": 2630.84,
+      "change_pct": -0.2
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4783.3,
-      "change_pct": -0.12
+      "price": 4794.3,
+      "change_pct": 0.11
     },
     "Oil (WTI)": {
-      "price": 98.3,
-      "change_pct": 0.52
+      "price": 96.25,
+      "change_pct": -1.57
     },
     "Silver": {
-      "price": 76.43,
-      "change_pct": 0.64
+      "price": 76.57,
+      "change_pct": 0.82
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72954,
-      "change_pct": 0.76
+      "price": 72997,
+      "change_pct": 1.58
     },
     "ETH": {
-      "price": 2242.92,
-      "change_pct": 0.98
+      "price": 2246.39,
+      "change_pct": 1.82
     },
     "SOL": {
-      "price": 84.6,
-      "change_pct": 0.18
+      "price": 84.98,
+      "change_pct": 1.36
     },
     "BNB": {
-      "price": 606.17,
-      "change_pct": -0.35
+      "price": 608.71,
+      "change_pct": 0.42
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump praises Palantir with stock down 14% this week as Iran conflict drags on"
+      "title": "Trump praises Palantir with stock down 15% this week as Iran conflict drags on"
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla is approaching a major milestone \u2014 but it may not be enough to lift the stock"
+      "title": "Buying a car out of state can save you thousands of dollars \u2014 but ask these 3 questions first"
     },
     {
       "source": "MarketWatch",
-      "title": "AI spending will boost productivity \u2014 but first it\u2019ll make even the most efficient firms look like slackers"
+      "title": "There are years-long waiting lists to retire on college campuses. 6 steps to take before enrolling."
     }
   ]
 }
