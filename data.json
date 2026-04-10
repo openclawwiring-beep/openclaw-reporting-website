@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, April 10 2026  02:08 PT",
+  "generated_at": "Friday, April 10 2026  03:33 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4764.6,
-      "change_pct": -0.51
+      "price": 4778.4,
+      "change_pct": -0.22
     },
     "Oil (WTI)": {
-      "price": 100.25,
-      "change_pct": 2.52
+      "price": 98.6,
+      "change_pct": 0.83
     },
     "Silver": {
-      "price": 74.99,
-      "change_pct": -1.26
+      "price": 75.57,
+      "change_pct": -0.49
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71685,
-      "change_pct": 0.7
+      "price": 71749,
+      "change_pct": 0.52
     },
     "ETH": {
-      "price": 2188.83,
-      "change_pct": 0.38
+      "price": 2192.17,
+      "change_pct": -0.04
     },
     "SOL": {
-      "price": 83.01,
-      "change_pct": 0.78
+      "price": 83.28,
+      "change_pct": 0.91
     },
     "BNB": {
-      "price": 601.24,
-      "change_pct": 0.17
+      "price": 600.72,
+      "change_pct": -0.14
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "TSMC posts 35% jump in revenue to new record high as AI chip demand stays strong"
+      "title": "U.S. oil climbs above $100 as U.S.-Iran ceasefire fails to boost tanker traffic via Strait of Hormuz"
     },
     {
       "source": "CNBC",
-      "title": "Kevin Warsh Fed chair confirmation plan hits snag as nomination hearing is delayed"
+      "title": "TSMC posts 35% jump in revenue to new record high as AI chip demand stays strong"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Crime 101\u2019 actor Tate Donovan lists lush Texas Hill Country property for $1.7 million"
+      "title": "TSMC reports forecast-beating revenue, as AI chip demand defies geopolitical tensions"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I plan to exit corporate life\u2019: I\u2019m 50 and have $400,000. My wife is a teacher. Can I retire at 55?"
+      "title": "Global chaos is now a permanent guest in your portfolio. Why big tech and emerging markets are essential, says this strategist"
     }
   ]
 }
