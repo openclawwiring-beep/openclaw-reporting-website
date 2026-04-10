@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 09 2026  22:57 PT",
+  "generated_at": "Friday, April 10 2026  00:50 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4789.6,
-      "change_pct": -0.08
+      "price": 4780.3,
+      "change_pct": -0.18
     },
     "Oil (WTI)": {
-      "price": 98.54,
-      "change_pct": -0.15
+      "price": 99.73,
+      "change_pct": 1.98
     },
     "Silver": {
-      "price": 76.13,
-      "change_pct": 0.48
+      "price": 75.77,
+      "change_pct": -0.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72104,
-      "change_pct": 1.6
+      "price": 71654,
+      "change_pct": 0.95
     },
     "ETH": {
-      "price": 2196.86,
-      "change_pct": 0.7
+      "price": 2183.78,
+      "change_pct": 0.13
     },
     "SOL": {
-      "price": 83.36,
-      "change_pct": 1.5
+      "price": 83.1,
+      "change_pct": 0.95
     },
     "BNB": {
-      "price": 601.94,
-      "change_pct": 0.28
+      "price": 600.49,
+      "change_pct": 0.01
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Meta's long-awaited AI model is finally here. But can it make money?"
+      "title": "What this real-world oil price says about the level of stress in the energy market"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Has the cease-fire rally pushed stocks too high, too quickly?"
     },
     {
       "source": "MarketWatch",
       "title": "Your grocery bill will be the next casualty of the Iran war. These investment moves can counter food inflation."
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018I worked very hard\u2019: I\u2019m 71 and have $6 million after scrimping and saving. My son, 33, wants money for a house. Do I say yes?"
     }
   ]
 }
