@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, April 10 2026  04:48 PT",
+  "generated_at": "Friday, April 10 2026  06:08 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4785.6,
-      "change_pct": -0.07
+      "price": 4795.0,
+      "change_pct": 0.12
     },
     "Oil (WTI)": {
-      "price": 97.97,
-      "change_pct": 0.18
+      "price": 97.96,
+      "change_pct": 0.17
     },
     "Silver": {
-      "price": 75.69,
-      "change_pct": -0.34
+      "price": 76.0,
+      "change_pct": 0.07
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72168,
-      "change_pct": 1.36
+      "price": 72219,
+      "change_pct": 1.53
     },
     "ETH": {
-      "price": 2219.12,
-      "change_pct": 1.7
+      "price": 2217.66,
+      "change_pct": 1.8
     },
     "SOL": {
-      "price": 83.61,
-      "change_pct": 1.6
+      "price": 84.0,
+      "change_pct": 2.13
     },
     "BNB": {
-      "price": 602.54,
-      "change_pct": 0.06
+      "price": 602.59,
+      "change_pct": 0.01
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. oil slips below $100 as Trump demands reopening of Strait of Hormuz"
+      "title": "Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict"
     },
     {
       "source": "CNBC",
-      "title": "TSMC posts 35% jump in revenue to new record high as AI chip demand stays strong"
+      "title": "Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major U.S. banks"
     },
     {
       "source": "MarketWatch",
-      "title": "My second husband will leave me $540,000 if I bequeath him my $130,000 net worth. What will happen to my two sons?"
+      "title": "CoreWeave\u2019s stock pops as new Anthropic deal highlights intense scramble for AI compute"
     },
     {
       "source": "MarketWatch",
-      "title": "Wall Street\u2019s fear gauge just flashed an unusual signal that could carry the S&P 500 to 7,400 within months"
+      "title": "Global chaos has become a permanent guest in your portfolio. This strategist says Big Tech and emerging markets are now essentials."
     }
   ]
 }
