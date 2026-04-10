@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, April 10 2026  12:43 PT",
-  "market_status": "Live \u2014 as of 15:43 ET",
+  "generated_at": "Friday, April 10 2026  13:36 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6811.42,
-      "change_pct": -0.18
+      "price": 6816.89,
+      "change_pct": -0.11
     },
     "Nasdaq": {
-      "price": 22884.36,
-      "change_pct": 0.27
+      "price": 22902.89,
+      "change_pct": 0.35
     },
     "Dow Jones": {
-      "price": 47866.83,
-      "change_pct": -0.66
+      "price": 47916.57,
+      "change_pct": -0.56
     },
     "Russell 2000": {
-      "price": 2632.74,
-      "change_pct": -0.13
+      "price": 2630.59,
+      "change_pct": -0.22
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4787.6,
-      "change_pct": -0.03
+      "price": 4766.4,
+      "change_pct": -0.47
     },
     "Oil (WTI)": {
-      "price": 96.14,
-      "change_pct": -1.69
+      "price": 95.71,
+      "change_pct": -2.13
     },
     "Silver": {
-      "price": 76.57,
-      "change_pct": 0.81
+      "price": 76.21,
+      "change_pct": 0.34
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72958,
-      "change_pct": 1.21
+      "price": 73256,
+      "change_pct": 1.2
     },
     "ETH": {
-      "price": 2245.37,
-      "change_pct": 1.28
+      "price": 2252.14,
+      "change_pct": 1.53
     },
     "SOL": {
-      "price": 85.18,
-      "change_pct": 1.42
+      "price": 85.44,
+      "change_pct": 1.28
     },
     "BNB": {
-      "price": 608.63,
-      "change_pct": 0.03
+      "price": 609.73,
+      "change_pct": 0.09
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump praises Palantir with stock down 15% this week as Iran conflict drags on"
+      "title": "Trump praises Palantir as stock has worst week in over a year and Iran conflict drags on"
     },
     {
       "source": "MarketWatch",
-      "title": "What\u2019s at stake for markets as the U.S. and Iran talk this weekend"
+      "title": "Here\u2019s the real cost of economy airfare after all the fees. \u2018What\u2019s next \u2014 an add-on for access to the bathroom?\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "Marvell\u2019s stock is soaring toward its first fresh high in a year. Here\u2019s what\u2019s driving the momentum."
+      "title": "Nike\u2019s stock hits 12-year low, as some analysts are losing faith in management"
     }
   ]
 }
