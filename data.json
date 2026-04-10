@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, April 10 2026  00:50 PT",
+  "generated_at": "Friday, April 10 2026  02:08 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4780.3,
-      "change_pct": -0.18
+      "price": 4764.6,
+      "change_pct": -0.51
     },
     "Oil (WTI)": {
-      "price": 99.73,
-      "change_pct": 1.98
+      "price": 100.25,
+      "change_pct": 2.52
     },
     "Silver": {
-      "price": 75.77,
-      "change_pct": -0.24
+      "price": 74.99,
+      "change_pct": -1.26
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71654,
-      "change_pct": 0.95
+      "price": 71685,
+      "change_pct": 0.7
     },
     "ETH": {
-      "price": 2183.78,
-      "change_pct": 0.13
+      "price": 2188.83,
+      "change_pct": 0.38
     },
     "SOL": {
-      "price": 83.1,
-      "change_pct": 0.95
+      "price": 83.01,
+      "change_pct": 0.78
     },
     "BNB": {
-      "price": 600.49,
-      "change_pct": 0.01
+      "price": 601.24,
+      "change_pct": 0.17
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Kevin Warsh Fed chair confirmation plan hits snag as nomination hearing is delayed"
+      "title": "TSMC posts 35% jump in revenue to new record high as AI chip demand stays strong"
     },
     {
       "source": "CNBC",
-      "title": "What this real-world oil price says about the level of stress in the energy market"
+      "title": "Kevin Warsh Fed chair confirmation plan hits snag as nomination hearing is delayed"
     },
     {
       "source": "MarketWatch",
-      "title": "Has the cease-fire rally pushed stocks too high, too quickly?"
+      "title": "\u2018Crime 101\u2019 actor Tate Donovan lists lush Texas Hill Country property for $1.7 million"
     },
     {
       "source": "MarketWatch",
-      "title": "Your grocery bill will be the next casualty of the Iran war. These investment moves can counter food inflation."
+      "title": "\u2018I plan to exit corporate life\u2019: I\u2019m 50 and have $400,000. My wife is a teacher. Can I retire at 55?"
     }
   ]
 }
