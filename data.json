@@ -1,60 +1,60 @@
 {
-  "generated_at": "Friday, April 10 2026  11:51 PT",
-  "market_status": "Live \u2014 as of 14:51 ET",
+  "generated_at": "Friday, April 10 2026  12:43 PT",
+  "market_status": "Live \u2014 as of 15:43 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6815.13,
-      "change_pct": -0.13
+      "price": 6811.42,
+      "change_pct": -0.18
     },
     "Nasdaq": {
-      "price": 22877.46,
-      "change_pct": 0.24
+      "price": 22884.36,
+      "change_pct": 0.27
     },
     "Dow Jones": {
-      "price": 47934.79,
-      "change_pct": -0.51
+      "price": 47866.83,
+      "change_pct": -0.66
     },
     "Russell 2000": {
-      "price": 2630.84,
-      "change_pct": -0.2
+      "price": 2632.74,
+      "change_pct": -0.13
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4794.3,
-      "change_pct": 0.11
+      "price": 4787.6,
+      "change_pct": -0.03
     },
     "Oil (WTI)": {
-      "price": 96.25,
-      "change_pct": -1.57
+      "price": 96.14,
+      "change_pct": -1.69
     },
     "Silver": {
       "price": 76.57,
-      "change_pct": 0.82
+      "change_pct": 0.81
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72997,
-      "change_pct": 1.58
+      "price": 72958,
+      "change_pct": 1.21
     },
     "ETH": {
-      "price": 2246.39,
-      "change_pct": 1.82
+      "price": 2245.37,
+      "change_pct": 1.28
     },
     "SOL": {
-      "price": 84.98,
-      "change_pct": 1.36
+      "price": 85.18,
+      "change_pct": 1.42
     },
     "BNB": {
-      "price": 608.71,
-      "change_pct": 0.42
+      "price": 608.63,
+      "change_pct": 0.03
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Consumer sentiment hits record low, inflation fears rise amid Iran war"
+      "title": "Here's the inflation breakdown for March 2026 \u2014 in one chart"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Buying a car out of state can save you thousands of dollars \u2014 but ask these 3 questions first"
+      "title": "What\u2019s at stake for markets as the U.S. and Iran talk this weekend"
     },
     {
       "source": "MarketWatch",
-      "title": "There are years-long waiting lists to retire on college campuses. 6 steps to take before enrolling."
+      "title": "Marvell\u2019s stock is soaring toward its first fresh high in a year. Here\u2019s what\u2019s driving the momentum."
     }
   ]
 }
