@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 09 2026  16:08 PT",
+  "generated_at": "Thursday, April 09 2026  17:01 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4786.8,
-      "change_pct": 1.09
+      "price": 4785.7,
+      "change_pct": 1.07
     },
     "Oil (WTI)": {
-      "price": 98.97,
-      "change_pct": 1.83
+      "price": 98.48,
+      "change_pct": 1.33
     },
     "Silver": {
-      "price": 75.41,
-      "change_pct": 1.81
+      "price": 75.53,
+      "change_pct": 1.96
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71965,
-      "change_pct": 1.33
+      "price": 71775,
+      "change_pct": 1.09
     },
     "ETH": {
-      "price": 2199.11,
-      "change_pct": 0.7
+      "price": 2189.17,
+      "change_pct": 0.0
     },
     "SOL": {
-      "price": 83.95,
-      "change_pct": 1.96
+      "price": 83.3,
+      "change_pct": 1.0
     },
     "BNB": {
-      "price": 606.05,
-      "change_pct": 0.41
+      "price": 603.08,
+      "change_pct": 0.43
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I feel pressured\u2019: My husband has early Alzheimer\u2019s and wants to visit Europe, but I\u2019m terrified of flying. What should I do?"
+      "title": "\u2018I plan to exit corporate life\u2019: I\u2019m 50 and have $400,000. My wife is a teacher. Can I retire at 55?"
     },
     {
       "source": "MarketWatch",
-      "title": "Netflix, big banks face a moment of truth as the Iran cease-fire rally meets earnings season"
+      "title": "\u2018I feel pressured\u2019: My husband has early Alzheimer\u2019s and wants to visit Europe, but I\u2019m terrified of flying. What should I do?"
     }
   ]
 }
