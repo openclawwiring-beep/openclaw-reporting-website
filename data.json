@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, April 10 2026  07:33 PT",
-  "market_status": "Live \u2014 as of 10:33 ET",
+  "generated_at": "Friday, April 10 2026  08:52 PT",
+  "market_status": "Live \u2014 as of 11:52 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6841.49,
-      "change_pct": 0.26
+      "price": 6823.38,
+      "change_pct": -0.01
     },
     "Nasdaq": {
-      "price": 22986.53,
-      "change_pct": 0.72
+      "price": 22911.01,
+      "change_pct": 0.39
     },
     "Dow Jones": {
-      "price": 48097.1,
-      "change_pct": -0.18
+      "price": 47975.52,
+      "change_pct": -0.43
     },
     "Russell 2000": {
-      "price": 2635.48,
-      "change_pct": -0.03
+      "price": 2635.95,
+      "change_pct": -0.01
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4812.6,
-      "change_pct": 0.49
+      "price": 4787.2,
+      "change_pct": -0.04
     },
     "Oil (WTI)": {
-      "price": 97.64,
-      "change_pct": -0.15
+      "price": 99.24,
+      "change_pct": 1.48
     },
     "Silver": {
-      "price": 76.86,
-      "change_pct": 1.2
+      "price": 76.21,
+      "change_pct": 0.35
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73079,
-      "change_pct": 3.48
+      "price": 72568,
+      "change_pct": 0.55
     },
     "ETH": {
-      "price": 2248.17,
-      "change_pct": 3.99
+      "price": 2227.7,
+      "change_pct": 0.49
     },
     "SOL": {
-      "price": 85.14,
-      "change_pct": 4.44
+      "price": 84.47,
+      "change_pct": 1.28
     },
     "BNB": {
-      "price": 606.83,
-      "change_pct": 1.27
+      "price": 603.85,
+      "change_pct": -0.45
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict"
+      "title": "Here's the inflation breakdown for March 2026 \u2014 in one chart"
     },
     {
       "source": "MarketWatch",
-      "title": "Social Security needs modest revenue increases and benefit cuts \u2014 not extreme borrowing"
+      "title": "You have until April 15 to claim this $8,000 Roth IRA freebie \u2014 no matter what your income"
     },
     {
       "source": "MarketWatch",
-      "title": "Americans blame Iran war for worsening economic outlook, pushing sentiment down to  record low"
+      "title": "Palo Alto Networks\u2019 stock leads another dramatic software selloff. Here\u2019s what investors need to know."
     }
   ]
 }
