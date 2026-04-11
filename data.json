@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 11 2026  11:43 PT",
+  "generated_at": "Saturday, April 11 2026  12:34 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 73555,
-      "change_pct": 0.8
+      "price": 73725,
+      "change_pct": 1.03
     },
     "ETH": {
-      "price": 2297.78,
-      "change_pct": 2.32
+      "price": 2324.95,
+      "change_pct": 3.52
     },
     "SOL": {
-      "price": 85.51,
-      "change_pct": 0.66
+      "price": 86.14,
+      "change_pct": 1.11
     },
     "BNB": {
-      "price": 610.99,
-      "change_pct": 0.45
+      "price": 613.88,
+      "change_pct": 0.84
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "United Airlines wants even higher ticket prices. It\u2019ll get them \u2014 with or without the Iran war."
+      "title": "Here are some bargain bank stocks heading into earnings season"
     },
     {
       "source": "MarketWatch",
-      "title": "Mortgage rates dip following Iran cease-fire. Why that\u2019s great timing for people selling a home."
+      "title": "There are years-long waiting lists to retire on college campuses. 6 steps to take before enrolling."
     }
   ]
 }
