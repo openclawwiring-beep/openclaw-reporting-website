@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 11 2026  03:33 PT",
+  "generated_at": "Saturday, April 11 2026  04:29 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 72892,
-      "change_pct": 1.58
+      "price": 72870,
+      "change_pct": 0.96
     },
     "ETH": {
-      "price": 2242.26,
-      "change_pct": 2.27
+      "price": 2240.48,
+      "change_pct": 1.14
     },
     "SOL": {
-      "price": 84.29,
-      "change_pct": 1.22
+      "price": 84.1,
+      "change_pct": 0.59
     },
     "BNB": {
-      "price": 606.31,
-      "change_pct": 1.0
+      "price": 605.11,
+      "change_pct": 0.56
     }
   },
   "headlines": [
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Are you a \u2018HENRY\u2019? Why 90% of financial advisers will waive their minimums to get your business."
+      "title": "Will AI start \u2018going rogue\u2019? The chorus of warnings is getting louder."
     }
   ]
 }
