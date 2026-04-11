@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 11 2026  04:29 PT",
+  "generated_at": "Saturday, April 11 2026  04:55 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 72870,
-      "change_pct": 0.96
+      "price": 72910,
+      "change_pct": 1.1
     },
     "ETH": {
-      "price": 2240.48,
-      "change_pct": 1.14
+      "price": 2246.99,
+      "change_pct": 1.39
     },
     "SOL": {
-      "price": 84.1,
-      "change_pct": 0.59
+      "price": 84.21,
+      "change_pct": 0.69
     },
     "BNB": {
-      "price": 605.11,
-      "change_pct": 0.56
+      "price": 605.42,
+      "change_pct": 0.48
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Here's the inflation breakdown for March 2026 \u2014 in one chart"
+      "title": "Berkshire electric utility's court win could save it billions"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "It\u2019s been one of Wall Street\u2019s most heated AI debates \u2014 and it may be totally missing the point"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018I am at a crossroads\u2019: I\u2019m 37 and have $1.3 million. Do I stop working to spend time with my young kids?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Will AI start \u2018going rogue\u2019? The chorus of warnings is getting louder."
     }
   ]
 }
