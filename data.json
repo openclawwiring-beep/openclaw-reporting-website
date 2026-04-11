@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, April 10 2026  16:34 PT",
+  "generated_at": "Friday, April 10 2026  19:09 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 72884,
-      "change_pct": 1.64
+      "price": 72962,
+      "change_pct": 1.03
     },
     "ETH": {
-      "price": 2242.94,
-      "change_pct": 2.54
+      "price": 2244.35,
+      "change_pct": 2.22
     },
     "SOL": {
-      "price": 84.85,
-      "change_pct": 1.87
+      "price": 84.68,
+      "change_pct": 1.76
     },
     "BNB": {
-      "price": 606.25,
-      "change_pct": 0.57
+      "price": 605.02,
+      "change_pct": 0.32
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Are you a \u2018HENRY\u2019? Why 90% of financial advisers will waive their minimums to get your business."
+      "title": "\u2018I am at a crossroads\u2019: I\u2019m 37 and have $1.3 million. Do I stop working to spend time with my young kids?"
     },
     {
       "source": "MarketWatch",
-      "title": "How chaotic do your fellow passengers need to be for an airline to give you compensation?"
+      "title": "Are you a \u2018HENRY\u2019? Why 90% of financial advisers will waive their minimums to get your business."
     }
   ]
 }
