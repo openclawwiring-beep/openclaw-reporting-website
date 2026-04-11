@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 11 2026  02:39 PT",
+  "generated_at": "Saturday, April 11 2026  03:33 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 72850,
-      "change_pct": 1.4
+      "price": 72892,
+      "change_pct": 1.58
     },
     "ETH": {
-      "price": 2244.5,
-      "change_pct": 2.31
+      "price": 2242.26,
+      "change_pct": 2.27
     },
     "SOL": {
-      "price": 84.67,
-      "change_pct": 1.53
+      "price": 84.29,
+      "change_pct": 1.22
     },
     "BNB": {
-      "price": 606.99,
-      "change_pct": 0.94
+      "price": 606.31,
+      "change_pct": 1.0
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Here's the inflation breakdown for March 2026 \u2014 in one chart"
+      "title": "U.S.-Iran talks set to begin in Pakistani capital after delegations arrive"
     },
     {
       "source": "CNBC",
-      "title": "U.S.-Iran talks set to begin in Pakistani capital after delegations arrive"
+      "title": "Here's the inflation breakdown for March 2026 \u2014 in one chart"
     },
     {
       "source": "MarketWatch",
