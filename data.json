@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 12 2026  13:35 PT",
+  "generated_at": "Sunday, April 12 2026  14:33 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 71101,
-      "change_pct": -3.02
+      "price": 71298,
+      "change_pct": -2.89
     },
     "ETH": {
-      "price": 2198.85,
-      "change_pct": -4.14
+      "price": 2208.41,
+      "change_pct": -4.03
     },
     "SOL": {
-      "price": 82.11,
-      "change_pct": -3.93
+      "price": 82.66,
+      "change_pct": -3.08
     },
     "BNB": {
-      "price": 592.63,
-      "change_pct": -2.9
+      "price": 595.47,
+      "change_pct": -2.55
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "April\u2019s stock-market rebound is about to face its first major test as earnings season swings into gear"
+      "title": "Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting."
     },
     {
       "source": "MarketWatch",
-      "title": "Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting."
+      "title": "\u2018I feel pressured\u2019: My husband has early Alzheimer\u2019s and wants to visit Europe, but I\u2019m terrified of flying. What should I do?"
     }
   ]
 }
