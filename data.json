@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 12 2026  12:38 PT",
+  "generated_at": "Sunday, April 12 2026  13:35 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 71162,
-      "change_pct": -3.4
+      "price": 71101,
+      "change_pct": -3.02
     },
     "ETH": {
-      "price": 2203.79,
-      "change_pct": -5.0
+      "price": 2198.85,
+      "change_pct": -4.14
     },
     "SOL": {
-      "price": 82.16,
-      "change_pct": -4.57
+      "price": 82.11,
+      "change_pct": -3.93
     },
     "BNB": {
-      "price": 593.17,
-      "change_pct": -3.37
+      "price": 592.63,
+      "change_pct": -2.9
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Hungary's Orban headed for landmark election defeat in early results"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting."
+      "title": "Hungary's Orban concedes landmark defeat to center-right opposition"
     },
     {
       "source": "MarketWatch",
       "title": "April\u2019s stock-market rebound is about to face its first major test as earnings season swings into gear"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting."
     }
   ]
 }
