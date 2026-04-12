@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 12 2026  11:49 PT",
+  "generated_at": "Sunday, April 12 2026  12:38 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 71144,
-      "change_pct": -3.29
+      "price": 71162,
+      "change_pct": -3.4
     },
     "ETH": {
-      "price": 2202.54,
-      "change_pct": -4.29
+      "price": 2203.79,
+      "change_pct": -5.0
     },
     "SOL": {
-      "price": 82.14,
-      "change_pct": -3.94
+      "price": 82.16,
+      "change_pct": -4.57
     },
     "BNB": {
-      "price": 592.69,
-      "change_pct": -2.99
+      "price": 593.17,
+      "change_pct": -3.37
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Hungary opposition Tisza could win election, final opinion polls suggest"
+      "title": "Hungary's Orban headed for landmark election defeat in early results"
     },
     {
       "source": "MarketWatch",
