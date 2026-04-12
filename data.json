@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 12 2026  15:34 PT",
+  "generated_at": "Sunday, April 12 2026  16:34 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4685.9,
-      "change_pct": -1.78
+      "price": 4670.7,
+      "change_pct": -2.1
     },
     "Oil (WTI)": {
-      "price": 104.45,
-      "change_pct": 8.16
+      "price": 105.17,
+      "change_pct": 8.91
     },
     "Silver": {
-      "price": 73.01,
-      "change_pct": -3.96
+      "price": 73.0,
+      "change_pct": -3.98
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70615,
-      "change_pct": -3.71
+      "price": 70636,
+      "change_pct": -3.4
     },
     "ETH": {
-      "price": 2186.8,
-      "change_pct": -5.0
+      "price": 2188.33,
+      "change_pct": -4.36
     },
     "SOL": {
-      "price": 81.47,
-      "change_pct": -4.61
+      "price": 81.41,
+      "change_pct": -4.28
     },
     "BNB": {
-      "price": 592.09,
-      "change_pct": -3.15
+      "price": 591.64,
+      "change_pct": -2.66
     }
   },
   "headlines": [
@@ -62,7 +62,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Stock-market futures drop, oil surges above $100 after failed talks between U.S. and Iran over the weekend"
+      "title": "Stock-market futures drop, oil surges back above $100 after failed talks between U.S. and Iran over the weekend"
     },
     {
       "source": "MarketWatch",
