@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 12 2026  10:34 PT",
+  "generated_at": "Sunday, April 12 2026  11:49 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 71023,
-      "change_pct": -2.91
+      "price": 71144,
+      "change_pct": -3.29
     },
     "ETH": {
-      "price": 2196.15,
-      "change_pct": -2.97
+      "price": 2202.54,
+      "change_pct": -4.29
     },
     "SOL": {
-      "price": 82.0,
-      "change_pct": -3.44
+      "price": 82.14,
+      "change_pct": -3.94
     },
     "BNB": {
-      "price": 592.42,
-      "change_pct": -2.55
+      "price": 592.69,
+      "change_pct": -2.99
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Berkshire electric utility's court win could save it billions"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "April\u2019s stock-market rebound is about to face its first major test as earnings season swings into gear"
+      "title": "Hungary opposition Tisza could win election, final opinion polls suggest"
     },
     {
       "source": "MarketWatch",
       "title": "Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting."
+    },
+    {
+      "source": "MarketWatch",
+      "title": "April\u2019s stock-market rebound is about to face its first major test as earnings season swings into gear"
     }
   ]
 }
