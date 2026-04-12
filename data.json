@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 12 2026  01:02 PT",
+  "generated_at": "Sunday, April 12 2026  02:11 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 71703,
-      "change_pct": -1.42
+      "price": 71585,
+      "change_pct": -1.48
     },
     "ETH": {
-      "price": 2218.7,
-      "change_pct": -0.64
+      "price": 2213.29,
+      "change_pct": -0.95
     },
     "SOL": {
-      "price": 82.33,
-      "change_pct": -2.28
+      "price": 82.24,
+      "change_pct": -2.36
     },
     "BNB": {
-      "price": 594.44,
-      "change_pct": -1.93
+      "price": 593.72,
+      "change_pct": -2.02
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Here are some bargain bank stocks heading into earnings season"
+      "title": "Vance leaves Pakistan talks with no deal. How financial markets are reacting."
     },
     {
       "source": "MarketWatch",
-      "title": "There are years-long waiting lists to retire on college campuses. 6 steps to take before enrolling."
+      "title": "Here are some bargain bank stocks heading into earnings season"
     }
   ]
 }
