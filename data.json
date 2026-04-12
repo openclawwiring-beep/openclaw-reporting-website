@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 11 2026  16:33 PT",
+  "generated_at": "Saturday, April 11 2026  19:32 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 73131,
-      "change_pct": 0.34
+      "price": 71815,
+      "change_pct": -1.71
     },
     "ETH": {
-      "price": 2287.29,
-      "change_pct": 2.0
+      "price": 2225.66,
+      "change_pct": -1.06
     },
     "SOL": {
-      "price": 85.03,
-      "change_pct": 0.17
+      "price": 82.72,
+      "change_pct": -2.55
     },
     "BNB": {
-      "price": 608.0,
-      "change_pct": 0.3
+      "price": 596.59,
+      "change_pct": -1.63
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S.-Iran peace summit in Pakistan concludes with no deal, talks to continue on Sunday"
+      "title": "Vance to return to the U.S. without striking a deal with Iran to end the war"
     },
     {
       "source": "CNBC",
