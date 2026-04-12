@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 12 2026  08:58 PT",
+  "generated_at": "Sunday, April 12 2026  09:52 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 70906,
-      "change_pct": -2.7
+      "price": 70877,
+      "change_pct": -3.05
     },
     "ETH": {
-      "price": 2186.78,
-      "change_pct": -2.81
+      "price": 2186.21,
+      "change_pct": -3.29
     },
     "SOL": {
-      "price": 81.63,
-      "change_pct": -3.57
+      "price": 81.79,
+      "change_pct": -3.85
     },
     "BNB": {
-      "price": 592.1,
-      "change_pct": -2.28
+      "price": 591.85,
+      "change_pct": -2.64
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting."
+      "title": "April\u2019s stock-market rebound is about to face its first major test as earnings season swings into gear"
     },
     {
       "source": "MarketWatch",
-      "title": "How Beyond Meat sank from a $14 billion plant-based protein powerhouse to a penny stock"
+      "title": "Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting."
     }
   ]
 }
