@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 12 2026  04:56 PT",
+  "generated_at": "Sunday, April 12 2026  06:05 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 71490,
-      "change_pct": -1.96
+      "price": 70969,
+      "change_pct": -2.58
     },
     "ETH": {
-      "price": 2205.35,
-      "change_pct": -1.84
+      "price": 2191.57,
+      "change_pct": -2.33
     },
     "SOL": {
-      "price": 82.23,
-      "change_pct": -2.37
+      "price": 82.02,
+      "change_pct": -2.63
     },
     "BNB": {
-      "price": 595.6,
-      "change_pct": -1.61
+      "price": 591.53,
+      "change_pct": -2.44
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Vance leaves Pakistan talks with no deal. How financial markets are reacting."
+      "title": "How Beyond Meat sank from a $14 billion plant-based protein powerhouse to a penny stock"
     },
     {
       "source": "MarketWatch",
-      "title": "Here are some bargain bank stocks heading into earnings season"
+      "title": "Vance leaves Pakistan talks with no deal. How financial markets are reacting."
     }
   ]
 }
