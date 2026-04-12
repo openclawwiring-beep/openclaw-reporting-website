@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 12 2026  06:05 PT",
+  "generated_at": "Sunday, April 12 2026  07:08 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -33,28 +33,11 @@
       "change_pct": 0.7
     }
   },
-  "crypto": {
-    "BTC": {
-      "price": 70969,
-      "change_pct": -2.58
-    },
-    "ETH": {
-      "price": 2191.57,
-      "change_pct": -2.33
-    },
-    "SOL": {
-      "price": 82.02,
-      "change_pct": -2.63
-    },
-    "BNB": {
-      "price": 591.53,
-      "change_pct": -2.44
-    }
-  },
+  "crypto": {},
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Vance heads back to the U.S. without striking a deal with Iran to bring an end to the war"
+      "title": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail"
     },
     {
       "source": "CNBC",
@@ -62,11 +45,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "How Beyond Meat sank from a $14 billion plant-based protein powerhouse to a penny stock"
+      "title": "Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting."
     },
     {
       "source": "MarketWatch",
-      "title": "Vance leaves Pakistan talks with no deal. How financial markets are reacting."
+      "title": "How Beyond Meat sank from a $14 billion plant-based protein powerhouse to a penny stock"
     }
   ]
 }
