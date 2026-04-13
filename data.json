@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, April 13 2026  09:42 PT",
-  "market_status": "Live \u2014 as of 12:42 ET",
+  "generated_at": "Monday, April 13 2026  11:00 PT",
+  "market_status": "Live \u2014 as of 14:00 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6833.59,
-      "change_pct": 0.23
+      "price": 6846.52,
+      "change_pct": 0.42
     },
     "Nasdaq": {
-      "price": 23003.88,
-      "change_pct": 0.44
+      "price": 23050.32,
+      "change_pct": 0.64
     },
     "Dow Jones": {
-      "price": 47825.16,
-      "change_pct": -0.2
+      "price": 47933.99,
+      "change_pct": 0.03
     },
     "Russell 2000": {
-      "price": 2646.27,
-      "change_pct": 0.59
+      "price": 2655.73,
+      "change_pct": 0.95
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4754.5,
-      "change_pct": 0.27
+      "price": 4761.8,
+      "change_pct": 0.43
     },
     "Oil (WTI)": {
-      "price": 101.28,
-      "change_pct": -3.4
+      "price": 99.09,
+      "change_pct": -5.49
     },
     "Silver": {
-      "price": 75.56,
-      "change_pct": 1.45
+      "price": 75.49,
+      "change_pct": 1.36
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72313,
-      "change_pct": 2.01
+      "price": 72163,
+      "change_pct": 1.42
     },
     "ETH": {
-      "price": 2228.63,
-      "change_pct": 1.99
+      "price": 2225.83,
+      "change_pct": 0.99
     },
     "SOL": {
-      "price": 83.43,
-      "change_pct": 2.07
+      "price": 83.09,
+      "change_pct": 1.11
     },
     "BNB": {
-      "price": 607.6,
-      "change_pct": 2.77
+      "price": 605.06,
+      "change_pct": 2.05
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Intel's stock is on track for a historic 9-day winning streak, up 56% over that run"
+      "title": "BlackRock raises view on U.S. stocks on belief that war is over, profits are up"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump\u2019s blockade of Iran ports takes effect. Stocks are shrugging off escalation concerns."
+      "title": "Trump\u2019s blockade of Iranian ports takes effect. Stocks are shrugging off escalation concerns."
     },
     {
       "source": "MarketWatch",
-      "title": "Alzheimer\u2019s affects men and women\u2019s brains differently, new research shows. What it could mean for testing and care."
+      "title": "This is the real reason behind the U.S. dollar\u2019s climb as the Iran conflict drags on"
     }
   ]
 }
