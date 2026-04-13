@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 12 2026  22:41 PT",
+  "generated_at": "Monday, April 13 2026  01:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4743.2,
-      "change_pct": 0.91
+      "price": 4759.7,
+      "change_pct": 0.38
     },
     "Oil (WTI)": {
-      "price": 104.85,
-      "change_pct": 0.23
+      "price": 103.55,
+      "change_pct": -1.24
     },
     "Silver": {
-      "price": 74.44,
-      "change_pct": 0.64
+      "price": 74.89,
+      "change_pct": 0.55
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70745,
-      "change_pct": -1.29
+      "price": 70791,
+      "change_pct": -1.33
     },
     "ETH": {
-      "price": 2184.81,
-      "change_pct": -1.41
+      "price": 2186.5,
+      "change_pct": -1.52
     },
     "SOL": {
-      "price": 81.65,
-      "change_pct": -0.8
+      "price": 82.14,
+      "change_pct": -0.14
     },
     "BNB": {
-      "price": 595.64,
-      "change_pct": 0.04
+      "price": 597.17,
+      "change_pct": 0.4
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "From panic to pricing in: Are markets past 'peak fear and sell-off' despite oil price surge?"
+      "title": "Hormuz blockade could deepen world\u2019s worst energy crisis \u2014 and risk a dangerous misstep"
     },
     {
       "source": "CNBC",
-      "title": "Trump blasts Pope Leo for criticism of U.S. foreign policy"
+      "title": "Oil prices surge above $100 as U.S. Navy to blockade Iran's ports after peace talks fail"
     },
     {
       "source": "MarketWatch",
