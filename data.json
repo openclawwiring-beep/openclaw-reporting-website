@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, April 13 2026  06:24 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, April 13 2026  08:01 PT",
+  "market_status": "Live \u2014 as of 11:01 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6816.89,
-      "change_pct": -0.11
+      "price": 6823.82,
+      "change_pct": 0.09
     },
     "Nasdaq": {
-      "price": 22902.89,
-      "change_pct": 0.35
+      "price": 22977.26,
+      "change_pct": 0.32
     },
     "Dow Jones": {
-      "price": 47916.57,
-      "change_pct": -0.56
+      "price": 47704.2,
+      "change_pct": -0.45
     },
     "Russell 2000": {
-      "price": 2630.59,
-      "change_pct": -0.22
+      "price": 2640.33,
+      "change_pct": 0.37
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4757.7,
-      "change_pct": 0.34
+      "price": 4734.4,
+      "change_pct": -0.15
     },
     "Oil (WTI)": {
-      "price": 103.36,
-      "change_pct": -1.42
+      "price": 102.36,
+      "change_pct": -2.37
     },
     "Silver": {
-      "price": 74.11,
-      "change_pct": -0.48
+      "price": 73.87,
+      "change_pct": -0.81
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71209,
-      "change_pct": 0.17
+      "price": 72340,
+      "change_pct": 2.2
     },
     "ETH": {
-      "price": 2197.99,
-      "change_pct": 0.1
+      "price": 2231.45,
+      "change_pct": 2.25
     },
     "SOL": {
-      "price": 82.54,
-      "change_pct": 0.6
+      "price": 83.48,
+      "change_pct": 2.38
     },
     "BNB": {
-      "price": 597.93,
-      "change_pct": 0.86
+      "price": 602.95,
+      "change_pct": 2.16
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. blockade of Strait of Hormuz set to begin"
+      "title": "U.S. begins blockade in Strait of Hormuz; Trump warns Iran 'attack ships' to stay away"
     },
     {
       "source": "CNBC",
-      "title": "Dow futures fall 400 points as crude oil prices spike again: Live updates"
+      "title": "Middle East oil production plunges due to Iran war, OPEC data shows"
     },
     {
       "source": "MarketWatch",
-      "title": "My friend\u2019s girlfriend went \u2018ballistic\u2019 after he gave his kids $19,000 a year. Is this a red flag?"
+      "title": "Goldman Sachs has the top rank among the S&P 500 by this remarkable statistic"
     },
     {
       "source": "MarketWatch",
-      "title": "The best places to invest now are Chinese tech stocks and this out-of-fashion sector, according to Bank of America"
+      "title": "You have until April 15 to claim this $8,000 Roth IRA freebie \u2014 no matter what your income"
     }
   ]
 }
