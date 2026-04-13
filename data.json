@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, April 13 2026  08:01 PT",
-  "market_status": "Live \u2014 as of 11:01 ET",
+  "generated_at": "Monday, April 13 2026  09:42 PT",
+  "market_status": "Live \u2014 as of 12:42 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6823.82,
-      "change_pct": 0.09
+      "price": 6833.59,
+      "change_pct": 0.23
     },
     "Nasdaq": {
-      "price": 22977.26,
-      "change_pct": 0.32
+      "price": 23003.88,
+      "change_pct": 0.44
     },
     "Dow Jones": {
-      "price": 47704.2,
-      "change_pct": -0.45
+      "price": 47825.16,
+      "change_pct": -0.2
     },
     "Russell 2000": {
-      "price": 2640.33,
-      "change_pct": 0.37
+      "price": 2646.27,
+      "change_pct": 0.59
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4734.4,
-      "change_pct": -0.15
+      "price": 4754.5,
+      "change_pct": 0.27
     },
     "Oil (WTI)": {
-      "price": 102.36,
-      "change_pct": -2.37
+      "price": 101.28,
+      "change_pct": -3.4
     },
     "Silver": {
-      "price": 73.87,
-      "change_pct": -0.81
+      "price": 75.56,
+      "change_pct": 1.45
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72340,
-      "change_pct": 2.2
+      "price": 72313,
+      "change_pct": 2.01
     },
     "ETH": {
-      "price": 2231.45,
-      "change_pct": 2.25
+      "price": 2228.63,
+      "change_pct": 1.99
     },
     "SOL": {
-      "price": 83.48,
-      "change_pct": 2.38
+      "price": 83.43,
+      "change_pct": 2.07
     },
     "BNB": {
-      "price": 602.95,
-      "change_pct": 2.16
+      "price": 607.6,
+      "change_pct": 2.77
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Middle East oil production plunges due to Iran war, OPEC data shows"
+      "title": "Intel's stock is on track for a historic 9-day winning streak, up 56% over that run"
     },
     {
       "source": "MarketWatch",
-      "title": "Goldman Sachs has the top rank among the S&P 500 by this remarkable statistic"
+      "title": "Trump\u2019s blockade of Iran ports takes effect. Stocks are shrugging off escalation concerns."
     },
     {
       "source": "MarketWatch",
-      "title": "You have until April 15 to claim this $8,000 Roth IRA freebie \u2014 no matter what your income"
+      "title": "Alzheimer\u2019s affects men and women\u2019s brains differently, new research shows. What it could mean for testing and care."
     }
   ]
 }
