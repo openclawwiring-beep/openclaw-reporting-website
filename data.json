@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 13 2026  14:49 PT",
+  "generated_at": "Monday, April 13 2026  15:42 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4766.6,
-      "change_pct": 0.53
+      "price": 4770.8,
+      "change_pct": 0.62
     },
     "Oil (WTI)": {
-      "price": 98.01,
-      "change_pct": -6.52
+      "price": 97.86,
+      "change_pct": -6.67
     },
     "Silver": {
-      "price": 75.74,
-      "change_pct": 1.7
+      "price": 75.81,
+      "change_pct": 1.79
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73228,
-      "change_pct": 2.71
+      "price": 74188,
+      "change_pct": 4.73
     },
     "ETH": {
-      "price": 2258.47,
-      "change_pct": 2.18
+      "price": 2343.48,
+      "change_pct": 6.67
     },
     "SOL": {
-      "price": 83.93,
-      "change_pct": 1.46
+      "price": 85.76,
+      "change_pct": 4.69
     },
     "BNB": {
-      "price": 608.64,
-      "change_pct": 2.29
+      "price": 614.3,
+      "change_pct": 3.56
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My friend\u2019s girlfriend went \u2018ballistic\u2019 after learning he gives his kids $19,000 a year. Is this a red flag?"
+      "title": "We asked our wedding guests to give money to St. Jude\u2019s Children\u2019s Hospital. Can we write off their donations?"
     },
     {
       "source": "MarketWatch",
-      "title": "The No. 1 pick in tonight\u2019s WNBA draft will make $500,000 as a rookie \u2014 more than a 500% raise over last year\u2019s pick"
+      "title": "Intel\u2019s stock just had its best 9-day stretch on record. Can it go even higher?"
     }
   ]
 }
