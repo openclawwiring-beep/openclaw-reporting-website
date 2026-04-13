@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, April 12 2026  19:36 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Sunday, April 12 2026  22:41 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 6816.89,
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4745.3,
-      "change_pct": -0.54
+      "price": 4743.2,
+      "change_pct": 0.91
     },
     "Oil (WTI)": {
-      "price": 104.88,
-      "change_pct": 8.61
+      "price": 104.85,
+      "change_pct": 0.23
     },
     "Silver": {
-      "price": 74.37,
-      "change_pct": -2.18
+      "price": 74.44,
+      "change_pct": 0.64
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71214,
-      "change_pct": -0.97
+      "price": 70745,
+      "change_pct": -1.29
     },
     "ETH": {
-      "price": 2200.27,
-      "change_pct": -1.24
+      "price": 2184.81,
+      "change_pct": -1.41
     },
     "SOL": {
-      "price": 82.18,
-      "change_pct": -0.72
+      "price": 81.65,
+      "change_pct": -0.8
     },
     "BNB": {
-      "price": 597.67,
-      "change_pct": 0.02
+      "price": 595.64,
+      "change_pct": 0.04
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump blasts Pope Leo for criticism of U.S. foreign policy"
+      "title": "From panic to pricing in: Are markets past 'peak fear and sell-off' despite oil price surge?"
     },
     {
       "source": "CNBC",
-      "title": "Oil prices surge above $100 as U.S. Navy to blockade Iran's ports after peace talks fail"
+      "title": "Trump blasts Pope Leo for criticism of U.S. foreign policy"
     },
     {
       "source": "MarketWatch",
