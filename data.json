@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 12 2026  16:34 PT",
+  "generated_at": "Sunday, April 12 2026  19:36 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4670.7,
-      "change_pct": -2.1
+      "price": 4745.3,
+      "change_pct": -0.54
     },
     "Oil (WTI)": {
-      "price": 105.17,
-      "change_pct": 8.91
+      "price": 104.88,
+      "change_pct": 8.61
     },
     "Silver": {
-      "price": 73.0,
-      "change_pct": -3.98
+      "price": 74.37,
+      "change_pct": -2.18
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70636,
-      "change_pct": -3.4
+      "price": 71214,
+      "change_pct": -0.97
     },
     "ETH": {
-      "price": 2188.33,
-      "change_pct": -4.36
+      "price": 2200.27,
+      "change_pct": -1.24
     },
     "SOL": {
-      "price": 81.41,
-      "change_pct": -4.28
+      "price": 82.18,
+      "change_pct": -0.72
     },
     "BNB": {
-      "price": 591.64,
-      "change_pct": -2.66
+      "price": 597.67,
+      "change_pct": 0.02
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices surge above $100 as U.S. Navy to blockade Iran's ports after peace talks fail"
+      "title": "Trump blasts Pope Leo for criticism of U.S. foreign policy"
     },
     {
       "source": "CNBC",
-      "title": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail"
+      "title": "Oil prices surge above $100 as U.S. Navy to blockade Iran's ports after peace talks fail"
     },
     {
       "source": "MarketWatch",
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Trump announces blockade of Strait of Hormuz as Vance leaves Pakistan talks with no deal. How financial markets are reacting."
+      "title": "Move now to seize this potential stock-market crisis and opportunity"
     }
   ]
 }
