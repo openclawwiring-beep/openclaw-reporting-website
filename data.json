@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, April 13 2026  11:00 PT",
-  "market_status": "Live \u2014 as of 14:00 ET",
+  "generated_at": "Monday, April 13 2026  12:25 PT",
+  "market_status": "Live \u2014 as of 15:25 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6846.52,
-      "change_pct": 0.42
-    },
-    "Nasdaq": {
-      "price": 23050.32,
+      "price": 6861.62,
       "change_pct": 0.64
     },
+    "Nasdaq": {
+      "price": 23105.58,
+      "change_pct": 0.88
+    },
     "Dow Jones": {
-      "price": 47933.99,
-      "change_pct": 0.03
+      "price": 48057.31,
+      "change_pct": 0.28
     },
     "Russell 2000": {
-      "price": 2655.73,
-      "change_pct": 0.95
+      "price": 2662.0,
+      "change_pct": 1.19
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4761.8,
-      "change_pct": 0.43
+      "price": 4759.1,
+      "change_pct": 0.37
     },
     "Oil (WTI)": {
-      "price": 99.09,
-      "change_pct": -5.49
+      "price": 97.72,
+      "change_pct": -6.8
     },
     "Silver": {
-      "price": 75.49,
-      "change_pct": 1.36
+      "price": 75.57,
+      "change_pct": 1.47
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72163,
-      "change_pct": 1.42
+      "price": 72767,
+      "change_pct": 2.22
     },
     "ETH": {
-      "price": 2225.83,
-      "change_pct": 0.99
+      "price": 2241.0,
+      "change_pct": 1.63
     },
     "SOL": {
-      "price": 83.09,
-      "change_pct": 1.11
+      "price": 83.44,
+      "change_pct": 1.54
     },
     "BNB": {
-      "price": 605.06,
-      "change_pct": 2.05
+      "price": 606.02,
+      "change_pct": 2.21
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Trump\u2019s blockade of Iranian ports takes effect. Stocks are shrugging off escalation concerns."
+      "title": "Why SpaceX\u2019s IPO could put pressure on Tesla\u2019s stock"
     },
     {
       "source": "MarketWatch",
-      "title": "This is the real reason behind the U.S. dollar\u2019s climb as the Iran conflict drags on"
+      "title": "Why do older sellers get less money for their homes than younger sellers?"
     }
   ]
 }
