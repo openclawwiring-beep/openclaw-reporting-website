@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, April 13 2026  12:25 PT",
-  "market_status": "Live \u2014 as of 15:25 ET",
+  "generated_at": "Monday, April 13 2026  13:32 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6861.62,
-      "change_pct": 0.64
+      "price": 6886.24,
+      "change_pct": 1.02
     },
     "Nasdaq": {
-      "price": 23105.58,
-      "change_pct": 0.88
+      "price": 23183.74,
+      "change_pct": 1.23
     },
     "Dow Jones": {
-      "price": 48057.31,
-      "change_pct": 0.28
+      "price": 48218.25,
+      "change_pct": 0.63
     },
     "Russell 2000": {
-      "price": 2662.0,
-      "change_pct": 1.19
+      "price": 2670.49,
+      "change_pct": 1.52
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4759.1,
-      "change_pct": 0.37
+      "price": 4767.4,
+      "change_pct": 0.54
     },
     "Oil (WTI)": {
-      "price": 97.72,
-      "change_pct": -6.8
+      "price": 98.02,
+      "change_pct": -6.51
     },
     "Silver": {
-      "price": 75.57,
-      "change_pct": 1.47
+      "price": 75.69,
+      "change_pct": 1.63
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72767,
-      "change_pct": 2.22
+      "price": 73119,
+      "change_pct": 2.84
     },
     "ETH": {
-      "price": 2241.0,
-      "change_pct": 1.63
+      "price": 2254.01,
+      "change_pct": 2.51
     },
     "SOL": {
-      "price": 83.44,
-      "change_pct": 1.54
+      "price": 84.07,
+      "change_pct": 2.39
     },
     "BNB": {
-      "price": 606.02,
-      "change_pct": 2.21
+      "price": 607.62,
+      "change_pct": 2.53
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why SpaceX\u2019s IPO could put pressure on Tesla\u2019s stock"
+      "title": "Oracle\u2019s stock stands out as the software sector bounces to its best day in a year"
     },
     {
       "source": "MarketWatch",
-      "title": "Why do older sellers get less money for their homes than younger sellers?"
+      "title": "Stock traders\u2019 \u2018WTF indicator\u2019 is going off. Why that is a bullish sign \u2014 at least for now."
     }
   ]
 }
