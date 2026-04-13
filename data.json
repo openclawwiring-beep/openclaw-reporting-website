@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 13 2026  03:13 PT",
+  "generated_at": "Monday, April 13 2026  04:49 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4738.4,
-      "change_pct": -0.07
+      "price": 4734.2,
+      "change_pct": -0.16
     },
     "Oil (WTI)": {
-      "price": 104.38,
-      "change_pct": -0.45
+      "price": 104.04,
+      "change_pct": -0.77
     },
     "Silver": {
-      "price": 74.47,
-      "change_pct": 0.0
+      "price": 74.23,
+      "change_pct": -0.33
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70816,
-      "change_pct": -1.17
+      "price": 70956,
+      "change_pct": -0.71
     },
     "ETH": {
-      "price": 2186.81,
-      "change_pct": -1.33
+      "price": 2189.84,
+      "change_pct": -0.68
     },
     "SOL": {
       "price": 81.91,
-      "change_pct": -0.37
+      "change_pct": -0.46
     },
     "BNB": {
-      "price": 597.68,
-      "change_pct": 0.57
+      "price": 598.09,
+      "change_pct": 0.44
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures fall after Trump announces Strait of Hormuz blockade as talks fail: Live updates"
+      "title": "Dow futures fall 450 points after Trump announces Strait of Hormuz blockade as talks fail: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "UK 'not supporting' U.S. Iran blockade as France's Macron confirms 'multinational' talks on the Strait of Hormuz"
+      "title": "Goldman Sachs tops estimates on record equities trading, better-than-expected investment banking"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It feels awkward\u2019: I gave my friend\u2019s daughter cash for her wedding. Silence. Do I say something?"
+      "title": "Why \u2018Rule of 10\u2019 stocks like Nvidia and Meta are now poised for a comeback, according to Goldman Sachs"
     },
     {
       "source": "MarketWatch",
-      "title": "Populism lost in Hungary but still may win the war, one strategist argues"
+      "title": "\u2018He didn\u2019t seem very alert\u2019: Our CPA said we owe the IRS $443, but we\u2019re actually due a refund of $637. Do we fire him?"
     }
   ]
 }
