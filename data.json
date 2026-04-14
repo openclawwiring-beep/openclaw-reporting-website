@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 14 2026  00:07 PT",
+  "generated_at": "Tuesday, April 14 2026  02:01 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4803.7,
-      "change_pct": 0.36
+      "price": 4806.1,
+      "change_pct": 0.29
     },
     "Oil (WTI)": {
-      "price": 97.53,
-      "change_pct": 0.42
+      "price": 96.92,
+      "change_pct": -0.03
     },
     "Silver": {
-      "price": 77.43,
-      "change_pct": 1.95
+      "price": 78.04,
+      "change_pct": 1.25
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74608,
-      "change_pct": 5.17
+      "price": 74774,
+      "change_pct": 5.53
     },
     "ETH": {
-      "price": 2376.86,
-      "change_pct": 8.3
+      "price": 2388.63,
+      "change_pct": 8.95
     },
     "SOL": {
-      "price": 85.97,
-      "change_pct": 4.54
+      "price": 86.16,
+      "change_pct": 5.25
     },
     "BNB": {
-      "price": 615.13,
-      "change_pct": 2.85
+      "price": 617.72,
+      "change_pct": 3.33
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil falls as Vance comments raise hopes for a diplomatic resolution to Mideast conflict"
+      "title": "Oil falls as IEA predicts \u2018demand destruction will spread\u2019 and hopes for fresh Iran talks grow"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Streaming viewers are OK with double the commercials as \u2018subscription fatigue\u2019 sets in"
+      "title": "United Airlines reportedly pitched government on American Airlines deal. What a combination would look like."
     },
     {
       "source": "MarketWatch",
-      "title": "Goldman Sachs has the top rank among the S&P 500 by this remarkable statistic"
+      "title": "Streaming viewers are OK with double the commercials as \u2018subscription fatigue\u2019 sets in"
     }
   ]
 }
