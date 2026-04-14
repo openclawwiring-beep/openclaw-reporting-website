@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, April 14 2026  08:12 PT",
-  "market_status": "Live \u2014 as of 11:12 ET",
+  "generated_at": "Tuesday, April 14 2026  09:40 PT",
+  "market_status": "Live \u2014 as of 12:40 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6934.91,
-      "change_pct": 0.71
+      "price": 6958.79,
+      "change_pct": 1.06
     },
     "Nasdaq": {
-      "price": 23452.04,
-      "change_pct": 1.16
+      "price": 23588.55,
+      "change_pct": 1.75
     },
     "Dow Jones": {
-      "price": 48456.18,
-      "change_pct": 0.5
+      "price": 48507.48,
+      "change_pct": 0.6
     },
     "Russell 2000": {
-      "price": 2707.68,
-      "change_pct": 1.41
+      "price": 2707.3,
+      "change_pct": 1.39
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4822.0,
-      "change_pct": 0.62
+      "price": 4840.4,
+      "change_pct": 1.0
     },
     "Oil (WTI)": {
-      "price": 93.61,
-      "change_pct": -3.45
+      "price": 92.15,
+      "change_pct": -4.95
     },
     "Silver": {
-      "price": 79.05,
-      "change_pct": 2.57
+      "price": 79.64,
+      "change_pct": 3.34
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74784,
-      "change_pct": 3.9
+      "price": 75265,
+      "change_pct": 4.16
     },
     "ETH": {
-      "price": 2342.43,
-      "change_pct": 5.47
+      "price": 2351.32,
+      "change_pct": 5.55
     },
     "SOL": {
-      "price": 85.66,
-      "change_pct": 2.89
+      "price": 85.7,
+      "change_pct": 2.76
     },
     "BNB": {
-      "price": 620.06,
-      "change_pct": 2.85
+      "price": 623.28,
+      "change_pct": 2.58
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fed nominee Warsh filings detail vast wealth, far exceeding past chairs"
+      "title": "What a United-American merger would mean, from antitrust hurdles to airfare"
     },
     {
       "source": "CNBC",
-      "title": "Global recession is inevitable if Strait of Hormuz stays shut, says Citadel's Ken Griffin"
+      "title": "More U.S.-Iran peace deal talks are in discussion, White House says"
     },
     {
       "source": "MarketWatch",
-      "title": "We asked our wedding guests to give money to St. Jude\u2019s Children\u2019s Hospital. Can we write off their donations?"
+      "title": "NBC just dethroned YouTube as ratings king. Here\u2019s how it did it."
     },
     {
       "source": "MarketWatch",
-      "title": "Private credit not only won\u2019t spark a financial crisis \u2014 it may be more stable than your bank"
+      "title": "The private-credit mess won\u2019t lead to a financial crisis like 2008\u2019s, says top IMF official"
     }
   ]
 }
