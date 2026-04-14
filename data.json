@@ -1,22 +1,22 @@
 {
-  "generated_at": "Tuesday, April 14 2026  12:48 PT",
-  "market_status": "Live \u2014 as of 15:48 ET",
+  "generated_at": "Tuesday, April 14 2026  13:53 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6963.29,
-      "change_pct": 1.12
+      "price": 6967.38,
+      "change_pct": 1.18
     },
     "Nasdaq": {
-      "price": 23606.82,
-      "change_pct": 1.82
+      "price": 23639.08,
+      "change_pct": 1.96
     },
     "Dow Jones": {
-      "price": 48555.58,
-      "change_pct": 0.7
+      "price": 48535.99,
+      "change_pct": 0.66
     },
     "Russell 2000": {
-      "price": 2706.44,
-      "change_pct": 1.36
+      "price": 2705.67,
+      "change_pct": 1.32
     }
   },
   "commodities": {
@@ -25,48 +25,48 @@
       "change_pct": 1.52
     },
     "Oil (WTI)": {
-      "price": 91.84,
-      "change_pct": -5.27
+      "price": 92.2,
+      "change_pct": -4.9
     },
     "Silver": {
-      "price": 79.59,
-      "change_pct": 3.27
+      "price": 79.76,
+      "change_pct": 3.49
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74178,
-      "change_pct": 1.24
+      "price": 74239,
+      "change_pct": 1.49
     },
     "ETH": {
-      "price": 2311.65,
-      "change_pct": 2.27
+      "price": 2316.07,
+      "change_pct": 2.83
     },
     "SOL": {
-      "price": 84.07,
-      "change_pct": 0.19
+      "price": 83.74,
+      "change_pct": -0.47
     },
     "BNB": {
-      "price": 613.91,
-      "change_pct": 0.96
+      "price": 614.26,
+      "change_pct": 1.06
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "What a United-American merger would mean, from antitrust hurdles to airfare"
+      "title": "Stocks post back-to-back gains as traders remain optimistic for U.S.-Iran deal: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Jamie Dimon says Anthropic's Mythos reveals 'a lot more vulnerabilities' for cyberattacks"
+      "title": "What a United-American merger would mean, from antitrust hurdles to airfare"
     },
     {
       "source": "MarketWatch",
-      "title": "My friend\u2019s girlfriend went \u2018ballistic\u2019 after learning he gives his kids $19,000 a year. Is this a red flag?"
+      "title": "Amazon\u2019s stock is on its best run since 2022 as Globalstar acquisition fuels rally"
     },
     {
       "source": "MarketWatch",
-      "title": "I gave my friend\u2019s daughter cash for her wedding. I did not receive a thank-you card. Do I say something?"
+      "title": "The International Energy Agency is really worried about the global oil market"
     }
   ]
 }
