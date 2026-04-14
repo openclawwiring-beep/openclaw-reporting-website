@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 14 2026  03:44 PT",
+  "generated_at": "Tuesday, April 14 2026  04:56 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4806.7,
-      "change_pct": 0.3
+      "price": 4801.0,
+      "change_pct": 0.18
     },
     "Oil (WTI)": {
-      "price": 97.16,
-      "change_pct": 0.22
+      "price": 97.27,
+      "change_pct": 0.33
     },
     "Silver": {
-      "price": 77.81,
-      "change_pct": 0.96
+      "price": 77.73,
+      "change_pct": 0.86
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74412,
-      "change_pct": 5.11
+      "price": 74369,
+      "change_pct": 4.83
     },
     "ETH": {
-      "price": 2377.02,
-      "change_pct": 8.86
+      "price": 2375.06,
+      "change_pct": 8.54
     },
     "SOL": {
-      "price": 86.17,
-      "change_pct": 5.35
+      "price": 85.9,
+      "change_pct": 4.91
     },
     "BNB": {
-      "price": 617.64,
-      "change_pct": 3.3
+      "price": 616.99,
+      "change_pct": 3.22
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures tick higher after S&P 500 erases Iran war losses: Live updates"
-    },
-    {
-      "source": "CNBC",
       "title": "JPMorgan Chase tops estimates on fixed income, investment banking as Wall Street hums"
     },
     {
-      "source": "MarketWatch",
-      "title": "Oil futures fall further below $100 on hopes of peace deal"
+      "source": "CNBC",
+      "title": "Oil falls as IEA predicts \u2018demand destruction will spread\u2019 and hopes for fresh Iran talks grow"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She\u2019s a smoker\u2019: My mother, 55, has no car and no job. Should I buy her life insurance?"
+      "title": "\u2018It is their fault\u2019: My condo board forgot to bill for storage fees. Must I pay retroactively?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "JPMorgan sees revenue surge in markets and investment banking, but here\u2019s why the stock is pulling back"
     }
   ]
 }
