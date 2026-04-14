@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 14 2026  13:53 PT",
+  "generated_at": "Tuesday, April 14 2026  14:51 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4865.0,
-      "change_pct": 1.52
+      "price": 4864.5,
+      "change_pct": 1.51
     },
     "Oil (WTI)": {
-      "price": 92.2,
-      "change_pct": -4.9
+      "price": 92.07,
+      "change_pct": -5.03
     },
     "Silver": {
-      "price": 79.76,
-      "change_pct": 3.49
+      "price": 79.62,
+      "change_pct": 3.32
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74239,
-      "change_pct": 1.49
+      "price": 74050,
+      "change_pct": 1.09
     },
     "ETH": {
-      "price": 2316.07,
-      "change_pct": 2.83
+      "price": 2319.61,
+      "change_pct": 2.51
     },
     "SOL": {
-      "price": 83.74,
-      "change_pct": -0.47
+      "price": 83.68,
+      "change_pct": -0.37
     },
     "BNB": {
-      "price": 614.26,
-      "change_pct": 1.06
+      "price": 615.36,
+      "change_pct": 1.08
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stocks post back-to-back gains as traders remain optimistic for U.S.-Iran deal: Live updates"
+      "title": "Jamie Dimon says Anthropic's Mythos reveals 'a lot more vulnerabilities' for cyberattacks"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Amazon\u2019s stock is on its best run since 2022 as Globalstar acquisition fuels rally"
+      "title": "As S&P 500 approaches record highs, this is what could derail the stock-market rebound"
     },
     {
       "source": "MarketWatch",
-      "title": "The International Energy Agency is really worried about the global oil market"
+      "title": "Why bitcoin\u2019s next stop could be $98,000 after surmounting this key hurdle, technical analyst says"
     }
   ]
 }
