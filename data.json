@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 13 2026  16:41 PT",
+  "generated_at": "Monday, April 13 2026  19:30 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4781.4,
-      "change_pct": 0.84
+      "price": 4792.9,
+      "change_pct": 1.08
     },
     "Oil (WTI)": {
-      "price": 96.84,
-      "change_pct": -7.64
+      "price": 96.85,
+      "change_pct": -7.63
     },
     "Silver": {
-      "price": 75.99,
-      "change_pct": 2.03
+      "price": 76.32,
+      "change_pct": 2.48
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74759,
-      "change_pct": 5.83
+      "price": 74473,
+      "change_pct": 4.59
     },
     "ETH": {
-      "price": 2376.19,
-      "change_pct": 8.55
+      "price": 2372.72,
+      "change_pct": 7.82
     },
     "SOL": {
-      "price": 86.57,
-      "change_pct": 6.24
+      "price": 86.23,
+      "change_pct": 4.93
     },
     "BNB": {
-      "price": 616.97,
-      "change_pct": 4.35
+      "price": 614.15,
+      "change_pct": 2.83
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. begins blockade in Strait of Hormuz; Trump warns Iran 'attack ships' to stay away"
+      "title": "Vance says 'the ball is in Iran's court' to move peace talks further, as U.S. blockade takes effect"
     },
     {
       "source": "CNBC",
@@ -62,7 +62,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "We asked our wedding guests to give money to St. Jude\u2019s Children\u2019s Hospital. Can we write off their donations?"
+      "title": "Goldman Sachs has the top rank among the S&P 500 by this remarkable statistic"
     },
     {
       "source": "MarketWatch",
