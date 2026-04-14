@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 14 2026  02:01 PT",
+  "generated_at": "Tuesday, April 14 2026  03:44 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4806.1,
-      "change_pct": 0.29
+      "price": 4806.7,
+      "change_pct": 0.3
     },
     "Oil (WTI)": {
-      "price": 96.92,
-      "change_pct": -0.03
+      "price": 97.16,
+      "change_pct": 0.22
     },
     "Silver": {
-      "price": 78.04,
-      "change_pct": 1.25
+      "price": 77.81,
+      "change_pct": 0.96
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74774,
-      "change_pct": 5.53
+      "price": 74412,
+      "change_pct": 5.11
     },
     "ETH": {
-      "price": 2388.63,
-      "change_pct": 8.95
+      "price": 2377.02,
+      "change_pct": 8.86
     },
     "SOL": {
-      "price": 86.16,
-      "change_pct": 5.25
+      "price": 86.17,
+      "change_pct": 5.35
     },
     "BNB": {
-      "price": 617.72,
-      "change_pct": 3.33
+      "price": 617.64,
+      "change_pct": 3.3
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil falls as IEA predicts \u2018demand destruction will spread\u2019 and hopes for fresh Iran talks grow"
+      "title": "Stock futures tick higher after S&P 500 erases Iran war losses: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Fed nominee Warsh clears a hurdle to Senate hearing"
+      "title": "JPMorgan Chase tops estimates on fixed income, investment banking as Wall Street hums"
     },
     {
       "source": "MarketWatch",
-      "title": "United Airlines reportedly pitched government on American Airlines deal. What a combination would look like."
+      "title": "Oil futures fall further below $100 on hopes of peace deal"
     },
     {
       "source": "MarketWatch",
-      "title": "Streaming viewers are OK with double the commercials as \u2018subscription fatigue\u2019 sets in"
+      "title": "\u2018She\u2019s a smoker\u2019: My mother, 55, has no car and no job. Should I buy her life insurance?"
     }
   ]
 }
