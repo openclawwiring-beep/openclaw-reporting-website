@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, April 14 2026  04:56 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, April 14 2026  06:46 PT",
+  "market_status": "Live \u2014 as of 09:46 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6886.24,
-      "change_pct": 1.02
+      "price": 6921.53,
+      "change_pct": 0.52
     },
     "Nasdaq": {
-      "price": 23183.74,
-      "change_pct": 1.23
+      "price": 23434.78,
+      "change_pct": 1.08
     },
     "Dow Jones": {
-      "price": 48218.25,
-      "change_pct": 0.63
+      "price": 48372.98,
+      "change_pct": 0.33
     },
     "Russell 2000": {
-      "price": 2670.49,
-      "change_pct": 1.52
+      "price": 2688.97,
+      "change_pct": 0.71
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4801.0,
-      "change_pct": 0.18
+      "price": 4816.3,
+      "change_pct": 0.5
     },
     "Oil (WTI)": {
-      "price": 97.27,
-      "change_pct": 0.33
+      "price": 95.12,
+      "change_pct": -1.89
     },
     "Silver": {
-      "price": 77.73,
-      "change_pct": 0.86
+      "price": 78.22,
+      "change_pct": 1.5
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74369,
-      "change_pct": 4.83
+      "price": 75217,
+      "change_pct": 5.88
     },
     "ETH": {
-      "price": 2375.06,
-      "change_pct": 8.54
+      "price": 2391.83,
+      "change_pct": 9.43
     },
     "SOL": {
-      "price": 85.9,
-      "change_pct": 4.91
+      "price": 86.92,
+      "change_pct": 5.3
     },
     "BNB": {
-      "price": 616.99,
-      "change_pct": 3.22
+      "price": 619.69,
+      "change_pct": 3.74
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "JPMorgan Chase tops estimates on fixed income, investment banking as Wall Street hums"
+      "title": "Fed nominee Warsh filings detail vast wealth, far exceeding past chairs"
     },
     {
       "source": "CNBC",
-      "title": "Oil falls as IEA predicts \u2018demand destruction will spread\u2019 and hopes for fresh Iran talks grow"
+      "title": "Wholesale prices rose 0.5% in March, much less than expected despite war impact"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It is their fault\u2019: My condo board forgot to bill for storage fees. Must I pay retroactively?"
+      "title": "After a rocky start, the classic geopolitical playbook is finally paying off for investors"
     },
     {
       "source": "MarketWatch",
-      "title": "JPMorgan sees revenue surge in markets and investment banking, but here\u2019s why the stock is pulling back"
+      "title": "Cheap, underweighted, and ready to move. Why dormant China stocks are about to stage a comeback."
     }
   ]
 }
