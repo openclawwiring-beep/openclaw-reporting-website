@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 14 2026  14:51 PT",
+  "generated_at": "Tuesday, April 14 2026  15:44 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4864.5,
-      "change_pct": 1.51
+      "price": 4863.9,
+      "change_pct": 1.49
     },
     "Oil (WTI)": {
-      "price": 92.07,
-      "change_pct": -5.03
+      "price": 91.49,
+      "change_pct": -5.63
     },
     "Silver": {
-      "price": 79.62,
-      "change_pct": 3.32
+      "price": 79.57,
+      "change_pct": 3.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74050,
-      "change_pct": 1.09
+      "price": 74032,
+      "change_pct": -0.23
     },
     "ETH": {
-      "price": 2319.61,
-      "change_pct": 2.51
+      "price": 2314.66,
+      "change_pct": -1.2
     },
     "SOL": {
-      "price": 83.68,
-      "change_pct": -0.37
+      "price": 83.42,
+      "change_pct": -2.73
     },
     "BNB": {
-      "price": 615.36,
-      "change_pct": 1.08
+      "price": 614.84,
+      "change_pct": 0.09
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Jamie Dimon says Anthropic's Mythos reveals 'a lot more vulnerabilities' for cyberattacks"
+      "title": "Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan agrees to leave board"
     },
     {
       "source": "CNBC",
-      "title": "What a United-American merger would mean, from antitrust hurdles to airfare"
+      "title": "Jamie Dimon says Anthropic's Mythos reveals 'a lot more vulnerabilities' for cyberattacks"
     },
     {
       "source": "MarketWatch",
-      "title": "As S&P 500 approaches record highs, this is what could derail the stock-market rebound"
+      "title": "History says there\u2019s a good chance we haven\u2019t seen the stock-market lows yet"
     },
     {
       "source": "MarketWatch",
-      "title": "Why bitcoin\u2019s next stop could be $98,000 after surmounting this key hurdle, technical analyst says"
+      "title": "Why one analyst believes Microsoft\u2019s stock may be bottoming out"
     }
   ]
 }
