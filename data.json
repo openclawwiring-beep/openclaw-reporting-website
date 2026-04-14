@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, April 14 2026  11:04 PT",
-  "market_status": "Live \u2014 as of 14:04 ET",
+  "generated_at": "Tuesday, April 14 2026  12:48 PT",
+  "market_status": "Live \u2014 as of 15:48 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6962.7,
+      "price": 6963.29,
       "change_pct": 1.12
     },
     "Nasdaq": {
-      "price": 23609.55,
-      "change_pct": 1.84
+      "price": 23606.82,
+      "change_pct": 1.82
     },
     "Dow Jones": {
-      "price": 48528.93,
-      "change_pct": 0.65
+      "price": 48555.58,
+      "change_pct": 0.7
     },
     "Russell 2000": {
-      "price": 2704.47,
-      "change_pct": 1.29
+      "price": 2706.44,
+      "change_pct": 1.36
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4862.2,
-      "change_pct": 1.46
+      "price": 4865.0,
+      "change_pct": 1.52
     },
     "Oil (WTI)": {
-      "price": 92.07,
-      "change_pct": -5.03
+      "price": 91.84,
+      "change_pct": -5.27
     },
     "Silver": {
-      "price": 79.6,
-      "change_pct": 3.28
+      "price": 79.59,
+      "change_pct": 3.27
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74798,
-      "change_pct": 3.68
+      "price": 74178,
+      "change_pct": 1.24
     },
     "ETH": {
-      "price": 2341.12,
-      "change_pct": 5.15
+      "price": 2311.65,
+      "change_pct": 2.27
     },
     "SOL": {
-      "price": 85.31,
-      "change_pct": 2.7
+      "price": 84.07,
+      "change_pct": 0.19
     },
     "BNB": {
-      "price": 617.47,
-      "change_pct": 2.02
+      "price": 613.91,
+      "change_pct": 0.96
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s the \u2018biggest single reason\u2019 gas prices haven\u2019t hurt consumers, according to JPMorgan"
+      "title": "My friend\u2019s girlfriend went \u2018ballistic\u2019 after learning he gives his kids $19,000 a year. Is this a red flag?"
     },
     {
       "source": "MarketWatch",
-      "title": "NBC just dethroned YouTube as ratings king. Here\u2019s how it did it."
+      "title": "I gave my friend\u2019s daughter cash for her wedding. I did not receive a thank-you card. Do I say something?"
     }
   ]
 }
