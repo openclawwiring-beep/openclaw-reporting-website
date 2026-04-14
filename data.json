@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 14 2026  15:44 PT",
+  "generated_at": "Tuesday, April 14 2026  16:41 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4863.9,
-      "change_pct": 1.49
+      "price": 4860.2,
+      "change_pct": 1.42
     },
     "Oil (WTI)": {
-      "price": 91.49,
-      "change_pct": -5.63
+      "price": 91.27,
+      "change_pct": -5.86
     },
     "Silver": {
-      "price": 79.57,
-      "change_pct": 3.24
+      "price": 79.58,
+      "change_pct": 3.26
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74032,
-      "change_pct": -0.23
+      "price": 74135,
+      "change_pct": -0.62
     },
     "ETH": {
-      "price": 2314.66,
-      "change_pct": -1.2
+      "price": 2322.82,
+      "change_pct": -2.17
     },
     "SOL": {
-      "price": 83.42,
-      "change_pct": -2.73
+      "price": 83.87,
+      "change_pct": -3.0
     },
     "BNB": {
-      "price": 614.84,
-      "change_pct": 0.09
+      "price": 613.95,
+      "change_pct": -0.37
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan agrees to leave board"
+      "title": "Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan decides to leave board"
     },
     {
       "source": "CNBC",
