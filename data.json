@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, April 14 2026  06:46 PT",
-  "market_status": "Live \u2014 as of 09:46 ET",
+  "generated_at": "Tuesday, April 14 2026  08:12 PT",
+  "market_status": "Live \u2014 as of 11:12 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6921.53,
-      "change_pct": 0.52
+      "price": 6934.91,
+      "change_pct": 0.71
     },
     "Nasdaq": {
-      "price": 23434.78,
-      "change_pct": 1.08
+      "price": 23452.04,
+      "change_pct": 1.16
     },
     "Dow Jones": {
-      "price": 48372.98,
-      "change_pct": 0.33
+      "price": 48456.18,
+      "change_pct": 0.5
     },
     "Russell 2000": {
-      "price": 2688.97,
-      "change_pct": 0.71
+      "price": 2707.68,
+      "change_pct": 1.41
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4816.3,
-      "change_pct": 0.5
+      "price": 4822.0,
+      "change_pct": 0.62
     },
     "Oil (WTI)": {
-      "price": 95.12,
-      "change_pct": -1.89
+      "price": 93.61,
+      "change_pct": -3.45
     },
     "Silver": {
-      "price": 78.22,
-      "change_pct": 1.5
+      "price": 79.05,
+      "change_pct": 2.57
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75217,
-      "change_pct": 5.88
+      "price": 74784,
+      "change_pct": 3.9
     },
     "ETH": {
-      "price": 2391.83,
-      "change_pct": 9.43
+      "price": 2342.43,
+      "change_pct": 5.47
     },
     "SOL": {
-      "price": 86.92,
-      "change_pct": 5.3
+      "price": 85.66,
+      "change_pct": 2.89
     },
     "BNB": {
-      "price": 619.69,
-      "change_pct": 3.74
+      "price": 620.06,
+      "change_pct": 2.85
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Wholesale prices rose 0.5% in March, much less than expected despite war impact"
+      "title": "Global recession is inevitable if Strait of Hormuz stays shut, says Citadel's Ken Griffin"
     },
     {
       "source": "MarketWatch",
-      "title": "After a rocky start, the classic geopolitical playbook is finally paying off for investors"
+      "title": "We asked our wedding guests to give money to St. Jude\u2019s Children\u2019s Hospital. Can we write off their donations?"
     },
     {
       "source": "MarketWatch",
-      "title": "Cheap, underweighted, and ready to move. Why dormant China stocks are about to stage a comeback."
+      "title": "Private credit not only won\u2019t spark a financial crisis \u2014 it may be more stable than your bank"
     }
   ]
 }
