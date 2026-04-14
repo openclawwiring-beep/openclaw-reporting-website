@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 13 2026  22:23 PT",
+  "generated_at": "Tuesday, April 14 2026  00:07 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4786.1,
-      "change_pct": -0.06
+      "price": 4803.7,
+      "change_pct": 0.36
     },
     "Oil (WTI)": {
-      "price": 96.79,
-      "change_pct": -0.42
+      "price": 97.53,
+      "change_pct": 0.42
     },
     "Silver": {
-      "price": 77.03,
-      "change_pct": 1.32
+      "price": 77.43,
+      "change_pct": 1.95
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74418,
-      "change_pct": 5.06
+      "price": 74608,
+      "change_pct": 5.17
     },
     "ETH": {
-      "price": 2367.09,
-      "change_pct": 8.19
+      "price": 2376.86,
+      "change_pct": 8.3
     },
     "SOL": {
-      "price": 85.85,
-      "change_pct": 5.02
+      "price": 85.97,
+      "change_pct": 4.54
     },
     "BNB": {
-      "price": 613.76,
-      "change_pct": 3.03
+      "price": 615.13,
+      "change_pct": 2.85
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Vance says 'the ball is in Iran's court' to move peace talks further, as U.S. blockade takes effect"
+      "title": "Oil falls as Vance comments raise hopes for a diplomatic resolution to Mideast conflict"
     },
     {
       "source": "CNBC",
