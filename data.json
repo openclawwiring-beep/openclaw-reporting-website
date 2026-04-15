@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 15 2026  02:02 PT",
+  "generated_at": "Wednesday, April 15 2026  03:42 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4835.1,
-      "change_pct": -0.3
+      "price": 4818.2,
+      "change_pct": -0.65
     },
     "Oil (WTI)": {
-      "price": 91.36,
-      "change_pct": 0.46
+      "price": 93.11,
+      "change_pct": 2.39
     },
     "Silver": {
-      "price": 79.27,
-      "change_pct": -0.82
+      "price": 78.67,
+      "change_pct": -1.57
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74174,
-      "change_pct": -0.8
+      "price": 73880,
+      "change_pct": -0.71
     },
     "ETH": {
-      "price": 2329.23,
-      "change_pct": -2.49
+      "price": 2316.52,
+      "change_pct": -2.53
     },
     "SOL": {
-      "price": 83.21,
-      "change_pct": -3.44
+      "price": 83.03,
+      "change_pct": -3.63
     },
     "BNB": {
-      "price": 614.74,
-      "change_pct": -0.51
+      "price": 616.6,
+      "change_pct": -0.18
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. says Hormuz blockade 'fully implemented,' while signaling diplomatic off-ramp for Iran"
+      "title": "Iran war 'very close to over,' Trump says \u2014 and the stock market 'is going to boom'"
     },
     {
       "source": "CNBC",
-      "title": "Trump renews criticism of UK, saying it should \u2018drill, baby, drill\u2019 for North Sea oil"
+      "title": "Snap's stock jumps 7% after announcing plans to lay off up to 16% of its workforce"
     },
     {
       "source": "MarketWatch",
-      "title": "Daniel Craig and Rachel Weisz sell their elegant Brooklyn townhouse for $11.8 million"
+      "title": "\u2018She\u2019s a smoker\u2019: My mother, 55, has no car and no job. Should I buy her life insurance?"
     },
     {
       "source": "MarketWatch",
-      "title": "Hermes and Gucci sales fall short on Middle East turmoil. Investors were surprised."
+      "title": "I\u2019m selling my law practice and retiring. Do I pay off the $2 million loan on my office building \u2014 or keep the mortgage?"
     }
   ]
 }
