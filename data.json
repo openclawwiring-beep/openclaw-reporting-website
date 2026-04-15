@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 15 2026  15:10 PT",
+  "generated_at": "Wednesday, April 15 2026  16:10 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4817.8,
-      "change_pct": -0.66
+      "price": 4829.3,
+      "change_pct": -0.42
     },
     "Oil (WTI)": {
-      "price": 91.29,
-      "change_pct": 0.38
+      "price": 91.03,
+      "change_pct": 0.1
     },
     "Silver": {
-      "price": 79.29,
-      "change_pct": -0.79
+      "price": 79.5,
+      "change_pct": -0.53
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74984,
-      "change_pct": 1.0
+      "price": 74835,
+      "change_pct": 0.94
     },
     "ETH": {
-      "price": 2371.37,
-      "change_pct": 1.99
+      "price": 2360.96,
+      "change_pct": 1.76
     },
     "SOL": {
-      "price": 85.07,
-      "change_pct": 1.55
+      "price": 84.87,
+      "change_pct": 1.56
     },
     "BNB": {
-      "price": 625.0,
-      "change_pct": 1.39
+      "price": 623.86,
+      "change_pct": 1.49
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Google\u2019s stake in SpaceX could be worth more than most companies on the planet"
+      "title": "\u2018She\u2019s a smoker\u2019: My mother, 55, has no car and no job. Should I buy her life insurance?"
     },
     {
       "source": "MarketWatch",
-      "title": "Allbirds\u2019 AI pivot sends its stock soaring nearly 600%. We\u2019ve seen this movie before."
+      "title": "I\u2019m selling my law practice and retiring. Do I pay off the $2 million loan on my office building \u2014 or keep the mortgage?"
     }
   ]
 }
