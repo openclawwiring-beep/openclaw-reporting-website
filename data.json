@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 14 2026  19:29 PT",
+  "generated_at": "Tuesday, April 14 2026  22:11 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4866.1,
-      "change_pct": 1.54
+      "price": 4850.8,
+      "change_pct": 0.07
     },
     "Oil (WTI)": {
-      "price": 90.67,
-      "change_pct": -6.48
+      "price": 91.49,
+      "change_pct": 0.27
     },
     "Silver": {
-      "price": 80.68,
-      "change_pct": 4.69
+      "price": 79.96,
+      "change_pct": -0.08
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74432,
-      "change_pct": -0.12
+      "price": 74261,
+      "change_pct": -0.16
     },
     "ETH": {
-      "price": 2327.47,
-      "change_pct": -2.01
+      "price": 2331.25,
+      "change_pct": -1.36
     },
     "SOL": {
-      "price": 83.69,
-      "change_pct": -2.93
+      "price": 83.58,
+      "change_pct": -2.59
     },
     "BNB": {
-      "price": 618.23,
-      "change_pct": 0.66
+      "price": 615.7,
+      "change_pct": 0.33
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan decides to leave board"
-    },
-    {
-      "source": "CNBC",
       "title": "Central banks were buying gold at record levels. Here's why they're selling now"
     },
     {
-      "source": "MarketWatch",
-      "title": "A new CEO and a deal with Uber aren\u2019t enough to lift this EV maker\u2019s struggling stock"
+      "source": "CNBC",
+      "title": "U.S. says Hormuz blockade 'fully implemented,' while signaling diplomatic off-ramp for Iran"
     },
     {
       "source": "MarketWatch",
-      "title": "5 things to know about a potential airline merger of United and American"
+      "title": "Need to file for a tax extension today? Read this first."
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why one analyst believes Microsoft\u2019s stock may be bottoming out"
     }
   ]
 }
