@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, April 15 2026  07:53 PT",
-  "market_status": "Live \u2014 as of 10:53 ET",
+  "generated_at": "Wednesday, April 15 2026  09:04 PT",
+  "market_status": "Live \u2014 as of 12:04 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6992.34,
-      "change_pct": 0.37
+      "price": 6994.48,
+      "change_pct": 0.4
     },
     "Nasdaq": {
-      "price": 23851.1,
-      "change_pct": 0.9
+      "price": 23883.14,
+      "change_pct": 1.03
     },
     "Dow Jones": {
-      "price": 48364.13,
-      "change_pct": -0.35
+      "price": 48300.03,
+      "change_pct": -0.48
     },
     "Russell 2000": {
-      "price": 2709.14,
-      "change_pct": 0.14
+      "price": 2706.92,
+      "change_pct": 0.05
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4842.4,
-      "change_pct": -0.15
+      "price": 4827.9,
+      "change_pct": -0.45
     },
     "Oil (WTI)": {
-      "price": 91.93,
-      "change_pct": 1.09
+      "price": 92.11,
+      "change_pct": 1.29
     },
     "Silver": {
-      "price": 80.21,
-      "change_pct": 0.36
+      "price": 79.63,
+      "change_pct": -0.37
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74163,
-      "change_pct": -1.43
+      "price": 73926,
+      "change_pct": -2.03
     },
     "ETH": {
-      "price": 2337.36,
-      "change_pct": -1.25
+      "price": 2336.18,
+      "change_pct": -1.36
     },
     "SOL": {
-      "price": 84.32,
-      "change_pct": -2.45
+      "price": 84.0,
+      "change_pct": -2.39
     },
     "BNB": {
-      "price": 618.28,
-      "change_pct": -0.24
+      "price": 619.45,
+      "change_pct": -0.81
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump threatens to fire Powell if the Fed chair doesn't leave office on his own"
+      "title": "Here are all the ways the Iran war has affected the U.S. economy so far"
     },
     {
       "source": "CNBC",
-      "title": "Bank of America tops estimates as CEO Brian Moynihan says consumer banking is 'healthy'"
+      "title": "Trump threatens to fire Powell if the Fed chair doesn't leave office on his own"
     },
     {
       "source": "MarketWatch",
-      "title": "Allbirds\u2019 AI pivot sends its stock soaring 300%. We\u2019ve seen this film before."
+      "title": "Could pressure to make money faster kill the next lifesaving pill?"
     },
     {
       "source": "MarketWatch",
-      "title": "Nearly 90% of American adults are vulnerable because they are missing this key document"
+      "title": "Quantum stocks extend their gains. Why Nvidia\u2019s new models could give the industry a boost."
     }
   ]
 }
