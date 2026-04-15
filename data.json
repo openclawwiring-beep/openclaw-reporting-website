@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, April 15 2026  10:38 PT",
-  "market_status": "Live \u2014 as of 13:38 ET",
+  "generated_at": "Wednesday, April 15 2026  12:16 PT",
+  "market_status": "Live \u2014 as of 15:16 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7001.59,
-      "change_pct": 0.5
+      "price": 7018.56,
+      "change_pct": 0.74
     },
     "Nasdaq": {
-      "price": 23885.92,
-      "change_pct": 1.04
+      "price": 23964.21,
+      "change_pct": 1.38
     },
     "Dow Jones": {
-      "price": 48391.86,
-      "change_pct": -0.3
+      "price": 48458.6,
+      "change_pct": -0.16
     },
     "Russell 2000": {
-      "price": 2699.88,
-      "change_pct": -0.21
+      "price": 2708.88,
+      "change_pct": 0.13
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4822.9,
-      "change_pct": -0.55
+      "price": 4825.4,
+      "change_pct": -0.5
     },
     "Oil (WTI)": {
-      "price": 91.72,
-      "change_pct": 0.86
+      "price": 90.98,
+      "change_pct": 0.04
     },
     "Silver": {
-      "price": 79.54,
-      "change_pct": -0.48
+      "price": 79.56,
+      "change_pct": -0.46
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74160,
-      "change_pct": -0.32
+      "price": 74652,
+      "change_pct": 0.4
     },
     "ETH": {
-      "price": 2352.88,
-      "change_pct": 1.1
+      "price": 2364.86,
+      "change_pct": 1.88
     },
     "SOL": {
-      "price": 84.96,
-      "change_pct": 0.08
+      "price": 85.09,
+      "change_pct": 1.09
     },
     "BNB": {
-      "price": 621.47,
-      "change_pct": 0.8
+      "price": 623.03,
+      "change_pct": 1.29
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump threatens to fire Powell if the Fed chair doesn't leave office on his own"
+      "title": "White House budget chief Russell Vought won't estimate Iran war cost in testimony"
     },
     {
       "source": "MarketWatch",
-      "title": "Powell\u2019s term as Fed chair is coming to an end. Trump wants to fire him anyway."
+      "title": "U.S. economy is sagging with Iran war one major source of uncertainty for business, Fed\u2019s \u2018beige book\u2019 finds"
     },
     {
       "source": "MarketWatch",
-      "title": "Allbirds\u2019 AI pivot sends its stock soaring 600%. We\u2019ve seen this movie before."
+      "title": "Is Tesla a chip stock now? Investors are cheering a semiconductor milestone."
     }
   ]
 }
