@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 15 2026  03:42 PT",
+  "generated_at": "Wednesday, April 15 2026  04:55 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4818.2,
-      "change_pct": -0.65
+      "price": 4829.5,
+      "change_pct": -0.41
     },
     "Oil (WTI)": {
-      "price": 93.11,
-      "change_pct": 2.39
+      "price": 92.14,
+      "change_pct": 1.32
     },
     "Silver": {
-      "price": 78.67,
-      "change_pct": -1.57
+      "price": 78.92,
+      "change_pct": -1.26
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73880,
-      "change_pct": -0.71
+      "price": 74004,
+      "change_pct": -0.56
     },
     "ETH": {
-      "price": 2316.52,
-      "change_pct": -2.53
+      "price": 2326.33,
+      "change_pct": -2.08
     },
     "SOL": {
-      "price": 83.03,
-      "change_pct": -3.63
+      "price": 83.37,
+      "change_pct": -2.92
     },
     "BNB": {
-      "price": 616.6,
-      "change_pct": -0.18
+      "price": 618.82,
+      "change_pct": 0.33
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Snap's stock jumps 7% after announcing plans to lay off up to 16% of its workforce"
+      "title": "Morgan Stanley tops estimates as trading revenue exceeds expectations by $1 billion"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She\u2019s a smoker\u2019: My mother, 55, has no car and no job. Should I buy her life insurance?"
+      "title": "Bank of America\u2019s 30% jump in equities revenue helps power an earnings beat"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m selling my law practice and retiring. Do I pay off the $2 million loan on my office building \u2014 or keep the mortgage?"
+      "title": "April 15 is tax deadline day \u2014 and here\u2019s why it\u2019s also important for the stock market"
     }
   ]
 }
