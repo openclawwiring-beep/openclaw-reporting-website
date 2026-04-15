@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, April 15 2026  12:16 PT",
-  "market_status": "Live \u2014 as of 15:16 ET",
+  "generated_at": "Wednesday, April 15 2026  13:26 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7018.56,
-      "change_pct": 0.74
+      "price": 7022.95,
+      "change_pct": 0.8
     },
     "Nasdaq": {
-      "price": 23964.21,
-      "change_pct": 1.38
+      "price": 24016.02,
+      "change_pct": 1.59
     },
     "Dow Jones": {
-      "price": 48458.6,
-      "change_pct": -0.16
+      "price": 48463.72,
+      "change_pct": -0.15
     },
     "Russell 2000": {
-      "price": 2708.88,
-      "change_pct": 0.13
+      "price": 2713.66,
+      "change_pct": 0.3
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4825.4,
-      "change_pct": -0.5
+      "price": 4816.3,
+      "change_pct": -0.69
     },
     "Oil (WTI)": {
-      "price": 90.98,
-      "change_pct": 0.04
+      "price": 91.22,
+      "change_pct": 0.31
     },
     "Silver": {
-      "price": 79.56,
-      "change_pct": -0.46
+      "price": 79.31,
+      "change_pct": -0.78
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74652,
-      "change_pct": 0.4
+      "price": 74632,
+      "change_pct": 0.56
     },
     "ETH": {
-      "price": 2364.86,
-      "change_pct": 1.88
+      "price": 2359.11,
+      "change_pct": 2.01
     },
     "SOL": {
-      "price": 85.09,
-      "change_pct": 1.09
+      "price": 84.78,
+      "change_pct": 1.29
     },
     "BNB": {
-      "price": 623.03,
-      "change_pct": 1.29
+      "price": 623.13,
+      "change_pct": 1.49
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Here are all the ways the Iran war has affected the U.S. economy so far"
+      "title": "S&P 500 and Nasdaq Composite close at fresh records as traders look past Iran war fears: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "White House budget chief Russell Vought won't estimate Iran war cost in testimony"
+      "title": "Regulators are reportedly zeroing in on suspicious trades ahead of market-moving Trump post"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. economy is sagging with Iran war one major source of uncertainty for business, Fed\u2019s \u2018beige book\u2019 finds"
+      "title": "The Strait of Hormuz could matter a lot less in the future \u2014 here\u2019s how"
     },
     {
       "source": "MarketWatch",
-      "title": "Is Tesla a chip stock now? Investors are cheering a semiconductor milestone."
+      "title": "Live Nation stock falls as jury finds ticketing giant acted as an illegal monopoly"
     }
   ]
 }
