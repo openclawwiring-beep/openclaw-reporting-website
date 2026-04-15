@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 14 2026  22:11 PT",
+  "generated_at": "Wednesday, April 15 2026  00:07 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4850.8,
-      "change_pct": 0.07
+      "price": 4837.6,
+      "change_pct": -0.2
     },
     "Oil (WTI)": {
-      "price": 91.49,
-      "change_pct": 0.27
+      "price": 90.87,
+      "change_pct": -0.41
     },
     "Silver": {
-      "price": 79.96,
-      "change_pct": -0.08
+      "price": 79.35,
+      "change_pct": -0.84
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74261,
-      "change_pct": -0.16
+      "price": 73889,
+      "change_pct": -1.04
     },
     "ETH": {
-      "price": 2331.25,
-      "change_pct": -1.36
+      "price": 2319.23,
+      "change_pct": -2.55
     },
     "SOL": {
-      "price": 83.58,
-      "change_pct": -2.59
+      "price": 82.99,
+      "change_pct": -3.44
     },
     "BNB": {
-      "price": 615.7,
-      "change_pct": 0.33
+      "price": 614.72,
+      "change_pct": -0.03
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Central banks were buying gold at record levels. Here's why they're selling now"
+      "title": "U.S. says Hormuz blockade 'fully implemented,' while signaling diplomatic off-ramp for Iran"
     },
     {
       "source": "CNBC",
-      "title": "U.S. says Hormuz blockade 'fully implemented,' while signaling diplomatic off-ramp for Iran"
+      "title": "Trump takes aim at Pope Leo again, days after calling him 'weak on crime'"
     },
     {
       "source": "MarketWatch",
