@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, April 15 2026  09:04 PT",
-  "market_status": "Live \u2014 as of 12:04 ET",
+  "generated_at": "Wednesday, April 15 2026  10:38 PT",
+  "market_status": "Live \u2014 as of 13:38 ET",
   "stocks": {
     "S&P 500": {
-      "price": 6994.48,
-      "change_pct": 0.4
+      "price": 7001.59,
+      "change_pct": 0.5
     },
     "Nasdaq": {
-      "price": 23883.14,
-      "change_pct": 1.03
+      "price": 23885.92,
+      "change_pct": 1.04
     },
     "Dow Jones": {
-      "price": 48300.03,
-      "change_pct": -0.48
+      "price": 48391.86,
+      "change_pct": -0.3
     },
     "Russell 2000": {
-      "price": 2706.92,
-      "change_pct": 0.05
+      "price": 2699.88,
+      "change_pct": -0.21
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4827.9,
-      "change_pct": -0.45
+      "price": 4822.9,
+      "change_pct": -0.55
     },
     "Oil (WTI)": {
-      "price": 92.11,
-      "change_pct": 1.29
+      "price": 91.72,
+      "change_pct": 0.86
     },
     "Silver": {
-      "price": 79.63,
-      "change_pct": -0.37
+      "price": 79.54,
+      "change_pct": -0.48
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73926,
-      "change_pct": -2.03
+      "price": 74160,
+      "change_pct": -0.32
     },
     "ETH": {
-      "price": 2336.18,
-      "change_pct": -1.36
+      "price": 2352.88,
+      "change_pct": 1.1
     },
     "SOL": {
-      "price": 84.0,
-      "change_pct": -2.39
+      "price": 84.96,
+      "change_pct": 0.08
     },
     "BNB": {
-      "price": 619.45,
-      "change_pct": -0.81
+      "price": 621.47,
+      "change_pct": 0.8
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Could pressure to make money faster kill the next lifesaving pill?"
+      "title": "Powell\u2019s term as Fed chair is coming to an end. Trump wants to fire him anyway."
     },
     {
       "source": "MarketWatch",
-      "title": "Quantum stocks extend their gains. Why Nvidia\u2019s new models could give the industry a boost."
+      "title": "Allbirds\u2019 AI pivot sends its stock soaring 600%. We\u2019ve seen this movie before."
     }
   ]
 }
