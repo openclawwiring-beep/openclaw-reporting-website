@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 15 2026  00:07 PT",
+  "generated_at": "Wednesday, April 15 2026  02:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4837.6,
-      "change_pct": -0.2
+      "price": 4835.1,
+      "change_pct": -0.3
     },
     "Oil (WTI)": {
-      "price": 90.87,
-      "change_pct": -0.41
+      "price": 91.36,
+      "change_pct": 0.46
     },
     "Silver": {
-      "price": 79.35,
-      "change_pct": -0.84
+      "price": 79.27,
+      "change_pct": -0.82
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73889,
-      "change_pct": -1.04
+      "price": 74174,
+      "change_pct": -0.8
     },
     "ETH": {
-      "price": 2319.23,
-      "change_pct": -2.55
+      "price": 2329.23,
+      "change_pct": -2.49
     },
     "SOL": {
-      "price": 82.99,
+      "price": 83.21,
       "change_pct": -3.44
     },
     "BNB": {
-      "price": 614.72,
-      "change_pct": -0.03
+      "price": 614.74,
+      "change_pct": -0.51
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump takes aim at Pope Leo again, days after calling him 'weak on crime'"
+      "title": "Trump renews criticism of UK, saying it should \u2018drill, baby, drill\u2019 for North Sea oil"
     },
     {
       "source": "MarketWatch",
-      "title": "Need to file for a tax extension today? Read this first."
+      "title": "Daniel Craig and Rachel Weisz sell their elegant Brooklyn townhouse for $11.8 million"
     },
     {
       "source": "MarketWatch",
-      "title": "Why one analyst believes Microsoft\u2019s stock may be bottoming out"
+      "title": "Hermes and Gucci sales fall short on Middle East turmoil. Investors were surprised."
     }
   ]
 }
