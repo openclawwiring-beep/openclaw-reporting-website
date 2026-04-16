@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 15 2026  16:10 PT",
+  "generated_at": "Wednesday, April 15 2026  17:05 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4829.3,
-      "change_pct": -0.42
+      "price": 4845.5,
+      "change_pct": -0.08
     },
     "Oil (WTI)": {
-      "price": 91.03,
-      "change_pct": 0.1
+      "price": 91.0,
+      "change_pct": 0.07
     },
     "Silver": {
-      "price": 79.5,
-      "change_pct": -0.53
+      "price": 79.64,
+      "change_pct": -0.36
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74835,
-      "change_pct": 0.94
+      "price": 74709,
+      "change_pct": 0.06
     },
     "ETH": {
-      "price": 2360.96,
-      "change_pct": 1.76
+      "price": 2355.84,
+      "change_pct": 0.65
     },
     "SOL": {
-      "price": 84.87,
-      "change_pct": 1.56
+      "price": 84.77,
+      "change_pct": 1.05
     },
     "BNB": {
-      "price": 623.86,
-      "change_pct": 1.49
+      "price": 622.35,
+      "change_pct": 1.0
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She\u2019s a smoker\u2019: My mother, 55, has no car and no job. Should I buy her life insurance?"
+      "title": "I gave my friend\u2019s daughter cash for her wedding. I did not receive a thank-you card. Do I say something?"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m selling my law practice and retiring. Do I pay off the $2 million loan on my office building \u2014 or keep the mortgage?"
+      "title": "My friend\u2019s girlfriend went \u2018ballistic\u2019 after learning he gives his kids $19,000 a year. Is this a red flag?"
     }
   ]
 }
