@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 15 2026  17:05 PT",
+  "generated_at": "Wednesday, April 15 2026  20:53 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4845.5,
-      "change_pct": -0.08
+      "price": 4842.1,
+      "change_pct": -0.15
     },
     "Oil (WTI)": {
-      "price": 91.0,
-      "change_pct": 0.07
+      "price": 91.61,
+      "change_pct": 0.74
     },
     "Silver": {
-      "price": 79.64,
-      "change_pct": -0.36
+      "price": 80.42,
+      "change_pct": 0.61
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74709,
-      "change_pct": 0.06
+      "price": 74926,
+      "change_pct": 0.83
     },
     "ETH": {
-      "price": 2355.84,
-      "change_pct": 0.65
+      "price": 2358.75,
+      "change_pct": 1.37
     },
     "SOL": {
-      "price": 84.77,
-      "change_pct": 1.05
+      "price": 85.32,
+      "change_pct": 2.3
     },
     "BNB": {
-      "price": 622.35,
-      "change_pct": 1.0
+      "price": 624.61,
+      "change_pct": 1.45
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I gave my friend\u2019s daughter cash for her wedding. I did not receive a thank-you card. Do I say something?"
+      "title": "Is Tesla a chip stock now? Investors are cheering a semiconductor milestone."
     },
     {
       "source": "MarketWatch",
-      "title": "My friend\u2019s girlfriend went \u2018ballistic\u2019 after learning he gives his kids $19,000 a year. Is this a red flag?"
+      "title": "Allbirds\u2019 AI pivot sends its stock soaring nearly 600%. We\u2019ve seen this movie before."
     }
   ]
 }
