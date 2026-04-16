@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 16 2026  01:12 PT",
+  "generated_at": "Thursday, April 16 2026  02:55 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4837.0,
-      "change_pct": -0.22
+      "price": 4833.5,
+      "change_pct": -0.29
     },
     "Oil (WTI)": {
       "price": 89.33,
       "change_pct": -2.62
     },
     "Silver": {
-      "price": 80.17,
-      "change_pct": -0.55
+      "price": 79.71,
+      "change_pct": -1.12
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74563,
-      "change_pct": 1.05
+      "price": 74637,
+      "change_pct": 0.91
     },
     "ETH": {
-      "price": 2336.56,
-      "change_pct": 0.79
+      "price": 2339.02,
+      "change_pct": 0.83
     },
     "SOL": {
-      "price": 85.12,
-      "change_pct": 2.73
+      "price": 85.28,
+      "change_pct": 2.6
     },
     "BNB": {
-      "price": 621.92,
-      "change_pct": 1.67
+      "price": 622.8,
+      "change_pct": 1.18
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says Israel and Lebanon leaders to hold talks after first high-level meeting in decades"
+      "title": "TSMC first-quarter profit rises 58%, beats estimates as AI demand fuels record run"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures are marginally higher following a record-setting day for S&P 500 and Nasdaq: Live updates"
+      "title": "Spirit Airlines could liquidate as early as this week, sources say"
     },
     {
       "source": "MarketWatch",
-      "title": "Is Tesla a chip stock now? Investors are cheering a semiconductor milestone."
+      "title": "I\u2019m selling my law practice and retiring. Do I pay off the $2 million mortgage on my office building \u2014 or rent it out?"
     },
     {
       "source": "MarketWatch",
-      "title": "Allbirds\u2019 AI pivot sends its stock soaring nearly 600%. We\u2019ve seen this movie before."
+      "title": "\u2018Felony charges are pending\u2019: My mother set up a trust for my sibling who stole $100,000 from a bank. Can the trust be seized?"
     }
   ]
 }
