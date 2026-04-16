@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 15 2026  20:53 PT",
+  "generated_at": "Wednesday, April 15 2026  23:00 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4842.1,
-      "change_pct": -0.15
+      "price": 4851.6,
+      "change_pct": 0.08
     },
     "Oil (WTI)": {
-      "price": 91.61,
-      "change_pct": 0.74
+      "price": 91.68,
+      "change_pct": -0.05
     },
     "Silver": {
-      "price": 80.42,
-      "change_pct": 0.61
+      "price": 80.65,
+      "change_pct": 0.06
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74926,
-      "change_pct": 0.83
+      "price": 75046,
+      "change_pct": 1.35
     },
     "ETH": {
-      "price": 2358.75,
-      "change_pct": 1.37
+      "price": 2356.9,
+      "change_pct": 1.56
     },
     "SOL": {
-      "price": 85.32,
-      "change_pct": 2.3
+      "price": 85.39,
+      "change_pct": 2.83
     },
     "BNB": {
-      "price": 624.61,
-      "change_pct": 1.45
+      "price": 625.03,
+      "change_pct": 1.86
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures are little changed following a record-setting day for S&P 500 and Nasdaq: Live updates"
+      "title": "Trump says Israel and Lebanon leaders to hold talks after first high-level meeting in decades"
     },
     {
       "source": "CNBC",
-      "title": "Regulators are reportedly zeroing in on suspicious trades ahead of market-moving Trump post"
+      "title": "Stock futures are little changed following a record-setting day for S&P 500 and Nasdaq: Live updates"
     },
     {
       "source": "MarketWatch",
