@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 16 2026  14:10 PT",
+  "generated_at": "Thursday, April 16 2026  15:06 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75190,
-      "change_pct": 0.52
+      "price": 75063,
+      "change_pct": 0.12
     },
     "ETH": {
-      "price": 2351.6,
-      "change_pct": -0.28
+      "price": 2347.28,
+      "change_pct": -1.06
     },
     "SOL": {
-      "price": 89.44,
-      "change_pct": 5.61
+      "price": 89.28,
+      "change_pct": 4.95
     },
     "BNB": {
-      "price": 634.8,
-      "change_pct": 1.81
+      "price": 634.02,
+      "change_pct": 1.4
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The S&P 500\u2019s record high may be an illusion \u2014 and this rally is a warning"
+      "title": "Netflix co-founder Reed Hastings to exit company, saying it\u2019s so strong it doesn\u2019t need him anymore"
     },
     {
       "source": "MarketWatch",
-      "title": "Netflix co-founder Reed Hastings to exit company, saying it\u2019s so strong it doesn\u2019t need him anymore"
+      "title": "Tesla, IBM and Intel report earnings next week \u2014 here\u2019s the best way to play a volatile market"
     }
   ]
 }
