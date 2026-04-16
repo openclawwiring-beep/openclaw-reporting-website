@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 15 2026  23:00 PT",
+  "generated_at": "Thursday, April 16 2026  01:12 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4851.6,
-      "change_pct": 0.08
+      "price": 4837.0,
+      "change_pct": -0.22
     },
     "Oil (WTI)": {
-      "price": 91.68,
-      "change_pct": -0.05
+      "price": 89.33,
+      "change_pct": -2.62
     },
     "Silver": {
-      "price": 80.65,
-      "change_pct": 0.06
+      "price": 80.17,
+      "change_pct": -0.55
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75046,
-      "change_pct": 1.35
+      "price": 74563,
+      "change_pct": 1.05
     },
     "ETH": {
-      "price": 2356.9,
-      "change_pct": 1.56
+      "price": 2336.56,
+      "change_pct": 0.79
     },
     "SOL": {
-      "price": 85.39,
-      "change_pct": 2.83
+      "price": 85.12,
+      "change_pct": 2.73
     },
     "BNB": {
-      "price": 625.03,
-      "change_pct": 1.86
+      "price": 621.92,
+      "change_pct": 1.67
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Stock futures are little changed following a record-setting day for S&P 500 and Nasdaq: Live updates"
+      "title": "Stock futures are marginally higher following a record-setting day for S&P 500 and Nasdaq: Live updates"
     },
     {
       "source": "MarketWatch",
