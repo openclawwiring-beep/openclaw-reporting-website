@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 16 2026  13:09 PT",
+  "generated_at": "Thursday, April 16 2026  14:10 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,58 +15,58 @@
       "change_pct": 0.24
     },
     "Russell 2000": {
-      "price": 2716.34,
-      "change_pct": 0.1
+      "price": 2719.6,
+      "change_pct": 0.22
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4814.2,
-      "change_pct": -0.69
+      "price": 4810.9,
+      "change_pct": -0.76
     },
     "Oil (WTI)": {
-      "price": 90.1,
-      "change_pct": -1.78
+      "price": 89.65,
+      "change_pct": -2.27
     },
     "Silver": {
-      "price": 78.78,
-      "change_pct": -2.28
+      "price": 78.46,
+      "change_pct": -2.67
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75290,
-      "change_pct": 0.7
+      "price": 75190,
+      "change_pct": 0.52
     },
     "ETH": {
-      "price": 2356.58,
-      "change_pct": -0.36
+      "price": 2351.6,
+      "change_pct": -0.28
     },
     "SOL": {
-      "price": 90.11,
-      "change_pct": 5.85
+      "price": 89.44,
+      "change_pct": 5.61
     },
     "BNB": {
-      "price": 636.07,
-      "change_pct": 1.95
+      "price": 634.8,
+      "change_pct": 1.81
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. Navy blockade of Iran enters fourth day. Here\u2019s the latest tanker traffic in Strait of Hormuz"
+      "title": "Netflix posts massive earnings beat thanks to WBD breakup, announces Reed Hastings to exit board"
     },
     {
       "source": "CNBC",
-      "title": "Michael Burry buys the dip in Salesforce and other software stocks after AI-fueled sell-off"
+      "title": "U.S. Navy blockade of Iran enters fourth day. Here\u2019s the latest tanker traffic in Strait of Hormuz"
     },
     {
       "source": "MarketWatch",
-      "title": "Stocks usually take the escalator up and the elevator down. In this latest rebound, it is happening in reverse."
+      "title": "The S&P 500\u2019s record high may be an illusion \u2014 and this rally is a warning"
     },
     {
       "source": "MarketWatch",
-      "title": "Jury finds that Live Nation is an illegal monopoly, but a breakup with Ticketmaster is unlikely, analysts say"
+      "title": "Netflix co-founder Reed Hastings to exit company, saying it\u2019s so strong it doesn\u2019t need him anymore"
     }
   ]
 }
