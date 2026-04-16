@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 16 2026  02:55 PT",
+  "generated_at": "Thursday, April 16 2026  04:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4833.5,
-      "change_pct": -0.29
+      "price": 4830.9,
+      "change_pct": -0.35
     },
     "Oil (WTI)": {
-      "price": 89.33,
-      "change_pct": -2.62
+      "price": 89.15,
+      "change_pct": -2.81
     },
     "Silver": {
-      "price": 79.71,
-      "change_pct": -1.12
+      "price": 79.79,
+      "change_pct": -1.01
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74637,
-      "change_pct": 0.91
+      "price": 74326,
+      "change_pct": 0.4
     },
     "ETH": {
-      "price": 2339.02,
-      "change_pct": 0.83
+      "price": 2333.08,
+      "change_pct": 0.45
     },
     "SOL": {
-      "price": 85.28,
-      "change_pct": 2.6
+      "price": 85.06,
+      "change_pct": 2.06
     },
     "BNB": {
-      "price": 622.8,
-      "change_pct": 1.18
+      "price": 619.85,
+      "change_pct": 0.33
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "TSMC first-quarter profit rises 58%, beats estimates as AI demand fuels record run"
+      "title": "PepsiCo earnings beat estimates as Doritos, Lay's price cuts win back shoppers"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m selling my law practice and retiring. Do I pay off the $2 million mortgage on my office building \u2014 or rent it out?"
+      "title": "Why this market rally still has room to run \u2014 until these two signals flash"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Felony charges are pending\u2019: My mother set up a trust for my sibling who stole $100,000 from a bank. Can the trust be seized?"
+      "title": "Retail investors missed the rally. Why strategist Tom Lee says they\u2019ll lead the next one."
     }
   ]
 }
