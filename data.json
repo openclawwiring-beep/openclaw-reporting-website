@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, April 16 2026  05:42 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, April 16 2026  07:55 PT",
+  "market_status": "Live \u2014 as of 10:55 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7022.95,
-      "change_pct": 0.8
+      "price": 7023.82,
+      "change_pct": 0.02
     },
     "Nasdaq": {
-      "price": 24016.02,
-      "change_pct": 1.59
+      "price": 24005.94,
+      "change_pct": -0.04
     },
     "Dow Jones": {
-      "price": 48463.72,
-      "change_pct": -0.15
+      "price": 48422.65,
+      "change_pct": -0.08
     },
     "Russell 2000": {
-      "price": 2713.66,
-      "change_pct": 0.3
+      "price": 2701.53,
+      "change_pct": -0.45
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4835.5,
-      "change_pct": -0.25
+      "price": 4809.6,
+      "change_pct": -0.79
     },
     "Oil (WTI)": {
-      "price": 88.82,
-      "change_pct": -3.17
+      "price": 90.21,
+      "change_pct": -1.66
     },
     "Silver": {
-      "price": 79.27,
-      "change_pct": -1.66
+      "price": 78.66,
+      "change_pct": -2.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74643,
-      "change_pct": 0.36
+      "price": 74015,
+      "change_pct": -0.19
     },
     "ETH": {
-      "price": 2337.78,
-      "change_pct": -0.0
+      "price": 2310.4,
+      "change_pct": -1.18
     },
     "SOL": {
-      "price": 85.25,
-      "change_pct": 1.87
+      "price": 85.31,
+      "change_pct": 1.25
     },
     "BNB": {
-      "price": 621.47,
-      "change_pct": 0.43
+      "price": 619.93,
+      "change_pct": 0.21
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "PepsiCo earnings beat estimates as Doritos, Lay's price cuts win back shoppers"
+      "title": "TSMC and ASML post-earnings stock moves could be a sign of what's to come from chip companies"
     },
     {
       "source": "CNBC",
-      "title": "Europe could run out of jet fuel in 6 weeks, IEA chief tells AP"
+      "title": "U.S. Navy stopped 13 ships from passing Iranian port blockade, Pentagon says"
     },
     {
       "source": "MarketWatch",
-      "title": "Why this market rally still has room to run \u2014 until these two signals flash"
+      "title": "People are actively managing their money more than ever, Charles Schwab says"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We keep our finances separate\u2019: My boyfriend is in his 50s with no retirement savings \u2014 how worried should I be?"
+      "title": "I\u2019m selling my law practice and retiring. Do I pay off the $2 million mortgage on my office building \u2014 or rent it out?"
     }
   ]
 }
