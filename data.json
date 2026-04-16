@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 16 2026  15:06 PT",
+  "generated_at": "Thursday, April 16 2026  16:08 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4810.9,
-      "change_pct": -0.76
+      "price": 4817.2,
+      "change_pct": -0.63
     },
     "Oil (WTI)": {
-      "price": 89.65,
-      "change_pct": -2.27
+      "price": 89.59,
+      "change_pct": -2.33
     },
     "Silver": {
-      "price": 78.46,
-      "change_pct": -2.67
+      "price": 78.92,
+      "change_pct": -2.1
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75063,
-      "change_pct": 0.12
+      "price": 74993,
+      "change_pct": 0.24
     },
     "ETH": {
-      "price": 2347.28,
-      "change_pct": -1.06
+      "price": 2345.31,
+      "change_pct": -0.64
     },
     "SOL": {
-      "price": 89.28,
-      "change_pct": 4.95
+      "price": 89.01,
+      "change_pct": 4.86
     },
     "BNB": {
-      "price": 634.02,
-      "change_pct": 1.4
+      "price": 634.22,
+      "change_pct": 1.69
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Netflix posts massive earnings beat thanks to WBD breakup, announces Reed Hastings to exit board"
+      "title": "Israel and Lebanon agree to 10-day ceasefire, Trump says"
     },
     {
       "source": "CNBC",
-      "title": "U.S. Navy blockade of Iran enters fourth day. Here\u2019s the latest tanker traffic in Strait of Hormuz"
+      "title": "Netflix stock sinks despite earnings beat, streamer says Reed Hastings to exit board"
     },
     {
       "source": "MarketWatch",
-      "title": "Netflix co-founder Reed Hastings to exit company, saying it\u2019s so strong it doesn\u2019t need him anymore"
+      "title": "Jury finds that Live Nation is an illegal monopoly, but a breakup with Ticketmaster is unlikely, analysts say"
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla, IBM and Intel report earnings next week \u2014 here\u2019s the best way to play a volatile market"
+      "title": "AMD has \u2018indispensable assets\u2019 \u2014 powering the stock toward its best run in two decades"
     }
   ]
 }
