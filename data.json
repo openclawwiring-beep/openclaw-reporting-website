@@ -1,60 +1,60 @@
 {
-  "generated_at": "Thursday, April 16 2026  09:22 PT",
-  "market_status": "Live \u2014 as of 12:22 ET",
+  "generated_at": "Thursday, April 16 2026  10:51 PT",
+  "market_status": "Live \u2014 as of 13:51 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7046.45,
-      "change_pct": 0.35
+      "price": 7037.15,
+      "change_pct": 0.21
     },
     "Nasdaq": {
-      "price": 24134.8,
-      "change_pct": 0.49
+      "price": 24098.08,
+      "change_pct": 0.34
     },
     "Dow Jones": {
-      "price": 48569.53,
-      "change_pct": 0.22
+      "price": 48531.12,
+      "change_pct": 0.15
     },
     "Russell 2000": {
-      "price": 2718.15,
-      "change_pct": 0.17
+      "price": 2710.58,
+      "change_pct": -0.11
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4825.2,
-      "change_pct": -0.46
+      "price": 4805.7,
+      "change_pct": -0.87
     },
     "Oil (WTI)": {
-      "price": 90.47,
-      "change_pct": -1.37
+      "price": 91.6,
+      "change_pct": -0.14
     },
     "Silver": {
-      "price": 78.94,
-      "change_pct": -2.07
+      "price": 78.34,
+      "change_pct": -2.82
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74806,
-      "change_pct": 0.91
+      "price": 74404,
+      "change_pct": 0.39
     },
     "ETH": {
-      "price": 2340.75,
-      "change_pct": -0.21
+      "price": 2327.06,
+      "change_pct": -0.86
     },
     "SOL": {
-      "price": 86.76,
-      "change_pct": 2.55
+      "price": 86.34,
+      "change_pct": 2.07
     },
     "BNB": {
-      "price": 627.79,
-      "change_pct": 1.14
+      "price": 627.38,
+      "change_pct": 1.01
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Israel and Lebanon agree to 10-day ceasefire, Trump says"
+      "title": "U.S. Navy blockade of Iran enters fourth day. Here\u2019s the latest tanker traffic in Strait of Hormuz"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Mortgage rates dip to 4-week low \u2014 just in time for the best week of the year to sell a home"
+      "title": "2 expensive mistakes most retirees make \u2014 and how to avoid them"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Felony charges are pending\u2019: My mother set up a trust for my sibling who stole $100,000 from a bank. Can the trust be seized?"
+      "title": "\u2018She\u2019s a smoker\u2019: My mother, 55, has no car and no job. Should I buy her life insurance?"
     }
   ]
 }
