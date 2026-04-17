@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, April 17 2026  14:40 PT",
+  "generated_at": "Friday, April 17 2026  15:38 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77372,
-      "change_pct": 3.22
+      "price": 77464,
+      "change_pct": 3.39
     },
     "ETH": {
-      "price": 2426.53,
-      "change_pct": 3.66
+      "price": 2442.06,
+      "change_pct": 4.24
     },
     "SOL": {
-      "price": 89.04,
-      "change_pct": 0.1
+      "price": 89.36,
+      "change_pct": 0.26
     },
     "BNB": {
-      "price": 642.17,
-      "change_pct": 1.32
+      "price": 644.04,
+      "change_pct": 1.81
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Fed Governor Waller says Iran war and labor market risks are keeping central bank on hold"
+      "title": "Video shows ships turning away from the Strait of Hormuz as confusion persists over whether sea lane is really open"
     },
     {
       "source": "MarketWatch",
-      "title": "New Social Security proposal would cap payments for wealthy people now \u2014 and many more later on"
+      "title": "\u2018I hope to retire at 59\u2019: I have $950,000 in my 401(k)s. When do I do a Roth conversion?"
     },
     {
       "source": "MarketWatch",
-      "title": "Nasdaq scores longest winning streak since 1992 as historic stock-market comeback continues"
+      "title": "Why do older sellers get less money for their homes than younger sellers?"
     }
   ]
 }
