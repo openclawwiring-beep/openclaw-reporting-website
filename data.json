@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 16 2026  17:04 PT",
+  "generated_at": "Thursday, April 16 2026  20:50 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4814.6,
-      "change_pct": -0.68
+      "price": 4813.1,
+      "change_pct": -0.71
     },
     "Oil (WTI)": {
-      "price": 90.13,
-      "change_pct": -1.74
+      "price": 89.94,
+      "change_pct": -1.95
     },
     "Silver": {
-      "price": 78.79,
-      "change_pct": -2.26
+      "price": 78.86,
+      "change_pct": -2.16
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75140,
-      "change_pct": 0.51
+      "price": 74776,
+      "change_pct": -0.25
     },
     "ETH": {
-      "price": 2349.83,
-      "change_pct": -0.32
+      "price": 2329.09,
+      "change_pct": -1.34
     },
     "SOL": {
-      "price": 89.13,
-      "change_pct": 5.03
+      "price": 87.79,
+      "change_pct": 2.85
     },
     "BNB": {
-      "price": 636.37,
-      "change_pct": 2.22
+      "price": 630.28,
+      "change_pct": 0.86
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Israel and Lebanon agree to 10-day ceasefire, Trump says"
+      "title": "Trump says war in Iran is going 'swimmingly' and 'should be ending pretty soon'"
     },
     {
       "source": "CNBC",
-      "title": "Netflix stock sinks despite earnings beat, streamer says Reed Hastings to exit board"
+      "title": "Trump nominates Erica Schwartz as CDC director amid turmoil around leadership, vaccine policy"
     },
     {
       "source": "MarketWatch",
-      "title": "Mutual insurance companies are paying record-breaking dividends to their customers this year. Is using one right for you?"
+      "title": "2 expensive mistakes most retirees make \u2014 and how to avoid them"
     },
     {
       "source": "MarketWatch",
-      "title": "With the largest industrial IPO since 1999, this air-quality giant\u2019s stock opens with a bang"
+      "title": "Netflix co-founder Reed Hastings to exit company, saying it\u2019s so strong it doesn\u2019t need him anymore"
     }
   ]
 }
