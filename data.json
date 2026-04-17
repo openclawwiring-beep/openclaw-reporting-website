@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, April 17 2026  03:55 PT",
+  "generated_at": "Friday, April 17 2026  04:52 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4806.5,
-      "change_pct": -0.16
+      "price": 4816.6,
+      "change_pct": 0.05
     },
     "Oil (WTI)": {
-      "price": 88.01,
-      "change_pct": -2.03
+      "price": 87.92,
+      "change_pct": -2.13
     },
     "Silver": {
-      "price": 79.34,
-      "change_pct": 0.44
+      "price": 79.48,
+      "change_pct": 0.62
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75275,
+      "price": 75481,
       "change_pct": 1.27
     },
     "ETH": {
-      "price": 2343.47,
-      "change_pct": 0.49
+      "price": 2352.77,
+      "change_pct": 0.75
     },
     "SOL": {
-      "price": 87.65,
-      "change_pct": 3.05
+      "price": 88.12,
+      "change_pct": 3.67
     },
     "BNB": {
-      "price": 630.26,
-      "change_pct": 1.64
+      "price": 632.65,
+      "change_pct": 1.88
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Tanker diplomacy: Trump faces tests from Havana to Hormuz"
+      "title": "U.S. tech companies ramp up government lobbying amid Iran war uncertainty"
     },
     {
       "source": "MarketWatch",
