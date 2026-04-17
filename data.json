@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, April 17 2026  02:53 PT",
+  "generated_at": "Friday, April 17 2026  03:55 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4816.1,
-      "change_pct": 0.04
+      "price": 4806.5,
+      "change_pct": -0.16
     },
     "Oil (WTI)": {
-      "price": 87.64,
-      "change_pct": -2.44
+      "price": 88.01,
+      "change_pct": -2.03
     },
     "Silver": {
-      "price": 79.79,
-      "change_pct": 1.02
+      "price": 79.34,
+      "change_pct": 0.44
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75790,
-      "change_pct": 1.55
+      "price": 75275,
+      "change_pct": 1.27
     },
     "ETH": {
-      "price": 2356.78,
-      "change_pct": 0.76
+      "price": 2343.47,
+      "change_pct": 0.49
     },
     "SOL": {
-      "price": 88.53,
-      "change_pct": 3.84
+      "price": 87.65,
+      "change_pct": 3.05
     },
     "BNB": {
-      "price": 631.63,
-      "change_pct": 1.43
+      "price": 630.26,
+      "change_pct": 1.64
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Nvidia rival tells CNBC it's seeking at least $100 million in funding as European AI chip market booms"
+      "title": "Tanker diplomacy: Trump faces tests from Havana to Hormuz"
     },
     {
       "source": "MarketWatch",
-      "title": "Former Treasury Secretary Henry Paulson warns U.S. needs an emergency \u2018break-the-glass\u2019 plan if Treasury demand collapses"
+      "title": "These two sectors have been boosted by AI hopes. Why investors should buy one, and trim exposure to the other."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I hope to retire at 59\u2019: I have $950,000 in my 401(k)s. When do I do a Roth conversion?"
+      "title": "Netflix co-founder Reed Hastings to exit company, saying it\u2019s so strong it doesn\u2019t need him anymore"
     }
   ]
 }
