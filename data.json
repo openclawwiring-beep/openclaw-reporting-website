@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, April 17 2026  01:12 PT",
+  "generated_at": "Friday, April 17 2026  02:53 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4810.8,
-      "change_pct": -0.07
+      "price": 4816.1,
+      "change_pct": 0.04
     },
     "Oil (WTI)": {
-      "price": 89.86,
-      "change_pct": 0.03
+      "price": 87.64,
+      "change_pct": -2.44
     },
     "Silver": {
-      "price": 79.1,
-      "change_pct": 0.13
+      "price": 79.79,
+      "change_pct": 1.02
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75093,
-      "change_pct": 0.71
+      "price": 75790,
+      "change_pct": 1.55
     },
     "ETH": {
-      "price": 2336.76,
-      "change_pct": -0.0
+      "price": 2356.78,
+      "change_pct": 0.76
     },
     "SOL": {
-      "price": 88.25,
-      "change_pct": 3.64
+      "price": 88.53,
+      "change_pct": 3.84
     },
     "BNB": {
-      "price": 628.42,
-      "change_pct": 1.09
+      "price": 631.63,
+      "change_pct": 1.43
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says war in Iran is going 'swimmingly' and 'should be ending pretty soon'"
+      "title": "Oil falls as Trump reiterates Iran war \u2018should\u2019 end soon and Israel-Lebanon truce lifts hopes"
     },
     {
       "source": "CNBC",
-      "title": "Trump nominates Erica Schwartz as CDC director amid turmoil around leadership, vaccine policy"
+      "title": "Nvidia rival tells CNBC it's seeking at least $100 million in funding as European AI chip market booms"
     },
     {
       "source": "MarketWatch",
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Jury finds that Live Nation is an illegal monopoly, but a breakup with Ticketmaster is unlikely, analysts say"
+      "title": "\u2018I hope to retire at 59\u2019: I have $950,000 in my 401(k)s. When do I do a Roth conversion?"
     }
   ]
 }
