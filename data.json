@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, April 17 2026  06:18 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, April 17 2026  07:40 PT",
+  "market_status": "Live \u2014 as of 10:40 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7041.28,
-      "change_pct": 0.26
+      "price": 7127.15,
+      "change_pct": 1.25
     },
     "Nasdaq": {
-      "price": 24102.7,
-      "change_pct": 0.36
+      "price": 24449.89,
+      "change_pct": 1.44
     },
     "Dow Jones": {
-      "price": 48578.72,
-      "change_pct": 0.24
+      "price": 49564.2,
+      "change_pct": 2.06
     },
     "Russell 2000": {
-      "price": 2719.6,
-      "change_pct": 0.22
+      "price": 2772.6,
+      "change_pct": 1.95
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4876.7,
-      "change_pct": 1.3
+      "price": 4894.0,
+      "change_pct": 1.66
     },
     "Oil (WTI)": {
-      "price": 81.88,
-      "change_pct": -8.85
+      "price": 80.99,
+      "change_pct": -9.84
     },
     "Silver": {
-      "price": 81.94,
-      "change_pct": 3.73
+      "price": 82.64,
+      "change_pct": 4.61
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76767,
-      "change_pct": 2.55
+      "price": 77835,
+      "change_pct": 5.31
     },
     "ETH": {
-      "price": 2406.21,
-      "change_pct": 2.56
+      "price": 2446.22,
+      "change_pct": 6.3
     },
     "SOL": {
-      "price": 89.72,
-      "change_pct": 4.56
+      "price": 90.28,
+      "change_pct": 6.65
     },
     "BNB": {
-      "price": 639.67,
-      "change_pct": 2.63
+      "price": 644.98,
+      "change_pct": 4.33
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran declares Strait of Hormuz completely open to commercial traffic during Israel-Lebanon ceasefire"
+      "title": "Iran declares Strait of Hormuz open to shipping; Trump says U.S. blockade still active"
     },
     {
       "source": "CNBC",
-      "title": "Dow futures rally 500 after Iran declares Strait of Hormuz open amid Lebanon ceasefire: Live updates"
+      "title": "Oil prices tumble more than 10% as Iran declares Strait of Hormuz open, easing supply fears"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. oil prices drop below $83 a barrel after Iran declares Strait of Hormuz \u2018completely open\u2019 during cease-fire"
+      "title": "\u2018I have more money than I know what to do with\u2019: I\u2019m a single millionaire with no heirs and don\u2019t like spending. What\u2019s wrong?"
     },
     {
       "source": "MarketWatch",
-      "title": "Even OpenAi\u2019s top economist thinks the AI job apocalypse is overstated. Here\u2019s why."
+      "title": "Mortgage rates dip to 4-week low \u2014 just in time for the best week of the year to sell a home"
     }
   ]
 }
