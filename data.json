@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, April 17 2026  13:42 PT",
+  "generated_at": "Friday, April 17 2026  14:40 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4865.5,
-      "change_pct": 1.07
+      "price": 4849.4,
+      "change_pct": 0.73
     },
     "Oil (WTI)": {
-      "price": 83.34,
-      "change_pct": -7.22
+      "price": 84.0,
+      "change_pct": -6.49
     },
     "Silver": {
-      "price": 81.26,
-      "change_pct": 2.88
+      "price": 80.93,
+      "change_pct": 2.46
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77257,
-      "change_pct": 2.93
+      "price": 77372,
+      "change_pct": 3.22
     },
     "ETH": {
-      "price": 2421.9,
-      "change_pct": 3.3
+      "price": 2426.53,
+      "change_pct": 3.66
     },
     "SOL": {
-      "price": 88.76,
-      "change_pct": -0.68
+      "price": 89.04,
+      "change_pct": 0.1
     },
     "BNB": {
-      "price": 639.91,
-      "change_pct": 0.99
+      "price": 642.17,
+      "change_pct": 1.32
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Most U.S. farmers can\u2019t afford all the fertilizer they need this year. Opening the Strait of Hormuz comes too late."
+      "title": "New Social Security proposal would cap payments for wealthy people now \u2014 and many more later on"
     },
     {
       "source": "MarketWatch",
-      "title": "A \u2018full normalization scenario\u2019 for oil is still out of reach \u2014 even with the Strait of Hormuz now open"
+      "title": "Nasdaq scores longest winning streak since 1992 as historic stock-market comeback continues"
     }
   ]
 }
