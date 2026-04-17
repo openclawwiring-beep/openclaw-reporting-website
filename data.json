@@ -1,60 +1,60 @@
 {
-  "generated_at": "Friday, April 17 2026  09:00 PT",
-  "market_status": "Live \u2014 as of 12:00 ET",
+  "generated_at": "Friday, April 17 2026  10:13 PT",
+  "market_status": "Live \u2014 as of 13:13 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7130.26,
-      "change_pct": 1.29
+      "price": 7134.93,
+      "change_pct": 1.36
     },
     "Nasdaq": {
-      "price": 24447.75,
-      "change_pct": 1.43
+      "price": 24471.82,
+      "change_pct": 1.53
     },
     "Dow Jones": {
-      "price": 49648.01,
-      "change_pct": 2.23
+      "price": 49601.15,
+      "change_pct": 2.13
     },
     "Russell 2000": {
-      "price": 2775.34,
-      "change_pct": 2.05
+      "price": 2791.56,
+      "change_pct": 2.65
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4887.4,
-      "change_pct": 1.52
+      "price": 4889.4,
+      "change_pct": 1.56
     },
     "Oil (WTI)": {
-      "price": 81.21,
-      "change_pct": -9.6
+      "price": 81.8,
+      "change_pct": -8.94
     },
     "Silver": {
-      "price": 82.46,
-      "change_pct": 4.39
+      "price": 82.36,
+      "change_pct": 4.27
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77836,
-      "change_pct": 4.14
+      "price": 77572,
+      "change_pct": 4.7
     },
     "ETH": {
-      "price": 2444.28,
-      "change_pct": 4.45
+      "price": 2439.03,
+      "change_pct": 5.26
     },
     "SOL": {
-      "price": 90.0,
-      "change_pct": 3.87
+      "price": 89.93,
+      "change_pct": 4.53
     },
     "BNB": {
-      "price": 643.83,
-      "change_pct": 2.99
+      "price": 643.62,
+      "change_pct": 2.96
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran declares Strait of Hormuz open to shipping; Trump says U.S. blockade still active"
+      "title": "Iran declares Strait of Hormuz open to shipping but Trump says U.S. blockade still active"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Is the inflation scare over? Iran cease-fire leads to hope for more Fed interest-rate cuts."
+      "title": "Iran has declared the Strait of Hormuz \u2018completely open.\u2019 Here\u2019s what that really means."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have more money than I know what to do with\u2019: I\u2019m a single millionaire with no heirs and don\u2019t like spending. What\u2019s wrong with me?"
+      "title": "The world\u2019s most stable asset is losing its grip \u2014 leaving your paycheck and retirement vulnerable to inflation"
     }
   ]
 }
