@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 16 2026  20:50 PT",
+  "generated_at": "Thursday, April 16 2026  23:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4813.1,
-      "change_pct": -0.71
+      "price": 4821.9,
+      "change_pct": 0.26
     },
     "Oil (WTI)": {
-      "price": 89.94,
-      "change_pct": -1.95
+      "price": 89.45,
+      "change_pct": -0.59
     },
     "Silver": {
-      "price": 78.86,
-      "change_pct": -2.16
+      "price": 79.24,
+      "change_pct": 0.92
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74776,
-      "change_pct": -0.25
+      "price": 74649,
+      "change_pct": -0.55
     },
     "ETH": {
-      "price": 2329.09,
-      "change_pct": -1.34
+      "price": 2319.28,
+      "change_pct": -1.63
     },
     "SOL": {
-      "price": 87.79,
-      "change_pct": 2.85
+      "price": 87.46,
+      "change_pct": 2.38
     },
     "BNB": {
-      "price": 630.28,
-      "change_pct": 0.86
+      "price": 628.06,
+      "change_pct": 0.42
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "2 expensive mistakes most retirees make \u2014 and how to avoid them"
+      "title": "Former Treasury Secretary Henry Paulson warns U.S. needs an emergency \u2018break-the-glass\u2019 plan if Treasury demand collapses"
     },
     {
       "source": "MarketWatch",
-      "title": "Netflix co-founder Reed Hastings to exit company, saying it\u2019s so strong it doesn\u2019t need him anymore"
+      "title": "Jury finds that Live Nation is an illegal monopoly, but a breakup with Ticketmaster is unlikely, analysts say"
     }
   ]
 }
