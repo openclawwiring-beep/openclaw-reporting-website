@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, April 17 2026  10:13 PT",
-  "market_status": "Live \u2014 as of 13:13 ET",
+  "generated_at": "Friday, April 17 2026  11:11 PT",
+  "market_status": "Live \u2014 as of 14:11 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7134.93,
-      "change_pct": 1.36
+      "price": 7119.12,
+      "change_pct": 1.13
     },
     "Nasdaq": {
-      "price": 24471.82,
-      "change_pct": 1.53
+      "price": 24418.7,
+      "change_pct": 1.31
     },
     "Dow Jones": {
-      "price": 49601.15,
-      "change_pct": 2.13
+      "price": 49482.07,
+      "change_pct": 1.89
     },
     "Russell 2000": {
-      "price": 2791.56,
-      "change_pct": 2.65
+      "price": 2780.52,
+      "change_pct": 2.24
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4889.4,
-      "change_pct": 1.56
+      "price": 4885.4,
+      "change_pct": 1.48
     },
     "Oil (WTI)": {
-      "price": 81.8,
-      "change_pct": -8.94
+      "price": 81.94,
+      "change_pct": -8.78
     },
     "Silver": {
-      "price": 82.36,
-      "change_pct": 4.27
+      "price": 81.99,
+      "change_pct": 3.79
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77572,
-      "change_pct": 4.7
+      "price": 77291,
+      "change_pct": 3.91
     },
     "ETH": {
-      "price": 2439.03,
-      "change_pct": 5.26
+      "price": 2428.79,
+      "change_pct": 4.39
     },
     "SOL": {
-      "price": 89.93,
-      "change_pct": 4.53
+      "price": 89.34,
+      "change_pct": 2.94
     },
     "BNB": {
-      "price": 643.62,
-      "change_pct": 2.96
+      "price": 640.55,
+      "change_pct": 2.08
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Iran has declared the Strait of Hormuz \u2018completely open.\u2019 Here\u2019s what that really means."
+      "title": "Fed\u2019s Waller turns cautious on rate cuts and warns of a \u2019lasting increase in inflation\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "The world\u2019s most stable asset is losing its grip \u2014 leaving your paycheck and retirement vulnerable to inflation"
+      "title": "Airline and cruise stocks soar, as \u2018TACO\u2019 gives way to \u2018trust in Trump alone\u2019"
     }
   ]
 }
