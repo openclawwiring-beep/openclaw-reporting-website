@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 16 2026  16:08 PT",
+  "generated_at": "Thursday, April 16 2026  17:04 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4817.2,
-      "change_pct": -0.63
+      "price": 4814.6,
+      "change_pct": -0.68
     },
     "Oil (WTI)": {
-      "price": 89.59,
-      "change_pct": -2.33
+      "price": 90.13,
+      "change_pct": -1.74
     },
     "Silver": {
-      "price": 78.92,
-      "change_pct": -2.1
+      "price": 78.79,
+      "change_pct": -2.26
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74993,
-      "change_pct": 0.24
+      "price": 75140,
+      "change_pct": 0.51
     },
     "ETH": {
-      "price": 2345.31,
-      "change_pct": -0.64
+      "price": 2349.83,
+      "change_pct": -0.32
     },
     "SOL": {
-      "price": 89.01,
-      "change_pct": 4.86
+      "price": 89.13,
+      "change_pct": 5.03
     },
     "BNB": {
-      "price": 634.22,
-      "change_pct": 1.69
+      "price": 636.37,
+      "change_pct": 2.22
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Jury finds that Live Nation is an illegal monopoly, but a breakup with Ticketmaster is unlikely, analysts say"
+      "title": "Mutual insurance companies are paying record-breaking dividends to their customers this year. Is using one right for you?"
     },
     {
       "source": "MarketWatch",
-      "title": "AMD has \u2018indispensable assets\u2019 \u2014 powering the stock toward its best run in two decades"
+      "title": "With the largest industrial IPO since 1999, this air-quality giant\u2019s stock opens with a bang"
     }
   ]
 }
