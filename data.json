@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, April 17 2026  15:38 PT",
+  "generated_at": "Friday, April 17 2026  16:38 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77464,
-      "change_pct": 3.39
+      "price": 77056,
+      "change_pct": 2.54
     },
     "ETH": {
-      "price": 2442.06,
-      "change_pct": 4.24
+      "price": 2420.98,
+      "change_pct": 2.86
     },
     "SOL": {
-      "price": 89.36,
-      "change_pct": 0.26
+      "price": 88.79,
+      "change_pct": -0.38
     },
     "BNB": {
-      "price": 644.04,
-      "change_pct": 1.81
+      "price": 642.79,
+      "change_pct": 1.0
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I hope to retire at 59\u2019: I have $950,000 in my 401(k)s. When do I do a Roth conversion?"
+      "title": "\u2018I am the trustee\u2019: My mother set up a trust for my sibling who stole $100,000 from a bank. Can the trust be seized?"
     },
     {
       "source": "MarketWatch",
-      "title": "Why do older sellers get less money for their homes than younger sellers?"
+      "title": "Cal-Maine\u2019s stock falls as DOJ reportedly weighs bigger crackdown on major egg producers"
     }
   ]
 }
