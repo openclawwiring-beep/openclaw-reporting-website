@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 18 2026  07:09 PT",
+  "generated_at": "Saturday, April 18 2026  08:05 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76129,
-      "change_pct": -1.53
+      "price": 76304,
+      "change_pct": -1.89
     },
     "ETH": {
-      "price": 2355.29,
-      "change_pct": -3.3
+      "price": 2364.77,
+      "change_pct": -3.27
     },
     "SOL": {
-      "price": 86.68,
-      "change_pct": -3.71
+      "price": 86.87,
+      "change_pct": -3.19
     },
     "BNB": {
-      "price": 633.82,
-      "change_pct": -1.32
+      "price": 634.16,
+      "change_pct": -1.35
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We keep our finances separate\u2019: My boyfriend is in his 50s with no retirement savings \u2014 how worried should I be?"
+      "title": "My friend\u2019s girlfriend went \u2018ballistic\u2019 after learning he gives his kids $19,000 a year. Is this a red flag?"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump expects his Fed chair nominee to cut interest rates. Here\u2019s how Kevin Warsh might try to do it."
+      "title": "I\u2019m selling my law practice and retiring. Do I pay off the $2 million mortgage on my office building \u2014 or rent it out?"
     }
   ]
 }
