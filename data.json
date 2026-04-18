@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 18 2026  12:58 PT",
+  "generated_at": "Saturday, April 18 2026  13:47 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75633,
-      "change_pct": -2.33
+      "price": 75842,
+      "change_pct": -1.87
     },
     "ETH": {
-      "price": 2349.73,
-      "change_pct": -3.34
+      "price": 2354.06,
+      "change_pct": -2.86
     },
     "SOL": {
-      "price": 86.16,
-      "change_pct": -3.49
+      "price": 86.2,
+      "change_pct": -2.94
     },
     "BNB": {
-      "price": 630.69,
-      "change_pct": -1.74
+      "price": 631.56,
+      "change_pct": -1.38
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Private credit not only won\u2019t spark a financial crisis \u2014 it may be more stable than your bank"
+      "title": "Caregiving has become so crazy expensive that it\u2019s financially devastating to most families"
     },
     {
       "source": "MarketWatch",
-      "title": "This is the defense sector\u2019s fastest grower \u2014 and a $20 billion trade most investors are missing"
+      "title": "New Social Security proposal would cap payments for wealthy people now \u2014 and many more later on"
     }
   ]
 }
