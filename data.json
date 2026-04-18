@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 18 2026  10:04 PT",
+  "generated_at": "Saturday, April 18 2026  11:01 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75918,
-      "change_pct": -2.55
+      "price": 75852,
+      "change_pct": -2.03
     },
     "ETH": {
-      "price": 2360.85,
-      "change_pct": -3.71
+      "price": 2361.49,
+      "change_pct": -3.11
     },
     "SOL": {
-      "price": 86.67,
-      "change_pct": -4.07
+      "price": 86.79,
+      "change_pct": -3.08
     },
     "BNB": {
-      "price": 633.37,
-      "change_pct": -1.89
+      "price": 633.72,
+      "change_pct": -1.22
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have more money than I know what to do with\u2019: I\u2019m a single millionaire with no heirs and don\u2019t like spending. What\u2019s wrong with me?"
+      "title": "Nearly 90% of American adults are vulnerable because they are missing this key document"
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s ridiculously easy for kids to get hooked on gambling. Here\u2019s how parents can help."
+      "title": "I gave my friend\u2019s daughter cash for her wedding. I did not receive a thank-you card. Do I say something?"
     }
   ]
 }
