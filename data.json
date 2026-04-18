@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 18 2026  08:05 PT",
+  "generated_at": "Saturday, April 18 2026  09:00 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76304,
-      "change_pct": -1.89
+      "price": 76182,
+      "change_pct": -2.12
     },
     "ETH": {
-      "price": 2364.77,
-      "change_pct": -3.27
+      "price": 2363.86,
+      "change_pct": -3.28
     },
     "SOL": {
-      "price": 86.87,
-      "change_pct": -3.19
+      "price": 86.74,
+      "change_pct": -3.6
     },
     "BNB": {
-      "price": 634.16,
-      "change_pct": -1.35
+      "price": 633.76,
+      "change_pct": -1.57
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My friend\u2019s girlfriend went \u2018ballistic\u2019 after learning he gives his kids $19,000 a year. Is this a red flag?"
+      "title": "It\u2019s ridiculously easy for kids to get hooked on gambling. Here\u2019s how parents can help."
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m selling my law practice and retiring. Do I pay off the $2 million mortgage on my office building \u2014 or rent it out?"
+      "title": "My friend\u2019s girlfriend went \u2018ballistic\u2019 after learning he gives his kids $19,000 a year. Is this a red flag?"
     }
   ]
 }
