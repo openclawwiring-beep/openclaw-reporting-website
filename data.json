@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 18 2026  12:22 PT",
+  "generated_at": "Saturday, April 18 2026  12:58 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75780,
-      "change_pct": -2.05
+      "price": 75633,
+      "change_pct": -2.33
     },
     "ETH": {
-      "price": 2353.53,
-      "change_pct": -3.04
+      "price": 2349.73,
+      "change_pct": -3.34
     },
     "SOL": {
-      "price": 86.25,
-      "change_pct": -3.51
+      "price": 86.16,
+      "change_pct": -3.49
     },
     "BNB": {
-      "price": 630.9,
-      "change_pct": -1.68
+      "price": 630.69,
+      "change_pct": -1.74
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "This \u2018hidden\u2019 price of oil is going to hit your electric bill next"
+      "title": "Private credit not only won\u2019t spark a financial crisis \u2014 it may be more stable than your bank"
     },
     {
       "source": "MarketWatch",
-      "title": "These stocks and ETFs can beat the \u2018sell in May\u2019 slump \u2014 and dodge the 2026 midterm blues"
+      "title": "This is the defense sector\u2019s fastest grower \u2014 and a $20 billion trade most investors are missing"
     }
   ]
 }
