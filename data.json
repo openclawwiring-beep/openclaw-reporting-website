@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, April 17 2026  16:38 PT",
+  "generated_at": "Friday, April 17 2026  19:22 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77056,
-      "change_pct": 2.54
+      "price": 77370,
+      "change_pct": 3.64
     },
     "ETH": {
-      "price": 2420.98,
-      "change_pct": 2.86
+      "price": 2423.09,
+      "change_pct": 4.0
     },
     "SOL": {
-      "price": 88.79,
-      "change_pct": -0.38
+      "price": 88.99,
+      "change_pct": 1.25
     },
     "BNB": {
-      "price": 642.79,
-      "change_pct": 1.0
+      "price": 645.7,
+      "change_pct": 2.66
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I am the trustee\u2019: My mother set up a trust for my sibling who stole $100,000 from a bank. Can the trust be seized?"
+      "title": "Think the rally is safe? This elite market-timing indicator says a correction is overdue."
     },
     {
       "source": "MarketWatch",
-      "title": "Cal-Maine\u2019s stock falls as DOJ reportedly weighs bigger crackdown on major egg producers"
+      "title": "\u2018I am the trustee\u2019: My mother set up a trust for my sibling who stole $100,000 from a bank. Can the trust be seized?"
     }
   ]
 }
