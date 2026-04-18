@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 18 2026  15:34 PT",
+  "generated_at": "Saturday, April 18 2026  16:34 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75785,
-      "change_pct": -2.12
+      "price": 75787,
+      "change_pct": -1.69
     },
     "ETH": {
-      "price": 2354.68,
-      "change_pct": -3.37
+      "price": 2354.0,
+      "change_pct": -2.82
     },
     "SOL": {
-      "price": 86.2,
-      "change_pct": -3.46
+      "price": 86.26,
+      "change_pct": -2.83
     },
     "BNB": {
-      "price": 630.88,
-      "change_pct": -1.92
+      "price": 630.83,
+      "change_pct": -1.9
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Caregiving has become so crazy expensive that it\u2019s financially devastating to most families"
+      "title": "New York City is floating a $500 million second-home tax \u2014 and it would hurt industries that support thousands of jobs"
     },
     {
       "source": "MarketWatch",
-      "title": "New Social Security proposal would cap payments for wealthy people now \u2014 and many more later on"
+      "title": "Caregiving has become so crazy expensive that it\u2019s financially devastating to most families"
     }
   ]
 }
