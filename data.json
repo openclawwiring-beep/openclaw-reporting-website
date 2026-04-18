@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 18 2026  04:33 PT",
+  "generated_at": "Saturday, April 18 2026  06:01 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76106,
-      "change_pct": 0.76
+      "price": 76224,
+      "change_pct": 0.01
     },
     "ETH": {
-      "price": 2357.79,
-      "change_pct": 0.17
+      "price": 2358.24,
+      "change_pct": -0.55
     },
     "SOL": {
-      "price": 86.84,
-      "change_pct": -1.36
+      "price": 86.91,
+      "change_pct": -2.17
     },
     "BNB": {
-      "price": 634.25,
-      "change_pct": 0.11
+      "price": 634.11,
+      "change_pct": -0.28
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says U.S. has 'good news' on Iran as Tehran says the Strait of Hormuz is closed again"
+      "title": "Iran says Strait of Hormuz is closed again as vessel attempting to cross comes under gunfire"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "A new era of AI crime has arrived with Anthropic\u2019s Mythos"
+      "title": "Reed Hastings created a work culture that made Netflix a giant. Can it survive without him?"
     },
     {
       "source": "MarketWatch",
-      "title": "AI companies are rationing compute. That\u2019s a boon for traditional software, one analyst says."
+      "title": "The real outcome of the Iran war: America is now the world\u2019s most secure energy power"
     }
   ]
 }
