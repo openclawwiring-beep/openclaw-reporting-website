@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 18 2026  06:01 PT",
+  "generated_at": "Saturday, April 18 2026  07:09 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76224,
-      "change_pct": 0.01
+      "price": 76129,
+      "change_pct": -1.53
     },
     "ETH": {
-      "price": 2358.24,
-      "change_pct": -0.55
+      "price": 2355.29,
+      "change_pct": -3.3
     },
     "SOL": {
-      "price": 86.91,
-      "change_pct": -2.17
+      "price": 86.68,
+      "change_pct": -3.71
     },
     "BNB": {
-      "price": 634.11,
-      "change_pct": -0.28
+      "price": 633.82,
+      "change_pct": -1.32
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Reed Hastings created a work culture that made Netflix a giant. Can it survive without him?"
+      "title": "\u2018We keep our finances separate\u2019: My boyfriend is in his 50s with no retirement savings \u2014 how worried should I be?"
     },
     {
       "source": "MarketWatch",
-      "title": "The real outcome of the Iran war: America is now the world\u2019s most secure energy power"
+      "title": "Trump expects his Fed chair nominee to cut interest rates. Here\u2019s how Kevin Warsh might try to do it."
     }
   ]
 }
