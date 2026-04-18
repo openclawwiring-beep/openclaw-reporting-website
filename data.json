@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 18 2026  11:01 PT",
+  "generated_at": "Saturday, April 18 2026  12:22 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75852,
-      "change_pct": -2.03
+      "price": 75780,
+      "change_pct": -2.05
     },
     "ETH": {
-      "price": 2361.49,
-      "change_pct": -3.11
+      "price": 2353.53,
+      "change_pct": -3.04
     },
     "SOL": {
-      "price": 86.79,
-      "change_pct": -3.08
+      "price": 86.25,
+      "change_pct": -3.51
     },
     "BNB": {
-      "price": 633.72,
-      "change_pct": -1.22
+      "price": 630.9,
+      "change_pct": -1.68
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran says Strait of Hormuz is closed again as vessel attempting to cross comes under gunfire"
+      "title": "Iran says Strait of Hormuz is closed again as vessels attempting to cross come under fire"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Nearly 90% of American adults are vulnerable because they are missing this key document"
+      "title": "This \u2018hidden\u2019 price of oil is going to hit your electric bill next"
     },
     {
       "source": "MarketWatch",
-      "title": "I gave my friend\u2019s daughter cash for her wedding. I did not receive a thank-you card. Do I say something?"
+      "title": "These stocks and ETFs can beat the \u2018sell in May\u2019 slump \u2014 and dodge the 2026 midterm blues"
     }
   ]
 }
