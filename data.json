@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 18 2026  02:48 PT",
+  "generated_at": "Saturday, April 18 2026  03:39 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76657,
-      "change_pct": 1.19
+      "price": 76271,
+      "change_pct": 1.36
     },
     "ETH": {
-      "price": 2376.99,
-      "change_pct": 0.9
+      "price": 2361.51,
+      "change_pct": 0.78
     },
     "SOL": {
-      "price": 87.59,
-      "change_pct": -1.03
+      "price": 87.16,
+      "change_pct": -0.65
     },
     "BNB": {
-      "price": 635.85,
-      "change_pct": 0.73
+      "price": 634.16,
+      "change_pct": 0.69
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says U.S. has 'good news' on Iran, talks to continue over weekend"
+      "title": "Trump says U.S. has 'good news' on Iran as Tehran says the Strait of Hormuz is closed again"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Think the rally is safe? This elite market-timing indicator says a correction is overdue."
+      "title": "\u2018I have full guardianship\u2019: My son has special needs. If I buy him a condo, will that hurt his benefits?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I am the trustee\u2019: My mother set up a trust for my sibling who stole $100,000 from a bank. Can the trust be seized?"
+      "title": "Think the rally is safe? This elite market-timing indicator says a correction is overdue."
     }
   ]
 }
