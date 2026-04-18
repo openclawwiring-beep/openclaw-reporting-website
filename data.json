@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 18 2026  01:50 PT",
+  "generated_at": "Saturday, April 18 2026  02:48 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76678,
-      "change_pct": 1.48
+      "price": 76657,
+      "change_pct": 1.19
     },
     "ETH": {
-      "price": 2378.61,
-      "change_pct": 1.09
+      "price": 2376.99,
+      "change_pct": 0.9
     },
     "SOL": {
-      "price": 87.31,
-      "change_pct": -1.44
+      "price": 87.59,
+      "change_pct": -1.03
     },
     "BNB": {
-      "price": 636.28,
-      "change_pct": 1.0
+      "price": 635.85,
+      "change_pct": 0.73
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 notches first close above 7,100, Nasdaq posts longest win streak since 1992: Live updates"
+      "title": "Trump says U.S. has 'good news' on Iran, talks to continue over weekend"
     },
     {
       "source": "CNBC",
-      "title": "Video shows ships turning away from the Strait of Hormuz as confusion persists over whether sea lane is really open"
+      "title": "We spoke to over 30 central bankers, policymakers and politicians. Here are their top concerns"
     },
     {
       "source": "MarketWatch",
