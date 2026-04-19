@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 19 2026  09:01 PT",
+  "generated_at": "Sunday, April 19 2026  10:05 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75840,
-      "change_pct": -0.28
+      "price": 75342,
+      "change_pct": -0.76
     },
     "ETH": {
-      "price": 2330.29,
-      "change_pct": -1.26
+      "price": 2310.25,
+      "change_pct": -2.14
     },
     "SOL": {
-      "price": 86.28,
-      "change_pct": -0.53
+      "price": 85.79,
+      "change_pct": -1.02
     },
     "BNB": {
-      "price": 625.64,
-      "change_pct": -1.16
+      "price": 623.47,
+      "change_pct": -1.56
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m planning to retire at 60. Should I sell my house and invest the $500,000?"
+      "title": "The S&P 500 blows past 7,000 in an epic comeback rally. Here\u2019s why it can keep going."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have full guardianship\u2019: My son has special needs. If I buy him a condo, will that hurt his benefits?"
+      "title": "I\u2019m planning to retire at 60. Should I sell my house and invest the $500,000?"
     }
   ]
 }
