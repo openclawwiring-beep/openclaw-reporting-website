@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 19 2026  12:59 PT",
+  "generated_at": "Sunday, April 19 2026  13:49 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 74954,
-      "change_pct": -0.95
+      "price": 74587,
+      "change_pct": -1.61
     },
     "ETH": {
-      "price": 2299.54,
-      "change_pct": -2.14
+      "price": 2282.59,
+      "change_pct": -3.02
     },
     "SOL": {
-      "price": 85.3,
-      "change_pct": -1.0
+      "price": 84.96,
+      "change_pct": -1.47
     },
     "BNB": {
-      "price": 622.81,
-      "change_pct": -1.25
+      "price": 620.96,
+      "change_pct": -1.64
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran rebuffs Trump's plan for new round of peace talks, state media reports"
+      "title": "Trump says U.S. struck and seized Iranian-flagged cargo ship in Gulf of Oman"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Investors brace for renewed volatility after this weekend\u2019s Iran developments"
+      "title": "The S&P 500 has blown past 7,000 in an epic comeback rally. Here\u2019s why it can keep going."
     },
     {
       "source": "MarketWatch",
-      "title": "The S&P 500 blows past 7,000 in an epic comeback rally. Here\u2019s why it can keep going."
+      "title": "These Alzheimer\u2019s drugs were supposed to revolutionize the way we fight the disease. The reality is more complicated."
     }
   ]
 }
