@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 19 2026  11:01 PT",
+  "generated_at": "Sunday, April 19 2026  12:13 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 74799,
-      "change_pct": -1.26
+      "price": 74942,
+      "change_pct": -1.08
     },
     "ETH": {
-      "price": 2298.21,
-      "change_pct": -2.6
+      "price": 2299.68,
+      "change_pct": -2.33
     },
     "SOL": {
-      "price": 85.19,
-      "change_pct": -1.73
+      "price": 85.38,
+      "change_pct": -0.98
     },
     "BNB": {
-      "price": 620.78,
-      "change_pct": -2.0
+      "price": 623.04,
+      "change_pct": -1.27
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says talks between U.S. and Iran to resume in Pakistan on Monday"
+      "title": "Iran rebuffs Trump's plan for new round of peace talks, state media reports"
     },
     {
       "source": "CNBC",
