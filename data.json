@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 19 2026  06:16 PT",
+  "generated_at": "Sunday, April 19 2026  07:09 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75731,
-      "change_pct": -0.48
+      "price": 75740,
+      "change_pct": -0.53
     },
     "ETH": {
-      "price": 2336.16,
-      "change_pct": -0.81
+      "price": 2329.2,
+      "change_pct": -1.16
     },
     "SOL": {
-      "price": 86.23,
-      "change_pct": -0.65
+      "price": 86.2,
+      "change_pct": -0.59
     },
     "BNB": {
-      "price": 624.19,
-      "change_pct": -1.51
+      "price": 624.21,
+      "change_pct": -1.55
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "SiIicon Valley's AI agent hiccups: Wasted tokens and 'chaotic' systems"
+      "title": "Gas prices may not drop below $3 a gallon until next year: Energy Secretary Wright"
     },
     {
       "source": "MarketWatch",
