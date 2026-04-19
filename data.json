@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 19 2026  14:35 PT",
+  "generated_at": "Sunday, April 19 2026  15:35 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4879.6,
-      "change_pct": 1.36
+      "price": 4804.9,
+      "change_pct": -0.92
     },
     "Oil (WTI)": {
       "price": 82.59,
       "change_pct": -8.06
     },
     "Silver": {
-      "price": 81.84,
-      "change_pct": 3.61
+      "price": 79.74,
+      "change_pct": -1.47
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74765,
-      "change_pct": -1.28
+      "price": 74070,
+      "change_pct": -2.27
     },
     "ETH": {
-      "price": 2286.9,
-      "change_pct": -2.76
+      "price": 2268.72,
+      "change_pct": -3.69
     },
     "SOL": {
-      "price": 85.16,
-      "change_pct": -1.18
+      "price": 83.57,
+      "change_pct": -3.09
     },
     "BNB": {
-      "price": 622.88,
-      "change_pct": -1.35
+      "price": 616.87,
+      "change_pct": -2.23
     }
   },
   "headlines": [
@@ -58,11 +58,11 @@
     },
     {
       "source": "CNBC",
-      "title": "AI startup Cursor in talks to raise $2 billion funding round at valuation of over $50 billion"
+      "title": "Oil prices jump after Iran and U.S. attack commercial ships as tensions escalate over Strait of Hormuz"
     },
     {
       "source": "MarketWatch",
-      "title": "Investors brace for renewed volatility after this weekend\u2019s Iran developments"
+      "title": "U.S. stock futures tumble, oil surges as this weekend\u2019s Iran developments rekindle uncertainty"
     },
     {
       "source": "MarketWatch",
