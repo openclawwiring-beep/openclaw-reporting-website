@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 19 2026  12:13 PT",
+  "generated_at": "Sunday, April 19 2026  12:59 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 74942,
-      "change_pct": -1.08
+      "price": 74954,
+      "change_pct": -0.95
     },
     "ETH": {
-      "price": 2299.68,
-      "change_pct": -2.33
+      "price": 2299.54,
+      "change_pct": -2.14
     },
     "SOL": {
-      "price": 85.38,
-      "change_pct": -0.98
+      "price": 85.3,
+      "change_pct": -1.0
     },
     "BNB": {
-      "price": 623.04,
-      "change_pct": -1.27
+      "price": 622.81,
+      "change_pct": -1.25
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The S&P 500 blows past 7,000 in an epic comeback rally. Here\u2019s why it can keep going."
+      "title": "Investors brace for renewed volatility after this weekend\u2019s Iran developments"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m planning to retire at 60. Should I sell my house and invest the $500,000?"
+      "title": "The S&P 500 blows past 7,000 in an epic comeback rally. Here\u2019s why it can keep going."
     }
   ]
 }
