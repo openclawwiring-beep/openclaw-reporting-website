@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 19 2026  04:57 PT",
+  "generated_at": "Sunday, April 19 2026  06:16 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75614,
-      "change_pct": -0.6
+      "price": 75731,
+      "change_pct": -0.48
     },
     "ETH": {
-      "price": 2329.73,
-      "change_pct": -1.01
+      "price": 2336.16,
+      "change_pct": -0.81
     },
     "SOL": {
-      "price": 85.63,
-      "change_pct": -1.11
+      "price": 86.23,
+      "change_pct": -0.65
     },
     "BNB": {
-      "price": 622.53,
-      "change_pct": -1.74
+      "price": 624.19,
+      "change_pct": -1.51
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran says Strait of Hormuz is closed again as vessels attempting to cross come under fire"
+      "title": "Trump says talks between U.S. and Iran to resume in Pakistan on Monday"
     },
     {
       "source": "CNBC",
-      "title": "We spoke to over 30 central bankers, policymakers and politicians. Here are their top concerns"
+      "title": "SiIicon Valley's AI agent hiccups: Wasted tokens and 'chaotic' systems"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I\u2019m planning to retire at 60. Should I sell my house and invest the $500,000?"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018I have full guardianship\u2019: My son has special needs. If I buy him a condo, will that hurt his benefits?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018I have more money than I know what to do with\u2019: I\u2019m a single millionaire with no heirs and don\u2019t like spending. What\u2019s wrong with me?"
     }
   ]
 }
