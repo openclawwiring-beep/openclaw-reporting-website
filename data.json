@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 19 2026  03:07 PT",
+  "generated_at": "Sunday, April 19 2026  04:07 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75038,
-      "change_pct": -1.74
+      "price": 75241,
+      "change_pct": -1.0
     },
     "ETH": {
-      "price": 2310.83,
-      "change_pct": -2.21
+      "price": 2320.04,
+      "change_pct": -1.53
     },
     "SOL": {
-      "price": 84.64,
-      "change_pct": -2.96
+      "price": 84.9,
+      "change_pct": -2.32
     },
     "BNB": {
-      "price": 619.97,
-      "change_pct": -2.16
+      "price": 620.87,
+      "change_pct": -1.97
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It is their fault\u2019: My condo board forgot to bill for storage fees. Must I pay retroactively?"
+      "title": "\u2018I have full guardianship\u2019: My son has special needs. If I buy him a condo, will that hurt his benefits?"
     },
     {
       "source": "MarketWatch",
-      "title": "New York City is floating a $500 million second-home tax \u2014 and it would hurt industries that support thousands of jobs"
+      "title": "\u2018I have more money than I know what to do with\u2019: I\u2019m a single millionaire with no heirs and don\u2019t like spending. What\u2019s wrong with me?"
     }
   ]
 }
