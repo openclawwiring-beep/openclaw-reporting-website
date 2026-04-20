@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 20 2026  04:51 PT",
+  "generated_at": "Monday, April 20 2026  06:28 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4811.3,
-      "change_pct": -0.04
+      "price": 4833.7,
+      "change_pct": 0.42
     },
     "Oil (WTI)": {
-      "price": 87.48,
-      "change_pct": 5.92
+      "price": 86.57,
+      "change_pct": 4.82
     },
     "Silver": {
-      "price": 79.43,
-      "change_pct": -1.1
+      "price": 80.11,
+      "change_pct": -0.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75240,
-      "change_pct": -0.43
+      "price": 75095,
+      "change_pct": -1.33
     },
     "ETH": {
-      "price": 2311.07,
-      "change_pct": -0.77
+      "price": 2313.01,
+      "change_pct": -1.34
     },
     "SOL": {
-      "price": 85.16,
-      "change_pct": -0.45
+      "price": 85.18,
+      "change_pct": -1.76
     },
     "BNB": {
-      "price": 625.9,
-      "change_pct": 0.54
+      "price": 624.98,
+      "change_pct": -0.12
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures decline as Iranian war tensions escalate: Live updates"
+      "title": "Stock futures fall on renewed U.S.-Iran worries, but losses kept in check: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "USA Rare Earth is taking on China, with a $2.8 billion move into Brazil"
+      "title": "I\u2019m planning to retire at 60. Should I sell my house and invest the $500,000?"
     },
     {
       "source": "MarketWatch",
-      "title": "SocGen benchmarked the Iran war to every crisis since 1956. Here\u2019s when oil prices return to normal."
+      "title": "Not just \u2018complacency.\u2019 Here\u2019s why asset markets are so resilient when it comes to energy shocks."
     }
   ]
 }
