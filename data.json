@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 20 2026  03:14 PT",
+  "generated_at": "Monday, April 20 2026  04:51 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4811.4,
-      "change_pct": -0.09
+      "price": 4811.3,
+      "change_pct": -0.04
     },
     "Oil (WTI)": {
-      "price": 87.33,
-      "change_pct": 5.74
+      "price": 87.48,
+      "change_pct": 5.92
     },
     "Silver": {
-      "price": 79.47,
-      "change_pct": -1.21
+      "price": 79.43,
+      "change_pct": -1.1
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75340,
-      "change_pct": 0.38
+      "price": 75240,
+      "change_pct": -0.43
     },
     "ETH": {
-      "price": 2316.31,
-      "change_pct": 0.26
+      "price": 2311.07,
+      "change_pct": -0.77
     },
     "SOL": {
-      "price": 85.32,
-      "change_pct": 0.87
+      "price": 85.16,
+      "change_pct": -0.45
     },
     "BNB": {
-      "price": 627.83,
-      "change_pct": 1.28
+      "price": 625.9,
+      "change_pct": 0.54
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "'Resumption of hostilities': seized ship, vessel attacks push U.S.-Iran ceasefire toward brink"
+      "title": "'Resumption of hostilities': Seized ship, vessel attacks push U.S.-Iran ceasefire toward brink"
     },
     {
       "source": "MarketWatch",
-      "title": "Why a $33 billion stock market buying spree is now winding down"
+      "title": "USA Rare Earth is taking on China, with a $2.8 billion move into Brazil"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have full guardianship\u2019: My son has special needs. If I buy him a condo, will that hurt his benefits?"
+      "title": "SocGen benchmarked the Iran war to every crisis since 1956. Here\u2019s when oil prices return to normal."
     }
   ]
 }
