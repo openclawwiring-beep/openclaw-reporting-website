@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 19 2026  22:40 PT",
+  "generated_at": "Monday, April 20 2026  01:06 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -22,7 +22,7 @@
   "commodities": {
     "Gold": {
       "price": 4813.3,
-      "change_pct": -0.74
+      "change_pct": -1.36
     },
     "Oil (WTI)": {
       "price": 82.59,
@@ -30,43 +30,43 @@
     },
     "Silver": {
       "price": 80.31,
-      "change_pct": -0.77
+      "change_pct": -1.87
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74211,
-      "change_pct": -1.91
+      "price": 74716,
+      "change_pct": -0.7
     },
     "ETH": {
-      "price": 2267.72,
-      "change_pct": -2.97
+      "price": 2294.44,
+      "change_pct": -0.89
     },
     "SOL": {
-      "price": 83.93,
-      "change_pct": -2.09
+      "price": 84.65,
+      "change_pct": -0.27
     },
     "BNB": {
-      "price": 618.1,
-      "change_pct": -0.83
+      "price": 624.96,
+      "change_pct": 0.85
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. struck, seized Iranian-flagged ship Touska in Gulf of Oman, Trump says"
+      "title": "'Resumption of hostilities': seized ship, vessel attacks push U.S.-Iran ceasefire toward brink"
     },
     {
       "source": "CNBC",
-      "title": "How private credit's cracks are threatening to deepen private equity's woes"
+      "title": "U.S. struck, seized Iranian-flagged ship Touska in Gulf of Oman, Trump says"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tariff refunds are coming: Here\u2019s who will get them first"
     },
     {
       "source": "MarketWatch",
       "title": "U.S. stock futures tumble, oil surges as this weekend\u2019s Iran developments rekindle uncertainty"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I\u2019m planning to retire at 60. Should I sell my house and invest the $500,000?"
     }
   ]
 }
