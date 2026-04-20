@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 20 2026  01:06 PT",
+  "generated_at": "Monday, April 20 2026  03:14 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4813.3,
-      "change_pct": -1.36
+      "price": 4811.4,
+      "change_pct": -0.09
     },
     "Oil (WTI)": {
-      "price": 82.59,
-      "change_pct": -8.06
+      "price": 87.33,
+      "change_pct": 5.74
     },
     "Silver": {
-      "price": 80.31,
-      "change_pct": -1.87
+      "price": 79.47,
+      "change_pct": -1.21
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74716,
-      "change_pct": -0.7
+      "price": 75340,
+      "change_pct": 0.38
     },
     "ETH": {
-      "price": 2294.44,
-      "change_pct": -0.89
+      "price": 2316.31,
+      "change_pct": 0.26
     },
     "SOL": {
-      "price": 84.65,
-      "change_pct": -0.27
+      "price": 85.32,
+      "change_pct": 0.87
     },
     "BNB": {
-      "price": 624.96,
-      "change_pct": 0.85
+      "price": 627.83,
+      "change_pct": 1.28
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "'Resumption of hostilities': seized ship, vessel attacks push U.S.-Iran ceasefire toward brink"
+      "title": "Stock futures decline as Iranian war tensions escalate: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "U.S. struck, seized Iranian-flagged ship Touska in Gulf of Oman, Trump says"
+      "title": "'Resumption of hostilities': seized ship, vessel attacks push U.S.-Iran ceasefire toward brink"
     },
     {
       "source": "MarketWatch",
-      "title": "Tariff refunds are coming: Here\u2019s who will get them first"
+      "title": "Why a $33 billion stock market buying spree is now winding down"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. stock futures tumble, oil surges as this weekend\u2019s Iran developments rekindle uncertainty"
+      "title": "\u2018I have full guardianship\u2019: My son has special needs. If I buy him a condo, will that hurt his benefits?"
     }
   ]
 }
