@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 19 2026  16:35 PT",
+  "generated_at": "Sunday, April 19 2026  19:37 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4790.2,
-      "change_pct": -1.83
+      "price": 4819.4,
+      "change_pct": -1.23
     },
     "Oil (WTI)": {
       "price": 82.59,
       "change_pct": -8.06
     },
     "Silver": {
-      "price": 79.4,
-      "change_pct": -2.98
+      "price": 80.5,
+      "change_pct": -1.65
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73909,
-      "change_pct": -2.45
+      "price": 74478,
+      "change_pct": -1.37
     },
     "ETH": {
-      "price": 2264.54,
-      "change_pct": -3.78
+      "price": 2278.46,
+      "change_pct": -2.57
     },
     "SOL": {
-      "price": 83.54,
-      "change_pct": -3.15
+      "price": 84.15,
+      "change_pct": -1.46
     },
     "BNB": {
-      "price": 617.16,
-      "change_pct": -2.14
+      "price": 621.23,
+      "change_pct": -0.44
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Oil prices jump after Iran and U.S. attack commercial ships as tensions escalate over Strait of Hormuz"
+      "title": "How private credit's cracks are threatening to deepen private equity's woes"
     },
     {
       "source": "MarketWatch",
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The S&P 500 has blown past 7,000 in an epic comeback rally. Here\u2019s why it can keep going."
+      "title": "I\u2019m planning to retire at 60. Should I sell my house and invest the $500,000?"
     }
   ]
 }
