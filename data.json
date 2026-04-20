@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 20 2026  14:10 PT",
+  "generated_at": "Monday, April 20 2026  15:08 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76203,
-      "change_pct": 2.07
+      "price": 76119,
+      "change_pct": 2.66
     },
     "ETH": {
-      "price": 2337.35,
-      "change_pct": 2.33
+      "price": 2326.74,
+      "change_pct": 2.58
     },
     "SOL": {
-      "price": 86.0,
-      "change_pct": 1.09
+      "price": 85.98,
+      "change_pct": 1.66
     },
     "BNB": {
-      "price": 631.52,
-      "change_pct": 1.54
+      "price": 631.1,
+      "change_pct": 1.97
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "McDonald\u2019s $3 menu is about to kick off. Here\u2019s why Wall Street is already a fan."
+      "title": "This AI power company ousted its CEO. Why that could help it sign up its first customer."
     },
     {
       "source": "MarketWatch",
-      "title": "Tim Cook to step down after 15 years at the helm of Apple"
+      "title": "Do I earn too much to contribute to an IRA?"
     }
   ]
 }
