@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 20 2026  15:08 PT",
+  "generated_at": "Monday, April 20 2026  16:08 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4841.0,
-      "change_pct": 0.58
+      "price": 4847.6,
+      "change_pct": 0.71
     },
     "Oil (WTI)": {
-      "price": 85.89,
-      "change_pct": 4.0
+      "price": 86.31,
+      "change_pct": 4.5
     },
     "Silver": {
-      "price": 79.87,
-      "change_pct": -0.55
+      "price": 80.23,
+      "change_pct": -0.1
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76119,
-      "change_pct": 2.66
+      "price": 75769,
+      "change_pct": 2.45
     },
     "ETH": {
-      "price": 2326.74,
-      "change_pct": 2.58
+      "price": 2312.81,
+      "change_pct": 2.19
     },
     "SOL": {
-      "price": 85.98,
-      "change_pct": 1.66
+      "price": 85.44,
+      "change_pct": 2.27
     },
     "BNB": {
-      "price": 631.1,
-      "change_pct": 1.97
+      "price": 628.55,
+      "change_pct": 2.04
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Tariff refunds begin on Monday. These retailers are due big paydays"
+      "title": "Labor Secretary Lori Chavez-DeRemer leaves Trump cabinet, Keith Sonderling takes over"
     },
     {
       "source": "MarketWatch",
-      "title": "This AI power company ousted its CEO. Why that could help it sign up its first customer."
+      "title": "\u2018I hope to retire at 59\u2019: I have $950,000 in my 401(k)s. When do I do a Roth conversion?"
     },
     {
       "source": "MarketWatch",
-      "title": "Do I earn too much to contribute to an IRA?"
+      "title": "Anthropic has \u2018unprecedented\u2019 demand \u2014\u00a0and it\u2019s leaning on Amazon for support"
     }
   ]
 }
