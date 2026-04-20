@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 20 2026  13:09 PT",
+  "generated_at": "Monday, April 20 2026  14:10 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,58 +15,58 @@
       "change_pct": -0.01
     },
     "Russell 2000": {
-      "price": 2791.52,
-      "change_pct": 0.52
+      "price": 2792.96,
+      "change_pct": 0.58
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4834.1,
-      "change_pct": 0.43
+      "price": 4841.0,
+      "change_pct": 0.58
     },
     "Oil (WTI)": {
-      "price": 86.87,
-      "change_pct": 5.18
+      "price": 85.89,
+      "change_pct": 4.0
     },
     "Silver": {
-      "price": 79.86,
-      "change_pct": -0.57
+      "price": 79.87,
+      "change_pct": -0.55
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76240,
-      "change_pct": 1.93
+      "price": 76203,
+      "change_pct": 2.07
     },
     "ETH": {
-      "price": 2332.51,
-      "change_pct": 1.7
+      "price": 2337.35,
+      "change_pct": 2.33
     },
     "SOL": {
-      "price": 85.86,
-      "change_pct": 0.81
+      "price": 86.0,
+      "change_pct": 1.09
     },
     "BNB": {
-      "price": 630.32,
-      "change_pct": 1.36
+      "price": 631.52,
+      "change_pct": 1.54
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Tariff refunds begin on Monday. These retailers are due big paydays"
+      "title": "Apple taps John Ternus\u00a0as CEO to replace Tim Cook, who will become chairman"
     },
     {
       "source": "CNBC",
-      "title": "Chair nominee Kevin Warsh says Fed must \u2018stay in its lane\u2019 to maintain independence"
+      "title": "Tariff refunds begin on Monday. These retailers are due big paydays"
     },
     {
       "source": "MarketWatch",
-      "title": "I will retire in my early 50s. I have $3.2 million \u2014 only $200,000 is in a traditional IRA. Have I beaten the IRS?"
+      "title": "McDonald\u2019s $3 menu is about to kick off. Here\u2019s why Wall Street is already a fan."
     },
     {
       "source": "MarketWatch",
-      "title": "AST SpaceMobile\u2019s stock is falling after failure of Jeff Bezos-backed satellite launch"
+      "title": "Tim Cook to step down after 15 years at the helm of Apple"
     }
   ]
 }
