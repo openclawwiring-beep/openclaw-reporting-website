@@ -1,60 +1,60 @@
 {
-  "generated_at": "Tuesday, April 21 2026  11:38 PT",
-  "market_status": "Live \u2014 as of 14:38 ET",
+  "generated_at": "Tuesday, April 21 2026  13:02 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7076.24,
-      "change_pct": -0.48
+      "price": 7064.03,
+      "change_pct": -0.63
     },
     "Nasdaq": {
-      "price": 24310.01,
-      "change_pct": -0.39
+      "price": 24259.96,
+      "change_pct": -0.59
     },
     "Dow Jones": {
-      "price": 49225.91,
-      "change_pct": -0.45
+      "price": 49149.6,
+      "change_pct": -0.59
     },
     "Russell 2000": {
-      "price": 2766.12,
-      "change_pct": -0.97
+      "price": 2761.83,
+      "change_pct": -1.12
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4714.1,
-      "change_pct": -2.12
+      "price": 4696.3,
+      "change_pct": -2.49
     },
     "Oil (WTI)": {
-      "price": 89.63,
-      "change_pct": 3.4
+      "price": 92.08,
+      "change_pct": 6.23
     },
     "Silver": {
-      "price": 76.48,
-      "change_pct": -3.13
+      "price": 75.76,
+      "change_pct": -4.05
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75531,
-      "change_pct": -0.71
+      "price": 75027,
+      "change_pct": -1.6
     },
     "ETH": {
-      "price": 2308.08,
-      "change_pct": -0.81
+      "price": 2297.74,
+      "change_pct": -1.51
     },
     "SOL": {
-      "price": 84.98,
-      "change_pct": -1.09
+      "price": 84.62,
+      "change_pct": -1.44
     },
     "BNB": {
-      "price": 629.64,
-      "change_pct": -0.01
+      "price": 626.39,
+      "change_pct": -0.63
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Kevin Warsh hearing takeaways: Trump Fed chair nominee defends finances, says president never demanded rate cuts"
+      "title": "Analysis: Warsh emerges from a difficult hearing with his Fed 'regime-change' plan intact"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Is this a new Gilded Age in American commercial air travel? Airlines hope so."
+      "title": "This is what critics of Apple and Tim Cook get dead wrong"
     },
     {
       "source": "MarketWatch",
-      "title": "This is what Apple investors need to know about what\u2019s next for the company and its new CEO"
+      "title": "\u2018Some stocks have risen, but others have flopped\u2019: I will soon inherit my parents\u2019 $1.5 million estate. Do I fire the adviser who charges a 3% fee?"
     }
   ]
 }
