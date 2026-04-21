@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, April 21 2026  10:00 PT",
-  "market_status": "Live \u2014 as of 13:00 ET",
+  "generated_at": "Tuesday, April 21 2026  11:38 PT",
+  "market_status": "Live \u2014 as of 14:38 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7082.02,
-      "change_pct": -0.4
+      "price": 7076.24,
+      "change_pct": -0.48
     },
     "Nasdaq": {
-      "price": 24323.07,
-      "change_pct": -0.33
+      "price": 24310.01,
+      "change_pct": -0.39
     },
     "Dow Jones": {
-      "price": 49315.8,
-      "change_pct": -0.26
+      "price": 49225.91,
+      "change_pct": -0.45
     },
     "Russell 2000": {
-      "price": 2776.8,
-      "change_pct": -0.58
+      "price": 2766.12,
+      "change_pct": -0.97
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4738.6,
-      "change_pct": -1.61
+      "price": 4714.1,
+      "change_pct": -2.12
     },
     "Oil (WTI)": {
-      "price": 90.25,
-      "change_pct": 4.12
+      "price": 89.63,
+      "change_pct": 3.4
     },
     "Silver": {
-      "price": 76.68,
-      "change_pct": -2.88
+      "price": 76.48,
+      "change_pct": -3.13
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75856,
-      "change_pct": 0.68
+      "price": 75531,
+      "change_pct": -0.71
     },
     "ETH": {
-      "price": 2309.94,
-      "change_pct": 0.42
+      "price": 2308.08,
+      "change_pct": -0.81
     },
     "SOL": {
-      "price": 85.83,
-      "change_pct": 0.59
+      "price": 84.98,
+      "change_pct": -1.09
     },
     "BNB": {
-      "price": 632.31,
-      "change_pct": 0.79
+      "price": 629.64,
+      "change_pct": -0.01
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "From Allbirds to AI, the meme-stock frenzy is warning you to own this quality \u2018antimeme\u2019 portfolio instead"
+      "title": "Is this a new Gilded Age in American commercial air travel? Airlines hope so."
     },
     {
       "source": "MarketWatch",
-      "title": "Halliburton\u2019s outlook backs one analyst\u2019s view to buy oil-service stocks now"
+      "title": "This is what Apple investors need to know about what\u2019s next for the company and its new CEO"
     }
   ]
 }
