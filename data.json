@@ -1,60 +1,60 @@
 {
-  "generated_at": "Tuesday, April 21 2026  08:51 PT",
-  "market_status": "Live \u2014 as of 11:51 ET",
+  "generated_at": "Tuesday, April 21 2026  10:00 PT",
+  "market_status": "Live \u2014 as of 13:00 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7090.98,
-      "change_pct": -0.27
+      "price": 7082.02,
+      "change_pct": -0.4
     },
     "Nasdaq": {
-      "price": 24372.21,
-      "change_pct": -0.13
+      "price": 24323.07,
+      "change_pct": -0.33
     },
     "Dow Jones": {
-      "price": 49355.9,
-      "change_pct": -0.18
+      "price": 49315.8,
+      "change_pct": -0.26
     },
     "Russell 2000": {
-      "price": 2780.69,
-      "change_pct": -0.44
+      "price": 2776.8,
+      "change_pct": -0.58
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4758.0,
-      "change_pct": -1.21
+      "price": 4738.6,
+      "change_pct": -1.61
     },
     "Oil (WTI)": {
-      "price": 90.05,
-      "change_pct": 3.89
+      "price": 90.25,
+      "change_pct": 4.12
     },
     "Silver": {
-      "price": 76.85,
-      "change_pct": -2.67
+      "price": 76.68,
+      "change_pct": -2.88
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75768,
-      "change_pct": 0.2
+      "price": 75856,
+      "change_pct": 0.68
     },
     "ETH": {
-      "price": 2307.84,
-      "change_pct": -0.1
+      "price": 2309.94,
+      "change_pct": 0.42
     },
     "SOL": {
-      "price": 85.87,
-      "change_pct": 0.37
+      "price": 85.83,
+      "change_pct": 0.59
     },
     "BNB": {
-      "price": 631.39,
-      "change_pct": 0.56
+      "price": 632.31,
+      "change_pct": 0.79
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fed chair pick Kevin Warsh says he won't take orders from Trump on interest rates: Live updates"
+      "title": "Kevin Warsh hearing takeaways: Trump Fed chair nominee defends finances, says president never demanded rate cuts"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Tim Cook\u2019s secret weapon that turned Apple into a $4 trillion empire"
+      "title": "From Allbirds to AI, the meme-stock frenzy is warning you to own this quality \u2018antimeme\u2019 portfolio instead"
     },
     {
       "source": "MarketWatch",
-      "title": "These stocks are popping after Amazon and Anthropic expand their chip partnership"
+      "title": "Halliburton\u2019s outlook backs one analyst\u2019s view to buy oil-service stocks now"
     }
   ]
 }
