@@ -1,9 +1,9 @@
 {
-  "generated_at": "Tuesday, April 21 2026  13:02 PT",
+  "generated_at": "Tuesday, April 21 2026  14:10 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7064.03,
+      "price": 7064.01,
       "change_pct": -0.63
     },
     "Nasdaq": {
@@ -11,54 +11,54 @@
       "change_pct": -0.59
     },
     "Dow Jones": {
-      "price": 49149.6,
+      "price": 49149.38,
       "change_pct": -0.59
     },
     "Russell 2000": {
-      "price": 2761.83,
-      "change_pct": -1.12
+      "price": 2764.97,
+      "change_pct": -1.0
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4696.3,
-      "change_pct": -2.49
+      "price": 4738.5,
+      "change_pct": -1.62
     },
     "Oil (WTI)": {
-      "price": 92.08,
-      "change_pct": 6.23
+      "price": 90.22,
+      "change_pct": 4.08
     },
     "Silver": {
-      "price": 75.76,
-      "change_pct": -4.05
+      "price": 76.67,
+      "change_pct": -2.9
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75027,
-      "change_pct": -1.6
+      "price": 75669,
+      "change_pct": -0.43
     },
     "ETH": {
-      "price": 2297.74,
-      "change_pct": -1.51
+      "price": 2314.43,
+      "change_pct": -0.42
     },
     "SOL": {
-      "price": 84.62,
-      "change_pct": -1.44
+      "price": 85.47,
+      "change_pct": -0.59
     },
     "BNB": {
-      "price": 626.39,
-      "change_pct": -0.63
+      "price": 629.7,
+      "change_pct": -0.13
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Analysis: Warsh emerges from a difficult hearing with his Fed 'regime-change' plan intact"
+      "title": "Trump extends ceasefire in Iran, citing 'seriously fractured' Iranian government"
     },
     {
       "source": "CNBC",
-      "title": "Trump says 'I'll remember' companies that don\u2019t seek tariff refunds"
+      "title": "Analysis: Warsh emerges from a difficult hearing with his Fed 'regime-change' plan intact"
     },
     {
       "source": "MarketWatch",
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Some stocks have risen, but others have flopped\u2019: I will soon inherit my parents\u2019 $1.5 million estate. Do I fire the adviser who charges a 3% fee?"
+      "title": "Here\u2019s what will really matter to Tesla investors when the company reports earnings"
     }
   ]
 }
