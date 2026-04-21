@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 21 2026  04:17 PT",
+  "generated_at": "Tuesday, April 21 2026  05:13 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4806.9,
-      "change_pct": -0.2
+      "price": 4814.9,
+      "change_pct": -0.03
     },
     "Oil (WTI)": {
-      "price": 86.92,
-      "change_pct": 0.28
+      "price": 87.63,
+      "change_pct": 1.1
     },
     "Silver": {
-      "price": 79.0,
-      "change_pct": 0.06
+      "price": 79.26,
+      "change_pct": 0.39
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76405,
-      "change_pct": 1.67
+      "price": 76386,
+      "change_pct": 1.33
     },
     "ETH": {
-      "price": 2318.65,
-      "change_pct": 0.45
+      "price": 2319.95,
+      "change_pct": 0.27
     },
     "SOL": {
-      "price": 85.84,
-      "change_pct": 0.97
+      "price": 85.91,
+      "change_pct": 0.8
     },
     "BNB": {
-      "price": 634.36,
-      "change_pct": 1.28
+      "price": 633.92,
+      "change_pct": 1.15
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Here's what to expect from Fed chair nominee Kevin Warsh's Senate hearing Tuesday"
+      "title": "Warsh fed hearing live updates: Kevin Warsh to face Senate Banking Committee at 10 a.m."
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The current oil shock most resembles the first Gulf War, says UBS. What that means for prices."
+      "title": "Halliburton\u2019s earnings take a hit from the Iran conflict, but they still top forecasts"
     },
     {
       "source": "MarketWatch",
-      "title": "Financial literacy will get serious treatment in high schools starting next year"
+      "title": "The chatbot era is over \u2014 these 3 sectors are the real AI gold mines for 2026"
     }
   ]
 }
