@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 21 2026  14:10 PT",
+  "generated_at": "Tuesday, April 21 2026  15:07 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75669,
-      "change_pct": -0.43
+      "price": 75548,
+      "change_pct": -0.71
     },
     "ETH": {
-      "price": 2314.43,
-      "change_pct": -0.42
+      "price": 2312.2,
+      "change_pct": -0.6
     },
     "SOL": {
-      "price": 85.47,
-      "change_pct": -0.59
+      "price": 85.22,
+      "change_pct": -0.86
     },
     "BNB": {
-      "price": 629.7,
-      "change_pct": -0.13
+      "price": 629.25,
+      "change_pct": -0.32
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "This is what critics of Apple and Tim Cook get dead wrong"
+      "title": "Airlines cut flights as fuel costs surge \u2014 an economic fallout from the Iran war that markets may be missing"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s what will really matter to Tesla investors when the company reports earnings"
+      "title": "Bonds could lag stocks for the rest of 2026, according to this contrarian signal"
     }
   ]
 }
