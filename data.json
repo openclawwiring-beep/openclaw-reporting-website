@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 21 2026  01:16 PT",
+  "generated_at": "Tuesday, April 21 2026  02:59 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4803.1,
-      "change_pct": -0.27
+      "price": 4802.4,
+      "change_pct": -0.29
     },
     "Oil (WTI)": {
-      "price": 86.58,
-      "change_pct": -0.12
+      "price": 86.84,
+      "change_pct": 0.18
     },
     "Silver": {
-      "price": 79.0,
-      "change_pct": 0.06
+      "price": 78.92,
+      "change_pct": -0.04
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76132,
-      "change_pct": 1.61
+      "price": 76362,
+      "change_pct": 1.73
     },
     "ETH": {
-      "price": 2316.42,
-      "change_pct": 0.52
+      "price": 2325.22,
+      "change_pct": 0.68
     },
     "SOL": {
-      "price": 85.71,
-      "change_pct": 0.86
+      "price": 85.84,
+      "change_pct": 0.93
     },
     "BNB": {
-      "price": 632.65,
-      "change_pct": 1.21
+      "price": 636.65,
+      "change_pct": 1.59
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Apple incoming CEO John Ternus faces a defining challenge: Fixing the company's AI strategy"
-    },
-    {
-      "source": "CNBC",
       "title": "\u2018New cards on the battlefield\u2019: U.S., Iran ratchet up rhetoric with peace talks in limbo"
     },
     {
-      "source": "MarketWatch",
-      "title": "The end of freedom of the seas: Why global shipping may never be the same"
+      "source": "CNBC",
+      "title": "UnitedHealth tops quarterly estimates, hikes profit outlook as insurer manages high medical costs"
     },
     {
       "source": "MarketWatch",
-      "title": "Do I earn too much to contribute to an IRA?"
+      "title": "Primark owner warns of impact of war in Iran on outlook \u2014 making it one of the first European retailers to do so"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018This is unbelievable\u2019: My adviser made $300,000 trading options. Now I\u2019m being killed by taxes. Do I complain?"
     }
   ]
 }
