@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, April 21 2026  05:13 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, April 21 2026  07:15 PT",
+  "market_status": "Live \u2014 as of 10:15 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7109.14,
-      "change_pct": -0.24
+      "price": 7134.91,
+      "change_pct": 0.34
     },
     "Nasdaq": {
-      "price": 24404.39,
-      "change_pct": -0.26
+      "price": 24511.48,
+      "change_pct": 0.44
     },
     "Dow Jones": {
-      "price": 49442.56,
-      "change_pct": -0.01
+      "price": 49779.29,
+      "change_pct": 0.67
     },
     "Russell 2000": {
-      "price": 2792.96,
-      "change_pct": 0.58
+      "price": 2810.03,
+      "change_pct": 0.61
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4814.9,
-      "change_pct": -0.03
+      "price": 4799.8,
+      "change_pct": -0.34
     },
     "Oil (WTI)": {
-      "price": 87.63,
-      "change_pct": 1.1
+      "price": 87.17,
+      "change_pct": 0.57
     },
     "Silver": {
-      "price": 79.26,
-      "change_pct": 0.39
+      "price": 78.87,
+      "change_pct": -0.11
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76386,
-      "change_pct": 1.33
+      "price": 75856,
+      "change_pct": 0.98
     },
     "ETH": {
-      "price": 2319.95,
-      "change_pct": 0.27
+      "price": 2308.2,
+      "change_pct": 0.34
     },
     "SOL": {
-      "price": 85.91,
-      "change_pct": 0.8
+      "price": 85.73,
+      "change_pct": 0.76
     },
     "BNB": {
-      "price": 633.92,
-      "change_pct": 1.15
+      "price": 631.59,
+      "change_pct": 1.01
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Warsh fed hearing live updates: Kevin Warsh to face Senate Banking Committee at 10 a.m."
+      "title": "Kevin Warsh Senate Banking confirmation hearing for Fed chair begins: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "UnitedHealth tops quarterly estimates, hikes profit outlook as insurer manages high medical costs"
+      "title": "Trump says 'I'll remember' companies that don\u2019t seek tariff refunds"
     },
     {
       "source": "MarketWatch",
-      "title": "Halliburton\u2019s earnings take a hit from the Iran conflict, but they still top forecasts"
+      "title": "Did JetBlue just admit to surveillance pricing? Airline now says viral post about $230 fare hike was an error."
     },
     {
       "source": "MarketWatch",
-      "title": "The chatbot era is over \u2014 these 3 sectors are the real AI gold mines for 2026"
+      "title": "ChatGPT is so 2025 \u2014 these 3 sectors are the real AI gold mines for 2026"
     }
   ]
 }
