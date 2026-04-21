@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 20 2026  23:01 PT",
+  "generated_at": "Tuesday, April 21 2026  01:16 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4805.3,
-      "change_pct": -0.4
+      "price": 4803.1,
+      "change_pct": -0.27
     },
     "Oil (WTI)": {
-      "price": 86.26,
-      "change_pct": -0.37
+      "price": 86.58,
+      "change_pct": -0.12
     },
     "Silver": {
-      "price": 79.04,
-      "change_pct": -0.47
+      "price": 79.0,
+      "change_pct": 0.06
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75827,
-      "change_pct": 2.01
+      "price": 76132,
+      "change_pct": 1.61
     },
     "ETH": {
-      "price": 2314.92,
-      "change_pct": 1.77
+      "price": 2316.42,
+      "change_pct": 0.52
     },
     "SOL": {
       "price": 85.71,
-      "change_pct": 2.17
+      "change_pct": 0.86
     },
     "BNB": {
-      "price": 631.14,
-      "change_pct": 1.93
+      "price": 632.65,
+      "change_pct": 1.21
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Apple taps John Ternus\u00a0as CEO to replace Tim Cook, who will become chairman"
+      "title": "Apple incoming CEO John Ternus faces a defining challenge: Fixing the company's AI strategy"
     },
     {
       "source": "CNBC",
-      "title": "Labor Secretary Lori Chavez-DeRemer leaves Trump cabinet, Keith Sonderling takes over"
+      "title": "\u2018New cards on the battlefield\u2019: U.S., Iran ratchet up rhetoric with peace talks in limbo"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The end of freedom of the seas: Why global shipping may never be the same"
     },
     {
       "source": "MarketWatch",
       "title": "Do I earn too much to contribute to an IRA?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Bonds could lag stocks for the rest of 2026, according to this contrarian signal"
     }
   ]
 }
