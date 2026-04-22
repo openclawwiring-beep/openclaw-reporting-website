@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 22 2026  14:50 PT",
+  "generated_at": "Wednesday, April 22 2026  15:47 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4758.3,
-      "change_pct": -0.39
+      "price": 4750.2,
+      "change_pct": -0.56
     },
     "Oil (WTI)": {
-      "price": 92.87,
-      "change_pct": 4.06
+      "price": 92.59,
+      "change_pct": 3.74
     },
     "Silver": {
-      "price": 77.68,
-      "change_pct": -0.51
+      "price": 77.6,
+      "change_pct": -0.62
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78813,
-      "change_pct": 4.33
-    },
-    "ETH": {
-      "price": 2404.74,
+      "price": 78535,
       "change_pct": 3.96
     },
+    "ETH": {
+      "price": 2397.24,
+      "change_pct": 3.75
+    },
     "SOL": {
-      "price": 87.59,
-      "change_pct": 2.92
+      "price": 87.39,
+      "change_pct": 2.49
     },
     "BNB": {
-      "price": 642.22,
-      "change_pct": 2.05
+      "price": 640.17,
+      "change_pct": 1.82
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Tilray and other pot stocks soar as Trump is reportedly ready to reclassify cannabis"
+      "title": "CSX says more businesses are shipping via rail to avoid surging fuel costs"
     },
     {
       "source": "MarketWatch",
-      "title": "The Iran cease-fire has boosted investors\u2019 appetite for bitcoin. Here\u2019s why it could break past $80,000 soon."
+      "title": "These investments promise high yield with bond-like safety. But what looks too good to be true often is."
     }
   ]
 }
