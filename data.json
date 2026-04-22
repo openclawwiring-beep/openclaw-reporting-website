@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, April 22 2026  09:59 PT",
-  "market_status": "Live \u2014 as of 12:59 ET",
+  "generated_at": "Wednesday, April 22 2026  11:07 PT",
+  "market_status": "Live \u2014 as of 14:07 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7112.73,
-      "change_pct": 0.69
+      "price": 7124.22,
+      "change_pct": 0.85
     },
     "Nasdaq": {
-      "price": 24531.73,
-      "change_pct": 1.12
+      "price": 24602.61,
+      "change_pct": 1.41
     },
     "Dow Jones": {
-      "price": 49404.32,
-      "change_pct": 0.52
+      "price": 49396.1,
+      "change_pct": 0.5
     },
     "Russell 2000": {
-      "price": 2772.56,
-      "change_pct": 0.29
+      "price": 2778.58,
+      "change_pct": 0.5
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4747.4,
-      "change_pct": -0.62
+      "price": 4755.2,
+      "change_pct": -0.46
     },
     "Oil (WTI)": {
-      "price": 93.38,
-      "change_pct": 4.63
+      "price": 92.63,
+      "change_pct": 3.79
     },
     "Silver": {
-      "price": 77.73,
-      "change_pct": -0.45
+      "price": 77.9,
+      "change_pct": -0.23
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78755,
-      "change_pct": 3.81
+      "price": 78917,
+      "change_pct": 4.37
     },
     "ETH": {
-      "price": 2387.33,
-      "change_pct": 3.35
+      "price": 2402.17,
+      "change_pct": 4.15
     },
     "SOL": {
-      "price": 87.66,
-      "change_pct": 2.12
+      "price": 87.9,
+      "change_pct": 3.02
     },
     "BNB": {
-      "price": 644.91,
-      "change_pct": 1.99
+      "price": 645.81,
+      "change_pct": 2.53
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Flight cuts are spreading as fuel costs surge \u2014 and higher summer fares look likely"
+      "title": "Intel\u2019s stock has soared ahead of earnings. Are expectations now too high?"
     },
     {
       "source": "MarketWatch",
-      "title": "The top four takeaways from Trump Fed pick Kevin Warsh\u2019s confirmation hearing, according to strategist Tom Lee"
+      "title": "POET Technologies\u2019 stock is rocketing. What\u2019s behind the company\u2019s controversial AI-powered rise."
     }
   ]
 }
