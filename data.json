@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 21 2026  16:06 PT",
+  "generated_at": "Tuesday, April 21 2026  17:00 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4737.5,
-      "change_pct": -1.64
+      "price": 4754.8,
+      "change_pct": -1.28
     },
     "Oil (WTI)": {
-      "price": 90.37,
-      "change_pct": 4.26
+      "price": 90.59,
+      "change_pct": 4.51
     },
     "Silver": {
-      "price": 76.83,
-      "change_pct": -2.69
+      "price": 77.32,
+      "change_pct": -2.06
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75769,
-      "change_pct": -0.01
+      "price": 76350,
+      "change_pct": 0.63
     },
     "ETH": {
-      "price": 2317.67,
-      "change_pct": 0.21
+      "price": 2327.51,
+      "change_pct": 0.54
     },
     "SOL": {
-      "price": 85.55,
-      "change_pct": 0.14
+      "price": 86.03,
+      "change_pct": 0.84
     },
     "BNB": {
-      "price": 629.71,
-      "change_pct": 0.2
+      "price": 631.91,
+      "change_pct": 0.39
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Airlines cut flights as fuel costs surge \u2014 an economic fallout from the Iran war that markets may be missing"
+      "title": "\u2018This is unbelievable\u2019: My adviser made $300,000 trading options. Now I\u2019m being killed by taxes. Do I fire him?"
     },
     {
       "source": "MarketWatch",
-      "title": "Bonds could lag stocks for the rest of 2026, according to this contrarian signal"
+      "title": "Trump Media CEO Devin Nunes is leaving. This digital-media veteran will take his place."
     }
   ]
 }
