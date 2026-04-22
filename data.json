@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 22 2026  13:54 PT",
+  "generated_at": "Wednesday, April 22 2026  14:50 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4755.5,
-      "change_pct": -0.45
+      "price": 4758.3,
+      "change_pct": -0.39
     },
     "Oil (WTI)": {
-      "price": 92.67,
-      "change_pct": 3.83
+      "price": 92.87,
+      "change_pct": 4.06
     },
     "Silver": {
-      "price": 77.66,
-      "change_pct": -0.54
+      "price": 77.68,
+      "change_pct": -0.51
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78494,
-      "change_pct": 3.68
+      "price": 78813,
+      "change_pct": 4.33
     },
     "ETH": {
-      "price": 2393.32,
-      "change_pct": 3.26
+      "price": 2404.74,
+      "change_pct": 3.96
     },
     "SOL": {
-      "price": 87.17,
-      "change_pct": 1.92
+      "price": 87.59,
+      "change_pct": 2.92
     },
     "BNB": {
-      "price": 641.85,
-      "change_pct": 1.9
+      "price": 642.22,
+      "change_pct": 2.05
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Kevin Warsh gave his preferred way for measuring inflation. It could come back to bite him"
+      "title": "IBM shares turn lower as company beats but opts to maintain guidance"
     },
     {
       "source": "MarketWatch",
-      "title": "Sports-betting apps and prediction markets have turbocharged teen gambling \u2014 and parents often have no idea"
+      "title": "Tilray and other pot stocks soar as Trump is reportedly ready to reclassify cannabis"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The Lord has taken care of me\u2019: I\u2019m 74. I went from earning $14 an hour to retiring with $3.4 million. Here\u2019s how I did it."
+      "title": "The Iran cease-fire has boosted investors\u2019 appetite for bitcoin. Here\u2019s why it could break past $80,000 soon."
     }
   ]
 }
