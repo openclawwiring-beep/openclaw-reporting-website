@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, April 22 2026  07:14 PT",
-  "market_status": "Live \u2014 as of 10:14 ET",
+  "generated_at": "Wednesday, April 22 2026  08:49 PT",
+  "market_status": "Live \u2014 as of 11:49 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7123.22,
-      "change_pct": 0.83
+      "price": 7122.02,
+      "change_pct": 0.82
     },
     "Nasdaq": {
-      "price": 24506.63,
-      "change_pct": 1.02
+      "price": 24571.25,
+      "change_pct": 1.28
     },
     "Dow Jones": {
-      "price": 49610.15,
-      "change_pct": 0.93
+      "price": 49486.29,
+      "change_pct": 0.68
     },
     "Russell 2000": {
-      "price": 2793.16,
-      "change_pct": 1.03
+      "price": 2782.44,
+      "change_pct": 0.64
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4765.4,
-      "change_pct": -0.24
+      "price": 4745.5,
+      "change_pct": -0.66
     },
     "Oil (WTI)": {
-      "price": 91.64,
-      "change_pct": 2.68
+      "price": 92.84,
+      "change_pct": 4.02
     },
     "Silver": {
-      "price": 78.18,
-      "change_pct": 0.12
+      "price": 77.78,
+      "change_pct": -0.4
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78974,
-      "change_pct": 4.11
+      "price": 79291,
+      "change_pct": 4.64
     },
     "ETH": {
-      "price": 2418.88,
-      "change_pct": 4.82
+      "price": 2411.32,
+      "change_pct": 4.47
     },
     "SOL": {
-      "price": 89.21,
-      "change_pct": 4.07
+      "price": 88.4,
+      "change_pct": 2.98
     },
     "BNB": {
-      "price": 651.74,
-      "change_pct": 3.2
+      "price": 650.09,
+      "change_pct": 2.96
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran says it has seized two ships in Strait of Hormuz after U.S. extends ceasefire"
+      "title": "Trump administration in advanced talks for Spirit Airlines rescue package, source says"
     },
     {
       "source": "CNBC",
-      "title": "Boeing CEO says 'all systems are go' to increase 737 production as company narrows loss"
+      "title": "Iran says it has seized two ships in Strait of Hormuz after U.S. extends ceasefire"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The Lord has taken care of me\u2019: I\u2019m 74. I went from earning $14 an hour to retiring with $3.4 million. Here\u2019s how I did it."
+      "title": "Market chaos gives money managers a chance to beat index funds \u2014 just like they\u2019re supposed to do"
     },
     {
       "source": "MarketWatch",
-      "title": "I paid $4,500 instead of filing an insurance claim. Here\u2019s when you should do the same."
+      "title": "Global oil climbs back to $100 a barrel after Iran flexes its power over oil tankers in Hormuz"
     }
   ]
 }
