@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, April 22 2026  11:07 PT",
-  "market_status": "Live \u2014 as of 14:07 ET",
+  "generated_at": "Wednesday, April 22 2026  12:46 PT",
+  "market_status": "Live \u2014 as of 15:46 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7124.22,
-      "change_pct": 0.85
+      "price": 7128.64,
+      "change_pct": 0.91
     },
     "Nasdaq": {
-      "price": 24602.61,
-      "change_pct": 1.41
+      "price": 24622.21,
+      "change_pct": 1.49
     },
     "Dow Jones": {
-      "price": 49396.1,
-      "change_pct": 0.5
+      "price": 49419.72,
+      "change_pct": 0.55
     },
     "Russell 2000": {
-      "price": 2778.58,
-      "change_pct": 0.5
+      "price": 2778.78,
+      "change_pct": 0.51
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4755.2,
-      "change_pct": -0.46
+      "price": 4758.4,
+      "change_pct": -0.39
     },
     "Oil (WTI)": {
-      "price": 92.63,
-      "change_pct": 3.79
+      "price": 92.59,
+      "change_pct": 3.74
     },
     "Silver": {
-      "price": 77.9,
-      "change_pct": -0.23
+      "price": 77.66,
+      "change_pct": -0.54
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78917,
-      "change_pct": 4.37
+      "price": 78869,
+      "change_pct": 5.16
     },
     "ETH": {
-      "price": 2402.17,
-      "change_pct": 4.15
+      "price": 2395.86,
+      "change_pct": 4.36
     },
     "SOL": {
-      "price": 87.9,
-      "change_pct": 3.02
+      "price": 87.33,
+      "change_pct": 3.41
     },
     "BNB": {
-      "price": 645.81,
-      "change_pct": 2.53
+      "price": 644.51,
+      "change_pct": 2.91
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump administration in advanced talks for Spirit Airlines rescue package, sources say"
+      "title": "Kevin Warsh gave his preferred way for measuring inflation. It could come back to bite him"
     },
     {
       "source": "CNBC",
-      "title": "Strait of Hormuz remains basically closed as Iran seizes ships after Trump ceasefire extension"
+      "title": "Bessent says 'many' U.S. allies have asked for currency swaps amid Iran war turbulence"
     },
     {
       "source": "MarketWatch",
-      "title": "Intel\u2019s stock has soared ahead of earnings. Are expectations now too high?"
+      "title": "\u2018Some stocks have risen, but others have flopped\u2019: I will soon inherit my parents\u2019 $1.5 million estate. Do I fire the adviser who charges a 3% fee?"
     },
     {
       "source": "MarketWatch",
-      "title": "POET Technologies\u2019 stock is rocketing. What\u2019s behind the company\u2019s controversial AI-powered rise."
+      "title": "Tilray and other cannabis stocks soar as Trump is reportedly ready to reclassify the substance"
     }
   ]
 }
