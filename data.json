@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 22 2026  04:16 PT",
+  "generated_at": "Wednesday, April 22 2026  05:12 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4775.9,
-      "change_pct": -0.02
+      "price": 4773.0,
+      "change_pct": -0.08
     },
     "Oil (WTI)": {
-      "price": 90.17,
-      "change_pct": 1.03
+      "price": 90.02,
+      "change_pct": 0.86
     },
     "Silver": {
-      "price": 78.07,
-      "change_pct": -0.01
+      "price": 78.21,
+      "change_pct": 0.17
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78171,
-      "change_pct": 2.18
+      "price": 78341,
+      "change_pct": 2.6
     },
     "ETH": {
-      "price": 2390.08,
-      "change_pct": 2.96
+      "price": 2400.39,
+      "change_pct": 3.5
     },
     "SOL": {
-      "price": 88.28,
-      "change_pct": 2.8
+      "price": 88.32,
+      "change_pct": 2.82
     },
     "BNB": {
-      "price": 641.86,
-      "change_pct": 1.13
+      "price": 643.75,
+      "change_pct": 1.57
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures rise after Trump extends ceasefire with Iran: Live updates"
+      "title": "Iran says it has seized two ships in Strait of Hormuz after U.S. extends ceasefire"
     },
     {
       "source": "CNBC",
-      "title": "Two ships attacked in Strait of Hormuz, UK says, after U.S. extends Iran ceasefire"
+      "title": "Google unveils chips for AI training and inference in latest shot at Nvidia"
     },
     {
       "source": "MarketWatch",
-      "title": "I will retire in my early 50s. I have $3.2 million \u2014 only $200,000 is in a traditional IRA. Have I beaten the IRS?"
+      "title": "\u2018This is unbelievable\u2019: My adviser made $300,000 trading options. Now I\u2019m being killed by taxes. Do I fire him?"
     },
     {
       "source": "MarketWatch",
-      "title": "As U.S.-Iran talks collapse but cease-fire holds, Iran may boast this small win"
+      "title": "When dentists start getting cold calls about private credit, you know the fad has peaked"
     }
   ]
 }
