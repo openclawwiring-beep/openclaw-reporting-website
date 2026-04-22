@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 21 2026  17:00 PT",
+  "generated_at": "Tuesday, April 21 2026  20:46 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4754.8,
-      "change_pct": -1.28
+      "price": 4778.4,
+      "change_pct": -0.79
     },
     "Oil (WTI)": {
-      "price": 90.59,
-      "change_pct": 4.51
+      "price": 89.4,
+      "change_pct": 3.14
     },
     "Silver": {
-      "price": 77.32,
-      "change_pct": -2.06
+      "price": 78.12,
+      "change_pct": -1.05
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76350,
-      "change_pct": 0.63
+      "price": 77568,
+      "change_pct": 2.57
     },
     "ETH": {
-      "price": 2327.51,
-      "change_pct": 0.54
+      "price": 2363.92,
+      "change_pct": 2.39
     },
     "SOL": {
-      "price": 86.03,
-      "change_pct": 0.84
+      "price": 87.26,
+      "change_pct": 2.43
     },
     "BNB": {
-      "price": 631.91,
-      "change_pct": 0.39
+      "price": 640.0,
+      "change_pct": 1.64
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump extends ceasefire in Iran, citing 'seriously fractured' Iranian government"
+      "title": "Hormuz is just a \u2018dry run\u2019 if China and U.S. go to war in the Pacific, Singapore foreign minister warns"
     },
     {
       "source": "CNBC",
-      "title": "Analysis: Warsh emerges from a difficult hearing with his Fed 'regime-change' plan intact"
+      "title": "Trump extends ceasefire in Iran, citing 'seriously fractured' Iranian government"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This is unbelievable\u2019: My adviser made $300,000 trading options. Now I\u2019m being killed by taxes. Do I fire him?"
+      "title": "Prices for World Cup public transportation range from free to $150. Here\u2019s what\u2019s going on."
     },
     {
       "source": "MarketWatch",
-      "title": "Trump Media CEO Devin Nunes is leaving. This digital-media veteran will take his place."
+      "title": "What is Cursor? SpaceX could buy the AI company for a whopping $60 billion."
     }
   ]
 }
