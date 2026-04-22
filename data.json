@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 22 2026  02:59 PT",
+  "generated_at": "Wednesday, April 22 2026  04:16 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4775.2,
-      "change_pct": -0.04
+      "price": 4775.9,
+      "change_pct": -0.02
     },
     "Oil (WTI)": {
-      "price": 90.53,
-      "change_pct": 1.43
+      "price": 90.17,
+      "change_pct": 1.03
     },
     "Silver": {
-      "price": 78.04,
-      "change_pct": -0.06
+      "price": 78.07,
+      "change_pct": -0.01
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78027,
-      "change_pct": 2.17
+      "price": 78171,
+      "change_pct": 2.18
     },
     "ETH": {
-      "price": 2387.5,
-      "change_pct": 2.67
+      "price": 2390.08,
+      "change_pct": 2.96
     },
     "SOL": {
-      "price": 88.33,
-      "change_pct": 2.87
+      "price": 88.28,
+      "change_pct": 2.8
     },
     "BNB": {
-      "price": 642.41,
-      "change_pct": 0.9
+      "price": 641.86,
+      "change_pct": 1.13
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Adobe is betting a quarter of its value against the so-called SaaSpocalypse"
+      "title": "I will retire in my early 50s. I have $3.2 million \u2014 only $200,000 is in a traditional IRA. Have I beaten the IRS?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The Lord has taken care of me\u2019: I\u2019m 74. I went from working $14 an hour to $3.4 million. Here\u2019s how I did it."
+      "title": "As U.S.-Iran talks collapse but cease-fire holds, Iran may boast this small win"
     }
   ]
 }
