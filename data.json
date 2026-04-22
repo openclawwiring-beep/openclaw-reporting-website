@@ -1,32 +1,32 @@
 {
-  "generated_at": "Wednesday, April 22 2026  12:46 PT",
-  "market_status": "Live \u2014 as of 15:46 ET",
+  "generated_at": "Wednesday, April 22 2026  13:54 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7128.64,
-      "change_pct": 0.91
+      "price": 7137.9,
+      "change_pct": 1.05
     },
     "Nasdaq": {
-      "price": 24622.21,
-      "change_pct": 1.49
+      "price": 24657.57,
+      "change_pct": 1.64
     },
     "Dow Jones": {
-      "price": 49419.72,
-      "change_pct": 0.55
+      "price": 49490.03,
+      "change_pct": 0.69
     },
     "Russell 2000": {
-      "price": 2778.78,
-      "change_pct": 0.51
+      "price": 2785.38,
+      "change_pct": 0.74
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4758.4,
-      "change_pct": -0.39
+      "price": 4755.5,
+      "change_pct": -0.45
     },
     "Oil (WTI)": {
-      "price": 92.59,
-      "change_pct": 3.74
+      "price": 92.67,
+      "change_pct": 3.83
     },
     "Silver": {
       "price": 77.66,
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78869,
-      "change_pct": 5.16
+      "price": 78494,
+      "change_pct": 3.68
     },
     "ETH": {
-      "price": 2395.86,
-      "change_pct": 4.36
+      "price": 2393.32,
+      "change_pct": 3.26
     },
     "SOL": {
-      "price": 87.33,
-      "change_pct": 3.41
+      "price": 87.17,
+      "change_pct": 1.92
     },
     "BNB": {
-      "price": 644.51,
-      "change_pct": 2.91
+      "price": 641.85,
+      "change_pct": 1.9
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Kevin Warsh gave his preferred way for measuring inflation. It could come back to bite him"
+      "title": "Tesla misses on revenue but beats on profit as auto margins jump"
     },
     {
       "source": "CNBC",
-      "title": "Bessent says 'many' U.S. allies have asked for currency swaps amid Iran war turbulence"
+      "title": "Kevin Warsh gave his preferred way for measuring inflation. It could come back to bite him"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Some stocks have risen, but others have flopped\u2019: I will soon inherit my parents\u2019 $1.5 million estate. Do I fire the adviser who charges a 3% fee?"
+      "title": "Sports-betting apps and prediction markets have turbocharged teen gambling \u2014 and parents often have no idea"
     },
     {
       "source": "MarketWatch",
-      "title": "Tilray and other cannabis stocks soar as Trump is reportedly ready to reclassify the substance"
+      "title": "\u2018The Lord has taken care of me\u2019: I\u2019m 74. I went from earning $14 an hour to retiring with $3.4 million. Here\u2019s how I did it."
     }
   ]
 }
