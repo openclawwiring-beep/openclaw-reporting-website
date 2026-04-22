@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 21 2026  22:59 PT",
+  "generated_at": "Wednesday, April 22 2026  01:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4786.7,
-      "change_pct": 0.2
+      "price": 4780.5,
+      "change_pct": 0.07
     },
     "Oil (WTI)": {
-      "price": 88.59,
-      "change_pct": -0.75
+      "price": 89.29,
+      "change_pct": -0.09
     },
     "Silver": {
-      "price": 78.55,
-      "change_pct": 0.61
+      "price": 78.36,
+      "change_pct": 0.35
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78054,
-      "change_pct": 2.93
+      "price": 78048,
+      "change_pct": 2.48
     },
     "ETH": {
-      "price": 2399.36,
-      "change_pct": 3.64
+      "price": 2390.88,
+      "change_pct": 3.04
     },
     "SOL": {
-      "price": 88.1,
-      "change_pct": 2.8
+      "price": 88.09,
+      "change_pct": 2.73
     },
     "BNB": {
-      "price": 643.35,
-      "change_pct": 1.92
+      "price": 642.28,
+      "change_pct": 1.47
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Prices for World Cup public transportation range from free to $150. Here\u2019s what\u2019s going on."
+      "title": "Why these strategists say 45% of portfolios should be invested in gold, metals and bitcoin"
     },
     {
       "source": "MarketWatch",
-      "title": "What is Cursor? SpaceX could buy the AI company for a whopping $60 billion."
+      "title": "Prices for World Cup public transportation range from free to $150. Here\u2019s what\u2019s going on."
     }
   ]
 }
