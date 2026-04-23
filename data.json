@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, April 23 2026  09:16 PT",
-  "market_status": "Live \u2014 as of 12:16 ET",
+  "generated_at": "Thursday, April 23 2026  10:52 PT",
+  "market_status": "Live \u2014 as of 13:52 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7133.65,
-      "change_pct": -0.05
+      "price": 7055.37,
+      "change_pct": -1.15
     },
     "Nasdaq": {
-      "price": 24586.78,
-      "change_pct": -0.29
+      "price": 24245.45,
+      "change_pct": -1.67
     },
     "Dow Jones": {
-      "price": 49413.56,
-      "change_pct": -0.15
+      "price": 48916.76,
+      "change_pct": -1.15
     },
     "Russell 2000": {
-      "price": 2786.53,
-      "change_pct": 0.04
+      "price": 2758.12,
+      "change_pct": -0.98
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4735.8,
-      "change_pct": 0.33
+      "price": 4697.9,
+      "change_pct": -0.47
     },
     "Oil (WTI)": {
-      "price": 94.63,
-      "change_pct": 0.08
+      "price": 97.96,
+      "change_pct": 3.61
     },
     "Silver": {
-      "price": 76.05,
-      "change_pct": -0.03
+      "price": 74.99,
+      "change_pct": -1.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78355,
-      "change_pct": -1.01
+      "price": 77391,
+      "change_pct": -1.99
     },
     "ETH": {
-      "price": 2332.69,
-      "change_pct": -2.9
+      "price": 2295.91,
+      "change_pct": -4.42
     },
     "SOL": {
-      "price": 86.26,
-      "change_pct": -2.27
+      "price": 84.93,
+      "change_pct": -3.37
     },
     "BNB": {
-      "price": 640.11,
-      "change_pct": -1.46
+      "price": 632.39,
+      "change_pct": -1.97
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Mortgage rates inch lower \u2014 and chip away at the \u2018lock-in effect\u2019 that has hurt home buyers"
+      "title": "Investors are worried about private credit\u2019s close ties to software stocks. So, why is money flooding into these ETFs?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Magic: The Gathering\u2019 players shouldn\u2019t worry. The Hasbro hack hasn\u2019t hurt deliveries."
+      "title": "Spirit Airlines is close to getting a bailout. What\u2019s in it for U.S. taxpayers?"
     }
   ]
 }
