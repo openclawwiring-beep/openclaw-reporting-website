@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, April 23 2026  07:03 PT",
-  "market_status": "Live \u2014 as of 10:03 ET",
+  "generated_at": "Thursday, April 23 2026  09:16 PT",
+  "market_status": "Live \u2014 as of 12:16 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7123.43,
-      "change_pct": -0.19
+      "price": 7133.65,
+      "change_pct": -0.05
     },
     "Nasdaq": {
-      "price": 24543.22,
-      "change_pct": -0.46
+      "price": 24586.78,
+      "change_pct": -0.29
     },
     "Dow Jones": {
-      "price": 49291.7,
-      "change_pct": -0.4
+      "price": 49413.56,
+      "change_pct": -0.15
     },
     "Russell 2000": {
-      "price": 2790.08,
-      "change_pct": 0.17
+      "price": 2786.53,
+      "change_pct": 0.04
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4756.1,
-      "change_pct": 0.76
+      "price": 4735.8,
+      "change_pct": 0.33
     },
     "Oil (WTI)": {
-      "price": 93.92,
-      "change_pct": -0.67
+      "price": 94.63,
+      "change_pct": 0.08
     },
     "Silver": {
-      "price": 76.42,
-      "change_pct": 0.45
+      "price": 76.05,
+      "change_pct": -0.03
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77485,
-      "change_pct": -1.76
+      "price": 78355,
+      "change_pct": -1.01
     },
     "ETH": {
-      "price": 2318.86,
-      "change_pct": -4.18
+      "price": 2332.69,
+      "change_pct": -2.9
     },
     "SOL": {
-      "price": 85.72,
-      "change_pct": -3.84
+      "price": 86.26,
+      "change_pct": -2.27
     },
     "BNB": {
-      "price": 635.84,
-      "change_pct": -2.47
+      "price": 640.11,
+      "change_pct": -1.46
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump orders Navy to 'shoot and kill any boat' laying mines in Hormuz Strait"
+      "title": "U.S.-Iran war evolves into naval standoff over Strait of Hormuz after both countries seize ships"
     },
     {
       "source": "CNBC",
-      "title": "Trump administration moves to reclassify cannabis in major shift that could expand research"
+      "title": "Microsoft plans first-ever voluntary employee buyout for up to 7% of U.S. workforce"
     },
     {
       "source": "MarketWatch",
-      "title": "Why ServiceNow\u2019s stock is sliding in the wake of earnings"
+      "title": "Mortgage rates inch lower \u2014 and chip away at the \u2018lock-in effect\u2019 that has hurt home buyers"
     },
     {
       "source": "MarketWatch",
-      "title": "Before dipping into your 401(k) for emergency cash, consider these costs"
+      "title": "\u2018Magic: The Gathering\u2019 players shouldn\u2019t worry. The Hasbro hack hasn\u2019t hurt deliveries."
     }
   ]
 }
