@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 23 2026  02:11 PT",
+  "generated_at": "Thursday, April 23 2026  03:52 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4718.8,
-      "change_pct": -0.03
+      "price": 4709.7,
+      "change_pct": -0.22
     },
     "Oil (WTI)": {
-      "price": 94.88,
-      "change_pct": 0.35
+      "price": 94.44,
+      "change_pct": -0.12
     },
     "Silver": {
-      "price": 75.54,
-      "change_pct": -0.7
+      "price": 74.51,
+      "change_pct": -2.04
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77577,
-      "change_pct": -0.61
+      "price": 77390,
+      "change_pct": -0.96
     },
     "ETH": {
-      "price": 2324.85,
-      "change_pct": -2.79
+      "price": 2314.28,
+      "change_pct": -3.22
     },
     "SOL": {
-      "price": 85.58,
+      "price": 85.43,
       "change_pct": -3.29
     },
     "BNB": {
-      "price": 633.83,
-      "change_pct": -1.49
+      "price": 632.02,
+      "change_pct": -1.71
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "'We are facing the biggest energy security threat in history,' IEA chief tells CNBC"
+      "title": "Oil exporters scramble for routes beyond Hormuz \u2014 but there are no easy options"
     },
     {
       "source": "CNBC",
-      "title": "Tesla misses on revenue but beats on profit as auto margins jump"
+      "title": "Trump's net approval rating on economy and overall falls to lowest of his two terms, CNBC survey shows"
     },
     {
       "source": "MarketWatch",
-      "title": "Years after he auctioned it off, NSYNC singer Joey Fatone\u2019s former mansion is on the market for $7.9 million"
+      "title": "\u2018This is unbelievable\u2019: My adviser made $300,000 trading options. Now I\u2019m being killed by taxes. Do I fire him?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The Lord has taken care of me\u2019: I\u2019m 74. I went from earning $14 an hour to retiring with $3.4 million. Here\u2019s how I did it."
+      "title": "The meme-stock craze is getting close to its post-Liberation Day extremes, according to JPMorgan"
     }
   ]
 }
