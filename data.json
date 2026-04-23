@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 23 2026  00:14 PT",
+  "generated_at": "Thursday, April 23 2026  02:11 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4726.8,
-      "change_pct": 0.14
+      "price": 4718.8,
+      "change_pct": -0.03
     },
     "Oil (WTI)": {
-      "price": 94.37,
-      "change_pct": -0.19
+      "price": 94.88,
+      "change_pct": 0.35
     },
     "Silver": {
-      "price": 75.99,
-      "change_pct": -0.11
+      "price": 75.54,
+      "change_pct": -0.7
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78172,
-      "change_pct": 0.16
+      "price": 77577,
+      "change_pct": -0.61
     },
     "ETH": {
-      "price": 2354.79,
-      "change_pct": -1.68
+      "price": 2324.85,
+      "change_pct": -2.79
     },
     "SOL": {
-      "price": 86.1,
-      "change_pct": -2.07
+      "price": 85.58,
+      "change_pct": -3.29
     },
     "BNB": {
-      "price": 636.85,
-      "change_pct": -0.87
+      "price": 633.83,
+      "change_pct": -1.49
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Justin Trudeau tells CNBC that international organizations may no longer be fit for purpose"
+      "title": "'We are facing the biggest energy security threat in history,' IEA chief tells CNBC"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "FICO\u2019s stock falls as Fannie and Freddie deal the credit-score company a new blow"
+      "title": "Years after he auctioned it off, NSYNC singer Joey Fatone\u2019s former mansion is on the market for $7.9 million"
     },
     {
       "source": "MarketWatch",
-      "title": "Why ServiceNow\u2019s stock is sliding in the wake of earnings"
+      "title": "\u2018The Lord has taken care of me\u2019: I\u2019m 74. I went from earning $14 an hour to retiring with $3.4 million. Here\u2019s how I did it."
     }
   ]
 }
