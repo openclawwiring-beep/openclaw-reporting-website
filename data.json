@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 23 2026  15:42 PT",
+  "generated_at": "Thursday, April 23 2026  16:43 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4710.2,
-      "change_pct": -0.21
+      "price": 4710.5,
+      "change_pct": -0.2
     },
     "Oil (WTI)": {
-      "price": 96.95,
-      "change_pct": 2.54
+      "price": 96.82,
+      "change_pct": 2.4
     },
     "Silver": {
       "price": 75.57,
-      "change_pct": -0.65
+      "change_pct": -0.66
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78255,
-      "change_pct": -0.39
+      "price": 78262,
+      "change_pct": -0.01
     },
     "ETH": {
-      "price": 2334.5,
-      "change_pct": -2.62
+      "price": 2331.11,
+      "change_pct": -1.95
     },
     "SOL": {
-      "price": 86.14,
-      "change_pct": -1.42
+      "price": 86.08,
+      "change_pct": -0.95
     },
     "BNB": {
-      "price": 639.48,
-      "change_pct": -0.12
+      "price": 638.64,
+      "change_pct": 0.14
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Microsoft plans first-ever voluntary employee buyout for up to 7% of U.S. workforce"
+      "title": "Trump says Israel-Lebanon ceasefire extended by three weeks"
     },
     {
       "source": "CNBC",
-      "title": "Meta will cut 10% of workforce as company pushes deeper into AI"
+      "title": "U.S. soldier arrested for $400K winning Polymarket bets on Maduro capture, DOJ says"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This is unbelievable\u2019: My adviser made $300,000 trading options. Now I\u2019m being killed by taxes. Do I fire him?"
+      "title": "Why Intel\u2019s stock is on track for a historic surge after earnings"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump is swaying the market like no president has in decades, analysis shows"
+      "title": "French weather forecast office files police complaint following suspicious Polymarket bets"
     }
   ]
 }
