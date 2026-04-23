@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 23 2026  13:31 PT",
+  "generated_at": "Thursday, April 23 2026  14:44 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4708.5,
+      "price": 4708.6,
       "change_pct": -0.24
     },
     "Oil (WTI)": {
-      "price": 96.8,
-      "change_pct": 2.38
+      "price": 97.0,
+      "change_pct": 2.59
     },
     "Silver": {
-      "price": 75.41,
-      "change_pct": -0.87
+      "price": 75.46,
+      "change_pct": -0.8
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77750,
-      "change_pct": -1.06
+      "price": 78025,
+      "change_pct": -0.92
     },
     "ETH": {
-      "price": 2318.92,
-      "change_pct": -3.3
+      "price": 2328.14,
+      "change_pct": -3.2
     },
     "SOL": {
-      "price": 85.54,
-      "change_pct": -2.01
+      "price": 85.96,
+      "change_pct": -1.73
     },
     "BNB": {
-      "price": 636.14,
-      "change_pct": -0.88
+      "price": 638.76,
+      "change_pct": -0.44
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla is in a no-win situation as it faces the ire of its earliest customers"
+      "title": "The cannabis rescheduling is causing celebration \u2014 and confusion \u2014 as marijuana stocks sell off"
     },
     {
       "source": "MarketWatch",
-      "title": "Hainan had one job for years: capturing domestic luxury-goods spending. Now China wants the island province to work harder."
+      "title": "Nike is cutting 1,400 more jobs \u2014 and the company\u2019s shake-up is not done yet"
     }
   ]
 }
