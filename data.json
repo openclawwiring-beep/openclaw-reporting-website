@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, April 23 2026  12:10 PT",
-  "market_status": "Live \u2014 as of 15:10 ET",
+  "generated_at": "Thursday, April 23 2026  13:31 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7103.17,
-      "change_pct": -0.48
+      "price": 7108.4,
+      "change_pct": -0.41
     },
     "Nasdaq": {
-      "price": 24411.73,
-      "change_pct": -1.0
+      "price": 24438.5,
+      "change_pct": -0.89
     },
     "Dow Jones": {
-      "price": 49301.98,
-      "change_pct": -0.38
+      "price": 49310.32,
+      "change_pct": -0.36
     },
     "Russell 2000": {
-      "price": 2771.52,
-      "change_pct": -0.5
+      "price": 2775.1,
+      "change_pct": -0.37
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4720.4,
-      "change_pct": 0.01
+      "price": 4708.5,
+      "change_pct": -0.24
     },
     "Oil (WTI)": {
-      "price": 96.54,
-      "change_pct": 2.1
+      "price": 96.8,
+      "change_pct": 2.38
     },
     "Silver": {
-      "price": 75.67,
-      "change_pct": -0.53
+      "price": 75.41,
+      "change_pct": -0.87
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77742,
-      "change_pct": -1.28
+      "price": 77750,
+      "change_pct": -1.06
     },
     "ETH": {
-      "price": 2308.69,
-      "change_pct": -3.5
+      "price": 2318.92,
+      "change_pct": -3.3
     },
     "SOL": {
-      "price": 85.27,
-      "change_pct": -2.66
+      "price": 85.54,
+      "change_pct": -2.01
     },
     "BNB": {
-      "price": 634.64,
-      "change_pct": -1.59
+      "price": 636.14,
+      "change_pct": -0.88
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Trump\u2019s meme coin is down 80% since his first event promoting it. He\u2019s holding another gala for it this weekend."
+      "title": "Tesla is in a no-win situation as it faces the ire of its earliest customers"
     },
     {
       "source": "MarketWatch",
-      "title": "As Americans turn to blue-collar jobs for stability, here\u2019s which ones offer the most security \u2014 and which offer the least"
+      "title": "Hainan had one job for years: capturing domestic luxury-goods spending. Now China wants the island province to work harder."
     }
   ]
 }
