@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 23 2026  14:44 PT",
+  "generated_at": "Thursday, April 23 2026  15:42 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4708.6,
-      "change_pct": -0.24
+      "price": 4710.2,
+      "change_pct": -0.21
     },
     "Oil (WTI)": {
-      "price": 97.0,
-      "change_pct": 2.59
+      "price": 96.95,
+      "change_pct": 2.54
     },
     "Silver": {
-      "price": 75.46,
-      "change_pct": -0.8
+      "price": 75.57,
+      "change_pct": -0.65
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78025,
-      "change_pct": -0.92
+      "price": 78255,
+      "change_pct": -0.39
     },
     "ETH": {
-      "price": 2328.14,
-      "change_pct": -3.2
+      "price": 2334.5,
+      "change_pct": -2.62
     },
     "SOL": {
-      "price": 85.96,
-      "change_pct": -1.73
+      "price": 86.14,
+      "change_pct": -1.42
     },
     "BNB": {
-      "price": 638.76,
-      "change_pct": -0.44
+      "price": 639.48,
+      "change_pct": -0.12
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The cannabis rescheduling is causing celebration \u2014 and confusion \u2014 as marijuana stocks sell off"
+      "title": "\u2018This is unbelievable\u2019: My adviser made $300,000 trading options. Now I\u2019m being killed by taxes. Do I fire him?"
     },
     {
       "source": "MarketWatch",
-      "title": "Nike is cutting 1,400 more jobs \u2014 and the company\u2019s shake-up is not done yet"
+      "title": "Trump is swaying the market like no president has in decades, analysis shows"
     }
   ]
 }
