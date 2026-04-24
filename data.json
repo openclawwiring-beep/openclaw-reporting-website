@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, April 24 2026  03:03 PT",
+  "generated_at": "Friday, April 24 2026  04:39 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4696.4,
-      "change_pct": 0.19
+      "price": 4729.8,
+      "change_pct": 0.9
     },
     "Oil (WTI)": {
-      "price": 97.59,
-      "change_pct": 1.0
+      "price": 93.91,
+      "change_pct": -2.8
     },
     "Silver": {
-      "price": 74.6,
-      "change_pct": -0.28
+      "price": 76.13,
+      "change_pct": 1.76
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77485,
-      "change_pct": -0.2
+      "price": 78308,
+      "change_pct": 1.02
     },
     "ETH": {
-      "price": 2308.3,
-      "change_pct": -0.38
+      "price": 2329.96,
+      "change_pct": 0.3
     },
     "SOL": {
-      "price": 85.32,
-      "change_pct": -0.23
+      "price": 86.2,
+      "change_pct": 0.64
     },
     "BNB": {
-      "price": 634.29,
-      "change_pct": 0.19
+      "price": 638.29,
+      "change_pct": 0.86
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures trade mixed after Trump announces 3-week extension to Israel-Lebanon ceasefire: Live updates"
+      "title": "S&P 500 futures gain as oil declines, Intel shares pop: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Intel's stock soars 20% as results top estimates, with chipmaker showing signs of growth"
+      "title": "Procter & Gamble earnings beat estimates as sales grow 7%"
     },
     {
       "source": "MarketWatch",
-      "title": "The \u2018simple math\u2019 why oil prices need to rise a lot more, according to JPMorgan"
+      "title": "Gas prices matter for households. But here\u2019s why they still look too low for Trump to give in to Iran right now."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My child will need lifelong support\u2019: I\u2019m in my 40s with a $330,000 inherited retirement account. How can I grow it?"
+      "title": "Deliveries of a $300,000 flying car may be coming later this year"
     }
   ]
 }
