@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 23 2026  22:34 PT",
+  "generated_at": "Friday, April 24 2026  01:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4690.8,
-      "change_pct": -0.43
+      "price": 4707.0,
+      "change_pct": 0.42
     },
     "Oil (WTI)": {
-      "price": 96.01,
-      "change_pct": -1.21
+      "price": 96.63,
+      "change_pct": 0.01
     },
     "Silver": {
-      "price": 74.93,
-      "change_pct": -0.41
+      "price": 74.71,
+      "change_pct": -0.13
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77717,
-      "change_pct": -0.14
+      "price": 77656,
+      "change_pct": -0.47
     },
     "ETH": {
-      "price": 2308.11,
-      "change_pct": -1.53
+      "price": 2311.83,
+      "change_pct": -1.31
     },
     "SOL": {
-      "price": 85.37,
-      "change_pct": -0.48
+      "price": 85.48,
+      "change_pct": -0.51
     },
     "BNB": {
-      "price": 632.97,
-      "change_pct": -0.5
+      "price": 635.14,
+      "change_pct": -0.1
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says Israel-Lebanon ceasefire extended by three weeks"
+      "title": "TSMC shares jump to record high as Taiwan eases single-stock investment caps for funds"
     },
     {
       "source": "CNBC",
-      "title": "U.S. soldier arrested for $400K winning Polymarket bets on Maduro capture, DOJ says"
+      "title": "Trump says Israel-Lebanon ceasefire extended by three weeks"
     },
     {
       "source": "MarketWatch",
