@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, April 24 2026  10:29 PT",
-  "market_status": "Live \u2014 as of 13:29 ET",
+  "generated_at": "Friday, April 24 2026  11:07 PT",
+  "market_status": "Live \u2014 as of 14:07 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7155.11,
-      "change_pct": 0.66
+      "price": 7159.64,
+      "change_pct": 0.73
     },
     "Nasdaq": {
-      "price": 24785.02,
-      "change_pct": 1.42
+      "price": 24813.6,
+      "change_pct": 1.53
     },
     "Dow Jones": {
-      "price": 49163.57,
-      "change_pct": -0.29
+      "price": 49186.88,
+      "change_pct": -0.24
     },
     "Russell 2000": {
-      "price": 2792.14,
-      "change_pct": 0.61
+      "price": 2789.93,
+      "change_pct": 0.53
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4745.4,
-      "change_pct": 1.24
+      "price": 4741.1,
+      "change_pct": 1.14
     },
     "Oil (WTI)": {
-      "price": 93.75,
-      "change_pct": -2.97
+      "price": 93.28,
+      "change_pct": -3.46
     },
     "Silver": {
-      "price": 76.45,
-      "change_pct": 2.19
+      "price": 76.51,
+      "change_pct": 2.27
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77704,
-      "change_pct": 0.02
+      "price": 77653,
+      "change_pct": -0.42
     },
     "ETH": {
-      "price": 2316.56,
+      "price": 2318.66,
       "change_pct": 0.18
     },
     "SOL": {
       "price": 86.42,
-      "change_pct": 1.5
+      "change_pct": 1.14
     },
     "BNB": {
-      "price": 637.88,
-      "change_pct": 0.17
+      "price": 637.31,
+      "change_pct": 0.35
     }
   },
   "headlines": [
@@ -58,11 +58,11 @@
     },
     {
       "source": "CNBC",
-      "title": "DOJ drops criminal probe of Fed Chair Powell, removes hurdle for Warsh confirmation"
+      "title": "Analysis: The threat to the Fed's independence isn't over"
     },
     {
       "source": "MarketWatch",
-      "title": "I went to an Advanced Placement personal-finance class. Here\u2019s what I learned."
+      "title": "I went to an advanced high-school personal-finance class. Here\u2019s what I learned."
     },
     {
       "source": "MarketWatch",
