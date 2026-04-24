@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, April 24 2026  07:53 PT",
-  "market_status": "Live \u2014 as of 10:53 ET",
+  "generated_at": "Friday, April 24 2026  09:04 PT",
+  "market_status": "Live \u2014 as of 12:04 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7136.18,
-      "change_pct": 0.4
+      "price": 7161.42,
+      "change_pct": 0.75
     },
     "Nasdaq": {
-      "price": 24666.64,
-      "change_pct": 0.93
+      "price": 24794.78,
+      "change_pct": 1.46
     },
     "Dow Jones": {
-      "price": 49156.7,
-      "change_pct": -0.3
+      "price": 49237.41,
+      "change_pct": -0.14
     },
     "Russell 2000": {
-      "price": 2778.22,
-      "change_pct": 0.11
+      "price": 2794.26,
+      "change_pct": 0.69
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4746.5,
-      "change_pct": 1.26
+      "price": 4745.0,
+      "change_pct": 1.23
     },
     "Oil (WTI)": {
-      "price": 94.84,
-      "change_pct": -1.84
+      "price": 93.27,
+      "change_pct": -3.47
     },
     "Silver": {
-      "price": 76.03,
-      "change_pct": 1.62
+      "price": 76.4,
+      "change_pct": 2.13
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77978,
-      "change_pct": -0.05
+      "price": 77987,
+      "change_pct": -0.56
     },
     "ETH": {
-      "price": 2314.7,
-      "change_pct": -0.77
+      "price": 2322.08,
+      "change_pct": -0.46
     },
     "SOL": {
-      "price": 86.07,
-      "change_pct": -0.01
+      "price": 86.45,
+      "change_pct": 0.12
     },
     "BNB": {
-      "price": 638.18,
-      "change_pct": 0.19
+      "price": 639.95,
+      "change_pct": -0.04
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Amazon\u2019s chip business scores another major win"
+      "title": "\u2018My child requires lifelong support\u2019: I\u2019m in my 40s with $330,000 for retirement. How can I make this last both our lifetimes?"
     },
     {
       "source": "MarketWatch",
-      "title": "Pirro drops probe into Fed\u2019s Powell, paving way for Warsh confirmation"
+      "title": "Trump\u2019s Justice Department drops its probe into Fed\u2019s Powell, paving the way for Warsh\u2019s confirmation"
     }
   ]
 }
