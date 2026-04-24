@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 23 2026  16:43 PT",
+  "generated_at": "Thursday, April 23 2026  19:34 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4710.5,
-      "change_pct": -0.2
+      "price": 4701.4,
+      "change_pct": -0.39
     },
     "Oil (WTI)": {
-      "price": 96.82,
-      "change_pct": 2.4
+      "price": 96.72,
+      "change_pct": 2.3
     },
     "Silver": {
-      "price": 75.57,
-      "change_pct": -0.66
+      "price": 75.11,
+      "change_pct": -1.26
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78262,
-      "change_pct": -0.01
+      "price": 78309,
+      "change_pct": 0.35
     },
     "ETH": {
-      "price": 2331.11,
-      "change_pct": -1.95
+      "price": 2327.57,
+      "change_pct": -1.19
     },
     "SOL": {
-      "price": 86.08,
-      "change_pct": -0.95
+      "price": 86.05,
+      "change_pct": 0.05
     },
     "BNB": {
-      "price": 638.64,
-      "change_pct": 0.14
+      "price": 638.12,
+      "change_pct": 0.32
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why Intel\u2019s stock is on track for a historic surge after earnings"
+      "title": "As Americans turn to blue-collar jobs for stability, here\u2019s which ones offer the most security \u2014 and which offer the least"
     },
     {
       "source": "MarketWatch",
-      "title": "French weather forecast office files police complaint following suspicious Polymarket bets"
+      "title": "Here\u2019s how much money the 2026 NFL draft picks will make \u2014 and who\u2019s at risk of losing millions"
     }
   ]
 }
