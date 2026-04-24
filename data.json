@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, April 24 2026  12:28 PT",
-  "market_status": "Live \u2014 as of 15:28 ET",
+  "generated_at": "Friday, April 24 2026  13:09 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7161.12,
-      "change_pct": 0.75
+      "price": 7165.08,
+      "change_pct": 0.8
     },
     "Nasdaq": {
-      "price": 24821.76,
-      "change_pct": 1.57
+      "price": 24836.6,
+      "change_pct": 1.63
     },
     "Dow Jones": {
-      "price": 49168.3,
-      "change_pct": -0.28
+      "price": 49230.71,
+      "change_pct": -0.16
     },
     "Russell 2000": {
-      "price": 2787.59,
-      "change_pct": 0.45
+      "price": 2783.9,
+      "change_pct": 0.32
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4736.4,
-      "change_pct": 1.04
+      "price": 4733.3,
+      "change_pct": 0.98
     },
     "Oil (WTI)": {
-      "price": 94.35,
-      "change_pct": -2.35
+      "price": 94.69,
+      "change_pct": -2.0
     },
     "Silver": {
-      "price": 76.31,
-      "change_pct": 2.0
+      "price": 75.99,
+      "change_pct": 1.58
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77566,
+      "price": 77586,
       "change_pct": -0.39
     },
     "ETH": {
-      "price": 2320.38,
-      "change_pct": 0.28
+      "price": 2320.63,
+      "change_pct": -0.17
     },
     "SOL": {
-      "price": 86.31,
-      "change_pct": 0.97
+      "price": 86.49,
+      "change_pct": 1.15
     },
     "BNB": {
-      "price": 637.42,
-      "change_pct": 0.14
+      "price": 637.83,
+      "change_pct": 0.0
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why crude prices won\u2019t fall back to levels seen before the Iran war anytime soon"
+      "title": "Charter\u2019s stock is getting hammered. Here\u2019s what\u2019s fueling its worst day on record."
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia\u2019s stock heads for first record close in 6 months \u2014 thanks to Intel"
+      "title": "Why crude prices won\u2019t fall back to levels seen before the Iran war anytime soon"
     }
   ]
 }
