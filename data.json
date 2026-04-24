@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, April 24 2026  13:09 PT",
+  "generated_at": "Friday, April 24 2026  14:12 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,40 +15,40 @@
       "change_pct": -0.16
     },
     "Russell 2000": {
-      "price": 2783.9,
-      "change_pct": 0.32
+      "price": 2787.0,
+      "change_pct": 0.43
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4733.3,
-      "change_pct": 0.98
+      "price": 4725.4,
+      "change_pct": 0.81
     },
     "Oil (WTI)": {
-      "price": 94.69,
-      "change_pct": -2.0
+      "price": 94.88,
+      "change_pct": -1.8
     },
     "Silver": {
-      "price": 75.99,
-      "change_pct": 1.58
+      "price": 75.68,
+      "change_pct": 1.17
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77586,
-      "change_pct": -0.39
+      "price": 77711,
+      "change_pct": -0.24
     },
     "ETH": {
-      "price": 2320.63,
-      "change_pct": -0.17
+      "price": 2326.04,
+      "change_pct": 0.15
     },
     "SOL": {
-      "price": 86.49,
-      "change_pct": 1.15
+      "price": 86.87,
+      "change_pct": 1.4
     },
     "BNB": {
-      "price": 637.83,
-      "change_pct": 0.0
+      "price": 638.32,
+      "change_pct": 0.09
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Charter\u2019s stock is getting hammered. Here\u2019s what\u2019s fueling its worst day on record."
+      "title": "Nvidia\u2019s stock sees its first record close in 6 months \u2014 thanks to Intel"
     },
     {
       "source": "MarketWatch",
-      "title": "Why crude prices won\u2019t fall back to levels seen before the Iran war anytime soon"
+      "title": "Intel\u2019s stock extends its spectacular run by posting its best day in nearly four decades"
     }
   ]
 }
