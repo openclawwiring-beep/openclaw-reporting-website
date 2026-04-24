@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, April 24 2026  15:08 PT",
+  "generated_at": "Friday, April 24 2026  16:07 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77592,
-      "change_pct": -0.64
+      "price": 77374,
+      "change_pct": -1.07
     },
     "ETH": {
-      "price": 2314.87,
-      "change_pct": -0.63
+      "price": 2313.6,
+      "change_pct": -0.74
     },
     "SOL": {
-      "price": 86.41,
-      "change_pct": 0.54
+      "price": 86.2,
+      "change_pct": 0.32
     },
     "BNB": {
-      "price": 637.52,
-      "change_pct": -0.21
+      "price": 636.21,
+      "change_pct": -0.38
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "20,000 job cuts at Meta, Microsoft raise concern that AI-driven labor crisis is here"
+      "title": "Nvidia stock closes at record, pushing market cap past $5 trillion"
     },
     {
       "source": "CNBC",
-      "title": "Analysis: The threat to the Fed's independence isn't over"
+      "title": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I\u2019m planning to retire at 60. Should I sell my house, rent and invest the $500,000?"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018This is unbelievable\u2019: My adviser made $300,000 trading options. Now I\u2019m being killed by taxes. Do I fire him?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018AI genuinely freaks me out\u2019: Do I leave my $150,000 nonprofit job for a $215,000 data analytics position \u2014 with a 50-minute commute?"
     }
   ]
 }
