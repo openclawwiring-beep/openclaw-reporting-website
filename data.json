@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, April 24 2026  06:22 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, April 24 2026  07:53 PT",
+  "market_status": "Live \u2014 as of 10:53 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7108.4,
-      "change_pct": -0.41
+      "price": 7136.18,
+      "change_pct": 0.4
     },
     "Nasdaq": {
-      "price": 24438.5,
-      "change_pct": -0.89
+      "price": 24666.64,
+      "change_pct": 0.93
     },
     "Dow Jones": {
-      "price": 49310.32,
-      "change_pct": -0.36
+      "price": 49156.7,
+      "change_pct": -0.3
     },
     "Russell 2000": {
-      "price": 2775.1,
-      "change_pct": -0.37
+      "price": 2778.22,
+      "change_pct": 0.11
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4719.7,
-      "change_pct": 0.69
+      "price": 4746.5,
+      "change_pct": 1.26
     },
     "Oil (WTI)": {
-      "price": 95.1,
-      "change_pct": -1.57
+      "price": 94.84,
+      "change_pct": -1.84
     },
     "Silver": {
-      "price": 75.64,
-      "change_pct": 1.1
+      "price": 76.03,
+      "change_pct": 1.62
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78390,
-      "change_pct": 0.88
+      "price": 77978,
+      "change_pct": -0.05
     },
     "ETH": {
-      "price": 2328.74,
-      "change_pct": 0.13
+      "price": 2314.7,
+      "change_pct": -0.77
     },
     "SOL": {
-      "price": 86.5,
-      "change_pct": 0.9
+      "price": 86.07,
+      "change_pct": -0.01
     },
     "BNB": {
-      "price": 640.29,
-      "change_pct": 0.79
+      "price": 638.18,
+      "change_pct": 0.19
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 futures rise as Intel soars, investors bet on Iran talks restarting: Live updates"
+      "title": "DOJ drops criminal probe of Fed Chair Powell, removes hurdle for Warsh confirmation"
     },
     {
       "source": "CNBC",
-      "title": "Wall Street's 'fear gauge' is doing something unusual. What it means"
+      "title": "Iran's top diplomat expected in Pakistan on Friday night to discuss peace plans: MS NOW"
     },
     {
       "source": "MarketWatch",
-      "title": "White House Correspondents\u2019 Dinner weekend gets \u2018Hollywoodified\u2019 as companies from CNN to Grindr host events"
+      "title": "Amazon\u2019s chip business scores another major win"
     },
     {
       "source": "MarketWatch",
-      "title": "Gas prices matter for households. They still look too low for Trump to give in to Iran right now."
+      "title": "Pirro drops probe into Fed\u2019s Powell, paving way for Warsh confirmation"
     }
   ]
 }
