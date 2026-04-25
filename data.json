@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 25 2026  06:03 PT",
+  "generated_at": "Saturday, April 25 2026  07:13 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77580,
-      "change_pct": -1.01
+      "price": 77658,
+      "change_pct": -0.33
     },
     "ETH": {
-      "price": 2314.49,
-      "change_pct": -0.58
+      "price": 2317.05,
+      "change_pct": 0.19
     },
     "SOL": {
-      "price": 86.42,
-      "change_pct": 0.2
+      "price": 86.6,
+      "change_pct": 0.76
     },
     "BNB": {
-      "price": 633.16,
-      "change_pct": -0.96
+      "price": 632.48,
+      "change_pct": -0.9
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Looking to get an EV for the first time? How to avoid making a huge financial mistake."
+      "title": "Want the lowest mortgage rate you can get? Credit-scoring changes mean home buyers need a new strategy."
     },
     {
       "source": "MarketWatch",
-      "title": "Apple, Best Buy and Lululemon\u2019s new CEOs signal a generational shift, as companies navigate a more chaotic world"
+      "title": "As mass layoffs threaten jobs, here are 4 smart moves to protect yourself"
     }
   ]
 }
