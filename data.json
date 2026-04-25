@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 25 2026  11:04 PT",
+  "generated_at": "Saturday, April 25 2026  12:25 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77317,
-      "change_pct": -0.47
+      "price": 77345,
+      "change_pct": -0.31
     },
     "ETH": {
-      "price": 2311.89,
-      "change_pct": -0.33
+      "price": 2312.48,
+      "change_pct": -0.37
     },
     "SOL": {
-      "price": 85.74,
-      "change_pct": -0.84
+      "price": 85.69,
+      "change_pct": -0.74
     },
     "BNB": {
-      "price": 628.03,
-      "change_pct": -1.5
+      "price": 629.12,
+      "change_pct": -1.33
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "From private suites to $20,000 seats: Luxury travelers have more ways to splurge while many passengers can\u2019t afford economy"
+      "title": "White House Correspondents\u2019 dinner has morphed into a \u2018Hollywoodified\u2019 weekend of nonstop parties. Even Grindr is hosting."
     },
     {
       "source": "MarketWatch",
-      "title": "ChatGPT is so 2025 \u2014 here are the real AI gold mines for investors in 2026"
+      "title": "These investments promise high yield with bond-like safety. But what looks too good to be true often is."
     }
   ]
 }
