@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 25 2026  08:07 PT",
+  "generated_at": "Saturday, April 25 2026  09:04 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77677,
-      "change_pct": 0.03
+      "price": 77400,
+      "change_pct": -0.76
     },
     "ETH": {
-      "price": 2316.49,
-      "change_pct": 0.44
+      "price": 2309.49,
+      "change_pct": -0.55
     },
     "SOL": {
-      "price": 86.49,
-      "change_pct": 0.64
+      "price": 86.3,
+      "change_pct": -0.22
     },
     "BNB": {
-      "price": 629.95,
-      "change_pct": -1.12
+      "price": 629.79,
+      "change_pct": -1.57
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "As Americans turn to blue-collar jobs for stability, here\u2019s which ones offer the most security \u2014 and which offer the least"
+      "title": "The meme-stock frenzy is a warning \u2014 these 7 high-quality stocks are better bets"
     },
     {
       "source": "MarketWatch",
-      "title": "White House Correspondents\u2019 dinner has morphed into a \u2018Hollywoodified\u2019 weekend of nonstop parties. Even Grindr is hosting."
+      "title": "This is what critics of Apple and Tim Cook get dead wrong"
     }
   ]
 }
