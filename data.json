@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 25 2026  01:30 PT",
+  "generated_at": "Saturday, April 25 2026  02:52 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77579,
-      "change_pct": -0.41
+      "price": 77746,
+      "change_pct": 0.28
     },
     "ETH": {
-      "price": 2319.0,
-      "change_pct": 0.06
+      "price": 2322.11,
+      "change_pct": 0.57
     },
     "SOL": {
-      "price": 86.55,
-      "change_pct": 1.18
+      "price": 86.71,
+      "change_pct": 1.66
     },
     "BNB": {
-      "price": 637.87,
-      "change_pct": 0.06
+      "price": 637.98,
+      "change_pct": 0.66
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets"
+      "title": "Iran says no meeting with U.S. negotiators planned in Pakistan, with Trump envoys due to head to Islamabad"
     },
     {
       "source": "MarketWatch",
