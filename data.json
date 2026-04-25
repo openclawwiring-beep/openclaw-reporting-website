@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 25 2026  03:42 PT",
+  "generated_at": "Saturday, April 25 2026  04:37 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77847,
-      "change_pct": 0.22
+      "price": 77662,
+      "change_pct": -0.82
     },
     "ETH": {
-      "price": 2321.38,
-      "change_pct": 0.28
+      "price": 2315.1,
+      "change_pct": -0.63
     },
     "SOL": {
-      "price": 86.64,
-      "change_pct": 1.24
+      "price": 86.41,
+      "change_pct": 0.23
     },
     "BNB": {
-      "price": 638.31,
-      "change_pct": 0.53
+      "price": 636.61,
+      "change_pct": -0.29
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018AI genuinely freaks me out\u2019: Do I leave my $150,000 nonprofit job for a $215,000 data analytics position \u2014 with a 50-minute commute?"
+      "title": "Jerome Powell\u2019s final Fed press conference marks an end to an era"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m planning to retire at 60. Should I sell my house, rent and invest the $500,000?"
+      "title": "\u2018My child requires lifelong support\u2019: I\u2019m in my 40s with $330,000 for retirement. How can I make this last both our lifetimes?"
     }
   ]
 }
