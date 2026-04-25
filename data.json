@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 25 2026  04:37 PT",
+  "generated_at": "Saturday, April 25 2026  06:03 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77662,
-      "change_pct": -0.82
+      "price": 77580,
+      "change_pct": -1.01
     },
     "ETH": {
-      "price": 2315.1,
-      "change_pct": -0.63
+      "price": 2314.49,
+      "change_pct": -0.58
     },
     "SOL": {
-      "price": 86.41,
-      "change_pct": 0.23
+      "price": 86.42,
+      "change_pct": 0.2
     },
     "BNB": {
-      "price": 636.61,
-      "change_pct": -0.29
+      "price": 633.16,
+      "change_pct": -0.96
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia stock closes at record, pushing market cap past $5 trillion"
+      "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Jerome Powell\u2019s final Fed press conference marks an end to an era"
+      "title": "Looking to get an EV for the first time? How to avoid making a huge financial mistake."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My child requires lifelong support\u2019: I\u2019m in my 40s with $330,000 for retirement. How can I make this last both our lifetimes?"
+      "title": "Apple, Best Buy and Lululemon\u2019s new CEOs signal a generational shift, as companies navigate a more chaotic world"
     }
   ]
 }
