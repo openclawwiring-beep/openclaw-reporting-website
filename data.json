@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 25 2026  10:08 PT",
+  "generated_at": "Saturday, April 25 2026  11:04 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77382,
-      "change_pct": -0.37
+      "price": 77317,
+      "change_pct": -0.47
     },
     "ETH": {
-      "price": 2309.27,
-      "change_pct": -0.27
+      "price": 2311.89,
+      "change_pct": -0.33
     },
     "SOL": {
-      "price": 85.83,
-      "change_pct": -0.61
+      "price": 85.74,
+      "change_pct": -0.84
     },
     "BNB": {
-      "price": 629.22,
-      "change_pct": -1.39
+      "price": 628.03,
+      "change_pct": -1.5
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Fernando Mendoza to make $54 million as the No. 1 NFL draft pick. Here are the other big winners \u2014 and losers."
+      "title": "From private suites to $20,000 seats: Luxury travelers have more ways to splurge while many passengers can\u2019t afford economy"
     },
     {
       "source": "MarketWatch",
-      "title": "A record 20 million single women own homes \u2014 even though it\u2019s more expensive for a woman to buy a house than a man"
+      "title": "ChatGPT is so 2025 \u2014 here are the real AI gold mines for investors in 2026"
     }
   ]
 }
