@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 25 2026  09:04 PT",
+  "generated_at": "Saturday, April 25 2026  10:08 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77400,
-      "change_pct": -0.76
+      "price": 77382,
+      "change_pct": -0.37
     },
     "ETH": {
-      "price": 2309.49,
-      "change_pct": -0.55
+      "price": 2309.27,
+      "change_pct": -0.27
     },
     "SOL": {
-      "price": 86.3,
-      "change_pct": -0.22
+      "price": 85.83,
+      "change_pct": -0.61
     },
     "BNB": {
-      "price": 629.79,
-      "change_pct": -1.57
+      "price": 629.22,
+      "change_pct": -1.39
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI"
+      "title": "Trump cancels U.S. envoy trip to Pakistan for Iran war negotiations: 'If they want to talk, all they have to do is call'"
     },
     {
       "source": "CNBC",
-      "title": "Iran says no meeting with U.S. negotiators planned in Pakistan, with Trump envoys due to head to Islamabad"
+      "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI"
     },
     {
       "source": "MarketWatch",
-      "title": "The meme-stock frenzy is a warning \u2014 these 7 high-quality stocks are better bets"
+      "title": "Fernando Mendoza to make $54 million as the No. 1 NFL draft pick. Here are the other big winners \u2014 and losers."
     },
     {
       "source": "MarketWatch",
-      "title": "This is what critics of Apple and Tim Cook get dead wrong"
+      "title": "A record 20 million single women own homes \u2014 even though it\u2019s more expensive for a woman to buy a house than a man"
     }
   ]
 }
