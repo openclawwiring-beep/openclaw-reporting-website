@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 25 2026  07:13 PT",
+  "generated_at": "Saturday, April 25 2026  08:07 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77658,
-      "change_pct": -0.33
+      "price": 77677,
+      "change_pct": 0.03
     },
     "ETH": {
-      "price": 2317.05,
-      "change_pct": 0.19
+      "price": 2316.49,
+      "change_pct": 0.44
     },
     "SOL": {
-      "price": 86.6,
-      "change_pct": 0.76
+      "price": 86.49,
+      "change_pct": 0.64
     },
     "BNB": {
-      "price": 632.48,
-      "change_pct": -0.9
+      "price": 629.95,
+      "change_pct": -1.12
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Want the lowest mortgage rate you can get? Credit-scoring changes mean home buyers need a new strategy."
+      "title": "As Americans turn to blue-collar jobs for stability, here\u2019s which ones offer the most security \u2014 and which offer the least"
     },
     {
       "source": "MarketWatch",
-      "title": "As mass layoffs threaten jobs, here are 4 smart moves to protect yourself"
+      "title": "White House Correspondents\u2019 dinner has morphed into a \u2018Hollywoodified\u2019 weekend of nonstop parties. Even Grindr is hosting."
     }
   ]
 }
