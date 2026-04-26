@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 26 2026  14:37 PT",
+  "generated_at": "Sunday, April 26 2026  15:37 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4740.9,
-      "change_pct": 1.14
+      "price": 4698.2,
+      "change_pct": -0.9
     },
     "Oil (WTI)": {
-      "price": 94.4,
-      "change_pct": -2.3
+      "price": 96.62,
+      "change_pct": 1.83
     },
     "Silver": {
-      "price": 76.41,
-      "change_pct": 2.14
+      "price": 75.03,
+      "change_pct": -1.82
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78075,
-      "change_pct": 0.78
+      "price": 78124,
+      "change_pct": 0.67
     },
     "ETH": {
-      "price": 2358.17,
-      "change_pct": 1.87
+      "price": 2358.55,
+      "change_pct": 1.68
     },
     "SOL": {
-      "price": 86.52,
-      "change_pct": 0.72
+      "price": 86.48,
+      "change_pct": 0.37
     },
     "BNB": {
-      "price": 634.93,
-      "change_pct": 0.88
+      "price": 634.64,
+      "change_pct": 0.71
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump: Shooter at White House press dinner had multiple weapons, one officer shot"
+      "title": "Stock futures fall as Iran peace talks stall, oil rises: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Everything we know about Cole Allen, the D.C. correspondents dinner shooter"
+      "title": "Trump: Shooter at White House press dinner had multiple weapons, one officer shot"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "U.S. stock futures fall, oil rises ahead of a busy week for Wall Street"
     },
     {
       "source": "MarketWatch",
       "title": "Wall Street\u2019s Super Bowl Wednesday: Alphabet, Amazon, Microsoft and Meta report along with Powell\u2019s last Fed meeting"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I will inherit my parents\u2019 $1.5 million estate. Do I fire the adviser who charges a 3% fee?"
     }
   ]
 }
