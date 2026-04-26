@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 26 2026  12:45 PT",
+  "generated_at": "Sunday, April 26 2026  13:37 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78190,
-      "change_pct": 1.23
+      "price": 78344,
+      "change_pct": 1.19
     },
     "ETH": {
-      "price": 2366.04,
-      "change_pct": 2.5
+      "price": 2370.32,
+      "change_pct": 2.51
     },
     "SOL": {
-      "price": 86.84,
-      "change_pct": 1.42
+      "price": 86.79,
+      "change_pct": 1.12
     },
     "BNB": {
-      "price": 635.32,
-      "change_pct": 1.08
+      "price": 635.74,
+      "change_pct": 1.01
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Michael Jackson biopic\u2019s massive box-office success proves his staying power despite controversy"
+      "title": "\u2018The Lord has taken care of me\u2019: I\u2019m 74. I went from earning $14 an hour to retiring with $3.4 million. Here\u2019s how I did it."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018AI genuinely freaks me out\u2019: Do I leave my $150,000 nonprofit job for a $215,000 data analytics position \u2014 with a 50-minute commute?"
+      "title": "I\u2019m planning to retire at 60. Should I sell my house, rent and invest the $500,000?"
     }
   ]
 }
