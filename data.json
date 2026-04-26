@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 26 2026  11:53 PT",
+  "generated_at": "Sunday, April 26 2026  12:45 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78248,
-      "change_pct": 1.18
+      "price": 78190,
+      "change_pct": 1.23
     },
     "ETH": {
-      "price": 2361.3,
-      "change_pct": 2.11
+      "price": 2366.04,
+      "change_pct": 2.5
     },
     "SOL": {
       "price": 86.84,
-      "change_pct": 1.22
+      "change_pct": 1.42
     },
     "BNB": {
-      "price": 633.49,
-      "change_pct": 0.7
+      "price": 635.32,
+      "change_pct": 1.08
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Tillis ends block of Fed chair nominee Warsh, clears way for Trump pick"
+      "title": "Everything we know about Cole Allen, the D.C. correspondents dinner shooter"
     },
     {
       "source": "MarketWatch",
-      "title": "Teen gambling is turbocharged thanks to sports-betting and prediction markets. Parents often have no idea."
+      "title": "Michael Jackson biopic\u2019s massive box-office success proves his staying power despite controversy"
     },
     {
       "source": "MarketWatch",
-      "title": "As mass layoffs threaten jobs, here are 4 smart moves to protect yourself"
+      "title": "\u2018AI genuinely freaks me out\u2019: Do I leave my $150,000 nonprofit job for a $215,000 data analytics position \u2014 with a 50-minute commute?"
     }
   ]
 }
