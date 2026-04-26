@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 26 2026  06:45 PT",
+  "generated_at": "Sunday, April 26 2026  07:42 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77964,
-      "change_pct": 0.33
+      "price": 78087,
+      "change_pct": 0.44
     },
     "ETH": {
-      "price": 2334.45,
-      "change_pct": 0.73
+      "price": 2348.38,
+      "change_pct": 1.32
     },
     "SOL": {
-      "price": 86.11,
-      "change_pct": -0.61
+      "price": 86.42,
+      "change_pct": -0.26
     },
     "BNB": {
-      "price": 631.29,
-      "change_pct": -0.39
+      "price": 632.6,
+      "change_pct": 0.03
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump cancels U.S. envoy trip to Pakistan for Iran war negotiations: 'If they want to talk, all they have to do is call'"
+      "title": "Sen. Tillis prepared to end blockade of Fed chair nominee Kevin Warsh"
     },
     {
       "source": "MarketWatch",
-      "title": "Big Tech is the bull market\u2019s win-win trade right now \u2014 making this week crucial"
+      "title": "Retiring abroad? Watch out for this expensive housing mistake."
     },
     {
       "source": "MarketWatch",
-      "title": "White House Correspondents\u2019 dinner has morphed into a \u2018Hollywoodified\u2019 weekend of nonstop parties. Even Grindr is hosting."
+      "title": "I went to an advanced high-school personal-finance class. Here\u2019s what I learned."
     }
   ]
 }
