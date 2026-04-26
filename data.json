@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 26 2026  05:03 PT",
+  "generated_at": "Sunday, April 26 2026  06:45 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78100,
-      "change_pct": 0.57
+      "price": 77964,
+      "change_pct": 0.33
     },
     "ETH": {
-      "price": 2336.13,
-      "change_pct": 1.0
+      "price": 2334.45,
+      "change_pct": 0.73
     },
     "SOL": {
-      "price": 86.49,
-      "change_pct": 0.14
+      "price": 86.11,
+      "change_pct": -0.61
     },
     "BNB": {
-      "price": 632.57,
-      "change_pct": -0.29
+      "price": 631.29,
+      "change_pct": -0.39
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "White House Correspondents\u2019 dinner has morphed into a \u2018Hollywoodified\u2019 weekend of nonstop parties. Even Grindr is hosting."
+      "title": "Big Tech is the bull market\u2019s win-win trade right now \u2014 making this week crucial"
     },
     {
       "source": "MarketWatch",
-      "title": "These investments promise high yield with bond-like safety. But what looks too good to be true often is."
+      "title": "White House Correspondents\u2019 dinner has morphed into a \u2018Hollywoodified\u2019 weekend of nonstop parties. Even Grindr is hosting."
     }
   ]
 }
