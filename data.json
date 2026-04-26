@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, April 25 2026  17:02 PT",
+  "generated_at": "Saturday, April 25 2026  21:01 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4722.3,
-      "change_pct": 0.74
+      "price": 4740.9,
+      "change_pct": 1.14
     },
     "Oil (WTI)": {
       "price": 94.4,
       "change_pct": -2.3
     },
     "Silver": {
-      "price": 76.38,
-      "change_pct": 2.1
+      "price": 76.41,
+      "change_pct": 2.14
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77607,
-      "change_pct": 0.15
+      "price": 77402,
+      "change_pct": -0.34
     },
     "ETH": {
-      "price": 2318.76,
-      "change_pct": 0.15
+      "price": 2310.2,
+      "change_pct": -0.36
     },
     "SOL": {
-      "price": 86.18,
-      "change_pct": -0.04
+      "price": 85.98,
+      "change_pct": -0.56
     },
     "BNB": {
-      "price": 628.85,
-      "change_pct": -1.18
+      "price": 628.76,
+      "change_pct": -1.4
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump cancels U.S. envoy trip to Pakistan for Iran war negotiations: 'If they want to talk, all they have to do is call'"
+      "title": "Trump: Shooter at White House press dinner had multiple weapons, one officer shot"
     },
     {
       "source": "CNBC",
-      "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI"
+      "title": "Trump cancels U.S. envoy trip to Pakistan for Iran war negotiations: 'If they want to talk, all they have to do is call'"
     },
     {
       "source": "MarketWatch",
