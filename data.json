@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, April 26 2026  13:37 PT",
+  "generated_at": "Sunday, April 26 2026  14:37 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78344,
-      "change_pct": 1.19
+      "price": 78075,
+      "change_pct": 0.78
     },
     "ETH": {
-      "price": 2370.32,
-      "change_pct": 2.51
+      "price": 2358.17,
+      "change_pct": 1.87
     },
     "SOL": {
-      "price": 86.79,
-      "change_pct": 1.12
+      "price": 86.52,
+      "change_pct": 0.72
     },
     "BNB": {
-      "price": 635.74,
-      "change_pct": 1.01
+      "price": 634.93,
+      "change_pct": 0.88
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The Lord has taken care of me\u2019: I\u2019m 74. I went from earning $14 an hour to retiring with $3.4 million. Here\u2019s how I did it."
+      "title": "Wall Street\u2019s Super Bowl Wednesday: Alphabet, Amazon, Microsoft and Meta report along with Powell\u2019s last Fed meeting"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m planning to retire at 60. Should I sell my house, rent and invest the $500,000?"
+      "title": "I will inherit my parents\u2019 $1.5 million estate. Do I fire the adviser who charges a 3% fee?"
     }
   ]
 }
