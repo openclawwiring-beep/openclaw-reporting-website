@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, April 27 2026  07:33 PT",
-  "market_status": "Live \u2014 as of 10:33 ET",
+  "generated_at": "Monday, April 27 2026  09:25 PT",
+  "market_status": "Live \u2014 as of 12:25 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7155.51,
-      "change_pct": -0.12
+      "price": 7162.59,
+      "change_pct": -0.02
     },
     "Nasdaq": {
-      "price": 24749.6,
-      "change_pct": -0.35
+      "price": 24799.57,
+      "change_pct": -0.15
     },
     "Dow Jones": {
-      "price": 49211.11,
-      "change_pct": -0.03
+      "price": 49163.87,
+      "change_pct": -0.13
     },
     "Russell 2000": {
-      "price": 2790.82,
-      "change_pct": 0.14
+      "price": 2786.36,
+      "change_pct": -0.02
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4708.9,
-      "change_pct": -0.65
+      "price": 4689.3,
+      "change_pct": -1.07
     },
     "Oil (WTI)": {
-      "price": 96.19,
-      "change_pct": 0.91
+      "price": 96.39,
+      "change_pct": 1.12
     },
     "Silver": {
-      "price": 75.29,
-      "change_pct": -1.41
+      "price": 74.98,
+      "change_pct": -1.81
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77890,
-      "change_pct": -0.22
+      "price": 76754,
+      "change_pct": -1.65
     },
     "ETH": {
-      "price": 2313.3,
-      "change_pct": -1.46
+      "price": 2276.68,
+      "change_pct": -3.0
     },
     "SOL": {
-      "price": 85.25,
-      "change_pct": -1.31
+      "price": 84.3,
+      "change_pct": -2.57
     },
     "BNB": {
-      "price": 626.0,
-      "change_pct": -0.95
+      "price": 621.89,
+      "change_pct": -1.58
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Iran reportedly proposes Hormuz Strait deal to U.S. Here\u2019s where things stand \u2014 and what\u2019s next for markets"
+      "title": "Iran would reopen Strait of Hormuz, postpone nuclear talks if U.S. lifts blockade and war ends: Reports"
     },
     {
       "source": "MarketWatch",
-      "title": "Apple is defying a global smartphone slump, as shown through this first-time feat"
+      "title": "Private credit isn\u2019t safer than banks \u2014 it\u2019s just better at hiding losses"
     },
     {
       "source": "MarketWatch",
-      "title": "Want the lowest mortgage rate you can get? Credit-scoring changes mean home buyers need a new strategy."
+      "title": "\u2018We believe it\u2019s real\u2019: My mom received a check from a class-action lawsuit. It bounced. Could this be a scam?"
     }
   ]
 }
