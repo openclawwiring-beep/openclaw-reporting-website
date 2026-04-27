@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 27 2026  01:23 PT",
+  "generated_at": "Monday, April 27 2026  03:31 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4726.7,
-      "change_pct": -0.28
+      "price": 4719.3,
+      "change_pct": -0.43
     },
     "Oil (WTI)": {
-      "price": 96.83,
-      "change_pct": 1.58
+      "price": 96.22,
+      "change_pct": 0.94
     },
     "Silver": {
-      "price": 75.54,
-      "change_pct": -1.08
+      "price": 75.68,
+      "change_pct": -0.89
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77629,
-      "change_pct": -0.54
+      "price": 77804,
+      "change_pct": -0.26
     },
     "ETH": {
-      "price": 2314.84,
-      "change_pct": -0.7
+      "price": 2319.52,
+      "change_pct": -0.59
     },
     "SOL": {
-      "price": 85.3,
-      "change_pct": -1.47
+      "price": 85.22,
+      "change_pct": -1.55
     },
     "BNB": {
-      "price": 626.81,
-      "change_pct": -0.54
+      "price": 627.89,
+      "change_pct": -0.61
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran reportedly proposes Hormuz Strait deal to U.S. Here\u2019s where things stand \u2014 and what\u2019s next for markets"
+      "title": "Stock futures edge lower as Iran peace talks stall, oil rises: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures little changed as Iran peace talks stall, oil rises: Live updates"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Adidas claims the first sub 2-hour marathon winner. But good luck getting the winner\u2019s sneakers."
+      "title": "China blocks Meta's acquisition of AI startup Manus"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018We are not close\u2019: My brother says our mother left no estate when she died. How on earth can I trust him?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Meta\u2019s $2 billion acquisition gets blocked by China. What the deal was all about in the first place."
     }
   ]
 }
