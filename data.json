@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, April 26 2026  19:42 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Sunday, April 26 2026  22:53 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7165.08,
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4721.5,
-      "change_pct": -0.41
+      "price": 4727.3,
+      "change_pct": -0.26
     },
     "Oil (WTI)": {
-      "price": 95.32,
-      "change_pct": 0.46
+      "price": 96.11,
+      "change_pct": 0.83
     },
     "Silver": {
-      "price": 75.39,
-      "change_pct": -1.34
+      "price": 75.7,
+      "change_pct": -0.86
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79086,
-      "change_pct": 2.0
+      "price": 77800,
+      "change_pct": -0.3
     },
     "ETH": {
-      "price": 2392.63,
-      "change_pct": 3.29
+      "price": 2323.24,
+      "change_pct": -0.22
     },
     "SOL": {
-      "price": 87.67,
-      "change_pct": 1.61
+      "price": 85.87,
+      "change_pct": -0.69
     },
     "BNB": {
-      "price": 638.52,
-      "change_pct": 1.4
+      "price": 629.01,
+      "change_pct": -0.47
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures fall as Iran peace talks stall, oil rises: Live updates"
+      "title": "U.S.-Iran peace talks stall. Here's where things stand \u2014 and what's next for global markets"
     },
     {
       "source": "CNBC",
-      "title": "Trump: Shooter at White House press dinner had multiple weapons, one officer shot"
+      "title": "Stock futures trade mixed as Iran peace talks stall, oil rises: Live updates"
     },
     {
       "source": "MarketWatch",
