@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 27 2026  13:38 PT",
+  "generated_at": "Monday, April 27 2026  14:52 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4695.6,
-      "change_pct": -0.93
+      "price": 4697.7,
+      "change_pct": -0.89
     },
     "Oil (WTI)": {
-      "price": 96.52,
-      "change_pct": 1.26
+      "price": 96.68,
+      "change_pct": 1.43
     },
     "Silver": {
-      "price": 75.42,
-      "change_pct": -1.23
+      "price": 75.46,
+      "change_pct": -1.18
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77010,
-      "change_pct": -1.63
+      "price": 76895,
+      "change_pct": -1.35
     },
     "ETH": {
-      "price": 2293.59,
-      "change_pct": -3.14
+      "price": 2289.88,
+      "change_pct": -2.8
     },
     "SOL": {
-      "price": 84.26,
-      "change_pct": -2.86
+      "price": 84.38,
+      "change_pct": -2.28
     },
     "BNB": {
-      "price": 624.14,
-      "change_pct": -1.8
+      "price": 624.2,
+      "change_pct": -1.55
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump discussed Iran's Hormuz Strait proposal with top aides, White House says"
+      "title": "Judge in Musk v. Altman seats nine-person jury. Opening arguments start Tuesday"
     },
     {
       "source": "CNBC",
-      "title": "Ray Dalio says Kevin Warsh shouldn't cut interest rates in a \u2018stagflation\u2019 era"
+      "title": "Cole Allen charged with trying to assassinate Trump at WHCD event"
     },
     {
       "source": "MarketWatch",
-      "title": "A new version of an old drug is helping men grow back some of their hair"
+      "title": "Bed Bath & Beyond is seeing new life, as rare sales growth lifts stock more than 30%"
     },
     {
       "source": "MarketWatch",
-      "title": "Billionaire Ray Dalio says you should have up to 15% of your money in gold because of uncertainty around the Iran war"
+      "title": "Qualcomm\u2019s stock gains as an AI opportunity emerges"
     }
   ]
 }
