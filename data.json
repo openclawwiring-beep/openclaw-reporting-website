@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 27 2026  14:52 PT",
+  "generated_at": "Monday, April 27 2026  15:51 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4697.7,
-      "change_pct": -0.89
+      "price": 4703.1,
+      "change_pct": -0.77
     },
     "Oil (WTI)": {
-      "price": 96.68,
-      "change_pct": 1.43
+      "price": 96.33,
+      "change_pct": 1.06
     },
     "Silver": {
-      "price": 75.46,
-      "change_pct": -1.18
+      "price": 75.9,
+      "change_pct": -0.6
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76895,
-      "change_pct": -1.35
+      "price": 77048,
+      "change_pct": -1.68
     },
     "ETH": {
-      "price": 2289.88,
-      "change_pct": -2.8
+      "price": 2294.43,
+      "change_pct": -2.94
     },
     "SOL": {
-      "price": 84.38,
-      "change_pct": -2.28
+      "price": 84.56,
+      "change_pct": -2.54
     },
     "BNB": {
-      "price": 624.2,
-      "change_pct": -1.55
+      "price": 624.96,
+      "change_pct": -1.63
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Bed Bath & Beyond is seeing new life, as rare sales growth lifts stock more than 30%"
+      "title": "\u2018We believe it\u2019s real\u2019: My mom received a check from a class-action lawsuit. It bounced. Could this be a scam?"
     },
     {
       "source": "MarketWatch",
-      "title": "Qualcomm\u2019s stock gains as an AI opportunity emerges"
+      "title": "Arm\u2019s stock snaps a seven-day winning streak as it loses some of its AI glow"
     }
   ]
 }
