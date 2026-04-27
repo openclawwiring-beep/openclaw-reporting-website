@@ -1,64 +1,64 @@
 {
-  "generated_at": "Monday, April 27 2026  09:25 PT",
-  "market_status": "Live \u2014 as of 12:25 ET",
+  "generated_at": "Monday, April 27 2026  10:49 PT",
+  "market_status": "Live \u2014 as of 13:49 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7162.59,
-      "change_pct": -0.02
+      "price": 7172.19,
+      "change_pct": 0.11
     },
     "Nasdaq": {
-      "price": 24799.57,
-      "change_pct": -0.15
+      "price": 24873.34,
+      "change_pct": 0.15
     },
     "Dow Jones": {
-      "price": 49163.87,
-      "change_pct": -0.13
+      "price": 49134.19,
+      "change_pct": -0.19
     },
     "Russell 2000": {
-      "price": 2786.36,
-      "change_pct": -0.02
+      "price": 2790.49,
+      "change_pct": 0.13
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4689.3,
-      "change_pct": -1.07
+      "price": 4697.2,
+      "change_pct": -0.9
     },
     "Oil (WTI)": {
-      "price": 96.39,
-      "change_pct": 1.12
+      "price": 96.59,
+      "change_pct": 1.33
     },
     "Silver": {
-      "price": 74.98,
-      "change_pct": -1.81
+      "price": 75.15,
+      "change_pct": -1.58
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76754,
-      "change_pct": -1.65
+      "price": 76824,
+      "change_pct": -1.57
     },
     "ETH": {
-      "price": 2276.68,
-      "change_pct": -3.0
+      "price": 2290.53,
+      "change_pct": -2.47
     },
     "SOL": {
-      "price": 84.3,
-      "change_pct": -2.57
+      "price": 84.55,
+      "change_pct": -2.24
     },
     "BNB": {
-      "price": 621.89,
-      "change_pct": -1.58
+      "price": 623.3,
+      "change_pct": -1.36
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "OpenAI shakes up partnership with Microsoft, capping revenue share payments"
+      "title": "Iran would reopen Strait of Hormuz, postpone nuclear talks if U.S. lifts blockade and war ends: Reports"
     },
     {
       "source": "CNBC",
-      "title": "Iran would reopen Strait of Hormuz, postpone nuclear talks if U.S. lifts blockade and war ends: Reports"
+      "title": "Prediction markets prepare to invade one of crypto\u2019s biggest and riskiest trades"
     },
     {
       "source": "MarketWatch",
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We believe it\u2019s real\u2019: My mom received a check from a class-action lawsuit. It bounced. Could this be a scam?"
+      "title": "Another former bull throws in the towel on Adobe\u2019s stock. Here\u2019s the software stock he now favors."
     }
   ]
 }
