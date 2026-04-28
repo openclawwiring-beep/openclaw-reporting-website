@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 28 2026  14:06 PT",
+  "generated_at": "Tuesday, April 28 2026  15:30 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4610.7,
-      "change_pct": -1.6
+      "price": 4610.3,
+      "change_pct": -1.61
     },
     "Oil (WTI)": {
-      "price": 99.68,
-      "change_pct": 2.16
+      "price": 99.37,
+      "change_pct": 1.84
     },
     "Silver": {
-      "price": 73.61,
-      "change_pct": -1.38
+      "price": 73.68,
+      "change_pct": -1.29
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76461,
-      "change_pct": -0.57
+      "price": 76324,
+      "change_pct": -0.87
     },
     "ETH": {
-      "price": 2295.84,
-      "change_pct": 0.31
+      "price": 2289.08,
+      "change_pct": -0.13
     },
     "SOL": {
-      "price": 83.91,
-      "change_pct": -0.3
+      "price": 83.68,
+      "change_pct": -0.9
     },
     "BNB": {
-      "price": 624.43,
-      "change_pct": 0.1
+      "price": 623.64,
+      "change_pct": -0.17
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Starbucks raises full-year outlook after earnings, revenue top estimates"
+      "title": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday"
     },
     {
       "source": "MarketWatch",
-      "title": "Higher inflation is on the way. The Fed needs to make this clear before it raises rates."
+      "title": "It\u2019s time for a Microsoft \u2018reset.\u2019 Here\u2019s what investors should focus on now."
     },
     {
       "source": "MarketWatch",
-      "title": "Frothy, but not like 1999: This new valuation indicator has stocks beating inflation"
+      "title": "These two countries are the most likely to leave OPEC\u2019s orbit next"
     }
   ]
 }
