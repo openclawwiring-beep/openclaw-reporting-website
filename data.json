@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, April 28 2026  08:43 PT",
-  "market_status": "Live \u2014 as of 11:43 ET",
+  "generated_at": "Tuesday, April 28 2026  10:46 PT",
+  "market_status": "Live \u2014 as of 13:46 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7122.45,
-      "change_pct": -0.72
+      "price": 7132.08,
+      "change_pct": -0.58
     },
     "Nasdaq": {
-      "price": 24550.98,
-      "change_pct": -1.35
+      "price": 24614.08,
+      "change_pct": -1.1
     },
     "Dow Jones": {
-      "price": 49239.72,
-      "change_pct": 0.14
+      "price": 49204.47,
+      "change_pct": 0.06
     },
     "Russell 2000": {
-      "price": 2753.43,
-      "change_pct": -1.26
+      "price": 2752.09,
+      "change_pct": -1.31
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4587.0,
-      "change_pct": -2.1
+      "price": 4611.5,
+      "change_pct": -1.58
     },
     "Oil (WTI)": {
-      "price": 99.71,
-      "change_pct": 2.19
+      "price": 100.12,
+      "change_pct": 2.61
     },
     "Silver": {
-      "price": 73.28,
-      "change_pct": -1.82
+      "price": 73.98,
+      "change_pct": -0.88
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76009,
-      "change_pct": -1.36
+      "price": 76174,
+      "change_pct": -0.9
     },
     "ETH": {
-      "price": 2274.63,
-      "change_pct": -0.36
+      "price": 2290.77,
+      "change_pct": 0.02
     },
     "SOL": {
-      "price": 83.36,
-      "change_pct": -1.05
+      "price": 83.68,
+      "change_pct": -1.03
     },
     "BNB": {
-      "price": 622.34,
-      "change_pct": -0.01
+      "price": 623.62,
+      "change_pct": 0.06
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "OpenAI trial live updates: Musk, Altman arrive in court ahead of opening arguments"
+      "title": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s what will take center stage as Alphabet gears up for earnings"
+      "title": "\u2018The Devil Wears Prada 2\u2019 is here \u2014 but the glory days of magazines like Vogue are long gone"
     },
     {
       "source": "MarketWatch",
-      "title": "Americans are uneasy about gas prices and the Iran war, but they\u2019re getting on with their lives"
+      "title": "Micron\u2019s stock has boomed on AI optimism. Now comes the \u2018tricky part.\u2019"
     }
   ]
 }
