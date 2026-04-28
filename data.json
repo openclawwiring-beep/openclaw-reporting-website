@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 28 2026  15:30 PT",
+  "generated_at": "Tuesday, April 28 2026  16:54 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4610.3,
-      "change_pct": -1.61
+      "price": 4604.9,
+      "change_pct": -1.72
     },
     "Oil (WTI)": {
-      "price": 99.37,
-      "change_pct": 1.84
+      "price": 99.45,
+      "change_pct": 1.93
     },
     "Silver": {
-      "price": 73.68,
-      "change_pct": -1.29
+      "price": 73.63,
+      "change_pct": -1.35
     }
   },
   "crypto": {
     "BTC": {
       "price": 76324,
-      "change_pct": -0.87
+      "change_pct": -1.28
     },
     "ETH": {
-      "price": 2289.08,
-      "change_pct": -0.13
+      "price": 2287.95,
+      "change_pct": -0.51
     },
     "SOL": {
-      "price": 83.68,
-      "change_pct": -0.9
+      "price": 84.03,
+      "change_pct": -0.78
     },
     "BNB": {
-      "price": 623.64,
-      "change_pct": -0.17
+      "price": 624.23,
+      "change_pct": -0.36
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s time for a Microsoft \u2018reset.\u2019 Here\u2019s what investors should focus on now."
+      "title": "Starbucks is seeing a resurgence, thanks to younger and lower-income customers"
     },
     {
       "source": "MarketWatch",
-      "title": "These two countries are the most likely to leave OPEC\u2019s orbit next"
+      "title": "The stock market\u2019s comeback from the Iran-inspired selloff hasn\u2019t been as powerful as you might think"
     }
   ]
 }
