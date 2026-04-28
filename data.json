@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, April 27 2026  23:05 PT",
+  "generated_at": "Tuesday, April 28 2026  01:42 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4647.1,
-      "change_pct": -0.73
+      "price": 4645.8,
+      "change_pct": -0.85
     },
     "Oil (WTI)": {
-      "price": 98.26,
-      "change_pct": 0.91
+      "price": 98.49,
+      "change_pct": 0.94
     },
     "Silver": {
-      "price": 73.39,
-      "change_pct": -1.32
+      "price": 74.0,
+      "change_pct": -0.86
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76953,
-      "change_pct": -1.07
+      "price": 76858,
+      "change_pct": -0.99
     },
     "ETH": {
-      "price": 2288.83,
-      "change_pct": -1.42
+      "price": 2287.17,
+      "change_pct": -1.09
     },
     "SOL": {
-      "price": 84.21,
-      "change_pct": -1.94
+      "price": 84.03,
+      "change_pct": -1.42
     },
     "BNB": {
-      "price": 624.89,
-      "change_pct": -0.6
+      "price": 624.86,
+      "change_pct": -0.26
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "California is one step closer to America\u2019s first billionaire wealth tax \u2014 and the divide between red and blue state taxes is getting deeper"
+      "title": "After report of OpenAI missing targets, one company sees its worst share-price decline in six months"
     },
     {
       "source": "MarketWatch",
-      "title": "Bed Bath & Beyond is seeing new life, as rare sales growth lifts stock more than 25%"
+      "title": "California is one step closer to America\u2019s first billionaire wealth tax \u2014 and the divide between red and blue state taxes is getting deeper"
     }
   ]
 }
