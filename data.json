@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, April 28 2026  06:12 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, April 28 2026  08:43 PT",
+  "market_status": "Live \u2014 as of 11:43 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7173.91,
-      "change_pct": 0.12
+      "price": 7122.45,
+      "change_pct": -0.72
     },
     "Nasdaq": {
-      "price": 24887.1,
-      "change_pct": 0.2
+      "price": 24550.98,
+      "change_pct": -1.35
     },
     "Dow Jones": {
-      "price": 49167.79,
-      "change_pct": -0.13
+      "price": 49239.72,
+      "change_pct": 0.14
     },
     "Russell 2000": {
-      "price": 2788.19,
-      "change_pct": 0.04
+      "price": 2753.43,
+      "change_pct": -1.26
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4600.7,
-      "change_pct": -1.81
+      "price": 4587.0,
+      "change_pct": -2.1
     },
     "Oil (WTI)": {
-      "price": 99.82,
-      "change_pct": 2.31
+      "price": 99.71,
+      "change_pct": 2.19
     },
     "Silver": {
-      "price": 73.49,
-      "change_pct": -1.54
+      "price": 73.28,
+      "change_pct": -1.82
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76113,
-      "change_pct": -2.09
+      "price": 76009,
+      "change_pct": -1.36
     },
     "ETH": {
-      "price": 2264.63,
-      "change_pct": -2.19
+      "price": 2274.63,
+      "change_pct": -0.36
     },
     "SOL": {
-      "price": 83.37,
-      "change_pct": -2.07
+      "price": 83.36,
+      "change_pct": -1.05
     },
     "BNB": {
-      "price": 621.61,
-      "change_pct": -0.75
+      "price": 622.34,
+      "change_pct": -0.01
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "United Arab Emirates leaving OPEC, effective May 1"
+      "title": "United Arab Emirates to leave OPEC May 1, energy chief says still committed to oil price stability"
     },
     {
       "source": "CNBC",
-      "title": "OpenAI reportedly missed revenue targets. Shares of Oracle and these chip stocks are falling"
+      "title": "OpenAI trial live updates: Musk, Altman arrive in court ahead of opening arguments"
     },
     {
       "source": "MarketWatch",
-      "title": "GM is weathering the storm of higher gas prices \u2014 for now"
+      "title": "Here\u2019s what will take center stage as Alphabet gears up for earnings"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m not interested in long-term care insurance\u2019: I\u2019d like to retire at 55. How much will I have to pay for healthcare?"
+      "title": "Americans are uneasy about gas prices and the Iran war, but they\u2019re getting on with their lives"
     }
   ]
 }
