@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, April 28 2026  12:40 PT",
-  "market_status": "Live \u2014 as of 15:40 ET",
+  "generated_at": "Tuesday, April 28 2026  14:06 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7138.65,
+      "price": 7138.8,
       "change_pct": -0.49
     },
     "Nasdaq": {
-      "price": 24675.05,
-      "change_pct": -0.85
+      "price": 24663.8,
+      "change_pct": -0.9
     },
     "Dow Jones": {
-      "price": 49097.17,
-      "change_pct": -0.15
+      "price": 49141.93,
+      "change_pct": -0.05
     },
     "Russell 2000": {
-      "price": 2753.02,
-      "change_pct": -1.27
+      "price": 2756.05,
+      "change_pct": -1.15
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4610.6,
+      "price": 4610.7,
       "change_pct": -1.6
     },
     "Oil (WTI)": {
-      "price": 99.97,
-      "change_pct": 2.46
+      "price": 99.68,
+      "change_pct": 2.16
     },
     "Silver": {
-      "price": 73.66,
-      "change_pct": -1.31
+      "price": 73.61,
+      "change_pct": -1.38
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76168,
-      "change_pct": -0.56
+      "price": 76461,
+      "change_pct": -0.57
     },
     "ETH": {
-      "price": 2292.73,
-      "change_pct": 0.44
+      "price": 2295.84,
+      "change_pct": 0.31
     },
     "SOL": {
-      "price": 83.79,
-      "change_pct": -0.31
+      "price": 83.91,
+      "change_pct": -0.3
     },
     "BNB": {
-      "price": 623.35,
-      "change_pct": 0.24
+      "price": 624.43,
+      "change_pct": 0.1
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Elon Musk takes the stand in OpenAI trial: Live updates"
+      "title": "UAE's shock OPEC exit: What it means for the oil cartel's future and for crude prices"
     },
     {
       "source": "CNBC",
-      "title": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build"
+      "title": "Starbucks raises full-year outlook after earnings, revenue top estimates"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We believe it\u2019s real\u2019: My mom received a check from a class-action lawsuit. It bounced. Could this be a scam?"
+      "title": "Higher inflation is on the way. The Fed needs to make this clear before it raises rates."
     },
     {
       "source": "MarketWatch",
-      "title": "Amazon is back in Wall Street\u2019s good graces. Here\u2019s what will determine whether it stays there."
+      "title": "Frothy, but not like 1999: This new valuation indicator has stocks beating inflation"
     }
   ]
 }
