@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, April 29 2026  05:00 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, April 29 2026  07:25 PT",
+  "market_status": "Live \u2014 as of 10:25 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7138.8,
-      "change_pct": -0.49
+      "price": 7137.86,
+      "change_pct": -0.02
     },
     "Nasdaq": {
-      "price": 24663.8,
-      "change_pct": -0.9
+      "price": 24661.77,
+      "change_pct": -0.01
     },
     "Dow Jones": {
-      "price": 49141.93,
-      "change_pct": -0.05
+      "price": 48982.89,
+      "change_pct": -0.33
     },
     "Russell 2000": {
-      "price": 2756.05,
-      "change_pct": -1.15
+      "price": 2747.52,
+      "change_pct": -0.31
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4576.8,
-      "change_pct": -0.71
+      "price": 4537.2,
+      "change_pct": -1.57
     },
     "Oil (WTI)": {
-      "price": 103.22,
-      "change_pct": 3.91
+      "price": 104.86,
+      "change_pct": 5.56
     },
     "Silver": {
-      "price": 73.05,
-      "change_pct": -1.42
+      "price": 72.2,
+      "change_pct": -2.56
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77579,
-      "change_pct": 1.83
+      "price": 76598,
+      "change_pct": 0.93
     },
     "ETH": {
-      "price": 2331.25,
-      "change_pct": 2.5
+      "price": 2298.85,
+      "change_pct": 1.35
     },
     "SOL": {
-      "price": 84.91,
-      "change_pct": 1.84
+      "price": 83.81,
+      "change_pct": 0.52
     },
     "BNB": {
-      "price": 625.91,
-      "change_pct": 0.71
+      "price": 621.7,
+      "change_pct": 0.16
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices extend multi-day rally as Trump issues new threat to Iran; Brent tops $114 per barrel"
+      "title": "OpenAI\u2019s subtle drift from Microsoft has become an aggressive move toward Amazon"
     },
     {
       "source": "CNBC",
-      "title": "Yum Brands earnings top estimates, fueled by Taco Bell's 8% same-store sales growth"
+      "title": "Oil prices extend multi-day rally as Trump issues new threat to Iran; Brent tops $114 per barrel"
     },
     {
       "source": "MarketWatch",
-      "title": "The key global oil contract tops $115 as Strait of Hormuz impasse continues"
+      "title": "Construction on new homes jumps to a 15-month high, but the real-estate slump isn\u2019t over"
     },
     {
       "source": "MarketWatch",
-      "title": "Why this Soros alum is betting on copper and cables over AI chips"
+      "title": "Government waste, fraud and abuse rose 13% last year \u2014 despite Musk and DOGE saying they\u2019d cut $1 trillion from the budget"
     }
   ]
 }
