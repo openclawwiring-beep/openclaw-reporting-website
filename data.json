@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 28 2026  19:48 PT",
+  "generated_at": "Tuesday, April 28 2026  22:54 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4610.5,
-      "change_pct": -1.6
+      "price": 4611.4,
+      "change_pct": -0.02
     },
     "Oil (WTI)": {
-      "price": 99.07,
-      "change_pct": 1.54
+      "price": 99.59,
+      "change_pct": 0.58
     },
     "Silver": {
       "price": 74.15,
-      "change_pct": -0.65
+      "change_pct": -0.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76438,
-      "change_pct": -0.34
+      "price": 77286,
+      "change_pct": 0.44
     },
     "ETH": {
-      "price": 2286.25,
-      "change_pct": 0.14
+      "price": 2330.32,
+      "change_pct": 1.77
     },
     "SOL": {
-      "price": 83.95,
-      "change_pct": -0.07
+      "price": 84.9,
+      "change_pct": 0.72
     },
     "BNB": {
-      "price": 623.72,
-      "change_pct": 0.02
+      "price": 627.86,
+      "change_pct": 0.48
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "UAE's shock OPEC exit: What it means for the oil cartel's future and for crude prices"
+      "title": "UBS profits rocket 80% to $3 billion for first quarter beat"
     },
     {
       "source": "CNBC",
-      "title": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday"
+      "title": "UAE's departure from the OPEC oil cartel is not without precedence. Who could be next?"
     },
     {
       "source": "MarketWatch",
