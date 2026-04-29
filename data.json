@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, April 29 2026  10:57 PT",
-  "market_status": "Live \u2014 as of 13:57 ET",
+  "generated_at": "Wednesday, April 29 2026  12:42 PT",
+  "market_status": "Live \u2014 as of 15:42 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7126.65,
-      "change_pct": -0.18
+      "price": 7129.07,
+      "change_pct": -0.14
     },
     "Nasdaq": {
-      "price": 24612.11,
-      "change_pct": -0.21
+      "price": 24641.27,
+      "change_pct": -0.09
     },
     "Dow Jones": {
-      "price": 48831.33,
-      "change_pct": -0.64
+      "price": 48840.83,
+      "change_pct": -0.62
     },
     "Russell 2000": {
-      "price": 2730.26,
-      "change_pct": -0.93
+      "price": 2736.35,
+      "change_pct": -0.71
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4557.4,
-      "change_pct": -1.13
+      "price": 4556.4,
+      "change_pct": -1.15
     },
     "Oil (WTI)": {
-      "price": 107.12,
-      "change_pct": 7.83
+      "price": 108.17,
+      "change_pct": 8.89
     },
     "Silver": {
-      "price": 71.95,
-      "change_pct": -2.9
+      "price": 72.1,
+      "change_pct": -2.7
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75916,
-      "change_pct": -0.34
+      "price": 75414,
+      "change_pct": -1.08
     },
     "ETH": {
-      "price": 2271.77,
-      "change_pct": -0.79
+      "price": 2227.78,
+      "change_pct": -2.92
     },
     "SOL": {
-      "price": 82.97,
-      "change_pct": -0.74
+      "price": 82.11,
+      "change_pct": -2.1
     },
     "BNB": {
-      "price": 618.85,
-      "change_pct": -0.75
+      "price": 612.94,
+      "change_pct": -1.73
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fed meeting live updates: Potential drama ahead if Powell hints he will hang around"
+      "title": "Fed holds rates steady but with highest level of dissent since 1992"
     },
     {
       "source": "CNBC",
-      "title": "Bill Ackman's $5 billion Pershing Square IPO to start trading, testing Berkshire-style vision"
+      "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism 'unprecedented'"
     },
     {
       "source": "MarketWatch",
-      "title": "Why it\u2019s time for \u2018sell in May and go away\u2019 to die"
+      "title": "Powell won\u2019t leave the Fed, says he\u2019ll stay on as governor after term as chair ends"
     },
     {
       "source": "MarketWatch",
-      "title": "Micron\u2019s stock is gaining. Here\u2019s why the semiconductor trade has sprung back to life."
+      "title": "Bill Ackman\u2019s Pershing Square USA flops on first day of trading"
     }
   ]
 }
