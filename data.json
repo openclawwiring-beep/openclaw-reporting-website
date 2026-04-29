@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 28 2026  16:54 PT",
+  "generated_at": "Tuesday, April 28 2026  19:48 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4604.9,
-      "change_pct": -1.72
+      "price": 4610.5,
+      "change_pct": -1.6
     },
     "Oil (WTI)": {
-      "price": 99.45,
-      "change_pct": 1.93
+      "price": 99.07,
+      "change_pct": 1.54
     },
     "Silver": {
-      "price": 73.63,
-      "change_pct": -1.35
+      "price": 74.15,
+      "change_pct": -0.65
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76324,
-      "change_pct": -1.28
+      "price": 76438,
+      "change_pct": -0.34
     },
     "ETH": {
-      "price": 2287.95,
-      "change_pct": -0.51
+      "price": 2286.25,
+      "change_pct": 0.14
     },
     "SOL": {
-      "price": 84.03,
-      "change_pct": -0.78
+      "price": 83.95,
+      "change_pct": -0.07
     },
     "BNB": {
-      "price": 624.23,
-      "change_pct": -0.36
+      "price": 623.72,
+      "change_pct": 0.02
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Starbucks is seeing a resurgence, thanks to younger and lower-income customers"
+      "title": "Two investment strategies for people who are afraid of the stock market"
     },
     {
       "source": "MarketWatch",
-      "title": "The stock market\u2019s comeback from the Iran-inspired selloff hasn\u2019t been as powerful as you might think"
+      "title": "Can Meta make money on AI beyond consumer ads? That\u2019s a big question going into earnings."
     }
   ]
 }
