@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, April 29 2026  07:25 PT",
-  "market_status": "Live \u2014 as of 10:25 ET",
+  "generated_at": "Wednesday, April 29 2026  09:13 PT",
+  "market_status": "Live \u2014 as of 12:13 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7137.86,
-      "change_pct": -0.02
+      "price": 7127.88,
+      "change_pct": -0.16
     },
     "Nasdaq": {
-      "price": 24661.77,
-      "change_pct": -0.01
+      "price": 24632.59,
+      "change_pct": -0.13
     },
     "Dow Jones": {
-      "price": 48982.89,
-      "change_pct": -0.33
+      "price": 48824.62,
+      "change_pct": -0.65
     },
     "Russell 2000": {
-      "price": 2747.52,
-      "change_pct": -0.31
+      "price": 2733.81,
+      "change_pct": -0.8
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4537.2,
-      "change_pct": -1.57
+      "price": 4573.4,
+      "change_pct": -0.79
     },
     "Oil (WTI)": {
-      "price": 104.86,
-      "change_pct": 5.56
+      "price": 106.36,
+      "change_pct": 7.07
     },
     "Silver": {
-      "price": 72.2,
+      "price": 72.21,
       "change_pct": -2.56
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76598,
-      "change_pct": 0.93
+      "price": 76084,
+      "change_pct": 0.11
     },
     "ETH": {
-      "price": 2298.85,
-      "change_pct": 1.35
+      "price": 2277.86,
+      "change_pct": -0.0
     },
     "SOL": {
-      "price": 83.81,
-      "change_pct": 0.52
+      "price": 83.58,
+      "change_pct": 0.13
     },
     "BNB": {
-      "price": 621.7,
-      "change_pct": 0.16
+      "price": 617.66,
+      "change_pct": -0.79
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "OpenAI\u2019s subtle drift from Microsoft has become an aggressive move toward Amazon"
+      "title": "Trump Fed pick Kevin Warsh clears key Senate hurdle, teeing up final vote"
     },
     {
       "source": "CNBC",
-      "title": "Oil prices extend multi-day rally as Trump issues new threat to Iran; Brent tops $114 per barrel"
+      "title": "Bill Ackman's $5 billion Pershing Square IPO to start trading, testing Berkshire-style vision"
     },
     {
       "source": "MarketWatch",
-      "title": "Construction on new homes jumps to a 15-month high, but the real-estate slump isn\u2019t over"
+      "title": "Micron\u2019s stock is gaining. Here\u2019s why the semiconductor trade has sprung back to life."
     },
     {
       "source": "MarketWatch",
-      "title": "Government waste, fraud and abuse rose 13% last year \u2014 despite Musk and DOGE saying they\u2019d cut $1 trillion from the budget"
+      "title": "Did the economy actually get stronger during the Iran war? Here\u2019s what the numbers tell us."
     }
   ]
 }
