@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, April 29 2026  12:42 PT",
-  "market_status": "Live \u2014 as of 15:42 ET",
+  "generated_at": "Wednesday, April 29 2026  14:04 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7129.07,
-      "change_pct": -0.14
+      "price": 7135.95,
+      "change_pct": -0.04
     },
     "Nasdaq": {
-      "price": 24641.27,
-      "change_pct": -0.09
+      "price": 24673.24,
+      "change_pct": 0.04
     },
     "Dow Jones": {
-      "price": 48840.83,
-      "change_pct": -0.62
+      "price": 48861.81,
+      "change_pct": -0.57
     },
     "Russell 2000": {
-      "price": 2736.35,
-      "change_pct": -0.71
+      "price": 2739.47,
+      "change_pct": -0.6
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4556.4,
-      "change_pct": -1.15
+      "price": 4556.3,
+      "change_pct": -1.16
     },
     "Oil (WTI)": {
-      "price": 108.17,
-      "change_pct": 8.89
+      "price": 108.26,
+      "change_pct": 8.98
     },
     "Silver": {
-      "price": 72.1,
-      "change_pct": -2.7
+      "price": 71.81,
+      "change_pct": -3.1
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75414,
-      "change_pct": -1.08
+      "price": 75657,
+      "change_pct": -1.05
     },
     "ETH": {
-      "price": 2227.78,
-      "change_pct": -2.92
+      "price": 2241.87,
+      "change_pct": -2.35
     },
     "SOL": {
-      "price": 82.11,
-      "change_pct": -2.1
+      "price": 82.59,
+      "change_pct": -1.55
     },
     "BNB": {
-      "price": 612.94,
-      "change_pct": -1.73
+      "price": 615.13,
+      "change_pct": -1.49
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fed holds rates steady but with highest level of dissent since 1992"
+      "title": "Meta stock drops as capex, user growth numbers come in below Wall Street estimates"
     },
     {
       "source": "CNBC",
-      "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism 'unprecedented'"
+      "title": "Microsoft beats on top and bottom lines with 40% Azure growth"
     },
     {
       "source": "MarketWatch",
-      "title": "Powell won\u2019t leave the Fed, says he\u2019ll stay on as governor after term as chair ends"
+      "title": "Powell won\u2019t leave the Fed, pushing back further against Trump"
     },
     {
       "source": "MarketWatch",
-      "title": "Bill Ackman\u2019s Pershing Square USA flops on first day of trading"
+      "title": "Why Qualcomm\u2019s stock is soaring even in the face of a weak outlook"
     }
   ]
 }
