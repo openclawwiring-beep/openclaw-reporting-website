@@ -1,60 +1,60 @@
 {
-  "generated_at": "Wednesday, April 29 2026  09:13 PT",
-  "market_status": "Live \u2014 as of 12:13 ET",
+  "generated_at": "Wednesday, April 29 2026  10:57 PT",
+  "market_status": "Live \u2014 as of 13:57 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7127.88,
-      "change_pct": -0.16
+      "price": 7126.65,
+      "change_pct": -0.18
     },
     "Nasdaq": {
-      "price": 24632.59,
-      "change_pct": -0.13
+      "price": 24612.11,
+      "change_pct": -0.21
     },
     "Dow Jones": {
-      "price": 48824.62,
-      "change_pct": -0.65
+      "price": 48831.33,
+      "change_pct": -0.64
     },
     "Russell 2000": {
-      "price": 2733.81,
-      "change_pct": -0.8
+      "price": 2730.26,
+      "change_pct": -0.93
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4573.4,
-      "change_pct": -0.79
+      "price": 4557.4,
+      "change_pct": -1.13
     },
     "Oil (WTI)": {
-      "price": 106.36,
-      "change_pct": 7.07
+      "price": 107.12,
+      "change_pct": 7.83
     },
     "Silver": {
-      "price": 72.21,
-      "change_pct": -2.56
+      "price": 71.95,
+      "change_pct": -2.9
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76084,
-      "change_pct": 0.11
+      "price": 75916,
+      "change_pct": -0.34
     },
     "ETH": {
-      "price": 2277.86,
-      "change_pct": -0.0
+      "price": 2271.77,
+      "change_pct": -0.79
     },
     "SOL": {
-      "price": 83.58,
-      "change_pct": 0.13
+      "price": 82.97,
+      "change_pct": -0.74
     },
     "BNB": {
-      "price": 617.66,
-      "change_pct": -0.79
+      "price": 618.85,
+      "change_pct": -0.75
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump Fed pick Kevin Warsh clears key Senate hurdle, teeing up final vote"
+      "title": "Fed meeting live updates: Potential drama ahead if Powell hints he will hang around"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Micron\u2019s stock is gaining. Here\u2019s why the semiconductor trade has sprung back to life."
+      "title": "Why it\u2019s time for \u2018sell in May and go away\u2019 to die"
     },
     {
       "source": "MarketWatch",
-      "title": "Did the economy actually get stronger during the Iran war? Here\u2019s what the numbers tell us."
+      "title": "Micron\u2019s stock is gaining. Here\u2019s why the semiconductor trade has sprung back to life."
     }
   ]
 }
