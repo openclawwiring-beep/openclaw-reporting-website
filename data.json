@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, April 28 2026  22:54 PT",
+  "generated_at": "Wednesday, April 29 2026  01:16 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4611.4,
-      "change_pct": -0.02
+      "price": 4579.5,
+      "change_pct": -0.73
     },
     "Oil (WTI)": {
-      "price": 99.59,
-      "change_pct": 0.58
+      "price": 102.5,
+      "change_pct": 3.45
     },
     "Silver": {
-      "price": 74.15,
-      "change_pct": -0.09
+      "price": 73.32,
+      "change_pct": -1.29
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77286,
-      "change_pct": 0.44
+      "price": 77020,
+      "change_pct": 0.17
     },
     "ETH": {
-      "price": 2330.32,
-      "change_pct": 1.77
+      "price": 2323.56,
+      "change_pct": 1.56
     },
     "SOL": {
-      "price": 84.9,
-      "change_pct": 0.72
+      "price": 84.59,
+      "change_pct": 0.78
     },
     "BNB": {
-      "price": 627.86,
-      "change_pct": 0.48
+      "price": 624.97,
+      "change_pct": 0.06
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "UBS profits rocket 80% to $3 billion for first quarter beat"
+      "title": "UAE's departure from the OPEC oil cartel is not without precedence. Who could be next?"
     },
     {
       "source": "CNBC",
-      "title": "UAE's departure from the OPEC oil cartel is not without precedence. Who could be next?"
+      "title": "Will rates go higher in Europe this week? Central banks confront stagflation threat"
     },
     {
       "source": "MarketWatch",
