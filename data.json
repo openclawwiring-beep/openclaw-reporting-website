@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 29 2026  16:54 PT",
+  "generated_at": "Wednesday, April 29 2026  19:50 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4566.1,
-      "change_pct": -0.94
+      "price": 4575.0,
+      "change_pct": -0.75
     },
     "Oil (WTI)": {
-      "price": 107.97,
-      "change_pct": 8.69
+      "price": 108.84,
+      "change_pct": 9.56
     },
     "Silver": {
-      "price": 72.17,
-      "change_pct": -2.6
+      "price": 72.81,
+      "change_pct": -1.74
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75794,
-      "change_pct": -0.7
+      "price": 75577,
+      "change_pct": -1.18
     },
     "ETH": {
-      "price": 2254.1,
-      "change_pct": -1.48
+      "price": 2238.92,
+      "change_pct": -2.13
     },
     "SOL": {
-      "price": 83.04,
-      "change_pct": -1.23
+      "price": 82.76,
+      "change_pct": -1.49
     },
     "BNB": {
-      "price": 617.05,
-      "change_pct": -1.13
+      "price": 616.34,
+      "change_pct": -1.22
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Sandisk shares have soared over 3,000% in a year. Is a stock split next?"
+      "title": "These workers are allowed to save $35,000 a year in their 401(k)s. Here\u2019s how many actually do it."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I hope to retire early\u2019: I\u2019m 56 and have 80% in a traditional IRA and 20% in a Roth. Am I in trouble?"
+      "title": "More diners are eating at Chipotle despite higher prices, bucking Wall Street\u2019s concerns about restaurants"
     }
   ]
 }
