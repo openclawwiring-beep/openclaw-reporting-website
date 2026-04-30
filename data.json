@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 29 2026  22:58 PT",
+  "generated_at": "Thursday, April 30 2026  01:31 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4578.0,
-      "change_pct": 0.22
+      "price": 4624.8,
+      "change_pct": 1.25
     },
     "Oil (WTI)": {
-      "price": 109.28,
-      "change_pct": 0.19
+      "price": 108.31,
+      "change_pct": -0.7
     },
     "Silver": {
-      "price": 72.74,
-      "change_pct": 0.39
+      "price": 73.79,
+      "change_pct": 1.84
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75609,
-      "change_pct": -2.13
+      "price": 76044,
+      "change_pct": -1.24
     },
     "ETH": {
-      "price": 2243.58,
-      "change_pct": -3.62
+      "price": 2256.95,
+      "change_pct": -2.85
     },
     "SOL": {
-      "price": 82.62,
-      "change_pct": -2.66
+      "price": 83.24,
+      "change_pct": -1.64
     },
     "BNB": {
-      "price": 615.87,
-      "change_pct": -1.83
+      "price": 616.87,
+      "change_pct": -1.27
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Meta stock drops on quarterly results as 'internet disruptions' in Iran drag down user numbers"
+      "title": "Brent pares gains after hitting 4-year highs as report stokes worries of U.S. military action against Iran"
     },
     {
       "source": "CNBC",
-      "title": "Brent crude hits 4-year high, soaring past $126, as U.S. military to reportedly brief Trump on action against Iran"
+      "title": "Shares of Jeep maker Stellantis fall as much as 10% after first-quarter results"
     },
     {
       "source": "MarketWatch",
