@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 30 2026  13:38 PT",
+  "generated_at": "Thursday, April 30 2026  14:55 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4629.5,
-      "change_pct": 1.35
+      "price": 4636.0,
+      "change_pct": 1.49
     },
     "Oil (WTI)": {
-      "price": 105.45,
-      "change_pct": -3.32
+      "price": 105.41,
+      "change_pct": -3.36
     },
     "Silver": {
-      "price": 74.13,
-      "change_pct": 2.3
+      "price": 74.23,
+      "change_pct": 2.44
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76466,
-      "change_pct": 0.99
+      "price": 76259,
+      "change_pct": 0.39
     },
     "ETH": {
-      "price": 2264.2,
-      "change_pct": 1.01
+      "price": 2255.95,
+      "change_pct": 0.05
     },
     "SOL": {
-      "price": 83.1,
-      "change_pct": 0.71
+      "price": 82.91,
+      "change_pct": -0.11
     },
     "BNB": {
-      "price": 617.9,
-      "change_pct": 0.42
+      "price": 616.3,
+      "change_pct": -0.21
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Apple reports earnings and revenue beat, boosted by services business"
+      "title": "Apple revenue guidance tops estimates on booming iPhone, Mac demand"
     },
     {
       "source": "CNBC",
-      "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand"
+      "title": "Trump signs DHS funding bill, ending shutdown for most of agency, including TSA"
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia used to benefit from AI spending increases. So why did the stock just slide?"
+      "title": "LIV Golf has lost its Saudi funding. Golfers who rejoin the PGA Tour may face financial fallout."
     },
     {
       "source": "MarketWatch",
-      "title": "How a screw-up by Social Security cost widows and widowers over $50 million"
+      "title": "Could Powell\u2019s decision to stay worsen relations between the Fed and the White House?"
     }
   ]
 }
