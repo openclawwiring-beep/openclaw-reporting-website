@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 30 2026  01:31 PT",
+  "generated_at": "Thursday, April 30 2026  03:54 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4624.8,
-      "change_pct": 1.25
+      "price": 4649.0,
+      "change_pct": 1.78
     },
     "Oil (WTI)": {
-      "price": 108.31,
-      "change_pct": -0.7
+      "price": 106.57,
+      "change_pct": -2.29
     },
     "Silver": {
-      "price": 73.79,
-      "change_pct": 1.84
+      "price": 74.1,
+      "change_pct": 2.26
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76044,
-      "change_pct": -1.24
+      "price": 75994,
+      "change_pct": -2.09
     },
     "ETH": {
-      "price": 2256.95,
-      "change_pct": -2.85
+      "price": 2259.33,
+      "change_pct": -3.22
     },
     "SOL": {
-      "price": 83.24,
-      "change_pct": -1.64
+      "price": 82.95,
+      "change_pct": -2.76
     },
     "BNB": {
-      "price": 616.87,
-      "change_pct": -1.27
+      "price": 615.79,
+      "change_pct": -1.98
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Brent pares gains after hitting 4-year highs as report stokes worries of U.S. military action against Iran"
+      "title": "Eli Lilly blows past quarterly estimates, hikes outlook as Zepbound and Mounjaro sales skyrocket"
     },
     {
       "source": "CNBC",
-      "title": "Shares of Jeep maker Stellantis fall as much as 10% after first-quarter results"
+      "title": "Brent oil pares gains after climbing to wartime high on U.S.-Iran escalation fears"
     },
     {
       "source": "MarketWatch",
-      "title": "These workers are allowed to save $35,000 a year in their 401(k)s. Here\u2019s how many actually do it."
+      "title": "Oil prices drop after earlier reaching four-year high as Iran developments eyed"
     },
     {
       "source": "MarketWatch",
-      "title": "More diners are eating at Chipotle despite higher prices, bucking Wall Street\u2019s concerns about restaurants"
+      "title": "\u2018We are old school\u2019: I\u2019ve been married for 40 years. Should I have kept my money separate?"
     }
   ]
 }
