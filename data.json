@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 30 2026  03:54 PT",
+  "generated_at": "Thursday, April 30 2026  05:14 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4649.0,
-      "change_pct": 1.78
+      "price": 4648.7,
+      "change_pct": 1.77
     },
     "Oil (WTI)": {
-      "price": 106.57,
-      "change_pct": -2.29
+      "price": 104.77,
+      "change_pct": -3.94
     },
     "Silver": {
-      "price": 74.1,
-      "change_pct": 2.26
+      "price": 74.08,
+      "change_pct": 2.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75994,
-      "change_pct": -2.09
+      "price": 76091,
+      "change_pct": -1.76
     },
     "ETH": {
-      "price": 2259.33,
-      "change_pct": -3.22
+      "price": 2258.38,
+      "change_pct": -2.87
     },
     "SOL": {
-      "price": 82.95,
-      "change_pct": -2.76
+      "price": 83.03,
+      "change_pct": -1.85
     },
     "BNB": {
-      "price": 615.79,
-      "change_pct": -1.98
+      "price": 615.62,
+      "change_pct": -1.45
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Brent oil pares gains after climbing to wartime high on U.S.-Iran escalation fears"
+      "title": "Brent oil pares gains after climbing to $126 per barrel on U.S.-Iran escalation fears"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices drop after earlier reaching four-year high as Iran developments eyed"
+      "title": "Why the 60/40 portfolio is crushing it \u2014 despite market chaos and inflation fears"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We are old school\u2019: I\u2019ve been married for 40 years. Should I have kept my money separate?"
+      "title": "Will I get my deposit back on my rental if I make minor renovations \u2014 and paint the walls a different color?"
     }
   ]
 }
