@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, April 30 2026  12:19 PT",
-  "market_status": "Live \u2014 as of 15:19 ET",
+  "generated_at": "Thursday, April 30 2026  13:38 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7214.79,
-      "change_pct": 1.08
+      "price": 7209.01,
+      "change_pct": 1.02
     },
     "Nasdaq": {
-      "price": 24918.14,
-      "change_pct": 0.99
+      "price": 24892.31,
+      "change_pct": 0.89
     },
     "Dow Jones": {
-      "price": 49718.21,
-      "change_pct": 1.74
+      "price": 49652.14,
+      "change_pct": 1.62
     },
     "Russell 2000": {
-      "price": 2794.2,
-      "change_pct": 2.0
+      "price": 2799.91,
+      "change_pct": 2.21
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4638.7,
-      "change_pct": 1.55
+      "price": 4629.5,
+      "change_pct": 1.35
     },
     "Oil (WTI)": {
-      "price": 105.03,
-      "change_pct": -3.7
+      "price": 105.45,
+      "change_pct": -3.32
     },
     "Silver": {
-      "price": 74.22,
-      "change_pct": 2.43
+      "price": 74.13,
+      "change_pct": 2.3
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76419,
-      "change_pct": 1.19
+      "price": 76466,
+      "change_pct": 0.99
     },
     "ETH": {
-      "price": 2263.06,
-      "change_pct": 1.27
+      "price": 2264.2,
+      "change_pct": 1.01
     },
     "SOL": {
-      "price": 83.15,
-      "change_pct": 1.12
+      "price": 83.1,
+      "change_pct": 0.71
     },
     "BNB": {
-      "price": 618.03,
-      "change_pct": 0.67
+      "price": 617.9,
+      "change_pct": 0.42
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand"
+      "title": "Apple reports earnings and revenue beat, boosted by services business"
     },
     {
       "source": "CNBC",
-      "title": "DHS shutdown set to end after House passes bill to fund most of agency, including TSA"
+      "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand"
     },
     {
       "source": "MarketWatch",
-      "title": "Can one bad week ruin your retirement savings? How about three bad years?"
+      "title": "Nvidia used to benefit from AI spending increases. So why did the stock just slide?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m not interested in long-term care insurance\u2019: I\u2019d like to retire at 55. How much will I have to pay for healthcare?"
+      "title": "How a screw-up by Social Security cost widows and widowers over $50 million"
     }
   ]
 }
