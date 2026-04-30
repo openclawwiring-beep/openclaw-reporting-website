@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, April 29 2026  19:50 PT",
+  "generated_at": "Wednesday, April 29 2026  22:58 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4575.0,
-      "change_pct": -0.75
+      "price": 4578.0,
+      "change_pct": 0.22
     },
     "Oil (WTI)": {
-      "price": 108.84,
-      "change_pct": 9.56
+      "price": 109.28,
+      "change_pct": 0.19
     },
     "Silver": {
-      "price": 72.81,
-      "change_pct": -1.74
+      "price": 72.74,
+      "change_pct": 0.39
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75577,
-      "change_pct": -1.18
-    },
-    "ETH": {
-      "price": 2238.92,
+      "price": 75609,
       "change_pct": -2.13
     },
+    "ETH": {
+      "price": 2243.58,
+      "change_pct": -3.62
+    },
     "SOL": {
-      "price": 82.76,
-      "change_pct": -1.49
+      "price": 82.62,
+      "change_pct": -2.66
     },
     "BNB": {
-      "price": 616.34,
-      "change_pct": -1.22
+      "price": 615.87,
+      "change_pct": -1.83
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Microsoft calls for $190 billion in 2026 capital spending on soaring memory prices"
+      "title": "Brent crude hits 4-year high, soaring past $126, as U.S. military to reportedly brief Trump on action against Iran"
     },
     {
       "source": "MarketWatch",
