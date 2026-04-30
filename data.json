@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 30 2026  14:55 PT",
+  "generated_at": "Thursday, April 30 2026  15:52 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4636.0,
-      "change_pct": 1.49
+      "price": 4643.7,
+      "change_pct": 1.66
     },
     "Oil (WTI)": {
-      "price": 105.41,
-      "change_pct": -3.36
+      "price": 105.87,
+      "change_pct": -2.93
     },
     "Silver": {
-      "price": 74.23,
-      "change_pct": 2.44
+      "price": 74.68,
+      "change_pct": 3.06
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76259,
-      "change_pct": 0.39
+      "price": 76312,
+      "change_pct": 0.53
     },
     "ETH": {
-      "price": 2255.95,
-      "change_pct": 0.05
+      "price": 2255.72,
+      "change_pct": -0.05
     },
     "SOL": {
-      "price": 82.91,
-      "change_pct": -0.11
+      "price": 82.86,
+      "change_pct": -0.25
     },
     "BNB": {
-      "price": 616.3,
-      "change_pct": -0.21
+      "price": 615.07,
+      "change_pct": -0.44
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "LIV Golf has lost its Saudi funding. Golfers who rejoin the PGA Tour may face financial fallout."
+      "title": "The memory trade is faltering as Western Digital\u2019s stock slides in the face of earnings beat"
     },
     {
       "source": "MarketWatch",
-      "title": "Could Powell\u2019s decision to stay worsen relations between the Fed and the White House?"
+      "title": "Saving for retirement when you make less than $35,000 won\u2019t be much easier with Trump\u2019s new executive order"
     }
   ]
 }
