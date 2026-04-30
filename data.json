@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, April 30 2026  10:49 PT",
-  "market_status": "Live \u2014 as of 13:49 ET",
+  "generated_at": "Thursday, April 30 2026  12:19 PT",
+  "market_status": "Live \u2014 as of 15:19 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7190.35,
-      "change_pct": 0.74
+      "price": 7214.79,
+      "change_pct": 1.08
     },
     "Nasdaq": {
-      "price": 24821.94,
-      "change_pct": 0.6
+      "price": 24918.14,
+      "change_pct": 0.99
     },
     "Dow Jones": {
-      "price": 49605.01,
-      "change_pct": 1.51
+      "price": 49718.21,
+      "change_pct": 1.74
     },
     "Russell 2000": {
-      "price": 2787.28,
-      "change_pct": 1.74
+      "price": 2794.2,
+      "change_pct": 2.0
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4629.4,
-      "change_pct": 1.35
+      "price": 4638.7,
+      "change_pct": 1.55
     },
     "Oil (WTI)": {
-      "price": 104.04,
-      "change_pct": -4.61
+      "price": 105.03,
+      "change_pct": -3.7
     },
     "Silver": {
-      "price": 74.01,
-      "change_pct": 2.14
+      "price": 74.22,
+      "change_pct": 2.43
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76169,
-      "change_pct": 0.24
+      "price": 76419,
+      "change_pct": 1.19
     },
     "ETH": {
-      "price": 2255.44,
-      "change_pct": -0.83
+      "price": 2263.06,
+      "change_pct": 1.27
     },
     "SOL": {
-      "price": 82.98,
-      "change_pct": -0.02
+      "price": 83.15,
+      "change_pct": 1.12
     },
     "BNB": {
-      "price": 616.15,
-      "change_pct": -0.52
+      "price": 618.03,
+      "change_pct": 0.67
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Target-date funds are \u2018a flawed tool.\u2019 Here\u2019s how you can do better."
+      "title": "Can one bad week ruin your retirement savings? How about three bad years?"
     },
     {
       "source": "MarketWatch",
-      "title": "Americans are embracing this terrible car-buying habit. It\u2019s costing them thousands of dollars."
+      "title": "\u2018I\u2019m not interested in long-term care insurance\u2019: I\u2019d like to retire at 55. How much will I have to pay for healthcare?"
     }
   ]
 }
