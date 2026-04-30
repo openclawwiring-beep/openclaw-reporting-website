@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, April 30 2026  09:18 PT",
-  "market_status": "Live \u2014 as of 12:18 ET",
+  "generated_at": "Thursday, April 30 2026  10:49 PT",
+  "market_status": "Live \u2014 as of 13:49 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7174.95,
-      "change_pct": 0.52
+      "price": 7190.35,
+      "change_pct": 0.74
     },
     "Nasdaq": {
-      "price": 24738.0,
-      "change_pct": 0.26
+      "price": 24821.94,
+      "change_pct": 0.6
     },
     "Dow Jones": {
-      "price": 49570.71,
-      "change_pct": 1.44
+      "price": 49605.01,
+      "change_pct": 1.51
     },
     "Russell 2000": {
-      "price": 2777.3,
-      "change_pct": 1.38
+      "price": 2787.28,
+      "change_pct": 1.74
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4629.5,
+      "price": 4629.4,
       "change_pct": 1.35
     },
     "Oil (WTI)": {
-      "price": 104.35,
-      "change_pct": -4.33
+      "price": 104.04,
+      "change_pct": -4.61
     },
     "Silver": {
-      "price": 73.69,
-      "change_pct": 1.7
+      "price": 74.01,
+      "change_pct": 2.14
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76375,
-      "change_pct": 0.5
+      "price": 76169,
+      "change_pct": 0.24
     },
     "ETH": {
-      "price": 2261.96,
-      "change_pct": -0.59
+      "price": 2255.44,
+      "change_pct": -0.83
     },
     "SOL": {
-      "price": 83.28,
-      "change_pct": -0.23
+      "price": 82.98,
+      "change_pct": -0.02
     },
     "BNB": {
-      "price": 616.67,
-      "change_pct": -0.13
+      "price": 616.15,
+      "change_pct": -0.52
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump said his blockade would cause Iran's oil industry to 'explode' this week. Why that won't happen"
+      "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand"
     },
     {
       "source": "CNBC",
-      "title": "California gas prices hit $6 per gallon as fuel costs jump nearly 30 cents in a week across the U.S."
+      "title": "DHS shutdown set to end after House passes bill to fund most of agency, including TSA"
     },
     {
       "source": "MarketWatch",
-      "title": "Mortgage rates increase to 6.3%, but that\u2019s not stopping home buyers"
+      "title": "Target-date funds are \u2018a flawed tool.\u2019 Here\u2019s how you can do better."
     },
     {
       "source": "MarketWatch",
-      "title": "Meta embodies everything Wall Street hates about AI right now"
+      "title": "Americans are embracing this terrible car-buying habit. It\u2019s costing them thousands of dollars."
     }
   ]
 }
