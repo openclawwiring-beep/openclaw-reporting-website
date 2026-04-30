@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, April 30 2026  05:14 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, April 30 2026  07:32 PT",
+  "market_status": "Live \u2014 as of 10:32 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7135.95,
-      "change_pct": -0.04
+      "price": 7149.6,
+      "change_pct": 0.17
     },
     "Nasdaq": {
-      "price": 24673.24,
-      "change_pct": 0.04
+      "price": 24584.59,
+      "change_pct": -0.36
     },
     "Dow Jones": {
-      "price": 48861.81,
-      "change_pct": -0.57
+      "price": 49448.19,
+      "change_pct": 1.18
     },
     "Russell 2000": {
-      "price": 2739.47,
-      "change_pct": -0.6
+      "price": 2750.37,
+      "change_pct": 0.4
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4648.7,
-      "change_pct": 1.77
+      "price": 4634.7,
+      "change_pct": 1.46
     },
     "Oil (WTI)": {
-      "price": 104.77,
-      "change_pct": -3.94
+      "price": 105.13,
+      "change_pct": -3.61
     },
     "Silver": {
-      "price": 74.08,
-      "change_pct": 2.24
+      "price": 73.79,
+      "change_pct": 1.84
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76091,
-      "change_pct": -1.76
+      "price": 76301,
+      "change_pct": -0.47
     },
     "ETH": {
-      "price": 2258.38,
-      "change_pct": -2.87
+      "price": 2257.19,
+      "change_pct": -1.99
     },
     "SOL": {
-      "price": 83.03,
-      "change_pct": -1.85
+      "price": 83.0,
+      "change_pct": -1.12
     },
     "BNB": {
-      "price": 615.62,
-      "change_pct": -1.45
+      "price": 614.69,
+      "change_pct": -1.18
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Eli Lilly blows past quarterly estimates, hikes outlook as Zepbound and Mounjaro sales skyrocket"
+      "title": "Trump said his blockade would cause Iran's oil industry to 'explode' this week. Why that won't happen"
     },
     {
       "source": "CNBC",
-      "title": "Brent oil pares gains after climbing to $126 per barrel on U.S.-Iran escalation fears"
+      "title": "Core inflation rate hit 3.2% in March as first-quarter growth disappointed at 2%"
     },
     {
       "source": "MarketWatch",
-      "title": "Why the 60/40 portfolio is crushing it \u2014 despite market chaos and inflation fears"
+      "title": "These stocks have been the biggest winners during the S&P 500\u2019s best month since 2020"
     },
     {
       "source": "MarketWatch",
-      "title": "Will I get my deposit back on my rental if I make minor renovations \u2014 and paint the walls a different color?"
+      "title": "Oil prices retreat after touching four-year high as traders focus on Iran developments"
     }
   ]
 }
