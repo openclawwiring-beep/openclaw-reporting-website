@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, May 01 2026  11:37 PT",
-  "market_status": "Live \u2014 as of 14:37 ET",
+  "generated_at": "Friday, May 01 2026  13:03 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7236.54,
-      "change_pct": 0.37
+      "price": 7230.12,
+      "change_pct": 0.29
     },
     "Nasdaq": {
-      "price": 25128.04,
-      "change_pct": 0.95
+      "price": 25114.44,
+      "change_pct": 0.89
     },
     "Dow Jones": {
-      "price": 49552.19,
-      "change_pct": -0.21
+      "price": 49499.27,
+      "change_pct": -0.31
     },
     "Russell 2000": {
-      "price": 2811.17,
-      "change_pct": 0.38
+      "price": 2815.17,
+      "change_pct": 0.53
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4632.1,
-      "change_pct": -0.14
+      "price": 4621.7,
+      "change_pct": -0.36
     },
     "Oil (WTI)": {
-      "price": 102.14,
-      "change_pct": -3.15
+      "price": 102.37,
+      "change_pct": -2.93
     },
     "Silver": {
-      "price": 76.29,
-      "change_pct": 1.99
+      "price": 75.92,
+      "change_pct": 1.49
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78474,
-      "change_pct": 2.9
+      "price": 78356,
+      "change_pct": 2.58
     },
     "ETH": {
-      "price": 2305.42,
-      "change_pct": 2.15
+      "price": 2304.23,
+      "change_pct": 1.91
     },
     "SOL": {
-      "price": 84.09,
-      "change_pct": 1.28
+      "price": 83.87,
+      "change_pct": 1.05
     },
     "BNB": {
-      "price": 620.09,
-      "change_pct": 0.4
+      "price": 619.05,
+      "change_pct": 0.15
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump says 'Iran wants to make a deal, but I'm not satisfied with it'"
+      "title": "Trump tells Congress hostilities in Iran 'have terminated' as War Powers deadline hits"
     },
     {
       "source": "MarketWatch",
-      "title": "If Spirit ends up shutting down, these airlines stand to benefit"
+      "title": "Apple just gave a subtle clue that a splashy AI acquisition may be in the cards"
     },
     {
       "source": "MarketWatch",
-      "title": "Wall Street is finding a new use for the latest retail-trading obsession"
+      "title": "\u2018Why do Americans think we can do socialism?\u2019 says hedge-fund manager Ken Griffin"
     }
   ]
 }
