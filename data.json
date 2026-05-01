@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, May 01 2026  03:07 PT",
+  "generated_at": "Friday, May 01 2026  04:38 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4572.8,
-      "change_pct": -1.42
+      "price": 4582.8,
+      "change_pct": -1.2
     },
     "Oil (WTI)": {
-      "price": 105.49,
-      "change_pct": 0.03
+      "price": 104.47,
+      "change_pct": -0.94
     },
     "Silver": {
-      "price": 73.61,
-      "change_pct": -1.59
+      "price": 74.01,
+      "change_pct": -1.05
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77205,
-      "change_pct": 1.44
+      "price": 77331,
+      "change_pct": 1.66
     },
     "ETH": {
-      "price": 2280.74,
-      "change_pct": 0.75
+      "price": 2283.77,
+      "change_pct": 0.81
     },
     "SOL": {
-      "price": 83.89,
-      "change_pct": 0.93
+      "price": 83.87,
+      "change_pct": 0.86
     },
     "BNB": {
-      "price": 616.7,
-      "change_pct": -0.04
+      "price": 617.82,
+      "change_pct": 0.31
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump scraps Scotch whisky tariffs \u2018in honor\u2019 of King Charles"
+      "title": "Exxon Mobil and Chevron earnings fall as Iran war disrupts oil shipments"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The numbers don\u2019t lie\u2019: If I had invested my Social Security in the S&P 500 I\u2019d have $4 million. Is the system broken?"
+      "title": "3 questions to ask before raiding your 401(k) for a hardship withdrawal"
     },
     {
       "source": "MarketWatch",
-      "title": "A year after selling $2.7 million Austin mansion, actress Haylie Duff and Matt Rosenberg call off 12-year engagement"
+      "title": "Software stocks are finally priced for a comeback, this veteran strategist says. He\u2019s buying."
     }
   ]
 }
