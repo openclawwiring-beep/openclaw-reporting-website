@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 30 2026  19:57 PT",
+  "generated_at": "Thursday, April 30 2026  23:18 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4632.3,
-      "change_pct": 1.41
+      "price": 4613.5,
+      "change_pct": -0.3
     },
     "Oil (WTI)": {
-      "price": 106.1,
-      "change_pct": -2.72
+      "price": 105.52,
+      "change_pct": -0.23
     },
     "Silver": {
-      "price": 74.61,
-      "change_pct": 2.97
+      "price": 74.29,
+      "change_pct": -0.38
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76529,
-      "change_pct": 1.11
+      "price": 77135,
+      "change_pct": 2.04
     },
     "ETH": {
-      "price": 2265.32,
-      "change_pct": 0.97
+      "price": 2284.44,
+      "change_pct": 1.81
     },
     "SOL": {
-      "price": 83.64,
-      "change_pct": 0.93
+      "price": 84.1,
+      "change_pct": 1.87
     },
     "BNB": {
-      "price": 616.76,
-      "change_pct": -0.06
+      "price": 617.96,
+      "change_pct": 0.4
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump signs DHS funding bill, ending shutdown for most of agency, including TSA"
+      "title": "Oil rises as White House says Iran ceasefire halts 60-day war deadline"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The S&P 500\u2019s newest member is this under-the-radar software stock"
     },
     {
       "source": "MarketWatch",
       "title": "The memory trade is faltering as Western Digital\u2019s stock slides in the face of earnings beat"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here\u2019s what\u2019s worth streaming in May 2026 on Netflix, Hulu, HBO Max and more"
     }
   ]
 }
