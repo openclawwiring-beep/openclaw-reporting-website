@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, May 01 2026  15:11 PT",
+  "generated_at": "Friday, May 01 2026  16:26 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78256,
-      "change_pct": 2.55
+      "price": 78071,
+      "change_pct": 2.37
     },
     "ETH": {
-      "price": 2294.98,
-      "change_pct": 1.66
+      "price": 2290.7,
+      "change_pct": 1.59
     },
     "SOL": {
-      "price": 83.71,
-      "change_pct": 1.05
+      "price": 83.63,
+      "change_pct": 0.84
     },
     "BNB": {
-      "price": 617.37,
-      "change_pct": 0.28
+      "price": 614.9,
+      "change_pct": 0.01
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Thinking of raiding your 401(k) for a hardship withdrawal? Ask these questions first."
+      "title": "\u2018The numbers don\u2019t lie\u2019: If I had invested my Social Security in the S&P 500 I\u2019d have $4 million. Is the system broken?"
     },
     {
       "source": "MarketWatch",
-      "title": "Social Security screwed up \u2014 and it cost widows and widowers over $50 million"
+      "title": "GameStop is hungry for relevance. Is buying eBay the answer?"
     }
   ]
 }
