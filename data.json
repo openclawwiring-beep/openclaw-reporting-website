@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 30 2026  16:52 PT",
+  "generated_at": "Thursday, April 30 2026  19:57 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4645.7,
-      "change_pct": 1.7
+      "price": 4632.3,
+      "change_pct": 1.41
     },
     "Oil (WTI)": {
-      "price": 105.73,
-      "change_pct": -3.06
+      "price": 106.1,
+      "change_pct": -2.72
     },
     "Silver": {
-      "price": 74.88,
-      "change_pct": 3.33
+      "price": 74.61,
+      "change_pct": 2.97
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76306,
-      "change_pct": 0.65
+      "price": 76529,
+      "change_pct": 1.11
     },
     "ETH": {
-      "price": 2257.32,
-      "change_pct": 0.11
+      "price": 2265.32,
+      "change_pct": 0.97
     },
     "SOL": {
-      "price": 83.0,
-      "change_pct": -0.04
+      "price": 83.64,
+      "change_pct": 0.93
     },
     "BNB": {
-      "price": 615.15,
-      "change_pct": -0.35
+      "price": 616.76,
+      "change_pct": -0.06
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Alphabet hits a milestone as it closes in on Nvidia"
+      "title": "The memory trade is faltering as Western Digital\u2019s stock slides in the face of earnings beat"
     },
     {
       "source": "MarketWatch",
-      "title": "The memory trade is faltering as Western Digital\u2019s stock slides in the face of earnings beat"
+      "title": "Here\u2019s what\u2019s worth streaming in May 2026 on Netflix, Hulu, HBO Max and more"
     }
   ]
 }
