@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, May 01 2026  13:03 PT",
+  "generated_at": "Friday, May 01 2026  14:14 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,40 +15,40 @@
       "change_pct": -0.31
     },
     "Russell 2000": {
-      "price": 2815.17,
-      "change_pct": 0.53
+      "price": 2812.82,
+      "change_pct": 0.46
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4621.7,
-      "change_pct": -0.36
+      "price": 4625.6,
+      "change_pct": -0.28
     },
     "Oil (WTI)": {
-      "price": 102.37,
-      "change_pct": -2.93
+      "price": 102.5,
+      "change_pct": -2.81
     },
     "Silver": {
-      "price": 75.92,
-      "change_pct": 1.49
+      "price": 75.84,
+      "change_pct": 1.39
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78356,
-      "change_pct": 2.58
+      "price": 77930,
+      "change_pct": 1.94
     },
     "ETH": {
-      "price": 2304.23,
-      "change_pct": 1.91
+      "price": 2287.06,
+      "change_pct": 1.1
     },
     "SOL": {
-      "price": 83.87,
-      "change_pct": 1.05
+      "price": 83.49,
+      "change_pct": 0.52
     },
     "BNB": {
-      "price": 619.05,
-      "change_pct": 0.15
+      "price": 617.31,
+      "change_pct": 0.0
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump tells Congress hostilities in Iran 'have terminated' as War Powers deadline hits"
+      "title": "Trump says government gave 'final' bailout proposal for Spirit Airlines as liquidation looms"
     },
     {
       "source": "MarketWatch",
-      "title": "Apple just gave a subtle clue that a splashy AI acquisition may be in the cards"
+      "title": "It now costs $160 to fill up America\u2019s top-selling vehicle as the Iran war nears its 10th week"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Why do Americans think we can do socialism?\u2019 says hedge-fund manager Ken Griffin"
+      "title": "Apple just gave a clue that an AI acquisition may be in the cards"
     }
   ]
 }
