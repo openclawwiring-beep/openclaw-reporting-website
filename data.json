@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, May 01 2026  06:17 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, May 01 2026  07:36 PT",
+  "market_status": "Live \u2014 as of 10:36 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7209.01,
-      "change_pct": 1.02
+      "price": 7251.32,
+      "change_pct": 0.58
     },
     "Nasdaq": {
-      "price": 24892.31,
-      "change_pct": 0.89
+      "price": 25071.76,
+      "change_pct": 0.72
     },
     "Dow Jones": {
-      "price": 49652.14,
-      "change_pct": 1.62
+      "price": 49859.81,
+      "change_pct": 0.41
     },
     "Russell 2000": {
-      "price": 2799.91,
-      "change_pct": 2.21
+      "price": 2807.78,
+      "change_pct": 0.26
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4603.0,
-      "change_pct": -0.77
+      "price": 4659.5,
+      "change_pct": 0.45
     },
     "Oil (WTI)": {
-      "price": 103.19,
-      "change_pct": -2.15
+      "price": 100.5,
+      "change_pct": -4.7
     },
     "Silver": {
-      "price": 75.1,
-      "change_pct": 0.4
+      "price": 77.22,
+      "change_pct": 3.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78353,
-      "change_pct": 2.69
+      "price": 78235,
+      "change_pct": 2.64
     },
     "ETH": {
-      "price": 2311.78,
-      "change_pct": 2.15
+      "price": 2308.28,
+      "change_pct": 2.34
     },
     "SOL": {
-      "price": 84.53,
-      "change_pct": 1.68
+      "price": 84.08,
+      "change_pct": 1.37
     },
     "BNB": {
-      "price": 621.04,
-      "change_pct": 0.98
+      "price": 620.48,
+      "change_pct": 0.96
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices fall on report Iran sent response to draft peace agreement"
+      "title": "Oil prices fall after Iran sends updated peace proposal to mediators in Pakistan"
     },
     {
       "source": "CNBC",
-      "title": "Pentagon tech chief says Anthropic is still blacklisted, but Mythos is a separate issue"
+      "title": "A major shift could soon happen in the Mag 7"
     },
     {
       "source": "MarketWatch",
-      "title": "LIV Golf has lost its Saudi funding. Players who want to rejoin the PGA Tour likely face financial penalties."
+      "title": "Here\u2019s what B. of A.\u2019s Michael Hartnett thinks investors should buy and sell in May"
     },
     {
       "source": "MarketWatch",
-      "title": "Will Trump\u2019s new executive order make it easier to save for retirement?"
+      "title": "These 5 AI-proof jobs are hiring \u2014 here\u2019s how much they pay and how to get them"
     }
   ]
 }
