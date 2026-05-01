@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, May 01 2026  08:56 PT",
-  "market_status": "Live \u2014 as of 11:56 ET",
+  "generated_at": "Friday, May 01 2026  10:00 PT",
+  "market_status": "Live \u2014 as of 13:00 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7259.84,
-      "change_pct": 0.7
+      "price": 7243.3,
+      "change_pct": 0.47
     },
     "Nasdaq": {
-      "price": 25196.17,
-      "change_pct": 1.22
+      "price": 25138.99,
+      "change_pct": 0.99
     },
     "Dow Jones": {
-      "price": 49678.84,
-      "change_pct": 0.04
+      "price": 49603.93,
+      "change_pct": -0.11
     },
     "Russell 2000": {
-      "price": 2808.18,
-      "change_pct": 0.28
+      "price": 2802.69,
+      "change_pct": 0.08
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4657.8,
-      "change_pct": 0.41
+      "price": 4648.0,
+      "change_pct": 0.2
     },
     "Oil (WTI)": {
-      "price": 101.28,
-      "change_pct": -3.96
+      "price": 101.88,
+      "change_pct": -3.39
     },
     "Silver": {
-      "price": 76.82,
-      "change_pct": 2.69
+      "price": 76.51,
+      "change_pct": 2.29
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78352,
-      "change_pct": 2.48
+      "price": 78250,
+      "change_pct": 2.67
     },
     "ETH": {
-      "price": 2304.67,
-      "change_pct": 1.72
+      "price": 2302.31,
+      "change_pct": 2.06
     },
     "SOL": {
-      "price": 84.34,
-      "change_pct": 1.21
+      "price": 84.18,
+      "change_pct": 1.44
     },
     "BNB": {
-      "price": 620.69,
-      "change_pct": 0.61
+      "price": 619.7,
+      "change_pct": 0.6
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "A major shift could soon happen in the Mag 7"
+      "title": "Trump says 'Iran wants to make a deal, but I'm not satisfied with it'"
     },
     {
       "source": "MarketWatch",
-      "title": "3 questions to ask before raiding your 401(k) for a hardship withdrawal"
+      "title": "Trump to talk up his push to lower costs, as analysts see bruising midterms for GOP due to economic worries"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s what\u2019s worth streaming in May 2026 on Netflix, Hulu, HBO Max and more"
+      "title": "Here\u2019s how much Tesla paid Elon Musk last year"
     }
   ]
 }
