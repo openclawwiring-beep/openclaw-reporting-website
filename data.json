@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, May 01 2026  14:14 PT",
+  "generated_at": "Friday, May 01 2026  15:11 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77930,
-      "change_pct": 1.94
+      "price": 78256,
+      "change_pct": 2.55
     },
     "ETH": {
-      "price": 2287.06,
-      "change_pct": 1.1
+      "price": 2294.98,
+      "change_pct": 1.66
     },
     "SOL": {
-      "price": 83.49,
-      "change_pct": 0.52
+      "price": 83.71,
+      "change_pct": 1.05
     },
     "BNB": {
-      "price": 617.31,
-      "change_pct": 0.0
+      "price": 617.37,
+      "change_pct": 0.28
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump says government gave 'final' bailout proposal for Spirit Airlines as liquidation looms"
+      "title": "Spirit Airlines prepares to shut down after failing to reach lifeline bailout deal"
     },
     {
       "source": "MarketWatch",
-      "title": "It now costs $160 to fill up America\u2019s top-selling vehicle as the Iran war nears its 10th week"
+      "title": "Thinking of raiding your 401(k) for a hardship withdrawal? Ask these questions first."
     },
     {
       "source": "MarketWatch",
-      "title": "Apple just gave a clue that an AI acquisition may be in the cards"
+      "title": "Social Security screwed up \u2014 and it cost widows and widowers over $50 million"
     }
   ]
 }
