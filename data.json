@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, May 01 2026  04:38 PT",
+  "generated_at": "Friday, May 01 2026  06:17 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4582.8,
-      "change_pct": -1.2
+      "price": 4603.0,
+      "change_pct": -0.77
     },
     "Oil (WTI)": {
-      "price": 104.47,
-      "change_pct": -0.94
+      "price": 103.19,
+      "change_pct": -2.15
     },
     "Silver": {
-      "price": 74.01,
-      "change_pct": -1.05
+      "price": 75.1,
+      "change_pct": 0.4
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77331,
-      "change_pct": 1.66
+      "price": 78353,
+      "change_pct": 2.69
     },
     "ETH": {
-      "price": 2283.77,
-      "change_pct": 0.81
+      "price": 2311.78,
+      "change_pct": 2.15
     },
     "SOL": {
-      "price": 83.87,
-      "change_pct": 0.86
+      "price": 84.53,
+      "change_pct": 1.68
     },
     "BNB": {
-      "price": 617.82,
-      "change_pct": 0.31
+      "price": 621.04,
+      "change_pct": 0.98
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil rises as White House says Iran ceasefire halts 60-day war deadline"
+      "title": "Oil prices fall on report Iran sent response to draft peace agreement"
     },
     {
       "source": "CNBC",
-      "title": "Exxon Mobil and Chevron earnings fall as Iran war disrupts oil shipments"
+      "title": "Pentagon tech chief says Anthropic is still blacklisted, but Mythos is a separate issue"
     },
     {
       "source": "MarketWatch",
-      "title": "3 questions to ask before raiding your 401(k) for a hardship withdrawal"
+      "title": "LIV Golf has lost its Saudi funding. Players who want to rejoin the PGA Tour likely face financial penalties."
     },
     {
       "source": "MarketWatch",
-      "title": "Software stocks are finally priced for a comeback, this veteran strategist says. He\u2019s buying."
+      "title": "Will Trump\u2019s new executive order make it easier to save for retirement?"
     }
   ]
 }
