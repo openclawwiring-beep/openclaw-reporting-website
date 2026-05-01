@@ -1,60 +1,60 @@
 {
-  "generated_at": "Friday, May 01 2026  10:00 PT",
-  "market_status": "Live \u2014 as of 13:00 ET",
+  "generated_at": "Friday, May 01 2026  11:37 PT",
+  "market_status": "Live \u2014 as of 14:37 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7243.3,
-      "change_pct": 0.47
+      "price": 7236.54,
+      "change_pct": 0.37
     },
     "Nasdaq": {
-      "price": 25138.99,
-      "change_pct": 0.99
+      "price": 25128.04,
+      "change_pct": 0.95
     },
     "Dow Jones": {
-      "price": 49603.93,
-      "change_pct": -0.11
+      "price": 49552.19,
+      "change_pct": -0.21
     },
     "Russell 2000": {
-      "price": 2802.69,
-      "change_pct": 0.08
+      "price": 2811.17,
+      "change_pct": 0.38
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4648.0,
-      "change_pct": 0.2
+      "price": 4632.1,
+      "change_pct": -0.14
     },
     "Oil (WTI)": {
-      "price": 101.88,
-      "change_pct": -3.39
+      "price": 102.14,
+      "change_pct": -3.15
     },
     "Silver": {
-      "price": 76.51,
-      "change_pct": 2.29
+      "price": 76.29,
+      "change_pct": 1.99
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78250,
-      "change_pct": 2.67
+      "price": 78474,
+      "change_pct": 2.9
     },
     "ETH": {
-      "price": 2302.31,
-      "change_pct": 2.06
+      "price": 2305.42,
+      "change_pct": 2.15
     },
     "SOL": {
-      "price": 84.18,
-      "change_pct": 1.44
+      "price": 84.09,
+      "change_pct": 1.28
     },
     "BNB": {
-      "price": 619.7,
-      "change_pct": 0.6
+      "price": 620.09,
+      "change_pct": 0.4
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices fall after Iran sends updated peace proposal to mediators in Pakistan"
+      "title": "Exxon Mobil CEO expects higher oil prices due to Iran war: \u2018The market hasn\u2019t seen the full impact\u2019"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Trump to talk up his push to lower costs, as analysts see bruising midterms for GOP due to economic worries"
+      "title": "If Spirit ends up shutting down, these airlines stand to benefit"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s how much Tesla paid Elon Musk last year"
+      "title": "Wall Street is finding a new use for the latest retail-trading obsession"
     }
   ]
 }
