@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, April 30 2026  23:18 PT",
+  "generated_at": "Friday, May 01 2026  01:28 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4613.5,
-      "change_pct": -0.3
+      "price": 4584.2,
+      "change_pct": -1.17
     },
     "Oil (WTI)": {
-      "price": 105.52,
-      "change_pct": -0.23
+      "price": 105.58,
+      "change_pct": 0.11
     },
     "Silver": {
-      "price": 74.29,
-      "change_pct": -0.38
+      "price": 73.67,
+      "change_pct": -1.52
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77135,
-      "change_pct": 2.04
+      "price": 77417,
+      "change_pct": 1.8
     },
     "ETH": {
-      "price": 2284.44,
-      "change_pct": 1.81
+      "price": 2286.14,
+      "change_pct": 1.3
     },
     "SOL": {
-      "price": 84.1,
-      "change_pct": 1.87
+      "price": 84.14,
+      "change_pct": 1.07
     },
     "BNB": {
-      "price": 617.96,
-      "change_pct": 0.4
+      "price": 618.92,
+      "change_pct": 0.33
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Apple revenue guidance tops estimates on booming iPhone, Mac demand"
+      "title": "Oil rises as White House says Iran ceasefire halts 60-day war deadline"
     },
     {
       "source": "CNBC",
-      "title": "Oil rises as White House says Iran ceasefire halts 60-day war deadline"
+      "title": "Apple CEO Tim Cook warns of extended memory crunch. 'We'll look at a range of options'"
     },
     {
       "source": "MarketWatch",
