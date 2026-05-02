@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 02 2026  09:09 PT",
+  "generated_at": "Saturday, May 02 2026  10:13 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78457,
-      "change_pct": -0.12
+      "price": 78417,
+      "change_pct": 0.21
     },
     "ETH": {
-      "price": 2308.56,
-      "change_pct": -0.01
+      "price": 2308.33,
+      "change_pct": 0.21
     },
     "SOL": {
-      "price": 84.01,
-      "change_pct": -0.48
+      "price": 84.08,
+      "change_pct": 0.06
     },
     "BNB": {
-      "price": 618.44,
-      "change_pct": -0.4
+      "price": 618.25,
+      "change_pct": -0.22
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Berkshire annual meeting live: Abel reviews core stock holdings, reiterates Buffett principles"
+      "title": "Warren Buffett tells CNBC it's not the ideal environment to invest Berkshire's record cash hoard"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Spirit Airlines made this critical mistake that drove its demise"
     },
     {
       "source": "MarketWatch",
       "title": "Private credit isn\u2019t safer than banks \u2014 it\u2019s just better at hiding losses"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "These 3 companies are keeping the lights on for AI\u2019s energy demand \u2014 and cashing in"
     }
   ]
 }
