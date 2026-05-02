@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 02 2026  04:46 PT",
+  "generated_at": "Saturday, May 02 2026  06:09 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78132,
-      "change_pct": 1.02
+      "price": 78288,
+      "change_pct": 0.15
     },
     "ETH": {
-      "price": 2301.31,
-      "change_pct": 0.73
+      "price": 2305.46,
+      "change_pct": -0.11
     },
     "SOL": {
-      "price": 83.63,
-      "change_pct": -0.32
+      "price": 83.92,
+      "change_pct": -0.6
     },
     "BNB": {
-      "price": 615.01,
-      "change_pct": -0.52
+      "price": 616.33,
+      "change_pct": -0.62
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Spirit Airlines shuts down after failing to reach a bailout deal, ending discount travel era"
+      "title": "2026 Berkshire Hathaway Annual Shareholder Meeting HP"
     },
     {
       "source": "CNBC",
-      "title": "Exxon Mobil CEO expects higher oil prices due to Iran war: \u2018The market hasn\u2019t seen the full impact\u2019"
+      "title": "Berkshire annual meeting live: Earnings jump, cash hoard grows to record in Greg Abel's first quarterly report"
     },
     {
       "source": "MarketWatch",
-      "title": "Japan just put a \u2018Band-Aid\u2019 on the yen. Why high oil prices could soon rip it off."
+      "title": "Meet the unsinkable U.S. economy \u2014 oil prices are surging, Iran tensions are rising, but it won\u2019t crack"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We\u2019re worried the honey pot will run dry\u2019: Does the Trump administration use my Social Security to fund federal programs?"
+      "title": "EV drivers are taking a victory lap \u2014 right past the gas stations selling $4-a-gallon fuel"
     }
   ]
 }
