@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 02 2026  02:57 PT",
+  "generated_at": "Saturday, May 02 2026  03:56 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78298,
-      "change_pct": 1.38
+      "price": 78242,
+      "change_pct": 1.3
     },
     "ETH": {
-      "price": 2304.89,
-      "change_pct": 1.06
+      "price": 2303.67,
+      "change_pct": 1.01
     },
     "SOL": {
-      "price": 84.01,
-      "change_pct": 0.11
+      "price": 83.91,
+      "change_pct": 0.03
     },
     "BNB": {
-      "price": 615.57,
+      "price": 615.66,
       "change_pct": -0.19
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Spirit Airlines begins orderly wind-down after failing to reach deal for bailout lifeline"
+      "title": "Spirit Airlines shuts down after failing to reach a bailout deal, ending discount travel era"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The numbers don\u2019t lie\u2019: If I had invested my Social Security in the S&P 500 I\u2019d have $4 million. Is the system broken?"
+      "title": "\u2018There is an imbalance of power\u2019: My husband has cancer. Why must we wait two hours for a 10-minute CT scan?"
     },
     {
       "source": "MarketWatch",
-      "title": "Apple just gave a clue that a big AI acquisition may be in the cards"
+      "title": "\u2018The numbers don\u2019t lie\u2019: If I had invested my Social Security in the S&P 500 I\u2019d have $4 million. Is the system broken?"
     }
   ]
 }
