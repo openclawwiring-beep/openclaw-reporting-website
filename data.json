@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 02 2026  08:25 PT",
+  "generated_at": "Saturday, May 02 2026  09:09 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78364,
-      "change_pct": -0.21
+      "price": 78457,
+      "change_pct": -0.12
     },
     "ETH": {
-      "price": 2306.28,
-      "change_pct": -0.16
+      "price": 2308.56,
+      "change_pct": -0.01
     },
     "SOL": {
-      "price": 83.95,
-      "change_pct": -0.5
+      "price": 84.01,
+      "change_pct": -0.48
     },
     "BNB": {
-      "price": 617.45,
-      "change_pct": -0.58
+      "price": 618.44,
+      "change_pct": -0.4
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Berkshire annual meeting live: Warren Buffett's 'jersey' raised to the rafters in Omaha to honor retirement"
+      "title": "Berkshire annual meeting live: Abel reviews core stock holdings, reiterates Buffett principles"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Why do Americans think we can do socialism?\u2019 asks hedge-fund manager Ken Griffin"
+      "title": "Private credit isn\u2019t safer than banks \u2014 it\u2019s just better at hiding losses"
     },
     {
       "source": "MarketWatch",
-      "title": "No kids, no care: Solo agers are hiring professional \u2018next-of-kin\u2019 for major life decisions"
+      "title": "These 3 companies are keeping the lights on for AI\u2019s energy demand \u2014 and cashing in"
     }
   ]
 }
