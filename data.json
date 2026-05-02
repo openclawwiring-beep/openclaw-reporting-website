@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 02 2026  12:34 PT",
+  "generated_at": "Saturday, May 02 2026  13:40 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78444,
-      "change_pct": 0.13
+      "price": 78447,
+      "change_pct": 0.47
     },
     "ETH": {
-      "price": 2310.29,
-      "change_pct": 0.24
+      "price": 2310.55,
+      "change_pct": 0.59
     },
     "SOL": {
       "price": 84.18,
-      "change_pct": 0.29
+      "change_pct": 0.52
     },
     "BNB": {
-      "price": 618.3,
-      "change_pct": -0.23
+      "price": 618.54,
+      "change_pct": 0.12
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "These financial adviser fees pinch your portfolio \u2014 and 2 questions can stop them"
+      "title": "\u2018There is an imbalance of power\u2019: My husband has cancer. Why must we wait two hours for a 10-minute CT scan?"
     },
     {
       "source": "MarketWatch",
-      "title": "Higher inflation is on the way. The Fed needs to make this clear before it raises rates."
+      "title": "These financial adviser fees pinch your portfolio \u2014 and 2 questions can stop them"
     }
   ]
 }
