@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 02 2026  07:29 PT",
+  "generated_at": "Saturday, May 02 2026  08:25 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78399,
-      "change_pct": 0.18
+      "price": 78364,
+      "change_pct": -0.21
     },
     "ETH": {
-      "price": 2306.02,
-      "change_pct": -0.17
+      "price": 2306.28,
+      "change_pct": -0.16
     },
     "SOL": {
-      "price": 83.99,
-      "change_pct": -0.42
+      "price": 83.95,
+      "change_pct": -0.5
     },
     "BNB": {
-      "price": 617.24,
-      "change_pct": -0.57
+      "price": 617.45,
+      "change_pct": -0.58
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Become a \u2018lazy\u2019 millionaire: This one habit can add a 20% bonus to your retirement"
+      "title": "\u2018Why do Americans think we can do socialism?\u2019 asks hedge-fund manager Ken Griffin"
     },
     {
       "source": "MarketWatch",
-      "title": "Google is now a glorified venture-capital fund thanks to its SpaceX and Anthropic stakes"
+      "title": "No kids, no care: Solo agers are hiring professional \u2018next-of-kin\u2019 for major life decisions"
     }
   ]
 }
