@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, May 01 2026  21:39 PT",
+  "generated_at": "Saturday, May 02 2026  00:00 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78256,
-      "change_pct": 1.61
+      "price": 78302,
+      "change_pct": 1.65
     },
     "ETH": {
-      "price": 2302.45,
-      "change_pct": 1.05
+      "price": 2304.18,
+      "change_pct": 1.13
     },
     "SOL": {
-      "price": 83.67,
-      "change_pct": -0.09
+      "price": 83.77,
+      "change_pct": -0.08
     },
     "BNB": {
-      "price": 614.9,
-      "change_pct": -0.34
+      "price": 615.96,
+      "change_pct": -0.12
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Exxon Mobil CEO expects higher oil prices due to Iran war: \u2018The market hasn\u2019t seen the full impact\u2019"
+      "title": "Spirit Airlines begins orderly wind-down after failing to reach deal for bailout lifeline"
     },
     {
       "source": "CNBC",
-      "title": "Spirit Airlines prepares to shut down after failing to reach deal for bailout lifeline"
+      "title": "Exxon Mobil CEO expects higher oil prices due to Iran war: \u2018The market hasn\u2019t seen the full impact\u2019"
     },
     {
       "source": "MarketWatch",
