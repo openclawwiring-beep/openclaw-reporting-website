@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 02 2026  10:13 PT",
+  "generated_at": "Saturday, May 02 2026  11:09 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78417,
-      "change_pct": 0.21
+      "price": 78331,
+      "change_pct": -0.23
     },
     "ETH": {
-      "price": 2308.33,
-      "change_pct": 0.21
+      "price": 2304.67,
+      "change_pct": -0.2
     },
     "SOL": {
-      "price": 84.08,
-      "change_pct": 0.06
+      "price": 83.96,
+      "change_pct": -0.22
     },
     "BNB": {
-      "price": 618.25,
-      "change_pct": -0.22
+      "price": 617.88,
+      "change_pct": -0.39
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Warren Buffett tells CNBC it's not the ideal environment to invest Berkshire's record cash hoard"
+      "title": "Berkshire annual meeting live: Buffett says investing environment not ideal, sees 'gambling' in markets"
     },
     {
       "source": "MarketWatch",
-      "title": "Spirit Airlines made this critical mistake that drove its demise"
+      "title": "These financial adviser fees pinch your portfolio \u2014 and 2 questions can stop them"
     },
     {
       "source": "MarketWatch",
-      "title": "Private credit isn\u2019t safer than banks \u2014 it\u2019s just better at hiding losses"
+      "title": "Higher inflation is on the way. The Fed needs to make this clear before it raises rates."
     }
   ]
 }
