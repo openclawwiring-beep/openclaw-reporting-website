@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 02 2026  15:40 PT",
+  "generated_at": "Saturday, May 02 2026  16:41 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78666,
-      "change_pct": 0.53
+      "price": 78698,
+      "change_pct": 0.74
     },
     "ETH": {
-      "price": 2321.89,
-      "change_pct": 1.19
+      "price": 2317.73,
+      "change_pct": 1.09
     },
     "SOL": {
-      "price": 84.3,
-      "change_pct": 0.71
+      "price": 84.38,
+      "change_pct": 0.82
     },
     "BNB": {
-      "price": 618.74,
-      "change_pct": 0.31
+      "price": 618.43,
+      "change_pct": 0.53
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "'Godspeed my friend': Inside the final hours at Spirit Airlines"
+      "title": "'Godspeed my friend': Inside the final hours of Spirit Airlines"
     },
     {
       "source": "MarketWatch",
