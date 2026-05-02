@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 02 2026  06:09 PT",
+  "generated_at": "Saturday, May 02 2026  07:29 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78288,
-      "change_pct": 0.15
+      "price": 78399,
+      "change_pct": 0.18
     },
     "ETH": {
-      "price": 2305.46,
-      "change_pct": -0.11
+      "price": 2306.02,
+      "change_pct": -0.17
     },
     "SOL": {
-      "price": 83.92,
-      "change_pct": -0.6
+      "price": 83.99,
+      "change_pct": -0.42
     },
     "BNB": {
-      "price": 616.33,
-      "change_pct": -0.62
+      "price": 617.24,
+      "change_pct": -0.57
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Berkshire annual meeting live: Earnings jump, cash hoard grows to record in Greg Abel's first quarterly report"
+      "title": "Berkshire annual meeting live: Warren Buffett's 'jersey' raised to the rafters in Omaha to honor retirement"
     },
     {
       "source": "MarketWatch",
-      "title": "Meet the unsinkable U.S. economy \u2014 oil prices are surging, Iran tensions are rising, but it won\u2019t crack"
+      "title": "Become a \u2018lazy\u2019 millionaire: This one habit can add a 20% bonus to your retirement"
     },
     {
       "source": "MarketWatch",
-      "title": "EV drivers are taking a victory lap \u2014 right past the gas stations selling $4-a-gallon fuel"
+      "title": "Google is now a glorified venture-capital fund thanks to its SpaceX and Anthropic stakes"
     }
   ]
 }
