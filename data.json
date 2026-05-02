@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 02 2026  01:48 PT",
+  "generated_at": "Saturday, May 02 2026  02:57 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78308,
-      "change_pct": 1.26
+      "price": 78298,
+      "change_pct": 1.38
     },
     "ETH": {
-      "price": 2303.24,
-      "change_pct": 0.85
+      "price": 2304.89,
+      "change_pct": 1.06
     },
     "SOL": {
-      "price": 83.8,
-      "change_pct": -0.38
+      "price": 84.01,
+      "change_pct": 0.11
     },
     "BNB": {
-      "price": 615.75,
-      "change_pct": -0.36
+      "price": 615.57,
+      "change_pct": -0.19
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Apple just gave a clue that a big AI acquisition may be in the cards"
+      "title": "\u2018The numbers don\u2019t lie\u2019: If I had invested my Social Security in the S&P 500 I\u2019d have $4 million. Is the system broken?"
     },
     {
       "source": "MarketWatch",
-      "title": "GameStop is hungry for relevance. Is buying eBay the answer?"
+      "title": "Apple just gave a clue that a big AI acquisition may be in the cards"
     }
   ]
 }
