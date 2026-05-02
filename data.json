@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 02 2026  11:09 PT",
+  "generated_at": "Saturday, May 02 2026  12:34 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78331,
-      "change_pct": -0.23
+      "price": 78444,
+      "change_pct": 0.13
     },
     "ETH": {
-      "price": 2304.67,
-      "change_pct": -0.2
+      "price": 2310.29,
+      "change_pct": 0.24
     },
     "SOL": {
-      "price": 83.96,
-      "change_pct": -0.22
+      "price": 84.18,
+      "change_pct": 0.29
     },
     "BNB": {
-      "price": 617.88,
-      "change_pct": -0.39
+      "price": 618.3,
+      "change_pct": -0.23
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "2026 Berkshire Hathaway Annual Shareholder Meeting HP"
+      "title": "Berkshire annual meeting recap: Buffett says investing environment not ideal, sees 'gambling' in markets"
     },
     {
       "source": "CNBC",
-      "title": "Berkshire annual meeting live: Buffett says investing environment not ideal, sees 'gambling' in markets"
+      "title": "Spirit Airlines shuts down after failing to reach a bailout deal, ending discount travel era"
     },
     {
       "source": "MarketWatch",
