@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 02 2026  13:40 PT",
+  "generated_at": "Saturday, May 02 2026  14:39 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78447,
-      "change_pct": 0.47
+      "price": 78862,
+      "change_pct": 0.98
     },
     "ETH": {
-      "price": 2310.55,
-      "change_pct": 0.59
+      "price": 2321.49,
+      "change_pct": 1.31
     },
     "SOL": {
-      "price": 84.18,
-      "change_pct": 0.52
+      "price": 84.59,
+      "change_pct": 1.06
     },
     "BNB": {
-      "price": 618.54,
-      "change_pct": 0.12
+      "price": 620.31,
+      "change_pct": 0.5
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018There is an imbalance of power\u2019: My husband has cancer. Why must we wait two hours for a 10-minute CT scan?"
+      "title": "\u2018The numbers don\u2019t lie\u2019: If I had invested my Social Security in the S&P 500 I\u2019d have $4 million. Is the system broken?"
     },
     {
       "source": "MarketWatch",
-      "title": "These financial adviser fees pinch your portfolio \u2014 and 2 questions can stop them"
+      "title": "\u2018We\u2019re all worried the honey pot will run dry\u2019: Does the U.S. government borrow from my Social Security to fund federal programs?"
     }
   ]
 }
