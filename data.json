@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 02 2026  14:39 PT",
+  "generated_at": "Saturday, May 02 2026  15:40 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78862,
-      "change_pct": 0.98
+      "price": 78666,
+      "change_pct": 0.53
     },
     "ETH": {
-      "price": 2321.49,
-      "change_pct": 1.31
+      "price": 2321.89,
+      "change_pct": 1.19
     },
     "SOL": {
-      "price": 84.59,
-      "change_pct": 1.06
+      "price": 84.3,
+      "change_pct": 0.71
     },
     "BNB": {
-      "price": 620.31,
-      "change_pct": 0.5
+      "price": 618.74,
+      "change_pct": 0.31
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Spirit Airlines shuts down after failing to reach a bailout deal, ending discount travel era"
+      "title": "'Godspeed my friend': Inside the final hours at Spirit Airlines"
     },
     {
       "source": "MarketWatch",
