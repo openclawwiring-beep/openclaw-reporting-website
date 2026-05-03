@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 03 2026  15:40 PT",
+  "generated_at": "Sunday, May 03 2026  16:43 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4632.2,
-      "change_pct": -0.26
+      "price": 4629.3,
+      "change_pct": -0.33
     },
     "Oil (WTI)": {
-      "price": 101.26,
-      "change_pct": -0.67
+      "price": 101.45,
+      "change_pct": -0.48
     },
     "Silver": {
-      "price": 76.25,
-      "change_pct": -0.23
+      "price": 76.31,
+      "change_pct": -0.16
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79122,
-      "change_pct": 0.58
+      "price": 78636,
+      "change_pct": -0.07
     },
     "ETH": {
-      "price": 2339.1,
-      "change_pct": 0.74
+      "price": 2326.69,
+      "change_pct": 0.38
     },
     "SOL": {
-      "price": 84.56,
-      "change_pct": 0.31
+      "price": 84.05,
+      "change_pct": -0.37
     },
     "BNB": {
-      "price": 620.25,
-      "change_pct": 0.25
+      "price": 617.84,
+      "change_pct": -0.05
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. stock futures rise, oil falls as Trump touts new plan to partially reopen Strait of Hormuz"
+      "title": "U.S. stock futures mixed, oil falls as Trump touts new plan to partially reopen Strait of Hormuz"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The numbers don\u2019t lie\u2019: If I had invested my Social Security in the S&P 500 I\u2019d have $4 million. Is the system broken?"
+      "title": "GameStop is hungry for relevance. Is buying eBay the answer?"
     }
   ]
 }
