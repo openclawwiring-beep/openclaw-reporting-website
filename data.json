@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 03 2026  08:12 PT",
+  "generated_at": "Sunday, May 03 2026  09:08 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78751,
-      "change_pct": 0.42
+      "price": 78655,
+      "change_pct": 0.19
     },
     "ETH": {
-      "price": 2328.32,
-      "change_pct": 0.91
+      "price": 2328.5,
+      "change_pct": 0.81
     },
     "SOL": {
-      "price": 84.3,
-      "change_pct": 0.39
+      "price": 84.11,
+      "change_pct": 0.12
     },
     "BNB": {
-      "price": 619.72,
-      "change_pct": 0.39
+      "price": 619.77,
+      "change_pct": 0.21
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "'Godspeed my friend': Inside the final hours of Spirit Airlines"
+      "title": "U.S. crude oil exports surge to record as tankers flock to Gulf Coast during Iran war"
     },
     {
       "source": "CNBC",
-      "title": "U.S. crude oil exports surge to record as tankers flock to Gulf Coast during Iran war"
+      "title": "Pirro reveals new Trump attack evidence; Cole Allen challenges 'suicide precautions'"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The market is riding high on an AI spending boom \u2014 but what could crack this rally?"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018I\u2019m not interested in long-term care insurance\u2019: I\u2019d like to retire at 55. How much will I have to pay for healthcare?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "S&P 500 profits haven\u2019t been this rich in at least 15 years \u2014 but there\u2019s more to the story"
     }
   ]
 }
