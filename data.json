@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 03 2026  11:09 PT",
+  "generated_at": "Sunday, May 03 2026  12:33 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -36,19 +36,19 @@
   "crypto": {
     "BTC": {
       "price": 78671,
-      "change_pct": 0.44
+      "change_pct": 0.29
     },
     "ETH": {
-      "price": 2329.9,
-      "change_pct": 1.07
+      "price": 2328.45,
+      "change_pct": 0.78
     },
     "SOL": {
-      "price": 84.13,
-      "change_pct": 0.17
+      "price": 84.26,
+      "change_pct": 0.08
     },
     "BNB": {
-      "price": 619.52,
-      "change_pct": 0.25
+      "price": 619.06,
+      "change_pct": 0.12
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Pirro reveals new Trump attack evidence; Cole Allen challenges 'suicide precautions'"
+      "title": "Pirro reveals new Trump attack evidence; Cole Allen removed from 'suicide precautions'"
     },
     {
       "source": "MarketWatch",
