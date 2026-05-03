@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 03 2026  14:40 PT",
+  "generated_at": "Sunday, May 03 2026  15:40 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4644.5,
-      "change_pct": 0.13
+      "price": 4632.2,
+      "change_pct": -0.26
     },
     "Oil (WTI)": {
-      "price": 101.94,
-      "change_pct": -3.34
+      "price": 101.26,
+      "change_pct": -0.67
     },
     "Silver": {
-      "price": 76.43,
-      "change_pct": 2.18
+      "price": 76.25,
+      "change_pct": -0.23
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78859,
-      "change_pct": 0.12
+      "price": 79122,
+      "change_pct": 0.58
     },
     "ETH": {
-      "price": 2329.51,
-      "change_pct": 0.08
+      "price": 2339.1,
+      "change_pct": 0.74
     },
     "SOL": {
-      "price": 84.33,
-      "change_pct": -0.33
+      "price": 84.56,
+      "change_pct": 0.31
     },
     "BNB": {
-      "price": 619.5,
-      "change_pct": -0.05
+      "price": 620.25,
+      "change_pct": 0.25
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. crude oil exports surge to record as tankers flock to Gulf Coast during Iran war"
+      "title": "Stock futures are little changed as investors monitor latest in U.S.-Iran developments: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Pirro reveals new Trump attack evidence; Cole Allen removed from 'suicide precautions'"
+      "title": "Trump says U.S. will 'free' ships trapped in Persian Gulf by Strait of Hormuz closure"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We are old school\u2019: I\u2019ve been married for 40 years. Should I have kept my money separate?"
+      "title": "U.S. stock futures rise, oil falls as Trump touts new plan to partially reopen Strait of Hormuz"
     },
     {
       "source": "MarketWatch",
-      "title": "Become a \u2018lazy\u2019 millionaire: This one habit can add a 20% bonus to your retirement"
+      "title": "\u2018The numbers don\u2019t lie\u2019: If I had invested my Social Security in the S&P 500 I\u2019d have $4 million. Is the system broken?"
     }
   ]
 }
