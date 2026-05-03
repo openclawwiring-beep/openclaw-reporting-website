@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 03 2026  13:41 PT",
+  "generated_at": "Sunday, May 03 2026  14:40 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79046,
-      "change_pct": 0.77
+      "price": 78859,
+      "change_pct": 0.12
     },
     "ETH": {
-      "price": 2339.06,
-      "change_pct": 1.23
+      "price": 2329.51,
+      "change_pct": 0.08
     },
     "SOL": {
-      "price": 84.54,
-      "change_pct": 0.42
+      "price": 84.33,
+      "change_pct": -0.33
     },
     "BNB": {
-      "price": 620.24,
-      "change_pct": 0.27
+      "price": 619.5,
+      "change_pct": -0.05
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Become a \u2018lazy\u2019 millionaire: This one habit can add a 20% bonus to your retirement"
+      "title": "\u2018We are old school\u2019: I\u2019ve been married for 40 years. Should I have kept my money separate?"
     },
     {
       "source": "MarketWatch",
-      "title": "OPEC+ announces modest boost in oil production. But here\u2019s why it\u2019s a mostly symbolic move."
+      "title": "Become a \u2018lazy\u2019 millionaire: This one habit can add a 20% bonus to your retirement"
     }
   ]
 }
