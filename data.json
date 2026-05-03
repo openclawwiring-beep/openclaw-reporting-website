@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 03 2026  12:33 PT",
+  "generated_at": "Sunday, May 03 2026  13:41 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78671,
-      "change_pct": 0.29
+      "price": 79046,
+      "change_pct": 0.77
     },
     "ETH": {
-      "price": 2328.45,
-      "change_pct": 0.78
+      "price": 2339.06,
+      "change_pct": 1.23
     },
     "SOL": {
-      "price": 84.26,
-      "change_pct": 0.08
+      "price": 84.54,
+      "change_pct": 0.42
     },
     "BNB": {
-      "price": 619.06,
-      "change_pct": 0.12
+      "price": 620.24,
+      "change_pct": 0.27
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The market is riding high on an AI spending boom \u2014 but what could crack this rally?"
+      "title": "Become a \u2018lazy\u2019 millionaire: This one habit can add a 20% bonus to your retirement"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m not interested in long-term care insurance\u2019: I\u2019d like to retire at 55. How much will I have to pay for healthcare?"
+      "title": "OPEC+ announces modest boost in oil production. But here\u2019s why it\u2019s a mostly symbolic move."
     }
   ]
 }
