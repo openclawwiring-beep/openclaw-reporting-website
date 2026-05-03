@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 03 2026  03:54 PT",
+  "generated_at": "Sunday, May 03 2026  04:41 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78401,
-      "change_pct": 0.2
+      "price": 78541,
+      "change_pct": 0.53
     },
     "ETH": {
-      "price": 2312.11,
-      "change_pct": 0.37
+      "price": 2318.14,
+      "change_pct": 0.74
     },
     "SOL": {
-      "price": 83.86,
-      "change_pct": -0.06
+      "price": 83.95,
+      "change_pct": 0.38
     },
     "BNB": {
-      "price": 617.8,
-      "change_pct": 0.35
+      "price": 618.86,
+      "change_pct": 0.62
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Berkshire annual meeting recap: Buffett says investing environment not ideal, sees 'gambling' in markets"
+      "title": "'Godspeed my friend': Inside the final hours of Spirit Airlines"
     },
     {
       "source": "CNBC",
-      "title": "'Godspeed my friend': Inside the final hours of Spirit Airlines"
+      "title": "U.S. crude oil exports surge to record as tankers flock to Gulf Coast during Iran war"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018There is an imbalance of power\u2019: My husband has cancer. Why must we wait two hours for a 10-minute CT scan?"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018The numbers don\u2019t lie\u2019: If I had invested my Social Security in the S&P 500 I\u2019d have $4 million. Is the system broken?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018We\u2019re all worried the honey pot will run dry\u2019: Does the U.S. government borrow from my Social Security to fund federal programs?"
     }
   ]
 }
