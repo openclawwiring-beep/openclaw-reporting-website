@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 03 2026  06:08 PT",
+  "generated_at": "Sunday, May 03 2026  07:28 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78718,
-      "change_pct": 0.55
+      "price": 78645,
+      "change_pct": 0.31
     },
     "ETH": {
-      "price": 2325.92,
-      "change_pct": 0.89
+      "price": 2323.23,
+      "change_pct": 0.76
     },
     "SOL": {
-      "price": 84.08,
-      "change_pct": 0.2
+      "price": 84.23,
+      "change_pct": 0.31
     },
     "BNB": {
-      "price": 619.0,
-      "change_pct": 0.44
+      "price": 619.26,
+      "change_pct": 0.34
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I hope to retire early\u2019: I\u2019m 56 and have 80% in a traditional IRA and 20% in a Roth. Am I in trouble?"
+      "title": "S&P 500 profits haven\u2019t been this rich in at least 15 years \u2014 but there\u2019s more to the story"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018There is an imbalance of power\u2019: My husband has cancer. Why must we wait two hours for a 10-minute CT scan?"
+      "title": "\u2018The numbers don\u2019t lie\u2019: If I had invested my Social Security in the S&P 500 I\u2019d have $4 million. Is the system broken?"
     }
   ]
 }
