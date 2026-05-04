@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, May 04 2026  13:46 PT",
+  "generated_at": "Monday, May 04 2026  14:59 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4526.4,
-      "change_pct": -2.19
+      "price": 4532.4,
+      "change_pct": -2.06
     },
     "Oil (WTI)": {
-      "price": 105.0,
-      "change_pct": 3.05
+      "price": 105.14,
+      "change_pct": 3.19
     },
     "Silver": {
-      "price": 73.14,
-      "change_pct": -4.14
+      "price": 73.16,
+      "change_pct": -4.1
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79902,
-      "change_pct": 1.31
+      "price": 80246,
+      "change_pct": 1.86
     },
     "ETH": {
-      "price": 2348.66,
-      "change_pct": 0.75
+      "price": 2360.88,
+      "change_pct": 1.64
     },
     "SOL": {
-      "price": 84.08,
-      "change_pct": -0.46
+      "price": 84.4,
+      "change_pct": 0.43
     },
     "BNB": {
-      "price": 622.78,
-      "change_pct": 0.49
+      "price": 625.01,
+      "change_pct": 1.02
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Pirro abandons plan to appeal Powell subpoenas in Fed investigation"
+      "title": "Pirro changes course in Fed investigation, move unlikely to satisfy Powell"
     },
     {
       "source": "MarketWatch",
-      "title": "5 charts that explain why this \u2018teflon market\u2019 remains so resilient"
+      "title": "Here\u2019s what the growing gap between Americans with good and bad credit says about the economy"
     },
     {
       "source": "MarketWatch",
-      "title": "Palantir posts its fastest revenue growth ever while calling out \u2018AI slop\u2019"
+      "title": "Why this bullish stock-market timer is about to flip to bearish"
     }
   ]
 }
