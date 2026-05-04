@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, May 04 2026  14:59 PT",
+  "generated_at": "Monday, May 04 2026  16:03 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4532.4,
-      "change_pct": -2.06
+      "price": 4524.9,
+      "change_pct": -2.22
     },
     "Oil (WTI)": {
-      "price": 105.14,
-      "change_pct": 3.19
+      "price": 104.97,
+      "change_pct": 3.02
     },
     "Silver": {
-      "price": 73.16,
-      "change_pct": -4.1
+      "price": 73.05,
+      "change_pct": -4.25
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80246,
-      "change_pct": 1.86
+      "price": 79997,
+      "change_pct": 0.95
     },
     "ETH": {
-      "price": 2360.88,
-      "change_pct": 1.64
+      "price": 2351.85,
+      "change_pct": 0.3
     },
     "SOL": {
-      "price": 84.4,
-      "change_pct": 0.43
+      "price": 84.15,
+      "change_pct": -0.67
     },
     "BNB": {
-      "price": 625.01,
-      "change_pct": 1.02
+      "price": 624.02,
+      "change_pct": 0.35
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s what the growing gap between Americans with good and bad credit says about the economy"
+      "title": "Here\u2019s just how quickly Micron has risen up the ranks of the top U.S companies"
     },
     {
       "source": "MarketWatch",
-      "title": "Why this bullish stock-market timer is about to flip to bearish"
+      "title": "\u2018He is constantly criticizing her\u2019: My son-in-law told my daughter to give up her job. Do I intervene?"
     }
   ]
 }
