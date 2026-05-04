@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, May 03 2026  19:47 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Sunday, May 03 2026  23:12 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7230.12,
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4608.3,
-      "change_pct": -0.78
+      "price": 4607.0,
+      "change_pct": -0.45
     },
     "Oil (WTI)": {
-      "price": 101.79,
-      "change_pct": -0.69
+      "price": 100.89,
+      "change_pct": -0.98
     },
     "Silver": {
-      "price": 75.81,
-      "change_pct": -0.82
+      "price": 75.62,
+      "change_pct": -0.88
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80139,
-      "change_pct": 2.57
+      "price": 79929,
+      "change_pct": 2.28
     },
     "ETH": {
-      "price": 2379.76,
-      "change_pct": 3.38
+      "price": 2371.95,
+      "change_pct": 3.07
     },
     "SOL": {
-      "price": 85.47,
-      "change_pct": 2.17
+      "price": 85.26,
+      "change_pct": 1.89
     },
     "BNB": {
-      "price": 625.85,
-      "change_pct": 1.67
+      "price": 632.95,
+      "change_pct": 2.79
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures are little changed as investors monitor latest in U.S.-Iran developments: Live updates"
+      "title": "Meme stock GameStop makes $56 billion offer for eBay in bid to rival Amazon"
     },
     {
       "source": "CNBC",
-      "title": "Oil prices fall in choppy trade as Trump plans to 'free' ships stranded due to Mideast conflict"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "GameStop is hungry for relevance. Is buying eBay the answer?"
+      "title": "Rudy Giuliani, former New York mayor and Trump lawyer, hospitalized in critical condition"
     },
     {
       "source": "MarketWatch",
       "title": "Investors appear skeptical as Trump touts new plan to partially reopen Strait of Hormuz"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "GameStop is hungry for relevance. Is buying eBay the answer?"
     }
   ]
 }
