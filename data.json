@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 03 2026  16:43 PT",
+  "generated_at": "Sunday, May 03 2026  19:47 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4629.3,
-      "change_pct": -0.33
+      "price": 4608.3,
+      "change_pct": -0.78
     },
     "Oil (WTI)": {
-      "price": 101.45,
-      "change_pct": -0.48
+      "price": 101.79,
+      "change_pct": -0.69
     },
     "Silver": {
-      "price": 76.31,
-      "change_pct": -0.16
+      "price": 75.81,
+      "change_pct": -0.82
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78636,
-      "change_pct": -0.07
+      "price": 80139,
+      "change_pct": 2.57
     },
     "ETH": {
-      "price": 2326.69,
-      "change_pct": 0.38
+      "price": 2379.76,
+      "change_pct": 3.38
     },
     "SOL": {
-      "price": 84.05,
-      "change_pct": -0.37
+      "price": 85.47,
+      "change_pct": 2.17
     },
     "BNB": {
-      "price": 617.84,
-      "change_pct": -0.05
+      "price": 625.85,
+      "change_pct": 1.67
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump says U.S. will 'free' ships trapped in Persian Gulf by Strait of Hormuz closure"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "U.S. stock futures mixed, oil falls as Trump touts new plan to partially reopen Strait of Hormuz"
+      "title": "Oil prices fall in choppy trade as Trump plans to 'free' ships stranded due to Mideast conflict"
     },
     {
       "source": "MarketWatch",
       "title": "GameStop is hungry for relevance. Is buying eBay the answer?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Investors appear skeptical as Trump touts new plan to partially reopen Strait of Hormuz"
     }
   ]
 }
