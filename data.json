@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, May 04 2026  16:03 PT",
+  "generated_at": "Monday, May 04 2026  18:10 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4524.9,
-      "change_pct": -2.22
+      "price": 4535.1,
+      "change_pct": -2.0
     },
     "Oil (WTI)": {
       "price": 104.97,
       "change_pct": 3.02
     },
     "Silver": {
-      "price": 73.05,
-      "change_pct": -4.25
+      "price": 73.07,
+      "change_pct": -4.22
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79997,
-      "change_pct": 0.95
+      "price": 80158,
+      "change_pct": 2.2
     },
     "ETH": {
-      "price": 2351.85,
-      "change_pct": 0.3
+      "price": 2358.65,
+      "change_pct": 1.86
     },
     "SOL": {
-      "price": 84.15,
-      "change_pct": -0.67
+      "price": 84.3,
+      "change_pct": 0.78
     },
     "BNB": {
-      "price": 624.02,
-      "change_pct": 0.35
+      "price": 624.9,
+      "change_pct": 1.29
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s just how quickly Micron has risen up the ranks of the top U.S companies"
+      "title": "\u2018If all six have hantavirus, that\u2019s very worrisome\u2019: This is the key question about the cruise-ship outbreak"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018He is constantly criticizing her\u2019: My son-in-law told my daughter to give up her job. Do I intervene?"
+      "title": "Palantir posts its fastest revenue growth ever while calling out \u2018AI slop\u2019"
     }
   ]
 }
