@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, May 05 2026  05:46 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, May 05 2026  10:03 PT",
+  "market_status": "Live \u2014 as of 13:03 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7200.75,
-      "change_pct": -0.41
+      "price": 7258.52,
+      "change_pct": 0.79
     },
     "Nasdaq": {
-      "price": 25067.8,
-      "change_pct": -0.19
+      "price": 25301.11,
+      "change_pct": 0.93
     },
     "Dow Jones": {
-      "price": 48941.9,
-      "change_pct": -1.13
+      "price": 49197.55,
+      "change_pct": 0.5
     },
     "Russell 2000": {
-      "price": 2796.0,
-      "change_pct": -0.6
+      "price": 2840.28,
+      "change_pct": 1.6
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4580.0,
-      "change_pct": 0.78
+      "price": 4570.4,
+      "change_pct": 0.57
     },
     "Oil (WTI)": {
-      "price": 102.89,
-      "change_pct": -1.44
+      "price": 102.19,
+      "change_pct": -2.11
     },
     "Silver": {
-      "price": 74.07,
-      "change_pct": 1.31
+      "price": 73.61,
+      "change_pct": 0.67
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81289,
-      "change_pct": 2.95
+      "price": 81253,
+      "change_pct": 1.33
     },
     "ETH": {
-      "price": 2388.73,
-      "change_pct": 2.07
+      "price": 2364.86,
+      "change_pct": 0.23
     },
     "SOL": {
-      "price": 85.2,
-      "change_pct": 1.4
+      "price": 85.26,
+      "change_pct": 0.71
     },
     "BNB": {
-      "price": 630.11,
-      "change_pct": 1.16
+      "price": 629.13,
+      "change_pct": 0.4
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures gain after oil pullback, strong earnings: Live updates"
+      "title": "Intel soars 14% on report of Apple chip talks, hits new all-time high"
     },
     {
       "source": "CNBC",
-      "title": "Michael Burry sells GameStop after Ryan Cohen's hefty eBay bid: 'Never confuse debt for creativity'"
+      "title": "Microsoft Xbox CEO overhauls leadership amid sinking sales: 'We need to evolve how we work'"
     },
     {
       "source": "MarketWatch",
-      "title": "Coinbase will lay off 14% of its staff as AI spurs \u2018a new way of working\u2019"
+      "title": "Here\u2019s how I turned my kids into \u2018thousandaires\u2019 managing their own money by their 18th birthdays"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Like 10 Manhattan Projects going off all at once\u2019: AI is rewiring the entire global economy, says this BlackRock exec"
+      "title": "We are retirees. Are we too old to take out a mortgage in Pennsylvania so we can escape the Florida heat?"
     }
   ]
 }
