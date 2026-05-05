@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, May 05 2026  13:06 PT",
+  "generated_at": "Tuesday, May 05 2026  14:34 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,18 +15,18 @@
       "change_pct": 0.73
     },
     "Russell 2000": {
-      "price": 2842.12,
-      "change_pct": 1.66
+      "price": 2845.0,
+      "change_pct": 1.75
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4563.2,
-      "change_pct": 0.41
+      "price": 4567.8,
+      "change_pct": 0.51
     },
     "Oil (WTI)": {
-      "price": 102.9,
-      "change_pct": -1.43
+      "price": 102.68,
+      "change_pct": -1.64
     },
     "Silver": {
       "price": 73.26,
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81684,
-      "change_pct": 2.11
+      "price": 81383,
+      "change_pct": 1.43
     },
     "ETH": {
-      "price": 2375.0,
-      "change_pct": 0.87
+      "price": 2373.37,
+      "change_pct": 0.59
     },
     "SOL": {
-      "price": 86.66,
-      "change_pct": 2.81
+      "price": 86.5,
+      "change_pct": 2.59
     },
     "BNB": {
-      "price": 632.25,
-      "change_pct": 1.2
+      "price": 632.12,
+      "change_pct": 1.23
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Spirit starts monthslong process of dismantling airline after biggest collapse in a generation"
+      "title": "AMD tops estimates for first quarter as data center revenue jumps 57%"
     },
     {
       "source": "CNBC",
-      "title": "U.S. says 'Project Freedom' will reopen Hormuz Strait for commerce. Experts are skeptical"
+      "title": "Super Micro stock jumps 19% on guidance beat as revenue more than doubles"
     },
     {
       "source": "MarketWatch",
-      "title": "These are the fastest-growing jobs for new college graduates \u2014 even in this low-hire market"
+      "title": "Upstart\u2019s stock is getting punished after earnings. Here\u2019s the big gripe."
     },
     {
       "source": "MarketWatch",
-      "title": "The food inflation crisis will soon be all investors are talking about"
+      "title": "There\u2019s one reason why $200-a-barrel oil can\u2019t be entirely ruled out"
     }
   ]
 }
