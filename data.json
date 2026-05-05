@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, May 04 2026  18:10 PT",
+  "generated_at": "Monday, May 04 2026  21:40 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4535.1,
-      "change_pct": -2.0
+      "price": 4539.7,
+      "change_pct": -0.18
     },
     "Oil (WTI)": {
-      "price": 104.97,
-      "change_pct": 3.02
+      "price": 104.1,
+      "change_pct": -0.34
     },
     "Silver": {
-      "price": 73.07,
-      "change_pct": -4.22
+      "price": 73.25,
+      "change_pct": -0.22
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80158,
-      "change_pct": 2.2
+      "price": 80805,
+      "change_pct": 0.59
     },
     "ETH": {
-      "price": 2358.65,
-      "change_pct": 1.86
+      "price": 2380.92,
+      "change_pct": -0.41
     },
     "SOL": {
-      "price": 84.3,
-      "change_pct": 0.78
+      "price": 84.66,
+      "change_pct": -1.33
     },
     "BNB": {
-      "price": 624.9,
-      "change_pct": 1.29
+      "price": 626.4,
+      "change_pct": -1.43
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran attacks UAE; U.S. says it sank boats in Strait of Hormuz"
+      "title": "HSBC first-quarter pre-tax profit misses estimates on higher expected credit losses"
     },
     {
       "source": "CNBC",
-      "title": "Pirro changes course in Fed investigation, move unlikely to satisfy Powell"
+      "title": "Iran attacks UAE; U.S. says it sank boats in Strait of Hormuz"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Your Spirit loyalty points are probably worthless now \u2014 but these other airlines may match your rewards"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018If all six have hantavirus, that\u2019s very worrisome\u2019: This is the key question about the cruise-ship outbreak"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Palantir posts its fastest revenue growth ever while calling out \u2018AI slop\u2019"
     }
   ]
 }
