@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, May 05 2026  11:53 PT",
-  "market_status": "Live \u2014 as of 14:53 ET",
+  "generated_at": "Tuesday, May 05 2026  13:06 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7265.14,
-      "change_pct": 0.88
+      "price": 7259.22,
+      "change_pct": 0.81
     },
     "Nasdaq": {
-      "price": 25331.52,
-      "change_pct": 1.05
+      "price": 25326.12,
+      "change_pct": 1.03
     },
     "Dow Jones": {
-      "price": 49291.04,
-      "change_pct": 0.69
+      "price": 49298.25,
+      "change_pct": 0.73
     },
     "Russell 2000": {
-      "price": 2842.75,
-      "change_pct": 1.68
+      "price": 2842.12,
+      "change_pct": 1.66
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4571.1,
-      "change_pct": 0.58
+      "price": 4563.2,
+      "change_pct": 0.41
     },
     "Oil (WTI)": {
-      "price": 102.13,
-      "change_pct": -2.16
+      "price": 102.9,
+      "change_pct": -1.43
     },
     "Silver": {
-      "price": 73.61,
-      "change_pct": 0.67
+      "price": 73.26,
+      "change_pct": 0.2
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81517,
-      "change_pct": 1.82
+      "price": 81684,
+      "change_pct": 2.11
     },
     "ETH": {
-      "price": 2373.21,
-      "change_pct": 0.64
+      "price": 2375.0,
+      "change_pct": 0.87
     },
     "SOL": {
-      "price": 85.81,
-      "change_pct": 1.42
+      "price": 86.66,
+      "change_pct": 2.81
     },
     "BNB": {
-      "price": 630.24,
-      "change_pct": 0.74
+      "price": 632.25,
+      "change_pct": 1.2
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Microsoft Xbox CEO overhauls leadership amid sinking sales: 'We need to evolve how we work'"
+      "title": "U.S. says 'Project Freedom' will reopen Hormuz Strait for commerce. Experts are skeptical"
     },
     {
       "source": "MarketWatch",
-      "title": "The last time semiconductor stocks rose this far this quickly, the dot-com bubble burst"
+      "title": "These are the fastest-growing jobs for new college graduates \u2014 even in this low-hire market"
     },
     {
       "source": "MarketWatch",
-      "title": "Nursing homes are in trouble \u2014 and there\u2019s a good chance you\u2019ll end up in one"
+      "title": "The food inflation crisis will soon be all investors are talking about"
     }
   ]
 }
