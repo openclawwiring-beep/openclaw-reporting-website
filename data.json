@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, May 05 2026  15:54 PT",
+  "generated_at": "Tuesday, May 05 2026  16:46 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4559.4,
-      "change_pct": 0.32
+      "price": 4595.0,
+      "change_pct": 1.11
     },
     "Oil (WTI)": {
-      "price": 102.43,
-      "change_pct": -1.88
+      "price": 100.02,
+      "change_pct": -4.19
     },
     "Silver": {
-      "price": 73.18,
-      "change_pct": 0.09
+      "price": 74.25,
+      "change_pct": 1.55
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81049,
-      "change_pct": 1.17
+      "price": 80918,
+      "change_pct": 1.46
     },
     "ETH": {
-      "price": 2362.03,
-      "change_pct": 0.27
+      "price": 2359.68,
+      "change_pct": 0.6
     },
     "SOL": {
-      "price": 86.4,
-      "change_pct": 2.58
+      "price": 86.33,
+      "change_pct": 2.69
     },
     "BNB": {
-      "price": 630.89,
-      "change_pct": 1.04
+      "price": 630.31,
+      "change_pct": 1.19
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "AMD's stock soars 12% as data center growth pushes revenue and guidance past estimates"
+      "title": "Trump pauses U.S. bid to guide ships out of Strait of Hormuz, cites Iran deal progress"
     },
     {
       "source": "CNBC",
-      "title": "Super Micro stock jumps 18% on guidance beat as revenue more than doubles"
+      "title": "AMD's stock soars 15% as data center growth pushes revenue and guidance past estimates"
     },
     {
       "source": "MarketWatch",
-      "title": "Betting on long Treasury bonds when yields near 5% has been a slam-dunk trade over the past few years. Is this time different?"
+      "title": "The last time semiconductor stocks rose this far this quickly, the dot-com bubble burst"
     },
     {
       "source": "MarketWatch",
-      "title": "Cheaper protein shakes are crushing this industry stalwart"
+      "title": "This narrow shipping lane is how Trump now wants oil tankers to navigate the Strait of Hormuz"
     }
   ]
 }
