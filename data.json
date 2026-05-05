@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, May 04 2026  21:40 PT",
+  "generated_at": "Tuesday, May 05 2026  00:16 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4539.7,
-      "change_pct": -0.18
+      "price": 4562.3,
+      "change_pct": 0.39
     },
     "Oil (WTI)": {
-      "price": 104.1,
-      "change_pct": -0.34
+      "price": 104.19,
+      "change_pct": -0.19
     },
     "Silver": {
-      "price": 73.25,
-      "change_pct": -0.22
+      "price": 73.8,
+      "change_pct": 0.93
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80805,
-      "change_pct": 0.59
+      "price": 80984,
+      "change_pct": 1.43
     },
     "ETH": {
-      "price": 2380.92,
-      "change_pct": -0.41
+      "price": 2380.89,
+      "change_pct": 0.43
     },
     "SOL": {
-      "price": 84.66,
-      "change_pct": -1.33
+      "price": 84.9,
+      "change_pct": -0.04
     },
     "BNB": {
-      "price": 626.4,
-      "change_pct": -1.43
+      "price": 627.35,
+      "change_pct": -0.23
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "HSBC first-quarter pre-tax profit misses estimates on higher expected credit losses"
+      "title": "HSBC shares drop as first-quarter pre-tax profit misses estimates on higher expected credit losses"
     },
     {
       "source": "CNBC",
