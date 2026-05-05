@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, May 05 2026  00:16 PT",
+  "generated_at": "Tuesday, May 05 2026  02:26 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4562.3,
-      "change_pct": 0.39
+      "price": 4566.2,
+      "change_pct": 0.47
     },
     "Oil (WTI)": {
-      "price": 104.19,
-      "change_pct": -0.19
+      "price": 104.31,
+      "change_pct": -0.08
     },
     "Silver": {
-      "price": 73.8,
-      "change_pct": 0.93
+      "price": 74.08,
+      "change_pct": 1.31
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80984,
-      "change_pct": 1.43
+      "price": 80597,
+      "change_pct": 1.08
     },
     "ETH": {
-      "price": 2380.89,
-      "change_pct": 0.43
+      "price": 2367.75,
+      "change_pct": 0.22
     },
     "SOL": {
-      "price": 84.9,
-      "change_pct": -0.04
+      "price": 84.53,
+      "change_pct": -0.37
     },
     "BNB": {
-      "price": 627.35,
-      "change_pct": -0.23
+      "price": 626.58,
+      "change_pct": -0.39
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "HSBC shares drop as first-quarter pre-tax profit misses estimates on higher expected credit losses"
+      "title": "Oil prices slide as new attacks in Strait of Hormuz threaten fragile U.S.-Iran ceasefire"
     },
     {
       "source": "CNBC",
-      "title": "Iran attacks UAE; U.S. says it sank boats in Strait of Hormuz"
+      "title": "Pirro changes course in Fed investigation, move unlikely to satisfy Powell"
     },
     {
       "source": "MarketWatch",
-      "title": "Your Spirit loyalty points are probably worthless now \u2014 but these other airlines may match your rewards"
+      "title": "How beleaguered are beer sales? Anheuser-Busch InBev volumes rose 1% and the stock market is delighted"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018If all six have hantavirus, that\u2019s very worrisome\u2019: This is the key question about the cruise-ship outbreak"
+      "title": "Michael Jackson\u2019s Neverland estate in the spotlight with new biopic"
     }
   ]
 }
