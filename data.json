@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, May 05 2026  14:34 PT",
+  "generated_at": "Tuesday, May 05 2026  15:54 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4567.8,
-      "change_pct": 0.51
+      "price": 4559.4,
+      "change_pct": 0.32
     },
     "Oil (WTI)": {
-      "price": 102.68,
-      "change_pct": -1.64
+      "price": 102.43,
+      "change_pct": -1.88
     },
     "Silver": {
-      "price": 73.26,
-      "change_pct": 0.2
+      "price": 73.18,
+      "change_pct": 0.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81383,
-      "change_pct": 1.43
+      "price": 81049,
+      "change_pct": 1.17
     },
     "ETH": {
-      "price": 2373.37,
-      "change_pct": 0.59
+      "price": 2362.03,
+      "change_pct": 0.27
     },
     "SOL": {
-      "price": 86.5,
-      "change_pct": 2.59
+      "price": 86.4,
+      "change_pct": 2.58
     },
     "BNB": {
-      "price": 632.12,
-      "change_pct": 1.23
+      "price": 630.89,
+      "change_pct": 1.04
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "AMD tops estimates for first quarter as data center revenue jumps 57%"
+      "title": "AMD's stock soars 12% as data center growth pushes revenue and guidance past estimates"
     },
     {
       "source": "CNBC",
-      "title": "Super Micro stock jumps 19% on guidance beat as revenue more than doubles"
+      "title": "Super Micro stock jumps 18% on guidance beat as revenue more than doubles"
     },
     {
       "source": "MarketWatch",
-      "title": "Upstart\u2019s stock is getting punished after earnings. Here\u2019s the big gripe."
+      "title": "Betting on long Treasury bonds when yields near 5% has been a slam-dunk trade over the past few years. Is this time different?"
     },
     {
       "source": "MarketWatch",
-      "title": "There\u2019s one reason why $200-a-barrel oil can\u2019t be entirely ruled out"
+      "title": "Cheaper protein shakes are crushing this industry stalwart"
     }
   ]
 }
