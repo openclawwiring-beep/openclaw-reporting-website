@@ -1,32 +1,32 @@
 {
-  "generated_at": "Tuesday, May 05 2026  10:03 PT",
-  "market_status": "Live \u2014 as of 13:03 ET",
+  "generated_at": "Tuesday, May 05 2026  11:53 PT",
+  "market_status": "Live \u2014 as of 14:53 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7258.52,
-      "change_pct": 0.79
+      "price": 7265.14,
+      "change_pct": 0.88
     },
     "Nasdaq": {
-      "price": 25301.11,
-      "change_pct": 0.93
+      "price": 25331.52,
+      "change_pct": 1.05
     },
     "Dow Jones": {
-      "price": 49197.55,
-      "change_pct": 0.5
+      "price": 49291.04,
+      "change_pct": 0.69
     },
     "Russell 2000": {
-      "price": 2840.28,
-      "change_pct": 1.6
+      "price": 2842.75,
+      "change_pct": 1.68
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4570.4,
-      "change_pct": 0.57
+      "price": 4571.1,
+      "change_pct": 0.58
     },
     "Oil (WTI)": {
-      "price": 102.19,
-      "change_pct": -2.11
+      "price": 102.13,
+      "change_pct": -2.16
     },
     "Silver": {
       "price": 73.61,
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81253,
-      "change_pct": 1.33
+      "price": 81517,
+      "change_pct": 1.82
     },
     "ETH": {
-      "price": 2364.86,
-      "change_pct": 0.23
+      "price": 2373.21,
+      "change_pct": 0.64
     },
     "SOL": {
-      "price": 85.26,
-      "change_pct": 0.71
+      "price": 85.81,
+      "change_pct": 1.42
     },
     "BNB": {
-      "price": 629.13,
-      "change_pct": 0.4
+      "price": 630.24,
+      "change_pct": 0.74
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Intel soars 14% on report of Apple chip talks, hits new all-time high"
+      "title": "Spirit starts monthslong process of dismantling airline after biggest collapse in a generation"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s how I turned my kids into \u2018thousandaires\u2019 managing their own money by their 18th birthdays"
+      "title": "The last time semiconductor stocks rose this far this quickly, the dot-com bubble burst"
     },
     {
       "source": "MarketWatch",
-      "title": "We are retirees. Are we too old to take out a mortgage in Pennsylvania so we can escape the Florida heat?"
+      "title": "Nursing homes are in trouble \u2014 and there\u2019s a good chance you\u2019ll end up in one"
     }
   ]
 }
