@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, May 06 2026  13:52 PT",
+  "generated_at": "Wednesday, May 06 2026  14:56 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4700.5,
-      "change_pct": 1.01
+      "price": 4703.1,
+      "change_pct": 1.07
     },
     "Oil (WTI)": {
-      "price": 96.17,
-      "change_pct": -4.34
+      "price": 96.21,
+      "change_pct": -4.3
     },
     "Silver": {
-      "price": 77.97,
-      "change_pct": 2.61
+      "price": 77.82,
+      "change_pct": 2.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81319,
-      "change_pct": -0.37
+      "price": 81588,
+      "change_pct": 0.19
     },
     "ETH": {
-      "price": 2345.7,
-      "change_pct": -1.56
+      "price": 2354.82,
+      "change_pct": -0.89
     },
     "SOL": {
-      "price": 88.95,
-      "change_pct": 2.72
+      "price": 89.51,
+      "change_pct": 3.27
     },
     "BNB": {
-      "price": 647.91,
-      "change_pct": 2.29
+      "price": 650.32,
+      "change_pct": 2.6
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Arm\u2019s stock soars as the company puts a big number on its newest venture"
+      "title": "Restaurants really don\u2019t want to sell fake meat \u2014 and Beyond Meat is suffering"
     },
     {
       "source": "MarketWatch",
-      "title": "This gold-timing indicator just hit a bottom \u2014 and history says a strong rally is next"
+      "title": "Zuckerberg\u2019s \u2018Multi Mark\u2019 AI clone is a huge red flag for Meta shareholders"
     }
   ]
 }
