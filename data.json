@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, May 06 2026  06:12 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, May 06 2026  08:39 PT",
+  "market_status": "Live \u2014 as of 11:39 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7259.22,
-      "change_pct": 0.81
+      "price": 7338.74,
+      "change_pct": 1.09
     },
     "Nasdaq": {
-      "price": 25326.13,
-      "change_pct": 1.03
+      "price": 25683.39,
+      "change_pct": 1.41
     },
     "Dow Jones": {
-      "price": 49298.25,
-      "change_pct": 0.73
+      "price": 49844.58,
+      "change_pct": 1.11
     },
     "Russell 2000": {
-      "price": 2845.0,
-      "change_pct": 1.75
+      "price": 2877.72,
+      "change_pct": 1.15
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4702.3,
-      "change_pct": 1.05
+      "price": 4706.9,
+      "change_pct": 1.15
     },
     "Oil (WTI)": {
-      "price": 95.36,
-      "change_pct": -5.14
+      "price": 95.05,
+      "change_pct": -5.45
     },
     "Silver": {
-      "price": 77.65,
-      "change_pct": 2.2
+      "price": 77.84,
+      "change_pct": 2.44
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82056,
-      "change_pct": 0.54
+      "price": 81606,
+      "change_pct": -0.03
     },
     "ETH": {
-      "price": 2391.98,
-      "change_pct": -0.13
+      "price": 2356.84,
+      "change_pct": -1.2
     },
     "SOL": {
-      "price": 88.85,
-      "change_pct": 3.39
+      "price": 88.67,
+      "change_pct": 3.5
     },
     "BNB": {
-      "price": 654.38,
-      "change_pct": 3.32
+      "price": 648.45,
+      "change_pct": 2.57
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says Iran will be bombed 'at much higher level' if they don't agree to peace deal"
+      "title": "AMD's Su explains what's behind massive forecast change as stock roars 15% on earnings"
     },
     {
       "source": "CNBC",
-      "title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging"
+      "title": "Trump says Iran will be bombed at a 'much higher level' if it doesn't agree to peace deal"
     },
     {
       "source": "MarketWatch",
-      "title": "Why is AMD\u2019s stock up so much? \u2018The world has changed.\u2019"
+      "title": "The Dow is about to exit correction territory, showing the old-school economy\u2019s role in the AI boom"
     },
     {
       "source": "MarketWatch",
-      "title": "The \u2018sugar high\u2019 is over: Why the first sell signal for stocks since 2021 is now flashing, according to this Wall Street bank"
+      "title": "Oil prices bounce off lows as an Iran-war peace deal may be just a \u2018structured pause\u2019"
     }
   ]
 }
