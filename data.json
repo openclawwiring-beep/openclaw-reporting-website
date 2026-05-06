@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, May 05 2026  19:45 PT",
+  "generated_at": "Tuesday, May 05 2026  22:57 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -7,7 +7,7 @@
       "change_pct": 0.81
     },
     "Nasdaq": {
-      "price": 25326.12,
+      "price": 25326.13,
       "change_pct": 1.03
     },
     "Dow Jones": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4643.3,
-      "change_pct": 2.17
+      "price": 4661.5,
+      "change_pct": 0.05
     },
     "Oil (WTI)": {
-      "price": 100.65,
-      "change_pct": -3.58
+      "price": 100.98,
+      "change_pct": 0.53
     },
     "Silver": {
-      "price": 75.17,
-      "change_pct": 2.8
+      "price": 76.28,
+      "change_pct": 0.35
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81189,
-      "change_pct": 0.57
+      "price": 81222,
+      "change_pct": 0.32
     },
     "ETH": {
-      "price": 2363.91,
-      "change_pct": -0.33
+      "price": 2361.85,
+      "change_pct": -0.73
     },
     "SOL": {
-      "price": 86.53,
-      "change_pct": 2.25
+      "price": 87.3,
+      "change_pct": 2.71
     },
     "BNB": {
-      "price": 633.24,
-      "change_pct": 1.19
+      "price": 634.25,
+      "change_pct": 1.0
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump pauses U.S. bid to guide ships out of Strait of Hormuz, cites Iran deal progress"
+      "title": "China hosts Iran's top diplomat just days ahead of Trump's high-stakes visit"
     },
     {
       "source": "CNBC",
-      "title": "AMD's stock soars 15% as data center growth pushes revenue and guidance past estimates"
+      "title": "Trump pauses U.S. bid to guide ships out of Strait of Hormuz, cites Iran deal progress"
     },
     {
       "source": "MarketWatch",
