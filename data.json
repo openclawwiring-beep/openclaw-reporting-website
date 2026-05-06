@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, May 06 2026  04:06 PT",
+  "generated_at": "Wednesday, May 06 2026  06:12 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4732.1,
-      "change_pct": 1.69
+      "price": 4702.3,
+      "change_pct": 1.05
     },
     "Oil (WTI)": {
-      "price": 89.88,
-      "change_pct": -10.59
+      "price": 95.36,
+      "change_pct": -5.14
     },
     "Silver": {
-      "price": 78.29,
-      "change_pct": 3.03
+      "price": 77.65,
+      "change_pct": 2.2
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82395,
-      "change_pct": 1.95
+      "price": 82056,
+      "change_pct": 0.54
     },
     "ETH": {
-      "price": 2411.12,
-      "change_pct": 1.45
+      "price": 2391.98,
+      "change_pct": -0.13
     },
     "SOL": {
-      "price": 89.42,
-      "change_pct": 5.37
+      "price": 88.85,
+      "change_pct": 3.39
     },
     "BNB": {
-      "price": 647.33,
-      "change_pct": 3.02
+      "price": 654.38,
+      "change_pct": 3.32
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow futures surge 500 points as oil dives on report Iran war nearing end, AMD jumps: Live updates"
+      "title": "Trump says Iran will be bombed 'at much higher level' if they don't agree to peace deal"
     },
     {
       "source": "CNBC",
-      "title": "Disney pops 5% after streaming, parks drive revenue beat in first report under CEO Josh D'Amaro"
+      "title": "Uber and Disney are seeing the same remarkable dynamic in this economy. Both stocks are surging"
     },
     {
       "source": "MarketWatch",
-      "title": "The \u2018sugar high\u2019 is over. Why the first sell signal for stocks since 2021 is now flashing, says this Wall Street bank."
+      "title": "Why is AMD\u2019s stock up so much? \u2018The world has changed.\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I am her scapegoat\u2019: My mother-in-law squandered all her money. Do we buy her a house so she\u2019s not homeless?"
+      "title": "The \u2018sugar high\u2019 is over: Why the first sell signal for stocks since 2021 is now flashing, according to this Wall Street bank"
     }
   ]
 }
