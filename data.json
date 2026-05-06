@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, May 06 2026  15:54 PT",
+  "generated_at": "Wednesday, May 06 2026  16:51 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4707.7,
-      "change_pct": 1.16
+      "price": 4702.6,
+      "change_pct": 1.06
     },
     "Oil (WTI)": {
-      "price": 96.01,
-      "change_pct": -4.5
+      "price": 95.98,
+      "change_pct": -4.53
     },
     "Silver": {
-      "price": 77.96,
-      "change_pct": 2.6
+      "price": 77.91,
+      "change_pct": 2.53
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81296,
-      "change_pct": 0.19
+      "price": 81333,
+      "change_pct": 0.53
     },
     "ETH": {
-      "price": 2346.38,
-      "change_pct": -0.87
+      "price": 2347.66,
+      "change_pct": -0.58
     },
     "SOL": {
-      "price": 89.08,
-      "change_pct": 3.03
+      "price": 89.03,
+      "change_pct": 3.12
     },
     "BNB": {
-      "price": 646.92,
-      "change_pct": 2.37
+      "price": 647.34,
+      "change_pct": 2.67
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Arm puts a big number on its newest venture, but its stock falls"
+      "title": "Restaurants really don\u2019t want to sell fake meat \u2014 and Beyond Meat is suffering"
     },
     {
       "source": "MarketWatch",
-      "title": "Traders point to suspicious activity in the oil market on Wednesday"
+      "title": "Arm puts a big number on its newest venture, but its stock falls"
     }
   ]
 }
