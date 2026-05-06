@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, May 06 2026  08:39 PT",
-  "market_status": "Live \u2014 as of 11:39 ET",
+  "generated_at": "Wednesday, May 06 2026  10:28 PT",
+  "market_status": "Live \u2014 as of 13:28 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7338.74,
-      "change_pct": 1.09
-    },
-    "Nasdaq": {
-      "price": 25683.39,
-      "change_pct": 1.41
-    },
-    "Dow Jones": {
-      "price": 49844.58,
+      "price": 7340.3,
       "change_pct": 1.11
     },
+    "Nasdaq": {
+      "price": 25731.29,
+      "change_pct": 1.6
+    },
+    "Dow Jones": {
+      "price": 49800.16,
+      "change_pct": 1.02
+    },
     "Russell 2000": {
-      "price": 2877.72,
-      "change_pct": 1.15
+      "price": 2875.27,
+      "change_pct": 1.07
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4706.9,
-      "change_pct": 1.15
+      "price": 4693.7,
+      "change_pct": 0.86
     },
     "Oil (WTI)": {
-      "price": 95.05,
-      "change_pct": -5.45
+      "price": 95.62,
+      "change_pct": -4.88
     },
     "Silver": {
-      "price": 77.84,
-      "change_pct": 2.44
+      "price": 77.3,
+      "change_pct": 1.73
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81606,
-      "change_pct": -0.03
+      "price": 81487,
+      "change_pct": 0.13
     },
     "ETH": {
-      "price": 2356.84,
-      "change_pct": -1.2
+      "price": 2355.23,
+      "change_pct": -0.43
     },
     "SOL": {
-      "price": 88.67,
-      "change_pct": 3.5
+      "price": 89.09,
+      "change_pct": 4.25
     },
     "BNB": {
-      "price": 648.45,
-      "change_pct": 2.57
+      "price": 649.28,
+      "change_pct": 3.27
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump says Iran will be bombed at a 'much higher level' if it doesn't agree to peace deal"
+      "title": "Apollo CEO Rowan warns of market correction, slams \u2018egregious\u2019 practices at rival insurers"
     },
     {
       "source": "MarketWatch",
-      "title": "The Dow is about to exit correction territory, showing the old-school economy\u2019s role in the AI boom"
+      "title": "Spirit\u2019s cheap flights kept long-distance relationships alive. Now these couples are scrambling to stay connected."
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices bounce off lows as an Iran-war peace deal may be just a \u2018structured pause\u2019"
+      "title": "I am 56, single, and renewing my $400,000 10-year term life policy. Am I making a huge mistake?"
     }
   ]
 }
