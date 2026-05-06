@@ -1,60 +1,60 @@
 {
-  "generated_at": "Wednesday, May 06 2026  10:28 PT",
-  "market_status": "Live \u2014 as of 13:28 ET",
+  "generated_at": "Wednesday, May 06 2026  12:11 PT",
+  "market_status": "Live \u2014 as of 15:11 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7340.3,
-      "change_pct": 1.11
+      "price": 7359.34,
+      "change_pct": 1.38
     },
     "Nasdaq": {
-      "price": 25731.29,
-      "change_pct": 1.6
+      "price": 25796.94,
+      "change_pct": 1.86
     },
     "Dow Jones": {
-      "price": 49800.16,
-      "change_pct": 1.02
+      "price": 49969.59,
+      "change_pct": 1.36
     },
     "Russell 2000": {
-      "price": 2875.27,
-      "change_pct": 1.07
+      "price": 2879.28,
+      "change_pct": 1.21
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4693.7,
-      "change_pct": 0.86
+      "price": 4698.3,
+      "change_pct": 0.96
     },
     "Oil (WTI)": {
-      "price": 95.62,
-      "change_pct": -4.88
+      "price": 95.04,
+      "change_pct": -5.46
     },
     "Silver": {
-      "price": 77.3,
-      "change_pct": 1.73
+      "price": 77.61,
+      "change_pct": 2.14
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81487,
-      "change_pct": 0.13
+      "price": 81293,
+      "change_pct": -0.17
     },
     "ETH": {
-      "price": 2355.23,
-      "change_pct": -0.43
+      "price": 2344.61,
+      "change_pct": -1.07
     },
     "SOL": {
-      "price": 89.09,
-      "change_pct": 4.25
+      "price": 89.08,
+      "change_pct": 3.72
     },
     "BNB": {
-      "price": 649.28,
-      "change_pct": 3.27
+      "price": 650.11,
+      "change_pct": 3.14
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "AMD's Su explains what's behind massive forecast change as stock roars 15% on earnings"
+      "title": "Nvidia to invest up to $3.2 billion in Corning as part of massive optical fiber deal with 3 new factories focused on AI"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Spirit\u2019s cheap flights kept long-distance relationships alive. Now these couples are scrambling to stay connected."
+      "title": "A major union warns members and regulators that Elon Musk\u2019s SpaceX IPO \u2018defies\u2019 financial logic"
     },
     {
       "source": "MarketWatch",
-      "title": "I am 56, single, and renewing my $400,000 10-year term life policy. Am I making a huge mistake?"
+      "title": "Amazon\u2019s stock has come alive, setting the company up to join an exclusive club"
     }
   ]
 }
