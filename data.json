@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, May 05 2026  22:57 PT",
+  "generated_at": "Wednesday, May 06 2026  04:06 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4661.5,
-      "change_pct": 0.05
+      "price": 4732.1,
+      "change_pct": 1.69
     },
     "Oil (WTI)": {
-      "price": 100.98,
-      "change_pct": 0.53
+      "price": 89.88,
+      "change_pct": -10.59
     },
     "Silver": {
-      "price": 76.28,
-      "change_pct": 0.35
+      "price": 78.29,
+      "change_pct": 3.03
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81222,
-      "change_pct": 0.32
+      "price": 82395,
+      "change_pct": 1.95
     },
     "ETH": {
-      "price": 2361.85,
-      "change_pct": -0.73
+      "price": 2411.12,
+      "change_pct": 1.45
     },
     "SOL": {
-      "price": 87.3,
-      "change_pct": 2.71
+      "price": 89.42,
+      "change_pct": 5.37
     },
     "BNB": {
-      "price": 634.25,
-      "change_pct": 1.0
+      "price": 647.33,
+      "change_pct": 3.02
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "China hosts Iran's top diplomat just days ahead of Trump's high-stakes visit"
+      "title": "Dow futures surge 500 points as oil dives on report Iran war nearing end, AMD jumps: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Trump pauses U.S. bid to guide ships out of Strait of Hormuz, cites Iran deal progress"
+      "title": "Disney pops 5% after streaming, parks drive revenue beat in first report under CEO Josh D'Amaro"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil futures fall after Trump pauses U.S. effort to partially reopen Strait of Hormuz"
+      "title": "The \u2018sugar high\u2019 is over. Why the first sell signal for stocks since 2021 is now flashing, says this Wall Street bank."
     },
     {
       "source": "MarketWatch",
-      "title": "Astera Labs\u2019 stock climbs as the company strives to make AI chips more powerful"
+      "title": "\u2018I am her scapegoat\u2019: My mother-in-law squandered all her money. Do we buy her a house so she\u2019s not homeless?"
     }
   ]
 }
