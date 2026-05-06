@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, May 05 2026  16:46 PT",
+  "generated_at": "Tuesday, May 05 2026  19:45 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,33 +21,33 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4595.0,
-      "change_pct": 1.11
+      "price": 4643.3,
+      "change_pct": 2.17
     },
     "Oil (WTI)": {
-      "price": 100.02,
-      "change_pct": -4.19
+      "price": 100.65,
+      "change_pct": -3.58
     },
     "Silver": {
-      "price": 74.25,
-      "change_pct": 1.55
+      "price": 75.17,
+      "change_pct": 2.8
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80918,
-      "change_pct": 1.46
+      "price": 81189,
+      "change_pct": 0.57
     },
     "ETH": {
-      "price": 2359.68,
-      "change_pct": 0.6
+      "price": 2363.91,
+      "change_pct": -0.33
     },
     "SOL": {
-      "price": 86.33,
-      "change_pct": 2.69
+      "price": 86.53,
+      "change_pct": 2.25
     },
     "BNB": {
-      "price": 630.31,
+      "price": 633.24,
       "change_pct": 1.19
     }
   },
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The last time semiconductor stocks rose this far this quickly, the dot-com bubble burst"
+      "title": "Oil futures fall after Trump pauses U.S. effort to partially reopen Strait of Hormuz"
     },
     {
       "source": "MarketWatch",
-      "title": "This narrow shipping lane is how Trump now wants oil tankers to navigate the Strait of Hormuz"
+      "title": "Astera Labs\u2019 stock climbs as the company strives to make AI chips more powerful"
     }
   ]
 }
