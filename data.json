@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, May 06 2026  12:11 PT",
-  "market_status": "Live \u2014 as of 15:11 ET",
+  "generated_at": "Wednesday, May 06 2026  13:52 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7359.34,
-      "change_pct": 1.38
+      "price": 7365.12,
+      "change_pct": 1.46
     },
     "Nasdaq": {
-      "price": 25796.94,
-      "change_pct": 1.86
+      "price": 25838.94,
+      "change_pct": 2.02
     },
     "Dow Jones": {
-      "price": 49969.59,
-      "change_pct": 1.36
+      "price": 49910.59,
+      "change_pct": 1.24
     },
     "Russell 2000": {
-      "price": 2879.28,
-      "change_pct": 1.21
+      "price": 2886.77,
+      "change_pct": 1.47
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4698.3,
-      "change_pct": 0.96
+      "price": 4700.5,
+      "change_pct": 1.01
     },
     "Oil (WTI)": {
-      "price": 95.04,
-      "change_pct": -5.46
+      "price": 96.17,
+      "change_pct": -4.34
     },
     "Silver": {
-      "price": 77.61,
-      "change_pct": 2.14
+      "price": 77.97,
+      "change_pct": 2.61
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81293,
-      "change_pct": -0.17
+      "price": 81319,
+      "change_pct": -0.37
     },
     "ETH": {
-      "price": 2344.61,
-      "change_pct": -1.07
+      "price": 2345.7,
+      "change_pct": -1.56
     },
     "SOL": {
-      "price": 89.08,
-      "change_pct": 3.72
+      "price": 88.95,
+      "change_pct": 2.72
     },
     "BNB": {
-      "price": 650.11,
-      "change_pct": 3.14
+      "price": 647.91,
+      "change_pct": 2.29
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia to invest up to $3.2 billion in Corning as part of massive optical fiber deal with 3 new factories focused on AI"
+      "title": "Snap issues cautious guidance as Perplexity deal ends, Middle East 'geopolitical situation' causes uncertainty"
     },
     {
       "source": "CNBC",
-      "title": "Apollo CEO Rowan warns of market correction, slams \u2018egregious\u2019 practices at rival insurers"
+      "title": "Apollo CEO Rowan warns of market correction, slams 'egregious' practices at rival insurers"
     },
     {
       "source": "MarketWatch",
-      "title": "A major union warns members and regulators that Elon Musk\u2019s SpaceX IPO \u2018defies\u2019 financial logic"
+      "title": "Arm\u2019s stock soars as the company puts a big number on its newest venture"
     },
     {
       "source": "MarketWatch",
-      "title": "Amazon\u2019s stock has come alive, setting the company up to join an exclusive club"
+      "title": "This gold-timing indicator just hit a bottom \u2014 and history says a strong rally is next"
     }
   ]
 }
