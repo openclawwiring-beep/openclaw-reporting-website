@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, May 07 2026  12:42 PT",
-  "market_status": "Live \u2014 as of 15:42 ET",
+  "generated_at": "Thursday, May 07 2026  14:03 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7333.51,
-      "change_pct": -0.41
+      "price": 7337.11,
+      "change_pct": -0.38
     },
     "Nasdaq": {
-      "price": 25793.38,
-      "change_pct": -0.18
+      "price": 25806.2,
+      "change_pct": -0.13
     },
     "Dow Jones": {
-      "price": 49576.89,
-      "change_pct": -0.67
+      "price": 49596.97,
+      "change_pct": -0.63
     },
     "Russell 2000": {
-      "price": 2834.13,
-      "change_pct": -1.83
+      "price": 2839.63,
+      "change_pct": -1.63
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4714.6,
-      "change_pct": 0.12
+      "price": 4710.0,
+      "change_pct": 0.02
     },
     "Oil (WTI)": {
-      "price": 96.6,
-      "change_pct": 0.87
+      "price": 97.33,
+      "change_pct": 1.63
     },
     "Silver": {
-      "price": 79.58,
-      "change_pct": 1.82
+      "price": 79.68,
+      "change_pct": 1.94
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80151,
-      "change_pct": -1.58
+      "price": 79876,
+      "change_pct": -1.87
     },
     "ETH": {
-      "price": 2295.47,
-      "change_pct": -2.16
+      "price": 2290.01,
+      "change_pct": -2.58
     },
     "SOL": {
-      "price": 88.64,
-      "change_pct": -0.5
+      "price": 88.07,
+      "change_pct": -1.12
     },
     "BNB": {
-      "price": 643.84,
-      "change_pct": -0.96
+      "price": 643.64,
+      "change_pct": -0.72
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "OpenAI trial: Mother of Musk's children says he offered Altman a Tesla board seat"
+      "title": "CoreWeave revenue more than doubles in first quarter, topping estimates"
     },
     {
       "source": "MarketWatch",
-      "title": "Time is running out to avoid a power crunch in America: \u2018The current situation is not tenable\u2019"
+      "title": "Block earnings show a growth pickup, in a potential validation of the massive AI push"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s just how much Nvidia has been left behind in the extreme semiconductor rally"
+      "title": "CoreWeave reports \u2018unprecedented\u2019 $100 billion backlog \u2014 but that comes at a cost"
     }
   ]
 }
