@@ -1,60 +1,60 @@
 {
-  "generated_at": "Thursday, May 07 2026  10:47 PT",
-  "market_status": "Live \u2014 as of 13:47 ET",
+  "generated_at": "Thursday, May 07 2026  12:42 PT",
+  "market_status": "Live \u2014 as of 15:42 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7328.02,
-      "change_pct": -0.48
+      "price": 7333.51,
+      "change_pct": -0.41
     },
     "Nasdaq": {
-      "price": 25769.77,
-      "change_pct": -0.27
+      "price": 25793.38,
+      "change_pct": -0.18
     },
     "Dow Jones": {
-      "price": 49535.98,
-      "change_pct": -0.75
+      "price": 49576.89,
+      "change_pct": -0.67
     },
     "Russell 2000": {
-      "price": 2833.62,
-      "change_pct": -1.84
+      "price": 2834.13,
+      "change_pct": -1.83
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4708.1,
-      "change_pct": -0.02
+      "price": 4714.6,
+      "change_pct": 0.12
     },
     "Oil (WTI)": {
       "price": 96.6,
       "change_pct": 0.87
     },
     "Silver": {
-      "price": 79.74,
-      "change_pct": 2.02
+      "price": 79.58,
+      "change_pct": 1.82
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79896,
-      "change_pct": -1.88
+      "price": 80151,
+      "change_pct": -1.58
     },
     "ETH": {
-      "price": 2292.3,
-      "change_pct": -2.49
+      "price": 2295.47,
+      "change_pct": -2.16
     },
     "SOL": {
-      "price": 88.5,
-      "change_pct": -0.52
+      "price": 88.64,
+      "change_pct": -0.5
     },
     "BNB": {
-      "price": 642.07,
-      "change_pct": -0.98
+      "price": 643.84,
+      "change_pct": -0.96
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Paul Tudor Jones says U.S. is late to regulating AI: 'We should have already done it'"
+      "title": "Here's what to expect from Friday's release of the April jobs report"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "EBay permanently bans GameStop CEO Ryan Cohen for putting its community \u2018at risk\u2019 following takeover attempt"
+      "title": "Time is running out to avoid a power crunch in America: \u2018The current situation is not tenable\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "Beef is very expensive right now \u2014 and Shake Shack just lost money for the first time in years"
+      "title": "Here\u2019s just how much Nvidia has been left behind in the extreme semiconductor rally"
     }
   ]
 }
