@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, May 06 2026  16:51 PT",
+  "generated_at": "Wednesday, May 06 2026  19:47 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4702.6,
-      "change_pct": 1.06
+      "price": 4711.3,
+      "change_pct": 1.24
     },
     "Oil (WTI)": {
-      "price": 95.98,
-      "change_pct": -4.53
+      "price": 95.7,
+      "change_pct": -4.8
     },
     "Silver": {
-      "price": 77.91,
-      "change_pct": 2.53
+      "price": 78.22,
+      "change_pct": 2.94
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81333,
-      "change_pct": 0.53
+      "price": 80994,
+      "change_pct": -0.31
     },
     "ETH": {
-      "price": 2347.66,
-      "change_pct": -0.58
+      "price": 2317.58,
+      "change_pct": -2.01
     },
     "SOL": {
-      "price": 89.03,
-      "change_pct": 3.12
+      "price": 87.97,
+      "change_pct": 1.53
     },
     "BNB": {
-      "price": 647.34,
-      "change_pct": 2.67
+      "price": 642.96,
+      "change_pct": 1.48
     }
   },
   "headlines": [
@@ -62,7 +62,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Restaurants really don\u2019t want to sell fake meat \u2014 and Beyond Meat is suffering"
+      "title": "Hantavirus outbreaks rarely happen. This Andes strain is \u2018a complicated public-health situation.\u2019"
     },
     {
       "source": "MarketWatch",
