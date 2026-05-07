@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, May 07 2026  14:03 PT",
+  "generated_at": "Thursday, May 07 2026  15:34 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4710.0,
-      "change_pct": 0.02
+      "price": 4705.9,
+      "change_pct": -0.07
     },
     "Oil (WTI)": {
-      "price": 97.33,
-      "change_pct": 1.63
+      "price": 96.77,
+      "change_pct": 1.04
     },
     "Silver": {
-      "price": 79.68,
-      "change_pct": 1.94
+      "price": 79.36,
+      "change_pct": 1.53
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79876,
-      "change_pct": -1.87
+      "price": 79925,
+      "change_pct": -1.68
     },
     "ETH": {
-      "price": 2290.01,
-      "change_pct": -2.58
+      "price": 2287.96,
+      "change_pct": -2.54
     },
     "SOL": {
-      "price": 88.07,
-      "change_pct": -1.12
+      "price": 88.09,
+      "change_pct": -1.22
     },
     "BNB": {
-      "price": 643.64,
-      "change_pct": -0.72
+      "price": 636.18,
+      "change_pct": -1.82
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Here's what to expect from Friday's release of the April jobs report"
+      "title": "U.S. and Iran trade fire in Strait of Hormuz; each claims other shot first"
     },
     {
       "source": "CNBC",
-      "title": "CoreWeave revenue more than doubles in first quarter, topping estimates"
+      "title": "Cloudflare stock sinks 18% after earnings as company cuts 1,100 employees due to AI changes"
     },
     {
       "source": "MarketWatch",
-      "title": "Block earnings show a growth pickup, in a potential validation of the massive AI push"
+      "title": "\u2018Americans are not great at managing money\u2019: Social Security and Medicare saved my father from financial ruin"
     },
     {
       "source": "MarketWatch",
-      "title": "CoreWeave reports \u2018unprecedented\u2019 $100 billion backlog \u2014 but that comes at a cost"
+      "title": "Rocket Lab\u2019s stock rises upon new signs its business is expanding rapidly"
     }
   ]
 }
