@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, May 07 2026  15:34 PT",
+  "generated_at": "Thursday, May 07 2026  16:52 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4705.9,
-      "change_pct": -0.07
+      "price": 4706.0,
+      "change_pct": -0.06
     },
     "Oil (WTI)": {
-      "price": 96.77,
-      "change_pct": 1.04
+      "price": 97.15,
+      "change_pct": 1.44
     },
     "Silver": {
-      "price": 79.36,
-      "change_pct": 1.53
+      "price": 79.51,
+      "change_pct": 1.73
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79925,
-      "change_pct": -1.68
+      "price": 80046,
+      "change_pct": -1.65
     },
     "ETH": {
-      "price": 2287.96,
-      "change_pct": -2.54
+      "price": 2292.66,
+      "change_pct": -2.42
     },
     "SOL": {
-      "price": 88.09,
-      "change_pct": -1.22
+      "price": 88.42,
+      "change_pct": -0.71
     },
     "BNB": {
-      "price": 636.18,
-      "change_pct": -1.82
+      "price": 636.97,
+      "change_pct": -1.65
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Americans are not great at managing money\u2019: Social Security and Medicare saved my father from financial ruin"
+      "title": "Oil futures rise after U.S., Iran trade fire; stock futures quiet after court rejects Trump\u2019s tariffs"
     },
     {
       "source": "MarketWatch",
-      "title": "Rocket Lab\u2019s stock rises upon new signs its business is expanding rapidly"
+      "title": "Airbnb is seeing some of its fastest growth from this surprising segment"
     }
   ]
 }
