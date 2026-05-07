@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, May 07 2026  04:25 PT",
+  "generated_at": "Thursday, May 07 2026  06:14 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4739.9,
-      "change_pct": 0.66
+      "price": 4749.0,
+      "change_pct": 0.85
     },
     "Oil (WTI)": {
-      "price": 92.42,
-      "change_pct": -3.5
+      "price": 91.34,
+      "change_pct": -4.63
     },
     "Silver": {
-      "price": 80.84,
-      "change_pct": 3.43
+      "price": 81.78,
+      "change_pct": 4.63
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80965,
-      "change_pct": -2.05
+      "price": 80985,
+      "change_pct": -1.36
     },
     "ETH": {
-      "price": 2330.1,
-      "change_pct": -3.51
+      "price": 2325.56,
+      "change_pct": -2.76
     },
     "SOL": {
-      "price": 89.55,
-      "change_pct": -0.2
+      "price": 89.25,
+      "change_pct": 0.33
     },
     "BNB": {
-      "price": 649.07,
-      "change_pct": -0.06
+      "price": 649.15,
+      "change_pct": -0.72
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "McDonald's earnings top estimates despite 'challenging environment'"
+      "title": "Whirlpool says Iran war causing 'recession-level industry decline.' The shares are down 20%"
     },
     {
       "source": "CNBC",
-      "title": "Peloton beats estimates on revenue as higher subscription prices offer a boost"
+      "title": "Paul Tudor Jones says AI bull market has 'another year or two to run'"
     },
     {
       "source": "MarketWatch",
-      "title": "Bitcoin\u2019s rare technical action points to a crypto bull market, says Fundstrat\u2019s Tom Lee"
+      "title": "Middle managers are on the chopping block in the AI workplace. Here\u2019s how to save your job."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Americans are not great at managing money\u2019: Social Security and Medicare saved my father from financial ruin. Am I wrong?"
+      "title": "Investors should seek to profit from this overlooked sector, according to hedge-fund CIOs"
     }
   ]
 }
