@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, May 06 2026  23:09 PT",
+  "generated_at": "Thursday, May 07 2026  02:10 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4711.3,
-      "change_pct": 0.05
+      "price": 4740.6,
+      "change_pct": 0.67
     },
     "Oil (WTI)": {
-      "price": 95.34,
-      "change_pct": -0.45
+      "price": 92.88,
+      "change_pct": -3.02
     },
     "Silver": {
-      "price": 78.24,
-      "change_pct": 0.1
+      "price": 80.11,
+      "change_pct": 2.49
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81034,
-      "change_pct": -0.31
+      "price": 81133,
+      "change_pct": -0.87
     },
     "ETH": {
-      "price": 2329.21,
-      "change_pct": -1.41
+      "price": 2333.18,
+      "change_pct": -2.5
     },
     "SOL": {
-      "price": 88.62,
-      "change_pct": 1.4
+      "price": 89.43,
+      "change_pct": 0.71
     },
     "BNB": {
-      "price": 646.67,
-      "change_pct": 1.87
+      "price": 649.56,
+      "change_pct": 0.81
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran war threatens jet fuel shortage that could disrupt summer travel in Asia and Europe"
+      "title": "S&P 500 futures edge higher after index posts another record; traders eye developments in Iran: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Snap issues cautious guidance as Perplexity deal ends, Middle East 'geopolitical situation' causes uncertainty"
+      "title": "Shipping giant boss warns Iran war will have bigger impact in coming months as customers face price hikes"
     },
     {
       "source": "MarketWatch",
-      "title": "Hantavirus outbreaks rarely happen. This Andes strain is \u2018a complicated public-health situation.\u2019"
+      "title": "Comedian Pete Davidson lowers price of his Westchester home to $2.15 million"
     },
     {
       "source": "MarketWatch",
-      "title": "Arm puts a big number on its newest venture, but its stock falls"
+      "title": "Two funds run by Blue Owl are cutting their dividend \u2014 and one sold half its SpaceX stake before IPO"
     }
   ]
 }
