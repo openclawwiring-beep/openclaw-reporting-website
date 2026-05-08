@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, May 08 2026  09:51 PT",
-  "market_status": "Live \u2014 as of 12:51 ET",
+  "generated_at": "Friday, May 08 2026  11:09 PT",
+  "market_status": "Live \u2014 as of 14:09 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7393.36,
-      "change_pct": 0.77
+      "price": 7396.63,
+      "change_pct": 0.81
     },
     "Nasdaq": {
-      "price": 26166.62,
-      "change_pct": 1.4
+      "price": 26197.34,
+      "change_pct": 1.52
     },
     "Dow Jones": {
-      "price": 49608.98,
-      "change_pct": 0.02
+      "price": 49610.37,
+      "change_pct": 0.03
     },
     "Russell 2000": {
-      "price": 2854.19,
-      "change_pct": 0.52
+      "price": 2859.4,
+      "change_pct": 0.7
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4726.0,
-      "change_pct": -0.06
+      "price": 4730.2,
+      "change_pct": 0.03
     },
     "Oil (WTI)": {
-      "price": 95.93,
-      "change_pct": 0.25
+      "price": 95.44,
+      "change_pct": -0.26
     },
     "Silver": {
-      "price": 80.97,
-      "change_pct": 0.69
+      "price": 80.96,
+      "change_pct": 0.67
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79789,
-      "change_pct": -0.08
+      "price": 80180,
+      "change_pct": 0.01
     },
     "ETH": {
-      "price": 2290.02,
-      "change_pct": -0.17
+      "price": 2310.49,
+      "change_pct": 0.37
     },
     "SOL": {
-      "price": 89.62,
-      "change_pct": 1.09
+      "price": 91.75,
+      "change_pct": 3.21
     },
     "BNB": {
-      "price": 642.73,
-      "change_pct": 0.04
+      "price": 646.6,
+      "change_pct": 0.38
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Trump is expected to fast-track new tariffs after a federal trade court struck his latest plan down"
+      "title": "Uber-backed Lime plans IPO as debt concerns mount for the e-scooter maker"
     },
     {
       "source": "MarketWatch",
-      "title": "How to help your child transition to financial adulthood"
+      "title": "The Iran war has broken the oil market\u2019s $100 barometer"
     }
   ]
 }
