@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, May 08 2026  11:09 PT",
-  "market_status": "Live \u2014 as of 14:09 ET",
+  "generated_at": "Friday, May 08 2026  12:54 PT",
+  "market_status": "Live \u2014 as of 15:54 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7396.63,
-      "change_pct": 0.81
+      "price": 7395.72,
+      "change_pct": 0.8
     },
     "Nasdaq": {
-      "price": 26197.34,
-      "change_pct": 1.52
+      "price": 26230.75,
+      "change_pct": 1.65
     },
     "Dow Jones": {
-      "price": 49610.37,
-      "change_pct": 0.03
+      "price": 49574.46,
+      "change_pct": -0.05
     },
     "Russell 2000": {
-      "price": 2859.4,
-      "change_pct": 0.7
+      "price": 2858.86,
+      "change_pct": 0.68
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4730.2,
-      "change_pct": 0.03
+      "price": 4734.8,
+      "change_pct": 0.12
     },
     "Oil (WTI)": {
-      "price": 95.44,
-      "change_pct": -0.26
+      "price": 94.83,
+      "change_pct": -0.9
     },
     "Silver": {
-      "price": 80.96,
-      "change_pct": 0.67
+      "price": 81.22,
+      "change_pct": 1.0
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80180,
-      "change_pct": 0.01
+      "price": 80106,
+      "change_pct": 0.03
     },
     "ETH": {
-      "price": 2310.49,
-      "change_pct": 0.37
+      "price": 2315.23,
+      "change_pct": 1.06
     },
     "SOL": {
-      "price": 91.75,
-      "change_pct": 3.21
+      "price": 92.56,
+      "change_pct": 4.63
     },
     "BNB": {
-      "price": 646.6,
-      "change_pct": 0.38
+      "price": 647.66,
+      "change_pct": 0.66
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "U.S. says it struck two Iran-flagged oil tankers trying to skirt blockade"
+      "title": "The Federal Reserve is quickly running out of reasons to cut interest rates"
     },
     {
       "source": "MarketWatch",
-      "title": "Uber-backed Lime plans IPO as debt concerns mount for the e-scooter maker"
+      "title": "Kevin Warsh is right about Fed reform \u2014 but his inflation solution is a trap"
     },
     {
       "source": "MarketWatch",
-      "title": "The Iran war has broken the oil market\u2019s $100 barometer"
+      "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here\u2019s how I did it."
     }
   ]
 }
