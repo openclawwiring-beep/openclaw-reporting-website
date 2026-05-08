@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, May 08 2026  13:59 PT",
+  "generated_at": "Friday, May 08 2026  15:06 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4724.6,
-      "change_pct": -0.09
+      "price": 4723.7,
+      "change_pct": -0.11
     },
     "Oil (WTI)": {
-      "price": 94.42,
-      "change_pct": -1.33
+      "price": 94.68,
+      "change_pct": -1.06
     },
     "Silver": {
-      "price": 80.9,
-      "change_pct": 0.6
+      "price": 80.83,
+      "change_pct": 0.52
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80099,
-      "change_pct": 0.29
+      "price": 80292,
+      "change_pct": 0.84
     },
     "ETH": {
-      "price": 2305.81,
-      "change_pct": 0.75
+      "price": 2316.36,
+      "change_pct": 1.51
     },
     "SOL": {
-      "price": 92.07,
-      "change_pct": 4.44
+      "price": 92.41,
+      "change_pct": 5.25
     },
     "BNB": {
-      "price": 646.5,
-      "change_pct": 0.47
+      "price": 650.21,
+      "change_pct": 2.04
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Ageism is corporate self-sabotage \u2014 America\u2019s \u2018brain drain\u2019 is costing shareholders billions"
+      "title": "Gold has climbed back above a key trend line. Are more gains on the way?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The S&P 500 seems to be doing particularly well\u2019: I\u2019m 66. Is this a good time to invest $100,000 in the stock market?"
+      "title": "No do-overs: How one extra dollar on your Roth conversion triggers a tax bill you won\u2019t see coming"
     }
   ]
 }
