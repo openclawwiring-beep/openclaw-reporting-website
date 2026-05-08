@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, May 08 2026  15:06 PT",
+  "generated_at": "Friday, May 08 2026  16:29 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80292,
-      "change_pct": 0.84
+      "price": 80197,
+      "change_pct": 0.3
     },
     "ETH": {
-      "price": 2316.36,
-      "change_pct": 1.51
+      "price": 2307.39,
+      "change_pct": 0.78
     },
     "SOL": {
-      "price": 92.41,
-      "change_pct": 5.25
+      "price": 91.97,
+      "change_pct": 4.19
     },
     "BNB": {
-      "price": 650.21,
-      "change_pct": 2.04
+      "price": 649.21,
+      "change_pct": 1.99
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Gold has climbed back above a key trend line. Are more gains on the way?"
+      "title": "\u2018It saved my relationship with my mom.\u2019 These money managers may help if you\u2019re feeling overwhelmed helping your parents pay their bills."
     },
     {
       "source": "MarketWatch",
-      "title": "No do-overs: How one extra dollar on your Roth conversion triggers a tax bill you won\u2019t see coming"
+      "title": "Dunkin\u2019 is making its return to the stock market \u2014 with a new twist"
     }
   ]
 }
