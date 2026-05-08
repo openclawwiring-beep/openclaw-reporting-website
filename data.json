@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, May 07 2026  16:52 PT",
+  "generated_at": "Thursday, May 07 2026  19:50 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4706.0,
-      "change_pct": -0.06
+      "price": 4722.7,
+      "change_pct": 0.29
     },
     "Oil (WTI)": {
-      "price": 97.15,
-      "change_pct": 1.44
+      "price": 96.33,
+      "change_pct": 0.58
     },
     "Silver": {
-      "price": 79.51,
-      "change_pct": 1.73
+      "price": 80.2,
+      "change_pct": 2.61
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80046,
-      "change_pct": -1.65
+      "price": 79555,
+      "change_pct": -1.87
     },
     "ETH": {
-      "price": 2292.66,
-      "change_pct": -2.42
+      "price": 2280.12,
+      "change_pct": -1.77
     },
     "SOL": {
-      "price": 88.42,
-      "change_pct": -0.71
+      "price": 88.15,
+      "change_pct": 0.09
     },
     "BNB": {
-      "price": 636.97,
-      "change_pct": -1.65
+      "price": 639.15,
+      "change_pct": -0.7
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Cloudflare stock sinks 18% after earnings as company cuts 1,100 employees due to AI changes"
+      "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths"
     },
     {
       "source": "MarketWatch",
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Airbnb is seeing some of its fastest growth from this surprising segment"
+      "title": "Cloudflare to cut 20% of staff in a big bet on AI. Investors aren\u2019t sold."
     }
   ]
 }
