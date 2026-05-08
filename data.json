@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, May 08 2026  12:54 PT",
-  "market_status": "Live \u2014 as of 15:54 ET",
+  "generated_at": "Friday, May 08 2026  13:59 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7395.72,
-      "change_pct": 0.8
+      "price": 7398.93,
+      "change_pct": 0.84
     },
     "Nasdaq": {
-      "price": 26230.75,
-      "change_pct": 1.65
+      "price": 26247.08,
+      "change_pct": 1.71
     },
     "Dow Jones": {
-      "price": 49574.46,
-      "change_pct": -0.05
+      "price": 49609.16,
+      "change_pct": 0.02
     },
     "Russell 2000": {
-      "price": 2858.86,
-      "change_pct": 0.68
+      "price": 2861.21,
+      "change_pct": 0.76
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4734.8,
-      "change_pct": 0.12
+      "price": 4724.6,
+      "change_pct": -0.09
     },
     "Oil (WTI)": {
-      "price": 94.83,
-      "change_pct": -0.9
+      "price": 94.42,
+      "change_pct": -1.33
     },
     "Silver": {
-      "price": 81.22,
-      "change_pct": 1.0
+      "price": 80.9,
+      "change_pct": 0.6
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80106,
-      "change_pct": 0.03
+      "price": 80099,
+      "change_pct": 0.29
     },
     "ETH": {
-      "price": 2315.23,
-      "change_pct": 1.06
+      "price": 2305.81,
+      "change_pct": 0.75
     },
     "SOL": {
-      "price": 92.56,
-      "change_pct": 4.63
+      "price": 92.07,
+      "change_pct": 4.44
     },
     "BNB": {
-      "price": 647.66,
-      "change_pct": 0.66
+      "price": 646.5,
+      "change_pct": 0.47
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Kevin Warsh is right about Fed reform \u2014 but his inflation solution is a trap"
+      "title": "Ageism is corporate self-sabotage \u2014 America\u2019s \u2018brain drain\u2019 is costing shareholders billions"
     },
     {
       "source": "MarketWatch",
-      "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here\u2019s how I did it."
+      "title": "\u2018The S&P 500 seems to be doing particularly well\u2019: I\u2019m 66. Is this a good time to invest $100,000 in the stock market?"
     }
   ]
 }
