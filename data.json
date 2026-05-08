@@ -1,60 +1,60 @@
 {
-  "generated_at": "Friday, May 08 2026  08:21 PT",
-  "market_status": "Live \u2014 as of 11:21 ET",
+  "generated_at": "Friday, May 08 2026  09:51 PT",
+  "market_status": "Live \u2014 as of 12:51 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7390.42,
-      "change_pct": 0.73
+      "price": 7393.36,
+      "change_pct": 0.77
     },
     "Nasdaq": {
-      "price": 26139.18,
-      "change_pct": 1.29
+      "price": 26166.62,
+      "change_pct": 1.4
     },
     "Dow Jones": {
-      "price": 49612.48,
-      "change_pct": 0.03
+      "price": 49608.98,
+      "change_pct": 0.02
     },
     "Russell 2000": {
-      "price": 2850.04,
-      "change_pct": 0.37
+      "price": 2854.19,
+      "change_pct": 0.52
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4729.3,
-      "change_pct": 0.01
+      "price": 4726.0,
+      "change_pct": -0.06
     },
     "Oil (WTI)": {
-      "price": 95.32,
-      "change_pct": -0.39
+      "price": 95.93,
+      "change_pct": 0.25
     },
     "Silver": {
-      "price": 81.31,
-      "change_pct": 1.11
+      "price": 80.97,
+      "change_pct": 0.69
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79810,
-      "change_pct": -0.07
+      "price": 79789,
+      "change_pct": -0.08
     },
     "ETH": {
-      "price": 2279.03,
-      "change_pct": -0.74
+      "price": 2290.02,
+      "change_pct": -0.17
     },
     "SOL": {
-      "price": 88.78,
-      "change_pct": 0.48
+      "price": 89.62,
+      "change_pct": 1.09
     },
     "BNB": {
-      "price": 640.11,
-      "change_pct": -0.15
+      "price": 642.73,
+      "change_pct": 0.04
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Consumer sentiment falls to fresh record low in May as surging gas prices hit outlook"
+      "title": "U.S. payrolls jump more than expected, but the report had several red flags for the economy"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Gloom deepens for consumers in early May due to high gas prices"
+      "title": "Trump is expected to fast-track new tariffs after a federal trade court struck his latest plan down"
     },
     {
       "source": "MarketWatch",
-      "title": "BuzzFeed blows past a key debt deadline, raising the specter of bankruptcy"
+      "title": "How to help your child transition to financial adulthood"
     }
   ]
 }
