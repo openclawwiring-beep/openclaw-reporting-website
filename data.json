@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, May 08 2026  06:45 PT",
-  "market_status": "Live \u2014 as of 09:45 ET",
+  "generated_at": "Friday, May 08 2026  08:21 PT",
+  "market_status": "Live \u2014 as of 11:21 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7379.03,
-      "change_pct": 0.57
+      "price": 7390.42,
+      "change_pct": 0.73
     },
     "Nasdaq": {
-      "price": 26078.26,
-      "change_pct": 1.05
+      "price": 26139.18,
+      "change_pct": 1.29
     },
     "Dow Jones": {
-      "price": 49670.4,
-      "change_pct": 0.15
+      "price": 49612.48,
+      "change_pct": 0.03
     },
     "Russell 2000": {
-      "price": 2856.74,
-      "change_pct": 0.61
+      "price": 2850.04,
+      "change_pct": 0.37
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4754.1,
-      "change_pct": 0.53
+      "price": 4729.3,
+      "change_pct": 0.01
     },
     "Oil (WTI)": {
-      "price": 94.15,
-      "change_pct": -1.61
+      "price": 95.32,
+      "change_pct": -0.39
     },
     "Silver": {
-      "price": 82.12,
-      "change_pct": 2.12
+      "price": 81.31,
+      "change_pct": 1.11
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79613,
-      "change_pct": -0.99
+      "price": 79810,
+      "change_pct": -0.07
     },
     "ETH": {
-      "price": 2272.16,
-      "change_pct": -1.66
+      "price": 2279.03,
+      "change_pct": -0.74
     },
     "SOL": {
-      "price": 88.19,
-      "change_pct": -0.87
+      "price": 88.78,
+      "change_pct": 0.48
     },
     "BNB": {
-      "price": 637.64,
-      "change_pct": -1.37
+      "price": 640.11,
+      "change_pct": -0.15
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. payrolls increased 115,000 in April, more than expected; unemployment at 4.3%"
+      "title": "Consumer sentiment falls to fresh record low in May as surging gas prices hit outlook"
     },
     {
       "source": "CNBC",
-      "title": "Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here"
+      "title": "U.S. says it struck two Iran-flagged oil tankers trying to skirt blockade"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m giving $10,000 to my stepchildren. My wife warned me against gifts of equal value for my nephews. Is that fair?"
+      "title": "Gloom deepens for consumers in early May due to high gas prices"
     },
     {
       "source": "MarketWatch",
-      "title": "This new target for the S&P 500 is very nearly Wall Street\u2019s highest. Here are the trades to make."
+      "title": "BuzzFeed blows past a key debt deadline, raising the specter of bankruptcy"
     }
   ]
 }
