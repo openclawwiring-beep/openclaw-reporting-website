@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, May 08 2026  03:23 PT",
+  "generated_at": "Friday, May 08 2026  04:53 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4726.7,
-      "change_pct": -0.05
+      "price": 4731.1,
+      "change_pct": 0.04
     },
     "Oil (WTI)": {
-      "price": 95.15,
-      "change_pct": -0.56
+      "price": 94.9,
+      "change_pct": -0.83
     },
     "Silver": {
-      "price": 80.86,
-      "change_pct": 0.55
+      "price": 81.18,
+      "change_pct": 0.95
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79818,
-      "change_pct": -1.28
+      "price": 80256,
+      "change_pct": -0.71
     },
     "ETH": {
-      "price": 2281.31,
-      "change_pct": -1.88
+      "price": 2294.43,
+      "change_pct": -1.44
     },
     "SOL": {
-      "price": 88.35,
-      "change_pct": -0.81
+      "price": 88.64,
+      "change_pct": -0.89
     },
     "BNB": {
-      "price": 637.8,
-      "change_pct": -1.57
+      "price": 640.96,
+      "change_pct": -0.94
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who\u2019s right?"
+      "title": "This new target for the S&P 500 is very nearly Wall Street\u2019s highest. Here are the trades to make."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Americans love their rose-colored glasses\u2019: I was a slave to credit-card debt, then I got laid off and turned my life around"
+      "title": "Stocks at all-time highs can still go higher. Here\u2019s one case for buying into the rally."
     }
   ]
 }
