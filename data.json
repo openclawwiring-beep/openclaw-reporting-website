@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 09 2026  10:04 PT",
+  "generated_at": "Saturday, May 09 2026  11:12 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80621,
-      "change_pct": 0.98
+      "price": 80799,
+      "change_pct": 0.77
     },
     "ETH": {
-      "price": 2320.35,
-      "change_pct": 1.22
+      "price": 2330.56,
+      "change_pct": 0.8
     },
     "SOL": {
-      "price": 92.81,
-      "change_pct": 3.53
+      "price": 93.21,
+      "change_pct": 1.57
     },
     "BNB": {
-      "price": 648.48,
-      "change_pct": 0.88
+      "price": 650.21,
+      "change_pct": 0.47
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year"
+      "title": "Why one of the nation's largest auto lenders isn't worried about high vehicle prices or 'forever loans'"
     },
     {
       "source": "CNBC",
-      "title": "Why one of the nation's largest auto lenders isn't worried about high vehicle prices or 'forever loans'"
+      "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year"
     },
     {
       "source": "MarketWatch",
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who\u2019s right?"
+      "title": "No do-overs: How one extra dollar on your Roth conversion triggers a tax bill you won\u2019t see coming"
     }
   ]
 }
