@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 09 2026  08:59 PT",
+  "generated_at": "Saturday, May 09 2026  10:04 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80514,
-      "change_pct": 0.51
+      "price": 80621,
+      "change_pct": 0.98
     },
     "ETH": {
-      "price": 2316.49,
-      "change_pct": 1.1
+      "price": 2320.35,
+      "change_pct": 1.22
     },
     "SOL": {
-      "price": 92.87,
-      "change_pct": 3.97
+      "price": 92.81,
+      "change_pct": 3.53
     },
     "BNB": {
-      "price": 647.7,
-      "change_pct": 0.66
+      "price": 648.48,
+      "change_pct": 0.88
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who\u2019s right?"
+      "title": "\u2018The S&P 500 seems to be doing particularly well\u2019: I\u2019m 66. Is this a good time to invest $100,000 in the stock market?"
     },
     {
       "source": "MarketWatch",
-      "title": "My niece is on Social Security Disability Insurance. Will she lose her health insurance if I buy her a house?"
+      "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who\u2019s right?"
     }
   ]
 }
