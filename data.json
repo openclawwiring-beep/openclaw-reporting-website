@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 09 2026  05:09 PT",
+  "generated_at": "Saturday, May 09 2026  06:57 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80342,
-      "change_pct": 0.18
+      "price": 80351,
+      "change_pct": 0.96
     },
     "ETH": {
-      "price": 2315.5,
-      "change_pct": 0.97
+      "price": 2312.78,
+      "change_pct": 1.65
     },
     "SOL": {
-      "price": 93.65,
-      "change_pct": 5.67
+      "price": 93.38,
+      "change_pct": 5.78
     },
     "BNB": {
-      "price": 650.3,
-      "change_pct": 1.51
+      "price": 649.3,
+      "change_pct": 1.7
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking"
+      "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year"
     },
     {
       "source": "CNBC",
-      "title": "Major crypto bill slated for May 14 Senate Banking Committee vote"
+      "title": "Why one of the nation's largest auto lenders isn't worried about high vehicle prices or 'forever loans'"
     },
     {
       "source": "MarketWatch",
-      "title": "These smaller tech stocks are punching well above their weight"
+      "title": "My niece is on Social Security Disability Insurance. Will she lose her health insurance if I buy her a house?"
     },
     {
       "source": "MarketWatch",
-      "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here\u2019s how I did it."
+      "title": "Introducing the \u2018NACHO\u2019 trade: How Wall Street is betting on higher oil prices and persistent inflation"
     }
   ]
 }
