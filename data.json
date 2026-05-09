@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 09 2026  01:58 PT",
+  "generated_at": "Saturday, May 09 2026  03:12 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80409,
-      "change_pct": 0.64
+      "price": 80185,
+      "change_pct": 0.47
     },
     "ETH": {
-      "price": 2316.64,
-      "change_pct": 1.43
+      "price": 2310.81,
+      "change_pct": 1.23
     },
     "SOL": {
-      "price": 93.73,
-      "change_pct": 6.03
+      "price": 93.17,
+      "change_pct": 5.41
     },
     "BNB": {
-      "price": 650.39,
-      "change_pct": 1.98
+      "price": 648.78,
+      "change_pct": 1.71
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. payrolls jump more than expected, but the report had several red flags for the economy"
+      "title": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking"
     },
     {
       "source": "CNBC",
-      "title": "The Federal Reserve is quickly running out of reasons to cut interest rates"
+      "title": "U.S. sanctions companies and individuals in the Middle East and China for helping Iran"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018The S&P 500 seems to be doing particularly well\u2019: I\u2019m 66. Is this a good time to invest $100,000 in the stock market?"
     },
     {
       "source": "MarketWatch",
       "title": "Lumentum\u2019s fiery stock rally earns it a spot in this hot index"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018It saved my relationship with my mom.\u2019 These money managers may help if you\u2019re feeling overwhelmed helping your parents pay their bills."
     }
   ]
 }
