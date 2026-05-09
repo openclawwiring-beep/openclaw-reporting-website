@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, May 08 2026  18:16 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, May 08 2026  21:47 PT",
+  "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7398.93,
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4723.7,
-      "change_pct": -0.11
+      "price": 4720.4,
+      "change_pct": -0.18
     },
     "Oil (WTI)": {
-      "price": 94.68,
-      "change_pct": -1.06
+      "price": 95.42,
+      "change_pct": -0.28
     },
     "Silver": {
-      "price": 80.83,
-      "change_pct": 0.52
+      "price": 80.39,
+      "change_pct": -0.02
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80307,
-      "change_pct": 0.71
+      "price": 80418,
+      "change_pct": 1.05
     },
     "ETH": {
-      "price": 2313.02,
-      "change_pct": 1.24
+      "price": 2314.02,
+      "change_pct": 1.53
     },
     "SOL": {
-      "price": 92.65,
-      "change_pct": 5.15
+      "price": 93.48,
+      "change_pct": 6.1
     },
     "BNB": {
-      "price": 652.93,
-      "change_pct": 2.47
+      "price": 653.96,
+      "change_pct": 2.39
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It saved my relationship with my mom.\u2019 These money managers may help if you\u2019re feeling overwhelmed helping your parents pay their bills."
+      "title": "Lumentum\u2019s fiery stock rally earns it a spot in this hot index"
     },
     {
       "source": "MarketWatch",
-      "title": "Dunkin\u2019 is making its return to the stock market \u2014 with a new twist"
+      "title": "\u2018It saved my relationship with my mom.\u2019 These money managers may help if you\u2019re feeling overwhelmed helping your parents pay their bills."
     }
   ]
 }
