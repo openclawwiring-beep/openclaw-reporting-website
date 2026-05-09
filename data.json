@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 09 2026  11:12 PT",
+  "generated_at": "Saturday, May 09 2026  12:39 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80799,
-      "change_pct": 0.77
+      "price": 80788,
+      "change_pct": 0.9
     },
     "ETH": {
-      "price": 2330.56,
-      "change_pct": 0.8
+      "price": 2327.51,
+      "change_pct": 0.47
     },
     "SOL": {
-      "price": 93.21,
-      "change_pct": 1.57
+      "price": 93.37,
+      "change_pct": 0.87
     },
     "BNB": {
-      "price": 650.21,
-      "change_pct": 0.47
+      "price": 650.65,
+      "change_pct": 0.48
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The S&P 500 seems to be doing particularly well\u2019: I\u2019m 66. Is this a good time to invest $100,000 in the stock market?"
+      "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who\u2019s right?"
     },
     {
       "source": "MarketWatch",
-      "title": "No do-overs: How one extra dollar on your Roth conversion triggers a tax bill you won\u2019t see coming"
+      "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here\u2019s how I did it."
     }
   ]
 }
