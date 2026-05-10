@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 10 2026  03:59 PT",
+  "generated_at": "Sunday, May 10 2026  04:58 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80862,
-      "change_pct": 0.76
+      "price": 80816,
+      "change_pct": 0.58
     },
     "ETH": {
-      "price": 2325.16,
-      "change_pct": 0.56
+      "price": 2321.8,
+      "change_pct": 0.32
     },
     "SOL": {
-      "price": 93.84,
-      "change_pct": 0.48
+      "price": 93.44,
+      "change_pct": -0.14
     },
     "BNB": {
-      "price": 650.78,
-      "change_pct": 0.28
+      "price": 649.38,
+      "change_pct": -0.13
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Saudi Aramco Q1 profit jumps 26% as key pipeline reaches capacity amid Iran war"
+      "title": "Retailers are on a hiring spree. But consumers are sending warning signs"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I\u2019m giving $10,000 to my stepchildren. My wife warned me against gifts of equal value for my nephews. Is that fair?"
     },
     {
       "source": "MarketWatch",
       "title": "My niece is on Social Security Disability Insurance. Will she lose her health insurance if I buy her a house?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The most prestigious role in AI has no job description"
     }
   ]
 }
