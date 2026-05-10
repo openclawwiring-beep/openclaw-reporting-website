@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 10 2026  14:11 PT",
+  "generated_at": "Sunday, May 10 2026  15:09 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80826,
-      "change_pct": -0.03
+      "price": 81090,
+      "change_pct": 0.44
     },
     "ETH": {
-      "price": 2332.68,
-      "change_pct": 0.09
+      "price": 2341.48,
+      "change_pct": 0.51
     },
     "SOL": {
-      "price": 95.15,
-      "change_pct": 1.98
+      "price": 95.38,
+      "change_pct": 2.14
     },
     "BNB": {
-      "price": 652.57,
-      "change_pct": 0.11
+      "price": 655.06,
+      "change_pct": 0.58
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "With Netflix new ad-free standard plan at $20, streaming's tipping point into old TV is getting closer"
+      "title": "Stock futures tick lower as investors monitor the latest Iran war negotiations: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Introducing the \u2018NACHO\u2019 trade: How Wall Street is betting on higher oil prices and persistent inflation"
+      "title": "Powell\u2019s legacy as Fed chair is fighting inflation and Trump. He may lose the battle against both."
     },
     {
       "source": "MarketWatch",
-      "title": "Big Tech\u2019s AI spending is depriving investors of juicy payouts"
+      "title": "Introducing the \u2018NACHO\u2019 trade: How Wall Street is betting on higher oil prices and persistent inflation"
     }
   ]
 }
