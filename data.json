@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 10 2026  02:53 PT",
+  "generated_at": "Sunday, May 10 2026  03:59 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,19 +35,19 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80773,
-      "change_pct": 0.68
+      "price": 80862,
+      "change_pct": 0.76
     },
     "ETH": {
-      "price": 2327.93,
-      "change_pct": 0.65
+      "price": 2325.16,
+      "change_pct": 0.56
     },
     "SOL": {
-      "price": 94.39,
-      "change_pct": 1.19
+      "price": 93.84,
+      "change_pct": 0.48
     },
     "BNB": {
-      "price": 651.55,
+      "price": 650.78,
       "change_pct": 0.28
     }
   },
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The most prestigious role in AI has no job description"
+      "title": "My niece is on Social Security Disability Insurance. Will she lose her health insurance if I buy her a house?"
     },
     {
       "source": "MarketWatch",
-      "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who\u2019s right?"
+      "title": "The most prestigious role in AI has no job description"
     }
   ]
 }
