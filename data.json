@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 10 2026  12:02 PT",
+  "generated_at": "Sunday, May 10 2026  13:09 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81233,
-      "change_pct": 0.44
+      "price": 81421,
+      "change_pct": 0.69
     },
     "ETH": {
-      "price": 2356.18,
-      "change_pct": 1.17
+      "price": 2366.98,
+      "change_pct": 1.61
     },
     "SOL": {
-      "price": 96.3,
-      "change_pct": 3.2
+      "price": 96.48,
+      "change_pct": 3.25
     },
     "BNB": {
-      "price": 660.32,
-      "change_pct": 1.47
+      "price": 661.77,
+      "change_pct": 1.71
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Meet the YouTube whisperers, a booming class of advisors behind MrBeast and other million-dollar channels"
+      "title": "Netanyahu says Iran war is 'not over' as peace deal remains elusive"
     },
     {
       "source": "MarketWatch",
