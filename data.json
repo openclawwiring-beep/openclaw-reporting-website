@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 10 2026  13:09 PT",
+  "generated_at": "Sunday, May 10 2026  14:11 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81421,
-      "change_pct": 0.69
+      "price": 80826,
+      "change_pct": -0.03
     },
     "ETH": {
-      "price": 2366.98,
-      "change_pct": 1.61
+      "price": 2332.68,
+      "change_pct": 0.09
     },
     "SOL": {
-      "price": 96.48,
-      "change_pct": 3.25
+      "price": 95.15,
+      "change_pct": 1.98
     },
     "BNB": {
-      "price": 661.77,
-      "change_pct": 1.71
+      "price": 652.57,
+      "change_pct": 0.11
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Netanyahu says Iran war is 'not over' as peace deal remains elusive"
+      "title": "Netanyahu says Iran war is 'not over' as Trump rejects latest Iranian offer"
     },
     {
       "source": "MarketWatch",
-      "title": "As Nvidia earnings draw closer, here are 5 things investors need to watch"
+      "title": "Introducing the \u2018NACHO\u2019 trade: How Wall Street is betting on higher oil prices and persistent inflation"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Fibermaxxing\u2019 has spurred the launch of fiber sodas and gummies. Is the craze going too far?"
+      "title": "Big Tech\u2019s AI spending is depriving investors of juicy payouts"
     }
   ]
 }
