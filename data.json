@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 10 2026  15:09 PT",
+  "generated_at": "Sunday, May 10 2026  16:25 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4730.7,
-      "change_pct": 0.04
+      "price": 4698.2,
+      "change_pct": -0.69
     },
     "Oil (WTI)": {
-      "price": 95.42,
-      "change_pct": -0.28
+      "price": 98.3,
+      "change_pct": 3.02
     },
     "Silver": {
-      "price": 80.86,
-      "change_pct": 0.56
+      "price": 80.57,
+      "change_pct": -0.36
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81090,
-      "change_pct": 0.44
+      "price": 82266,
+      "change_pct": 1.96
     },
     "ETH": {
-      "price": 2341.48,
-      "change_pct": 0.51
+      "price": 2372.42,
+      "change_pct": 1.98
     },
     "SOL": {
-      "price": 95.38,
-      "change_pct": 2.14
+      "price": 96.06,
+      "change_pct": 3.03
     },
     "BNB": {
-      "price": 655.06,
-      "change_pct": 0.58
+      "price": 664.22,
+      "change_pct": 2.17
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures tick lower as investors monitor the latest Iran war negotiations: Live updates"
+      "title": "Stock futures slide as investors monitor the latest Iran war negotiations: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Powell\u2019s legacy as Fed chair is fighting inflation and Trump. He may lose the battle against both."
+      "title": "U.S. stock futures fall, oil surges as Trump calls Iran\u2019s latest offer to end war \u2018totally unacceptable\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "Introducing the \u2018NACHO\u2019 trade: How Wall Street is betting on higher oil prices and persistent inflation"
+      "title": "Powell\u2019s legacy as Fed chair is fighting inflation and Trump. He may lose the battle against both."
     }
   ]
 }
