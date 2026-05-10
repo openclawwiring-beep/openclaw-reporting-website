@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 10 2026  06:45 PT",
+  "generated_at": "Sunday, May 10 2026  07:52 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80935,
-      "change_pct": 0.76
+      "price": 80873,
+      "change_pct": 0.75
     },
     "ETH": {
-      "price": 2329.02,
-      "change_pct": 0.71
+      "price": 2329.42,
+      "change_pct": 0.96
     },
     "SOL": {
-      "price": 93.7,
-      "change_pct": 0.54
+      "price": 93.79,
+      "change_pct": 0.96
     },
     "BNB": {
-      "price": 650.83,
-      "change_pct": 0.28
+      "price": 650.53,
+      "change_pct": 0.5
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Target is trying to win back busy families from Walmart, starting with the baby aisle"
+      "title": "With Netflix new ad-free standard plan at $20, streaming's tipping point into old TV is getting closer"
     },
     {
       "source": "CNBC",
-      "title": "Alphabet's 160% rally in a year reflects value of owning 'most of the stack' in AI"
+      "title": "Meet the YouTube whisperers, a booming class of advisors behind MrBeast and other million-dollar channels"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Big Tech\u2019s AI spending is depriving investors of juicy payouts"
     },
     {
       "source": "MarketWatch",
       "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who\u2019s right?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018The S&P 500 seems to be doing particularly well\u2019: I\u2019m 66. Is this a good time to invest $100,000 in the stock market?"
     }
   ]
 }
