@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 09 2026  16:47 PT",
+  "generated_at": "Saturday, May 09 2026  19:51 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80648,
-      "change_pct": 0.6
+      "price": 80756,
+      "change_pct": 0.41
     },
     "ETH": {
-      "price": 2325.0,
-      "change_pct": 0.85
+      "price": 2327.17,
+      "change_pct": 0.41
     },
     "SOL": {
-      "price": 93.05,
-      "change_pct": 1.31
+      "price": 92.97,
+      "change_pct": -0.47
     },
     "BNB": {
-      "price": 649.55,
-      "change_pct": 0.2
+      "price": 647.49,
+      "change_pct": -0.97
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who\u2019s right?"
+      "title": "The most prestigious role in AI has no job description"
     },
     {
       "source": "MarketWatch",
-      "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here\u2019s how I did it."
+      "title": "My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who\u2019s right?"
     }
   ]
 }
