@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 10 2026  01:26 PT",
+  "generated_at": "Sunday, May 10 2026  02:53 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80809,
-      "change_pct": 0.53
+      "price": 80773,
+      "change_pct": 0.68
     },
     "ETH": {
-      "price": 2329.57,
-      "change_pct": 0.48
+      "price": 2327.93,
+      "change_pct": 0.65
     },
     "SOL": {
-      "price": 93.91,
-      "change_pct": 0.15
+      "price": 94.39,
+      "change_pct": 1.19
     },
     "BNB": {
-      "price": 649.64,
-      "change_pct": -0.1
+      "price": 651.55,
+      "change_pct": 0.28
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year"
+      "title": "Saudi Aramco Q1 profit jumps 26% as key pipeline reaches capacity amid Iran war"
     },
     {
       "source": "MarketWatch",
