@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 10 2026  09:55 PT",
+  "generated_at": "Sunday, May 10 2026  10:51 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81314,
-      "change_pct": 0.88
+      "price": 81376,
+      "change_pct": 0.72
     },
     "ETH": {
-      "price": 2349.28,
-      "change_pct": 1.29
+      "price": 2355.97,
+      "change_pct": 1.2
     },
     "SOL": {
-      "price": 94.77,
-      "change_pct": 2.14
+      "price": 95.82,
+      "change_pct": 2.82
     },
     "BNB": {
-      "price": 656.78,
-      "change_pct": 1.32
+      "price": 659.46,
+      "change_pct": 1.53
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Fibermaxxing\u2019 has spurred the launch of fiber sodas and gummies. Is the craze going too far?"
+      "title": "As Nvidia earnings draw closer, here are 5 things investors need to watch"
     },
     {
       "source": "MarketWatch",
-      "title": "Big Tech\u2019s AI spending is depriving investors of juicy payouts"
+      "title": "\u2018Fibermaxxing\u2019 has spurred the launch of fiber sodas and gummies. Is the craze going too far?"
     }
   ]
 }
