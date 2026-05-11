@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 10 2026  22:31 PT",
+  "generated_at": "Monday, May 11 2026  02:37 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4681.2,
+      "price": 4669.1,
       "change_pct": -0.38
     },
     "Oil (WTI)": {
-      "price": 100.12,
-      "change_pct": 0.95
+      "price": 97.58,
+      "change_pct": -2.36
     },
     "Silver": {
-      "price": 80.86,
-      "change_pct": 0.12
+      "price": 80.71,
+      "change_pct": -0.6
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80943,
-      "change_pct": 0.24
+      "price": 80871,
+      "change_pct": 0.15
     },
     "ETH": {
-      "price": 2337.74,
-      "change_pct": 0.4
+      "price": 2334.63,
+      "change_pct": 0.31
     },
     "SOL": {
-      "price": 95.52,
-      "change_pct": 2.25
+      "price": 95.2,
+      "change_pct": 0.88
     },
     "BNB": {
-      "price": 653.17,
-      "change_pct": 0.79
+      "price": 652.19,
+      "change_pct": 0.18
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "From Singapore to Brussels, world leaders eye Trump-Xi summit\u00a0from afar"
+      "title": "Brent oil tops $103 after Trump dismisses Iran\u2019s peace proposal response"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures slide as investors monitor the latest Iran war negotiations: Live updates"
+      "title": "Stock futures dip as investors monitor the latest Iran war negotiations: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. stock futures fall, oil surges as Trump calls Iran\u2019s latest offer to end war \u2018totally unacceptable\u2019"
+      "title": "\u2018I nearly made a major misstep\u2019: I claimed my Social Security benefits at 64 instead of 70. Here\u2019s why."
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m giving $10,000 to my stepchildren. My wife warned me against gifts of equal value for my nephews. Is that fair?"
+      "title": "The investor who backed Nvidia in 2016 and a memory-chip maker in 2024 now has a third conviction call"
     }
   ]
 }
