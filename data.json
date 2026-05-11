@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, May 11 2026  12:45 PT",
-  "market_status": "Live \u2014 as of 15:45 ET",
+  "generated_at": "Monday, May 11 2026  14:15 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7404.87,
-      "change_pct": 0.1
+      "price": 7412.84,
+      "change_pct": 0.19
     },
     "Nasdaq": {
-      "price": 26248.01,
-      "change_pct": 0.0
+      "price": 26274.12,
+      "change_pct": 0.1
     },
     "Dow Jones": {
-      "price": 49638.05,
-      "change_pct": 0.08
+      "price": 49704.47,
+      "change_pct": 0.19
     },
     "Russell 2000": {
-      "price": 2871.45,
-      "change_pct": 0.37
+      "price": 2870.64,
+      "change_pct": 0.33
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4734.0,
-      "change_pct": 1.0
+      "price": 4745.6,
+      "change_pct": 1.25
     },
     "Oil (WTI)": {
-      "price": 98.12,
-      "change_pct": -1.82
+      "price": 98.25,
+      "change_pct": -1.69
     },
     "Silver": {
-      "price": 86.6,
-      "change_pct": 6.65
+      "price": 86.81,
+      "change_pct": 6.9
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82000,
-      "change_pct": 0.72
+      "price": 81709,
+      "change_pct": 1.19
     },
     "ETH": {
-      "price": 2341.5,
-      "change_pct": -0.97
+      "price": 2339.58,
+      "change_pct": 0.44
     },
     "SOL": {
-      "price": 98.16,
-      "change_pct": 1.67
+      "price": 97.55,
+      "change_pct": 2.94
     },
     "BNB": {
-      "price": 661.69,
-      "change_pct": 0.01
+      "price": 662.91,
+      "change_pct": 1.67
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says Iran ceasefire is 'on life support' after rejecting Tehran's counterproposal"
-    },
-    {
-      "source": "CNBC",
       "title": "Trump invites Elon Musk, Tim Cook, Larry Fink and other CEOs to join China trip for Xi summit"
     },
     {
-      "source": "MarketWatch",
-      "title": "U.S. households face serious pain beyond gas prices as diesel nears record highs"
+      "source": "CNBC",
+      "title": "Trump says Iran ceasefire is 'on life support' after rejecting Tehran's counterproposal"
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia has added an Oracle\u2019s worth of market cap in just four trading days"
+      "title": "Figuring out how to watch NBA playoff games has been a struggle. And \u2014 sorry, sports fans \u2014 it\u2019s only getting worse."
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here\u2019s the next AI \u2018battleground\u2019 \u2014\u00a0and how investors can get in on the action"
     }
   ]
 }
