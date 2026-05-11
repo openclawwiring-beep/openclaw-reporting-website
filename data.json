@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, May 11 2026  15:32 PT",
+  "generated_at": "Monday, May 11 2026  16:57 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4748.0,
-      "change_pct": 1.3
+      "price": 4767.4,
+      "change_pct": 1.72
     },
     "Oil (WTI)": {
-      "price": 98.15,
-      "change_pct": -1.79
+      "price": 98.11,
+      "change_pct": -1.83
     },
     "Silver": {
-      "price": 87.04,
-      "change_pct": 7.2
+      "price": 87.54,
+      "change_pct": 7.81
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81727,
-      "change_pct": -0.2
+      "price": 81732,
+      "change_pct": -0.5
     },
     "ETH": {
-      "price": 2338.37,
+      "price": 2339.95,
       "change_pct": -1.22
     },
     "SOL": {
-      "price": 97.47,
-      "change_pct": 1.34
+      "price": 97.29,
+      "change_pct": 0.9
     },
     "BNB": {
-      "price": 663.6,
-      "change_pct": -0.13
+      "price": 669.95,
+      "change_pct": 0.96
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Oil price charts produced a pattern not seen in 36 years. What happened last time?"
+      "title": "Meet the Nvidias of power \u2014 5 stocks winning Big Tech\u2019s $700 billion AI energy grab"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s the next AI \u2018battleground\u2019 \u2014\u00a0and how investors can get in on the action"
+      "title": "BuzzFeed\u2019s stock more than doubles as beleaguered media company gets a lifeline"
     }
   ]
 }
