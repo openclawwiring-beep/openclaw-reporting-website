@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, May 12 2026  13:28 PT",
+  "generated_at": "Tuesday, May 12 2026  14:50 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4722.7,
-      "change_pct": -0.13
+      "price": 4722.6,
+      "change_pct": -0.14
     },
     "Oil (WTI)": {
-      "price": 102.41,
-      "change_pct": 3.26
+      "price": 102.05,
+      "change_pct": 2.89
     },
     "Silver": {
-      "price": 87.33,
-      "change_pct": 0.65
+      "price": 87.21,
+      "change_pct": 0.51
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80783,
-      "change_pct": -1.35
+      "price": 80538,
+      "change_pct": -1.51
     },
     "ETH": {
-      "price": 2284.97,
-      "change_pct": -2.27
+      "price": 2283.7,
+      "change_pct": -2.41
     },
     "SOL": {
-      "price": 94.87,
-      "change_pct": -3.03
+      "price": 94.64,
+      "change_pct": -2.95
     },
     "BNB": {
-      "price": 665.24,
-      "change_pct": 0.56
+      "price": 665.32,
+      "change_pct": 0.27
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The Pentagon now estimates the Iran war is costing $29 billion. The overall economic toll is much greater."
+      "title": "Copper prices are now at their highest level on record. AI is only part of the story."
     },
     {
       "source": "MarketWatch",
-      "title": "There\u2019s an estrogen-patch shortage \u2014 but these other menopause treatments can help"
+      "title": "What former poker champion turned investing coach Annie Duke says most of us get wrong about risk"
     }
   ]
 }
