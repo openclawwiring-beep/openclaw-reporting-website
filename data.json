@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, May 11 2026  16:57 PT",
+  "generated_at": "Monday, May 11 2026  20:40 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4767.4,
-      "change_pct": 1.72
+      "price": 4733.0,
+      "change_pct": 0.98
     },
     "Oil (WTI)": {
-      "price": 98.11,
-      "change_pct": -1.83
+      "price": 99.04,
+      "change_pct": -0.9
     },
     "Silver": {
-      "price": 87.54,
-      "change_pct": 7.81
+      "price": 86.72,
+      "change_pct": 6.8
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81732,
-      "change_pct": -0.5
+      "price": 81169,
+      "change_pct": 0.72
     },
     "ETH": {
-      "price": 2339.95,
-      "change_pct": -1.22
+      "price": 2312.19,
+      "change_pct": -0.5
     },
     "SOL": {
-      "price": 97.29,
-      "change_pct": 0.9
+      "price": 96.29,
+      "change_pct": 1.81
     },
     "BNB": {
-      "price": 669.95,
-      "change_pct": 0.96
+      "price": 662.38,
+      "change_pct": 1.81
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump invites Elon Musk, Tim Cook, Larry Fink and other CEOs to join China trip for Xi summit"
+      "title": "Stock futures are little changed as traders await inflation reading, monitor Iran war developments: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Trump says Iran ceasefire is 'on life support' after rejecting Tehran's counterproposal"
+      "title": "Trump puts Taiwan arms sales, Hong Kong jailed activist Lai on agenda ahead of meeting with Xi"
     },
     {
       "source": "MarketWatch",
-      "title": "Meet the Nvidias of power \u2014 5 stocks winning Big Tech\u2019s $700 billion AI energy grab"
+      "title": "Iren\u2019s stock pulls back as investors assess the steep price of the AI buildout"
     },
     {
       "source": "MarketWatch",
-      "title": "BuzzFeed\u2019s stock more than doubles as beleaguered media company gets a lifeline"
+      "title": "AST SpaceMobile\u2019s stock drops as earnings come with a big disappointment"
     }
   ]
 }
