@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, May 12 2026  11:54 PT",
-  "market_status": "Live \u2014 as of 14:54 ET",
+  "generated_at": "Tuesday, May 12 2026  13:28 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7383.32,
-      "change_pct": -0.4
+      "price": 7400.96,
+      "change_pct": -0.16
     },
     "Nasdaq": {
-      "price": 25954.7,
-      "change_pct": -1.22
+      "price": 26088.2,
+      "change_pct": -0.71
     },
     "Dow Jones": {
-      "price": 49755.89,
-      "change_pct": 0.1
+      "price": 49760.56,
+      "change_pct": 0.11
     },
     "Russell 2000": {
-      "price": 2834.47,
-      "change_pct": -1.27
+      "price": 2842.83,
+      "change_pct": -0.97
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4703.8,
-      "change_pct": -0.53
+      "price": 4722.7,
+      "change_pct": -0.13
     },
     "Oil (WTI)": {
-      "price": 102.46,
-      "change_pct": 3.31
+      "price": 102.41,
+      "change_pct": 3.26
     },
     "Silver": {
-      "price": 86.58,
-      "change_pct": -0.21
+      "price": 87.33,
+      "change_pct": 0.65
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80672,
-      "change_pct": -1.54
+      "price": 80783,
+      "change_pct": -1.35
     },
     "ETH": {
-      "price": 2282.04,
-      "change_pct": -2.4
+      "price": 2284.97,
+      "change_pct": -2.27
     },
     "SOL": {
-      "price": 94.62,
-      "change_pct": -2.91
+      "price": 94.87,
+      "change_pct": -3.03
     },
     "BNB": {
-      "price": 660.26,
-      "change_pct": -0.29
+      "price": 665.24,
+      "change_pct": 0.56
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "AI is \u2018absolutely useless\u2019 at forecasting inflation. This proven model is 12 times more accurate."
+      "title": "The Pentagon now estimates the Iran war is costing $29 billion. The overall economic toll is much greater."
     },
     {
       "source": "MarketWatch",
-      "title": "As airfares soar 21%, these are the cheapest cities to fly into"
+      "title": "There\u2019s an estrogen-patch shortage \u2014 but these other menopause treatments can help"
     }
   ]
 }
