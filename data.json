@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, May 12 2026  09:36 PT",
-  "market_status": "Live \u2014 as of 12:36 ET",
+  "generated_at": "Tuesday, May 12 2026  11:54 PT",
+  "market_status": "Live \u2014 as of 14:54 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7349.82,
-      "change_pct": -0.85
+      "price": 7383.32,
+      "change_pct": -0.4
     },
     "Nasdaq": {
-      "price": 25816.08,
-      "change_pct": -1.74
+      "price": 25954.7,
+      "change_pct": -1.22
     },
     "Dow Jones": {
-      "price": 49570.61,
-      "change_pct": -0.28
+      "price": 49755.89,
+      "change_pct": 0.1
     },
     "Russell 2000": {
-      "price": 2807.1,
-      "change_pct": -2.22
+      "price": 2834.47,
+      "change_pct": -1.27
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4674.2,
-      "change_pct": -1.16
+      "price": 4703.8,
+      "change_pct": -0.53
     },
     "Oil (WTI)": {
-      "price": 101.74,
-      "change_pct": 2.58
+      "price": 102.46,
+      "change_pct": 3.31
     },
     "Silver": {
-      "price": 85.04,
-      "change_pct": -1.99
+      "price": 86.58,
+      "change_pct": -0.21
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80252,
-      "change_pct": -1.92
+      "price": 80672,
+      "change_pct": -1.54
     },
     "ETH": {
-      "price": 2265.16,
-      "change_pct": -2.99
+      "price": 2282.04,
+      "change_pct": -2.4
     },
     "SOL": {
-      "price": 94.07,
-      "change_pct": -3.63
+      "price": 94.62,
+      "change_pct": -2.91
     },
     "BNB": {
-      "price": 653.38,
-      "change_pct": -1.2
+      "price": 660.26,
+      "change_pct": -0.29
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Here's the inflation breakdown for April 2026 \u2014 in one chart"
+      "title": "It's not just Iran and oil raising inflation. Prices also are reaccelerating in these other areas"
     },
     {
       "source": "CNBC",
-      "title": "OpenAI trial updates: Altman says he and others had concerns about giving Musk a controlling stake"
+      "title": "The stock market isn't ignoring Iran. It's rising for these three very real reasons"
     },
     {
       "source": "MarketWatch",
-      "title": "Google AI legend raises big money for startup targeting this cutting-edge goal"
+      "title": "AI is \u2018absolutely useless\u2019 at forecasting inflation. This proven model is 12 times more accurate."
     },
     {
       "source": "MarketWatch",
-      "title": "These 10 \u2018HALO\u2019 stocks protect your portfolio from the AI bubble"
+      "title": "As airfares soar 21%, these are the cheapest cities to fly into"
     }
   ]
 }
