@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, May 12 2026  04:53 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, May 12 2026  07:23 PT",
+  "market_status": "Live \u2014 as of 10:23 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7412.84,
-      "change_pct": 0.19
+      "price": 7376.73,
+      "change_pct": -0.49
     },
     "Nasdaq": {
-      "price": 26274.13,
-      "change_pct": 0.1
+      "price": 26094.49,
+      "change_pct": -0.68
     },
     "Dow Jones": {
-      "price": 49704.47,
-      "change_pct": 0.19
+      "price": 49372.58,
+      "change_pct": -0.67
     },
     "Russell 2000": {
-      "price": 2870.64,
-      "change_pct": 0.33
+      "price": 2834.32,
+      "change_pct": -1.27
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4713.0,
-      "change_pct": -0.34
+      "price": 4702.8,
+      "change_pct": -0.55
     },
     "Oil (WTI)": {
-      "price": 101.33,
-      "change_pct": 2.17
+      "price": 101.51,
+      "change_pct": 2.35
     },
     "Silver": {
-      "price": 84.67,
-      "change_pct": -2.41
+      "price": 86.03,
+      "change_pct": -0.85
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80715,
-      "change_pct": -0.51
+      "price": 80778,
+      "change_pct": -0.18
     },
     "ETH": {
-      "price": 2284.73,
-      "change_pct": -2.09
+      "price": 2279.66,
+      "change_pct": -1.79
     },
     "SOL": {
-      "price": 94.82,
-      "change_pct": -0.31
+      "price": 95.1,
+      "change_pct": -0.5
     },
     "BNB": {
-      "price": 662.29,
-      "change_pct": 1.07
+      "price": 656.51,
+      "change_pct": 0.39
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures slip as traders await inflation reading, monitor Iran war developments: Live updates"
+      "title": "Consumer prices rose 3.8% annually in April, the highest since May 2023"
     },
     {
       "source": "CNBC",
-      "title": "EBay rejects GameStop's $56 billion takeover bid, calling it 'neither credible nor attractive'"
+      "title": "OpenAI trial updates: Board chair Taylor continues testimony, Altman set to take stand"
     },
     {
       "source": "MarketWatch",
-      "title": "This dot-com survivor says AI build-out is more like 1997 than 1999 \u2014 and still urges investors to hold more cash"
+      "title": "\u2018She is very angry with me\u2019: My daughter, 30, has issues with drugs. Should I take half the profit from the sale of her house?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I nearly made a major misstep\u2019: I claimed my Social Security benefits at 64 instead of 70. Here\u2019s why."
+      "title": "The \u2018DRAM\u2019 memory ETF has gotten off to a blazing start. Here comes a leveraged version."
     }
   ]
 }
