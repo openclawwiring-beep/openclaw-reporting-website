@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, May 11 2026  23:36 PT",
+  "generated_at": "Tuesday, May 12 2026  02:37 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4704.5,
-      "change_pct": -0.64
+      "price": 4706.7,
+      "change_pct": -0.47
     },
     "Oil (WTI)": {
-      "price": 99.48,
-      "change_pct": 0.48
+      "price": 101.48,
+      "change_pct": 2.32
     },
     "Silver": {
-      "price": 85.4,
-      "change_pct": -1.49
+      "price": 84.68,
+      "change_pct": -2.4
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81123,
-      "change_pct": 0.23
+      "price": 80898,
+      "change_pct": 0.04
     },
     "ETH": {
-      "price": 2307.28,
-      "change_pct": -1.3
+      "price": 2292.05,
+      "change_pct": -1.8
     },
     "SOL": {
-      "price": 96.48,
-      "change_pct": 0.71
+      "price": 95.84,
+      "change_pct": 0.7
     },
     "BNB": {
-      "price": 661.23,
-      "change_pct": 1.22
+      "price": 660.37,
+      "change_pct": 1.26
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump puts Taiwan arms sales, Hong Kong jailed activist Lai on agenda ahead of meeting with Xi"
+      "title": "Stock futures slip as traders await inflation reading, monitor Iran war developments: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "European stocks to open lower as hopes for U.S.-Iran peace deal fade"
+      "title": "On Holding beats first-quarter expectations, sees double-digit growth in China as Nike lags"
     },
     {
       "source": "MarketWatch",
-      "title": "Iren\u2019s stock pulls back as investors assess the steep price of the AI buildout"
+      "title": "The hottest stock market in the world finally met its match: taxes"
     },
     {
       "source": "MarketWatch",
-      "title": "AST SpaceMobile\u2019s stock drops as earnings come with a big disappointment"
+      "title": "\u2018She is very angry with me\u2019: My daughter has drug issues. Should I take half the profit from the sale of her house?"
     }
   ]
 }
