@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, May 13 2026  10:34 PT",
-  "market_status": "Live \u2014 as of 13:34 ET",
+  "generated_at": "Wednesday, May 13 2026  12:53 PT",
+  "market_status": "Live \u2014 as of 15:53 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7445.74,
-      "change_pct": 0.6
+      "price": 7446.98,
+      "change_pct": 0.61
     },
     "Nasdaq": {
-      "price": 26401.95,
-      "change_pct": 1.2
+      "price": 26391.39,
+      "change_pct": 1.16
     },
     "Dow Jones": {
-      "price": 49609.18,
-      "change_pct": -0.32
+      "price": 49725.89,
+      "change_pct": -0.09
     },
     "Russell 2000": {
-      "price": 2841.8,
-      "change_pct": -0.04
+      "price": 2850.76,
+      "change_pct": 0.28
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4706.1,
-      "change_pct": 0.07
+      "price": 4695.7,
+      "change_pct": -0.16
     },
     "Oil (WTI)": {
-      "price": 101.83,
-      "change_pct": 0.74
+      "price": 101.21,
+      "change_pct": 0.13
     },
     "Silver": {
-      "price": 89.45,
-      "change_pct": 2.49
+      "price": 88.4,
+      "change_pct": 1.29
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79296,
-      "change_pct": -1.42
+      "price": 79509,
+      "change_pct": -1.6
     },
     "ETH": {
-      "price": 2255.09,
-      "change_pct": -0.85
+      "price": 2254.5,
+      "change_pct": -1.32
     },
     "SOL": {
-      "price": 90.92,
-      "change_pct": -3.73
+      "price": 90.88,
+      "change_pct": -4.17
     },
     "BNB": {
-      "price": 669.94,
-      "change_pct": 2.28
+      "price": 670.45,
+      "change_pct": 1.17
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump arrives in Beijing with CEOs ahead of Xi meetings"
+      "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair"
     },
     {
       "source": "CNBC",
-      "title": "Wholesale inflation jumps 6% in April on annual basis, biggest increase since 2022"
+      "title": "Trump arrives in Beijing with CEOs ahead of Xi meetings"
     },
     {
       "source": "MarketWatch",
-      "title": "Roast my house, Reddit! Desperate home sellers are asking strangers for help getting offers."
+      "title": "Ford\u2019s stock is the S&P 500\u2019s biggest gainer. The carmaker is putting a very Tesla spin on things."
     },
     {
       "source": "MarketWatch",
-      "title": "My overseas flight costs $1,000. Is it better to wait until after the Iran war to buy my ticket?"
+      "title": "The Iran war could be a $300 billion shock \u2014 driving up mortgage rates and squeezing wages"
     }
   ]
 }
