@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, May 12 2026  17:09 PT",
+  "generated_at": "Tuesday, May 12 2026  21:29 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4725.2,
-      "change_pct": -0.08
+      "price": 4708.8,
+      "change_pct": -0.02
     },
     "Oil (WTI)": {
-      "price": 102.07,
-      "change_pct": 2.91
+      "price": 101.01,
+      "change_pct": -0.16
     },
     "Silver": {
-      "price": 87.89,
-      "change_pct": 1.29
+      "price": 87.44,
+      "change_pct": 0.14
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80471,
-      "change_pct": -1.47
+      "price": 81164,
+      "change_pct": -0.03
     },
     "ETH": {
-      "price": 2276.65,
-      "change_pct": -2.6
+      "price": 2300.52,
+      "change_pct": -0.47
     },
     "SOL": {
-      "price": 94.16,
-      "change_pct": -3.19
+      "price": 95.72,
+      "change_pct": -0.58
     },
     "BNB": {
-      "price": 665.13,
-      "change_pct": -0.63
+      "price": 678.25,
+      "change_pct": 2.28
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "The stock market isn't ignoring Iran. It's rising for these three very real reasons"
+      "title": "For Chinese exporters, Iran worries eclipse tariff woes as Trump, Xi prepare to meet"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "What former poker champion turned investing coach Annie Duke says most of us get wrong about risk"
     },
     {
       "source": "MarketWatch",
       "title": "My retirement fund is like an AI version of me. It keeps working when I\u2019m not able to."
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018I\u2019m not an extravagant spender\u2019: I\u2019m in my 70s with a $90,000 income. Can I afford my dream home with a pool?"
     }
   ]
 }
