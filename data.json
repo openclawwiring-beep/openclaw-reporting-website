@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, May 12 2026  15:59 PT",
+  "generated_at": "Tuesday, May 12 2026  17:09 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4725.1,
+      "price": 4725.2,
       "change_pct": -0.08
     },
     "Oil (WTI)": {
-      "price": 101.85,
-      "change_pct": 2.69
+      "price": 102.07,
+      "change_pct": 2.91
     },
     "Silver": {
-      "price": 87.53,
-      "change_pct": 0.88
+      "price": 87.89,
+      "change_pct": 1.29
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80669,
-      "change_pct": -1.41
+      "price": 80471,
+      "change_pct": -1.47
     },
     "ETH": {
-      "price": 2282.83,
-      "change_pct": -2.49
+      "price": 2276.65,
+      "change_pct": -2.6
     },
     "SOL": {
-      "price": 94.69,
-      "change_pct": -3.02
+      "price": 94.16,
+      "change_pct": -3.19
     },
     "BNB": {
-      "price": 666.52,
-      "change_pct": -0.43
+      "price": 665.13,
+      "change_pct": -0.63
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The real cost of the Iran war isn\u2019t just higher prices \u2014 it\u2019s market paralysis"
+      "title": "My retirement fund is like an AI version of me. It keeps working when I\u2019m not able to."
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s the silver lining for stocks and 5% Treasury yields"
+      "title": "\u2018I\u2019m not an extravagant spender\u2019: I\u2019m in my 70s with a $90,000 income. Can I afford my dream home with a pool?"
     }
   ]
 }
