@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, May 13 2026  14:25 PT",
+  "generated_at": "Wednesday, May 13 2026  15:45 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4697.1,
-      "change_pct": -0.13
+      "price": 4703.8,
+      "change_pct": 0.02
     },
     "Oil (WTI)": {
-      "price": 101.0,
-      "change_pct": -0.08
+      "price": 100.89,
+      "change_pct": -0.19
     },
     "Silver": {
-      "price": 88.15,
-      "change_pct": 1.01
+      "price": 88.48,
+      "change_pct": 1.38
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79380,
-      "change_pct": -1.56
+      "price": 79360,
+      "change_pct": -1.58
     },
     "ETH": {
-      "price": 2255.68,
-      "change_pct": -1.31
+      "price": 2255.71,
+      "change_pct": -1.24
     },
     "SOL": {
-      "price": 90.91,
-      "change_pct": -4.02
+      "price": 91.04,
+      "change_pct": -3.86
     },
     "BNB": {
-      "price": 669.97,
-      "change_pct": 0.55
+      "price": 670.91,
+      "change_pct": 0.7
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair"
-    },
-    {
-      "source": "CNBC",
       "title": "Cisco's stock pops 15% on surging AI orders, as company says it's cutting almost 4,000 jobs"
     },
     {
-      "source": "MarketWatch",
-      "title": "\u2018I have zero envy\u2019: I\u2019m 75, enjoy working and live below my means. Why are more people not like me?"
+      "source": "CNBC",
+      "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair"
     },
     {
       "source": "MarketWatch",
-      "title": "Cerebras\u2019s IPO will be a fresh test of investor excitement for AI infrastructure"
+      "title": "Retailers keep tinkering with their AI shopping assistants, in search of better service"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Cisco to cut jobs so it can invest more in AI, and the stock rockets toward a record"
     }
   ]
 }
