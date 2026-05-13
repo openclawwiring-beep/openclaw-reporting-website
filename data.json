@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, May 13 2026  15:45 PT",
+  "generated_at": "Wednesday, May 13 2026  16:57 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4703.8,
-      "change_pct": 0.02
+      "price": 4701.2,
+      "change_pct": -0.04
     },
     "Oil (WTI)": {
-      "price": 100.89,
-      "change_pct": -0.19
+      "price": 100.96,
+      "change_pct": -0.12
     },
     "Silver": {
-      "price": 88.48,
-      "change_pct": 1.38
+      "price": 88.22,
+      "change_pct": 1.08
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79360,
-      "change_pct": -1.58
+      "price": 79267,
+      "change_pct": -1.51
     },
     "ETH": {
-      "price": 2255.71,
-      "change_pct": -1.24
+      "price": 2257.5,
+      "change_pct": -0.75
     },
     "SOL": {
-      "price": 91.04,
-      "change_pct": -3.86
+      "price": 91.07,
+      "change_pct": -3.4
     },
     "BNB": {
-      "price": 670.91,
-      "change_pct": 0.7
+      "price": 671.45,
+      "change_pct": 1.0
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Cisco's stock pops 15% on surging AI orders, as company says it's cutting almost 4,000 jobs"
+      "title": "Cisco's stock pops 17% on surging AI orders, as company says it's cutting almost 4,000 jobs"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Retailers keep tinkering with their AI shopping assistants, in search of better service"
+      "title": "Cerebras\u2019s massive IPO will be a fresh test of investor excitement for AI infrastructure"
     },
     {
       "source": "MarketWatch",
-      "title": "Cisco to cut jobs so it can invest more in AI, and the stock rockets toward a record"
+      "title": "Inflation will likely be higher for longer. Your retirement plan isn\u2019t built for that."
     }
   ]
 }
