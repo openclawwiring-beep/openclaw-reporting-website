@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, May 12 2026  21:29 PT",
+  "generated_at": "Wednesday, May 13 2026  00:38 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4708.8,
-      "change_pct": -0.02
+      "price": 4716.4,
+      "change_pct": 0.14
     },
     "Oil (WTI)": {
-      "price": 101.01,
-      "change_pct": -0.16
+      "price": 100.7,
+      "change_pct": -0.46
     },
     "Silver": {
-      "price": 87.44,
-      "change_pct": 0.14
+      "price": 87.5,
+      "change_pct": 0.21
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81164,
-      "change_pct": -0.03
+      "price": 80891,
+      "change_pct": -0.09
     },
     "ETH": {
-      "price": 2300.52,
-      "change_pct": -0.47
+      "price": 2297.84,
+      "change_pct": -0.05
     },
     "SOL": {
-      "price": 95.72,
-      "change_pct": -0.58
+      "price": 95.02,
+      "change_pct": -1.14
     },
     "BNB": {
-      "price": 678.25,
-      "change_pct": 2.28
+      "price": 677.47,
+      "change_pct": 2.76
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "It's not just Iran and oil raising inflation. Prices also are reaccelerating in these other areas"
+      "title": "SoftBank posts $46 billion gain at Vision Fund driven mainly by massive OpenAI bet"
     },
     {
       "source": "CNBC",
-      "title": "For Chinese exporters, Iran worries eclipse tariff woes as Trump, Xi prepare to meet"
+      "title": "Jensen Huang joins Trump's China trip after the U.S. president called the Nvidia CEO"
     },
     {
       "source": "MarketWatch",
