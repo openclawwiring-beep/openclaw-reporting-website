@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, May 13 2026  00:38 PT",
+  "generated_at": "Wednesday, May 13 2026  03:27 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4716.4,
+      "price": 4709.7,
       "change_pct": 0.14
     },
     "Oil (WTI)": {
-      "price": 100.7,
-      "change_pct": -0.46
+      "price": 101.73,
+      "change_pct": 0.64
     },
     "Silver": {
-      "price": 87.5,
-      "change_pct": 0.21
+      "price": 87.7,
+      "change_pct": 0.49
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80891,
-      "change_pct": -0.09
+      "price": 81086,
+      "change_pct": 0.5
     },
     "ETH": {
-      "price": 2297.84,
-      "change_pct": -0.05
+      "price": 2314.22,
+      "change_pct": 1.13
     },
     "SOL": {
-      "price": 95.02,
-      "change_pct": -1.14
+      "price": 95.39,
+      "change_pct": 0.02
     },
     "BNB": {
-      "price": 677.47,
-      "change_pct": 2.76
+      "price": 682.54,
+      "change_pct": 3.21
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SoftBank posts $46 billion gain at Vision Fund driven mainly by massive OpenAI bet"
+      "title": "Stock futures broadly higher as Wall Street awaits another April inflation report: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Jensen Huang joins Trump's China trip after the U.S. president called the Nvidia CEO"
+      "title": "Jamie Dimon warns JP Morgan may rethink new London office if 'very smart' Starmer is ousted as UK PM"
     },
     {
       "source": "MarketWatch",
-      "title": "What former poker champion turned investing coach Annie Duke says most of us get wrong about risk"
+      "title": "\u2018I have zero envy\u2019: I\u2019m 75, enjoy working and live below my means. Why are more people not like me?"
     },
     {
       "source": "MarketWatch",
-      "title": "My retirement fund is like an AI version of me. It keeps working when I\u2019m not able to."
+      "title": "I want to go on a trip this fall. Should I wait until the Iran war ends to book my flight?"
     }
   ]
 }
