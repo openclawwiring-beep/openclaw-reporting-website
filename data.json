@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, May 13 2026  12:53 PT",
-  "market_status": "Live \u2014 as of 15:53 ET",
+  "generated_at": "Wednesday, May 13 2026  14:25 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7446.98,
-      "change_pct": 0.61
+      "price": 7444.25,
+      "change_pct": 0.58
     },
     "Nasdaq": {
-      "price": 26391.39,
-      "change_pct": 1.16
+      "price": 26402.34,
+      "change_pct": 1.2
     },
     "Dow Jones": {
-      "price": 49725.89,
-      "change_pct": -0.09
+      "price": 49693.2,
+      "change_pct": -0.14
     },
     "Russell 2000": {
-      "price": 2850.76,
-      "change_pct": 0.28
+      "price": 2843.93,
+      "change_pct": 0.04
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4695.7,
-      "change_pct": -0.16
+      "price": 4697.1,
+      "change_pct": -0.13
     },
     "Oil (WTI)": {
-      "price": 101.21,
-      "change_pct": 0.13
+      "price": 101.0,
+      "change_pct": -0.08
     },
     "Silver": {
-      "price": 88.4,
-      "change_pct": 1.29
+      "price": 88.15,
+      "change_pct": 1.01
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79509,
-      "change_pct": -1.6
+      "price": 79380,
+      "change_pct": -1.56
     },
     "ETH": {
-      "price": 2254.5,
-      "change_pct": -1.32
+      "price": 2255.68,
+      "change_pct": -1.31
     },
     "SOL": {
-      "price": 90.88,
-      "change_pct": -4.17
+      "price": 90.91,
+      "change_pct": -4.02
     },
     "BNB": {
-      "price": 670.45,
-      "change_pct": 1.17
+      "price": 669.97,
+      "change_pct": 0.55
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump arrives in Beijing with CEOs ahead of Xi meetings"
+      "title": "Cisco's stock pops 15% on surging AI orders, as company says it's cutting almost 4,000 jobs"
     },
     {
       "source": "MarketWatch",
-      "title": "Ford\u2019s stock is the S&P 500\u2019s biggest gainer. The carmaker is putting a very Tesla spin on things."
+      "title": "\u2018I have zero envy\u2019: I\u2019m 75, enjoy working and live below my means. Why are more people not like me?"
     },
     {
       "source": "MarketWatch",
-      "title": "The Iran war could be a $300 billion shock \u2014 driving up mortgage rates and squeezing wages"
+      "title": "Cerebras\u2019s IPO will be a fresh test of investor excitement for AI infrastructure"
     }
   ]
 }
