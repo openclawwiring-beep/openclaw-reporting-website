@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, May 14 2026  09:27 PT",
-  "market_status": "Live \u2014 as of 12:27 ET",
+  "generated_at": "Thursday, May 14 2026  11:17 PT",
+  "market_status": "Live \u2014 as of 14:17 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7503.68,
-      "change_pct": 0.79
+      "price": 7500.18,
+      "change_pct": 0.74
     },
     "Nasdaq": {
-      "price": 26656.91,
-      "change_pct": 0.96
+      "price": 26631.82,
+      "change_pct": 0.87
     },
     "Dow Jones": {
-      "price": 50081.47,
-      "change_pct": 0.77
+      "price": 50067.01,
+      "change_pct": 0.74
     },
     "Russell 2000": {
-      "price": 2872.08,
-      "change_pct": 0.98
+      "price": 2858.96,
+      "change_pct": 0.52
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4685.8,
-      "change_pct": 0.11
+      "price": 4677.9,
+      "change_pct": -0.06
     },
     "Oil (WTI)": {
-      "price": 100.46,
-      "change_pct": -0.88
+      "price": 101.65,
+      "change_pct": 0.3
     },
     "Silver": {
-      "price": 85.46,
-      "change_pct": -1.8
+      "price": 85.13,
+      "change_pct": -2.18
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81499,
-      "change_pct": 3.2
+      "price": 81828,
+      "change_pct": 2.84
     },
     "ETH": {
-      "price": 2307.65,
-      "change_pct": 2.66
+      "price": 2314.58,
+      "change_pct": 2.33
     },
     "SOL": {
-      "price": 93.21,
-      "change_pct": 2.77
+      "price": 93.23,
+      "change_pct": 2.42
     },
     "BNB": {
-      "price": 682.02,
-      "change_pct": 2.01
+      "price": 682.25,
+      "change_pct": 1.48
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Xi warns Trump: Mishandling Taiwan will put U.S.-China relationship in 'great jeopardy'"
+      "title": "Cerebras almost doubles in Nasdaq debut, topping $100 billion market cap after blockbuster IPO"
     },
     {
       "source": "CNBC",
-      "title": "China will work behind the scenes to help reopen the Strait of Hormuz, Bessent says"
+      "title": "Xi warns Trump: Mishandling Taiwan will put U.S.-China relationship in 'great jeopardy'"
     },
     {
       "source": "MarketWatch",
-      "title": "More Americans are buying homes to fit multiple generations: \u2018It answered a lot of prayers\u2019"
+      "title": "Cerebras\u2019s stock rockets out of the gate, in a sign the AI boom is as strong as ever"
     },
     {
       "source": "MarketWatch",
-      "title": "Mortgage rates tick lower to 6.36%. Here\u2019s why the decrease probably won\u2019t last."
+      "title": "\u2018He is retired\u2019: Should my husband take his Social Security at 62 and invest it?"
     }
   ]
 }
