@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, May 14 2026  02:34 PT",
+  "generated_at": "Thursday, May 14 2026  04:51 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4700.4,
-      "change_pct": 0.42
+      "price": 4702.8,
+      "change_pct": 0.47
     },
     "Oil (WTI)": {
-      "price": 101.7,
-      "change_pct": 0.35
+      "price": 100.76,
+      "change_pct": -0.58
     },
     "Silver": {
-      "price": 87.74,
-      "change_pct": 0.82
+      "price": 87.37,
+      "change_pct": 0.4
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79649,
-      "change_pct": -1.9
+      "price": 79260,
+      "change_pct": -1.54
     },
     "ETH": {
-      "price": 2258.18,
-      "change_pct": -2.63
+      "price": 2253.31,
+      "change_pct": -2.02
     },
     "SOL": {
-      "price": 90.76,
-      "change_pct": -5.14
+      "price": 90.63,
+      "change_pct": -4.11
     },
     "BNB": {
-      "price": 670.52,
-      "change_pct": -2.05
+      "price": 671.53,
+      "change_pct": -0.87
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Five takeaways from the Trump-Xi summit in Beijing so far"
+      "title": "The Dow is poised to retake 50,000 as Cisco jumps, Boeing gains: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "A look at which assets are following the script, and which aren\u2019t, on day 75 of the war"
+      "title": "Cisco to cut jobs so it can invest more in AI, and the stock rockets toward a record"
     },
     {
       "source": "MarketWatch",
-      "title": "We\u2019re in our 40s. Our mortgage is nearly paid off \u2014 how should we invest our extra $1,500 a month?"
+      "title": "What the biggest mid-cycle earnings acceleration on record means for the stock market"
     }
   ]
 }
