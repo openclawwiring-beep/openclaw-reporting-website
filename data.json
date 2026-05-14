@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, May 13 2026  23:45 PT",
+  "generated_at": "Thursday, May 14 2026  02:34 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4701.6,
-      "change_pct": 0.44
+      "price": 4700.4,
+      "change_pct": 0.42
     },
     "Oil (WTI)": {
-      "price": 101.06,
-      "change_pct": -0.29
+      "price": 101.7,
+      "change_pct": 0.35
     },
     "Silver": {
-      "price": 87.75,
-      "change_pct": 0.83
+      "price": 87.74,
+      "change_pct": 0.82
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79830,
-      "change_pct": -1.46
+      "price": 79649,
+      "change_pct": -1.9
     },
     "ETH": {
-      "price": 2268.26,
-      "change_pct": -1.52
+      "price": 2258.18,
+      "change_pct": -2.63
     },
     "SOL": {
-      "price": 91.2,
-      "change_pct": -4.17
+      "price": 90.76,
+      "change_pct": -5.14
     },
     "BNB": {
-      "price": 670.89,
-      "change_pct": -0.88
+      "price": 670.52,
+      "change_pct": -2.05
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Xi asks Trump if U.S. and China can avoid 'Thucydides Trap' at high-stakes summit"
+      "title": "Five takeaways from the Trump-Xi summit in Beijing so far"
     },
     {
       "source": "CNBC",
-      "title": "In photos: Trump kicks off high-stakes summit with Xi"
+      "title": "Xi asks Trump if U.S. and China can avoid 'Thucydides Trap' at high-stakes summit"
     },
     {
       "source": "MarketWatch",
-      "title": "20 stocks in the S&P 500 of companies with soaring sales and improving profit margins"
+      "title": "A look at which assets are following the script, and which aren\u2019t, on day 75 of the war"
     },
     {
       "source": "MarketWatch",
-      "title": "Cisco to cut jobs so it can invest more in AI, and the stock rockets toward a record"
+      "title": "We\u2019re in our 40s. Our mortgage is nearly paid off \u2014 how should we invest our extra $1,500 a month?"
     }
   ]
 }
