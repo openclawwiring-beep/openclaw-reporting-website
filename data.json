@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, May 14 2026  13:13 PT",
+  "generated_at": "Thursday, May 14 2026  14:43 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,58 +15,58 @@
       "change_pct": 0.75
     },
     "Russell 2000": {
-      "price": 2860.49,
-      "change_pct": 0.58
+      "price": 2863.09,
+      "change_pct": 0.67
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4660.5,
-      "change_pct": -0.43
+      "price": 4655.4,
+      "change_pct": -0.54
     },
     "Oil (WTI)": {
-      "price": 102.0,
-      "change_pct": 0.64
+      "price": 102.02,
+      "change_pct": 0.66
     },
     "Silver": {
-      "price": 84.12,
-      "change_pct": -3.34
+      "price": 84.01,
+      "change_pct": -3.46
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81516,
-      "change_pct": 2.37
+      "price": 81459,
+      "change_pct": 2.52
     },
     "ETH": {
-      "price": 2298.85,
-      "change_pct": 1.78
+      "price": 2298.27,
+      "change_pct": 1.87
     },
     "SOL": {
       "price": 92.85,
-      "change_pct": 1.95
+      "change_pct": 2.2
     },
     "BNB": {
-      "price": 680.02,
-      "change_pct": 1.32
+      "price": 680.97,
+      "change_pct": 1.64
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Cerebras pops 68% in Nasdaq debut, pushing the AI chipmaker's market cap to $95 billion"
+      "title": "SpaceX IPO prospectus could land as soon as next week, sources say"
     },
     {
       "source": "CNBC",
-      "title": "Xi warns Trump: Mishandling Taiwan will put U.S.-China relationship in 'great jeopardy'"
+      "title": "Cerebras pops 68% in Nasdaq debut, pushing the AI chipmaker's market cap to $95 billion"
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia earnings alone won\u2019t rescue the S&P 500 from its new sell signal"
+      "title": "\u2018Several days have passed\u2019: The restaurant failed to process my 20% tip. Is it cheating the staff?"
     },
     {
       "source": "MarketWatch",
-      "title": "Roast my house, Reddit! Desperate home sellers are asking strangers for help getting offers."
+      "title": "\u2018I nearly made a major misstep\u2019: I claimed my Social Security benefits at 64 instead of 70. Here\u2019s why."
     }
   ]
 }
