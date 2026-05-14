@@ -1,60 +1,60 @@
 {
-  "generated_at": "Thursday, May 14 2026  11:17 PT",
-  "market_status": "Live \u2014 as of 14:17 ET",
+  "generated_at": "Thursday, May 14 2026  13:13 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7500.18,
-      "change_pct": 0.74
+      "price": 7501.24,
+      "change_pct": 0.77
     },
     "Nasdaq": {
-      "price": 26631.82,
-      "change_pct": 0.87
+      "price": 26635.22,
+      "change_pct": 0.88
     },
     "Dow Jones": {
-      "price": 50067.01,
-      "change_pct": 0.74
+      "price": 50063.46,
+      "change_pct": 0.75
     },
     "Russell 2000": {
-      "price": 2858.96,
-      "change_pct": 0.52
+      "price": 2860.49,
+      "change_pct": 0.58
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4677.9,
-      "change_pct": -0.06
+      "price": 4660.5,
+      "change_pct": -0.43
     },
     "Oil (WTI)": {
-      "price": 101.65,
-      "change_pct": 0.3
+      "price": 102.0,
+      "change_pct": 0.64
     },
     "Silver": {
-      "price": 85.13,
-      "change_pct": -2.18
+      "price": 84.12,
+      "change_pct": -3.34
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81828,
-      "change_pct": 2.84
+      "price": 81516,
+      "change_pct": 2.37
     },
     "ETH": {
-      "price": 2314.58,
-      "change_pct": 2.33
+      "price": 2298.85,
+      "change_pct": 1.78
     },
     "SOL": {
-      "price": 93.23,
-      "change_pct": 2.42
+      "price": 92.85,
+      "change_pct": 1.95
     },
     "BNB": {
-      "price": 682.25,
-      "change_pct": 1.48
+      "price": 680.02,
+      "change_pct": 1.32
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Cerebras almost doubles in Nasdaq debut, topping $100 billion market cap after blockbuster IPO"
+      "title": "Cerebras pops 68% in Nasdaq debut, pushing the AI chipmaker's market cap to $95 billion"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Cerebras\u2019s stock rockets out of the gate, in a sign the AI boom is as strong as ever"
+      "title": "Nvidia earnings alone won\u2019t rescue the S&P 500 from its new sell signal"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018He is retired\u2019: Should my husband take his Social Security at 62 and invest it?"
+      "title": "Roast my house, Reddit! Desperate home sellers are asking strangers for help getting offers."
     }
   ]
 }
