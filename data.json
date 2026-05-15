@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, May 15 2026  14:15 PT",
+  "generated_at": "Friday, May 15 2026  15:29 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79125,
-      "change_pct": -2.73
+      "price": 79018,
+      "change_pct": -2.94
     },
     "ETH": {
-      "price": 2222.68,
-      "change_pct": -3.13
+      "price": 2219.85,
+      "change_pct": -3.3
     },
     "SOL": {
-      "price": 89.31,
-      "change_pct": -3.74
+      "price": 89.16,
+      "change_pct": -3.79
     },
     "BNB": {
-      "price": 673.64,
-      "change_pct": -0.91
+      "price": 672.48,
+      "change_pct": -1.19
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "$668,603,360,342 \u2014 that\u2019s how much people have legally bet on sports since the Supreme Court\u2019s 2018 ruling"
+      "title": "This hedge fund just dumped the \u2018big three\u2019 airline stocks, as the industry faces soaring fuel costs"
     },
     {
       "source": "MarketWatch",
-      "title": "Stocks and bonds get swept up in a selloff, as Trump\u2019s China visit fails to pry open the Strait of Hormuz"
+      "title": "Berkshire\u2019s Abel sours on some of Warren Buffett\u2019s picks, while betting big on Delta"
     }
   ]
 }
