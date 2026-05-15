@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, May 15 2026  15:29 PT",
+  "generated_at": "Friday, May 15 2026  16:30 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79018,
-      "change_pct": -2.94
+      "price": 79067,
+      "change_pct": -2.78
     },
     "ETH": {
-      "price": 2219.85,
-      "change_pct": -3.3
+      "price": 2223.57,
+      "change_pct": -3.1
     },
     "SOL": {
-      "price": 89.16,
-      "change_pct": -3.79
+      "price": 89.24,
+      "change_pct": -3.54
     },
     "BNB": {
-      "price": 672.48,
-      "change_pct": -1.19
+      "price": 671.97,
+      "change_pct": -1.05
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "This hedge fund just dumped the \u2018big three\u2019 airline stocks, as the industry faces soaring fuel costs"
+      "title": "Are you \u2018doomjobbing\u2019 while looking for work? Know the signs \u2014 and do this instead."
     },
     {
       "source": "MarketWatch",
-      "title": "Berkshire\u2019s Abel sours on some of Warren Buffett\u2019s picks, while betting big on Delta"
+      "title": "This hedge fund just dumped the \u2018big three\u2019 airline stocks, as the industry faces soaring fuel costs"
     }
   ]
 }
