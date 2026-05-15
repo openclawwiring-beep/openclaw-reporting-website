@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, May 14 2026  23:55 PT",
+  "generated_at": "Friday, May 15 2026  02:48 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4574.4,
-      "change_pct": -0.98
+      "price": 4550.7,
+      "change_pct": -1.5
     },
     "Oil (WTI)": {
-      "price": 103.17,
-      "change_pct": 0.78
+      "price": 100.53,
+      "change_pct": -1.8
     },
     "Silver": {
-      "price": 78.94,
-      "change_pct": -3.52
+      "price": 78.12,
+      "change_pct": -4.52
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80547,
-      "change_pct": 0.94
+      "price": 80419,
+      "change_pct": 1.07
     },
     "ETH": {
-      "price": 2254.46,
-      "change_pct": -0.59
+      "price": 2253.57,
+      "change_pct": -0.06
     },
     "SOL": {
-      "price": 90.97,
-      "change_pct": -0.37
+      "price": 90.99,
+      "change_pct": 0.39
     },
     "BNB": {
-      "price": 682.29,
-      "change_pct": 1.76
+      "price": 682.28,
+      "change_pct": 1.93
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump leaves China after talks dominated by trade, oil and Taiwan"
+      "title": "Oil prices jump after Trump says China agreed to buy U.S. crude following Xi talks"
     },
     {
       "source": "CNBC",
-      "title": "China to buy U.S. oil to feed its 'insatiable appetite,' Trump tells Fox News"
+      "title": "UAE fast tracks second West-East oil pipeline to bypass Strait of Hormuz"
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia earnings alone won\u2019t rescue the S&P 500 from its new sell signal"
+      "title": "\u2018I experienced many years of poverty\u2019: I don\u2019t judge other people. Why do wealthy retirees look down on others?"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump\u2019s best China trade deal is the one he doesn\u2019t make"
+      "title": "\u2018I have zero envy\u2019: I\u2019m 75, enjoy working and live below my means. Why are more people not like me?"
     }
   ]
 }
