@@ -1,60 +1,60 @@
 {
-  "generated_at": "Friday, May 15 2026  12:59 PT",
-  "market_status": "Live \u2014 as of 15:59 ET",
+  "generated_at": "Friday, May 15 2026  14:15 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7410.32,
-      "change_pct": -1.21
+      "price": 7408.5,
+      "change_pct": -1.24
     },
     "Nasdaq": {
-      "price": 26232.3,
-      "change_pct": -1.51
+      "price": 26225.14,
+      "change_pct": -1.54
     },
     "Dow Jones": {
-      "price": 49539.65,
-      "change_pct": -1.05
+      "price": 49526.17,
+      "change_pct": -1.07
     },
     "Russell 2000": {
-      "price": 2801.22,
-      "change_pct": -2.16
+      "price": 2793.3,
+      "change_pct": -2.44
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4556.1,
-      "change_pct": -1.38
+      "price": 4543.6,
+      "change_pct": -1.65
     },
     "Oil (WTI)": {
-      "price": 101.05,
-      "change_pct": -1.29
+      "price": 101.16,
+      "change_pct": -1.18
     },
     "Silver": {
-      "price": 76.82,
-      "change_pct": -6.12
+      "price": 76.29,
+      "change_pct": -6.75
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79110,
-      "change_pct": -2.8
+      "price": 79125,
+      "change_pct": -2.73
     },
     "ETH": {
-      "price": 2222.5,
-      "change_pct": -3.3
+      "price": 2222.68,
+      "change_pct": -3.13
     },
     "SOL": {
-      "price": 89.39,
-      "change_pct": -3.76
+      "price": 89.31,
+      "change_pct": -3.74
     },
     "BNB": {
-      "price": 673.72,
-      "change_pct": -0.87
+      "price": 673.64,
+      "change_pct": -0.91
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "How China and U.S. eased the Middle East oil shock and kept prices from spiking even higher"
+      "title": "Dow loses more than 500 points Friday as tech slumps and yields spike: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Don\u2019t fear a summer stock crash: Market history shows this massive spring rally isn\u2019t a trap"
+      "title": "$668,603,360,342 \u2014 that\u2019s how much people have legally bet on sports since the Supreme Court\u2019s 2018 ruling"
     },
     {
       "source": "MarketWatch",
-      "title": "Stephen Colbert\u2019s show is ending. Is it a sign of what\u2019s to come for late-night TV?"
+      "title": "Stocks and bonds get swept up in a selloff, as Trump\u2019s China visit fails to pry open the Strait of Hormuz"
     }
   ]
 }
