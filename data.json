@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, May 14 2026  16:57 PT",
+  "generated_at": "Thursday, May 14 2026  20:55 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4659.9,
-      "change_pct": -0.45
+      "price": 4618.0,
+      "change_pct": -1.34
     },
     "Oil (WTI)": {
-      "price": 101.98,
-      "change_pct": 0.62
+      "price": 102.42,
+      "change_pct": 1.06
     },
     "Silver": {
-      "price": 84.13,
-      "change_pct": -3.33
+      "price": 81.65,
+      "change_pct": -6.18
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81062,
-      "change_pct": 2.25
+      "price": 80987,
+      "change_pct": 2.44
     },
     "ETH": {
-      "price": 2282.96,
-      "change_pct": 1.12
+      "price": 2270.32,
+      "change_pct": 1.26
     },
     "SOL": {
-      "price": 92.17,
-      "change_pct": 1.21
+      "price": 91.98,
+      "change_pct": 2.22
     },
     "BNB": {
-      "price": 677.96,
-      "change_pct": 0.99
+      "price": 681.56,
+      "change_pct": 2.37
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Figma has a fix for its ailing stock \u2014 a new way to make money off its AI products"
+      "title": "Nvidia earnings alone won\u2019t rescue the S&P 500 from its new sell signal"
     },
     {
       "source": "MarketWatch",
-      "title": "My wife and I retired with 22 times our income. Why don\u2019t more people do what we did?"
+      "title": "Trump\u2019s best China trade deal is the one he doesn\u2019t make"
     }
   ]
 }
