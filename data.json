@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 16 2026  12:15 PT",
+  "generated_at": "Saturday, May 16 2026  13:10 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78207,
+      "price": 78255,
       "change_pct": -1.09
     },
     "ETH": {
-      "price": 2179.97,
-      "change_pct": -1.93
+      "price": 2181.26,
+      "change_pct": -1.85
     },
     "SOL": {
-      "price": 86.75,
-      "change_pct": -3.06
+      "price": 86.74,
+      "change_pct": -2.81
     },
     "BNB": {
-      "price": 657.05,
-      "change_pct": -2.32
+      "price": 656.69,
+      "change_pct": -2.42
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years"
+      "title": "\u2018I\u2019m already feeling anxious\u2019: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?"
     },
     {
       "source": "MarketWatch",
-      "title": "Inflation will likely be higher for longer. Your retirement plan isn\u2019t built for that."
+      "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years"
     }
   ]
 }
