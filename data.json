@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 16 2026  07:04 PT",
+  "generated_at": "Saturday, May 16 2026  08:33 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77930,
-      "change_pct": -1.17
+      "price": 78162,
+      "change_pct": -1.27
     },
     "ETH": {
-      "price": 2175.38,
-      "change_pct": -1.62
+      "price": 2178.73,
+      "change_pct": -1.79
     },
     "SOL": {
-      "price": 86.19,
-      "change_pct": -2.9
+      "price": 86.37,
+      "change_pct": -2.95
     },
     "BNB": {
-      "price": 652.12,
-      "change_pct": -2.96
+      "price": 654.96,
+      "change_pct": -2.76
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My wife and I retired with 22 times our income. Why don\u2019t more people do what we did?"
+      "title": "Think robocalls are annoying? AI is making them dangerous."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m already feeling anxious\u2019: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?"
+      "title": "Dead people claiming Social Security? Here\u2019s one \u2014 but we\u2019re still looking for the other 19,999,999."
     }
   ]
 }
