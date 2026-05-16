@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 16 2026  09:57 PT",
+  "generated_at": "Saturday, May 16 2026  10:58 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78163,
-      "change_pct": -1.34
+      "price": 78194,
+      "change_pct": -1.54
     },
     "ETH": {
-      "price": 2172.99,
-      "change_pct": -2.22
+      "price": 2178.15,
+      "change_pct": -2.24
     },
     "SOL": {
-      "price": 86.62,
-      "change_pct": -3.03
+      "price": 86.77,
+      "change_pct": -3.27
     },
     "BNB": {
-      "price": 656.5,
-      "change_pct": -2.6
+      "price": 655.76,
+      "change_pct": -2.85
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Few Americans can afford long-term care \u2014 but this state program could be a game changer"
+      "title": "April\u2019s inflation spike leaves Warsh and the Fed zero excuses not to raise rates"
     },
     {
       "source": "MarketWatch",
-      "title": "Meet the Nvidias of power \u2014 5 stocks winning Big Tech\u2019s $700 billion AI energy grab"
+      "title": "AI investment \u2018advice\u2019 is 50% more likely to pump you up \u2014 and trip you into costly blunders"
     }
   ]
 }
