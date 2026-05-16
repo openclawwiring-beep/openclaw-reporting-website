@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, May 15 2026  16:30 PT",
+  "generated_at": "Friday, May 15 2026  19:49 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79067,
-      "change_pct": -2.78
+      "price": 79058,
+      "change_pct": -2.51
     },
     "ETH": {
-      "price": 2223.57,
-      "change_pct": -3.1
+      "price": 2227.38,
+      "change_pct": -1.9
     },
     "SOL": {
-      "price": 89.24,
-      "change_pct": -3.54
+      "price": 89.04,
+      "change_pct": -3.07
     },
     "BNB": {
-      "price": 671.97,
-      "change_pct": -1.05
+      "price": 668.25,
+      "change_pct": -1.59
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump went big on tech stocks in first quarter of 2026, new filings show"
+      "title": "Trump says China and Taiwan should 'both cool it'"
     },
     {
       "source": "MarketWatch",
