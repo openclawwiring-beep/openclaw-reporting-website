@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, May 15 2026  22:54 PT",
+  "generated_at": "Saturday, May 16 2026  01:02 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78968,
-      "change_pct": -1.82
+      "price": 78362,
+      "change_pct": -2.9
     },
     "ETH": {
-      "price": 2225.26,
-      "change_pct": -0.99
+      "price": 2194.03,
+      "change_pct": -2.97
     },
     "SOL": {
-      "price": 88.61,
-      "change_pct": -2.07
+      "price": 87.43,
+      "change_pct": -4.42
     },
     "BNB": {
-      "price": 664.39,
-      "change_pct": -1.86
+      "price": 660.79,
+      "change_pct": -3.49
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Are you \u2018doomjobbing\u2019 while looking for work? Know the signs \u2014 and do this instead."
+      "title": "My husband took out a $100,000 Parent PLUS loan for his daughter. She dropped out, citing mental-health issues. Should we refinance?"
     },
     {
       "source": "MarketWatch",
-      "title": "This hedge fund just dumped the \u2018big three\u2019 airline stocks, as the industry faces soaring fuel costs"
+      "title": "Are you \u2018doomjobbing\u2019 while looking for work? Know the signs \u2014 and do this instead."
     }
   ]
 }
