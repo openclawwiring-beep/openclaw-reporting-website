@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 16 2026  08:33 PT",
+  "generated_at": "Saturday, May 16 2026  09:57 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78162,
-      "change_pct": -1.27
+      "price": 78163,
+      "change_pct": -1.34
     },
     "ETH": {
-      "price": 2178.73,
-      "change_pct": -1.79
+      "price": 2172.99,
+      "change_pct": -2.22
     },
     "SOL": {
-      "price": 86.37,
-      "change_pct": -2.95
+      "price": 86.62,
+      "change_pct": -3.03
     },
     "BNB": {
-      "price": 654.96,
-      "change_pct": -2.76
+      "price": 656.5,
+      "change_pct": -2.6
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Think robocalls are annoying? AI is making them dangerous."
+      "title": "Few Americans can afford long-term care \u2014 but this state program could be a game changer"
     },
     {
       "source": "MarketWatch",
-      "title": "Dead people claiming Social Security? Here\u2019s one \u2014 but we\u2019re still looking for the other 19,999,999."
+      "title": "Meet the Nvidias of power \u2014 5 stocks winning Big Tech\u2019s $700 billion AI energy grab"
     }
   ]
 }
