@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 16 2026  01:02 PT",
+  "generated_at": "Saturday, May 16 2026  02:55 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78362,
-      "change_pct": -2.9
+      "price": 78067,
+      "change_pct": -2.87
     },
     "ETH": {
-      "price": 2194.03,
-      "change_pct": -2.97
+      "price": 2173.67,
+      "change_pct": -3.5
     },
     "SOL": {
-      "price": 87.43,
-      "change_pct": -4.42
+      "price": 86.03,
+      "change_pct": -5.5
     },
     "BNB": {
-      "price": 660.79,
-      "change_pct": -3.49
+      "price": 651.98,
+      "change_pct": -4.45
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My husband took out a $100,000 Parent PLUS loan for his daughter. She dropped out, citing mental-health issues. Should we refinance?"
+      "title": "\u2018I nearly made a major misstep\u2019: I claimed my Social Security benefits at 64 instead of 70. Here\u2019s why."
     },
     {
       "source": "MarketWatch",
-      "title": "Are you \u2018doomjobbing\u2019 while looking for work? Know the signs \u2014 and do this instead."
+      "title": "My husband took out a $100,000 Parent PLUS loan for his daughter. She dropped out, citing mental-health issues. Should we refinance?"
     }
   ]
 }
