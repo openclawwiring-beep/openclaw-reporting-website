@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 16 2026  14:11 PT",
+  "generated_at": "Saturday, May 16 2026  15:10 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78249,
-      "change_pct": -1.12
+      "price": 78147,
+      "change_pct": -1.09
     },
     "ETH": {
-      "price": 2181.3,
-      "change_pct": -1.89
+      "price": 2179.55,
+      "change_pct": -1.77
     },
     "SOL": {
-      "price": 86.67,
-      "change_pct": -2.92
+      "price": 86.45,
+      "change_pct": -3.06
     },
     "BNB": {
-      "price": 656.05,
-      "change_pct": -2.63
+      "price": 656.16,
+      "change_pct": -2.38
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow loses more than 500 points Friday as tech slumps and yields spike: Live updates"
+      "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates"
     },
     {
       "source": "CNBC",
