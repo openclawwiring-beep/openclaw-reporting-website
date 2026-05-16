@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 16 2026  02:55 PT",
+  "generated_at": "Saturday, May 16 2026  04:01 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78067,
-      "change_pct": -2.87
+      "price": 77967,
+      "change_pct": -3.34
     },
     "ETH": {
-      "price": 2173.67,
-      "change_pct": -3.5
+      "price": 2175.12,
+      "change_pct": -3.77
     },
     "SOL": {
-      "price": 86.03,
-      "change_pct": -5.5
+      "price": 85.94,
+      "change_pct": -6.04
     },
     "BNB": {
-      "price": 651.98,
-      "change_pct": -4.45
+      "price": 654.17,
+      "change_pct": -4.98
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump says China and Taiwan should 'both cool it'"
+      "title": "Why Taiwan became the defining issue in the Trump-Xi talks"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018He is retired\u2019: Should my husband take his Social Security at 62 and invest it?"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018I nearly made a major misstep\u2019: I claimed my Social Security benefits at 64 instead of 70. Here\u2019s why."
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My husband took out a $100,000 Parent PLUS loan for his daughter. She dropped out, citing mental-health issues. Should we refinance?"
     }
   ]
 }
