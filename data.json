@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 17 2026  14:26 PT",
+  "generated_at": "Sunday, May 17 2026  15:26 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4561.9,
-      "change_pct": -1.25
+      "price": 4552.4,
+      "change_pct": -0.21
     },
     "Oil (WTI)": {
-      "price": 101.02,
-      "change_pct": -1.32
+      "price": 102.37,
+      "change_pct": 1.34
     },
     "Silver": {
-      "price": 77.55,
-      "change_pct": -5.22
+      "price": 76.76,
+      "change_pct": -1.01
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78380,
-      "change_pct": 0.18
+      "price": 77964,
+      "change_pct": -0.34
     },
     "ETH": {
-      "price": 2191.13,
-      "change_pct": 0.48
+      "price": 2179.36,
+      "change_pct": -0.1
     },
     "SOL": {
-      "price": 86.77,
-      "change_pct": 0.14
+      "price": 86.11,
+      "change_pct": -0.59
     },
     "BNB": {
-      "price": 655.27,
-      "change_pct": -0.17
+      "price": 654.17,
+      "change_pct": -0.42
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "AI-related layoffs a boost for stocks? Not necessarily"
+      "title": "Stock futures are little changed after record-setting week for Wall Street; traders await Nvidia and retail earnings: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The Iran war could be a $300 billion shock \u2014 driving up mortgage rates and squeezing wages"
+      "title": "Dow futures slip, oil prices push higher as Iran war remains stuck in stalemate"
     },
     {
       "source": "MarketWatch",
-      "title": "Walmart and Target are about to show just how much shopping habits have changed due to the Iran war"
+      "title": "The Iran war could be a $300 billion shock \u2014 driving up mortgage rates and squeezing wages"
     }
   ]
 }
