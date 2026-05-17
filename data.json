@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 17 2026  15:26 PT",
+  "generated_at": "Sunday, May 17 2026  16:29 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4552.4,
-      "change_pct": -0.21
+      "price": 4543.4,
+      "change_pct": -0.41
     },
     "Oil (WTI)": {
-      "price": 102.37,
-      "change_pct": 1.34
+      "price": 102.46,
+      "change_pct": 1.43
     },
     "Silver": {
-      "price": 76.76,
-      "change_pct": -1.01
+      "price": 76.82,
+      "change_pct": -0.93
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77964,
-      "change_pct": -0.34
+      "price": 77827,
+      "change_pct": -0.47
     },
     "ETH": {
-      "price": 2179.36,
-      "change_pct": -0.1
+      "price": 2171.72,
+      "change_pct": -0.42
     },
     "SOL": {
-      "price": 86.11,
-      "change_pct": -0.59
+      "price": 85.93,
+      "change_pct": -0.76
     },
     "BNB": {
-      "price": 654.17,
-      "change_pct": -0.42
+      "price": 651.44,
+      "change_pct": -0.68
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Dow futures slip, oil prices push higher as Iran war remains stuck in stalemate"
+      "title": "Health officials declare Ebola outbreak a public health emergency"
     },
     {
       "source": "MarketWatch",
-      "title": "The Iran war could be a $300 billion shock \u2014 driving up mortgage rates and squeezing wages"
+      "title": "Dow futures slip, oil prices push higher as Iran war remains stuck in stalemate"
     }
   ]
 }
