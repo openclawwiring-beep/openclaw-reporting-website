@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 17 2026  08:36 PT",
+  "generated_at": "Sunday, May 17 2026  09:56 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78005,
-      "change_pct": -0.24
+      "price": 78060,
+      "change_pct": -0.1
     },
     "ETH": {
-      "price": 2184.08,
-      "change_pct": 0.15
+      "price": 2183.73,
+      "change_pct": 0.49
     },
     "SOL": {
       "price": 86.36,
-      "change_pct": -0.06
+      "change_pct": -0.29
     },
     "BNB": {
-      "price": 652.15,
-      "change_pct": -0.53
+      "price": 651.67,
+      "change_pct": -0.72
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I nearly made a major misstep\u2019: I claimed my Social Security benefits at 64 instead of 70. Here\u2019s why."
+      "title": "Health officials declare Ebola outbreak a public health emergency"
     },
     {
       "source": "MarketWatch",
-      "title": "Walmart and Target are about to show just how much shopping habits have changed due to the Iran war"
+      "title": "\u2018I nearly made a major misstep\u2019: I claimed my Social Security benefits at 64 instead of 70. Here\u2019s why."
     }
   ]
 }
