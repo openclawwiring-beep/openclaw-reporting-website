@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 17 2026  04:05 PT",
+  "generated_at": "Sunday, May 17 2026  05:10 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78360,
-      "change_pct": 0.45
+      "price": 78352,
+      "change_pct": 0.4
     },
     "ETH": {
-      "price": 2190.81,
-      "change_pct": 0.67
+      "price": 2190.96,
+      "change_pct": 0.71
     },
     "SOL": {
-      "price": 86.85,
-      "change_pct": 1.06
+      "price": 86.84,
+      "change_pct": 0.83
     },
     "BNB": {
-      "price": 653.82,
-      "change_pct": -0.02
+      "price": 654.55,
+      "change_pct": 0.18
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m already feeling anxious\u2019: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?"
+      "title": "My wife and I retired with 22 times our income. Why don\u2019t more people do what we did?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018He is retired\u2019: Should my husband take his Social Security at 62 and invest it?"
+      "title": "My husband took out a $100,000 Parent PLUS loan for his daughter. She dropped out, citing mental-health issues. Should we refinance?"
     }
   ]
 }
