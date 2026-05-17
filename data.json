@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 17 2026  07:03 PT",
+  "generated_at": "Sunday, May 17 2026  08:36 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78128,
-      "change_pct": 0.26
+      "price": 78005,
+      "change_pct": -0.24
     },
     "ETH": {
-      "price": 2189.78,
-      "change_pct": 0.68
+      "price": 2184.08,
+      "change_pct": 0.15
     },
     "SOL": {
-      "price": 86.34,
-      "change_pct": 0.13
+      "price": 86.36,
+      "change_pct": -0.06
     },
     "BNB": {
-      "price": 652.89,
-      "change_pct": 0.12
+      "price": 652.15,
+      "change_pct": -0.53
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia is getting some help as it props up S&P 500 earnings growth"
+      "title": "\u2018I nearly made a major misstep\u2019: I claimed my Social Security benefits at 64 instead of 70. Here\u2019s why."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Several days have passed\u2019: The restaurant failed to process my 20% tip. Is it cheating the staff?"
+      "title": "Walmart and Target are about to show just how much shopping habits have changed due to the Iran war"
     }
   ]
 }
