@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 17 2026  10:58 PT",
+  "generated_at": "Sunday, May 17 2026  12:20 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78040,
-      "change_pct": -0.18
+      "price": 78207,
+      "change_pct": -0.0
     },
     "ETH": {
-      "price": 2182.71,
-      "change_pct": 0.21
+      "price": 2187.16,
+      "change_pct": 0.33
     },
     "SOL": {
-      "price": 86.2,
-      "change_pct": -0.63
+      "price": 86.4,
+      "change_pct": -0.42
     },
     "BNB": {
-      "price": 651.25,
-      "change_pct": -0.66
+      "price": 653.83,
+      "change_pct": -0.51
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Health officials declare Ebola outbreak a public health emergency"
+      "title": "What former poker champion turned investing coach Annie Duke says most of us get wrong about risk"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I nearly made a major misstep\u2019: I claimed my Social Security benefits at 64 instead of 70. Here\u2019s why."
+      "title": "Meet the Nvidias of power \u2014 5 stocks winning Big Tech\u2019s $700 billion AI energy grab"
     }
   ]
 }
