@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 17 2026  05:10 PT",
+  "generated_at": "Sunday, May 17 2026  07:03 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78352,
-      "change_pct": 0.4
+      "price": 78128,
+      "change_pct": 0.26
     },
     "ETH": {
-      "price": 2190.96,
-      "change_pct": 0.71
+      "price": 2189.78,
+      "change_pct": 0.68
     },
     "SOL": {
-      "price": 86.84,
-      "change_pct": 0.83
+      "price": 86.34,
+      "change_pct": 0.13
     },
     "BNB": {
-      "price": 654.55,
-      "change_pct": 0.18
+      "price": 652.89,
+      "change_pct": 0.12
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates"
+      "title": "AI-related layoffs a boost for stocks? Not necessarily"
     },
     {
       "source": "CNBC",
-      "title": "Why Taiwan became the defining issue in the Trump-Xi talks"
+      "title": "G7 finance ministers to meet amid warning of economic consequences of prolonged Strait of Hormuz closure"
     },
     {
       "source": "MarketWatch",
-      "title": "My wife and I retired with 22 times our income. Why don\u2019t more people do what we did?"
+      "title": "Nvidia is getting some help as it props up S&P 500 earnings growth"
     },
     {
       "source": "MarketWatch",
-      "title": "My husband took out a $100,000 Parent PLUS loan for his daughter. She dropped out, citing mental-health issues. Should we refinance?"
+      "title": "\u2018Several days have passed\u2019: The restaurant failed to process my 20% tip. Is it cheating the staff?"
     }
   ]
 }
