@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 17 2026  12:20 PT",
+  "generated_at": "Sunday, May 17 2026  13:12 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78207,
-      "change_pct": -0.0
+      "price": 78299,
+      "change_pct": 0.05
     },
     "ETH": {
-      "price": 2187.16,
-      "change_pct": 0.33
+      "price": 2188.29,
+      "change_pct": 0.34
     },
     "SOL": {
-      "price": 86.4,
-      "change_pct": -0.42
+      "price": 86.69,
+      "change_pct": -0.08
     },
     "BNB": {
-      "price": 653.83,
-      "change_pct": -0.51
+      "price": 654.37,
+      "change_pct": -0.37
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "What former poker champion turned investing coach Annie Duke says most of us get wrong about risk"
+      "title": "The Iran war could be a $300 billion shock \u2014 driving up mortgage rates and squeezing wages"
     },
     {
       "source": "MarketWatch",
-      "title": "Meet the Nvidias of power \u2014 5 stocks winning Big Tech\u2019s $700 billion AI energy grab"
+      "title": "Walmart and Target are about to show just how much shopping habits have changed due to the Iran war"
     }
   ]
 }
