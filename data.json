@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, May 18 2026  13:52 PT",
+  "generated_at": "Monday, May 18 2026  15:01 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4568.6,
-      "change_pct": 0.48
+      "price": 4570.8,
+      "change_pct": 0.53
     },
     "Oil (WTI)": {
-      "price": 101.95,
-      "change_pct": -1.2
+      "price": 102.49,
+      "change_pct": -0.68
     },
     "Silver": {
-      "price": 77.96,
-      "change_pct": 3.19
+      "price": 78.12,
+      "change_pct": 3.39
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76833,
-      "change_pct": -1.8
+      "price": 77072,
+      "change_pct": -1.44
     },
     "ETH": {
-      "price": 2114.93,
-      "change_pct": -3.36
+      "price": 2136.99,
+      "change_pct": -2.19
     },
     "SOL": {
-      "price": 84.85,
-      "change_pct": -2.04
+      "price": 85.52,
+      "change_pct": -1.49
     },
     "BNB": {
-      "price": 642.23,
-      "change_pct": -1.86
+      "price": 645.28,
+      "change_pct": -1.54
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Elon Musk loses court battle against Sam Altman and OpenAI after 3-week trial"
+      "title": "Musk slams Altman trial verdict as a 'technicality,' vows to appeal"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m already feeling anxious\u2019: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?"
+      "title": "Palo Alto Networks hits a big milestone. Why cybersecurity stocks are so hot right now."
     },
     {
       "source": "MarketWatch",
-      "title": "Lululemon hits back at its founder after months of attacks, saying he\u2019s just jealous"
+      "title": "The S&P 500 and most of its stocks are heading in opposite directions at a record pace. What investors should know."
     }
   ]
 }
