@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, May 18 2026  12:11 PT",
-  "market_status": "Live \u2014 as of 15:11 ET",
+  "generated_at": "Monday, May 18 2026  13:52 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7383.71,
-      "change_pct": -0.34
+      "price": 7403.05,
+      "change_pct": -0.07
     },
     "Nasdaq": {
-      "price": 26014.69,
-      "change_pct": -0.8
+      "price": 26090.73,
+      "change_pct": -0.51
     },
     "Dow Jones": {
-      "price": 49551.09,
-      "change_pct": 0.04
+      "price": 49686.12,
+      "change_pct": 0.32
     },
     "Russell 2000": {
-      "price": 2760.32,
-      "change_pct": -1.17
+      "price": 2775.1,
+      "change_pct": -0.65
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4555.6,
-      "change_pct": 0.19
+      "price": 4568.6,
+      "change_pct": 0.48
     },
     "Oil (WTI)": {
-      "price": 103.05,
-      "change_pct": -0.14
+      "price": 101.95,
+      "change_pct": -1.2
     },
     "Silver": {
-      "price": 77.38,
-      "change_pct": 2.42
+      "price": 77.96,
+      "change_pct": 3.19
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76550,
-      "change_pct": -2.11
+      "price": 76833,
+      "change_pct": -1.8
     },
     "ETH": {
-      "price": 2098.62,
-      "change_pct": -4.05
+      "price": 2114.93,
+      "change_pct": -3.36
     },
     "SOL": {
-      "price": 84.41,
-      "change_pct": -2.4
+      "price": 84.85,
+      "change_pct": -2.04
     },
     "BNB": {
-      "price": 640.11,
-      "change_pct": -2.08
+      "price": 642.23,
+      "change_pct": -1.86
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Elon Musk has lost his case against OpenAI and Sam Altman"
+      "title": "\u2018I\u2019m already feeling anxious\u2019: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?"
     },
     {
       "source": "MarketWatch",
-      "title": "The bond market has a warning for the Fed: Get serious about inflation and potential rate hikes ASAP"
+      "title": "Lululemon hits back at its founder after months of attacks, saying he\u2019s just jealous"
     }
   ]
 }
