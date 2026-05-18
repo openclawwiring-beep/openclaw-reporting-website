@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, May 18 2026  07:06 PT",
-  "market_status": "Live \u2014 as of 10:06 ET",
+  "generated_at": "Monday, May 18 2026  10:16 PT",
+  "market_status": "Live \u2014 as of 13:16 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7409.44,
-      "change_pct": 0.0
+      "price": 7390.26,
+      "change_pct": -0.26
     },
     "Nasdaq": {
-      "price": 26192.18,
-      "change_pct": -0.13
+      "price": 26048.72,
+      "change_pct": -0.67
     },
     "Dow Jones": {
-      "price": 49630.21,
-      "change_pct": 0.2
+      "price": 49590.64,
+      "change_pct": 0.12
     },
     "Russell 2000": {
-      "price": 2794.67,
-      "change_pct": 0.05
+      "price": 2773.56,
+      "change_pct": -0.7
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4586.0,
-      "change_pct": 0.86
+      "price": 4561.8,
+      "change_pct": 0.33
     },
     "Oil (WTI)": {
-      "price": 99.37,
-      "change_pct": -3.7
+      "price": 102.56,
+      "change_pct": -0.61
     },
     "Silver": {
-      "price": 78.53,
-      "change_pct": 3.94
+      "price": 77.5,
+      "change_pct": 2.57
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76833,
-      "change_pct": -1.61
+      "price": 76529,
+      "change_pct": -1.73
     },
     "ETH": {
-      "price": 2126.34,
-      "change_pct": -2.82
+      "price": 2101.72,
+      "change_pct": -3.48
     },
     "SOL": {
-      "price": 84.54,
-      "change_pct": -2.08
+      "price": 84.38,
+      "change_pct": -1.98
     },
     "BNB": {
-      "price": 639.02,
-      "change_pct": -2.05
+      "price": 639.26,
+      "change_pct": -1.72
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "NextEra Energy to buy Dominion in deal that unites two key players in race to power AI data centers"
+      "title": "Kevin Warsh to be sworn in as Federal Reserve chair on Friday"
     },
     {
       "source": "CNBC",
-      "title": "Trump drops $10 billion lawsuit against IRS"
+      "title": "Meta layoffs starting this week stress harsh AI reality inside Zuckerberg\u2019s company"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump administration backs nuclear fusion \u2014 as a company tied to Trump invests in it"
+      "title": "ServiceNow\u2019s stock heads for best day in a year\u00a0\u2014 flashing a green light for the software sector"
     },
     {
       "source": "MarketWatch",
-      "title": "Wall Street is set to reap a fee bonanza that could reach $1 billion from the SpaceX IPO"
+      "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?"
     }
   ]
 }
