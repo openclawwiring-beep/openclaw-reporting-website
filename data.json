@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, May 18 2026  03:01 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, May 18 2026  07:06 PT",
+  "market_status": "Live \u2014 as of 10:06 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7408.5,
-      "change_pct": -1.24
+      "price": 7409.44,
+      "change_pct": 0.0
     },
     "Nasdaq": {
-      "price": 26225.14,
-      "change_pct": -1.54
+      "price": 26192.18,
+      "change_pct": -0.13
     },
     "Dow Jones": {
-      "price": 49526.17,
-      "change_pct": -1.07
+      "price": 49630.21,
+      "change_pct": 0.2
     },
     "Russell 2000": {
-      "price": 2793.3,
-      "change_pct": -2.44
+      "price": 2794.67,
+      "change_pct": 0.05
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4545.8,
-      "change_pct": -0.02
+      "price": 4586.0,
+      "change_pct": 0.86
     },
     "Oil (WTI)": {
-      "price": 102.05,
-      "change_pct": -1.1
+      "price": 99.37,
+      "change_pct": -3.7
     },
     "Silver": {
-      "price": 76.08,
-      "change_pct": 0.7
+      "price": 78.53,
+      "change_pct": 3.94
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76890,
-      "change_pct": -1.74
+      "price": 76833,
+      "change_pct": -1.61
     },
     "ETH": {
-      "price": 2115.73,
-      "change_pct": -3.44
+      "price": 2126.34,
+      "change_pct": -2.82
     },
     "SOL": {
-      "price": 84.49,
-      "change_pct": -2.69
+      "price": 84.54,
+      "change_pct": -2.08
     },
     "BNB": {
-      "price": 639.09,
-      "change_pct": -2.19
+      "price": 639.02,
+      "change_pct": -2.05
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil jumps as Trump warns 'Clock is Ticking' for Iran, fanning fears of escalation in conflict"
+      "title": "NextEra Energy to buy Dominion in deal that unites two key players in race to power AI data centers"
     },
     {
       "source": "CNBC",
-      "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts"
+      "title": "Trump drops $10 billion lawsuit against IRS"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m already feeling anxious\u2019: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?"
+      "title": "Trump administration backs nuclear fusion \u2014 as a company tied to Trump invests in it"
     },
     {
       "source": "MarketWatch",
-      "title": "A \u2018private celebrity compound\u2019: Selena Gomez lists her L.A. estate for $6.5 million"
+      "title": "Wall Street is set to reap a fee bonanza that could reach $1 billion from the SpaceX IPO"
     }
   ]
 }
