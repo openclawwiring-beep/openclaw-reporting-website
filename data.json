@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, May 18 2026  10:16 PT",
-  "market_status": "Live \u2014 as of 13:16 ET",
+  "generated_at": "Monday, May 18 2026  12:11 PT",
+  "market_status": "Live \u2014 as of 15:11 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7390.26,
-      "change_pct": -0.26
+      "price": 7383.71,
+      "change_pct": -0.34
     },
     "Nasdaq": {
-      "price": 26048.72,
-      "change_pct": -0.67
+      "price": 26014.69,
+      "change_pct": -0.8
     },
     "Dow Jones": {
-      "price": 49590.64,
-      "change_pct": 0.12
+      "price": 49551.09,
+      "change_pct": 0.04
     },
     "Russell 2000": {
-      "price": 2773.56,
-      "change_pct": -0.7
+      "price": 2760.32,
+      "change_pct": -1.17
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4561.8,
-      "change_pct": 0.33
+      "price": 4555.6,
+      "change_pct": 0.19
     },
     "Oil (WTI)": {
-      "price": 102.56,
-      "change_pct": -0.61
+      "price": 103.05,
+      "change_pct": -0.14
     },
     "Silver": {
-      "price": 77.5,
-      "change_pct": 2.57
+      "price": 77.38,
+      "change_pct": 2.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76529,
-      "change_pct": -1.73
+      "price": 76550,
+      "change_pct": -2.11
     },
     "ETH": {
-      "price": 2101.72,
-      "change_pct": -3.48
+      "price": 2098.62,
+      "change_pct": -4.05
     },
     "SOL": {
-      "price": 84.38,
-      "change_pct": -1.98
+      "price": 84.41,
+      "change_pct": -2.4
     },
     "BNB": {
-      "price": 639.26,
-      "change_pct": -1.72
+      "price": 640.11,
+      "change_pct": -2.08
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Kevin Warsh to be sworn in as Federal Reserve chair on Friday"
+      "title": "Elon Musk loses court battle against Sam Altman and OpenAI after 3-week trial"
     },
     {
       "source": "CNBC",
-      "title": "Meta layoffs starting this week stress harsh AI reality inside Zuckerberg\u2019s company"
+      "title": "Trump pivots to midterms, affordability after China summit as Iran war persists"
     },
     {
       "source": "MarketWatch",
-      "title": "ServiceNow\u2019s stock heads for best day in a year\u00a0\u2014 flashing a green light for the software sector"
+      "title": "Elon Musk has lost his case against OpenAI and Sam Altman"
     },
     {
       "source": "MarketWatch",
-      "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?"
+      "title": "The bond market has a warning for the Fed: Get serious about inflation and potential rate hikes ASAP"
     }
   ]
 }
