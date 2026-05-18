@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 17 2026  22:50 PT",
+  "generated_at": "Monday, May 18 2026  03:01 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4544.1,
-      "change_pct": 1.06
+      "price": 4545.8,
+      "change_pct": -0.02
     },
     "Oil (WTI)": {
-      "price": 102.73,
-      "change_pct": 0.18
+      "price": 102.05,
+      "change_pct": -1.1
     },
     "Silver": {
-      "price": 75.68,
-      "change_pct": 0.92
+      "price": 76.08,
+      "change_pct": 0.7
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76895,
-      "change_pct": -1.53
+      "price": 76890,
+      "change_pct": -1.74
     },
     "ETH": {
-      "price": 2119.02,
-      "change_pct": -3.05
+      "price": 2115.73,
+      "change_pct": -3.44
     },
     "SOL": {
-      "price": 84.85,
-      "change_pct": -2.37
+      "price": 84.49,
+      "change_pct": -2.69
     },
     "BNB": {
-      "price": 642.26,
-      "change_pct": -1.91
+      "price": 639.09,
+      "change_pct": -2.19
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts"
+      "title": "Oil jumps as Trump warns 'Clock is Ticking' for Iran, fanning fears of escalation in conflict"
     },
     {
       "source": "CNBC",
-      "title": "Samsung strike involving 47,000 workers looms as South Korea\u2019s president urges labor deal"
+      "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts"
     },
     {
       "source": "MarketWatch",
-      "title": "Dow futures drop, oil prices push higher as Iran war remains stuck in stalemate"
+      "title": "\u2018I\u2019m already feeling anxious\u2019: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?"
     },
     {
       "source": "MarketWatch",
-      "title": "Health officials declare Ebola outbreak a public health emergency"
+      "title": "A \u2018private celebrity compound\u2019: Selena Gomez lists her L.A. estate for $6.5 million"
     }
   ]
 }
