@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, May 18 2026  15:01 PT",
+  "generated_at": "Monday, May 18 2026  16:35 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4570.8,
-      "change_pct": 0.53
+      "price": 4590.4,
+      "change_pct": 0.96
     },
     "Oil (WTI)": {
-      "price": 102.49,
-      "change_pct": -0.68
+      "price": 102.42,
+      "change_pct": -0.75
     },
     "Silver": {
-      "price": 78.12,
-      "change_pct": 3.39
+      "price": 79.2,
+      "change_pct": 4.82
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77072,
-      "change_pct": -1.44
+      "price": 76950,
+      "change_pct": -1.12
     },
     "ETH": {
-      "price": 2136.99,
-      "change_pct": -2.19
+      "price": 2129.6,
+      "change_pct": -1.9
     },
     "SOL": {
-      "price": 85.52,
-      "change_pct": -1.49
+      "price": 85.36,
+      "change_pct": -0.4
     },
     "BNB": {
-      "price": 645.28,
-      "change_pct": -1.54
+      "price": 643.38,
+      "change_pct": -1.23
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump pivots to midterms, affordability after China summit as Iran war persists"
+      "title": "Trump says he's postponing 'scheduled attack of Iran tomorrow' at Middle East leaders' request"
     },
     {
       "source": "MarketWatch",
-      "title": "Palo Alto Networks hits a big milestone. Why cybersecurity stocks are so hot right now."
+      "title": "What NextEra and Dominion\u2019s giant utility merger means for your electric bill"
     },
     {
       "source": "MarketWatch",
-      "title": "The S&P 500 and most of its stocks are heading in opposite directions at a record pace. What investors should know."
+      "title": "Lululemon hits back at its founder after months of attacks, saying he\u2019s just jealous"
     }
   ]
 }
