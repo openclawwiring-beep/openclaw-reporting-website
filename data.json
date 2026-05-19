@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, May 18 2026  16:35 PT",
+  "generated_at": "Monday, May 18 2026  20:29 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4590.4,
-      "change_pct": 0.96
+      "price": 4554.4,
+      "change_pct": 0.17
     },
     "Oil (WTI)": {
-      "price": 102.42,
-      "change_pct": -0.75
+      "price": 102.87,
+      "change_pct": -0.31
     },
     "Silver": {
-      "price": 79.2,
-      "change_pct": 4.82
+      "price": 77.04,
+      "change_pct": 1.96
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76950,
-      "change_pct": -1.12
+      "price": 76689,
+      "change_pct": -0.3
     },
     "ETH": {
-      "price": 2129.6,
-      "change_pct": -1.9
+      "price": 2126.78,
+      "change_pct": 0.36
     },
     "SOL": {
-      "price": 85.36,
-      "change_pct": -0.4
+      "price": 84.95,
+      "change_pct": 0.05
     },
     "BNB": {
-      "price": 643.38,
-      "change_pct": -1.23
+      "price": 642.71,
+      "change_pct": -0.18
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Musk slams Altman trial verdict as a 'technicality,' vows to appeal"
+      "title": "Putin heads to Beijing days after Trump in test of China's balancing act"
     },
     {
       "source": "CNBC",
-      "title": "Trump says he's postponing 'scheduled attack of Iran tomorrow' at Middle East leaders' request"
+      "title": "Musk slams Altman trial verdict as a 'technicality,' vows to appeal"
     },
     {
       "source": "MarketWatch",
-      "title": "What NextEra and Dominion\u2019s giant utility merger means for your electric bill"
+      "title": "The bond market has a warning for the Fed: Get serious about inflation and potential rate hikes ASAP"
     },
     {
       "source": "MarketWatch",
-      "title": "Lululemon hits back at its founder after months of attacks, saying he\u2019s just jealous"
+      "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?"
     }
   ]
 }
