@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, May 19 2026  11:59 PT",
-  "market_status": "Live \u2014 as of 14:59 ET",
+  "generated_at": "Tuesday, May 19 2026  13:48 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7362.91,
-      "change_pct": -0.54
+      "price": 7353.61,
+      "change_pct": -0.67
     },
     "Nasdaq": {
-      "price": 25910.75,
-      "change_pct": -0.69
+      "price": 25870.71,
+      "change_pct": -0.84
     },
     "Dow Jones": {
-      "price": 49428.98,
-      "change_pct": -0.52
+      "price": 49363.88,
+      "change_pct": -0.65
     },
     "Russell 2000": {
-      "price": 2755.6,
-      "change_pct": -0.69
+      "price": 2747.07,
+      "change_pct": -1.01
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4502.2,
-      "change_pct": -1.03
+      "price": 4487.3,
+      "change_pct": -1.35
     },
     "Oil (WTI)": {
-      "price": 104.52,
-      "change_pct": 1.6
+      "price": 104.03,
+      "change_pct": 1.13
     },
     "Silver": {
-      "price": 74.76,
-      "change_pct": -2.47
+      "price": 74.15,
+      "change_pct": -3.26
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76761,
-      "change_pct": 0.74
+      "price": 76890,
+      "change_pct": 0.07
     },
     "ETH": {
-      "price": 2113.8,
-      "change_pct": 1.56
+      "price": 2115.08,
+      "change_pct": -0.03
     },
     "SOL": {
-      "price": 84.31,
-      "change_pct": 0.91
+      "price": 84.4,
+      "change_pct": -0.55
     },
     "BNB": {
-      "price": 639.9,
-      "change_pct": 0.4
+      "price": 640.0,
+      "change_pct": -0.39
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "30-year Treasury yield tops 5.19%, highest since before the financial crisis"
+      "title": "Trump's past tax returns get protection from IRS enforcement under 'lawfare' fund settlement"
     },
     {
       "source": "CNBC",
-      "title": "Mortgage rates surge to highest level since July"
+      "title": "Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic"
     },
     {
       "source": "MarketWatch",
-      "title": "Elon Musk ditched California, but the state will get a much-needed win from SpaceX\u2019s IPO"
+      "title": "CoreWeave\u2019s stock falls as new Google cloud venture may signal more competition ahead"
     },
     {
       "source": "MarketWatch",
-      "title": "Is RFK\u2019s \u2018carnivore diet\u2019 healthy? Here\u2019s what you need to know."
+      "title": "Home Depot says its sales are healthy, but here\u2019s where customers are holding back"
     }
   ]
 }
