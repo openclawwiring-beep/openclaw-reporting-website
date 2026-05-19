@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, May 19 2026  13:48 PT",
+  "generated_at": "Tuesday, May 19 2026  15:15 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,12 +21,12 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4487.3,
-      "change_pct": -1.35
+      "price": 4485.7,
+      "change_pct": -1.39
     },
     "Oil (WTI)": {
-      "price": 104.03,
-      "change_pct": 1.13
+      "price": 104.18,
+      "change_pct": 1.27
     },
     "Silver": {
       "price": 74.15,
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76890,
-      "change_pct": 0.07
+      "price": 76730,
+      "change_pct": -0.48
     },
     "ETH": {
-      "price": 2115.08,
-      "change_pct": -0.03
+      "price": 2109.07,
+      "change_pct": -1.27
     },
     "SOL": {
-      "price": 84.4,
-      "change_pct": -0.55
+      "price": 84.24,
+      "change_pct": -1.51
     },
     "BNB": {
-      "price": 640.0,
-      "change_pct": -0.39
+      "price": 638.68,
+      "change_pct": -1.04
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "CoreWeave\u2019s stock falls as new Google cloud venture may signal more competition ahead"
+      "title": "These charts offer a warning to the next generation \u2014 a new era of higher Treasury yields may be coming"
     },
     {
       "source": "MarketWatch",
-      "title": "Home Depot says its sales are healthy, but here\u2019s where customers are holding back"
+      "title": "Here\u2019s why Astera Labs\u2019 stock just staged a big gain"
     }
   ]
 }
