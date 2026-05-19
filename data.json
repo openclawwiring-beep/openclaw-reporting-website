@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, May 19 2026  15:15 PT",
+  "generated_at": "Tuesday, May 19 2026  16:40 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4485.7,
-      "change_pct": -1.39
+      "price": 4489.4,
+      "change_pct": -1.31
     },
     "Oil (WTI)": {
-      "price": 104.18,
-      "change_pct": 1.27
+      "price": 104.04,
+      "change_pct": 1.14
     },
     "Silver": {
-      "price": 74.15,
-      "change_pct": -3.26
+      "price": 74.42,
+      "change_pct": -2.92
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76730,
-      "change_pct": -0.48
+      "price": 76869,
+      "change_pct": -0.1
     },
     "ETH": {
-      "price": 2109.07,
-      "change_pct": -1.27
+      "price": 2114.65,
+      "change_pct": -0.7
     },
     "SOL": {
-      "price": 84.24,
-      "change_pct": -1.51
+      "price": 84.44,
+      "change_pct": -1.07
     },
     "BNB": {
-      "price": 638.68,
-      "change_pct": -1.04
+      "price": 640.66,
+      "change_pct": -0.42
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Google debuts new AI models, personal AI agents in effort to keep pace with OpenAI and Anthropic"
+      "title": "SpaceX picks Goldman Sachs for lead left position on record-breaking IPO, sources say"
     },
     {
       "source": "MarketWatch",
-      "title": "These charts offer a warning to the next generation \u2014 a new era of higher Treasury yields may be coming"
+      "title": "Buckle up for $120 oil changes. Why car care is about to get more expensive."
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s why Astera Labs\u2019 stock just staged a big gain"
+      "title": "These charts offer a warning: A new era of higher Treasury yields may be coming"
     }
   ]
 }
