@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, May 19 2026  03:47 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, May 19 2026  06:54 PT",
+  "market_status": "Live \u2014 as of 09:54 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7403.05,
-      "change_pct": -0.07
+      "price": 7377.02,
+      "change_pct": -0.35
     },
     "Nasdaq": {
-      "price": 26090.73,
-      "change_pct": -0.51
+      "price": 25968.48,
+      "change_pct": -0.47
     },
     "Dow Jones": {
-      "price": 49686.12,
-      "change_pct": 0.32
+      "price": 49539.19,
+      "change_pct": -0.3
     },
     "Russell 2000": {
-      "price": 2775.1,
-      "change_pct": -0.65
+      "price": 2748.52,
+      "change_pct": -0.95
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4545.2,
-      "change_pct": -0.08
+      "price": 4478.5,
+      "change_pct": -1.55
     },
     "Oil (WTI)": {
-      "price": 103.1,
-      "change_pct": 0.22
+      "price": 104.08,
+      "change_pct": 1.18
     },
     "Silver": {
-      "price": 76.36,
-      "change_pct": -0.38
+      "price": 73.79,
+      "change_pct": -3.73
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76704,
-      "change_pct": -0.18
+      "price": 76837,
+      "change_pct": -0.21
     },
     "ETH": {
-      "price": 2108.66,
-      "change_pct": -0.34
+      "price": 2120.27,
+      "change_pct": -0.55
     },
     "SOL": {
-      "price": 84.4,
-      "change_pct": 0.0
+      "price": 84.78,
+      "change_pct": 0.03
     },
     "BNB": {
-      "price": 638.02,
-      "change_pct": -0.13
+      "price": 639.93,
+      "change_pct": -0.12
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Home Depot says core shopper is resilient in the face of higher gas prices, sales rise 5%"
+      "title": "30-year Treasury yield tops 5.18%, reaching the highest level in nearly 19 years"
     },
     {
       "source": "CNBC",
-      "title": "The AI economy is rewriting the American Dream \u2014 and blue-collar workers are poised to win"
+      "title": "S&P 500 falls for third day as chip stocks continue to decline, high yields threaten bull market: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Aluminum could hit $4,000 a ton amid most bullish set-up in over 50 years"
+      "title": "Here are the stocks to buy \u2014 and avoid \u2014 to protect your portfolio against oil and yield shocks"
     },
     {
       "source": "MarketWatch",
-      "title": "Home Depot\u2019s stock rises as the full-year outlook was kept intact, a relief for worried investors"
+      "title": "Don\u2019t worry about risk assets coming under pressure just yet, Deutsche Bank says"
     }
   ]
 }
