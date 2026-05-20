@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, May 20 2026  06:37 PT",
-  "market_status": "Live \u2014 as of 09:37 ET",
+  "generated_at": "Wednesday, May 20 2026  09:52 PT",
+  "market_status": "Live \u2014 as of 12:52 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7365.98,
-      "change_pct": 0.15
+      "price": 7412.08,
+      "change_pct": 0.78
     },
     "Nasdaq": {
-      "price": 25958.1,
-      "change_pct": 0.34
+      "price": 26167.14,
+      "change_pct": 1.15
     },
     "Dow Jones": {
-      "price": 49323.31,
-      "change_pct": -0.1
+      "price": 49857.43,
+      "change_pct": 0.98
     },
     "Russell 2000": {
-      "price": 2747.07,
-      "change_pct": -1.01
+      "price": 2803.07,
+      "change_pct": 2.03
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4494.6,
-      "change_pct": 0.62
+      "price": 4532.7,
+      "change_pct": 1.47
     },
     "Oil (WTI)": {
-      "price": 101.9,
-      "change_pct": -1.7
+      "price": 98.39,
+      "change_pct": -5.08
     },
     "Silver": {
-      "price": 75.4,
-      "change_pct": 2.11
+      "price": 76.14,
+      "change_pct": 3.11
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77129,
-      "change_pct": 0.31
+      "price": 77256,
+      "change_pct": 0.58
     },
     "ETH": {
-      "price": 2122.45,
-      "change_pct": 0.07
+      "price": 2134.61,
+      "change_pct": 0.73
     },
     "SOL": {
-      "price": 84.58,
-      "change_pct": -0.3
+      "price": 86.64,
+      "change_pct": 2.35
     },
     "BNB": {
-      "price": 642.29,
-      "change_pct": 0.22
+      "price": 648.14,
+      "change_pct": 1.29
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Jeff Bezos says bottom half of earners should pay zero in income taxes"
+      "title": "U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages"
     },
     {
       "source": "CNBC",
-      "title": "S&P 500 ticks higher as oil falls and traders await Nvidia\u2019s earnings: Live updates"
+      "title": "Nvidia earnings live updates: Data center sales, margins and AI outlook in focus"
     },
     {
       "source": "MarketWatch",
-      "title": "My late mother\u2019s bank account is $2,000 short. Can the bank legally refuse to provide her final statement?"
+      "title": "I found my coworker\u2019s W-2 in a book \u2014 she makes $15,000 more than me for the same job. What should I do?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018How much money do you make?\u2019 Since you can\u2019t ask your date that, ask this instead."
+      "title": "Global oil prices drop below $105 a barrel on hopes the U.S.-Iran war will soon end"
     }
   ]
 }
