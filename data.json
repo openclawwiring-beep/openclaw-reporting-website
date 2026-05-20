@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, May 20 2026  09:52 PT",
-  "market_status": "Live \u2014 as of 12:52 ET",
+  "generated_at": "Wednesday, May 20 2026  12:23 PT",
+  "market_status": "Live \u2014 as of 15:23 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7412.08,
-      "change_pct": 0.78
-    },
-    "Nasdaq": {
-      "price": 26167.14,
-      "change_pct": 1.15
-    },
-    "Dow Jones": {
-      "price": 49857.43,
+      "price": 7427.25,
       "change_pct": 0.98
     },
+    "Nasdaq": {
+      "price": 26224.22,
+      "change_pct": 1.37
+    },
+    "Dow Jones": {
+      "price": 50014.39,
+      "change_pct": 1.3
+    },
     "Russell 2000": {
-      "price": 2803.07,
-      "change_pct": 2.03
+      "price": 2811.04,
+      "change_pct": 2.32
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4532.7,
-      "change_pct": 1.47
+      "price": 4547.7,
+      "change_pct": 1.8
     },
     "Oil (WTI)": {
-      "price": 98.39,
-      "change_pct": -5.08
+      "price": 98.04,
+      "change_pct": -5.42
     },
     "Silver": {
-      "price": 76.14,
-      "change_pct": 3.11
+      "price": 76.59,
+      "change_pct": 3.72
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77256,
-      "change_pct": 0.58
+      "price": 77419,
+      "change_pct": 0.76
     },
     "ETH": {
-      "price": 2134.61,
-      "change_pct": 0.73
+      "price": 2133.77,
+      "change_pct": 0.87
     },
     "SOL": {
-      "price": 86.64,
-      "change_pct": 2.35
+      "price": 85.88,
+      "change_pct": 1.65
     },
     "BNB": {
-      "price": 648.14,
-      "change_pct": 1.29
+      "price": 649.23,
+      "change_pct": 1.43
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages"
+      "title": "Nvidia earnings live updates: Options market signals sharp stock swing"
     },
     {
       "source": "CNBC",
-      "title": "Nvidia earnings live updates: Data center sales, margins and AI outlook in focus"
+      "title": "Bezos defends billionaires, hypes AI, talks taxes and praises Trump in major CNBC interview"
     },
     {
       "source": "MarketWatch",
-      "title": "I found my coworker\u2019s W-2 in a book \u2014 she makes $15,000 more than me for the same job. What should I do?"
+      "title": "Has Google lost its AI edge? How its \u2018unexciting\u2019 strategy could actually pay off."
     },
     {
       "source": "MarketWatch",
-      "title": "Global oil prices drop below $105 a barrel on hopes the U.S.-Iran war will soon end"
+      "title": "Oil prices post biggest drop in 2 weeks, airline stocks surge on hopes the U.S.-Iran war will soon end"
     }
   ]
 }
