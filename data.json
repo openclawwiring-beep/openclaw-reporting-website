@@ -1,18 +1,18 @@
 {
-  "generated_at": "Wednesday, May 20 2026  03:33 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, May 20 2026  06:37 PT",
+  "market_status": "Live \u2014 as of 09:37 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7353.61,
-      "change_pct": -0.67
+      "price": 7365.98,
+      "change_pct": 0.15
     },
     "Nasdaq": {
-      "price": 25870.71,
-      "change_pct": -0.84
+      "price": 25958.1,
+      "change_pct": 0.34
     },
     "Dow Jones": {
-      "price": 49363.88,
-      "change_pct": -0.65
+      "price": 49323.31,
+      "change_pct": -0.1
     },
     "Russell 2000": {
       "price": 2747.07,
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4494.2,
-      "change_pct": 0.61
+      "price": 4494.6,
+      "change_pct": 0.62
     },
     "Oil (WTI)": {
-      "price": 102.25,
-      "change_pct": -1.36
+      "price": 101.9,
+      "change_pct": -1.7
     },
     "Silver": {
-      "price": 75.81,
-      "change_pct": 2.66
+      "price": 75.4,
+      "change_pct": 2.11
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77528,
-      "change_pct": 0.86
+      "price": 77129,
+      "change_pct": 0.31
     },
     "ETH": {
-      "price": 2131.52,
-      "change_pct": 0.6
+      "price": 2122.45,
+      "change_pct": 0.07
     },
     "SOL": {
-      "price": 84.95,
-      "change_pct": 0.41
+      "price": 84.58,
+      "change_pct": -0.3
     },
     "BNB": {
-      "price": 644.1,
-      "change_pct": 0.61
+      "price": 642.29,
+      "change_pct": 0.22
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Target beats Wall Street estimates, hikes sales outlook as shoppers start to return"
+      "title": "Jeff Bezos says bottom half of earners should pay zero in income taxes"
     },
     {
       "source": "CNBC",
-      "title": "Iran threatens to extend conflict \u2018beyond the region\u2019 if U.S. and Israel resume attacks"
+      "title": "S&P 500 ticks higher as oil falls and traders await Nvidia\u2019s earnings: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It will not bring you happiness\u2019: I have advice for your single, childless 62-year-old multimillionaire reader"
+      "title": "My late mother\u2019s bank account is $2,000 short. Can the bank legally refuse to provide her final statement?"
     },
     {
       "source": "MarketWatch",
-      "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?"
+      "title": "\u2018How much money do you make?\u2019 Since you can\u2019t ask your date that, ask this instead."
     }
   ]
 }
