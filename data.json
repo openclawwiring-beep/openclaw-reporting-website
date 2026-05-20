@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, May 20 2026  00:01 PT",
+  "generated_at": "Wednesday, May 20 2026  03:33 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4480.1,
-      "change_pct": 0.37
+      "price": 4494.2,
+      "change_pct": 0.61
     },
     "Oil (WTI)": {
-      "price": 102.81,
-      "change_pct": -1.22
+      "price": 102.25,
+      "change_pct": -1.36
     },
     "Silver": {
-      "price": 75.64,
-      "change_pct": 2.2
+      "price": 75.81,
+      "change_pct": 2.66
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77322,
-      "change_pct": 0.45
+      "price": 77528,
+      "change_pct": 0.86
     },
     "ETH": {
-      "price": 2131.25,
-      "change_pct": -0.21
+      "price": 2131.52,
+      "change_pct": 0.6
     },
     "SOL": {
-      "price": 84.89,
-      "change_pct": -0.22
+      "price": 84.95,
+      "change_pct": 0.41
     },
     "BNB": {
-      "price": 643.2,
-      "change_pct": -0.09
+      "price": 644.1,
+      "change_pct": 0.61
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Putin-Xi talks revive stalled Russian gas pipeline as Iran war rattles energy markets"
+      "title": "Target beats Wall Street estimates, hikes sales outlook as shoppers start to return"
     },
     {
       "source": "CNBC",
-      "title": "Another Trump victory: Republican Rep. Thomas Massie loses Kentucky primary"
+      "title": "Iran threatens to extend conflict \u2018beyond the region\u2019 if U.S. and Israel resume attacks"
     },
     {
       "source": "MarketWatch",
-      "title": "Elon Musk ditched California, but the state will get a much-needed win from SpaceX\u2019s IPO"
+      "title": "\u2018It will not bring you happiness\u2019: I have advice for your single, childless 62-year-old multimillionaire reader"
     },
     {
       "source": "MarketWatch",
-      "title": "Writing your own obituary can help you live a better life. Here\u2019s how to get started."
+      "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?"
     }
   ]
 }
