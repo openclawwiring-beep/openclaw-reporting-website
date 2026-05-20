@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, May 20 2026  14:18 PT",
+  "generated_at": "Wednesday, May 20 2026  15:51 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4546.2,
-      "change_pct": 1.77
+      "price": 4542.4,
+      "change_pct": 1.69
     },
     "Oil (WTI)": {
-      "price": 99.08,
-      "change_pct": -4.42
+      "price": 98.97,
+      "change_pct": -4.52
     },
     "Silver": {
-      "price": 76.21,
-      "change_pct": 3.2
+      "price": 75.93,
+      "change_pct": 2.82
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77660,
-      "change_pct": 0.92
+      "price": 77406,
+      "change_pct": 0.94
     },
     "ETH": {
-      "price": 2135.05,
-      "change_pct": 0.85
+      "price": 2125.2,
+      "change_pct": 0.93
     },
     "SOL": {
-      "price": 86.18,
-      "change_pct": 1.98
+      "price": 86.01,
+      "change_pct": 2.27
     },
     "BNB": {
-      "price": 650.52,
-      "change_pct": 1.51
+      "price": 648.09,
+      "change_pct": 1.48
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia beats on revenue and guidance, adds $80 billion to buyback plan: Live updates"
+      "title": "Nvidia earnings takeaways: Data center revenue nearly doubles, report is strong but stock slides"
     },
     {
       "source": "CNBC",
-      "title": "SpaceX live updates: IPO filing sets stage for record offering"
+      "title": "SpaceX's historic IPO plans: Billions in losses and Musk's massive ownership"
     },
     {
       "source": "MarketWatch",
-      "title": "An updated \u2018misery index\u2019 shows economic stress is nearing a warning zone as stocks push higher"
+      "title": "Investors are flocking to an offshore crypto platform for an early shot at trading the SpaceX IPO"
     },
     {
       "source": "MarketWatch",
-      "title": "I found my co-worker\u2019s W-2 in a book \u2014 she makes $15,000 more than me for the same job. What should I do?"
+      "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?"
     }
   ]
 }
