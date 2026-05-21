@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, May 21 2026  14:56 PT",
+  "generated_at": "Thursday, May 21 2026  16:04 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4544.2,
-      "change_pct": 0.32
+      "price": 4541.9,
+      "change_pct": 0.26
     },
     "Oil (WTI)": {
-      "price": 98.0,
-      "change_pct": -1.13
+      "price": 97.68,
+      "change_pct": -1.45
     },
     "Silver": {
-      "price": 77.01,
-      "change_pct": 1.72
+      "price": 77.1,
+      "change_pct": 1.83
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77636,
-      "change_pct": 0.23
+      "price": 77535,
+      "change_pct": 0.18
     },
     "ETH": {
-      "price": 2134.18,
-      "change_pct": 0.23
+      "price": 2129.34,
+      "change_pct": 0.22
     },
     "SOL": {
-      "price": 87.38,
-      "change_pct": 1.7
+      "price": 87.09,
+      "change_pct": 1.38
     },
     "BNB": {
-      "price": 657.33,
-      "change_pct": 1.25
+      "price": 656.16,
+      "change_pct": 1.27
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "People are putting less gas in their tanks as high prices crimp budgets, Walmart says"
+      "title": "I\u2019m selling my $1 million home. Will my agent really charge less than a 6% commission?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My husband is leery of my plan\u2019: We are both 60 and have $5 million. Is now a good time to dip into our savings?"
+      "title": "Your bond portfolio is facing a \u2018termite\u2019 infestation far worse than Jamie Dimon\u2019s \u2018cockroaches\u2019"
     }
   ]
 }
