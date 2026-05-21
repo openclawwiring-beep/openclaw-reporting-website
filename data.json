@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, May 20 2026  21:52 PT",
+  "generated_at": "Thursday, May 21 2026  01:31 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4537.8,
-      "change_pct": 1.58
+      "price": 4532.5,
+      "change_pct": 0.06
     },
     "Oil (WTI)": {
-      "price": 99.07,
-      "change_pct": -4.43
+      "price": 98.73,
+      "change_pct": -0.39
     },
     "Silver": {
-      "price": 75.9,
-      "change_pct": 2.78
+      "price": 75.58,
+      "change_pct": -0.17
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77929,
-      "change_pct": 1.6
+      "price": 77966,
+      "change_pct": 0.91
     },
     "ETH": {
-      "price": 2142.03,
-      "change_pct": 1.51
+      "price": 2139.01,
+      "change_pct": 0.43
     },
     "SOL": {
-      "price": 86.95,
-      "change_pct": 3.53
+      "price": 86.88,
+      "change_pct": 2.53
     },
     "BNB": {
-      "price": 653.49,
-      "change_pct": 2.32
+      "price": 654.5,
+      "change_pct": 1.65
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia earnings takeaways: Data center revenue nearly doubles, report is strong but stock slides"
+      "title": "Nvidia says it has \u2018largely conceded\u2019 China\u2019s AI chip market to Huawei"
     },
     {
       "source": "CNBC",
-      "title": "SpaceX's historic IPO plans: Billions in losses and Musk's massive ownership"
+      "title": "Ubisoft shares plunge 16% after Assassin\u2019s Creed maker warns of annual profit loss"
     },
     {
       "source": "MarketWatch",
