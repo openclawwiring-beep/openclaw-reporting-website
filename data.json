@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, May 21 2026  10:58 PT",
-  "market_status": "Live \u2014 as of 13:58 ET",
+  "generated_at": "Thursday, May 21 2026  13:04 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7457.01,
-      "change_pct": 0.32
+      "price": 7445.72,
+      "change_pct": 0.17
     },
     "Nasdaq": {
-      "price": 26371.37,
-      "change_pct": 0.38
+      "price": 26293.1,
+      "change_pct": 0.09
     },
     "Dow Jones": {
-      "price": 50293.72,
-      "change_pct": 0.57
+      "price": 50285.66,
+      "change_pct": 0.55
     },
     "Russell 2000": {
-      "price": 2840.34,
-      "change_pct": 0.79
+      "price": 2841.4,
+      "change_pct": 0.83
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4548.7,
-      "change_pct": 0.42
+      "price": 4537.8,
+      "change_pct": 0.17
     },
     "Oil (WTI)": {
-      "price": 97.13,
-      "change_pct": -2.01
+      "price": 98.0,
+      "change_pct": -1.13
     },
     "Silver": {
-      "price": 77.09,
-      "change_pct": 1.82
+      "price": 76.9,
+      "change_pct": 1.57
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77944,
-      "change_pct": 0.59
+      "price": 77646,
+      "change_pct": 0.12
     },
     "ETH": {
-      "price": 2149.84,
-      "change_pct": 0.53
+      "price": 2140.49,
+      "change_pct": 0.24
     },
     "SOL": {
-      "price": 87.79,
-      "change_pct": 1.57
+      "price": 87.77,
+      "change_pct": 2.06
     },
     "BNB": {
-      "price": 658.32,
-      "change_pct": 1.44
+      "price": 657.23,
+      "change_pct": 1.18
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump postpones AI executive order signing: 'I didn't like certain aspects'"
+      "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment"
     },
     {
       "source": "CNBC",
-      "title": "Trump administration says new EPA rules will save you money at the supermarket. It's not clear they will"
+      "title": "SpaceX is heavily reliant on Starlink for growth and profit as it marches toward Nasdaq listing"
     },
     {
       "source": "MarketWatch",
-      "title": "The bond market just flipped the script on investors \u2014 Wall Street is acting like nothing\u2019s wrong"
+      "title": "NYC\u2019s Mamdani boasts new $50 World Cup ticket program: \u2018That is five lattes in New York City!\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "People are putting less gas in their tanks as high prices crimp budgets, Walmart says"
+      "title": "Elon Musk\u2019s xAI is draining SpaceX\u2019s cash, with little to show for it"
     }
   ]
 }
