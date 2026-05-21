@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, May 20 2026  15:51 PT",
+  "generated_at": "Wednesday, May 20 2026  17:06 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4542.4,
-      "change_pct": 1.69
+      "price": 4546.1,
+      "change_pct": 1.77
     },
     "Oil (WTI)": {
-      "price": 98.97,
-      "change_pct": -4.52
+      "price": 98.93,
+      "change_pct": -4.56
     },
     "Silver": {
-      "price": 75.93,
-      "change_pct": 2.82
+      "price": 76.16,
+      "change_pct": 3.13
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77406,
-      "change_pct": 0.94
+      "price": 77541,
+      "change_pct": 1.14
     },
     "ETH": {
-      "price": 2125.2,
-      "change_pct": 0.93
+      "price": 2129.01,
+      "change_pct": 1.0
     },
     "SOL": {
-      "price": 86.01,
-      "change_pct": 2.27
+      "price": 86.15,
+      "change_pct": 2.24
     },
     "BNB": {
-      "price": 648.09,
-      "change_pct": 1.48
+      "price": 649.5,
+      "change_pct": 1.68
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Investors are flocking to an offshore crypto platform for an early shot at trading the SpaceX IPO"
+      "title": "Gen Z may be shying away from buying cosmetics, as higher gas prices hit spending"
     },
     {
       "source": "MarketWatch",
-      "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?"
+      "title": "Investors are flocking to an offshore crypto platform for an early shot at trading the SpaceX IPO"
     }
   ]
 }
