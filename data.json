@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, May 21 2026  13:04 PT",
+  "generated_at": "Thursday, May 21 2026  14:56 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,40 +15,40 @@
       "change_pct": 0.55
     },
     "Russell 2000": {
-      "price": 2841.4,
-      "change_pct": 0.83
+      "price": 2843.45,
+      "change_pct": 0.93
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4537.8,
-      "change_pct": 0.17
+      "price": 4544.2,
+      "change_pct": 0.32
     },
     "Oil (WTI)": {
       "price": 98.0,
       "change_pct": -1.13
     },
     "Silver": {
-      "price": 76.9,
-      "change_pct": 1.57
+      "price": 77.01,
+      "change_pct": 1.72
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77646,
-      "change_pct": 0.12
+      "price": 77636,
+      "change_pct": 0.23
     },
     "ETH": {
-      "price": 2140.49,
-      "change_pct": 0.24
+      "price": 2134.18,
+      "change_pct": 0.23
     },
     "SOL": {
-      "price": 87.77,
-      "change_pct": 2.06
+      "price": 87.38,
+      "change_pct": 1.7
     },
     "BNB": {
-      "price": 657.23,
-      "change_pct": 1.18
+      "price": 657.33,
+      "change_pct": 1.25
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "NYC\u2019s Mamdani boasts new $50 World Cup ticket program: \u2018That is five lattes in New York City!\u2019"
+      "title": "People are putting less gas in their tanks as high prices crimp budgets, Walmart says"
     },
     {
       "source": "MarketWatch",
-      "title": "Elon Musk\u2019s xAI is draining SpaceX\u2019s cash, with little to show for it"
+      "title": "\u2018My husband is leery of my plan\u2019: We are both 60 and have $5 million. Is now a good time to dip into our savings?"
     }
   ]
 }
