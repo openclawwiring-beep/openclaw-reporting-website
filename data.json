@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, May 21 2026  01:31 PT",
+  "generated_at": "Thursday, May 21 2026  05:13 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4532.5,
-      "change_pct": 0.06
+      "price": 4516.2,
+      "change_pct": -0.3
     },
     "Oil (WTI)": {
-      "price": 98.73,
-      "change_pct": -0.39
+      "price": 100.52,
+      "change_pct": 1.41
     },
     "Silver": {
-      "price": 75.58,
-      "change_pct": -0.17
+      "price": 75.39,
+      "change_pct": -0.44
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77966,
-      "change_pct": 0.91
+      "price": 77130,
+      "change_pct": -0.32
     },
     "ETH": {
-      "price": 2139.01,
-      "change_pct": 0.43
+      "price": 2112.32,
+      "change_pct": -0.78
     },
     "SOL": {
-      "price": 86.88,
-      "change_pct": 2.53
+      "price": 85.49,
+      "change_pct": 0.91
     },
     "BNB": {
-      "price": 654.5,
-      "change_pct": 1.65
+      "price": 648.08,
+      "change_pct": 0.78
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia says it has \u2018largely conceded\u2019 China\u2019s AI chip market to Huawei"
+      "title": "Walmart issues worse-than-expected outlook as high gas prices hit shoppers"
     },
     {
       "source": "CNBC",
-      "title": "Ubisoft shares plunge 16% after Assassin\u2019s Creed maker warns of annual profit loss"
+      "title": "Quantum stocks soar as U.S. reportedly plans $2 billion \u2018award\u2019 and taking equity stakes"
     },
     {
       "source": "MarketWatch",
-      "title": "Your bond portfolio is facing a \u2018termite\u2019 infestation far worse than Jamie Dimon\u2019s \u2018cockroaches\u2019"
+      "title": "Lilly\u2019s new experimental shot produced 28% weight loss"
     },
     {
       "source": "MarketWatch",
-      "title": "Vox\u2019s sale marks the end of an era for a once-booming form of digital media. Here\u2019s how it all came undone."
+      "title": "The \u2018stunning\u2019 end to Trump\u2019s case against the IRS raises tax-law questions that will be analyzed for years"
     }
   ]
 }
