@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, May 21 2026  05:13 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, May 21 2026  08:55 PT",
+  "market_status": "Live \u2014 as of 11:55 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7432.97,
-      "change_pct": 1.08
+      "price": 7412.51,
+      "change_pct": -0.28
     },
     "Nasdaq": {
-      "price": 26270.36,
-      "change_pct": 1.54
+      "price": 26174.56,
+      "change_pct": -0.36
     },
     "Dow Jones": {
-      "price": 50009.35,
-      "change_pct": 1.31
+      "price": 49927.03,
+      "change_pct": -0.17
     },
     "Russell 2000": {
-      "price": 2817.37,
-      "change_pct": 2.56
+      "price": 2817.43,
+      "change_pct": -0.02
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4516.2,
-      "change_pct": -0.3
+      "price": 4510.2,
+      "change_pct": -0.43
     },
     "Oil (WTI)": {
-      "price": 100.52,
-      "change_pct": 1.41
+      "price": 101.18,
+      "change_pct": 2.08
     },
     "Silver": {
-      "price": 75.39,
-      "change_pct": -0.44
+      "price": 75.78,
+      "change_pct": 0.08
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77130,
-      "change_pct": -0.32
+      "price": 77153,
+      "change_pct": -0.37
     },
     "ETH": {
-      "price": 2112.32,
-      "change_pct": -0.78
+      "price": 2130.75,
+      "change_pct": -0.24
     },
     "SOL": {
-      "price": 85.49,
-      "change_pct": 0.91
+      "price": 86.35,
+      "change_pct": 0.55
     },
     "BNB": {
-      "price": 648.08,
-      "change_pct": 0.78
+      "price": 651.29,
+      "change_pct": 0.42
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Walmart issues worse-than-expected outlook as high gas prices hit shoppers"
+      "title": "SpaceX is heavily reliant on Starlink for growth and profit as it marches toward Nasdaq listing"
     },
     {
       "source": "CNBC",
-      "title": "Quantum stocks soar as U.S. reportedly plans $2 billion \u2018award\u2019 and taking equity stakes"
+      "title": "Oil prices jump more than 3% after Iran supreme leader says uranium must remain in country"
     },
     {
       "source": "MarketWatch",
-      "title": "Lilly\u2019s new experimental shot produced 28% weight loss"
+      "title": "The surprising cost of caring for aging parents: divorce"
     },
     {
       "source": "MarketWatch",
-      "title": "The \u2018stunning\u2019 end to Trump\u2019s case against the IRS raises tax-law questions that will be analyzed for years"
+      "title": "This hack can save you hundreds on airfare this summer"
     }
   ]
 }
