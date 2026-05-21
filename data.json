@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, May 20 2026  17:06 PT",
+  "generated_at": "Wednesday, May 20 2026  21:52 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,40 +15,40 @@
       "change_pct": 1.31
     },
     "Russell 2000": {
-      "price": 2817.36,
+      "price": 2817.37,
       "change_pct": 2.56
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4546.1,
-      "change_pct": 1.77
+      "price": 4537.8,
+      "change_pct": 1.58
     },
     "Oil (WTI)": {
-      "price": 98.93,
-      "change_pct": -4.56
+      "price": 99.07,
+      "change_pct": -4.43
     },
     "Silver": {
-      "price": 76.16,
-      "change_pct": 3.13
+      "price": 75.9,
+      "change_pct": 2.78
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77541,
-      "change_pct": 1.14
+      "price": 77929,
+      "change_pct": 1.6
     },
     "ETH": {
-      "price": 2129.01,
-      "change_pct": 1.0
+      "price": 2142.03,
+      "change_pct": 1.51
     },
     "SOL": {
-      "price": 86.15,
-      "change_pct": 2.24
+      "price": 86.95,
+      "change_pct": 3.53
     },
     "BNB": {
-      "price": 649.5,
-      "change_pct": 1.68
+      "price": 653.49,
+      "change_pct": 2.32
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Gen Z may be shying away from buying cosmetics, as higher gas prices hit spending"
+      "title": "Your bond portfolio is facing a \u2018termite\u2019 infestation far worse than Jamie Dimon\u2019s \u2018cockroaches\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "Investors are flocking to an offshore crypto platform for an early shot at trading the SpaceX IPO"
+      "title": "Vox\u2019s sale marks the end of an era for a once-booming form of digital media. Here\u2019s how it all came undone."
     }
   ]
 }
