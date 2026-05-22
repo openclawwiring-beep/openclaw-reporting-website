@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, May 22 2026  10:50 PT",
-  "market_status": "Live \u2014 as of 13:50 ET",
+  "generated_at": "Friday, May 22 2026  12:43 PT",
+  "market_status": "Live \u2014 as of 15:43 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7495.39,
-      "change_pct": 0.67
+      "price": 7470.8,
+      "change_pct": 0.34
     },
     "Nasdaq": {
-      "price": 26449.3,
-      "change_pct": 0.59
+      "price": 26327.25,
+      "change_pct": 0.13
     },
     "Dow Jones": {
-      "price": 50749.17,
-      "change_pct": 0.92
+      "price": 50596.35,
+      "change_pct": 0.62
     },
     "Russell 2000": {
-      "price": 2874.78,
-      "change_pct": 1.11
+      "price": 2866.08,
+      "change_pct": 0.81
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4524.7,
-      "change_pct": -0.11
+      "price": 4507.5,
+      "change_pct": -0.49
     },
     "Oil (WTI)": {
-      "price": 95.43,
-      "change_pct": -2.08
+      "price": 96.92,
+      "change_pct": -0.55
     },
     "Silver": {
-      "price": 76.44,
-      "change_pct": -0.39
+      "price": 75.82,
+      "change_pct": -1.21
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76823,
-      "change_pct": -1.21
+      "price": 75670,
+      "change_pct": -2.42
     },
     "ETH": {
-      "price": 2121.67,
-      "change_pct": -0.97
+      "price": 2063.42,
+      "change_pct": -3.37
     },
     "SOL": {
-      "price": 86.88,
-      "change_pct": -0.56
+      "price": 84.18,
+      "change_pct": -3.84
     },
     "BNB": {
-      "price": 660.46,
-      "change_pct": 0.51
+      "price": 648.86,
+      "change_pct": -1.14
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia\u2019s on a new path, and if you own an S&P 500 index fund your money is riding on it"
+      "title": "This 2008 \u2018train wreck\u2019 oil scenario could unfold if Hormuz isn\u2019t opened by end of August"
     },
     {
       "source": "MarketWatch",
-      "title": "I almost fell for a scammer. This one rule saved me \u2014 and could help you, too."
+      "title": "5 ways to stretch your Memorial Day BBQ budget as burgers cost 20% more this year"
     }
   ]
 }
