@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, May 22 2026  02:20 PT",
+  "generated_at": "Friday, May 22 2026  05:03 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4522.3,
-      "change_pct": -0.17
+      "price": 4523.9,
+      "change_pct": -0.13
     },
     "Oil (WTI)": {
-      "price": 98.96,
-      "change_pct": 1.54
+      "price": 97.62,
+      "change_pct": 0.16
     },
     "Silver": {
-      "price": 76.14,
-      "change_pct": -0.79
+      "price": 76.26,
+      "change_pct": -0.63
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77150,
-      "change_pct": -0.92
-    },
-    "ETH": {
-      "price": 2118.31,
-      "change_pct": -0.87
-    },
-    "SOL": {
-      "price": 87.0,
+      "price": 77332,
       "change_pct": 0.21
     },
+    "ETH": {
+      "price": 2127.95,
+      "change_pct": 0.66
+    },
+    "SOL": {
+      "price": 87.18,
+      "change_pct": 1.84
+    },
     "BNB": {
-      "price": 657.47,
-      "change_pct": 0.43
+      "price": 657.45,
+      "change_pct": 1.51
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Stock futures rise as S&P 500 looks toward another winning week: Live updates"
+      "title": "Trump said he'd 'remember' companies that didn't apply for tariff refunds. Many of them are anyway"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We have longevity in the family\u2019: My sister is turning 67. Should she wait until 70 to claim Social Security?"
+      "title": "I\u2019m selling my $1 million home. Will my agent really charge less than a 6% commission?"
     },
     {
       "source": "MarketWatch",
-      "title": "Stay ahead of the crowds with this ultimate summer road-trip checklist"
+      "title": "BJ\u2019s Wholesale\u2019s earnings show that cheap gas matters for people"
     }
   ]
 }
