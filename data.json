@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, May 22 2026  14:08 PT",
+  "generated_at": "Friday, May 22 2026  15:33 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -25,30 +25,30 @@
       "change_pct": -0.43
     },
     "Oil (WTI)": {
-      "price": 97.08,
-      "change_pct": -0.39
+      "price": 97.0,
+      "change_pct": -0.47
     },
     "Silver": {
-      "price": 75.85,
-      "change_pct": -1.17
+      "price": 75.92,
+      "change_pct": -1.08
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75932,
-      "change_pct": -2.28
+      "price": 75763,
+      "change_pct": -2.38
     },
     "ETH": {
-      "price": 2070.96,
-      "change_pct": -3.06
+      "price": 2071.93,
+      "change_pct": -2.85
     },
     "SOL": {
-      "price": 84.91,
-      "change_pct": -2.96
+      "price": 84.97,
+      "change_pct": -2.65
     },
     "BNB": {
-      "price": 652.19,
-      "change_pct": -0.83
+      "price": 651.62,
+      "change_pct": -0.82
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Worried about private credit? Stay away from this even riskier investment right now."
+      "title": "I\u2019m selling my $1 million home. Will my agent really charge less than a 6% commission?"
     },
     {
       "source": "MarketWatch",
-      "title": "IMAX has bucked the trend as the movie-theater business fades \u2014 here\u2019s why it\u2019s so attractive to would-be buyers"
+      "title": "Worried about private credit? Stay away from this even riskier investment right now."
     }
   ]
 }
