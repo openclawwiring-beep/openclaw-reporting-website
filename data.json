@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, May 22 2026  12:43 PT",
-  "market_status": "Live \u2014 as of 15:43 ET",
+  "generated_at": "Friday, May 22 2026  14:08 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7470.8,
-      "change_pct": 0.34
+      "price": 7473.47,
+      "change_pct": 0.37
     },
     "Nasdaq": {
-      "price": 26327.25,
-      "change_pct": 0.13
+      "price": 26343.97,
+      "change_pct": 0.19
     },
     "Dow Jones": {
-      "price": 50596.35,
-      "change_pct": 0.62
+      "price": 50579.7,
+      "change_pct": 0.58
     },
     "Russell 2000": {
-      "price": 2866.08,
-      "change_pct": 0.81
+      "price": 2869.23,
+      "change_pct": 0.91
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4507.5,
-      "change_pct": -0.49
+      "price": 4510.5,
+      "change_pct": -0.43
     },
     "Oil (WTI)": {
-      "price": 96.92,
-      "change_pct": -0.55
+      "price": 97.08,
+      "change_pct": -0.39
     },
     "Silver": {
-      "price": 75.82,
-      "change_pct": -1.21
+      "price": 75.85,
+      "change_pct": -1.17
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75670,
-      "change_pct": -2.42
+      "price": 75932,
+      "change_pct": -2.28
     },
     "ETH": {
-      "price": 2063.42,
-      "change_pct": -3.37
+      "price": 2070.96,
+      "change_pct": -3.06
     },
     "SOL": {
-      "price": 84.18,
-      "change_pct": -3.84
+      "price": 84.91,
+      "change_pct": -2.96
     },
     "BNB": {
-      "price": 648.86,
-      "change_pct": -1.14
+      "price": 652.19,
+      "change_pct": -0.83
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "This 2008 \u2018train wreck\u2019 oil scenario could unfold if Hormuz isn\u2019t opened by end of August"
+      "title": "Worried about private credit? Stay away from this even riskier investment right now."
     },
     {
       "source": "MarketWatch",
-      "title": "5 ways to stretch your Memorial Day BBQ budget as burgers cost 20% more this year"
+      "title": "IMAX has bucked the trend as the movie-theater business fades \u2014 here\u2019s why it\u2019s so attractive to would-be buyers"
     }
   ]
 }
