@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, May 21 2026  16:04 PT",
+  "generated_at": "Thursday, May 21 2026  18:28 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4541.9,
-      "change_pct": 0.26
+      "price": 4531.8,
+      "change_pct": 0.04
     },
     "Oil (WTI)": {
-      "price": 97.68,
-      "change_pct": -1.45
+      "price": 98.3,
+      "change_pct": -0.83
     },
     "Silver": {
-      "price": 77.1,
-      "change_pct": 1.83
+      "price": 76.54,
+      "change_pct": 1.08
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77535,
-      "change_pct": 0.18
+      "price": 77395,
+      "change_pct": -0.51
     },
     "ETH": {
-      "price": 2129.34,
-      "change_pct": 0.22
+      "price": 2127.88,
+      "change_pct": -0.61
     },
     "SOL": {
-      "price": 87.09,
-      "change_pct": 1.38
+      "price": 86.73,
+      "change_pct": 0.35
     },
     "BNB": {
-      "price": 656.16,
-      "change_pct": 1.27
+      "price": 656.75,
+      "change_pct": 0.69
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment"
+      "title": "SpaceX scrubs test flight of massive Starship rocket, will retry Friday"
     },
     {
       "source": "CNBC",
-      "title": "SpaceX is heavily reliant on Starlink for growth and profit as it marches toward Nasdaq listing"
+      "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m selling my $1 million home. Will my agent really charge less than a 6% commission?"
+      "title": "\u2018Buffett Indicator\u2019 warns of a market top \u2014 8 crucial signs that stocks are running on fumes"
     },
     {
       "source": "MarketWatch",
-      "title": "Your bond portfolio is facing a \u2018termite\u2019 infestation far worse than Jamie Dimon\u2019s \u2018cockroaches\u2019"
+      "title": "Stocks tread water \u2014 but a wave of volatility is building"
     }
   ]
 }
