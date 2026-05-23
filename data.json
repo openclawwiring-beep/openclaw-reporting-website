@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 23 2026  03:51 PT",
+  "generated_at": "Saturday, May 23 2026  04:58 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 74642,
-      "change_pct": -3.35
+      "price": 74738,
+      "change_pct": -3.34
     },
     "ETH": {
-      "price": 2029.44,
-      "change_pct": -4.33
+      "price": 2029.98,
+      "change_pct": -4.58
     },
     "SOL": {
-      "price": 82.23,
-      "change_pct": -5.41
+      "price": 82.28,
+      "change_pct": -5.58
     },
     "BNB": {
-      "price": 639.5,
-      "change_pct": -2.44
+      "price": 639.58,
+      "change_pct": -2.66
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Tulsi Gabbard resigning as Trump's intelligence chief"
+      "title": "SpaceX launches Starship test flight on second try"
     },
     {
       "source": "MarketWatch",
