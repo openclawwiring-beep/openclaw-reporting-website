@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 23 2026  08:01 PT",
+  "generated_at": "Saturday, May 23 2026  11:00 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75453,
-      "change_pct": -1.67
+      "price": 75411,
+      "change_pct": -1.66
     },
     "ETH": {
-      "price": 2059.4,
-      "change_pct": -2.75
+      "price": 2061.99,
+      "change_pct": -2.63
     },
     "SOL": {
-      "price": 84.06,
-      "change_pct": -3.1
+      "price": 84.15,
+      "change_pct": -2.93
     },
     "BNB": {
-      "price": 645.67,
-      "change_pct": -1.88
+      "price": 648.09,
+      "change_pct": -1.68
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Spirit's collapse, high fuel prices test limits of summer vacation spending"
-    },
-    {
-      "source": "CNBC",
       "title": "Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most"
     },
     {
-      "source": "MarketWatch",
-      "title": "\u2018We have longevity in the family\u2019: My sister is turning 67. Should she wait until 70 to claim Social Security?"
+      "source": "CNBC",
+      "title": "U.S. and Iran are closing in on a 60-day ceasefire extension with nuclear framework, FT reports"
     },
     {
       "source": "MarketWatch",
-      "title": "An adviser told me I can save 35% of the taxes on a Roth conversion. Is that true?"
+      "title": "Your bond portfolio is facing a \u2018termite\u2019 infestation far worse than Jamie Dimon\u2019s \u2018cockroaches\u2019"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The surprising cost of caring for aging parents: Divorce"
     }
   ]
 }
