@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, May 22 2026  15:33 PT",
+  "generated_at": "Friday, May 22 2026  17:06 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75763,
-      "change_pct": -2.38
+      "price": 75489,
+      "change_pct": -2.57
     },
     "ETH": {
-      "price": 2071.93,
-      "change_pct": -2.85
+      "price": 2064.8,
+      "change_pct": -3.12
     },
     "SOL": {
-      "price": 84.97,
-      "change_pct": -2.65
+      "price": 84.31,
+      "change_pct": -3.21
     },
     "BNB": {
-      "price": 651.62,
-      "change_pct": -0.82
+      "price": 649.42,
+      "change_pct": -1.28
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m selling my $1 million home. Will my agent really charge less than a 6% commission?"
+      "title": "Nvidia poured $18.6 billion into venture-capital investments in just three months. Where does the cash trail lead?"
     },
     {
       "source": "MarketWatch",
-      "title": "Worried about private credit? Stay away from this even riskier investment right now."
+      "title": "Consumer sentiment sinks to an all-time low. Is this about Democrats\u2019 distaste for Trump?"
     }
   ]
 }
