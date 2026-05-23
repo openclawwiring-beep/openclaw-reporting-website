@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 23 2026  13:50 PT",
+  "generated_at": "Saturday, May 23 2026  14:53 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76695,
-      "change_pct": 1.09
+      "price": 76635,
+      "change_pct": 0.9
     },
     "ETH": {
-      "price": 2125.01,
-      "change_pct": 2.65
+      "price": 2112.13,
+      "change_pct": 1.71
     },
     "SOL": {
-      "price": 86.4,
-      "change_pct": 1.93
+      "price": 86.12,
+      "change_pct": 1.2
     },
     "BNB": {
-      "price": 656.79,
-      "change_pct": 0.75
+      "price": 656.06,
+      "change_pct": 0.52
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "U.S. and Iran are closing in on a 60-day ceasefire extension with nuclear framework, FT reports"
+      "title": "Trump says Iran deal reopening Strait of Hormuz 'largely negotiated' and will be announced soon"
     },
     {
       "source": "MarketWatch",
