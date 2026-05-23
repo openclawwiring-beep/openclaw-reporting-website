@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 23 2026  14:53 PT",
+  "generated_at": "Saturday, May 23 2026  15:52 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76635,
-      "change_pct": 0.9
+      "price": 76483,
+      "change_pct": 1.09
     },
     "ETH": {
-      "price": 2112.13,
-      "change_pct": 1.71
+      "price": 2114.47,
+      "change_pct": 2.13
     },
     "SOL": {
-      "price": 86.12,
-      "change_pct": 1.2
+      "price": 85.75,
+      "change_pct": 1.05
     },
     "BNB": {
-      "price": 656.06,
-      "change_pct": 0.52
+      "price": 655.81,
+      "change_pct": 0.71
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump says Iran deal reopening Strait of Hormuz 'largely negotiated' and will be announced soon"
+      "title": "Trump says Iran deal reopening Strait of Hormuz 'largely negotiated,' will be announced soon"
     },
     {
       "source": "MarketWatch",
