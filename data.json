@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 23 2026  04:58 PT",
+  "generated_at": "Saturday, May 23 2026  06:56 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 74738,
-      "change_pct": -3.34
+      "price": 75109,
+      "change_pct": -2.66
     },
     "ETH": {
-      "price": 2029.98,
-      "change_pct": -4.58
+      "price": 2041.8,
+      "change_pct": -3.98
     },
     "SOL": {
-      "price": 82.28,
-      "change_pct": -5.58
+      "price": 83.22,
+      "change_pct": -4.57
     },
     "BNB": {
-      "price": 639.58,
-      "change_pct": -2.66
+      "price": 642.77,
+      "change_pct": -3.03
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing"
+      "title": "High fuel prices test limits of summer vacation spending"
     },
     {
       "source": "CNBC",
-      "title": "SpaceX launches Starship test flight on second try"
+      "title": "Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most"
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia poured $18.6 billion into venture-capital investments in just three months. Where does the cash trail lead?"
+      "title": "Annuity payouts are the highest they\u2019ve been in years. Thanks, inflation."
     },
     {
       "source": "MarketWatch",
-      "title": "Consumer sentiment sinks to an all-time low. Is this about Democrats\u2019 distaste for Trump?"
+      "title": "These cybersecurity stocks are poised for rapid growth through 2028, and some of them are cheap right now"
     }
   ]
 }
