@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 23 2026  06:56 PT",
+  "generated_at": "Saturday, May 23 2026  08:01 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75109,
-      "change_pct": -2.66
+      "price": 75453,
+      "change_pct": -1.67
     },
     "ETH": {
-      "price": 2041.8,
-      "change_pct": -3.98
+      "price": 2059.4,
+      "change_pct": -2.75
     },
     "SOL": {
-      "price": 83.22,
-      "change_pct": -4.57
+      "price": 84.06,
+      "change_pct": -3.1
     },
     "BNB": {
-      "price": 642.77,
-      "change_pct": -3.03
+      "price": 645.67,
+      "change_pct": -1.88
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "High fuel prices test limits of summer vacation spending"
+      "title": "Spirit's collapse, high fuel prices test limits of summer vacation spending"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Annuity payouts are the highest they\u2019ve been in years. Thanks, inflation."
+      "title": "\u2018We have longevity in the family\u2019: My sister is turning 67. Should she wait until 70 to claim Social Security?"
     },
     {
       "source": "MarketWatch",
-      "title": "These cybersecurity stocks are poised for rapid growth through 2028, and some of them are cheap right now"
+      "title": "An adviser told me I can save 35% of the taxes on a Roth conversion. Is that true?"
     }
   ]
 }
