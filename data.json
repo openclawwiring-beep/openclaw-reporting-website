@@ -1,11 +1,7 @@
 {
-  "generated_at": "Saturday, May 23 2026  11:00 PT",
+  "generated_at": "Saturday, May 23 2026  12:43 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
-    "S&P 500": {
-      "price": 7473.47,
-      "change_pct": 0.37
-    },
     "Nasdaq": {
       "price": 26343.97,
       "change_pct": 0.19
@@ -35,20 +31,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75411,
-      "change_pct": -1.66
+      "price": 75832,
+      "change_pct": 0.19
     },
     "ETH": {
-      "price": 2061.99,
-      "change_pct": -2.63
+      "price": 2074.72,
+      "change_pct": 0.64
     },
     "SOL": {
-      "price": 84.15,
-      "change_pct": -2.93
+      "price": 84.8,
+      "change_pct": 0.74
     },
     "BNB": {
-      "price": 648.09,
-      "change_pct": -1.68
+      "price": 651.7,
+      "change_pct": 0.4
     }
   },
   "headlines": [
@@ -62,11 +58,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Your bond portfolio is facing a \u2018termite\u2019 infestation far worse than Jamie Dimon\u2019s \u2018cockroaches\u2019"
+      "title": "This bond strategy can protect your portfolio even if interest rates go up"
     },
     {
       "source": "MarketWatch",
-      "title": "The surprising cost of caring for aging parents: Divorce"
+      "title": "Nvidia can deliver chips \u2014 but it can\u2019t buy Big Tech out of its credit and power-grid crisis"
     }
   ]
 }
