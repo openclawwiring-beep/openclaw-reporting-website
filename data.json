@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 24 2026  02:24 PT",
+  "generated_at": "Sunday, May 24 2026  03:54 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76835,
-      "change_pct": 3.01
+      "price": 77073,
+      "change_pct": 3.27
     },
     "ETH": {
-      "price": 2119.62,
-      "change_pct": 4.55
+      "price": 2118.66,
+      "change_pct": 4.42
     },
     "SOL": {
-      "price": 86.49,
-      "change_pct": 5.55
+      "price": 86.24,
+      "change_pct": 4.94
     },
     "BNB": {
-      "price": 658.17,
-      "change_pct": 2.97
+      "price": 659.74,
+      "change_pct": 3.19
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "This bond strategy can protect your portfolio even if interest rates go up"
+      "title": "\u2018My husband is leery of my plan\u2019: We are both 60 and have $5 million. Is now a good time to dip into our savings?"
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia can deliver chips \u2014 but it can\u2019t buy Big Tech out of its credit and power-grid crisis"
+      "title": "This bond strategy can protect your portfolio even if interest rates go up"
     }
   ]
 }
