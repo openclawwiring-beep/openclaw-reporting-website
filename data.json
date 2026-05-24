@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 24 2026  09:32 PT",
+  "generated_at": "Sunday, May 24 2026  10:57 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76491,
-      "change_pct": 1.43
+      "price": 76611,
+      "change_pct": 1.59
     },
     "ETH": {
-      "price": 2098.98,
-      "change_pct": 2.01
+      "price": 2101.02,
+      "change_pct": 1.89
     },
     "SOL": {
-      "price": 85.42,
-      "change_pct": 1.77
+      "price": 85.56,
+      "change_pct": 1.7
     },
     "BNB": {
-      "price": 655.52,
-      "change_pct": 1.42
+      "price": 655.91,
+      "change_pct": 1.21
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Stocks are riding an earnings hot streak \u2014 but investors are facing a summer that\u2019s rife with risks"
+      "title": "Is the stock market closed on Memorial Day? Does the post office deliver mail?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We have longevity in the family\u2019: My sister is turning 67. Should she wait until 70 to claim Social Security?"
+      "title": "Trump says there\u2019s no rush as deal to end Iran war, reopen Strait of Hormuz appears close"
     }
   ]
 }
