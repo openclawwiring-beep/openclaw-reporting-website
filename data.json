@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 24 2026  10:57 PT",
+  "generated_at": "Sunday, May 24 2026  12:23 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76611,
-      "change_pct": 1.59
+      "price": 76612,
+      "change_pct": 1.03
     },
     "ETH": {
-      "price": 2101.02,
-      "change_pct": 1.89
+      "price": 2096.34,
+      "change_pct": 1.06
     },
     "SOL": {
-      "price": 85.56,
-      "change_pct": 1.7
+      "price": 85.27,
+      "change_pct": 0.54
     },
     "BNB": {
-      "price": 655.91,
-      "change_pct": 1.21
+      "price": 655.06,
+      "change_pct": 0.52
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Is the stock market closed on Memorial Day? Does the post office deliver mail?"
+      "title": "\u2018He didn\u2019t really pay attention\u2019: I told my friend he left millions on the table in retirement. Did I do the right thing?"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump says there\u2019s no rush as deal to end Iran war, reopen Strait of Hormuz appears close"
+      "title": "\u2018My husband is leery of my plan\u2019: We are both 60 and have $5 million. Is now a good time to dip into our savings?"
     }
   ]
 }
