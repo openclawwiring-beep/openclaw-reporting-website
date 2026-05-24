@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 24 2026  12:23 PT",
+  "generated_at": "Sunday, May 24 2026  13:30 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76612,
-      "change_pct": 1.03
+      "price": 76573,
+      "change_pct": 0.83
     },
     "ETH": {
-      "price": 2096.34,
-      "change_pct": 1.06
+      "price": 2091.77,
+      "change_pct": 0.73
     },
     "SOL": {
-      "price": 85.27,
-      "change_pct": 0.54
+      "price": 84.9,
+      "change_pct": 0.06
     },
     "BNB": {
-      "price": 655.06,
-      "change_pct": 0.52
+      "price": 654.81,
+      "change_pct": 0.45
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most"
+      "title": "Space rockets, satellites, data centers and Grok: What's the right S&P sector index for SpaceX?"
     },
     {
       "source": "CNBC",
-      "title": "Trump says Iran negotiations proceeding in 'orderly and constructive manner;' warns against rushing"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018He didn\u2019t really pay attention\u2019: I told my friend he left millions on the table in retirement. Did I do the right thing?"
+      "title": "Trump not rushing Iran deal, whacks critics as 'losers'"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018My husband is leery of my plan\u2019: We are both 60 and have $5 million. Is now a good time to dip into our savings?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018He didn\u2019t really pay attention\u2019: I told my friend he left millions on the table in retirement. Did I do the right thing?"
     }
   ]
 }
