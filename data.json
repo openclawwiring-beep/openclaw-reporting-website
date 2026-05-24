@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 24 2026  13:30 PT",
+  "generated_at": "Sunday, May 24 2026  14:55 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76573,
-      "change_pct": 0.83
+      "price": 76140,
+      "change_pct": -0.71
     },
     "ETH": {
-      "price": 2091.77,
-      "change_pct": 0.73
+      "price": 2070.78,
+      "change_pct": -2.01
     },
     "SOL": {
-      "price": 84.9,
-      "change_pct": 0.06
+      "price": 84.0,
+      "change_pct": -2.55
     },
     "BNB": {
-      "price": 654.81,
-      "change_pct": 0.45
+      "price": 650.06,
+      "change_pct": -1.01
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Space rockets, satellites, data centers and Grok: What's the right S&P sector index for SpaceX?"
+      "title": "Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most"
     },
     {
       "source": "CNBC",
