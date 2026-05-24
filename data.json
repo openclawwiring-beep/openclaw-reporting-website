@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 24 2026  05:00 PT",
+  "generated_at": "Sunday, May 24 2026  06:53 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77196,
-      "change_pct": 3.3
+      "price": 76822,
+      "change_pct": 2.36
     },
     "ETH": {
-      "price": 2123.16,
-      "change_pct": 4.6
+      "price": 2114.43,
+      "change_pct": 3.61
     },
     "SOL": {
-      "price": 86.52,
-      "change_pct": 5.2
+      "price": 86.12,
+      "change_pct": 3.52
     },
     "BNB": {
-      "price": 660.42,
-      "change_pct": 3.26
+      "price": 658.01,
+      "change_pct": 2.45
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 67. Our family trust earns $300,000 annually for my kids. How do I ensure they won\u2019t get killed on taxes?"
+      "title": "Stocks are riding an earnings hot streak \u2014 but investors are facing a summer that\u2019s rife with risks"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My husband is leery of my plan\u2019: We are both 60 and have $5 million. Is now a good time to dip into our savings?"
+      "title": "\u2018We have longevity in the family\u2019: My sister is turning 67. Should she wait until 70 to claim Social Security?"
     }
   ]
 }
