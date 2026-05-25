@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, May 25 2026  15:07 PT",
+  "generated_at": "Monday, May 25 2026  16:38 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4523.2,
-      "change_pct": -0.15
+      "price": 4569.3,
+      "change_pct": 0.87
     },
     "Oil (WTI)": {
-      "price": 96.6,
-      "change_pct": -0.88
+      "price": 90.93,
+      "change_pct": -6.7
     },
     "Silver": {
-      "price": 76.2,
-      "change_pct": -0.71
+      "price": 78.26,
+      "change_pct": 1.97
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77252,
-      "change_pct": 0.82
+      "price": 77247,
+      "change_pct": 0.45
     },
     "ETH": {
-      "price": 2107.89,
-      "change_pct": 0.95
+      "price": 2108.68,
+      "change_pct": 0.62
     },
     "SOL": {
-      "price": 85.24,
-      "change_pct": 0.74
+      "price": 85.02,
+      "change_pct": -0.18
     },
     "BNB": {
-      "price": 660.85,
-      "change_pct": 1.08
+      "price": 662.16,
+      "change_pct": 1.0
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Oil market at 'tank bottoms' in Asia, and Europe isn't far behind, warns market veteran Jeff Currie"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "These underdogs are a big reason S&P 500 profit growth is the fastest in nearly 5 years"
+      "title": "Iran is in the 'process of blinking' over the Strait of Hormuz, Petraeus says"
     },
     {
       "source": "MarketWatch",
       "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there\u2019s no rush"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These underdogs are a big reason why S&P 500 profit growth is the fastest in nearly 5 years"
     }
   ]
 }
