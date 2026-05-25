@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 24 2026  15:57 PT",
+  "generated_at": "Sunday, May 24 2026  17:04 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76742,
-      "change_pct": 0.34
+      "price": 77080,
+      "change_pct": 0.6
     },
     "ETH": {
-      "price": 2089.7,
-      "change_pct": -1.15
+      "price": 2100.46,
+      "change_pct": -0.72
     },
     "SOL": {
-      "price": 84.92,
-      "change_pct": -0.93
+      "price": 85.23,
+      "change_pct": -0.52
     },
     "BNB": {
-      "price": 654.0,
-      "change_pct": -0.27
+      "price": 656.72,
+      "change_pct": 0.09
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices fall more than 4% after Trump says Iran talks proceeding in a 'constructive manner'"
+      "title": "Oil prices fall 5% after Trump says Iran talks proceeding in a 'constructive manner'"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Stocks are riding an earnings hot streak \u2014 but investors are facing a summer that\u2019s rife with risks"
+      "title": "Is the stock market closed on Memorial Day? Does the post office deliver mail?"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump says there\u2019s no rush as deal to end Iran war appears close; oil prices tumble"
+      "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there\u2019s no rush"
     }
   ]
 }
