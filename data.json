@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 24 2026  22:03 PT",
+  "generated_at": "Monday, May 25 2026  02:10 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77272,
-      "change_pct": 0.78
+      "price": 77378,
+      "change_pct": 0.74
     },
     "ETH": {
-      "price": 2102.42,
-      "change_pct": -0.71
+      "price": 2116.1,
+      "change_pct": -0.14
     },
     "SOL": {
-      "price": 85.73,
-      "change_pct": -0.11
+      "price": 85.99,
+      "change_pct": -0.47
     },
     "BNB": {
-      "price": 658.65,
-      "change_pct": 0.53
+      "price": 661.58,
+      "change_pct": 0.56
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil market at 'tank bottoms' in Asia \u2014 and Europe isn't far behind \u2014 warns Carlyle's Currie"
+      "title": "Iran is in the 'process of blinking' over the Strait of Hormuz, Petraeus says"
     },
     {
       "source": "CNBC",
-      "title": "Oil prices fall 5% after Trump says Iran talks proceeding in a 'constructive manner'"
+      "title": "Oil market at 'tank bottoms' in Asia, and Europe isn't far behind, warns market veteran Jeff Currie"
     },
     {
       "source": "MarketWatch",
