@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, May 24 2026  17:04 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Sunday, May 24 2026  22:03 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7473.47,
@@ -22,51 +22,51 @@
   "commodities": {
     "Gold": {
       "price": 4523.2,
-      "change_pct": 0.0
+      "change_pct": -0.15
     },
     "Oil (WTI)": {
       "price": 96.6,
-      "change_pct": 0.0
+      "change_pct": -0.88
     },
     "Silver": {
       "price": 76.2,
-      "change_pct": 0.0
+      "change_pct": -0.71
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77080,
-      "change_pct": 0.6
+      "price": 77272,
+      "change_pct": 0.78
     },
     "ETH": {
-      "price": 2100.46,
-      "change_pct": -0.72
+      "price": 2102.42,
+      "change_pct": -0.71
     },
     "SOL": {
-      "price": 85.23,
-      "change_pct": -0.52
+      "price": 85.73,
+      "change_pct": -0.11
     },
     "BNB": {
-      "price": 656.72,
-      "change_pct": 0.09
+      "price": 658.65,
+      "change_pct": 0.53
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices fall 5% after Trump says Iran talks proceeding in a 'constructive manner'"
+      "title": "Oil market at 'tank bottoms' in Asia \u2014 and Europe isn't far behind \u2014 warns Carlyle's Currie"
     },
     {
       "source": "CNBC",
-      "title": "'The Mandalorian and Grogu' is Disney's lowest-ever Star Wars film opening"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Is the stock market closed on Memorial Day? Does the post office deliver mail?"
+      "title": "Oil prices fall 5% after Trump says Iran talks proceeding in a 'constructive manner'"
     },
     {
       "source": "MarketWatch",
       "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there\u2019s no rush"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Is the stock market closed on Memorial Day? Does the post office deliver mail?"
     }
   ]
 }
