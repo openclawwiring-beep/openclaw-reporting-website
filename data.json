@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, May 25 2026  13:49 PT",
+  "generated_at": "Monday, May 25 2026  15:07 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77230,
-      "change_pct": 0.86
+      "price": 77252,
+      "change_pct": 0.82
     },
     "ETH": {
-      "price": 2111.61,
-      "change_pct": 0.98
+      "price": 2107.89,
+      "change_pct": 0.95
     },
     "SOL": {
-      "price": 85.34,
-      "change_pct": 0.93
+      "price": 85.24,
+      "change_pct": 0.74
     },
     "BNB": {
-      "price": 660.32,
-      "change_pct": 0.89
+      "price": 660.85,
+      "change_pct": 1.08
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices fall 7% after Trump says Iran talks proceeding in a 'constructive manner'"
+      "title": "Oil prices fall 7% after Trump says Iran talks are 'proceeding nicely'"
     },
     {
       "source": "CNBC",
