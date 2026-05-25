@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, May 25 2026  02:10 PT",
+  "generated_at": "Monday, May 25 2026  05:48 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77378,
-      "change_pct": 0.74
+      "price": 77251,
+      "change_pct": 0.31
     },
     "ETH": {
-      "price": 2116.1,
-      "change_pct": -0.14
+      "price": 2113.97,
+      "change_pct": -0.21
     },
     "SOL": {
-      "price": 85.99,
-      "change_pct": -0.47
+      "price": 85.81,
+      "change_pct": -0.5
     },
     "BNB": {
-      "price": 661.58,
-      "change_pct": 0.56
+      "price": 668.81,
+      "change_pct": 1.51
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there\u2019s no rush"
+      "title": "\u2018There is zero transparency\u2019: My friend\u2019s sister controls their mother\u2019s estate. How can we stop her from stealing?"
     },
     {
       "source": "MarketWatch",
-      "title": "Is the stock market closed on Memorial Day? Does the post office deliver mail?"
+      "title": "Is the stock market open today for Memorial Day? Does the post office deliver mail?"
     }
   ]
 }
