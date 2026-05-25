@@ -1,6 +1,6 @@
 {
-  "generated_at": "Monday, May 25 2026  05:48 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, May 25 2026  08:49 PT",
+  "market_status": "Live \u2014 as of 11:49 ET",
   "stocks": {
     "S&P 500": {
       "price": 7473.47,
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77251,
-      "change_pct": 0.31
+      "price": 77557,
+      "change_pct": 1.57
     },
     "ETH": {
-      "price": 2113.97,
-      "change_pct": -0.21
+      "price": 2123.1,
+      "change_pct": 1.43
     },
     "SOL": {
-      "price": 85.81,
-      "change_pct": -0.5
+      "price": 86.2,
+      "change_pct": 1.18
     },
     "BNB": {
-      "price": 668.81,
-      "change_pct": 1.51
+      "price": 667.19,
+      "change_pct": 1.88
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018There is zero transparency\u2019: My friend\u2019s sister controls their mother\u2019s estate. How can we stop her from stealing?"
+      "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?"
     },
     {
       "source": "MarketWatch",
-      "title": "Is the stock market open today for Memorial Day? Does the post office deliver mail?"
+      "title": "These underdogs are a big reason S&P 500 profit growth is the fastest in nearly 5 years"
     }
   ]
 }
