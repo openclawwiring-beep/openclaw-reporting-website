@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, May 26 2026  06:53 PT",
-  "market_status": "Live \u2014 as of 09:53 ET",
+  "generated_at": "Tuesday, May 26 2026  10:26 PT",
+  "market_status": "Live \u2014 as of 13:26 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7521.46,
-      "change_pct": 0.63
+      "price": 7503.7,
+      "change_pct": 0.4
     },
     "Nasdaq": {
-      "price": 26602.59,
-      "change_pct": 0.98
+      "price": 26557.71,
+      "change_pct": 0.81
     },
     "Dow Jones": {
-      "price": 50690.15,
-      "change_pct": 0.21
+      "price": 50389.09,
+      "change_pct": -0.39
     },
     "Russell 2000": {
-      "price": 2903.14,
-      "change_pct": 1.19
+      "price": 2913.33,
+      "change_pct": 1.54
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4528.8,
-      "change_pct": 0.12
+      "price": 4504.4,
+      "change_pct": -0.42
     },
     "Oil (WTI)": {
-      "price": 93.19,
-      "change_pct": -3.53
+      "price": 94.09,
+      "change_pct": -2.6
     },
     "Silver": {
-      "price": 76.86,
-      "change_pct": 0.87
+      "price": 76.5,
+      "change_pct": 0.39
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77230,
-      "change_pct": -0.03
+      "price": 76118,
+      "change_pct": -1.86
     },
     "ETH": {
-      "price": 2124.41,
-      "change_pct": 0.51
+      "price": 2068.53,
+      "change_pct": -2.97
     },
     "SOL": {
-      "price": 85.5,
-      "change_pct": -0.39
+      "price": 83.63,
+      "change_pct": -2.87
     },
     "BNB": {
-      "price": 663.22,
-      "change_pct": -1.11
+      "price": 655.76,
+      "change_pct": -1.05
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stocks open higher on hope Iran deal is near, relentless Micron and tech rally: Live updates"
+      "title": "Micron hits $1 trillion market cap for the first time as stock surges 18%"
     },
     {
       "source": "CNBC",
-      "title": "Dropbox CEO Drew Houston to step down after 19 years at helm of cloud storage pioneer"
+      "title": "Trump to host Cabinet meeting at Camp David on Wednesday as Iran talks continue"
     },
     {
       "source": "MarketWatch",
-      "title": "BP ousts another top executive over claims brought to the board"
+      "title": "Starlink signs a new airline customer as it races to be the top in-flight internet provider"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018There is zero transparency\u2019: My friend\u2019s sister controls their mother\u2019s estate. How can we stop her from stealing?"
+      "title": "This bear market signal Wall Street ignores is putting your money at risk right now"
     }
   ]
 }
