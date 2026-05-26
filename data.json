@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, May 26 2026  00:00 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, May 26 2026  06:53 PT",
+  "market_status": "Live \u2014 as of 09:53 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7473.47,
-      "change_pct": 0.37
+      "price": 7521.46,
+      "change_pct": 0.63
     },
     "Nasdaq": {
-      "price": 26343.97,
-      "change_pct": 0.19
+      "price": 26602.59,
+      "change_pct": 0.98
     },
     "Dow Jones": {
-      "price": 50579.7,
-      "change_pct": 0.58
+      "price": 50690.15,
+      "change_pct": 0.21
     },
     "Russell 2000": {
-      "price": 2869.23,
-      "change_pct": 0.91
+      "price": 2903.14,
+      "change_pct": 1.19
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4530.4,
-      "change_pct": 0.16
+      "price": 4528.8,
+      "change_pct": 0.12
     },
     "Oil (WTI)": {
-      "price": 91.55,
-      "change_pct": -5.23
+      "price": 93.19,
+      "change_pct": -3.53
     },
     "Silver": {
-      "price": 76.79,
-      "change_pct": 0.78
+      "price": 76.86,
+      "change_pct": 0.87
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76836,
-      "change_pct": -0.62
+      "price": 77230,
+      "change_pct": -0.03
     },
     "ETH": {
-      "price": 2099.78,
-      "change_pct": -0.3
+      "price": 2124.41,
+      "change_pct": 0.51
     },
     "SOL": {
-      "price": 84.56,
-      "change_pct": -1.55
+      "price": 85.5,
+      "change_pct": -0.39
     },
     "BNB": {
-      "price": 657.65,
-      "change_pct": -0.37
+      "price": 663.22,
+      "change_pct": -1.11
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. conducts 'self-defense strikes' in Iran as Trump pushes for peace deal"
+      "title": "Stocks open higher on hope Iran deal is near, relentless Micron and tech rally: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Brent crude rises 2% as U.S. military strikes against Iran cloud Middle East peace prospects"
+      "title": "Dropbox CEO Drew Houston to step down after 19 years at helm of cloud storage pioneer"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there\u2019s no rush"
+      "title": "BP ousts another top executive over claims brought to the board"
     },
     {
       "source": "MarketWatch",
-      "title": "These underdogs are a big reason why S&P 500 profit growth is the fastest in nearly 5 years"
+      "title": "\u2018There is zero transparency\u2019: My friend\u2019s sister controls their mother\u2019s estate. How can we stop her from stealing?"
     }
   ]
 }
