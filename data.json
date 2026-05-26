@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, May 26 2026  12:33 PT",
-  "market_status": "Live \u2014 as of 15:33 ET",
+  "generated_at": "Tuesday, May 26 2026  14:44 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7515.39,
-      "change_pct": 0.55
+      "price": 7519.12,
+      "change_pct": 0.61
     },
     "Nasdaq": {
-      "price": 26625.82,
-      "change_pct": 1.07
+      "price": 26656.18,
+      "change_pct": 1.19
     },
     "Dow Jones": {
-      "price": 50420.8,
-      "change_pct": -0.33
+      "price": 50461.68,
+      "change_pct": -0.23
     },
     "Russell 2000": {
-      "price": 2915.36,
-      "change_pct": 1.62
+      "price": 2920.54,
+      "change_pct": 1.79
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4503.5,
-      "change_pct": -0.44
+      "price": 4507.3,
+      "change_pct": -0.35
     },
     "Oil (WTI)": {
-      "price": 93.97,
-      "change_pct": -2.72
+      "price": 93.57,
+      "change_pct": -3.14
     },
     "Silver": {
-      "price": 77.15,
-      "change_pct": 1.25
+      "price": 77.27,
+      "change_pct": 1.41
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75834,
-      "change_pct": -2.01
+      "price": 75911,
+      "change_pct": -1.73
     },
     "ETH": {
-      "price": 2069.39,
-      "change_pct": -2.41
+      "price": 2074.61,
+      "change_pct": -1.58
     },
     "SOL": {
-      "price": 83.49,
-      "change_pct": -2.71
+      "price": 83.76,
+      "change_pct": -1.81
     },
     "BNB": {
-      "price": 655.23,
-      "change_pct": -0.94
+      "price": 656.25,
+      "change_pct": -0.77
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Micron hits $1 trillion market cap for the first time as stock surges 18%"
+      "title": "S&P 500 jumps to a new record close as Micron shares lead tech rally: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Trump to host Cabinet meeting at Camp David on Wednesday as Iran talks continue"
+      "title": "SpaceX-Tesla merger chatter reignites as Musk pushes rocket company towards Nasdaq"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I feel like I\u2019m living a lie\u2019: My husband and I pretend we\u2019re strapped for cash in front of friends. Is that bad?"
+      "title": "SpaceX just won a $2 billion contract to make satellites for the Space Force"
     },
     {
       "source": "MarketWatch",
-      "title": "Americans feel worse than ever, a consumer survey shows. The White House says that\u2019s bunk. Who\u2019s right?"
+      "title": "Gen Z demands bigger bargains \u2014 driving gains for discounters like Walmart and Ross"
     }
   ]
 }
