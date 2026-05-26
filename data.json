@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, May 26 2026  10:26 PT",
-  "market_status": "Live \u2014 as of 13:26 ET",
+  "generated_at": "Tuesday, May 26 2026  12:33 PT",
+  "market_status": "Live \u2014 as of 15:33 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7503.7,
-      "change_pct": 0.4
+      "price": 7515.39,
+      "change_pct": 0.55
     },
     "Nasdaq": {
-      "price": 26557.71,
-      "change_pct": 0.81
+      "price": 26625.82,
+      "change_pct": 1.07
     },
     "Dow Jones": {
-      "price": 50389.09,
-      "change_pct": -0.39
+      "price": 50420.8,
+      "change_pct": -0.33
     },
     "Russell 2000": {
-      "price": 2913.33,
-      "change_pct": 1.54
+      "price": 2915.36,
+      "change_pct": 1.62
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4504.4,
-      "change_pct": -0.42
+      "price": 4503.5,
+      "change_pct": -0.44
     },
     "Oil (WTI)": {
-      "price": 94.09,
-      "change_pct": -2.6
+      "price": 93.97,
+      "change_pct": -2.72
     },
     "Silver": {
-      "price": 76.5,
-      "change_pct": 0.39
+      "price": 77.15,
+      "change_pct": 1.25
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76118,
-      "change_pct": -1.86
+      "price": 75834,
+      "change_pct": -2.01
     },
     "ETH": {
-      "price": 2068.53,
-      "change_pct": -2.97
+      "price": 2069.39,
+      "change_pct": -2.41
     },
     "SOL": {
-      "price": 83.63,
-      "change_pct": -2.87
+      "price": 83.49,
+      "change_pct": -2.71
     },
     "BNB": {
-      "price": 655.76,
-      "change_pct": -1.05
+      "price": 655.23,
+      "change_pct": -0.94
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Starlink signs a new airline customer as it races to be the top in-flight internet provider"
+      "title": "\u2018I feel like I\u2019m living a lie\u2019: My husband and I pretend we\u2019re strapped for cash in front of friends. Is that bad?"
     },
     {
       "source": "MarketWatch",
-      "title": "This bear market signal Wall Street ignores is putting your money at risk right now"
+      "title": "Americans feel worse than ever, a consumer survey shows. The White House says that\u2019s bunk. Who\u2019s right?"
     }
   ]
 }
