@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, May 25 2026  16:38 PT",
+  "generated_at": "Monday, May 25 2026  20:27 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4569.3,
-      "change_pct": 0.87
+      "price": 4539.1,
+      "change_pct": 0.2
     },
     "Oil (WTI)": {
-      "price": 90.93,
-      "change_pct": -6.7
+      "price": 91.59,
+      "change_pct": -6.02
     },
     "Silver": {
-      "price": 78.26,
-      "change_pct": 1.97
+      "price": 77.0,
+      "change_pct": 0.34
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77247,
-      "change_pct": 0.45
+      "price": 76478,
+      "change_pct": -0.67
     },
     "ETH": {
-      "price": 2108.68,
-      "change_pct": 0.62
+      "price": 2085.45,
+      "change_pct": -0.36
     },
     "SOL": {
-      "price": 85.02,
-      "change_pct": -0.18
+      "price": 83.87,
+      "change_pct": -1.13
     },
     "BNB": {
-      "price": 662.16,
-      "change_pct": 1.0
+      "price": 657.55,
+      "change_pct": 0.32
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices fall 7% after Trump says Iran talks are 'proceeding nicely'"
+      "title": "U.S. conducts 'self-defense strikes' in Iran as Trump pushes for peace deal"
     },
     {
       "source": "CNBC",
-      "title": "Iran is in the 'process of blinking' over the Strait of Hormuz, Petraeus says"
+      "title": "Oil prices mixed as U.S. military strikes against Iran cloud Middle East peace prospects"
     },
     {
       "source": "MarketWatch",
