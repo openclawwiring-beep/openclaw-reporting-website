@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, May 25 2026  20:27 PT",
+  "generated_at": "Tuesday, May 26 2026  00:00 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4539.1,
-      "change_pct": 0.2
+      "price": 4530.4,
+      "change_pct": 0.16
     },
     "Oil (WTI)": {
-      "price": 91.59,
-      "change_pct": -6.02
+      "price": 91.55,
+      "change_pct": -5.23
     },
     "Silver": {
-      "price": 77.0,
-      "change_pct": 0.34
+      "price": 76.79,
+      "change_pct": 0.78
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76478,
-      "change_pct": -0.67
+      "price": 76836,
+      "change_pct": -0.62
     },
     "ETH": {
-      "price": 2085.45,
-      "change_pct": -0.36
+      "price": 2099.78,
+      "change_pct": -0.3
     },
     "SOL": {
-      "price": 83.87,
-      "change_pct": -1.13
+      "price": 84.56,
+      "change_pct": -1.55
     },
     "BNB": {
-      "price": 657.55,
-      "change_pct": 0.32
+      "price": 657.65,
+      "change_pct": -0.37
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Oil prices mixed as U.S. military strikes against Iran cloud Middle East peace prospects"
+      "title": "Brent crude rises 2% as U.S. military strikes against Iran cloud Middle East peace prospects"
     },
     {
       "source": "MarketWatch",
