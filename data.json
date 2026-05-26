@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, May 26 2026  14:44 PT",
+  "generated_at": "Tuesday, May 26 2026  16:09 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4507.3,
-      "change_pct": -0.35
+      "price": 4511.7,
+      "change_pct": -0.25
     },
     "Oil (WTI)": {
-      "price": 93.57,
-      "change_pct": -3.14
+      "price": 93.56,
+      "change_pct": -3.15
     },
     "Silver": {
-      "price": 77.27,
-      "change_pct": 1.41
+      "price": 77.58,
+      "change_pct": 1.81
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75911,
-      "change_pct": -1.73
+      "price": 75746,
+      "change_pct": -1.87
     },
     "ETH": {
-      "price": 2074.61,
-      "change_pct": -1.58
+      "price": 2069.53,
+      "change_pct": -1.74
     },
     "SOL": {
-      "price": 83.76,
-      "change_pct": -1.81
+      "price": 83.69,
+      "change_pct": -1.46
     },
     "BNB": {
-      "price": 656.25,
-      "change_pct": -0.77
+      "price": 655.63,
+      "change_pct": -0.84
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 jumps to a new record close as Micron shares lead tech rally: Live updates"
-    },
-    {
-      "source": "CNBC",
       "title": "SpaceX-Tesla merger chatter reignites as Musk pushes rocket company towards Nasdaq"
     },
     {
-      "source": "MarketWatch",
-      "title": "SpaceX just won a $2 billion contract to make satellites for the Space Force"
+      "source": "CNBC",
+      "title": "Stock futures are little changed after the S&P 500 closes at another record: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Gen Z demands bigger bargains \u2014 driving gains for discounters like Walmart and Ross"
+      "title": "\u2018The timing couldn\u2019t have been better\u2019 for investors in MSGS as the Knicks make the NBA Finals"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How a stock market \u2018melt-up\u2019 could carry the S&P 500 to 8,000 or beyond"
     }
   ]
 }
