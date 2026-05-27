@@ -1,60 +1,60 @@
 {
-  "generated_at": "Wednesday, May 27 2026  07:26 PT",
-  "market_status": "Live \u2014 as of 10:26 ET",
+  "generated_at": "Wednesday, May 27 2026  10:40 PT",
+  "market_status": "Live \u2014 as of 13:40 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7514.92,
-      "change_pct": -0.06
+      "price": 7511.96,
+      "change_pct": -0.1
     },
     "Nasdaq": {
-      "price": 26573.87,
-      "change_pct": -0.31
+      "price": 26616.46,
+      "change_pct": -0.15
     },
     "Dow Jones": {
-      "price": 50754.56,
-      "change_pct": 0.56
+      "price": 50664.39,
+      "change_pct": 0.38
     },
     "Russell 2000": {
-      "price": 2925.72,
-      "change_pct": 0.2
+      "price": 2923.79,
+      "change_pct": 0.13
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4478.6,
-      "change_pct": -0.39
+      "price": 4482.4,
+      "change_pct": -0.31
     },
     "Oil (WTI)": {
-      "price": 89.93,
-      "change_pct": -2.39
+      "price": 89.63,
+      "change_pct": -2.71
     },
     "Silver": {
-      "price": 74.97,
-      "change_pct": -2.54
+      "price": 74.84,
+      "change_pct": -2.72
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74792,
-      "change_pct": -3.97
+      "price": 74884,
+      "change_pct": -1.33
     },
     "ETH": {
-      "price": 2055.12,
-      "change_pct": -3.76
+      "price": 2055.36,
+      "change_pct": -0.37
     },
     "SOL": {
-      "price": 83.38,
-      "change_pct": -2.68
+      "price": 83.52,
+      "change_pct": 0.11
     },
     "BNB": {
-      "price": 651.45,
-      "change_pct": -2.32
+      "price": 651.48,
+      "change_pct": -0.5
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. oil falls below $90 on report Iran agreement would restore Hormuz traffic in one month"
+      "title": "Oil prices fall 4% after Rubio says U.S. will give Iran talks 'every chance to succeed'"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Marvell\u2019s stock has soared ahead of earnings. Why analysts say it\u2019s still \u2018underestimated.\u2019"
+      "title": "Investors betting the Iran war is ending are buying up travel stocks"
     },
     {
       "source": "MarketWatch",
-      "title": "My golf buddy dropped me when I didn\u2019t make him my financial adviser. Be careful who you trust."
+      "title": "Here\u2019s how to find out if you\u2019re one of millions of Americans who can claim this IRS refund"
     }
   ]
 }
