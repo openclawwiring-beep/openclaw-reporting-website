@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, May 27 2026  15:16 PT",
+  "generated_at": "Wednesday, May 27 2026  16:44 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4491.0,
-      "change_pct": -0.12
+      "price": 4481.1,
+      "change_pct": -0.34
     },
     "Oil (WTI)": {
-      "price": 89.51,
-      "change_pct": -2.84
+      "price": 89.93,
+      "change_pct": -2.39
     },
     "Silver": {
-      "price": 75.02,
-      "change_pct": -2.48
+      "price": 74.85,
+      "change_pct": -2.7
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74250,
-      "change_pct": -1.93
+      "price": 74212,
+      "change_pct": -2.16
     },
     "ETH": {
-      "price": 2021.08,
-      "change_pct": -2.31
+      "price": 2018.16,
+      "change_pct": -2.66
     },
     "SOL": {
-      "price": 82.5,
-      "change_pct": -1.26
+      "price": 82.15,
+      "change_pct": -1.82
     },
     "BNB": {
-      "price": 647.55,
-      "change_pct": -1.21
+      "price": 647.43,
+      "change_pct": -1.38
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Stock futures are little changed as Wall Street awaits key April inflation reading: Live updates"
+      "title": "Meta to start testing AI subscription services, with cheapest plan at $7.99 a month"
     },
     {
       "source": "MarketWatch",
-      "title": "Marvell\u2019s stock climbs as \u2018exceptional\u2019 AI demand drives a stronger growth outlook"
+      "title": "Snowflake\u2019s stock is on fire as AI acceleration drives record product-revenue growth"
     },
     {
       "source": "MarketWatch",
-      "title": "China\u2019s next export shock walks on two legs \u2014 and costs less than a used car"
+      "title": "\u2018I feel like I\u2019m living a lie\u2019: My husband and I pretend we\u2019re strapped for cash in front of friends. Is that bad?"
     }
   ]
 }
