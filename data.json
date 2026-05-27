@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, May 26 2026  23:20 PT",
+  "generated_at": "Wednesday, May 27 2026  03:36 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4496.4,
-      "change_pct": -0.22
+      "price": 4511.0,
+      "change_pct": 0.33
     },
     "Oil (WTI)": {
-      "price": 91.6,
-      "change_pct": -0.41
+      "price": 90.21,
+      "change_pct": -2.08
     },
     "Silver": {
-      "price": 76.01,
-      "change_pct": -1.46
+      "price": 75.6,
+      "change_pct": -1.73
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75618,
-      "change_pct": -1.51
+      "price": 75816,
+      "change_pct": -1.89
     },
     "ETH": {
-      "price": 2073.05,
-      "change_pct": -1.17
+      "price": 2080.37,
+      "change_pct": -2.18
     },
     "SOL": {
-      "price": 83.71,
-      "change_pct": -0.87
+      "price": 83.82,
+      "change_pct": -1.95
     },
     "BNB": {
-      "price": 652.04,
-      "change_pct": -0.89
+      "price": 654.05,
+      "change_pct": -1.24
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SK Hynix hits $1 trillion valuation as AI boom lifts South Korean chip stocks"
+      "title": "SpaceX-Tesla merger chatter reignites as Musk pushes rocket company towards Nasdaq"
     },
     {
       "source": "CNBC",
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I feel like I\u2019m living a lie\u2019: My husband and I pretend we\u2019re strapped for cash in front of friends. Is that bad?"
+      "title": "A rival joins Micron in the $1 trillion club as one bank argues AI is actually underhyped"
     }
   ]
 }
