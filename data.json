@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, May 26 2026  16:09 PT",
+  "generated_at": "Tuesday, May 26 2026  18:33 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4511.7,
-      "change_pct": -0.25
+      "price": 4520.2,
+      "change_pct": -0.07
     },
     "Oil (WTI)": {
-      "price": 93.56,
-      "change_pct": -3.15
+      "price": 92.89,
+      "change_pct": -3.84
     },
     "Silver": {
-      "price": 77.58,
-      "change_pct": 1.81
+      "price": 77.75,
+      "change_pct": 2.03
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75746,
-      "change_pct": -1.87
+      "price": 75773,
+      "change_pct": -1.1
     },
     "ETH": {
-      "price": 2069.53,
-      "change_pct": -1.74
+      "price": 2071.72,
+      "change_pct": -0.95
     },
     "SOL": {
-      "price": 83.69,
-      "change_pct": -1.46
+      "price": 83.77,
+      "change_pct": -0.51
     },
     "BNB": {
-      "price": 655.63,
-      "change_pct": -0.84
+      "price": 657.08,
+      "change_pct": 0.11
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SpaceX-Tesla merger chatter reignites as Musk pushes rocket company towards Nasdaq"
+      "title": "Paxton bests Cornyn in Texas Republican Senate primary after Trump endorsement"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures are little changed after the S&P 500 closes at another record: Live updates"
+      "title": "SpaceX-Tesla merger chatter reignites as Musk pushes rocket company towards Nasdaq"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The timing couldn\u2019t have been better\u2019 for investors in MSGS as the Knicks make the NBA Finals"
+      "title": "\u2018I feel like I\u2019m living a lie\u2019: My husband and I pretend we\u2019re strapped for cash in front of friends. Is that bad?"
     },
     {
       "source": "MarketWatch",
-      "title": "How a stock market \u2018melt-up\u2019 could carry the S&P 500 to 8,000 or beyond"
+      "title": "\u2018There is zero transparency\u2019: My friend\u2019s sister controls their mother\u2019s estate. How can we stop her from stealing?"
     }
   ]
 }
