@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, May 27 2026  13:14 PT",
+  "generated_at": "Wednesday, May 27 2026  15:16 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,58 +15,58 @@
       "change_pct": 0.36
     },
     "Russell 2000": {
-      "price": 2920.99,
-      "change_pct": 0.04
+      "price": 2919.94,
+      "change_pct": -0.02
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4483.9,
-      "change_pct": -0.28
+      "price": 4491.0,
+      "change_pct": -0.12
     },
     "Oil (WTI)": {
-      "price": 89.41,
-      "change_pct": -2.95
+      "price": 89.51,
+      "change_pct": -2.84
     },
     "Silver": {
-      "price": 74.93,
-      "change_pct": -2.61
+      "price": 75.02,
+      "change_pct": -2.48
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75138,
-      "change_pct": -1.13
+      "price": 74250,
+      "change_pct": -1.93
     },
     "ETH": {
-      "price": 2058.3,
-      "change_pct": -0.71
+      "price": 2021.08,
+      "change_pct": -2.31
     },
     "SOL": {
-      "price": 83.88,
-      "change_pct": 0.15
+      "price": 82.5,
+      "change_pct": -1.26
     },
     "BNB": {
-      "price": 653.13,
-      "change_pct": -0.52
+      "price": 647.55,
+      "change_pct": -1.21
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices fall more than 5% after Rubio says U.S. will give Iran talks 'every chance to succeed'"
+      "title": "Snowflake rockets 36% on earnings beat and plan to spend $6 billion on Amazon cloud"
     },
     {
       "source": "CNBC",
-      "title": "Republicans stare down inflation abyss with midterms fast approaching"
+      "title": "Stock futures are little changed as Wall Street awaits key April inflation reading: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Sam Altman\u2019s toxic \u2018culture of silence\u2019 is an overlooked risk for OpenAI\u2019s investors"
+      "title": "Marvell\u2019s stock climbs as \u2018exceptional\u2019 AI demand drives a stronger growth outlook"
     },
     {
       "source": "MarketWatch",
-      "title": "More Americans are raiding their emergency savings just to fill up their gas tanks"
+      "title": "China\u2019s next export shock walks on two legs \u2014 and costs less than a used car"
     }
   ]
 }
