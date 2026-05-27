@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, May 26 2026  18:33 PT",
+  "generated_at": "Tuesday, May 26 2026  23:20 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4520.2,
-      "change_pct": -0.07
+      "price": 4496.4,
+      "change_pct": -0.22
     },
     "Oil (WTI)": {
-      "price": 92.89,
-      "change_pct": -3.84
+      "price": 91.6,
+      "change_pct": -0.41
     },
     "Silver": {
-      "price": 77.75,
-      "change_pct": 2.03
+      "price": 76.01,
+      "change_pct": -1.46
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75773,
-      "change_pct": -1.1
+      "price": 75618,
+      "change_pct": -1.51
     },
     "ETH": {
-      "price": 2071.72,
-      "change_pct": -0.95
+      "price": 2073.05,
+      "change_pct": -1.17
     },
     "SOL": {
-      "price": 83.77,
-      "change_pct": -0.51
+      "price": 83.71,
+      "change_pct": -0.87
     },
     "BNB": {
-      "price": 657.08,
-      "change_pct": 0.11
+      "price": 652.04,
+      "change_pct": -0.89
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Paxton bests Cornyn in Texas Republican Senate primary after Trump endorsement"
+      "title": "SK Hynix hits $1 trillion valuation as AI boom lifts South Korean chip stocks"
     },
     {
       "source": "CNBC",
-      "title": "SpaceX-Tesla merger chatter reignites as Musk pushes rocket company towards Nasdaq"
+      "title": "Paxton bests Cornyn in Texas Republican Senate primary after Trump endorsement"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My friend, 62, earns $20,000 a year. Should she take Social Security now \u2014 and claim survivor\u2019s benefit at 67?"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018I feel like I\u2019m living a lie\u2019: My husband and I pretend we\u2019re strapped for cash in front of friends. Is that bad?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018There is zero transparency\u2019: My friend\u2019s sister controls their mother\u2019s estate. How can we stop her from stealing?"
     }
   ]
 }
