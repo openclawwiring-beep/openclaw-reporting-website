@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, May 27 2026  16:44 PT",
+  "generated_at": "Wednesday, May 27 2026  20:30 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4481.1,
-      "change_pct": -0.34
+      "price": 4413.5,
+      "change_pct": -1.84
     },
     "Oil (WTI)": {
-      "price": 89.93,
-      "change_pct": -2.39
+      "price": 91.71,
+      "change_pct": -0.46
     },
     "Silver": {
-      "price": 74.85,
-      "change_pct": -2.7
+      "price": 72.69,
+      "change_pct": -5.51
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74212,
-      "change_pct": -2.16
+      "price": 73673,
+      "change_pct": -2.69
     },
     "ETH": {
-      "price": 2018.16,
-      "change_pct": -2.66
+      "price": 1987.62,
+      "change_pct": -4.11
     },
     "SOL": {
-      "price": 82.15,
-      "change_pct": -1.82
+      "price": 81.42,
+      "change_pct": -2.8
     },
     "BNB": {
-      "price": 647.43,
-      "change_pct": -1.38
+      "price": 641.13,
+      "change_pct": -2.11
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Snowflake rockets 36% on earnings beat and plan to spend $6 billion on Amazon cloud"
+      "title": "Fed\u2019s Kashkari says inflation fight takes priority as labor market is 'in decent shape'"
     },
     {
       "source": "CNBC",
-      "title": "Meta to start testing AI subscription services, with cheapest plan at $7.99 a month"
+      "title": "Kuwait air defenses activated against 'missile and drone threats'; U.S. carries out new strikes in Iran"
     },
     {
       "source": "MarketWatch",
-      "title": "Snowflake\u2019s stock is on fire as AI acceleration drives record product-revenue growth"
+      "title": "Cancer treatment already costs hundreds of thousands of dollars \u2014 and it\u2019s about to get even worse"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I feel like I\u2019m living a lie\u2019: My husband and I pretend we\u2019re strapped for cash in front of friends. Is that bad?"
+      "title": "More Americans are raiding their emergency savings just to fill up their gas tanks"
     }
   ]
 }
