@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, May 28 2026  04:40 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, May 28 2026  08:51 PT",
+  "market_status": "Live \u2014 as of 11:51 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7520.36,
-      "change_pct": 0.02
+      "price": 7559.63,
+      "change_pct": 0.51
     },
     "Nasdaq": {
-      "price": 26674.73,
-      "change_pct": 0.07
+      "price": 26853.79,
+      "change_pct": 0.67
     },
     "Dow Jones": {
-      "price": 50644.28,
-      "change_pct": 0.36
+      "price": 50681.32,
+      "change_pct": 0.06
     },
     "Russell 2000": {
-      "price": 2919.94,
-      "change_pct": -0.02
+      "price": 2937.13,
+      "change_pct": 0.59
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4415.0,
-      "change_pct": 0.22
+      "price": 4507.5,
+      "change_pct": 2.32
     },
     "Oil (WTI)": {
-      "price": 91.26,
-      "change_pct": -0.91
+      "price": 89.87,
+      "change_pct": -2.42
     },
     "Silver": {
-      "price": 73.31,
-      "change_pct": 1.08
+      "price": 75.05,
+      "change_pct": 3.49
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73276,
-      "change_pct": -3.28
+      "price": 72815,
+      "change_pct": -3.18
     },
     "ETH": {
-      "price": 1986.46,
-      "change_pct": -4.52
+      "price": 1988.41,
+      "change_pct": -3.87
     },
     "SOL": {
-      "price": 80.63,
-      "change_pct": -4.03
+      "price": 81.1,
+      "change_pct": -3.79
     },
     "BNB": {
-      "price": 631.22,
-      "change_pct": -3.49
+      "price": 633.35,
+      "change_pct": -3.51
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil jumps 2.5% after Iran says it targeted U.S. airbase following fresh American strikes"
+      "title": "Core inflation hit an annual rate of 3.3% in April, as expected, Fed\u2019s preferred gauge shows"
     },
     {
       "source": "CNBC",
-      "title": "Snowflake rockets 36% on earnings beat and plan to spend $6 billion on Amazon cloud"
+      "title": "Oil prices pull back on report U.S.-Iran agreement to extend ceasefire awaits Trump approval"
     },
     {
       "source": "MarketWatch",
-      "title": "Dollar Tree\u2019s sales top forecasts as fewer people are shopping \u2014 but they\u2019re spending more"
+      "title": "Here\u2019s how to find out if you\u2019re one of millions of Americans who can claim this IRS refund"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m setting up brokerage accounts for my grandkids in my daughter\u2019s name. Is that wise \u2014 or am I asking for trouble?"
+      "title": "My golf buddy dropped me when I didn\u2019t make him my financial adviser. Be careful who you trust."
     }
   ]
 }
