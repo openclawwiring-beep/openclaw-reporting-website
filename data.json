@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, May 28 2026  14:07 PT",
+  "generated_at": "Thursday, May 28 2026  15:51 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4526.5,
-      "change_pct": 2.75
+      "price": 4525.6,
+      "change_pct": 2.73
     },
     "Oil (WTI)": {
-      "price": 88.64,
-      "change_pct": -3.76
+      "price": 88.5,
+      "change_pct": -3.91
     },
     "Silver": {
-      "price": 75.93,
-      "change_pct": 4.7
+      "price": 75.96,
+      "change_pct": 4.75
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73475,
-      "change_pct": -2.13
+      "price": 73472,
+      "change_pct": -1.29
     },
     "ETH": {
-      "price": 2011.77,
-      "change_pct": -2.2
+      "price": 2006.2,
+      "change_pct": -0.97
     },
     "SOL": {
-      "price": 82.18,
-      "change_pct": -1.71
+      "price": 81.94,
+      "change_pct": -0.7
     },
     "BNB": {
-      "price": 639.93,
-      "change_pct": -1.94
+      "price": 638.51,
+      "change_pct": -1.41
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "S&P 500 and Nasdaq close at new records, lifted by tech rally: Live updates"
+      "title": "Stock futures are little changed as traders eye developments in Middle East: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "An Iran deal could actually trigger a painful stock-market selloff, despite Wall Street\u2019s optimism"
+      "title": "Costco gas demand hits records, as shoppers try stay ahead of future price spikes"
     },
     {
       "source": "MarketWatch",
-      "title": "Okta shares rise on earnings beat and AI-agent opportunity"
+      "title": "The Iran war costs more than you think \u2014 it boosts inflation and threatens stocks"
     }
   ]
 }
