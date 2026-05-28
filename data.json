@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, May 28 2026  11:35 PT",
-  "market_status": "Live \u2014 as of 14:35 ET",
+  "generated_at": "Thursday, May 28 2026  14:07 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7560.95,
-      "change_pct": 0.53
+      "price": 7563.63,
+      "change_pct": 0.58
     },
     "Nasdaq": {
-      "price": 26905.16,
-      "change_pct": 0.86
+      "price": 26917.47,
+      "change_pct": 0.91
     },
     "Dow Jones": {
-      "price": 50570.69,
-      "change_pct": -0.16
+      "price": 50668.97,
+      "change_pct": 0.05
     },
     "Russell 2000": {
-      "price": 2938.75,
-      "change_pct": 0.64
+      "price": 2936.57,
+      "change_pct": 0.57
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4537.4,
-      "change_pct": 3.0
+      "price": 4526.5,
+      "change_pct": 2.75
     },
     "Oil (WTI)": {
-      "price": 88.65,
-      "change_pct": -3.75
+      "price": 88.64,
+      "change_pct": -3.76
     },
     "Silver": {
-      "price": 76.08,
-      "change_pct": 4.92
+      "price": 75.93,
+      "change_pct": 4.7
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73510,
-      "change_pct": -1.69
+      "price": 73475,
+      "change_pct": -2.13
     },
     "ETH": {
-      "price": 2020.4,
-      "change_pct": -1.36
+      "price": 2011.77,
+      "change_pct": -2.2
     },
     "SOL": {
-      "price": 82.55,
-      "change_pct": -0.96
+      "price": 82.18,
+      "change_pct": -1.71
     },
     "BNB": {
-      "price": 640.78,
-      "change_pct": -1.6
+      "price": 639.93,
+      "change_pct": -1.94
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices turn lower as U.S.-Iran ceasefire extension awaits Trump approval"
+      "title": "Iran reportedly launches missiles as Trump mulls deal to pause war for two months"
     },
     {
       "source": "CNBC",
-      "title": "Airlines, hotels warn against Trump admin threat to international flights to 'sanctuary cities'"
+      "title": "S&P 500 and Nasdaq close at new records, lifted by tech rally: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018He threatened to cut the roots\u2019: A tree fell onto my neighbor\u2019s property during a storm. Then all hell broke loose."
+      "title": "An Iran deal could actually trigger a painful stock-market selloff, despite Wall Street\u2019s optimism"
     },
     {
       "source": "MarketWatch",
-      "title": "There may be a secret winner of the streaming wars, and it could end up saving you money"
+      "title": "Okta shares rise on earnings beat and AI-agent opportunity"
     }
   ]
 }
