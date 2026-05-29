@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, May 29 2026  12:08 PT",
-  "market_status": "Live \u2014 as of 15:08 ET",
+  "generated_at": "Friday, May 29 2026  14:21 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7579.59,
-      "change_pct": 0.21
+      "price": 7580.06,
+      "change_pct": 0.22
     },
     "Nasdaq": {
-      "price": 26959.54,
-      "change_pct": 0.16
+      "price": 26972.62,
+      "change_pct": 0.2
     },
     "Dow Jones": {
-      "price": 50992.95,
-      "change_pct": 0.65
+      "price": 51032.46,
+      "change_pct": 0.72
     },
     "Russell 2000": {
-      "price": 2911.84,
-      "change_pct": -0.84
+      "price": 2919.34,
+      "change_pct": -0.59
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4586.6,
-      "change_pct": 1.23
+      "price": 4569.9,
+      "change_pct": 0.86
     },
     "Oil (WTI)": {
-      "price": 87.71,
-      "change_pct": -0.52
+      "price": 87.76,
+      "change_pct": -0.47
     },
     "Silver": {
-      "price": 75.83,
-      "change_pct": 0.11
+      "price": 75.58,
+      "change_pct": -0.21
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73355,
-      "change_pct": -0.11
+      "price": 73627,
+      "change_pct": 0.01
     },
     "ETH": {
-      "price": 2011.77,
-      "change_pct": -0.33
+      "price": 2017.25,
+      "change_pct": -0.06
     },
     "SOL": {
-      "price": 82.0,
-      "change_pct": -0.63
+      "price": 82.12,
+      "change_pct": -0.42
     },
     "BNB": {
-      "price": 640.12,
-      "change_pct": 0.0
+      "price": 642.63,
+      "change_pct": 0.22
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump lays out Iran deal demands, says he's about to make 'final determination'"
+      "title": "Dell stock skyrockets 32% for its best day ever as AI server revenue soars"
     },
     {
       "source": "CNBC",
-      "title": "SpaceX skeptics have added reason for concern after Musk comments diverge from IPO filing"
+      "title": "Trump ends Iran meeting without announcing \u2018final determination\u2019 on deal"
     },
     {
       "source": "MarketWatch",
-      "title": "The \u2018Three A\u2019s\u2019 are keeping the economy afloat during Iran war. Is it enough to avoid recession?"
+      "title": "Dell\u2019s stunning 33% stock rally gave a big boost to shares of other server makers"
     },
     {
       "source": "MarketWatch",
-      "title": "The company behind the White House\u2019s UFC event says rivals \u2018would kill\u2019 for the opportunity. Critics say that\u2019s a problem."
+      "title": "Here\u2019s the real story behind the record drop in America\u2019s oil reserves"
     }
   ]
 }
