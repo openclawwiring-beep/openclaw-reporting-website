@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, May 29 2026  09:22 PT",
-  "market_status": "Live \u2014 as of 12:22 ET",
+  "generated_at": "Friday, May 29 2026  12:08 PT",
+  "market_status": "Live \u2014 as of 15:08 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7588.36,
-      "change_pct": 0.33
+      "price": 7579.59,
+      "change_pct": 0.21
     },
     "Nasdaq": {
-      "price": 27020.71,
-      "change_pct": 0.38
+      "price": 26959.54,
+      "change_pct": 0.16
     },
     "Dow Jones": {
-      "price": 51008.36,
-      "change_pct": 0.68
+      "price": 50992.95,
+      "change_pct": 0.65
     },
     "Russell 2000": {
-      "price": 2920.53,
-      "change_pct": -0.55
+      "price": 2911.84,
+      "change_pct": -0.84
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4592.7,
-      "change_pct": 1.36
+      "price": 4586.6,
+      "change_pct": 1.23
     },
     "Oil (WTI)": {
-      "price": 87.76,
-      "change_pct": -0.47
+      "price": 87.71,
+      "change_pct": -0.52
     },
     "Silver": {
-      "price": 75.82,
-      "change_pct": 0.09
+      "price": 75.83,
+      "change_pct": 0.11
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73644,
-      "change_pct": 0.77
+      "price": 73355,
+      "change_pct": -0.11
     },
     "ETH": {
-      "price": 2024.99,
-      "change_pct": 1.45
+      "price": 2011.77,
+      "change_pct": -0.33
     },
     "SOL": {
-      "price": 82.48,
-      "change_pct": 1.5
+      "price": 82.0,
+      "change_pct": -0.63
     },
     "BNB": {
-      "price": 638.83,
-      "change_pct": 0.42
+      "price": 640.12,
+      "change_pct": 0.0
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Dell stock skyrockets 32%, heads for best day ever as AI server revenue soars"
+      "title": "SpaceX skeptics have added reason for concern after Musk comments diverge from IPO filing"
     },
     {
       "source": "MarketWatch",
-      "title": "Even the Ronald Reagan Institute doesn\u2019t believe the \u2018waste, fraud and abuse\u2019 baloney"
+      "title": "The \u2018Three A\u2019s\u2019 are keeping the economy afloat during Iran war. Is it enough to avoid recession?"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices slide as Trump says the U.S. is close to an Iran deal"
+      "title": "The company behind the White House\u2019s UFC event says rivals \u2018would kill\u2019 for the opportunity. Critics say that\u2019s a problem."
     }
   ]
 }
