@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, May 28 2026  17:10 PT",
+  "generated_at": "Thursday, May 28 2026  21:52 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4525.1,
-      "change_pct": 2.72
+      "price": 4540.0,
+      "change_pct": 0.03
     },
     "Oil (WTI)": {
-      "price": 88.34,
-      "change_pct": -4.08
+      "price": 87.73,
+      "change_pct": -0.63
     },
     "Silver": {
-      "price": 75.96,
-      "change_pct": 4.74
+      "price": 76.01,
+      "change_pct": -0.63
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73560,
-      "change_pct": -1.15
+      "price": 73330,
+      "change_pct": 0.42
     },
     "ETH": {
-      "price": 2009.9,
-      "change_pct": -0.6
+      "price": 2004.6,
+      "change_pct": 1.35
     },
     "SOL": {
-      "price": 82.09,
-      "change_pct": -0.4
+      "price": 81.69,
+      "change_pct": 1.22
     },
     "BNB": {
-      "price": 637.73,
-      "change_pct": -1.45
+      "price": 635.02,
+      "change_pct": -0.05
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran reportedly launches missiles as Trump mulls deal to pause war for two months"
+      "title": "Michael Dell courted Trump early. His company has reaped rewards"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures are little changed as traders eye developments in Middle East: Live updates"
+      "title": "Iran reportedly launches missiles as Trump mulls deal to pause war for two months"
     },
     {
       "source": "MarketWatch",
-      "title": "Earnings season slows but these 7 stocks pack explosive \u2018sawtooth\u2019 volatility next week"
+      "title": "I\u2019m setting up brokerage accounts for my grandkids in my daughter\u2019s name. Is that wise \u2014 or am I asking for trouble?"
     },
     {
       "source": "MarketWatch",
-      "title": "Costco gas demand hits records, as shoppers try to stay ahead of future price spikes"
+      "title": "\u2018I\u2019m unsure of the best approach\u2019: My father, 91, is in hospice care. He left his six children CDs. Can we cash out?"
     }
   ]
 }
