@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, May 28 2026  21:52 PT",
+  "generated_at": "Friday, May 29 2026  01:41 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4540.0,
-      "change_pct": 0.03
+      "price": 4547.3,
+      "change_pct": 0.36
     },
     "Oil (WTI)": {
-      "price": 87.73,
-      "change_pct": -0.63
+      "price": 88.77,
+      "change_pct": 0.68
     },
     "Silver": {
-      "price": 76.01,
-      "change_pct": -0.63
+      "price": 75.46,
+      "change_pct": -0.38
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73330,
-      "change_pct": 0.42
+      "price": 73690,
+      "change_pct": 0.74
     },
     "ETH": {
-      "price": 2004.6,
-      "change_pct": 1.35
+      "price": 2006.34,
+      "change_pct": 1.04
     },
     "SOL": {
-      "price": 81.69,
-      "change_pct": 1.22
+      "price": 82.24,
+      "change_pct": 1.79
     },
     "BNB": {
-      "price": 635.02,
-      "change_pct": -0.05
+      "price": 636.54,
+      "change_pct": 0.48
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Michael Dell courted Trump early. His company has reaped rewards"
+      "title": "Nvidia is investing billions into this emerging technology that could change the AI industry"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m setting up brokerage accounts for my grandkids in my daughter\u2019s name. Is that wise \u2014 or am I asking for trouble?"
+      "title": "The double 10K scenario: Wall Street veteran says the S&P 500 and gold can each reach that mark by the end of the decade"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m unsure of the best approach\u2019: My father, 91, is in hospice care. He left his six children CDs. Can we cash out?"
+      "title": "I\u2019m setting up brokerage accounts for my grandkids in my daughter\u2019s name. Is that wise \u2014 or am I asking for trouble?"
     }
   ]
 }
