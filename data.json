@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 30 2026  04:38 PT",
+  "generated_at": "Saturday, May 30 2026  06:27 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 73503,
-      "change_pct": 0.12
+      "price": 73683,
+      "change_pct": 1.01
     },
     "ETH": {
-      "price": 2015.07,
-      "change_pct": 0.49
+      "price": 2018.12,
+      "change_pct": 1.23
     },
     "SOL": {
-      "price": 82.3,
-      "change_pct": 0.46
+      "price": 82.41,
+      "change_pct": 1.45
     },
     "BNB": {
-      "price": 670.24,
-      "change_pct": 5.25
+      "price": 671.8,
+      "change_pct": 5.89
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Hegseth praises Asian allies for 'burden-sharing,' calls out China's role in the region"
+      "title": "Meta has struggled at selling anything other than ads. Will AI be different?"
     },
     {
       "source": "CNBC",
-      "title": "Trump ends Iran meeting without announcing \u2018final determination\u2019 on deal"
+      "title": "Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have no preexisting conditions\u2019: I\u2019m 56, earn $198,000 and want to retire early. Can I afford private healthcare?"
+      "title": "My golf buddy dropped me when I didn\u2019t ask him to be my financial adviser. Was I naive?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It is such a fine line\u2019: I am a CFP and see nothing wrong with networking on the golf course. Am I wrong?"
+      "title": "The company behind the White House\u2019s UFC event says rivals \u2018would kill\u2019 for the opportunity. Critics say that\u2019s a problem."
     }
   ]
 }
