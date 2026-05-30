@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 30 2026  02:59 PT",
+  "generated_at": "Saturday, May 30 2026  04:38 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 73504,
-      "change_pct": -0.18
+      "price": 73503,
+      "change_pct": 0.12
     },
     "ETH": {
-      "price": 2013.98,
-      "change_pct": 0.11
+      "price": 2015.07,
+      "change_pct": 0.49
     },
     "SOL": {
-      "price": 82.24,
-      "change_pct": -0.11
+      "price": 82.3,
+      "change_pct": 0.46
     },
     "BNB": {
-      "price": 673.74,
-      "change_pct": 5.36
+      "price": 670.24,
+      "change_pct": 5.25
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Dell stock skyrockets 32% for its best day ever as AI server revenue soars"
+      "title": "Trump ends Iran meeting without announcing \u2018final determination\u2019 on deal"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Fairness is important to us\u2019: We sold our family business to our son at a discount. How can we make this up to our other child?"
+      "title": "\u2018I have no preexisting conditions\u2019: I\u2019m 56, earn $198,000 and want to retire early. Can I afford private healthcare?"
     },
     {
       "source": "MarketWatch",
-      "title": "A mystery man tried to buy Playboy\u2019s high-end lingerie business. It turned out to all be a scam."
+      "title": "\u2018It is such a fine line\u2019: I am a CFP and see nothing wrong with networking on the golf course. Am I wrong?"
     }
   ]
 }
