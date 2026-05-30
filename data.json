@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 30 2026  00:40 PT",
+  "generated_at": "Saturday, May 30 2026  02:59 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 73408,
-      "change_pct": 0.12
+      "price": 73504,
+      "change_pct": -0.18
     },
     "ETH": {
-      "price": 2011.85,
-      "change_pct": 0.47
+      "price": 2013.98,
+      "change_pct": 0.11
     },
     "SOL": {
-      "price": 82.26,
-      "change_pct": 0.39
+      "price": 82.24,
+      "change_pct": -0.11
     },
     "BNB": {
-      "price": 671.35,
-      "change_pct": 5.68
+      "price": 673.74,
+      "change_pct": 5.36
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dell stock skyrockets 32% for its best day ever as AI server revenue soars"
+      "title": "Hegseth praises Asian allies for 'burden-sharing,' calls out China's role in the region"
     },
     {
       "source": "CNBC",
-      "title": "Trump ends Iran meeting without announcing \u2018final determination\u2019 on deal"
+      "title": "Dell stock skyrockets 32% for its best day ever as AI server revenue soars"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018Fairness is important to us\u2019: We sold our family business to our son at a discount. How can we make this up to our other child?"
     },
     {
       "source": "MarketWatch",
       "title": "A mystery man tried to buy Playboy\u2019s high-end lingerie business. It turned out to all be a scam."
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Gap and American Eagle shares both get crushed \u2014 and neither retailer is blaming the economy"
     }
   ]
 }
