@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 30 2026  13:32 PT",
+  "generated_at": "Saturday, May 30 2026  15:00 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 73844,
-      "change_pct": 0.27
+      "price": 73861,
+      "change_pct": 0.67
     },
     "ETH": {
-      "price": 2024.71,
-      "change_pct": 0.27
+      "price": 2026.13,
+      "change_pct": 0.91
     },
     "SOL": {
-      "price": 82.82,
-      "change_pct": 0.78
+      "price": 82.93,
+      "change_pct": 1.55
     },
     "BNB": {
-      "price": 718.81,
-      "change_pct": 11.9
+      "price": 718.89,
+      "change_pct": 12.02
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "As Big Tech\u2019s power demand surges, data centers bring utilities a huge new profit center"
+      "title": "\u2018It is such a fine line\u2019: I am a CFP and see nothing wrong with networking on the golf course. Am I wrong?"
     },
     {
       "source": "MarketWatch",
-      "title": "China\u2019s next export shock walks on two legs \u2014 and costs less than a used car"
+      "title": "\u2018I have no preexisting conditions\u2019: I\u2019m 56, earn $198,000 and want to retire early. Can I afford private healthcare?"
     }
   ]
 }
