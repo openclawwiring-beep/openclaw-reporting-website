@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, May 30 2026  06:27 PT",
+  "generated_at": "Saturday, May 30 2026  07:51 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 73683,
-      "change_pct": 1.01
+      "price": 73884,
+      "change_pct": 1.3
     },
     "ETH": {
-      "price": 2018.12,
-      "change_pct": 1.23
+      "price": 2023.99,
+      "change_pct": 1.33
     },
     "SOL": {
-      "price": 82.41,
-      "change_pct": 1.45
+      "price": 82.53,
+      "change_pct": 2.22
     },
     "BNB": {
-      "price": 671.8,
-      "change_pct": 5.89
+      "price": 684.02,
+      "change_pct": 7.81
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My golf buddy dropped me when I didn\u2019t ask him to be my financial adviser. Was I naive?"
+      "title": "Even the Ronald Reagan Institute doesn\u2019t believe the \u2018waste, fraud and abuse\u2019 baloney"
     },
     {
       "source": "MarketWatch",
-      "title": "The company behind the White House\u2019s UFC event says rivals \u2018would kill\u2019 for the opportunity. Critics say that\u2019s a problem."
+      "title": "The death of Nascar driver Kyle Busch is renewing the debate around indexed universal life insurance"
     }
   ]
 }
