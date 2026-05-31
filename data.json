@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 31 2026  15:08 PT",
+  "generated_at": "Sunday, May 31 2026  16:37 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4593.0,
-      "change_pct": 1.37
+      "price": 4573.0,
+      "change_pct": -0.44
     },
     "Oil (WTI)": {
-      "price": 87.36,
-      "change_pct": -0.92
+      "price": 89.51,
+      "change_pct": 2.46
     },
     "Silver": {
-      "price": 75.88,
-      "change_pct": 0.17
+      "price": 75.59,
+      "change_pct": -0.38
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73652,
-      "change_pct": -0.15
+      "price": 73545,
+      "change_pct": -0.2
     },
     "ETH": {
-      "price": 2004.25,
-      "change_pct": -0.8
+      "price": 2001.35,
+      "change_pct": -0.81
     },
     "SOL": {
-      "price": 82.09,
-      "change_pct": -0.55
+      "price": 82.08,
+      "change_pct": -0.44
     },
     "BNB": {
-      "price": 708.25,
-      "change_pct": -0.1
+      "price": 708.24,
+      "change_pct": -1.24
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The stock index you invest in isn\u2019t always the most important decision. Here\u2019s what matters even more."
+      "title": "My golf buddy dropped me when I didn\u2019t ask him to be my financial adviser. Was I naive?"
     },
     {
       "source": "MarketWatch",
-      "title": "Government is now an active investor \u2014 and it\u2019s why your portfolio needs \u2018home-court advantage\u2019"
+      "title": "Oil rises, U.S. stock futures flat as Wall Street looks to extend its winning streak"
     }
   ]
 }
