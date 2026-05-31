@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 31 2026  08:17 PT",
+  "generated_at": "Sunday, May 31 2026  09:40 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 73564,
-      "change_pct": -0.37
+      "price": 73405,
+      "change_pct": -0.6
     },
     "ETH": {
-      "price": 2007.87,
-      "change_pct": -0.88
+      "price": 1997.96,
+      "change_pct": -1.28
     },
     "SOL": {
-      "price": 81.94,
-      "change_pct": -0.86
+      "price": 81.44,
+      "change_pct": -1.62
     },
     "BNB": {
-      "price": 720.85,
-      "change_pct": 4.92
+      "price": 707.43,
+      "change_pct": 0.17
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Defense spending, China in Asia and lessons from Ukraine: Takeways from the 2026 IISS Shangri-La Dialogue"
+      "title": "U.S. and Iran still without deal to end war after Trump says he's not in a 'hurry'"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s how Gap\u2019s yoga-wear maker Athleta went from must-have to \u2018generic\u2019"
+      "title": "Here\u2019s what\u2019s worth streaming in June 2026 on Netflix, Hulu, HBO Max and more"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have no preexisting conditions\u2019: I\u2019m 56, earn $198,000 and want to retire early. Can I afford private healthcare?"
+      "title": "It\u2019s not just tech stocks: The broad-based strength of the market right now gives investors reason to stay the course"
     }
   ]
 }
