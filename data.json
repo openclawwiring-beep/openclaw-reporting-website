@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 31 2026  03:14 PT",
+  "generated_at": "Sunday, May 31 2026  04:56 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 73748,
-      "change_pct": 0.29
+      "price": 73811,
+      "change_pct": 0.43
     },
     "ETH": {
-      "price": 2017.17,
-      "change_pct": 0.12
+      "price": 2019.51,
+      "change_pct": 0.24
     },
     "SOL": {
-      "price": 82.6,
-      "change_pct": 0.36
+      "price": 82.61,
+      "change_pct": 0.46
     },
     "BNB": {
-      "price": 722.78,
-      "change_pct": 7.27
+      "price": 722.18,
+      "change_pct": 7.36
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It is such a fine line\u2019: I am a CFP and see nothing wrong with networking on the golf course. Am I wrong?"
+      "title": "My friend, 62, earns $20,000 a year. Should she take Social Security now \u2014 and claim survivor\u2019s benefit at 67?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have no preexisting conditions\u2019: I\u2019m 56, earn $198,000 and want to retire early. Can I afford private healthcare?"
+      "title": "\u2018He threatened to cut the roots\u2019: A tree fell onto my neighbor\u2019s property during a storm. Then all hell broke loose."
     }
   ]
 }
