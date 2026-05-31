@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 31 2026  11:00 PT",
+  "generated_at": "Sunday, May 31 2026  12:48 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 73590,
-      "change_pct": -0.44
+      "price": 73412,
+      "change_pct": -0.72
     },
     "ETH": {
-      "price": 2002.89,
-      "change_pct": -1.07
+      "price": 1995.07,
+      "change_pct": -1.49
     },
     "SOL": {
-      "price": 81.73,
-      "change_pct": -1.43
+      "price": 81.43,
+      "change_pct": -1.71
     },
     "BNB": {
-      "price": 713.3,
-      "change_pct": 0.43
+      "price": 708.18,
+      "change_pct": -1.57
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s what\u2019s worth streaming in June 2026 on Netflix, Hulu, HBO Max and more"
+      "title": "It\u2019s not just tech stocks: The broad-based strength of the market right now gives investors reason to stay the course"
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s not just tech stocks: The broad-based strength of the market right now gives investors reason to stay the course"
+      "title": "Here\u2019s what\u2019s worth streaming in June 2026 on Netflix, Hulu, HBO Max and more"
     }
   ]
 }
