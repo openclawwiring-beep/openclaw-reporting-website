@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 31 2026  12:48 PT",
+  "generated_at": "Sunday, May 31 2026  13:59 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 73412,
-      "change_pct": -0.72
+      "price": 73647,
+      "change_pct": -0.28
     },
     "ETH": {
-      "price": 1995.07,
-      "change_pct": -1.49
+      "price": 2003.83,
+      "change_pct": -1.0
     },
     "SOL": {
-      "price": 81.43,
-      "change_pct": -1.71
+      "price": 81.84,
+      "change_pct": -1.2
     },
     "BNB": {
-      "price": 708.18,
-      "change_pct": -1.57
+      "price": 709.32,
+      "change_pct": -1.34
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s not just tech stocks: The broad-based strength of the market right now gives investors reason to stay the course"
+      "title": "The stock index you invest in isn\u2019t always the most important decision. Here\u2019s what matters even more."
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s what\u2019s worth streaming in June 2026 on Netflix, Hulu, HBO Max and more"
+      "title": "Government is now an active investor \u2014 and it\u2019s why your portfolio needs \u2018home-court advantage\u2019"
     }
   ]
 }
