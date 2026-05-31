@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 31 2026  06:49 PT",
+  "generated_at": "Sunday, May 31 2026  08:17 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 73778,
-      "change_pct": 0.16
+      "price": 73564,
+      "change_pct": -0.37
     },
     "ETH": {
-      "price": 2019.71,
-      "change_pct": 0.16
+      "price": 2007.87,
+      "change_pct": -0.88
     },
     "SOL": {
-      "price": 82.71,
-      "change_pct": 0.51
+      "price": 81.94,
+      "change_pct": -0.86
     },
     "BNB": {
-      "price": 726.86,
-      "change_pct": 7.95
+      "price": 720.85,
+      "change_pct": 4.92
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My golf buddy dropped me when I didn\u2019t ask him to be my financial adviser. Was I naive?"
+      "title": "Here\u2019s how Gap\u2019s yoga-wear maker Athleta went from must-have to \u2018generic\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "My friend, 62, earns $20,000 a year. Should she take Social Security now \u2014 and claim survivor\u2019s benefit at 67?"
+      "title": "\u2018I have no preexisting conditions\u2019: I\u2019m 56, earn $198,000 and want to retire early. Can I afford private healthcare?"
     }
   ]
 }
