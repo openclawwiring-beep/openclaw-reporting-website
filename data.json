@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 31 2026  04:56 PT",
+  "generated_at": "Sunday, May 31 2026  06:49 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 73811,
-      "change_pct": 0.43
+      "price": 73778,
+      "change_pct": 0.16
     },
     "ETH": {
-      "price": 2019.51,
-      "change_pct": 0.24
+      "price": 2019.71,
+      "change_pct": 0.16
     },
     "SOL": {
-      "price": 82.61,
-      "change_pct": 0.46
+      "price": 82.71,
+      "change_pct": 0.51
     },
     "BNB": {
-      "price": 722.18,
-      "change_pct": 7.36
+      "price": 726.86,
+      "change_pct": 7.95
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Defense spending, China in Asia and lessons from Ukraine: Takeways from the 2026 IISS Shangri-La Dialogue"
+      "title": "Why Trump reversed course to fast-track psychedelic drugs for mental healthcare"
     },
     {
       "source": "CNBC",
-      "title": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war"
+      "title": "Defense spending, China in Asia and lessons from Ukraine: Takeways from the 2026 IISS Shangri-La Dialogue"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My golf buddy dropped me when I didn\u2019t ask him to be my financial adviser. Was I naive?"
     },
     {
       "source": "MarketWatch",
       "title": "My friend, 62, earns $20,000 a year. Should she take Social Security now \u2014 and claim survivor\u2019s benefit at 67?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018He threatened to cut the roots\u2019: A tree fell onto my neighbor\u2019s property during a storm. Then all hell broke loose."
     }
   ]
 }
