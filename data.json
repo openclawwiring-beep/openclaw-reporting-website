@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 31 2026  00:45 PT",
+  "generated_at": "Sunday, May 31 2026  03:14 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 73755,
-      "change_pct": 0.47
+      "price": 73748,
+      "change_pct": 0.29
     },
     "ETH": {
-      "price": 2020.72,
-      "change_pct": 0.44
+      "price": 2017.17,
+      "change_pct": 0.12
     },
     "SOL": {
-      "price": 82.53,
-      "change_pct": 0.32
+      "price": 82.6,
+      "change_pct": 0.36
     },
     "BNB": {
-      "price": 721.09,
-      "change_pct": 7.48
+      "price": 722.78,
+      "change_pct": 7.27
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war"
+      "title": "Defense spending, China in Asia and lessons from Ukraine: Takeways from the 2026 IISS Shangri-La Dialogue"
     },
     {
       "source": "CNBC",
-      "title": "Analysis: An end to the Iran war may be just the beginning of a new era of U.S. inequality"
+      "title": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war"
     },
     {
       "source": "MarketWatch",
