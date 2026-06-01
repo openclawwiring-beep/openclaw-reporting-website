@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, June 01 2026  02:31 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, June 01 2026  08:55 PT",
+  "market_status": "Live \u2014 as of 11:55 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7580.06,
-      "change_pct": 0.22
+      "price": 7585.39,
+      "change_pct": 0.07
     },
     "Nasdaq": {
-      "price": 26972.62,
-      "change_pct": 0.2
+      "price": 27044.39,
+      "change_pct": 0.27
     },
     "Dow Jones": {
-      "price": 51032.46,
-      "change_pct": 0.72
+      "price": 50918.32,
+      "change_pct": -0.22
     },
     "Russell 2000": {
-      "price": 2919.34,
+      "price": 2902.82,
       "change_pct": -0.59
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4535.1,
-      "change_pct": -0.24
+      "price": 4503.1,
+      "change_pct": -0.94
     },
     "Oil (WTI)": {
-      "price": 91.06,
-      "change_pct": 1.47
+      "price": 93.59,
+      "change_pct": 4.29
     },
     "Silver": {
-      "price": 76.5,
-      "change_pct": 1.15
+      "price": 75.25,
+      "change_pct": -0.5
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72918,
-      "change_pct": -1.27
+      "price": 71018,
+      "change_pct": -3.44
     },
     "ETH": {
-      "price": 1984.76,
-      "change_pct": -1.95
+      "price": 1967.17,
+      "change_pct": -2.05
     },
     "SOL": {
-      "price": 81.08,
-      "change_pct": -1.94
+      "price": 79.61,
+      "change_pct": -2.79
     },
     "BNB": {
-      "price": 693.97,
-      "change_pct": -4.1
+      "price": 680.24,
+      "change_pct": -5.52
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia jumps into PCs with new Arm-based chip debuting in laptops from Microsoft, Dell, HP"
+      "title": "Iran stops negotiations with U.S., vows to 'completely' block Strait of Hormuz: State media"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures rise in overnight trading as June trading begins near record highs: Live updates"
+      "title": "Stargate live updates: Developer suggests China is behind paid protesters opposing data centers"
     },
     {
       "source": "MarketWatch",
-      "title": "My golf buddy dropped me when I didn\u2019t ask him to be my financial adviser. Was I naive?"
+      "title": "Global oil prices jump 7% to top $97 a barrel after Iran reportedly suspends talks with U.S. and fully closes Strait of Hormuz"
     },
     {
       "source": "MarketWatch",
-      "title": "Ted Danson and Mary Steenburgen list $9.9 million Martha\u2019s Vineyard property where they wed 31 years ago"
+      "title": "SpaceX says it will reserve 5% of its IPO shares for staff, friends and family"
     }
   ]
 }
