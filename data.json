@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, May 31 2026  16:37 PT",
+  "generated_at": "Sunday, May 31 2026  20:58 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4573.0,
-      "change_pct": -0.44
+      "price": 4543.2,
+      "change_pct": -1.08
     },
     "Oil (WTI)": {
-      "price": 89.51,
-      "change_pct": 2.46
+      "price": 89.6,
+      "change_pct": 2.56
     },
     "Silver": {
-      "price": 75.59,
-      "change_pct": -0.38
+      "price": 75.52,
+      "change_pct": -0.47
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73545,
-      "change_pct": -0.2
+      "price": 73643,
+      "change_pct": -0.54
     },
     "ETH": {
-      "price": 2001.35,
-      "change_pct": -0.81
+      "price": 2006.67,
+      "change_pct": -1.19
     },
     "SOL": {
-      "price": 82.08,
-      "change_pct": -0.44
+      "price": 82.53,
+      "change_pct": -0.69
     },
     "BNB": {
-      "price": 708.24,
-      "change_pct": -1.24
+      "price": 702.98,
+      "change_pct": -4.81
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures are flat in overnight trading as June trading begins near record highs: Live updates"
+      "title": "China\u2019s factory activity beats forecasts in May, private survey shows, despite softer official data"
     },
     {
       "source": "CNBC",
-      "title": "U.S. and Iran still without deal to end war after Trump says he's not in a 'hurry'"
+      "title": "Stock futures are flat in overnight trading as June trading begins near record highs: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "My golf buddy dropped me when I didn\u2019t ask him to be my financial adviser. Was I naive?"
+      "title": "Oil rises, U.S. stock futures inch higher as Wall Street looks to extend its winning streak"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil rises, U.S. stock futures flat as Wall Street looks to extend its winning streak"
+      "title": "Jerome Powell warns that politicizing Fed will erode its credibility"
     }
   ]
 }
