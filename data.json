@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, June 01 2026  13:16 PT",
+  "generated_at": "Monday, June 01 2026  15:40 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4513.8,
-      "change_pct": -0.71
+      "price": 4511.5,
+      "change_pct": -0.76
     },
     "Oil (WTI)": {
-      "price": 92.45,
-      "change_pct": 3.02
+      "price": 92.22,
+      "change_pct": 2.76
     },
     "Silver": {
-      "price": 75.2,
-      "change_pct": -0.57
+      "price": 75.1,
+      "change_pct": -0.7
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71490,
-      "change_pct": -2.86
+      "price": 71023,
+      "change_pct": -3.76
     },
     "ETH": {
-      "price": 2000.33,
-      "change_pct": 0.05
+      "price": 1991.07,
+      "change_pct": -0.89
     },
     "SOL": {
-      "price": 80.95,
-      "change_pct": -0.86
+      "price": 80.59,
+      "change_pct": -2.18
     },
     "BNB": {
-      "price": 698.02,
-      "change_pct": -1.57
+      "price": 689.97,
+      "change_pct": -3.11
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump tells CNBC: 'I don't care' if Iran negotiations are over"
+      "title": "Alphabet plans to raise $80 billion from stock sales to fund AI buildout"
     },
     {
       "source": "CNBC",
-      "title": "Anthropic confidentially files IPO prospectus with SEC, prepping Wall Street for landmark AI deal"
+      "title": "HPE skyrockets 30% on biggest earnings beat since 2018"
     },
     {
       "source": "MarketWatch",
-      "title": "Wall Street\u2019s red-hot momentum trade is still winning, as strategy delivers best 2-month gain on record"
+      "title": "I am 71. Would it be foolish to sell $10,000 in shares to visit my grandchildren in Thailand?"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 55, married and want a $1.5 million long-term care policy. Can I expect any nasty surprises?"
+      "title": "Alphabet asks shareholders to foot an $80 billion bill for AI expansion"
     }
   ]
 }
