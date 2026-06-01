@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, June 01 2026  08:55 PT",
-  "market_status": "Live \u2014 as of 11:55 ET",
+  "generated_at": "Monday, June 01 2026  13:16 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7585.39,
-      "change_pct": 0.07
+      "price": 7599.96,
+      "change_pct": 0.26
     },
     "Nasdaq": {
-      "price": 27044.39,
-      "change_pct": 0.27
+      "price": 27086.81,
+      "change_pct": 0.42
     },
     "Dow Jones": {
-      "price": 50918.32,
-      "change_pct": -0.22
+      "price": 51078.88,
+      "change_pct": 0.09
     },
     "Russell 2000": {
-      "price": 2902.82,
-      "change_pct": -0.59
+      "price": 2905.76,
+      "change_pct": -0.47
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4503.1,
-      "change_pct": -0.94
+      "price": 4513.8,
+      "change_pct": -0.71
     },
     "Oil (WTI)": {
-      "price": 93.59,
-      "change_pct": 4.29
+      "price": 92.45,
+      "change_pct": 3.02
     },
     "Silver": {
-      "price": 75.25,
-      "change_pct": -0.5
+      "price": 75.2,
+      "change_pct": -0.57
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71018,
-      "change_pct": -3.44
+      "price": 71490,
+      "change_pct": -2.86
     },
     "ETH": {
-      "price": 1967.17,
-      "change_pct": -2.05
+      "price": 2000.33,
+      "change_pct": 0.05
     },
     "SOL": {
-      "price": 79.61,
-      "change_pct": -2.79
+      "price": 80.95,
+      "change_pct": -0.86
     },
     "BNB": {
-      "price": 680.24,
-      "change_pct": -5.52
+      "price": 698.02,
+      "change_pct": -1.57
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran stops negotiations with U.S., vows to 'completely' block Strait of Hormuz: State media"
+      "title": "Trump tells CNBC: 'I don't care' if Iran negotiations are over"
     },
     {
       "source": "CNBC",
-      "title": "Stargate live updates: Developer suggests China is behind paid protesters opposing data centers"
+      "title": "Anthropic confidentially files IPO prospectus with SEC, prepping Wall Street for landmark AI deal"
     },
     {
       "source": "MarketWatch",
-      "title": "Global oil prices jump 7% to top $97 a barrel after Iran reportedly suspends talks with U.S. and fully closes Strait of Hormuz"
+      "title": "Wall Street\u2019s red-hot momentum trade is still winning, as strategy delivers best 2-month gain on record"
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX says it will reserve 5% of its IPO shares for staff, friends and family"
+      "title": "I\u2019m 55, married and want a $1.5 million long-term care policy. Can I expect any nasty surprises?"
     }
   ]
 }
