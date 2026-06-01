@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, May 31 2026  20:58 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Monday, June 01 2026  02:31 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7580.06,
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4543.2,
-      "change_pct": -1.08
+      "price": 4535.1,
+      "change_pct": -0.24
     },
     "Oil (WTI)": {
-      "price": 89.6,
-      "change_pct": 2.56
+      "price": 91.06,
+      "change_pct": 1.47
     },
     "Silver": {
-      "price": 75.52,
-      "change_pct": -0.47
+      "price": 76.5,
+      "change_pct": 1.15
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73643,
-      "change_pct": -0.54
+      "price": 72918,
+      "change_pct": -1.27
     },
     "ETH": {
-      "price": 2006.67,
-      "change_pct": -1.19
+      "price": 1984.76,
+      "change_pct": -1.95
     },
     "SOL": {
-      "price": 82.53,
-      "change_pct": -0.69
+      "price": 81.08,
+      "change_pct": -1.94
     },
     "BNB": {
-      "price": 702.98,
-      "change_pct": -4.81
+      "price": 693.97,
+      "change_pct": -4.1
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "China\u2019s factory activity beats forecasts in May, private survey shows, despite softer official data"
+      "title": "Nvidia jumps into PCs with new Arm-based chip debuting in laptops from Microsoft, Dell, HP"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures are flat in overnight trading as June trading begins near record highs: Live updates"
+      "title": "Stock futures rise in overnight trading as June trading begins near record highs: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil rises, U.S. stock futures inch higher as Wall Street looks to extend its winning streak"
+      "title": "My golf buddy dropped me when I didn\u2019t ask him to be my financial adviser. Was I naive?"
     },
     {
       "source": "MarketWatch",
-      "title": "Jerome Powell warns that politicizing Fed will erode its credibility"
+      "title": "Ted Danson and Mary Steenburgen list $9.9 million Martha\u2019s Vineyard property where they wed 31 years ago"
     }
   ]
 }
