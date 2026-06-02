@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, June 02 2026  11:13 PT",
-  "market_status": "Live \u2014 as of 14:13 ET",
+  "generated_at": "Tuesday, June 02 2026  14:31 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7607.79,
-      "change_pct": 0.1
+      "price": 7609.78,
+      "change_pct": 0.13
     },
     "Nasdaq": {
-      "price": 27086.99,
-      "change_pct": 0.0
+      "price": 27093.9,
+      "change_pct": 0.03
     },
     "Dow Jones": {
-      "price": 51255.09,
-      "change_pct": 0.35
+      "price": 51307.79,
+      "change_pct": 0.45
     },
     "Russell 2000": {
-      "price": 2924.31,
-      "change_pct": 0.64
+      "price": 2931.96,
+      "change_pct": 0.9
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4516.2,
-      "change_pct": -0.27
+      "price": 4519.2,
+      "change_pct": -0.2
     },
     "Oil (WTI)": {
-      "price": 93.61,
-      "change_pct": 2.36
+      "price": 93.39,
+      "change_pct": 2.12
     },
     "Silver": {
-      "price": 75.5,
-      "change_pct": -0.04
+      "price": 75.44,
+      "change_pct": -0.11
     }
   },
   "crypto": {
     "BTC": {
-      "price": 67520,
-      "change_pct": -5.43
+      "price": 67745,
+      "change_pct": -4.66
     },
     "ETH": {
-      "price": 1922.31,
-      "change_pct": -3.03
+      "price": 1906.95,
+      "change_pct": -4.29
     },
     "SOL": {
-      "price": 76.77,
-      "change_pct": -4.68
+      "price": 75.73,
+      "change_pct": -6.18
     },
     "BNB": {
-      "price": 665.56,
-      "change_pct": -3.03
+      "price": 659.94,
+      "change_pct": -4.64
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "The CFTC has sparked a potential revolution on Wall Street. Exchange stocks are dropping"
+      "title": "Palo Alto Networks tops earnings as AI fuels cybersecurity urgency"
     },
     {
       "source": "CNBC",
-      "title": "Trump, Rubio say talks with Iran ongoing despite Tehran media claims otherwise"
+      "title": "The CFTC has sparked a potential revolution on Wall Street. Exchange stocks are dropping"
     },
     {
       "source": "MarketWatch",
-      "title": "Why Virgin Galactic\u2019s stock is having its worst day ever, after a record-smashing 7-day run"
+      "title": "Palo Alto Networks\u2019 stock is rising as earnings show AI is a friend, not a foe"
     },
     {
       "source": "MarketWatch",
-      "title": "Americans are using buy-now-pay-later for gas and groceries, showing just how expensive daily necessities are now"
+      "title": "Here\u2019s how investors can protect their portfolios from the next stock-market crash"
     }
   ]
 }
