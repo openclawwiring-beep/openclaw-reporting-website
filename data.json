@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, June 02 2026  07:01 PT",
-  "market_status": "Live \u2014 as of 10:01 ET",
+  "generated_at": "Tuesday, June 02 2026  11:13 PT",
+  "market_status": "Live \u2014 as of 14:13 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7591.49,
-      "change_pct": -0.12
+      "price": 7607.79,
+      "change_pct": 0.1
     },
     "Nasdaq": {
-      "price": 27092.07,
-      "change_pct": 0.02
+      "price": 27086.99,
+      "change_pct": 0.0
     },
     "Dow Jones": {
-      "price": 50902.11,
-      "change_pct": -0.34
+      "price": 51255.09,
+      "change_pct": 0.35
     },
     "Russell 2000": {
-      "price": 2922.86,
-      "change_pct": 0.59
+      "price": 2924.31,
+      "change_pct": 0.64
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4542.5,
-      "change_pct": 0.31
+      "price": 4516.2,
+      "change_pct": -0.27
     },
     "Oil (WTI)": {
-      "price": 92.17,
-      "change_pct": 0.79
+      "price": 93.61,
+      "change_pct": 2.36
     },
     "Silver": {
-      "price": 76.57,
-      "change_pct": 1.39
+      "price": 75.5,
+      "change_pct": -0.04
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68677,
-      "change_pct": -4.24
+      "price": 67520,
+      "change_pct": -5.43
     },
     "ETH": {
-      "price": 1971.35,
-      "change_pct": -0.06
+      "price": 1922.31,
+      "change_pct": -3.03
     },
     "SOL": {
-      "price": 78.79,
-      "change_pct": -1.33
+      "price": 76.77,
+      "change_pct": -4.68
     },
     "BNB": {
-      "price": 673.83,
-      "change_pct": -1.49
+      "price": 665.56,
+      "change_pct": -3.03
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Anthropic expands Mythos to 150 additional organizations in more than 15 countries"
+      "title": "The CFTC has sparked a potential revolution on Wall Street. Exchange stocks are dropping"
     },
     {
       "source": "CNBC",
-      "title": "Trump picks housing Dir. Bill Pulte as acting intelligence chief, replacing Tulsi Gabbard"
+      "title": "Trump, Rubio say talks with Iran ongoing despite Tehran media claims otherwise"
     },
     {
       "source": "MarketWatch",
-      "title": "Wall Street\u2019s AI stock-picking secrets aren\u2019t coming to your portfolio"
+      "title": "Why Virgin Galactic\u2019s stock is having its worst day ever, after a record-smashing 7-day run"
     },
     {
       "source": "MarketWatch",
-      "title": "I spent months waiting for the perfect job after college. It\u2019s one of my biggest regrets."
+      "title": "Americans are using buy-now-pay-later for gas and groceries, showing just how expensive daily necessities are now"
     }
   ]
 }
