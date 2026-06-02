@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, June 01 2026  17:12 PT",
+  "generated_at": "Monday, June 01 2026  22:10 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4512.6,
-      "change_pct": -0.73
+      "price": 4547.7,
+      "change_pct": 0.98
     },
     "Oil (WTI)": {
-      "price": 92.03,
-      "change_pct": 2.55
+      "price": 91.26,
+      "change_pct": -0.31
     },
     "Silver": {
-      "price": 75.28,
-      "change_pct": -0.47
+      "price": 76.08,
+      "change_pct": 1.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71198,
-      "change_pct": -3.31
+      "price": 70543,
+      "change_pct": -3.9
     },
     "ETH": {
-      "price": 2001.78,
-      "change_pct": -0.23
+      "price": 1989.68,
+      "change_pct": -0.36
     },
     "SOL": {
-      "price": 81.03,
-      "change_pct": -1.77
+      "price": 80.12,
+      "change_pct": -2.18
     },
     "BNB": {
-      "price": 692.16,
-      "change_pct": -2.28
+      "price": 685.99,
+      "change_pct": -1.58
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "As Micron\u2019s stock blows past $1,000, Wall Street sees more gains in store"
+      "title": "Job seekers are using \u2018AI role-play\u2019 to negotiate salary. Here\u2019s how to do it."
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 55, married and want a $1.5 million long-term care policy. Can I expect any nasty surprises?"
+      "title": "HPE\u2019s stock soars toward record gain as earnings show a networking bonanza"
     }
   ]
 }
