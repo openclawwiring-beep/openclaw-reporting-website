@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, June 02 2026  02:48 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, June 02 2026  07:01 PT",
+  "market_status": "Live \u2014 as of 10:01 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7599.96,
-      "change_pct": 0.26
+      "price": 7591.49,
+      "change_pct": -0.12
     },
     "Nasdaq": {
-      "price": 27086.81,
-      "change_pct": 0.42
+      "price": 27092.07,
+      "change_pct": 0.02
     },
     "Dow Jones": {
-      "price": 51078.88,
-      "change_pct": 0.09
+      "price": 50902.11,
+      "change_pct": -0.34
     },
     "Russell 2000": {
-      "price": 2905.76,
-      "change_pct": -0.47
+      "price": 2922.86,
+      "change_pct": 0.59
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4555.1,
-      "change_pct": 0.59
+      "price": 4542.5,
+      "change_pct": 0.31
     },
     "Oil (WTI)": {
-      "price": 90.73,
-      "change_pct": -0.79
+      "price": 92.17,
+      "change_pct": 0.79
     },
     "Silver": {
-      "price": 76.62,
-      "change_pct": 1.45
+      "price": 76.57,
+      "change_pct": 1.39
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69323,
-      "change_pct": -4.89
+      "price": 68677,
+      "change_pct": -4.24
     },
     "ETH": {
-      "price": 1968.37,
-      "change_pct": -0.91
+      "price": 1971.35,
+      "change_pct": -0.06
     },
     "SOL": {
-      "price": 79.0,
-      "change_pct": -2.61
+      "price": 78.79,
+      "change_pct": -1.33
     },
     "BNB": {
-      "price": 676.48,
-      "change_pct": -6.81
+      "price": 673.83,
+      "change_pct": -1.49
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Alphabet plans to raise $80 billion from stock sales to fund AI buildout"
+      "title": "Anthropic expands Mythos to 150 additional organizations in more than 15 countries"
     },
     {
       "source": "CNBC",
-      "title": "Trump tells CNBC: 'I don't care' if Iran negotiations are over"
+      "title": "Trump picks housing Dir. Bill Pulte as acting intelligence chief, replacing Tulsi Gabbard"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 55, married and want a $1.5 million long-term care policy. Can I expect any nasty surprises?"
+      "title": "Wall Street\u2019s AI stock-picking secrets aren\u2019t coming to your portfolio"
     },
     {
       "source": "MarketWatch",
-      "title": "Musician Charlie Puth sells unique Studio City mansion for $2.1 million amid world tour"
+      "title": "I spent months waiting for the perfect job after college. It\u2019s one of my biggest regrets."
     }
   ]
 }
