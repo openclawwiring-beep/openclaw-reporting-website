@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, June 01 2026  22:10 PT",
+  "generated_at": "Tuesday, June 02 2026  02:48 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4547.7,
-      "change_pct": 0.98
+      "price": 4555.1,
+      "change_pct": 0.59
     },
     "Oil (WTI)": {
-      "price": 91.26,
-      "change_pct": -0.31
+      "price": 90.73,
+      "change_pct": -0.79
     },
     "Silver": {
-      "price": 76.08,
-      "change_pct": 1.24
+      "price": 76.62,
+      "change_pct": 1.45
     }
   },
   "crypto": {
     "BTC": {
-      "price": 70543,
-      "change_pct": -3.9
+      "price": 69323,
+      "change_pct": -4.89
     },
     "ETH": {
-      "price": 1989.68,
-      "change_pct": -0.36
+      "price": 1968.37,
+      "change_pct": -0.91
     },
     "SOL": {
-      "price": 80.12,
-      "change_pct": -2.18
+      "price": 79.0,
+      "change_pct": -2.61
     },
     "BNB": {
-      "price": 685.99,
-      "change_pct": -1.58
+      "price": 676.48,
+      "change_pct": -6.81
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "HPE skyrockets 30% on biggest earnings beat since 2018"
+      "title": "Trump tells CNBC: 'I don't care' if Iran negotiations are over"
     },
     {
       "source": "MarketWatch",
-      "title": "Job seekers are using \u2018AI role-play\u2019 to negotiate salary. Here\u2019s how to do it."
+      "title": "I\u2019m 55, married and want a $1.5 million long-term care policy. Can I expect any nasty surprises?"
     },
     {
       "source": "MarketWatch",
-      "title": "HPE\u2019s stock soars toward record gain as earnings show a networking bonanza"
+      "title": "Musician Charlie Puth sells unique Studio City mansion for $2.1 million amid world tour"
     }
   ]
 }
