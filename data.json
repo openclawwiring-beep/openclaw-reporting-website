@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, June 02 2026  14:31 PT",
+  "generated_at": "Tuesday, June 02 2026  16:44 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4519.2,
-      "change_pct": -0.2
+      "price": 4495.9,
+      "change_pct": -0.72
     },
     "Oil (WTI)": {
-      "price": 93.39,
-      "change_pct": 2.12
+      "price": 95.6,
+      "change_pct": 4.54
     },
     "Silver": {
-      "price": 75.44,
-      "change_pct": -0.11
+      "price": 74.67,
+      "change_pct": -1.14
     }
   },
   "crypto": {
     "BTC": {
-      "price": 67745,
-      "change_pct": -4.66
+      "price": 66459,
+      "change_pct": -6.98
     },
     "ETH": {
-      "price": 1906.95,
-      "change_pct": -4.29
+      "price": 1847.55,
+      "change_pct": -7.8
     },
     "SOL": {
-      "price": 75.73,
-      "change_pct": -6.18
+      "price": 73.54,
+      "change_pct": -9.5
     },
     "BNB": {
-      "price": 659.94,
-      "change_pct": -4.64
+      "price": 647.2,
+      "change_pct": -6.75
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Palo Alto Networks tops earnings as AI fuels cybersecurity urgency"
+      "title": "Trump still protected from tax enforcement, but anti-weaponization fund is dead, Blanche says"
     },
     {
       "source": "CNBC",
-      "title": "The CFTC has sparked a potential revolution on Wall Street. Exchange stocks are dropping"
+      "title": "Dow jumps more than 200 points, S&P 500 posts first close above 7,600: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Palo Alto Networks\u2019 stock is rising as earnings show AI is a friend, not a foe"
+      "title": "Most robo-advisers will never get the keys to Wall Street\u2019s AI-conjured stock picks"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s how investors can protect their portfolios from the next stock-market crash"
+      "title": "Alphabet\u2019s relentless AI spending is giving new shine to Broadcom\u2019s stock"
     }
   ]
 }
