@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, June 01 2026  15:40 PT",
+  "generated_at": "Monday, June 01 2026  17:12 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4511.5,
-      "change_pct": -0.76
+      "price": 4512.6,
+      "change_pct": -0.73
     },
     "Oil (WTI)": {
-      "price": 92.22,
-      "change_pct": 2.76
+      "price": 92.03,
+      "change_pct": 2.55
     },
     "Silver": {
-      "price": 75.1,
-      "change_pct": -0.7
+      "price": 75.28,
+      "change_pct": -0.47
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71023,
-      "change_pct": -3.76
+      "price": 71198,
+      "change_pct": -3.31
     },
     "ETH": {
-      "price": 1991.07,
-      "change_pct": -0.89
+      "price": 2001.78,
+      "change_pct": -0.23
     },
     "SOL": {
-      "price": 80.59,
-      "change_pct": -2.18
+      "price": 81.03,
+      "change_pct": -1.77
     },
     "BNB": {
-      "price": 689.97,
-      "change_pct": -3.11
+      "price": 692.16,
+      "change_pct": -2.28
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I am 71. Would it be foolish to sell $10,000 in shares to visit my grandchildren in Thailand?"
+      "title": "As Micron\u2019s stock blows past $1,000, Wall Street sees more gains in store"
     },
     {
       "source": "MarketWatch",
-      "title": "Alphabet asks shareholders to foot an $80 billion bill for AI expansion"
+      "title": "I\u2019m 55, married and want a $1.5 million long-term care policy. Can I expect any nasty surprises?"
     }
   ]
 }
