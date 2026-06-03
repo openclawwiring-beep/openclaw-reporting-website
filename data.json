@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, June 03 2026  14:47 PT",
+  "generated_at": "Wednesday, June 03 2026  16:42 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4462.7,
-      "change_pct": -1.09
+      "price": 4476.7,
+      "change_pct": -0.78
     },
     "Oil (WTI)": {
-      "price": 96.2,
-      "change_pct": 1.56
+      "price": 95.37,
+      "change_pct": 0.69
     },
     "Silver": {
-      "price": 72.98,
-      "change_pct": -3.24
+      "price": 73.33,
+      "change_pct": -2.78
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65447,
-      "change_pct": -3.16
+      "price": 64256,
+      "change_pct": -3.42
     },
     "ETH": {
-      "price": 1825.8,
-      "change_pct": -3.92
+      "price": 1815.29,
+      "change_pct": -1.88
     },
     "SOL": {
-      "price": 71.97,
-      "change_pct": -4.94
+      "price": 71.6,
+      "change_pct": -2.62
     },
     "BNB": {
-      "price": 625.38,
-      "change_pct": -5.3
+      "price": 621.62,
+      "change_pct": -4.16
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The two types of inflation the Fed can\u2019t control \u2014 and how Congress must protect your wallet"
+      "title": "CrowdStrike\u2019s stock falls as investors find more reason to pan cybersecurity earnings"
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX officially set to crush global records in targeting massive IPO haul of up to $86 billion"
+      "title": "Broadcom\u2019s stock falls despite accelerating AI-chip growth"
     }
   ]
 }
