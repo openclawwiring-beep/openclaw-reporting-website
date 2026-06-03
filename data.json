@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, June 02 2026  16:44 PT",
+  "generated_at": "Tuesday, June 02 2026  21:00 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4495.9,
-      "change_pct": -0.72
+      "price": 4510.7,
+      "change_pct": -0.39
     },
     "Oil (WTI)": {
-      "price": 95.6,
-      "change_pct": 4.54
+      "price": 94.65,
+      "change_pct": 3.5
     },
     "Silver": {
-      "price": 74.67,
-      "change_pct": -1.14
+      "price": 75.31,
+      "change_pct": -0.28
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66459,
-      "change_pct": -6.98
+      "price": 65749,
+      "change_pct": -7.19
     },
     "ETH": {
-      "price": 1847.55,
-      "change_pct": -7.8
+      "price": 1825.66,
+      "change_pct": -8.75
     },
     "SOL": {
-      "price": 73.54,
-      "change_pct": -9.5
+      "price": 72.74,
+      "change_pct": -10.01
     },
     "BNB": {
-      "price": 647.2,
-      "change_pct": -6.75
+      "price": 632.85,
+      "change_pct": -8.64
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Dow jumps more than 200 points, S&P 500 posts first close above 7,600: Live updates"
+      "title": "Stock futures are little changed after S&P 500 closes at another record: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Most robo-advisers will never get the keys to Wall Street\u2019s AI-conjured stock picks"
+      "title": "Taking care of your family shouldn\u2019t wreck your retirement"
     },
     {
       "source": "MarketWatch",
-      "title": "Alphabet\u2019s relentless AI spending is giving new shine to Broadcom\u2019s stock"
+      "title": "The S&P 500 climbs for a 9th straight day \u2014 but the \u2018breadth paradox\u2019 is sending a rare warning"
     }
   ]
 }
