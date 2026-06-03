@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, June 02 2026  21:00 PT",
+  "generated_at": "Wednesday, June 03 2026  02:13 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4510.7,
-      "change_pct": -0.39
+      "price": 4474.8,
+      "change_pct": -0.82
     },
     "Oil (WTI)": {
-      "price": 94.65,
-      "change_pct": 3.5
+      "price": 96.48,
+      "change_pct": 1.86
     },
     "Silver": {
-      "price": 75.31,
-      "change_pct": -0.28
+      "price": 74.41,
+      "change_pct": -1.35
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65749,
-      "change_pct": -7.19
+      "price": 66901,
+      "change_pct": -3.68
     },
     "ETH": {
-      "price": 1825.66,
-      "change_pct": -8.75
+      "price": 1877.42,
+      "change_pct": -4.69
     },
     "SOL": {
-      "price": 72.74,
-      "change_pct": -10.01
+      "price": 74.89,
+      "change_pct": -5.52
     },
     "BNB": {
-      "price": 632.85,
-      "change_pct": -8.64
+      "price": 644.15,
+      "change_pct": -5.21
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump still protected from tax enforcement, but anti-weaponization fund is dead, Blanche says"
+      "title": "Perplexity CEO tells CNBC one metric will determine who wins the AI race"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures are little changed after S&P 500 closes at another record: Live updates"
+      "title": "U.S. proposes fresh tariffs on 60 economies over forced labor trade practices"
     },
     {
       "source": "MarketWatch",
-      "title": "Taking care of your family shouldn\u2019t wreck your retirement"
+      "title": "Billionaire moves into 10th place globally as Inditex sales jump"
     },
     {
       "source": "MarketWatch",
-      "title": "The S&P 500 climbs for a 9th straight day \u2014 but the \u2018breadth paradox\u2019 is sending a rare warning"
+      "title": "What happened to celebrity selling power? Why Hollywood\u2019s most famous struggle to unload their lavish homes."
     }
   ]
 }
