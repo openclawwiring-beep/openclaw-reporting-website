@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, June 04 2026  01:20 PT",
+  "generated_at": "Thursday, June 04 2026  04:29 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4492.9,
-      "change_pct": 0.05
+      "price": 4505.0,
+      "change_pct": 0.32
     },
     "Oil (WTI)": {
-      "price": 95.01,
-      "change_pct": -0.11
+      "price": 94.23,
+      "change_pct": -0.93
     },
     "Silver": {
-      "price": 73.53,
-      "change_pct": -0.17
+      "price": 73.81,
+      "change_pct": 0.22
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63368,
-      "change_pct": -5.44
+      "price": 62513,
+      "change_pct": -7.05
     },
     "ETH": {
-      "price": 1767.26,
-      "change_pct": -5.66
+      "price": 1746.19,
+      "change_pct": -7.29
     },
     "SOL": {
-      "price": 68.51,
-      "change_pct": -8.52
+      "price": 68.08,
+      "change_pct": -9.85
     },
     "BNB": {
-      "price": 598.15,
-      "change_pct": -6.72
+      "price": 592.46,
+      "change_pct": -7.77
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Partners Group warns it could cap more fund withdrawals after triggering private equity rout"
+      "title": "S&P 500 futures fall as Broadcom leads chip stocks lower: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "SoftBank shares plunge over 11% amid broader tech sell-off"
+      "title": "SpaceX targets $135 IPO price at valuation of $1.77 trillion"
     },
     {
       "source": "MarketWatch",
-      "title": "Another redemption wave is spooking the $2 trillion private-credit market"
+      "title": "Tech is flashing a warning sign last seen in 2020. Strategist Larry McDonald sees a massive rotation coming."
     },
     {
       "source": "MarketWatch",
-      "title": "Only 5% of day traders make money, but the SEC is now making it easier for more people to try it anyway"
+      "title": "Jefferies CEO says firm is not in the SpaceX shorting business"
     }
   ]
 }
