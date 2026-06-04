@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, June 03 2026  20:55 PT",
+  "generated_at": "Thursday, June 04 2026  01:20 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4487.2,
-      "change_pct": -0.55
+      "price": 4492.9,
+      "change_pct": 0.05
     },
     "Oil (WTI)": {
-      "price": 95.49,
-      "change_pct": 0.81
+      "price": 95.01,
+      "change_pct": -0.11
     },
     "Silver": {
-      "price": 73.57,
-      "change_pct": -2.47
+      "price": 73.53,
+      "change_pct": -0.17
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64305,
-      "change_pct": -2.21
+      "price": 63368,
+      "change_pct": -5.44
     },
     "ETH": {
-      "price": 1807.21,
-      "change_pct": -1.24
+      "price": 1767.26,
+      "change_pct": -5.66
     },
     "SOL": {
-      "price": 71.32,
-      "change_pct": -2.07
+      "price": 68.51,
+      "change_pct": -8.52
     },
     "BNB": {
-      "price": 618.38,
-      "change_pct": -2.43
+      "price": 598.15,
+      "change_pct": -6.72
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SpaceX targets $135 IPO price at valuation of $1.77 trillion"
+      "title": "Partners Group warns it could cap more fund withdrawals after triggering private equity rout"
     },
     {
       "source": "CNBC",
-      "title": "S&P 500 futures fall after index snaps 9-day win streak amid rising Middle East tensions: Live updates"
+      "title": "SoftBank shares plunge over 11% amid broader tech sell-off"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Another redemption wave is spooking the $2 trillion private-credit market"
     },
     {
       "source": "MarketWatch",
       "title": "Only 5% of day traders make money, but the SEC is now making it easier for more people to try it anyway"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How single-stock turbulence presents \u2018asymmetric\u2019 downside risk for a rather calm S&P 500"
     }
   ]
 }
