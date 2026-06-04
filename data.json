@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, June 03 2026  16:42 PT",
+  "generated_at": "Wednesday, June 03 2026  20:55 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4476.7,
-      "change_pct": -0.78
+      "price": 4487.2,
+      "change_pct": -0.55
     },
     "Oil (WTI)": {
-      "price": 95.37,
-      "change_pct": 0.69
+      "price": 95.49,
+      "change_pct": 0.81
     },
     "Silver": {
-      "price": 73.33,
-      "change_pct": -2.78
+      "price": 73.57,
+      "change_pct": -2.47
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64256,
-      "change_pct": -3.42
+      "price": 64305,
+      "change_pct": -2.21
     },
     "ETH": {
-      "price": 1815.29,
-      "change_pct": -1.88
+      "price": 1807.21,
+      "change_pct": -1.24
     },
     "SOL": {
-      "price": 71.6,
-      "change_pct": -2.62
+      "price": 71.32,
+      "change_pct": -2.07
     },
     "BNB": {
-      "price": 621.62,
-      "change_pct": -4.16
+      "price": 618.38,
+      "change_pct": -2.43
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Sellers are pulling homes off the market at the fastest pace since 2020"
+      "title": "S&P 500 futures fall after index snaps 9-day win streak amid rising Middle East tensions: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "CrowdStrike\u2019s stock falls as investors find more reason to pan cybersecurity earnings"
+      "title": "Only 5% of day traders make money, but the SEC is now making it easier for more people to try it anyway"
     },
     {
       "source": "MarketWatch",
-      "title": "Broadcom\u2019s stock falls despite accelerating AI-chip growth"
+      "title": "How single-stock turbulence presents \u2018asymmetric\u2019 downside risk for a rather calm S&P 500"
     }
   ]
 }
