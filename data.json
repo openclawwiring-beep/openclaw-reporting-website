@@ -1,60 +1,60 @@
 {
-  "generated_at": "Thursday, June 04 2026  07:14 PT",
-  "market_status": "Live \u2014 as of 10:14 ET",
+  "generated_at": "Thursday, June 04 2026  10:27 PT",
+  "market_status": "Live \u2014 as of 13:27 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7548.24,
-      "change_pct": -0.11
+      "price": 7584.86,
+      "change_pct": 0.37
     },
     "Nasdaq": {
-      "price": 26648.22,
-      "change_pct": -0.77
+      "price": 26860.02,
+      "change_pct": 0.02
     },
     "Dow Jones": {
-      "price": 51421.87,
-      "change_pct": 1.35
+      "price": 51494.39,
+      "change_pct": 1.5
     },
     "Russell 2000": {
-      "price": 2904.07,
-      "change_pct": 0.37
+      "price": 2931.87,
+      "change_pct": 1.33
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4523.2,
-      "change_pct": 0.73
+      "price": 4503.7,
+      "change_pct": 0.29
     },
     "Oil (WTI)": {
-      "price": 92.37,
-      "change_pct": -2.88
+      "price": 92.25,
+      "change_pct": -3.01
     },
     "Silver": {
-      "price": 74.46,
-      "change_pct": 1.11
+      "price": 73.96,
+      "change_pct": 0.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64358,
-      "change_pct": -3.54
+      "price": 63132,
+      "change_pct": -4.14
     },
     "ETH": {
-      "price": 1789.0,
-      "change_pct": -3.89
+      "price": 1763.06,
+      "change_pct": -3.44
     },
     "SOL": {
-      "price": 70.42,
-      "change_pct": -5.22
+      "price": 69.06,
+      "change_pct": -5.36
     },
     "BNB": {
-      "price": 605.2,
-      "change_pct": -4.39
+      "price": 601.0,
+      "change_pct": -3.81
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Micron, Marvell, and Broadcom sink, leading chip stocks lower"
+      "title": "Dow jumps 800 points, Nasdaq lags as investors rotate out of chip stocks for banks, retail: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Ciena\u2019s stock is tumbling and taking other optical-networking shares down with it"
+      "title": "I\u2019m 73 and living 100% off dividends from my stocks. How can I create even more income?"
     },
     {
       "source": "MarketWatch",
-      "title": "I own a house with my sister, but the mortgage is in her name. Could this come back to bite me?"
+      "title": "Netflix investors are getting squeamish as Amazon makes inroads in the battle for streaming dominance"
     }
   ]
 }
