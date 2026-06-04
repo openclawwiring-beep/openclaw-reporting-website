@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, June 04 2026  12:37 PT",
-  "market_status": "Live \u2014 as of 15:37 ET",
+  "generated_at": "Thursday, June 04 2026  14:40 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7595.83,
-      "change_pct": 0.52
+      "price": 7584.31,
+      "change_pct": 0.41
     },
     "Nasdaq": {
-      "price": 26902.76,
-      "change_pct": 0.18
+      "price": 26830.96,
+      "change_pct": -0.09
     },
     "Dow Jones": {
-      "price": 51625.62,
-      "change_pct": 1.76
+      "price": 51561.93,
+      "change_pct": 1.73
     },
     "Russell 2000": {
-      "price": 2938.44,
-      "change_pct": 1.55
+      "price": 2935.33,
+      "change_pct": 1.45
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4506.9,
-      "change_pct": 0.36
+      "price": 4502.4,
+      "change_pct": 0.26
     },
     "Oil (WTI)": {
-      "price": 93.14,
-      "change_pct": -2.07
+      "price": 92.91,
+      "change_pct": -2.31
     },
     "Silver": {
-      "price": 74.29,
-      "change_pct": 0.88
+      "price": 74.12,
+      "change_pct": 0.64
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63819,
-      "change_pct": -2.84
+      "price": 63307,
+      "change_pct": -3.17
     },
     "ETH": {
-      "price": 1779.82,
-      "change_pct": -2.13
+      "price": 1763.52,
+      "change_pct": -2.88
     },
     "SOL": {
-      "price": 69.4,
-      "change_pct": -3.91
+      "price": 67.89,
+      "change_pct": -5.7
     },
     "BNB": {
-      "price": 607.48,
-      "change_pct": -2.74
+      "price": 600.26,
+      "change_pct": -4.01
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow jumps 900 points, Nasdaq lags as investors rotate out of chip stocks for banks, retail: Live updates"
+      "title": "Dow surges nearly 900 points for record close as investors rotate away from tech names: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Quantinuum stock opens at $68 per share after IPO"
+      "title": "Trump says he could meet Iran's supreme leader 'if it was to make a deal'"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018No one seems to wear their bling\u2019: Is it safe to show off your expensive jewelry?"
+      "title": "You\u2019re going to pay tax on RMDs \u2014 there\u2019s no way around it. Or is there?"
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX aims for a $75 billion liftoff \u2014 but the IPO faces sky-high odds"
+      "title": "Quantinuum\u2019s buzzy IPO ends with a whimper as stock gives back early gains"
     }
   ]
 }
