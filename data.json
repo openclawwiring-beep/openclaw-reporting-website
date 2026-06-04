@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, June 04 2026  10:27 PT",
-  "market_status": "Live \u2014 as of 13:27 ET",
+  "generated_at": "Thursday, June 04 2026  12:37 PT",
+  "market_status": "Live \u2014 as of 15:37 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7584.86,
-      "change_pct": 0.37
+      "price": 7595.83,
+      "change_pct": 0.52
     },
     "Nasdaq": {
-      "price": 26860.02,
-      "change_pct": 0.02
+      "price": 26902.76,
+      "change_pct": 0.18
     },
     "Dow Jones": {
-      "price": 51494.39,
-      "change_pct": 1.5
+      "price": 51625.62,
+      "change_pct": 1.76
     },
     "Russell 2000": {
-      "price": 2931.87,
-      "change_pct": 1.33
+      "price": 2938.44,
+      "change_pct": 1.55
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4503.7,
-      "change_pct": 0.29
+      "price": 4506.9,
+      "change_pct": 0.36
     },
     "Oil (WTI)": {
-      "price": 92.25,
-      "change_pct": -3.01
+      "price": 93.14,
+      "change_pct": -2.07
     },
     "Silver": {
-      "price": 73.96,
-      "change_pct": 0.42
+      "price": 74.29,
+      "change_pct": 0.88
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63132,
-      "change_pct": -4.14
+      "price": 63819,
+      "change_pct": -2.84
     },
     "ETH": {
-      "price": 1763.06,
-      "change_pct": -3.44
+      "price": 1779.82,
+      "change_pct": -2.13
     },
     "SOL": {
-      "price": 69.06,
-      "change_pct": -5.36
+      "price": 69.4,
+      "change_pct": -3.91
     },
     "BNB": {
-      "price": 601.0,
-      "change_pct": -3.81
+      "price": 607.48,
+      "change_pct": -2.74
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow jumps 800 points, Nasdaq lags as investors rotate out of chip stocks for banks, retail: Live updates"
+      "title": "Dow jumps 900 points, Nasdaq lags as investors rotate out of chip stocks for banks, retail: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Blackstone restricts flagship fund withdrawals as private asset fears reemerge"
+      "title": "Quantinuum stock opens at $68 per share after IPO"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 73 and living 100% off dividends from my stocks. How can I create even more income?"
+      "title": "\u2018No one seems to wear their bling\u2019: Is it safe to show off your expensive jewelry?"
     },
     {
       "source": "MarketWatch",
-      "title": "Netflix investors are getting squeamish as Amazon makes inroads in the battle for streaming dominance"
+      "title": "SpaceX aims for a $75 billion liftoff \u2014 but the IPO faces sky-high odds"
     }
   ]
 }
