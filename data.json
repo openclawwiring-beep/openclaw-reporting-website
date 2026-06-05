@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, June 05 2026  13:24 PT",
+  "generated_at": "Friday, June 05 2026  14:55 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4341.1,
-      "change_pct": -2.85
+      "price": 4353.9,
+      "change_pct": -2.56
     },
     "Oil (WTI)": {
-      "price": 90.36,
-      "change_pct": -2.98
+      "price": 90.25,
+      "change_pct": -3.1
     },
     "Silver": {
-      "price": 67.79,
-      "change_pct": -7.0
+      "price": 68.0,
+      "change_pct": -6.72
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60852,
-      "change_pct": -3.8
+      "price": 61712,
+      "change_pct": -2.61
     },
     "ETH": {
-      "price": 1594.31,
-      "change_pct": -9.92
+      "price": 1613.22,
+      "change_pct": -8.59
     },
     "SOL": {
-      "price": 64.01,
-      "change_pct": -7.05
+      "price": 65.1,
+      "change_pct": -4.28
     },
     "BNB": {
-      "price": 572.31,
-      "change_pct": -5.29
+      "price": 577.66,
+      "change_pct": -3.76
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "For the first time ever, an S&P 500 ETF has over $1 trillion in assets. Here\u2019s why that should worry you."
+      "title": "\u2018No one wears bling\u2019: What does it say about America if people are afraid to wear their jewelry?"
     },
     {
       "source": "MarketWatch",
-      "title": "This hot new financial product has Wall Street spooked. What you should know before trying it out."
+      "title": "Marvell gets a spot in the S&P 500 \u2014 along with this data-center play"
     }
   ]
 }
