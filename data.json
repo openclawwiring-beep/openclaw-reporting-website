@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, June 05 2026  03:30 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, June 05 2026  06:51 PT",
+  "market_status": "Live \u2014 as of 09:51 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7584.31,
-      "change_pct": 0.41
+      "price": 7508.37,
+      "change_pct": -1.01
     },
     "Nasdaq": {
-      "price": 26830.96,
-      "change_pct": -0.09
+      "price": 26402.99,
+      "change_pct": -1.6
     },
     "Dow Jones": {
-      "price": 51561.93,
-      "change_pct": 1.73
+      "price": 51395.92,
+      "change_pct": -0.32
     },
     "Russell 2000": {
-      "price": 2935.33,
-      "change_pct": 1.45
+      "price": 2901.6,
+      "change_pct": -1.14
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4493.1,
-      "change_pct": 0.55
+      "price": 4418.8,
+      "change_pct": -1.11
     },
     "Oil (WTI)": {
-      "price": 92.71,
-      "change_pct": -0.46
+      "price": 91.54,
+      "change_pct": -1.72
     },
     "Silver": {
-      "price": 72.92,
-      "change_pct": 0.03
+      "price": 70.64,
+      "change_pct": -3.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62523,
-      "change_pct": 0.07
+      "price": 61371,
+      "change_pct": -3.69
     },
     "ETH": {
-      "price": 1674.75,
-      "change_pct": -4.52
+      "price": 1641.56,
+      "change_pct": -7.61
     },
     "SOL": {
-      "price": 66.41,
-      "change_pct": -3.1
+      "price": 65.49,
+      "change_pct": -6.64
     },
     "BNB": {
-      "price": 591.94,
-      "change_pct": -0.11
+      "price": 588.06,
+      "change_pct": -2.22
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "The May jobs report will be released Friday. Here's what to expect"
+      "title": "U.S. payrolls rose by 172,000 in May, much more than expected; unemployment at 4.3%"
     },
     {
       "source": "CNBC",
-      "title": "U.S. Senate passes $70 billion in new funds for ICE, Border Patrol"
+      "title": "Alphabet is seeking fresh capital as stock's 4-week losing streak tests investor appetite"
     },
     {
       "source": "MarketWatch",
-      "title": "We thought we found the perfect luxury retirement community, but it\u2019s millions of dollars in debt. Are we trapped?"
+      "title": "\u2018No one wears bling\u2019: What does it say about America if people are afraid to wear their jewelry?"
     },
     {
       "source": "MarketWatch",
-      "title": "I own a house with my sister, but the mortgage is in her name. Could this come back to bite me?"
+      "title": "Elon Musk needs the cultish support of everyday investors to pull off the massive SpaceX IPO"
     }
   ]
 }
