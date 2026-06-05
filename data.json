@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, June 05 2026  06:51 PT",
-  "market_status": "Live \u2014 as of 09:51 ET",
+  "generated_at": "Friday, June 05 2026  09:28 PT",
+  "market_status": "Live \u2014 as of 12:28 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7508.37,
-      "change_pct": -1.01
+      "price": 7461.93,
+      "change_pct": -1.62
     },
     "Nasdaq": {
-      "price": 26402.99,
-      "change_pct": -1.6
+      "price": 26120.34,
+      "change_pct": -2.65
     },
     "Dow Jones": {
-      "price": 51395.92,
-      "change_pct": -0.32
+      "price": 51167.34,
+      "change_pct": -0.77
     },
     "Russell 2000": {
-      "price": 2901.6,
-      "change_pct": -1.14
+      "price": 2864.43,
+      "change_pct": -2.41
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4418.8,
-      "change_pct": -1.11
+      "price": 4352.4,
+      "change_pct": -2.6
     },
     "Oil (WTI)": {
-      "price": 91.54,
-      "change_pct": -1.72
+      "price": 90.38,
+      "change_pct": -2.96
     },
     "Silver": {
-      "price": 70.64,
-      "change_pct": -3.09
+      "price": 68.88,
+      "change_pct": -5.51
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61371,
-      "change_pct": -3.69
+      "price": 61115,
+      "change_pct": -3.96
     },
     "ETH": {
-      "price": 1641.56,
-      "change_pct": -7.61
+      "price": 1598.57,
+      "change_pct": -9.71
     },
     "SOL": {
-      "price": 65.49,
-      "change_pct": -6.64
+      "price": 65.24,
+      "change_pct": -5.92
     },
     "BNB": {
-      "price": 588.06,
-      "change_pct": -2.22
+      "price": 577.97,
+      "change_pct": -4.39
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018No one wears bling\u2019: What does it say about America if people are afraid to wear their jewelry?"
+      "title": "Here\u2019s what wild single-stock price swings may signal for your index fund"
     },
     {
       "source": "MarketWatch",
-      "title": "Elon Musk needs the cultish support of everyday investors to pull off the massive SpaceX IPO"
+      "title": "\u2018DOGE\u2019 wanted to declare 2.7 million people \u2018dead\u2019 at Social Security: whistleblower"
     }
   ]
 }
