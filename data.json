@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, June 05 2026  14:55 PT",
+  "generated_at": "Friday, June 05 2026  16:09 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 61712,
-      "change_pct": -2.61
+      "price": 61618,
+      "change_pct": -3.31
     },
     "ETH": {
-      "price": 1613.22,
-      "change_pct": -8.59
+      "price": 1598.4,
+      "change_pct": -9.83
     },
     "SOL": {
-      "price": 65.1,
-      "change_pct": -4.28
+      "price": 64.67,
+      "change_pct": -5.78
     },
     "BNB": {
-      "price": 577.66,
-      "change_pct": -3.76
+      "price": 577.39,
+      "change_pct": -4.33
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018No one wears bling\u2019: What does it say about America if people are afraid to wear their jewelry?"
+      "title": "Here\u2019s what\u2019s worth streaming in June 2026 on Netflix, Hulu, HBO Max and more"
     },
     {
       "source": "MarketWatch",
-      "title": "Marvell gets a spot in the S&P 500 \u2014 along with this data-center play"
+      "title": "S&P 500 sees $1.8 trillion wipeout, Nasdaq tallies biggest point drop on record: What investors need to know about Friday\u2019s selloff"
     }
   ]
 }
