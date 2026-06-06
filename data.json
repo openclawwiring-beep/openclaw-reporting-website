@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 06 2026  14:36 PT",
+  "generated_at": "Saturday, June 06 2026  16:02 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60933,
-      "change_pct": -1.3
+      "price": 60548,
+      "change_pct": -1.62
     },
     "ETH": {
-      "price": 1563.47,
-      "change_pct": -3.09
+      "price": 1558.08,
+      "change_pct": -2.44
     },
     "SOL": {
-      "price": 62.22,
-      "change_pct": -4.27
+      "price": 61.76,
+      "change_pct": -4.17
     },
     "BNB": {
-      "price": 576.28,
-      "change_pct": -0.25
+      "price": 572.37,
+      "change_pct": -0.81
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Bitcoin is cratering, but a new Wall Street crypto hype is on the rise"
+      "title": "Chinese EVs may hit U.S. within a few years, one way or another"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "A new wave of weight-loss therapies aims to be better than today\u2019s GLP-1s"
+      "title": "\u2018This would be a one-time event\u2019: How can I take extra money from my 401(k) without triggering higher Medicare premiums?"
     },
     {
       "source": "MarketWatch",
-      "title": "Most robo-advisers will never profit from Wall Street\u2019s AI-generated stock picks"
+      "title": "We thought we found the perfect luxury retirement community, but it\u2019s millions of dollars in debt. Are we trapped?"
     }
   ]
 }
