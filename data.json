@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 06 2026  03:52 PT",
+  "generated_at": "Saturday, June 06 2026  05:05 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60431,
-      "change_pct": -3.27
+      "price": 60927,
+      "change_pct": -1.22
     },
     "ETH": {
-      "price": 1539.53,
-      "change_pct": -8.0
+      "price": 1562.45,
+      "change_pct": -5.57
     },
     "SOL": {
-      "price": 61.43,
-      "change_pct": -7.33
+      "price": 62.65,
+      "change_pct": -5.16
     },
     "BNB": {
-      "price": 572.15,
-      "change_pct": -3.36
+      "price": 574.94,
+      "change_pct": -2.11
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers"
+      "title": "Inside the Obama-era Iran nuclear deal that Trump withdrew from"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s what\u2019s worth streaming in June 2026 on Netflix, Hulu, HBO Max and more"
+      "title": "America\u2019s crude inventories are getting perilously low. But that\u2019s not the full story."
     },
     {
       "source": "MarketWatch",
-      "title": "S&P 500 sees $1.8 trillion wipeout, Nasdaq tallies biggest point drop on record: What investors need to know about Friday\u2019s selloff"
+      "title": "Apple\u2019s WWDC will be a make-or-break moment for the company\u2019s fledgling AI strategy"
     }
   ]
 }
