@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 06 2026  01:32 PT",
+  "generated_at": "Saturday, June 06 2026  03:52 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 61362,
-      "change_pct": -2.14
+      "price": 60431,
+      "change_pct": -3.27
     },
     "ETH": {
-      "price": 1584.08,
-      "change_pct": -5.16
+      "price": 1539.53,
+      "change_pct": -8.0
     },
     "SOL": {
-      "price": 63.12,
-      "change_pct": -4.09
+      "price": 61.43,
+      "change_pct": -7.33
     },
     "BNB": {
-      "price": 582.56,
-      "change_pct": -0.79
+      "price": 572.15,
+      "change_pct": -3.36
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Meta's stock sinks on report company could raise tens of billions of dollars to fund AI push"
+      "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers"
     },
     {
       "source": "MarketWatch",
