@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 06 2026  05:05 PT",
+  "generated_at": "Saturday, June 06 2026  07:15 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60927,
-      "change_pct": -1.22
+      "price": 60891,
+      "change_pct": 0.25
     },
     "ETH": {
-      "price": 1562.45,
-      "change_pct": -5.57
+      "price": 1560.6,
+      "change_pct": -3.21
     },
     "SOL": {
-      "price": 62.65,
-      "change_pct": -5.16
+      "price": 62.77,
+      "change_pct": -3.17
     },
     "BNB": {
-      "price": 574.94,
-      "change_pct": -2.11
+      "price": 576.13,
+      "change_pct": -1.9
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nasdaq falls 4% and suffers worst day since April 2025 as traders flee chip stocks: Live updates"
+      "title": "Bitcoin is cratering, but a new Wall Street crypto hype is on the rise"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "America\u2019s crude inventories are getting perilously low. But that\u2019s not the full story."
+      "title": "The U.S. stock market is facing historic downside risk \u2014 these 10 low-volatility stocks can protect your portfolio"
     },
     {
       "source": "MarketWatch",
-      "title": "Apple\u2019s WWDC will be a make-or-break moment for the company\u2019s fledgling AI strategy"
+      "title": "The blowout jobs report is bad news for stocks \u2014 but it shouldn\u2019t force the Fed\u2019s hand on interest rates"
     }
   ]
 }
