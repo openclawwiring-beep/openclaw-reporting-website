@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 06 2026  07:15 PT",
+  "generated_at": "Saturday, June 06 2026  08:50 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60891,
-      "change_pct": 0.25
+      "price": 60775,
+      "change_pct": 0.88
     },
     "ETH": {
-      "price": 1560.6,
-      "change_pct": -3.21
+      "price": 1560.18,
+      "change_pct": -1.17
     },
     "SOL": {
-      "price": 62.77,
-      "change_pct": -3.17
+      "price": 62.11,
+      "change_pct": -3.2
     },
     "BNB": {
-      "price": 576.13,
-      "change_pct": -1.9
+      "price": 575.62,
+      "change_pct": 0.04
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The U.S. stock market is facing historic downside risk \u2014 these 10 low-volatility stocks can protect your portfolio"
+      "title": "Silicon Valley was built on public money \u2014 now it\u2019s fighting California\u2019s billionaire tax"
     },
     {
       "source": "MarketWatch",
-      "title": "The blowout jobs report is bad news for stocks \u2014 but it shouldn\u2019t force the Fed\u2019s hand on interest rates"
+      "title": "Marvell, Micron shares tumble as the chip sector suffers its worst day in 6 years"
     }
   ]
 }
