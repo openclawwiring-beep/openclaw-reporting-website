@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 06 2026  08:50 PT",
+  "generated_at": "Saturday, June 06 2026  10:12 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60775,
-      "change_pct": 0.88
+      "price": 60627,
+      "change_pct": -0.72
     },
     "ETH": {
-      "price": 1560.18,
-      "change_pct": -1.17
+      "price": 1559.42,
+      "change_pct": -2.41
     },
     "SOL": {
-      "price": 62.11,
-      "change_pct": -3.2
+      "price": 61.89,
+      "change_pct": -6.01
     },
     "BNB": {
-      "price": 575.62,
-      "change_pct": 0.04
+      "price": 573.17,
+      "change_pct": -0.45
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Silicon Valley was built on public money \u2014 now it\u2019s fighting California\u2019s billionaire tax"
+      "title": "Don\u2019t rule out a \u2018June swoon\u2019 \u2014 the S&P 500 is pushing its limits"
     },
     {
       "source": "MarketWatch",
-      "title": "Marvell, Micron shares tumble as the chip sector suffers its worst day in 6 years"
+      "title": "This investing strategy digs deeper to find hidden stocks riding the AI wave"
     }
   ]
 }
