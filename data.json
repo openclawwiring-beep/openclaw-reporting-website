@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 06 2026  11:47 PT",
+  "generated_at": "Saturday, June 06 2026  13:08 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60598,
-      "change_pct": 1.49
+      "price": 60534,
+      "change_pct": 0.02
     },
     "ETH": {
-      "price": 1556.85,
-      "change_pct": -0.11
+      "price": 1552.05,
+      "change_pct": -1.43
     },
     "SOL": {
-      "price": 61.76,
-      "change_pct": -3.3
+      "price": 61.43,
+      "change_pct": -4.0
     },
     "BNB": {
-      "price": 574.45,
-      "change_pct": 1.4
+      "price": 573.19,
+      "change_pct": 0.96
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "You\u2019re going to pay tax on RMDs \u2014 there\u2019s no way around it. Or is there?"
+      "title": "Tired of nausea or taking a GLP-1 pill every day? These experimental drugs could be better than Zepbound and Wegovy."
     },
     {
       "source": "MarketWatch",
-      "title": "South Korea is the ultimate backdoor tech play \u2014 but stock investors now face a looming threat"
+      "title": "Most robo-advisers will never profit from Wall Street\u2019s AI-generated stock picks"
     }
   ]
 }
