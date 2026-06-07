@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 07 2026  09:51 PT",
+  "generated_at": "Sunday, June 07 2026  11:03 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62162,
-      "change_pct": 2.24
+      "price": 62175,
+      "change_pct": 2.69
     },
     "ETH": {
-      "price": 1629.99,
-      "change_pct": 4.26
+      "price": 1632.08,
+      "change_pct": 5.04
     },
     "SOL": {
-      "price": 65.14,
-      "change_pct": 5.09
+      "price": 65.35,
+      "change_pct": 6.16
     },
     "BNB": {
-      "price": 594.21,
-      "change_pct": 3.46
+      "price": 596.81,
+      "change_pct": 4.01
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "100 days of the Iran war: How global markets and the economy have been affected, in charts"
+      "title": "'Bring 'em on': Most profitable airline Delta wants United's crown over the Pacific, too"
     },
     {
       "source": "CNBC",
-      "title": "U.S. eyes Iranian assets for Gulf allies' reconstruction, source says"
+      "title": "Trump storms out of interview after being challenged about election fraud claims, DOJ fund"
     },
     {
       "source": "MarketWatch",
