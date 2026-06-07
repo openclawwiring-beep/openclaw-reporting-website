@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 06 2026  16:02 PT",
+  "generated_at": "Saturday, June 06 2026  18:36 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60548,
-      "change_pct": -1.62
+      "price": 61528,
+      "change_pct": 0.7
     },
     "ETH": {
-      "price": 1558.08,
-      "change_pct": -2.44
+      "price": 1590.01,
+      "change_pct": 0.26
     },
     "SOL": {
-      "price": 61.76,
-      "change_pct": -4.17
+      "price": 63.6,
+      "change_pct": -0.98
     },
     "BNB": {
-      "price": 572.37,
-      "change_pct": -0.81
+      "price": 580.14,
+      "change_pct": 0.46
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "U.S. confirms second Texas screwworm case, Canada restricts livestock imports"
+      "title": "U.S. eyes Iranian assets for Gulf allies' reconstruction, source says"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018No one wears bling\u2019: What does it say about America if people are afraid to wear their jewelry?"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018This would be a one-time event\u2019: How can I take extra money from my 401(k) without triggering higher Medicare premiums?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "We thought we found the perfect luxury retirement community, but it\u2019s millions of dollars in debt. Are we trapped?"
     }
   ]
 }
