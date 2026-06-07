@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 06 2026  23:23 PT",
+  "generated_at": "Sunday, June 07 2026  02:45 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 61794,
-      "change_pct": 1.12
+      "price": 62530,
+      "change_pct": 2.62
     },
     "ETH": {
-      "price": 1603.71,
-      "change_pct": 1.71
+      "price": 1634.68,
+      "change_pct": 4.07
     },
     "SOL": {
-      "price": 64.3,
-      "change_pct": 1.88
+      "price": 65.17,
+      "change_pct": 2.74
     },
     "BNB": {
-      "price": 585.06,
-      "change_pct": 1.43
+      "price": 594.33,
+      "change_pct": 3.04
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018No one wears bling\u2019: What does it say about America if people are afraid to wear their jewelry?"
+      "title": "\u2018He\u2019s taking advantage of me\u2019: My husband won\u2019t sell his home so we can combine our finances and live in comfort. Am I unreasonable?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This would be a one-time event\u2019: How can I take extra money from my 401(k) without triggering higher Medicare premiums?"
+      "title": "\u2018No one wears bling\u2019: What does it say about America if people are afraid to wear their jewelry?"
     }
   ]
 }
