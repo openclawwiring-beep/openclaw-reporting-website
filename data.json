@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 07 2026  11:03 PT",
+  "generated_at": "Sunday, June 07 2026  12:54 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62175,
-      "change_pct": 2.69
+      "price": 61355,
+      "change_pct": 1.25
     },
     "ETH": {
-      "price": 1632.08,
-      "change_pct": 5.04
+      "price": 1615.34,
+      "change_pct": 3.91
     },
     "SOL": {
-      "price": 65.35,
-      "change_pct": 6.16
+      "price": 63.97,
+      "change_pct": 3.62
     },
     "BNB": {
-      "price": 596.81,
-      "change_pct": 4.01
+      "price": 588.66,
+      "change_pct": 2.6
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "'Bring 'em on': Most profitable airline Delta wants United's crown over the Pacific, too"
+      "title": "'Bring 'em on': Delta wants United's crown over the Pacific, too"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "These are the market\u2019s new hot stocks as investors flee from tech"
+      "title": "S&P 500 companies can\u2019t stop talking about higher oil prices. But few say they\u2019ll actually hurt profits."
     },
     {
       "source": "MarketWatch",
-      "title": "A new wave of weight-loss therapies aims to be better than today\u2019s GLP-1s"
+      "title": "These are the market\u2019s new hot stocks as investors flee from tech"
     }
   ]
 }
