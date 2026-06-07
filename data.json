@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 07 2026  02:45 PT",
+  "generated_at": "Sunday, June 07 2026  04:47 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62530,
-      "change_pct": 2.62
+      "price": 62648,
+      "change_pct": 2.91
     },
     "ETH": {
-      "price": 1634.68,
-      "change_pct": 4.07
+      "price": 1631.34,
+      "change_pct": 4.37
     },
     "SOL": {
-      "price": 65.17,
-      "change_pct": 2.74
+      "price": 65.03,
+      "change_pct": 4.08
     },
     "BNB": {
-      "price": 594.33,
-      "change_pct": 3.04
+      "price": 593.55,
+      "change_pct": 3.26
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Chinese EVs may hit U.S. within a few years, one way or another"
+      "title": "100 days of the Iran war: How global markets and the economy have been affected, in charts"
     },
     {
       "source": "CNBC",
-      "title": "100 days of the Iran war: How global markets and the economy have been affected, in charts"
+      "title": "U.S. eyes Iranian assets for Gulf allies' reconstruction, source says"
     },
     {
       "source": "MarketWatch",
