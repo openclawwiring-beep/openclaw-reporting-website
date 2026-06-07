@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 06 2026  18:36 PT",
+  "generated_at": "Saturday, June 06 2026  23:23 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4337.1,
-      "change_pct": -2.94
+      "price": 4365.3,
+      "change_pct": -2.31
     },
     "Oil (WTI)": {
       "price": 90.54,
       "change_pct": -2.79
     },
     "Silver": {
-      "price": 68.94,
-      "change_pct": -5.42
+      "price": 69.1,
+      "change_pct": -5.2
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61528,
-      "change_pct": 0.7
+      "price": 61794,
+      "change_pct": 1.12
     },
     "ETH": {
-      "price": 1590.01,
-      "change_pct": 0.26
+      "price": 1603.71,
+      "change_pct": 1.71
     },
     "SOL": {
-      "price": 63.6,
-      "change_pct": -0.98
+      "price": 64.3,
+      "change_pct": 1.88
     },
     "BNB": {
-      "price": 580.14,
-      "change_pct": 0.46
+      "price": 585.06,
+      "change_pct": 1.43
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "U.S. eyes Iranian assets for Gulf allies' reconstruction, source says"
+      "title": "100 days of the Iran war: How global markets and the economy have been affected, in charts"
     },
     {
       "source": "MarketWatch",
