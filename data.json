@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 07 2026  04:47 PT",
+  "generated_at": "Sunday, June 07 2026  06:50 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62648,
-      "change_pct": 2.91
+      "price": 61709,
+      "change_pct": 1.46
     },
     "ETH": {
-      "price": 1631.34,
-      "change_pct": 4.37
+      "price": 1615.79,
+      "change_pct": 3.59
     },
     "SOL": {
-      "price": 65.03,
-      "change_pct": 4.08
+      "price": 64.32,
+      "change_pct": 2.92
     },
     "BNB": {
-      "price": 593.55,
-      "change_pct": 3.26
+      "price": 588.26,
+      "change_pct": 2.25
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018He\u2019s taking advantage of me\u2019: My husband won\u2019t sell his home so we can combine our finances and live in comfort. Am I unreasonable?"
+      "title": "My husband and I are 75. We have $1.5 million in stocks and $425,000 in savings. Is that too much cash?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018No one wears bling\u2019: What does it say about America if people are afraid to wear their jewelry?"
+      "title": "\u2018This would be a one-time event\u2019: How can I take extra money from my 401(k) without triggering higher Medicare premiums?"
     }
   ]
 }
