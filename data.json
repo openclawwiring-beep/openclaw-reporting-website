@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 07 2026  14:11 PT",
+  "generated_at": "Sunday, June 07 2026  15:36 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4365.3,
-      "change_pct": -2.31
+      "price": 4344.5,
+      "change_pct": -0.48
     },
     "Oil (WTI)": {
-      "price": 90.54,
-      "change_pct": -2.79
+      "price": 92.77,
+      "change_pct": 2.46
     },
     "Silver": {
-      "price": 69.1,
-      "change_pct": -5.2
+      "price": 67.57,
+      "change_pct": -2.21
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61739,
-      "change_pct": 1.51
+      "price": 62956,
+      "change_pct": 3.96
     },
     "ETH": {
-      "price": 1624.41,
-      "change_pct": 4.12
+      "price": 1675.31,
+      "change_pct": 7.62
     },
     "SOL": {
-      "price": 64.55,
-      "change_pct": 4.32
+      "price": 66.13,
+      "change_pct": 7.44
     },
     "BNB": {
-      "price": 592.68,
-      "change_pct": 3.05
+      "price": 603.51,
+      "change_pct": 5.39
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump storms out of interview after being challenged about election fraud claims, DOJ fund"
+      "title": "Stock futures fall as Iran attack on Israel shakes fragile ceasefire: Live updates"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "U.S. stock futures slide, oil prices surge as new attacks threaten the cease-fire with Iran"
     },
     {
       "source": "MarketWatch",
       "title": "S&P 500 companies can\u2019t stop talking about higher oil prices. But few say they\u2019ll actually hurt profits."
-    },
-    {
-      "source": "MarketWatch",
-      "title": "These are the market\u2019s new hot stocks as investors flee from tech"
     }
   ]
 }
