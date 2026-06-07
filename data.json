@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 07 2026  12:54 PT",
+  "generated_at": "Sunday, June 07 2026  14:11 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 61355,
-      "change_pct": 1.25
+      "price": 61739,
+      "change_pct": 1.51
     },
     "ETH": {
-      "price": 1615.34,
-      "change_pct": 3.91
+      "price": 1624.41,
+      "change_pct": 4.12
     },
     "SOL": {
-      "price": 63.97,
-      "change_pct": 3.62
+      "price": 64.55,
+      "change_pct": 4.32
     },
     "BNB": {
-      "price": 588.66,
-      "change_pct": 2.6
+      "price": 592.68,
+      "change_pct": 3.05
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "'Bring 'em on': Delta wants United's crown over the Pacific, too"
+      "title": "Fragile ceasefire in jeopardy as Iran reportedly fires missiles at Israel"
     },
     {
       "source": "CNBC",
