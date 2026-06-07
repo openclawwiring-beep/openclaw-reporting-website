@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 07 2026  06:50 PT",
+  "generated_at": "Sunday, June 07 2026  08:23 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 61709,
-      "change_pct": 1.46
+      "price": 61739,
+      "change_pct": 2.04
     },
     "ETH": {
-      "price": 1615.79,
-      "change_pct": 3.59
+      "price": 1625.13,
+      "change_pct": 4.73
     },
     "SOL": {
-      "price": 64.32,
-      "change_pct": 2.92
+      "price": 64.74,
+      "change_pct": 5.37
     },
     "BNB": {
-      "price": 588.26,
-      "change_pct": 2.25
+      "price": 590.52,
+      "change_pct": 3.21
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My husband and I are 75. We have $1.5 million in stocks and $425,000 in savings. Is that too much cash?"
+      "title": "A new wave of weight-loss therapies aims to be better than today\u2019s GLP-1s"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This would be a one-time event\u2019: How can I take extra money from my 401(k) without triggering higher Medicare premiums?"
+      "title": "S&P 500 sees $1.8 trillion wipeout, Nasdaq tallies biggest point drop on record: What investors need to know about Friday\u2019s selloff"
     }
   ]
 }
