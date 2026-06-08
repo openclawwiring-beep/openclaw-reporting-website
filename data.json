@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 07 2026  15:36 PT",
+  "generated_at": "Sunday, June 07 2026  17:06 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4344.5,
-      "change_pct": -0.48
+      "price": 4366.9,
+      "change_pct": 0.04
     },
     "Oil (WTI)": {
-      "price": 92.77,
-      "change_pct": 2.46
+      "price": 92.63,
+      "change_pct": 2.31
     },
     "Silver": {
-      "price": 67.57,
-      "change_pct": -2.21
+      "price": 68.24,
+      "change_pct": -1.26
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62956,
-      "change_pct": 3.96
+      "price": 63196,
+      "change_pct": 3.89
     },
     "ETH": {
-      "price": 1675.31,
-      "change_pct": 7.62
+      "price": 1684.93,
+      "change_pct": 7.52
     },
     "SOL": {
-      "price": 66.13,
-      "change_pct": 7.44
+      "price": 66.38,
+      "change_pct": 6.83
     },
     "BNB": {
-      "price": 603.51,
-      "change_pct": 5.39
+      "price": 604.06,
+      "change_pct": 5.17
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. stock futures slide, oil prices surge as new attacks threaten the cease-fire with Iran"
+      "title": "U.S. stock futures mixed, oil prices surge as new attacks threaten the cease-fire with Iran"
     },
     {
       "source": "MarketWatch",
-      "title": "S&P 500 companies can\u2019t stop talking about higher oil prices. But few say they\u2019ll actually hurt profits."
+      "title": "The Wegovy pill is still dominating the GLP-1 pill market"
     }
   ]
 }
