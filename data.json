@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, June 07 2026  17:06 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Sunday, June 07 2026  22:12 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7383.74,
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4366.9,
-      "change_pct": 0.04
+      "price": 4337.4,
+      "change_pct": -0.84
     },
     "Oil (WTI)": {
-      "price": 92.63,
-      "change_pct": 2.31
+      "price": 94.3,
+      "change_pct": 1.82
     },
     "Silver": {
-      "price": 68.24,
-      "change_pct": -1.26
+      "price": 67.92,
+      "change_pct": -0.92
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63196,
-      "change_pct": 3.89
+      "price": 62638,
+      "change_pct": 1.25
     },
     "ETH": {
-      "price": 1684.93,
-      "change_pct": 7.52
+      "price": 1654.6,
+      "change_pct": 3.51
     },
     "SOL": {
-      "price": 66.38,
-      "change_pct": 6.83
+      "price": 65.35,
+      "change_pct": 2.11
     },
     "BNB": {
-      "price": 604.06,
-      "change_pct": 5.17
+      "price": 595.46,
+      "change_pct": 2.22
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fragile ceasefire in jeopardy as Iran reportedly fires missiles at Israel"
+      "title": "Iran and Israel exchange strikes, threatening fragile ceasefire"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures fall as Iran attack on Israel shakes fragile ceasefire: Live updates"
+      "title": "U.S. stock futures mixed as Mideast tensions rise; South Korea's Kospi plunges 7%: Live updates"
     },
     {
       "source": "MarketWatch",
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The Wegovy pill is still dominating the GLP-1 pill market"
+      "title": "Nvidia strikes a new memory-chip deal \u2014\u00a0but SK Hynix and Samsung shares are under heavy pressure"
     }
   ]
 }
