@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, June 08 2026  03:02 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, June 08 2026  07:33 PT",
+  "market_status": "Live \u2014 as of 10:33 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7383.74,
-      "change_pct": -2.64
+      "price": 7440.52,
+      "change_pct": 0.77
     },
     "Nasdaq": {
-      "price": 25709.43,
-      "change_pct": -4.18
+      "price": 26030.68,
+      "change_pct": 1.25
     },
     "Dow Jones": {
-      "price": 50866.78,
-      "change_pct": -1.35
+      "price": 51026.85,
+      "change_pct": 0.31
     },
     "Russell 2000": {
-      "price": 2833.5,
-      "change_pct": -3.47
+      "price": 2864.49,
+      "change_pct": 1.11
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4319.5,
-      "change_pct": -0.47
+      "price": 4345.2,
+      "change_pct": 0.12
     },
     "Oil (WTI)": {
-      "price": 94.66,
-      "change_pct": 1.19
+      "price": 91.31,
+      "change_pct": -2.39
     },
     "Silver": {
-      "price": 67.35,
-      "change_pct": -0.85
+      "price": 68.08,
+      "change_pct": 0.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63468,
-      "change_pct": 1.72
+      "price": 63808,
+      "change_pct": 2.54
     },
     "ETH": {
-      "price": 1670.19,
-      "change_pct": 2.51
+      "price": 1686.18,
+      "change_pct": 3.16
     },
     "SOL": {
-      "price": 66.29,
-      "change_pct": 1.94
+      "price": 66.9,
+      "change_pct": 3.05
     },
     "BNB": {
-      "price": 599.28,
-      "change_pct": 1.42
+      "price": 601.27,
+      "change_pct": 1.44
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices spike over 4% as Iran and Israel trade strikes"
+      "title": "Iran announces 'end of military operations' against Israel, but warns Lebanon strikes could trigger escalation"
     },
     {
       "source": "CNBC",
-      "title": "Weight loss drug maker sinks 25% after new safety data spooks investors"
+      "title": "WWDC 2026 live updates: Apple AI, Siri and iPhone software in focus"
     },
     {
       "source": "MarketWatch",
-      "title": "My husband won\u2019t sell his home so we can combine our finances and live in comfort. Who is being unreasonable here?"
+      "title": "\u2018I have no experience with investing\u2019: I inherited $2,000. I\u2019m 42 with two children. What should I do with this money?"
     },
     {
       "source": "MarketWatch",
-      "title": "What nine different indicators say about market exuberance, according to Goldman Sachs"
+      "title": "Micron\u2019s stock bounces back in a big way: \u2018The memory trade is alive and well\u2019"
     }
   ]
 }
