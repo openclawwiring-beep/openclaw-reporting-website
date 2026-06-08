@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, June 08 2026  13:13 PT",
+  "generated_at": "Monday, June 08 2026  15:09 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,58 +15,58 @@
       "change_pct": -0.16
     },
     "Russell 2000": {
-      "price": 2856.52,
-      "change_pct": 0.83
+      "price": 2855.42,
+      "change_pct": 0.77
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4351.8,
-      "change_pct": 0.28
+      "price": 4353.8,
+      "change_pct": 0.32
     },
     "Oil (WTI)": {
-      "price": 91.22,
-      "change_pct": -2.49
+      "price": 91.28,
+      "change_pct": -2.43
     },
     "Silver": {
-      "price": 68.25,
-      "change_pct": 0.47
+      "price": 68.32,
+      "change_pct": 0.59
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63310,
-      "change_pct": 2.86
+      "price": 63485,
+      "change_pct": 2.67
     },
     "ETH": {
-      "price": 1684.69,
-      "change_pct": 3.99
+      "price": 1695.81,
+      "change_pct": 3.87
     },
     "SOL": {
-      "price": 67.34,
-      "change_pct": 4.86
+      "price": 67.25,
+      "change_pct": 4.01
     },
     "BNB": {
-      "price": 606.73,
-      "change_pct": 2.73
+      "price": 606.87,
+      "change_pct": 2.12
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "WWDC 2026: Apple makes its big Siri AI reveal, changes Liquid Glass and more"
+      "title": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut"
     },
     {
       "source": "CNBC",
-      "title": "Netanyahu says war with Iran, Hezbollah isn't over after Tehran says it's halting strikes"
+      "title": "WWDC 2026: Apple makes its big Siri AI reveal, changes Liquid Glass and more"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump\u2019s Washington is suddenly moving toward taking stakes in AI companies. Will it actually happen?"
+      "title": "OpenAI files confidentially for IPO \u2014 but there\u2019s a catch"
     },
     {
       "source": "MarketWatch",
-      "title": "An inflation storm is brewing in the Pacific Ocean \u2014 and your portfolio isn\u2019t ready"
+      "title": "My golf buddy worked as a financial adviser. Here\u2019s how I knew his friendship was fake."
     }
   ]
 }
