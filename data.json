@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, June 08 2026  07:33 PT",
-  "market_status": "Live \u2014 as of 10:33 ET",
+  "generated_at": "Monday, June 08 2026  10:51 PT",
+  "market_status": "Live \u2014 as of 13:51 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7440.52,
-      "change_pct": 0.77
+      "price": 7425.58,
+      "change_pct": 0.57
     },
     "Nasdaq": {
-      "price": 26030.68,
-      "change_pct": 1.25
+      "price": 26027.15,
+      "change_pct": 1.24
     },
     "Dow Jones": {
-      "price": 51026.85,
-      "change_pct": 0.31
+      "price": 50830.58,
+      "change_pct": -0.07
     },
     "Russell 2000": {
-      "price": 2864.49,
-      "change_pct": 1.11
+      "price": 2853.97,
+      "change_pct": 0.74
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4345.2,
-      "change_pct": 0.12
+      "price": 4358.2,
+      "change_pct": 0.42
     },
     "Oil (WTI)": {
-      "price": 91.31,
-      "change_pct": -2.39
+      "price": 90.96,
+      "change_pct": -2.77
     },
     "Silver": {
-      "price": 68.08,
-      "change_pct": 0.24
+      "price": 68.4,
+      "change_pct": 0.71
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63808,
-      "change_pct": 2.54
+      "price": 63429,
+      "change_pct": 2.08
     },
     "ETH": {
-      "price": 1686.18,
-      "change_pct": 3.16
+      "price": 1682.41,
+      "change_pct": 3.15
     },
     "SOL": {
-      "price": 66.9,
-      "change_pct": 3.05
+      "price": 66.97,
+      "change_pct": 2.5
     },
     "BNB": {
-      "price": 601.27,
-      "change_pct": 1.44
+      "price": 605.76,
+      "change_pct": 1.59
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran announces 'end of military operations' against Israel, but warns Lebanon strikes could trigger escalation"
+      "title": "WWDC 2026: Siri AI revealed, Apple search updates, Liquid Glass changes"
     },
     {
       "source": "CNBC",
-      "title": "WWDC 2026 live updates: Apple AI, Siri and iPhone software in focus"
+      "title": "Netanyahu says war with Iran, Hezbollah isn't over after Tehran says it's halting strikes"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have no experience with investing\u2019: I inherited $2,000. I\u2019m 42 with two children. What should I do with this money?"
+      "title": "The great gold myth: Why the precious metal isn\u2019t the war hedge we\u2019re told it is"
     },
     {
       "source": "MarketWatch",
-      "title": "Micron\u2019s stock bounces back in a big way: \u2018The memory trade is alive and well\u2019"
+      "title": "Think a tax extension buys you more time to pay? The IRS has some bad news for you"
     }
   ]
 }
