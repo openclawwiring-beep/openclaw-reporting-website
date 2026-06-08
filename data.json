@@ -1,60 +1,60 @@
 {
-  "generated_at": "Monday, June 08 2026  10:51 PT",
-  "market_status": "Live \u2014 as of 13:51 ET",
+  "generated_at": "Monday, June 08 2026  13:13 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7425.58,
-      "change_pct": 0.57
+      "price": 7405.73,
+      "change_pct": 0.3
     },
     "Nasdaq": {
-      "price": 26027.15,
-      "change_pct": 1.24
+      "price": 25929.66,
+      "change_pct": 0.86
     },
     "Dow Jones": {
-      "price": 50830.58,
-      "change_pct": -0.07
+      "price": 50786.01,
+      "change_pct": -0.16
     },
     "Russell 2000": {
-      "price": 2853.97,
-      "change_pct": 0.74
+      "price": 2856.52,
+      "change_pct": 0.83
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4358.2,
-      "change_pct": 0.42
+      "price": 4351.8,
+      "change_pct": 0.28
     },
     "Oil (WTI)": {
-      "price": 90.96,
-      "change_pct": -2.77
+      "price": 91.22,
+      "change_pct": -2.49
     },
     "Silver": {
-      "price": 68.4,
-      "change_pct": 0.71
+      "price": 68.25,
+      "change_pct": 0.47
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63429,
-      "change_pct": 2.08
+      "price": 63310,
+      "change_pct": 2.86
     },
     "ETH": {
-      "price": 1682.41,
-      "change_pct": 3.15
+      "price": 1684.69,
+      "change_pct": 3.99
     },
     "SOL": {
-      "price": 66.97,
-      "change_pct": 2.5
+      "price": 67.34,
+      "change_pct": 4.86
     },
     "BNB": {
-      "price": 605.76,
-      "change_pct": 1.59
+      "price": 606.73,
+      "change_pct": 2.73
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "WWDC 2026: Siri AI revealed, Apple search updates, Liquid Glass changes"
+      "title": "WWDC 2026: Apple makes its big Siri AI reveal, changes Liquid Glass and more"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The great gold myth: Why the precious metal isn\u2019t the war hedge we\u2019re told it is"
+      "title": "Trump\u2019s Washington is suddenly moving toward taking stakes in AI companies. Will it actually happen?"
     },
     {
       "source": "MarketWatch",
-      "title": "Think a tax extension buys you more time to pay? The IRS has some bad news for you"
+      "title": "An inflation storm is brewing in the Pacific Ocean \u2014 and your portfolio isn\u2019t ready"
     }
   ]
 }
