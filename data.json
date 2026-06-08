@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, June 08 2026  15:09 PT",
+  "generated_at": "Monday, June 08 2026  16:45 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4353.8,
-      "change_pct": 0.32
+      "price": 4343.8,
+      "change_pct": 0.09
     },
     "Oil (WTI)": {
-      "price": 91.28,
-      "change_pct": -2.43
+      "price": 91.39,
+      "change_pct": -2.31
     },
     "Silver": {
-      "price": 68.32,
-      "change_pct": 0.59
+      "price": 68.1,
+      "change_pct": 0.26
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63485,
-      "change_pct": 2.67
+      "price": 63093,
+      "change_pct": -0.44
     },
     "ETH": {
-      "price": 1695.81,
-      "change_pct": 3.87
+      "price": 1695.75,
+      "change_pct": 0.51
     },
     "SOL": {
-      "price": 67.25,
-      "change_pct": 4.01
+      "price": 66.84,
+      "change_pct": 0.81
     },
     "BNB": {
-      "price": 606.87,
-      "change_pct": 2.12
+      "price": 602.65,
+      "change_pct": -0.31
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "OpenAI files confidentially for IPO \u2014 but there\u2019s a catch"
+      "title": "Elon Musk says SpaceX doesn\u2019t need \u2018magic\u2019 to put AI data centers up in space"
     },
     {
       "source": "MarketWatch",
-      "title": "My golf buddy worked as a financial adviser. Here\u2019s how I knew his friendship was fake."
+      "title": "Knicks ticket prices plunge more than 50% ahead of Game 3 at MSG \u2014 but not just because Trump\u2019s going"
     }
   ]
 }
