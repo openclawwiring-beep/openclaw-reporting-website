@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, June 09 2026  14:17 PT",
+  "generated_at": "Tuesday, June 09 2026  15:57 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4284.8,
-      "change_pct": -1.72
+      "price": 4263.8,
+      "change_pct": -2.2
     },
     "Oil (WTI)": {
-      "price": 88.7,
-      "change_pct": -1.59
+      "price": 89.03,
+      "change_pct": -1.22
     },
     "Silver": {
-      "price": 65.46,
-      "change_pct": -3.86
+      "price": 65.04,
+      "change_pct": -4.48
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62052,
-      "change_pct": -2.45
+      "price": 61715,
+      "change_pct": -2.66
     },
     "ETH": {
-      "price": 1657.29,
-      "change_pct": -2.87
+      "price": 1641.14,
+      "change_pct": -3.6
     },
     "SOL": {
-      "price": 65.48,
-      "change_pct": -3.59
+      "price": 64.94,
+      "change_pct": -3.14
     },
     "BNB": {
-      "price": 595.83,
-      "change_pct": -2.12
+      "price": 592.99,
+      "change_pct": -2.1
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "The May inflation numbers are due out Wednesday morning. Here's what to expect"
+      "title": "U.S. military launches strikes in retaliation for Iran downing helicopter"
     },
     {
       "source": "MarketWatch",
-      "title": "Angst over SpaceX IPO adds to dive in tech stocks"
+      "title": "Super Micro stock plunges as $7 billion equity raise overshadows booming backlog"
     },
     {
       "source": "MarketWatch",
-      "title": "A powerful inflation storm is brewing \u2014 and your portfolio isn\u2019t ready"
+      "title": "Apple\u2019s AI could usher in a historic upgrade cycle that investors are overlooking"
     }
   ]
 }
