@@ -1,18 +1,18 @@
 {
-  "generated_at": "Tuesday, June 09 2026  03:45 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, June 09 2026  06:43 PT",
+  "market_status": "Live \u2014 as of 09:43 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7405.73,
-      "change_pct": 0.3
+      "price": 7468.16,
+      "change_pct": 0.84
     },
     "Nasdaq": {
-      "price": 25929.66,
-      "change_pct": 0.86
+      "price": 26177.96,
+      "change_pct": 0.96
     },
     "Dow Jones": {
-      "price": 50786.01,
-      "change_pct": -0.16
+      "price": 51171.71,
+      "change_pct": 0.75
     },
     "Russell 2000": {
       "price": 2855.42,
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4356.6,
+      "price": 4356.8,
       "change_pct": -0.07
     },
     "Oil (WTI)": {
-      "price": 89.32,
-      "change_pct": -0.9
+      "price": 88.49,
+      "change_pct": -1.82
     },
     "Silver": {
-      "price": 68.6,
-      "change_pct": 0.75
+      "price": 68.36,
+      "change_pct": 0.4
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62678,
-      "change_pct": -0.81
+      "price": 62215,
+      "change_pct": -1.96
     },
     "ETH": {
-      "price": 1671.17,
-      "change_pct": 0.02
+      "price": 1666.23,
+      "change_pct": -0.96
     },
     "SOL": {
-      "price": 66.12,
-      "change_pct": -0.03
+      "price": 65.73,
+      "change_pct": -1.33
     },
     "BNB": {
-      "price": 599.42,
-      "change_pct": 0.2
+      "price": 594.42,
+      "change_pct": -0.85
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says Iran deal could be reached in 'two or three days' and Strait of Hormuz will reopen 'immediately'"
+      "title": "Oil prices fall as Trump tries to convince market an Iran deal is close despite recent violence"
     },
     {
       "source": "CNBC",
-      "title": "51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey"
+      "title": "Stocks rise as chip rebound continues, oil retreats: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "A massive 16% market swing just rocked South Korea over 24 hours. The retail \u2018ants\u2019 holding the wheel are driving dangerously."
+      "title": "This tiny mutual fund outperforms by backing the world\u2019s best management teams"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 60, retired with $3 million. My fianc\u00e9e, 55, has $1 million but plans to work for the next 10 years. Are we compatible?"
+      "title": "Washington is quietly changing the rules for this vital American industry \u2014 and the timing couldn\u2019t be worse"
     }
   ]
 }
