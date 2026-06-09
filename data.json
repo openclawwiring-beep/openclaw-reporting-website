@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, June 08 2026  20:25 PT",
+  "generated_at": "Tuesday, June 09 2026  00:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4364.2,
-      "change_pct": 0.56
+      "price": 4361.2,
+      "change_pct": 0.04
     },
     "Oil (WTI)": {
-      "price": 90.43,
-      "change_pct": -3.34
+      "price": 89.98,
+      "change_pct": -1.14
     },
     "Silver": {
-      "price": 67.97,
-      "change_pct": 0.07
+      "price": 68.54,
+      "change_pct": 0.65
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62841,
-      "change_pct": -0.62
+      "price": 63299,
+      "change_pct": 0.65
     },
     "ETH": {
-      "price": 1667.94,
-      "change_pct": -0.9
+      "price": 1686.91,
+      "change_pct": 1.36
     },
     "SOL": {
-      "price": 65.92,
-      "change_pct": -0.74
+      "price": 67.08,
+      "change_pct": 2.5
     },
     "BNB": {
-      "price": 598.7,
-      "change_pct": -0.62
+      "price": 604.02,
+      "change_pct": 1.56
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "China trade defies Iran war drag as exports, imports beat estimates in May"
+      "title": "China's May shipments to U.S. clock 5-year high growth at 35% as overall exports jump on tech boost"
     },
     {
       "source": "MarketWatch",
