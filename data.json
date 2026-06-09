@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, June 09 2026  12:11 PT",
-  "market_status": "Live \u2014 as of 15:11 ET",
+  "generated_at": "Tuesday, June 09 2026  14:17 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7367.71,
-      "change_pct": -0.51
+      "price": 7386.65,
+      "change_pct": -0.26
     },
     "Nasdaq": {
-      "price": 25601.79,
-      "change_pct": -1.26
+      "price": 25678.82,
+      "change_pct": -0.97
     },
     "Dow Jones": {
-      "price": 50836.37,
-      "change_pct": 0.09
+      "price": 50872.11,
+      "change_pct": 0.17
     },
     "Russell 2000": {
-      "price": 2865.01,
-      "change_pct": 0.33
+      "price": 2867.02,
+      "change_pct": 0.41
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4292.4,
-      "change_pct": -1.55
+      "price": 4284.8,
+      "change_pct": -1.72
     },
     "Oil (WTI)": {
-      "price": 88.04,
-      "change_pct": -2.32
+      "price": 88.7,
+      "change_pct": -1.59
     },
     "Silver": {
-      "price": 65.74,
-      "change_pct": -3.45
+      "price": 65.46,
+      "change_pct": -3.86
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61777,
-      "change_pct": -2.64
+      "price": 62052,
+      "change_pct": -2.45
     },
     "ETH": {
-      "price": 1649.13,
-      "change_pct": -2.12
+      "price": 1657.29,
+      "change_pct": -2.87
     },
     "SOL": {
-      "price": 65.17,
-      "change_pct": -3.47
+      "price": 65.48,
+      "change_pct": -3.59
     },
     "BNB": {
-      "price": 593.56,
-      "change_pct": -2.22
+      "price": 595.83,
+      "change_pct": -2.12
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says U.S. must 'respond' after Iran shoots down helicopter over Hormuz Strait"
-    },
-    {
-      "source": "CNBC",
       "title": "SpaceX IPO explained: The price is set, but retail allocation still up in the air"
     },
     {
-      "source": "MarketWatch",
-      "title": "\u2018We pay $100 per month\u2019: My husband is in his mid-60s and has a $500,000 life-insurance policy. Is it time to cancel it?"
+      "source": "CNBC",
+      "title": "The May inflation numbers are due out Wednesday morning. Here's what to expect"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have no experience with investing\u2019: I inherited $2,000. I\u2019m 42 with two children. What should I do with this money?"
+      "title": "Angst over SpaceX IPO adds to dive in tech stocks"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A powerful inflation storm is brewing \u2014 and your portfolio isn\u2019t ready"
     }
   ]
 }
