@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, June 09 2026  00:02 PT",
+  "generated_at": "Tuesday, June 09 2026  03:45 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4361.2,
-      "change_pct": 0.04
+      "price": 4356.6,
+      "change_pct": -0.07
     },
     "Oil (WTI)": {
-      "price": 89.98,
-      "change_pct": -1.14
+      "price": 89.32,
+      "change_pct": -0.9
     },
     "Silver": {
-      "price": 68.54,
-      "change_pct": 0.65
+      "price": 68.6,
+      "change_pct": 0.75
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63299,
-      "change_pct": 0.65
+      "price": 62678,
+      "change_pct": -0.81
     },
     "ETH": {
-      "price": 1686.91,
-      "change_pct": 1.36
+      "price": 1671.17,
+      "change_pct": 0.02
     },
     "SOL": {
-      "price": 67.08,
-      "change_pct": 2.5
+      "price": 66.12,
+      "change_pct": -0.03
     },
     "BNB": {
-      "price": 604.02,
-      "change_pct": 1.56
+      "price": 599.42,
+      "change_pct": 0.2
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut"
+      "title": "Trump says Iran deal could be reached in 'two or three days' and Strait of Hormuz will reopen 'immediately'"
     },
     {
       "source": "CNBC",
-      "title": "China's May shipments to U.S. clock 5-year high growth at 35% as overall exports jump on tech boost"
+      "title": "51% of U.S. adults say the American Dream is out of reach for most people right now: CNBC survey"
     },
     {
       "source": "MarketWatch",
-      "title": "Your tech portfolio could be on the wrong side of the AI boom"
+      "title": "A massive 16% market swing just rocked South Korea over 24 hours. The retail \u2018ants\u2019 holding the wheel are driving dangerously."
     },
     {
       "source": "MarketWatch",
-      "title": "BofA sees \u2018red flags\u2019 in the U.S. stock market. Here\u2019s what to buy now."
+      "title": "I\u2019m 60, retired with $3 million. My fianc\u00e9e, 55, has $1 million but plans to work for the next 10 years. Are we compatible?"
     }
   ]
 }
