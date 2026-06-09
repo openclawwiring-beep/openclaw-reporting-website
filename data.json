@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, June 08 2026  16:45 PT",
+  "generated_at": "Monday, June 08 2026  20:25 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4343.8,
-      "change_pct": 0.09
+      "price": 4364.2,
+      "change_pct": 0.56
     },
     "Oil (WTI)": {
-      "price": 91.39,
-      "change_pct": -2.31
+      "price": 90.43,
+      "change_pct": -3.34
     },
     "Silver": {
-      "price": 68.1,
-      "change_pct": 0.26
+      "price": 67.97,
+      "change_pct": 0.07
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63093,
-      "change_pct": -0.44
+      "price": 62841,
+      "change_pct": -0.62
     },
     "ETH": {
-      "price": 1695.75,
-      "change_pct": 0.51
+      "price": 1667.94,
+      "change_pct": -0.9
     },
     "SOL": {
-      "price": 66.84,
-      "change_pct": 0.81
+      "price": 65.92,
+      "change_pct": -0.74
     },
     "BNB": {
-      "price": 602.65,
-      "change_pct": -0.31
+      "price": 598.7,
+      "change_pct": -0.62
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "WWDC 2026: Apple makes its big Siri AI reveal, changes Liquid Glass and more"
+      "title": "China trade defies Iran war drag as exports, imports beat estimates in May"
     },
     {
       "source": "MarketWatch",
-      "title": "Elon Musk says SpaceX doesn\u2019t need \u2018magic\u2019 to put AI data centers up in space"
+      "title": "Your tech portfolio could be on the wrong side of the AI boom"
     },
     {
       "source": "MarketWatch",
-      "title": "Knicks ticket prices plunge more than 50% ahead of Game 3 at MSG \u2014 but not just because Trump\u2019s going"
+      "title": "BofA sees \u2018red flags\u2019 in the U.S. stock market. Here\u2019s what to buy now."
     }
   ]
 }
