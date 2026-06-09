@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, June 09 2026  06:43 PT",
-  "market_status": "Live \u2014 as of 09:43 ET",
+  "generated_at": "Tuesday, June 09 2026  09:30 PT",
+  "market_status": "Live \u2014 as of 12:30 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7468.16,
-      "change_pct": 0.84
+      "price": 7276.91,
+      "change_pct": -1.74
     },
     "Nasdaq": {
-      "price": 26177.96,
-      "change_pct": 0.96
+      "price": 25166.69,
+      "change_pct": -2.94
     },
     "Dow Jones": {
-      "price": 51171.71,
-      "change_pct": 0.75
+      "price": 50455.06,
+      "change_pct": -0.66
     },
     "Russell 2000": {
-      "price": 2855.42,
-      "change_pct": 0.77
+      "price": 2818.08,
+      "change_pct": -1.32
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4356.8,
-      "change_pct": -0.07
-    },
-    "Oil (WTI)": {
-      "price": 88.49,
+      "price": 4280.6,
       "change_pct": -1.82
     },
+    "Oil (WTI)": {
+      "price": 86.53,
+      "change_pct": -3.99
+    },
     "Silver": {
-      "price": 68.36,
-      "change_pct": 0.4
+      "price": 65.21,
+      "change_pct": -4.22
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62215,
-      "change_pct": -1.96
+      "price": 60982,
+      "change_pct": -4.29
     },
     "ETH": {
-      "price": 1666.23,
-      "change_pct": -0.96
+      "price": 1628.47,
+      "change_pct": -3.78
     },
     "SOL": {
-      "price": 65.73,
-      "change_pct": -1.33
+      "price": 64.0,
+      "change_pct": -5.18
     },
     "BNB": {
-      "price": 594.42,
-      "change_pct": -0.85
+      "price": 586.03,
+      "change_pct": -3.22
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices fall as Trump tries to convince market an Iran deal is close despite recent violence"
+      "title": "Stocks tumble, with Nasdaq shedding 3% as chip comeback fizzles: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Stocks rise as chip rebound continues, oil retreats: Live updates"
+      "title": "Social Security retirement trust fund may be depleted in 2032, new trustees report finds"
     },
     {
       "source": "MarketWatch",
-      "title": "This tiny mutual fund outperforms by backing the world\u2019s best management teams"
+      "title": "Fund a grandchild\u2019s retirement tax-free from birth \u2014 if you can trust an 18-year-old with the money"
     },
     {
       "source": "MarketWatch",
-      "title": "Washington is quietly changing the rules for this vital American industry \u2014 and the timing couldn\u2019t be worse"
+      "title": "Apple\u2019s AI could usher in a historic upgrade cycle that investors are overlooking"
     }
   ]
 }
