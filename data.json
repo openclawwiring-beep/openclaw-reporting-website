@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, June 10 2026  01:50 PT",
+  "generated_at": "Wednesday, June 10 2026  05:19 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4196.9,
-      "change_pct": -0.27
+      "price": 4168.7,
+      "change_pct": -0.94
     },
     "Oil (WTI)": {
-      "price": 88.11,
-      "change_pct": -0.56
+      "price": 89.97,
+      "change_pct": 1.53
     },
     "Silver": {
-      "price": 64.12,
-      "change_pct": -0.19
+      "price": 63.72,
+      "change_pct": -0.8
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61150,
-      "change_pct": -2.71
+      "price": 61090,
+      "change_pct": -2.65
     },
     "ETH": {
-      "price": 1618.75,
-      "change_pct": -3.33
+      "price": 1620.83,
+      "change_pct": -3.41
     },
     "SOL": {
-      "price": 63.46,
-      "change_pct": -4.84
+      "price": 63.42,
+      "change_pct": -4.38
     },
     "BNB": {
-      "price": 583.91,
-      "change_pct": -3.05
+      "price": 583.44,
+      "change_pct": -2.37
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SoftBank sinks over 8% as Asia tech stocks tumble, tracking Wall Street losses"
+      "title": "Trump says Iran will 'pay the price' and claims they have 'taken too long' to agree to a deal"
     },
     {
       "source": "CNBC",
-      "title": "Tehran targets Bahrain, Kuwait and Jordan after U.S. strikes Iranian assets"
+      "title": "The May inflation numbers are due out Wednesday morning. Here's what to expect"
     },
     {
       "source": "MarketWatch",
-      "title": "The SpaceX IPO could lead to 8% of America\u2019s current-account deficit being refinanced in a single day"
+      "title": "\u2018I have no experience with investing\u2019: I inherited $2,000. I\u2019m 42 with two children. What should I do with this money?"
     },
     {
       "source": "MarketWatch",
-      "title": "Oracle\u2019s stock has surged on AI hype. Now it has to deliver the earnings to match."
+      "title": "Social Security could face an automatic 22% cut in 2032. These 4 moves will protect your retirement."
     }
   ]
 }
