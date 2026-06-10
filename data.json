@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, June 10 2026  14:34 PT",
+  "generated_at": "Wednesday, June 10 2026  16:24 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,48 +21,48 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4094.1,
-      "change_pct": -2.71
+      "price": 4046.9,
+      "change_pct": -3.83
     },
     "Oil (WTI)": {
-      "price": 91.85,
-      "change_pct": 3.66
+      "price": 93.55,
+      "change_pct": 5.57
     },
     "Silver": {
-      "price": 63.5,
-      "change_pct": -1.15
+      "price": 61.92,
+      "change_pct": -3.61
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61621,
-      "change_pct": -0.27
+      "price": 61423,
+      "change_pct": -0.51
     },
     "ETH": {
-      "price": 1621.29,
-      "change_pct": -1.8
+      "price": 1619.42,
+      "change_pct": -1.1
     },
     "SOL": {
-      "price": 62.99,
-      "change_pct": -3.3
+      "price": 62.84,
+      "change_pct": -3.38
     },
     "BNB": {
-      "price": 585.73,
-      "change_pct": -1.54
+      "price": 585.37,
+      "change_pct": -1.2
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oracle beats on earnings, but stock drops on plans to raise another $20 billion"
+      "title": "U.S. military begins strikes on 'multiple targets' in Iran at Trump's direction"
     },
     {
       "source": "CNBC",
-      "title": "Trump keeps saying an Iran deal is close. Markets keep believing it"
+      "title": "Oracle beats on earnings, but stock drops on plans to raise another $20 billion"
     },
     {
       "source": "MarketWatch",
-      "title": "Why Nike saw its stock downgraded a day before the World Cup\u2019s kickoff"
+      "title": "Thinking about insider trading on prediction markets? Kalshi wants to make an example of you."
     },
     {
       "source": "MarketWatch",
