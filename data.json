@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, June 10 2026  09:13 PT",
-  "market_status": "Live \u2014 as of 12:13 ET",
+  "generated_at": "Wednesday, June 10 2026  12:09 PT",
+  "market_status": "Live \u2014 as of 15:09 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7315.18,
-      "change_pct": -0.97
+      "price": 7291.97,
+      "change_pct": -1.28
     },
     "Nasdaq": {
-      "price": 25347.67,
-      "change_pct": -1.29
+      "price": 25267.16,
+      "change_pct": -1.6
     },
     "Dow Jones": {
-      "price": 50259.62,
-      "change_pct": -1.2
+      "price": 50100.53,
+      "change_pct": -1.52
     },
     "Russell 2000": {
-      "price": 2863.99,
-      "change_pct": -0.12
+      "price": 2845.24,
+      "change_pct": -0.77
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4148.5,
-      "change_pct": -1.42
+      "price": 4124.0,
+      "change_pct": -2.0
     },
     "Oil (WTI)": {
-      "price": 90.82,
-      "change_pct": 2.49
+      "price": 90.19,
+      "change_pct": 1.78
     },
     "Silver": {
-      "price": 64.97,
-      "change_pct": 1.14
+      "price": 64.79,
+      "change_pct": 0.86
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62348,
-      "change_pct": 2.17
+      "price": 61789,
+      "change_pct": -0.03
     },
     "ETH": {
-      "price": 1652.25,
-      "change_pct": 1.32
+      "price": 1628.94,
+      "change_pct": -1.31
     },
     "SOL": {
-      "price": 65.23,
-      "change_pct": 1.78
+      "price": 63.7,
+      "change_pct": -2.33
     },
     "BNB": {
-      "price": 594.79,
-      "change_pct": 1.51
+      "price": 589.09,
+      "change_pct": -0.81
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump pledges more Iran attacks, saying U.S. will be 'attacking them very hard'"
+      "title": "Trump pledges more Iran strikes, saying U.S. will be 'attacking them very hard'"
     },
     {
       "source": "CNBC",
-      "title": "Here's the inflation breakdown for May 2026 \u2014 in one chart"
+      "title": "Trump says 'I love the inflation' after consumer price index hits 3-year high"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This would be a one-time event\u2019: How can I take extra money from my 401(k) without triggering higher Medicare premiums?"
+      "title": "Gold enters a bear market for the first time since 2022. How the \u2018safe-haven\u2019 metal got here."
     },
     {
       "source": "MarketWatch",
-      "title": "My 20-year-old son wanted his first credit card. I told him to skip the most obvious advice and do these 4 things instead."
+      "title": "A will isn\u2019t enough: 3 ways to help your loved ones before you die"
     }
   ]
 }
