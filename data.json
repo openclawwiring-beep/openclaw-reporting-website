@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, June 10 2026  05:19 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, June 10 2026  09:13 PT",
+  "market_status": "Live \u2014 as of 12:13 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7386.65,
-      "change_pct": -0.26
-    },
-    "Nasdaq": {
-      "price": 25678.82,
+      "price": 7315.18,
       "change_pct": -0.97
     },
+    "Nasdaq": {
+      "price": 25347.67,
+      "change_pct": -1.29
+    },
     "Dow Jones": {
-      "price": 50872.11,
-      "change_pct": 0.17
+      "price": 50259.62,
+      "change_pct": -1.2
     },
     "Russell 2000": {
-      "price": 2867.02,
-      "change_pct": 0.41
+      "price": 2863.99,
+      "change_pct": -0.12
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4168.7,
-      "change_pct": -0.94
+      "price": 4148.5,
+      "change_pct": -1.42
     },
     "Oil (WTI)": {
-      "price": 89.97,
-      "change_pct": 1.53
+      "price": 90.82,
+      "change_pct": 2.49
     },
     "Silver": {
-      "price": 63.72,
-      "change_pct": -0.8
+      "price": 64.97,
+      "change_pct": 1.14
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61090,
-      "change_pct": -2.65
+      "price": 62348,
+      "change_pct": 2.17
     },
     "ETH": {
-      "price": 1620.83,
-      "change_pct": -3.41
+      "price": 1652.25,
+      "change_pct": 1.32
     },
     "SOL": {
-      "price": 63.42,
-      "change_pct": -4.38
+      "price": 65.23,
+      "change_pct": 1.78
     },
     "BNB": {
-      "price": 583.44,
-      "change_pct": -2.37
+      "price": 594.79,
+      "change_pct": 1.51
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says Iran will 'pay the price' and claims they have 'taken too long' to agree to a deal"
+      "title": "Trump pledges more Iran attacks, saying U.S. will be 'attacking them very hard'"
     },
     {
       "source": "CNBC",
-      "title": "The May inflation numbers are due out Wednesday morning. Here's what to expect"
+      "title": "Here's the inflation breakdown for May 2026 \u2014 in one chart"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have no experience with investing\u2019: I inherited $2,000. I\u2019m 42 with two children. What should I do with this money?"
+      "title": "\u2018This would be a one-time event\u2019: How can I take extra money from my 401(k) without triggering higher Medicare premiums?"
     },
     {
       "source": "MarketWatch",
-      "title": "Social Security could face an automatic 22% cut in 2032. These 4 moves will protect your retirement."
+      "title": "My 20-year-old son wanted his first credit card. I told him to skip the most obvious advice and do these 4 things instead."
     }
   ]
 }
