@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, June 10 2026  18:59 PT",
+  "generated_at": "Wednesday, June 10 2026  23:58 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4131.0,
-      "change_pct": -1.83
+      "price": 4112.9,
+      "change_pct": 0.42
     },
     "Oil (WTI)": {
-      "price": 91.53,
-      "change_pct": 3.3
+      "price": 90.55,
+      "change_pct": -1.37
     },
     "Silver": {
-      "price": 64.41,
-      "change_pct": 0.26
+      "price": 64.1,
+      "change_pct": 0.61
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62165,
-      "change_pct": 0.8
+      "price": 62694,
+      "change_pct": 2.06
     },
     "ETH": {
-      "price": 1641.68,
-      "change_pct": 0.23
+      "price": 1653.11,
+      "change_pct": 1.36
     },
     "SOL": {
-      "price": 64.9,
-      "change_pct": -0.34
+      "price": 65.07,
+      "change_pct": 1.33
     },
     "BNB": {
-      "price": 592.77,
-      "change_pct": 0.2
+      "price": 595.35,
+      "change_pct": 1.67
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. military completes strikes on 'multiple targets' in Iran launched at Trump's direction"
+      "title": "Kuwait closes airspace, Israel warns of launches from Lebanon after U.S strikes in Iran"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My plumber charged $160 to fix the cistern on my toilet \u2014 but created another problem. Do I pay again?"
+      "title": "Markets are pricing in a rate hike by the European Central Bank \u2014 which one top economist sees as a \u2018mistake in the making\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "My elderly mother and I own a home together. Will Medicaid force its sale?"
+      "title": "My plumber charged $160 to fix the cistern on my toilet \u2014 but created another problem. Do I pay again?"
     }
   ]
 }
