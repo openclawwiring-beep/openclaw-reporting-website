@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, June 11 2026  14:19 PT",
+  "generated_at": "Thursday, June 11 2026  16:05 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4233.8,
-      "change_pct": 3.38
+      "price": 4255.7,
+      "change_pct": 3.91
     },
     "Oil (WTI)": {
-      "price": 86.42,
-      "change_pct": -5.87
+      "price": 85.86,
+      "change_pct": -6.48
     },
     "Silver": {
-      "price": 67.49,
-      "change_pct": 5.94
+      "price": 67.9,
+      "change_pct": 6.59
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63469,
-      "change_pct": 3.15
+      "price": 63356,
+      "change_pct": 3.4
     },
     "ETH": {
-      "price": 1680.4,
-      "change_pct": 3.72
+      "price": 1671.2,
+      "change_pct": 3.52
     },
     "SOL": {
-      "price": 66.94,
-      "change_pct": 6.52
+      "price": 66.75,
+      "change_pct": 6.49
     },
     "BNB": {
-      "price": 603.75,
-      "change_pct": 3.21
+      "price": 602.42,
+      "change_pct": 3.27
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump claims Iran war settled 'subject to finalization,' expects signing in 'next few days'"
+      "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards"
     },
     {
       "source": "CNBC",
-      "title": "Trump picks former SEC Chairman Jay Clayton as national intelligence director"
+      "title": "SpaceX cuts retail IPO allocation to low 20% range, source says"
     },
     {
       "source": "MarketWatch",
-      "title": "Foster children are getting their own version of \u2018Trump accounts,\u2019 but major questions remain"
+      "title": "Adobe is losing another top executive, and investors don\u2019t like it"
     },
     {
       "source": "MarketWatch",
-      "title": "Missed the rally in optical stocks? Coherent and Lumentum just got more attractive, according to J.P. Morgan."
+      "title": "The SpaceX IPO is drawing historic demand from foreign investors. But don\u2019t expect a dollar-buying frenzy."
     }
   ]
 }
