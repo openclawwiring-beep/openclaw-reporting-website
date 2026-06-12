@@ -1,60 +1,60 @@
 {
-  "generated_at": "Friday, June 12 2026  10:21 PT",
-  "market_status": "Live \u2014 as of 13:21 ET",
+  "generated_at": "Friday, June 12 2026  12:29 PT",
+  "market_status": "Live \u2014 as of 15:29 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7438.89,
-      "change_pct": 0.62
+      "price": 7428.33,
+      "change_pct": 0.48
     },
     "Nasdaq": {
-      "price": 25937.28,
-      "change_pct": 0.49
+      "price": 25884.23,
+      "change_pct": 0.29
     },
     "Dow Jones": {
-      "price": 51277.52,
-      "change_pct": 0.86
+      "price": 51226.71,
+      "change_pct": 0.76
     },
     "Russell 2000": {
-      "price": 2957.12,
-      "change_pct": 1.24
+      "price": 2948.49,
+      "change_pct": 0.95
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4239.4,
-      "change_pct": 0.44
+      "price": 4236.4,
+      "change_pct": 0.37
     },
     "Oil (WTI)": {
-      "price": 84.91,
-      "change_pct": -1.59
+      "price": 84.47,
+      "change_pct": -2.1
     },
     "Silver": {
-      "price": 67.89,
-      "change_pct": 0.91
+      "price": 67.96,
+      "change_pct": 1.01
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63818,
-      "change_pct": 2.4
+      "price": 63714,
+      "change_pct": 0.26
     },
     "ETH": {
-      "price": 1669.91,
-      "change_pct": 2.27
+      "price": 1669.34,
+      "change_pct": -0.55
     },
     "SOL": {
-      "price": 67.64,
-      "change_pct": 4.03
+      "price": 67.16,
+      "change_pct": 0.25
     },
     "BNB": {
-      "price": 607.0,
-      "change_pct": 1.83
+      "price": 605.81,
+      "change_pct": 0.27
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SpaceX IPO live updates: SPCX pops 30% after biggest IPO ever"
+      "title": "SpaceX IPO live updates: SPCX pops more than 25% on historic volume in Nasdaq debut"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. oil prices drop to $84 a barrel after Pakistan says a U.S.-Iran peace deal has been reached"
+      "title": "This hidden investing flaw is costing you money. Talking to political opponents fixes it."
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 55 and earn $100,000. Should I take a $2,900 monthly pension \u2014 or $2,200 with 3% annual hikes?"
+      "title": "U.S. oil prices drop to $84 a barrel after Pakistan says a U.S.-Iran peace deal has been reached"
     }
   ]
 }
