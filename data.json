@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, June 11 2026  23:41 PT",
+  "generated_at": "Friday, June 12 2026  04:00 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4202.3,
-      "change_pct": -0.44
+      "price": 4235.8,
+      "change_pct": 0.35
     },
     "Oil (WTI)": {
-      "price": 85.93,
-      "change_pct": -0.41
+      "price": 84.85,
+      "change_pct": -1.66
     },
     "Silver": {
-      "price": 66.78,
-      "change_pct": -0.74
+      "price": 67.25,
+      "change_pct": -0.04
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62861,
-      "change_pct": -0.05
+      "price": 63637,
+      "change_pct": 0.88
     },
     "ETH": {
-      "price": 1652.81,
-      "change_pct": -0.39
+      "price": 1673.33,
+      "change_pct": 0.93
     },
     "SOL": {
-      "price": 65.94,
-      "change_pct": 0.97
+      "price": 66.76,
+      "change_pct": 2.02
     },
     "BNB": {
-      "price": 596.9,
-      "change_pct": 0.1
+      "price": 605.4,
+      "change_pct": 1.0
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards"
+      "title": "Proposed Iran-U.S. deal would reopen Hormuz strait and lift oil sanctions, Iran state media says"
     },
     {
       "source": "CNBC",
-      "title": "Trump claims Iran war settled 'subject to finalization,' expects signing in 'next few days'"
+      "title": "SpaceX\u2019s Gwynne Shotwell had IPO doubts for years, now she has a message for investors"
     },
     {
       "source": "MarketWatch",
-      "title": "Rocket Lab and these four stocks are joining the Nasdaq 100, with SpaceX waiting in the wings"
+      "title": "Here\u2019s what could be SpaceX\u2019s biggest upside surprise, according to a leading Silicon Valley investor"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 55 and earn $100,000. Should I take a $2,900 monthly pension \u2014 or $2,200 with 3% annual hikes?"
+      "title": "\u2018It seems too good to be true\u2019: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?"
     }
   ]
 }
