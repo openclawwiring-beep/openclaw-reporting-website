@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, June 11 2026  18:55 PT",
+  "generated_at": "Thursday, June 11 2026  23:41 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4205.9,
-      "change_pct": 2.7
+      "price": 4202.3,
+      "change_pct": -0.44
     },
     "Oil (WTI)": {
-      "price": 86.81,
-      "change_pct": -5.45
+      "price": 85.93,
+      "change_pct": -0.41
     },
     "Silver": {
-      "price": 66.89,
-      "change_pct": 5.0
+      "price": 66.78,
+      "change_pct": -0.74
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63355,
-      "change_pct": 1.86
+      "price": 62861,
+      "change_pct": -0.05
     },
     "ETH": {
-      "price": 1664.4,
-      "change_pct": 1.26
+      "price": 1652.81,
+      "change_pct": -0.39
     },
     "SOL": {
-      "price": 66.59,
-      "change_pct": 2.59
+      "price": 65.94,
+      "change_pct": 0.97
     },
     "BNB": {
-      "price": 601.0,
-      "change_pct": 1.3
+      "price": 596.9,
+      "change_pct": 0.1
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits"
+      "title": "Trump claims Iran war settled 'subject to finalization,' expects signing in 'next few days'"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Rocket Lab and these four stocks are joining the Nasdaq 100, with SpaceX waiting in the wings"
     },
     {
       "source": "MarketWatch",
       "title": "I\u2019m 55 and earn $100,000. Should I take a $2,900 monthly pension \u2014 or $2,200 with 3% annual hikes?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I\u2019m 60, retired with $3 million. My fianc\u00e9e, 55, only has $1 million and plans to keep working. Are we compatible?"
     }
   ]
 }
