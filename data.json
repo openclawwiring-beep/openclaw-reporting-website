@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, June 12 2026  12:29 PT",
-  "market_status": "Live \u2014 as of 15:29 ET",
+  "generated_at": "Friday, June 12 2026  14:15 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7428.33,
-      "change_pct": 0.48
+      "price": 7431.46,
+      "change_pct": 0.5
     },
     "Nasdaq": {
-      "price": 25884.23,
-      "change_pct": 0.29
+      "price": 25888.84,
+      "change_pct": 0.31
     },
     "Dow Jones": {
-      "price": 51226.71,
-      "change_pct": 0.76
+      "price": 51202.26,
+      "change_pct": 0.7
     },
     "Russell 2000": {
-      "price": 2948.49,
-      "change_pct": 0.95
+      "price": 2943.99,
+      "change_pct": 0.79
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4236.4,
-      "change_pct": 0.37
+      "price": 4239.9,
+      "change_pct": 0.45
     },
     "Oil (WTI)": {
-      "price": 84.47,
-      "change_pct": -2.1
+      "price": 84.29,
+      "change_pct": -2.31
     },
     "Silver": {
-      "price": 67.96,
-      "change_pct": 1.01
+      "price": 68.12,
+      "change_pct": 1.25
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63714,
-      "change_pct": 0.26
+      "price": 63553,
+      "change_pct": 0.09
     },
     "ETH": {
-      "price": 1669.34,
-      "change_pct": -0.55
+      "price": 1666.26,
+      "change_pct": -0.69
     },
     "SOL": {
-      "price": 67.16,
-      "change_pct": 0.25
+      "price": 66.75,
+      "change_pct": -0.11
     },
     "BNB": {
-      "price": 605.81,
-      "change_pct": 0.27
+      "price": 603.23,
+      "change_pct": -0.03
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SpaceX IPO live updates: SPCX pops more than 25% on historic volume in Nasdaq debut"
+      "title": "SpaceX stock jumps 19%, closing near $161 after record IPO: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Elon Musk becomes world's first trillionaire as SpaceX begins trading on the Nasdaq"
+      "title": "Trump administration: Iran deal signing likely in coming days, but not '100%' certain"
     },
     {
       "source": "MarketWatch",
-      "title": "This hidden investing flaw is costing you money. Talking to political opponents fixes it."
+      "title": "I\u2019m 55 and earn $100,000. Should I take a $2,900 monthly pension \u2014 or $2,200 with 3% annual hikes?"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. oil prices drop to $84 a barrel after Pakistan says a U.S.-Iran peace deal has been reached"
+      "title": "How to decide whether a major splurge \u2014 like spending thousands on Knicks or World Cup tickets \u2014 is worth it"
     }
   ]
 }
