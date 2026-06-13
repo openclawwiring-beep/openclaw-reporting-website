@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 13 2026  11:06 PT",
+  "generated_at": "Saturday, June 13 2026  13:00 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63969,
-      "change_pct": 0.38
+      "price": 64279,
+      "change_pct": 1.09
     },
     "ETH": {
-      "price": 1674.34,
-      "change_pct": 0.58
+      "price": 1678.14,
+      "change_pct": 0.78
     },
     "SOL": {
-      "price": 67.99,
-      "change_pct": 1.0
+      "price": 68.24,
+      "change_pct": 2.27
     },
     "BNB": {
-      "price": 606.97,
-      "change_pct": 0.21
+      "price": 608.25,
+      "change_pct": 0.86
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My elderly mother and I own a home together. Will Medicaid force its sale?"
+      "title": "Social Security is facing a 22% cliff \u2014 4 ways to build an income stream Washington can\u2019t touch"
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX employees now have enough wealth on paper to buy every home in this Texas city"
+      "title": "Worried about a lower Social Security benefit? How to calculate the exact impact it will have on your retirement."
     }
   ]
 }
