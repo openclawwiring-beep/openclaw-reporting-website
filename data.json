@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, June 12 2026  15:56 PT",
+  "generated_at": "Friday, June 12 2026  17:20 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63472,
-      "change_pct": -0.01
+      "price": 63530,
+      "change_pct": -0.08
     },
     "ETH": {
-      "price": 1661.39,
-      "change_pct": -0.88
+      "price": 1666.55,
+      "change_pct": -0.33
     },
     "SOL": {
-      "price": 66.52,
-      "change_pct": -0.52
+      "price": 66.86,
+      "change_pct": 0.03
     },
     "BNB": {
-      "price": 602.38,
-      "change_pct": -0.15
+      "price": 604.0,
+      "change_pct": -0.06
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SpaceX stock jumps 19%, closing near $161 after record IPO: Live updates"
+      "title": "SpaceX IPO takeaways: SPCX closes at $161, jumping 19% after record debut"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This is not a flash in the pan\u2019 \u2014 why value stocks are beating growth by such a wide margin"
+      "title": "This hidden investing flaw is costing you money. Talking to political opponents fixes it."
     },
     {
       "source": "MarketWatch",
-      "title": "How Elon Musk nailed the SpaceX IPO: \u2018I\u2019m not sure that this could have gone much better\u2019"
+      "title": "There\u2019s a 68% chance the stock market ends the year higher. Why the headlines shouldn\u2019t disrupt your portfolio."
     }
   ]
 }
