@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 13 2026  06:04 PT",
+  "generated_at": "Saturday, June 13 2026  08:16 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64062,
-      "change_pct": 1.09
+      "price": 64251,
+      "change_pct": -0.02
     },
     "ETH": {
-      "price": 1678.06,
-      "change_pct": 0.83
+      "price": 1680.03,
+      "change_pct": -0.36
     },
     "SOL": {
-      "price": 67.9,
-      "change_pct": 1.82
+      "price": 68.41,
+      "change_pct": -0.26
     },
     "BNB": {
-      "price": 607.95,
-      "change_pct": 0.4
+      "price": 610.15,
+      "change_pct": -0.22
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX employees now have enough wealth on paper to buy every home in this Texas city"
+      "title": "My elderly mother and I own a home together. Will Medicaid force its sale?"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 55 and earn $100,000. Should I take a $2,900 monthly pension \u2014 or $2,200 with 3% annual hikes?"
+      "title": "SpaceX employees now have enough wealth on paper to buy every home in this Texas city"
     }
   ]
 }
