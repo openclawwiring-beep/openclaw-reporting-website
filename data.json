@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 13 2026  01:36 PT",
+  "generated_at": "Saturday, June 13 2026  04:13 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63769,
-      "change_pct": 0.6
+      "price": 63876,
+      "change_pct": 0.19
     },
     "ETH": {
-      "price": 1674.33,
-      "change_pct": 0.17
+      "price": 1675.32,
+      "change_pct": 0.03
     },
     "SOL": {
-      "price": 67.3,
-      "change_pct": 0.69
+      "price": 67.52,
+      "change_pct": 1.01
     },
     "BNB": {
-      "price": 603.42,
-      "change_pct": -0.02
+      "price": 605.99,
+      "change_pct": 0.08
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump administration: Iran deal signing likely in coming days, but not '100%' certain"
+      "title": "UAE denies 'false' reports of fund transfer to Iran"
     },
     {
       "source": "MarketWatch",
-      "title": "This hidden investing flaw is costing you money. Talking to political opponents fixes it."
+      "title": "\u2018It seems too good to be true\u2019: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?"
     },
     {
       "source": "MarketWatch",
-      "title": "There\u2019s a 68% chance the stock market ends the year higher. Why the headlines shouldn\u2019t disrupt your portfolio."
+      "title": "My golf buddy worked as a financial adviser. Here\u2019s how I knew his friendship was fake."
     }
   ]
 }
