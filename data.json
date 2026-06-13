@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 13 2026  09:54 PT",
+  "generated_at": "Saturday, June 13 2026  11:06 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63919,
-      "change_pct": 0.02
+      "price": 63969,
+      "change_pct": 0.38
     },
     "ETH": {
-      "price": 1673.48,
-      "change_pct": 0.14
+      "price": 1674.34,
+      "change_pct": 0.58
     },
     "SOL": {
-      "price": 67.88,
-      "change_pct": 0.08
+      "price": 67.99,
+      "change_pct": 1.0
     },
     "BNB": {
-      "price": 608.41,
-      "change_pct": -0.01
+      "price": 606.97,
+      "change_pct": 0.21
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO"
+      "title": "Trump says peace deal will be signed Sunday after Iran said it remains cautious on timing"
     },
     {
       "source": "CNBC",
-      "title": "U.S.-Iran peace deal could be finalized 'in the next 24 hours,' Pakistan's PM says"
+      "title": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO"
     },
     {
       "source": "MarketWatch",
