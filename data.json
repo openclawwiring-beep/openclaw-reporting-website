@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 13 2026  04:13 PT",
+  "generated_at": "Saturday, June 13 2026  06:04 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63876,
-      "change_pct": 0.19
+      "price": 64062,
+      "change_pct": 1.09
     },
     "ETH": {
-      "price": 1675.32,
-      "change_pct": 0.03
+      "price": 1678.06,
+      "change_pct": 0.83
     },
     "SOL": {
-      "price": 67.52,
-      "change_pct": 1.01
+      "price": 67.9,
+      "change_pct": 1.82
     },
     "BNB": {
-      "price": 605.99,
-      "change_pct": 0.08
+      "price": 607.95,
+      "change_pct": 0.4
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SpaceX IPO takeaways: SPCX closes at $161, jumping 19% after record debut"
+      "title": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO"
     },
     {
       "source": "CNBC",
-      "title": "UAE denies 'false' reports of fund transfer to Iran"
+      "title": "U.S.-Iran peace deal could be finalized 'in the next 24 hours,' Pakistan's PM says"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It seems too good to be true\u2019: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?"
+      "title": "SpaceX employees now have enough wealth on paper to buy every home in this Texas city"
     },
     {
       "source": "MarketWatch",
-      "title": "My golf buddy worked as a financial adviser. Here\u2019s how I knew his friendship was fake."
+      "title": "I\u2019m 55 and earn $100,000. Should I take a $2,900 monthly pension \u2014 or $2,200 with 3% annual hikes?"
     }
   ]
 }
