@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 13 2026  16:03 PT",
+  "generated_at": "Saturday, June 13 2026  18:42 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64432,
-      "change_pct": 1.58
+      "price": 64552,
+      "change_pct": 1.27
     },
     "ETH": {
-      "price": 1680.59,
-      "change_pct": 1.25
+      "price": 1684.28,
+      "change_pct": 0.71
     },
     "SOL": {
-      "price": 68.89,
-      "change_pct": 3.45
+      "price": 68.88,
+      "change_pct": 2.39
     },
     "BNB": {
-      "price": 608.77,
-      "change_pct": 1.09
+      "price": 609.66,
+      "change_pct": 0.78
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Social Security is facing a 22% cliff \u2014 4 ways to build an income stream Washington can\u2019t touch"
+      "title": "My plumber charged $160 to fix the cistern on my toilet \u2014 but created another problem. Do I pay again?"
     },
     {
       "source": "MarketWatch",
-      "title": "Worried about a lower Social Security benefit? How to calculate the exact impact it will have on your retirement."
+      "title": "\u2018I feel like he may be taking advantage of us\u2019: Our adviser pushes annuities after we already said no. Do we fire him?"
     }
   ]
 }
