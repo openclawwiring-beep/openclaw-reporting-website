@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 14 2026  05:22 PT",
+  "generated_at": "Sunday, June 14 2026  07:39 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64453,
-      "change_pct": 0.83
+      "price": 63942,
+      "change_pct": -0.34
     },
     "ETH": {
-      "price": 1672.64,
-      "change_pct": -0.27
+      "price": 1656.75,
+      "change_pct": -1.33
     },
     "SOL": {
-      "price": 68.03,
-      "change_pct": 0.31
+      "price": 67.2,
+      "change_pct": -1.49
     },
     "BNB": {
-      "price": 611.44,
-      "change_pct": 0.78
+      "price": 608.05,
+      "change_pct": -0.04
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 60, retired with $3 million. My fianc\u00e9e, 55, only has $1 million and plans to keep working. Are we compatible?"
+      "title": "We thought we found the perfect luxury retirement community, but it\u2019s millions of dollars in debt. Are we trapped?"
     },
     {
       "source": "MarketWatch",
-      "title": "My plumber charged $160 to fix the cistern on my toilet \u2014 but created another problem. Do I pay again?"
+      "title": "\u2018This would be a one-time event\u2019: How can I take extra money from my 401(k) without triggering higher Medicare premiums?"
     }
   ]
 }
