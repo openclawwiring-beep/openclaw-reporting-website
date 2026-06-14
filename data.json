@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 14 2026  03:23 PT",
+  "generated_at": "Sunday, June 14 2026  05:22 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64539,
-      "change_pct": 1.26
+      "price": 64453,
+      "change_pct": 0.83
     },
     "ETH": {
-      "price": 1676.09,
-      "change_pct": 0.23
+      "price": 1672.64,
+      "change_pct": -0.27
     },
     "SOL": {
-      "price": 68.38,
-      "change_pct": 1.53
+      "price": 68.03,
+      "change_pct": 0.31
     },
     "BNB": {
-      "price": 612.02,
-      "change_pct": 1.24
+      "price": 611.44,
+      "change_pct": 0.78
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says peace deal will be signed Sunday after Iran said it remains cautious on timing"
+      "title": "Elon Musk drifted from Larry Page over a decade ago, but their companies are closer than ever"
     },
     {
       "source": "CNBC",
-      "title": "From 10% chance of success to $2 trillion market cap: SpaceX's historic IPO"
+      "title": "Trump says peace deal will be signed Sunday after Iran said it remains cautious on timing"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I\u2019m 60, retired with $3 million. My fianc\u00e9e, 55, only has $1 million and plans to keep working. Are we compatible?"
     },
     {
       "source": "MarketWatch",
       "title": "My plumber charged $160 to fix the cistern on my toilet \u2014 but created another problem. Do I pay again?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018I feel like he may be taking advantage of us\u2019: Our adviser pushes annuities after we already said no. Do we fire him?"
     }
   ]
 }
