@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 14 2026  12:27 PT",
+  "generated_at": "Sunday, June 14 2026  13:48 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63772,
-      "change_pct": -0.57
+      "price": 64008,
+      "change_pct": -0.32
     },
     "ETH": {
-      "price": 1665.53,
-      "change_pct": -0.61
+      "price": 1670.62,
+      "change_pct": -0.25
     },
     "SOL": {
-      "price": 67.61,
-      "change_pct": -0.68
+      "price": 67.9,
+      "change_pct": -0.37
     },
     "BNB": {
-      "price": 604.23,
-      "change_pct": -0.5
+      "price": 604.92,
+      "change_pct": -0.58
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Elon Musk drifted from Larry Page over a decade ago, but their companies are closer than ever"
+      "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018It seems too good to be true\u2019: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?"
     },
     {
       "source": "MarketWatch",
       "title": "Defaults in debt markets are starting again, warns Pimco. Here\u2019s the bond giant\u2019s game plan."
-    },
-    {
-      "source": "MarketWatch",
-      "title": "We thought we found the perfect luxury retirement community, but it\u2019s millions of dollars in debt. Are we trapped?"
     }
   ]
 }
