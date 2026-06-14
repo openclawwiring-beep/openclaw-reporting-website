@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 14 2026  15:08 PT",
+  "generated_at": "Sunday, June 14 2026  16:45 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4238.8,
-      "change_pct": 0.42
+      "price": 4305.0,
+      "change_pct": 1.56
     },
     "Oil (WTI)": {
-      "price": 84.88,
-      "change_pct": -1.62
+      "price": 81.11,
+      "change_pct": -4.44
     },
     "Silver": {
-      "price": 67.97,
-      "change_pct": 1.03
+      "price": 70.04,
+      "change_pct": 3.05
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65155,
-      "change_pct": 1.17
+      "price": 65550,
+      "change_pct": 1.8
     },
     "ETH": {
-      "price": 1718.67,
-      "change_pct": 2.07
+      "price": 1719.13,
+      "change_pct": 2.43
     },
     "SOL": {
-      "price": 69.99,
-      "change_pct": 1.34
+      "price": 70.71,
+      "change_pct": 2.57
     },
     "BNB": {
-      "price": 614.57,
-      "change_pct": 0.95
+      "price": 615.25,
+      "change_pct": 0.99
     }
   },
   "headlines": [
@@ -62,7 +62,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Trump says U.S. has reached peace deal with Iran"
+      "title": "Stock futures jump, oil prices fall as Trump says U.S. has reached peace deal with Iran"
     },
     {
       "source": "MarketWatch",
