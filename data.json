@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 14 2026  07:39 PT",
+  "generated_at": "Sunday, June 14 2026  09:20 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63942,
-      "change_pct": -0.34
+      "price": 64067,
+      "change_pct": 0.08
     },
     "ETH": {
-      "price": 1656.75,
-      "change_pct": -1.33
+      "price": 1664.33,
+      "change_pct": -0.55
     },
     "SOL": {
-      "price": 67.2,
-      "change_pct": -1.49
+      "price": 67.59,
+      "change_pct": -0.76
     },
     "BNB": {
-      "price": 608.05,
-      "change_pct": -0.04
+      "price": 607.97,
+      "change_pct": -0.08
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Elon Musk drifted from Larry Page over a decade ago, but their companies are closer than ever"
+      "title": "U.S. peace deal with Iran in question as Israel strikes Lebanon, Trump warns not to 'blow it'"
     },
     {
       "source": "CNBC",
-      "title": "Trump says peace deal will be signed Sunday after Iran said it remains cautious on timing"
+      "title": "Elon Musk drifted from Larry Page over a decade ago, but their companies are closer than ever"
     },
     {
       "source": "MarketWatch",
