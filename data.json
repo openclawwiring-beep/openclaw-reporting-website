@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 14 2026  09:20 PT",
+  "generated_at": "Sunday, June 14 2026  10:56 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64067,
-      "change_pct": 0.08
+      "price": 63735,
+      "change_pct": -0.33
     },
     "ETH": {
-      "price": 1664.33,
-      "change_pct": -0.55
+      "price": 1661.56,
+      "change_pct": -0.7
     },
     "SOL": {
-      "price": 67.59,
-      "change_pct": -0.76
+      "price": 67.37,
+      "change_pct": -0.93
     },
     "BNB": {
-      "price": 607.97,
-      "change_pct": -0.08
+      "price": 604.06,
+      "change_pct": -0.46
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "We thought we found the perfect luxury retirement community, but it\u2019s millions of dollars in debt. Are we trapped?"
+      "title": "Defaults in debt markets are starting again, warns Pimco. Here\u2019s the bond giant\u2019s game plan."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This would be a one-time event\u2019: How can I take extra money from my 401(k) without triggering higher Medicare premiums?"
+      "title": "We thought we found the perfect luxury retirement community, but it\u2019s millions of dollars in debt. Are we trapped?"
     }
   ]
 }
