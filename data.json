@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, June 14 2026  16:45 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Sunday, June 14 2026  21:11 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7431.46,
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4305.0,
-      "change_pct": 1.56
+      "price": 4348.1,
+      "change_pct": 0.67
     },
     "Oil (WTI)": {
-      "price": 81.11,
-      "change_pct": -4.44
+      "price": 80.46,
+      "change_pct": -0.43
     },
     "Silver": {
-      "price": 70.04,
-      "change_pct": 3.05
+      "price": 70.43,
+      "change_pct": -0.11
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65550,
-      "change_pct": 1.8
+      "price": 65736,
+      "change_pct": 1.97
     },
     "ETH": {
-      "price": 1719.13,
-      "change_pct": 2.43
+      "price": 1719.1,
+      "change_pct": 2.32
     },
     "SOL": {
-      "price": 70.71,
-      "change_pct": 2.57
+      "price": 71.11,
+      "change_pct": 3.33
     },
     "BNB": {
-      "price": 615.25,
-      "change_pct": 0.99
+      "price": 617.07,
+      "change_pct": 1.26
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. and Iran agree on peace deal to end the war, Trump and Pakistan say"
+      "title": "U.S. and Iran reach peace deal to end the Mideast war, with agreement set to be signed Friday"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures jump after the U.S. and Iran reach a deal to end the war: Live updates"
+      "title": "U.S. stock futures jump on Iran deal to end the war; Japan's Nikkei surges 5%: Live updates"
     },
     {
       "source": "MarketWatch",
