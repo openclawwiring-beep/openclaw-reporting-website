@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 14 2026  21:11 PT",
+  "generated_at": "Monday, June 15 2026  03:42 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4348.1,
-      "change_pct": 0.67
+      "price": 4360.8,
+      "change_pct": 0.35
     },
     "Oil (WTI)": {
-      "price": 80.46,
-      "change_pct": -0.43
+      "price": 80.41,
+      "change_pct": -0.16
     },
     "Silver": {
-      "price": 70.43,
-      "change_pct": -0.11
+      "price": 70.81,
+      "change_pct": 0.55
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65736,
-      "change_pct": 1.97
+      "price": 65689,
+      "change_pct": 1.73
     },
     "ETH": {
-      "price": 1719.1,
-      "change_pct": 2.32
+      "price": 1725.63,
+      "change_pct": 3.0
     },
     "SOL": {
-      "price": 71.11,
-      "change_pct": 3.33
+      "price": 71.44,
+      "change_pct": 4.4
     },
     "BNB": {
-      "price": 617.07,
-      "change_pct": 1.26
+      "price": 614.71,
+      "change_pct": 0.54
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. and Iran reach peace deal to end the Mideast war, with agreement set to be signed Friday"
+      "title": "SpaceX gains 6% in premarket after record debut. Here's what's driving the valuation debate"
     },
     {
       "source": "CNBC",
-      "title": "U.S. stock futures jump on Iran deal to end the war; Japan's Nikkei surges 5%: Live updates"
+      "title": "U.S. and Iran reach deal to end the Mideast war, with agreement set to be signed Friday"
     },
     {
       "source": "MarketWatch",
-      "title": "Stock futures jump, oil prices fall as Trump says U.S. has reached peace deal with Iran"
+      "title": "\u2018We own our home outright\u2019: I am 67 and earn $100,000. Do I take my $30,000 Social Security now or wait?"
     },
     {
       "source": "MarketWatch",
-      "title": "Will the real Kevin Warsh please stand up? Ahead of his first Fed meeting, economists honestly don\u2019t know what to expect."
+      "title": "\u2018It seems too good to be true\u2019: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?"
     }
   ]
 }
