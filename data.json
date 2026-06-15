@@ -1,60 +1,60 @@
 {
-  "generated_at": "Monday, June 15 2026  13:01 PT",
+  "generated_at": "Monday, June 15 2026  15:33 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7554.54,
-      "change_pct": 1.66
+      "price": 7554.29,
+      "change_pct": 1.65
     },
     "Nasdaq": {
       "price": 26683.94,
       "change_pct": 3.07
     },
     "Dow Jones": {
-      "price": 51671.83,
+      "price": 51671.03,
       "change_pct": 0.92
     },
     "Russell 2000": {
-      "price": 2969.0,
-      "change_pct": 0.83
+      "price": 2965.09,
+      "change_pct": 0.72
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4339.5,
-      "change_pct": -0.14
+      "price": 4331.0,
+      "change_pct": -0.34
     },
     "Oil (WTI)": {
-      "price": 81.43,
-      "change_pct": 1.11
+      "price": 81.3,
+      "change_pct": 0.94
     },
     "Silver": {
-      "price": 70.11,
-      "change_pct": -0.45
+      "price": 69.94,
+      "change_pct": -0.67
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66544,
-      "change_pct": 4.31
+      "price": 66118,
+      "change_pct": 1.43
     },
     "ETH": {
-      "price": 1819.2,
-      "change_pct": 9.33
+      "price": 1789.52,
+      "change_pct": 4.1
     },
     "SOL": {
-      "price": 75.12,
-      "change_pct": 11.21
+      "price": 73.82,
+      "change_pct": 5.2
     },
     "BNB": {
-      "price": 620.11,
-      "change_pct": 2.83
+      "price": 616.44,
+      "change_pct": 0.69
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SpaceX IPO raises total of $85.7 billion as underwriters exercise 'greenshoe' overallotment option"
+      "title": "SpaceX stock jumps 20% in first full day of trading after record debut"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "All eyes are now on the bond market as oil prices fall. Will the Fed hike rates?"
+      "title": "Options traders are bracing for a very busy week, with June \u2018triple witching\u2019 and launch of SpaceX contracts on deck"
     },
     {
       "source": "MarketWatch",
-      "title": "It could take years for oil prices to return to $67 a barrel. Here\u2019s why."
+      "title": "I\u2019m 55 and earn $100,000. Should I take a $2,900 monthly pension \u2014 or $2,200 with 3% annual hikes?"
     }
   ]
 }
