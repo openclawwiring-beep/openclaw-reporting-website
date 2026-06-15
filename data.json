@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, June 15 2026  03:42 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, June 15 2026  09:17 PT",
+  "market_status": "Live \u2014 as of 12:17 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7431.46,
-      "change_pct": 0.5
+      "price": 7572.08,
+      "change_pct": 1.9
     },
     "Nasdaq": {
-      "price": 25888.84,
-      "change_pct": 0.31
+      "price": 26652.47,
+      "change_pct": 2.95
     },
     "Dow Jones": {
-      "price": 51202.26,
-      "change_pct": 0.7
+      "price": 51907.15,
+      "change_pct": 1.38
     },
     "Russell 2000": {
-      "price": 2943.99,
-      "change_pct": 0.79
+      "price": 2982.54,
+      "change_pct": 1.29
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4360.8,
-      "change_pct": 0.35
+      "price": 4376.2,
+      "change_pct": 0.7
     },
     "Oil (WTI)": {
-      "price": 80.41,
-      "change_pct": -0.16
+      "price": 80.24,
+      "change_pct": -0.37
     },
     "Silver": {
-      "price": 70.81,
-      "change_pct": 0.55
+      "price": 70.66,
+      "change_pct": 0.34
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65689,
-      "change_pct": 1.73
+      "price": 67203,
+      "change_pct": 4.9
     },
     "ETH": {
-      "price": 1725.63,
-      "change_pct": 3.0
+      "price": 1842.87,
+      "change_pct": 10.73
     },
     "SOL": {
-      "price": 71.44,
-      "change_pct": 4.4
+      "price": 75.74,
+      "change_pct": 12.09
     },
     "BNB": {
-      "price": 614.71,
-      "change_pct": 0.54
+      "price": 628.11,
+      "change_pct": 3.31
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SpaceX gains 6% in premarket after record debut. Here's what's driving the valuation debate"
+      "title": "SpaceX IPO raises total of $85.7 billion as underwriters exercise 'greenshoe' overallotment option"
     },
     {
       "source": "CNBC",
-      "title": "U.S. and Iran reach deal to end the Mideast war, with agreement set to be signed Friday"
+      "title": "Trump is giving Warsh room to reshape the Fed"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We own our home outright\u2019: I am 67 and earn $100,000. Do I take my $30,000 Social Security now or wait?"
+      "title": "Here are 20 growth stocks you can buy at \u2018value\u2019 prices"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It seems too good to be true\u2019: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?"
+      "title": "Roku\u2019s sale to Fox for $22 billion raises a big question"
     }
   ]
 }
