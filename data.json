@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, June 16 2026  00:26 PT",
+  "generated_at": "Tuesday, June 16 2026  05:25 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4347.9,
-      "change_pct": -0.08
+      "price": 4365.5,
+      "change_pct": 0.32
     },
     "Oil (WTI)": {
-      "price": 80.23,
-      "change_pct": -0.57
+      "price": 76.72,
+      "change_pct": -4.92
     },
     "Silver": {
-      "price": 69.94,
-      "change_pct": 0.07
+      "price": 70.79,
+      "change_pct": 1.29
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66348,
-      "change_pct": 0.63
+      "price": 66557,
+      "change_pct": 0.48
     },
     "ETH": {
-      "price": 1772.48,
-      "change_pct": 2.98
+      "price": 1818.84,
+      "change_pct": 3.19
     },
     "SOL": {
-      "price": 74.19,
-      "change_pct": 3.95
+      "price": 74.94,
+      "change_pct": 3.43
     },
     "BNB": {
-      "price": 616.68,
-      "change_pct": 0.01
+      "price": 615.57,
+      "change_pct": -0.71
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SpaceX stock jumps 20% in first full day of trading after record debut"
+      "title": "How Elon Musk's second-in-command Gwynne Shotwell helped turn SpaceX into an IPO giant"
     },
     {
       "source": "CNBC",
-      "title": "U.S. stock futures are flat after Dow record close on U.S.-Iran deal; Nikkei 225 hits record high: Live updates"
+      "title": "Trump denies U.S. will put 'any money' into Iran, as he meets allies at G7 summit"
     },
     {
       "source": "MarketWatch",
-      "title": "The biggest risk to your retirement isn\u2019t a market crash \u2014 it\u2019s a crisis you probably haven\u2019t planned for"
+      "title": "Micron and Sandisk shares are phenomenally \u2018overbought.\u2019 Are memory stocks flying too close to the sun?"
     },
     {
       "source": "MarketWatch",
-      "title": "How to work in retirement without seeing your Social Security checks slashed"
+      "title": "The AI \u2018bottleneck trade\u2019 has run its course, says this hedge-fund manager and early SpaceX investor"
     }
   ]
 }
