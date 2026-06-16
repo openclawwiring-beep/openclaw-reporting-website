@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, June 16 2026  13:49 PT",
+  "generated_at": "Tuesday, June 16 2026  15:52 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4355.1,
-      "change_pct": 0.09
+      "price": 4352.4,
+      "change_pct": 0.02
     },
     "Oil (WTI)": {
-      "price": 75.88,
-      "change_pct": -5.96
+      "price": 75.86,
+      "change_pct": -5.99
     },
     "Silver": {
-      "price": 70.15,
-      "change_pct": 0.37
+      "price": 70.19,
+      "change_pct": 0.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65779,
-      "change_pct": -1.09
+      "price": 65635,
+      "change_pct": -0.84
     },
     "ETH": {
-      "price": 1795.7,
-      "change_pct": -1.15
+      "price": 1791.18,
+      "change_pct": 0.06
     },
     "SOL": {
-      "price": 74.04,
-      "change_pct": -1.19
+      "price": 73.6,
+      "change_pct": -0.21
     },
     "BNB": {
-      "price": 607.57,
-      "change_pct": -2.0
+      "price": 605.52,
+      "change_pct": -1.78
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Carvana is expanding into new vehicles. The implications could reshape the U.S. automotive retail market"
-    },
-    {
-      "source": "CNBC",
       "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook"
     },
     {
-      "source": "MarketWatch",
-      "title": "Want to splurge on travel in retirement? Here\u2019s how to plan for it."
+      "source": "CNBC",
+      "title": "Carvana is expanding into new vehicles. The implications could reshape the U.S. automotive retail market"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m a realist\u2019: I\u2019m 50 with $6.5 million saved. Should I quit my $200,000 job and retire early?"
+      "title": "Intel takes a major step toward turning around a business that\u2019s bleeding cash"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I\u2019m spending $170,000 to upgrade my home for my aging parents. Can I get tax breaks?"
     }
   ]
 }
