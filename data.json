@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, June 16 2026  10:31 PT",
-  "market_status": "Live \u2014 as of 13:31 ET",
+  "generated_at": "Tuesday, June 16 2026  13:49 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7530.21,
-      "change_pct": -0.33
+      "price": 7511.35,
+      "change_pct": -0.57
     },
     "Nasdaq": {
-      "price": 26517.26,
-      "change_pct": -0.62
+      "price": 26376.34,
+      "change_pct": -1.15
     },
     "Dow Jones": {
-      "price": 52131.83,
-      "change_pct": 0.85
+      "price": 51999.67,
+      "change_pct": 0.64
     },
     "Russell 2000": {
-      "price": 2957.63,
-      "change_pct": -0.24
+      "price": 2939.19,
+      "change_pct": -0.87
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4347.5,
-      "change_pct": -0.09
+      "price": 4355.1,
+      "change_pct": 0.09
     },
     "Oil (WTI)": {
-      "price": 75.09,
-      "change_pct": -6.94
+      "price": 75.88,
+      "change_pct": -5.96
     },
     "Silver": {
-      "price": 69.88,
-      "change_pct": -0.03
+      "price": 70.15,
+      "change_pct": 0.37
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65696,
-      "change_pct": -1.51
+      "price": 65779,
+      "change_pct": -1.09
     },
     "ETH": {
-      "price": 1779.95,
-      "change_pct": -2.49
+      "price": 1795.7,
+      "change_pct": -1.15
     },
     "SOL": {
-      "price": 73.22,
-      "change_pct": -2.39
+      "price": 74.04,
+      "change_pct": -1.19
     },
     "BNB": {
-      "price": 604.78,
-      "change_pct": -3.11
+      "price": 607.57,
+      "change_pct": -2.0
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SpaceX rises 12% to leapfrog Amazon, briefly top Microsoft in market cap"
+      "title": "Carvana is expanding into new vehicles. The implications could reshape the U.S. automotive retail market"
     },
     {
       "source": "CNBC",
-      "title": "Rivian laying off hundreds of workers amid R2 launch"
+      "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook"
     },
     {
       "source": "MarketWatch",
-      "title": "Global oil prices break below $80 for the first time since the Iran war began. Ships still aren\u2019t passing through Hormuz."
+      "title": "Want to splurge on travel in retirement? Here\u2019s how to plan for it."
     },
     {
       "source": "MarketWatch",
-      "title": "America\u2019s fertility rate has never been lower. Blame smartphones \u2014 and these 4 financial realities."
+      "title": "\u2018I\u2019m a realist\u2019: I\u2019m 50 with $6.5 million saved. Should I quit my $200,000 job and retire early?"
     }
   ]
 }
