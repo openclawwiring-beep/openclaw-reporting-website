@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, June 15 2026  15:33 PT",
+  "generated_at": "Monday, June 15 2026  18:41 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4331.0,
-      "change_pct": -0.34
+      "price": 4340.8,
+      "change_pct": -0.11
     },
     "Oil (WTI)": {
-      "price": 81.3,
-      "change_pct": 0.94
+      "price": 80.99,
+      "change_pct": 0.56
     },
     "Silver": {
-      "price": 69.94,
-      "change_pct": -0.67
+      "price": 69.61,
+      "change_pct": -1.15
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66118,
-      "change_pct": 1.43
+      "price": 66352,
+      "change_pct": 1.11
     },
     "ETH": {
-      "price": 1789.52,
-      "change_pct": 4.1
+      "price": 1794.66,
+      "change_pct": 4.38
     },
     "SOL": {
-      "price": 73.82,
-      "change_pct": 5.2
+      "price": 74.08,
+      "change_pct": 4.1
     },
     "BNB": {
-      "price": 616.44,
-      "change_pct": 0.69
+      "price": 617.05,
+      "change_pct": 0.29
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Options traders are bracing for a very busy week, with June \u2018triple witching\u2019 and launch of SpaceX contracts on deck"
+      "title": "The biggest risk to your retirement isn\u2019t a market crash \u2014 it\u2019s a crisis you probably haven\u2019t planned for"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 55 and earn $100,000. Should I take a $2,900 monthly pension \u2014 or $2,200 with 3% annual hikes?"
+      "title": "How to work in retirement without seeing your Social Security checks slashed"
     }
   ]
 }
