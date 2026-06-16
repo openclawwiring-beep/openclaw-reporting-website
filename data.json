@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, June 16 2026  05:25 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, June 16 2026  10:31 PT",
+  "market_status": "Live \u2014 as of 13:31 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7554.29,
-      "change_pct": 1.65
+      "price": 7530.21,
+      "change_pct": -0.33
     },
     "Nasdaq": {
-      "price": 26683.94,
-      "change_pct": 3.07
+      "price": 26517.26,
+      "change_pct": -0.62
     },
     "Dow Jones": {
-      "price": 51671.03,
-      "change_pct": 0.92
+      "price": 52131.83,
+      "change_pct": 0.85
     },
     "Russell 2000": {
-      "price": 2965.09,
-      "change_pct": 0.72
+      "price": 2957.63,
+      "change_pct": -0.24
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4365.5,
-      "change_pct": 0.32
+      "price": 4347.5,
+      "change_pct": -0.09
     },
     "Oil (WTI)": {
-      "price": 76.72,
-      "change_pct": -4.92
+      "price": 75.09,
+      "change_pct": -6.94
     },
     "Silver": {
-      "price": 70.79,
-      "change_pct": 1.29
+      "price": 69.88,
+      "change_pct": -0.03
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66557,
-      "change_pct": 0.48
+      "price": 65696,
+      "change_pct": -1.51
     },
     "ETH": {
-      "price": 1818.84,
-      "change_pct": 3.19
+      "price": 1779.95,
+      "change_pct": -2.49
     },
     "SOL": {
-      "price": 74.94,
-      "change_pct": 3.43
+      "price": 73.22,
+      "change_pct": -2.39
     },
     "BNB": {
-      "price": 615.57,
-      "change_pct": -0.71
+      "price": 604.78,
+      "change_pct": -3.11
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "How Elon Musk's second-in-command Gwynne Shotwell helped turn SpaceX into an IPO giant"
+      "title": "SpaceX rises 12% to leapfrog Amazon, briefly top Microsoft in market cap"
     },
     {
       "source": "CNBC",
-      "title": "Trump denies U.S. will put 'any money' into Iran, as he meets allies at G7 summit"
+      "title": "Rivian laying off hundreds of workers amid R2 launch"
     },
     {
       "source": "MarketWatch",
-      "title": "Micron and Sandisk shares are phenomenally \u2018overbought.\u2019 Are memory stocks flying too close to the sun?"
+      "title": "Global oil prices break below $80 for the first time since the Iran war began. Ships still aren\u2019t passing through Hormuz."
     },
     {
       "source": "MarketWatch",
-      "title": "The AI \u2018bottleneck trade\u2019 has run its course, says this hedge-fund manager and early SpaceX investor"
+      "title": "America\u2019s fertility rate has never been lower. Blame smartphones \u2014 and these 4 financial realities."
     }
   ]
 }
