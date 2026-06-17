@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, June 17 2026  14:59 PT",
+  "generated_at": "Wednesday, June 17 2026  16:45 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4276.3,
-      "change_pct": -1.72
+      "price": 4299.1,
+      "change_pct": -1.2
     },
     "Oil (WTI)": {
-      "price": 75.01,
-      "change_pct": 0.28
+      "price": 75.33,
+      "change_pct": 0.71
     },
     "Silver": {
-      "price": 67.96,
-      "change_pct": -3.22
+      "price": 68.4,
+      "change_pct": -2.58
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64177,
-      "change_pct": -2.34
+      "price": 64382,
+      "change_pct": -1.96
     },
     "ETH": {
-      "price": 1736.54,
-      "change_pct": -3.24
+      "price": 1746.62,
+      "change_pct": -2.55
     },
     "SOL": {
-      "price": 71.47,
-      "change_pct": -3.24
+      "price": 71.91,
+      "change_pct": -2.39
     },
     "BNB": {
-      "price": 599.04,
-      "change_pct": -1.27
+      "price": 600.91,
+      "change_pct": -0.71
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Stock-market pessimists have one less reason to worry as shares of banks and retailers perk up"
+      "title": "Rumble gets 22,000 Nvidia chips, but the video company\u2019s CEO insists this isn\u2019t a fad-like pivot"
     },
     {
       "source": "MarketWatch",
-      "title": "The Fed just threw investors a curveball. Here\u2019s how stocks, bonds, gold and the dollar reacted."
+      "title": "It\u2019s \u2018unavoidable\u2019: Apple says it will be forced to raise prices due to the AI boom"
     }
   ]
 }
