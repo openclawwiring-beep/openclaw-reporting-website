@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, June 17 2026  03:13 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, June 17 2026  07:07 PT",
+  "market_status": "Live \u2014 as of 10:07 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7511.35,
-      "change_pct": -0.57
+      "price": 7516.42,
+      "change_pct": 0.05
     },
     "Nasdaq": {
-      "price": 26376.34,
-      "change_pct": -1.15
+      "price": 26375.52,
+      "change_pct": -0.0
     },
     "Dow Jones": {
-      "price": 51999.67,
-      "change_pct": 0.64
+      "price": 52243.26,
+      "change_pct": 0.44
     },
     "Russell 2000": {
-      "price": 2939.2,
-      "change_pct": -0.87
+      "price": 2967.58,
+      "change_pct": 1.0
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4348.3,
-      "change_pct": -0.07
+      "price": 4361.2,
+      "change_pct": 0.23
     },
     "Oil (WTI)": {
-      "price": 75.57,
-      "change_pct": 1.03
+      "price": 76.4,
+      "change_pct": 2.14
     },
     "Silver": {
-      "price": 69.99,
-      "change_pct": -0.33
+      "price": 70.32,
+      "change_pct": 0.14
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64822,
-      "change_pct": -2.51
+      "price": 65126,
+      "change_pct": -1.38
     },
     "ETH": {
-      "price": 1770.78,
-      "change_pct": -0.97
+      "price": 1756.38,
+      "change_pct": -2.27
     },
     "SOL": {
-      "price": 72.41,
-      "change_pct": -3.28
+      "price": 72.24,
+      "change_pct": -2.33
     },
     "BNB": {
-      "price": 601.43,
-      "change_pct": -2.06
+      "price": 606.05,
+      "change_pct": 0.06
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 and Nasdaq futures tick higher ahead of Fed decision; SpaceX rises: Live updates"
+      "title": "Trump says U.S. will 'go right back to dropping bombs' if he doesn't like Iran deal"
     },
     {
       "source": "CNBC",
-      "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook"
+      "title": "Fed meeting live updates: New Chairman Kevin Warsh squares off against a 'hawkish' committee"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m a realist\u2019: I\u2019m 50 with $6.5 million saved. Should I quit my $200,000 job and retire early?"
+      "title": "America\u2019s fertility rate has never been lower. Blame smartphones \u2014 and these 4 financial realities."
     },
     {
       "source": "MarketWatch",
-      "title": "My plumber charged $160 to fix the cistern on my toilet \u2014 but created another problem. Do I pay again?"
+      "title": "Renouncing your U.S. citizenship costs just $450. But there\u2019s a world of hidden costs, too."
     }
   ]
 }
