@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, June 17 2026  12:37 PT",
-  "market_status": "Live \u2014 as of 15:37 ET",
+  "generated_at": "Wednesday, June 17 2026  14:59 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7427.14,
-      "change_pct": -1.14
+      "price": 7420.1,
+      "change_pct": -1.21
     },
     "Nasdaq": {
-      "price": 26089.33,
-      "change_pct": -1.09
+      "price": 26021.66,
+      "change_pct": -1.34
     },
     "Dow Jones": {
-      "price": 51522.99,
-      "change_pct": -0.94
+      "price": 51492.55,
+      "change_pct": -0.98
     },
     "Russell 2000": {
-      "price": 2928.25,
-      "change_pct": -0.34
+      "price": 2917.98,
+      "change_pct": -0.72
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4256.7,
-      "change_pct": -2.17
+      "price": 4276.3,
+      "change_pct": -1.72
     },
     "Oil (WTI)": {
-      "price": 75.37,
-      "change_pct": 0.76
+      "price": 75.01,
+      "change_pct": 0.28
     },
     "Silver": {
-      "price": 67.97,
-      "change_pct": -3.2
+      "price": 67.96,
+      "change_pct": -3.22
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64424,
-      "change_pct": -1.77
+      "price": 64177,
+      "change_pct": -2.34
     },
     "ETH": {
-      "price": 1740.45,
-      "change_pct": -3.14
+      "price": 1736.54,
+      "change_pct": -3.24
     },
     "SOL": {
-      "price": 72.07,
-      "change_pct": -2.65
+      "price": 71.47,
+      "change_pct": -3.24
     },
     "BNB": {
-      "price": 600.59,
-      "change_pct": -0.98
+      "price": 599.04,
+      "change_pct": -1.27
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fed meeting recap: Warsh announces task forces to overhaul major Federal Reserve operations"
+      "title": "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman"
     },
     {
       "source": "CNBC",
-      "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed"
+      "title": "Trump says he likes idea of blaming Vance if Iran deal doesn't work out"
     },
     {
       "source": "MarketWatch",
-      "title": "The Knicks\u2019 ticker-tape parade is conquering a modern-day reality: Offices barely use any paper"
+      "title": "Stock-market pessimists have one less reason to worry as shares of banks and retailers perk up"
     },
     {
       "source": "MarketWatch",
-      "title": "The one-page pledge that forces your financial adviser to put you first"
+      "title": "The Fed just threw investors a curveball. Here\u2019s how stocks, bonds, gold and the dollar reacted."
     }
   ]
 }
