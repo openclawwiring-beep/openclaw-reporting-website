@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, June 16 2026  17:15 PT",
+  "generated_at": "Tuesday, June 16 2026  22:23 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,40 +15,40 @@
       "change_pct": 0.64
     },
     "Russell 2000": {
-      "price": 2939.19,
+      "price": 2939.2,
       "change_pct": -0.87
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4354.8,
-      "change_pct": 0.08
+      "price": 4342.3,
+      "change_pct": -0.19
     },
     "Oil (WTI)": {
-      "price": 75.76,
-      "change_pct": -6.11
+      "price": 74.81,
+      "change_pct": -0.41
     },
     "Silver": {
-      "price": 70.12,
-      "change_pct": 0.33
+      "price": 70.04,
+      "change_pct": -0.28
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65729,
-      "change_pct": -0.94
+      "price": 65707,
+      "change_pct": -0.53
     },
     "ETH": {
-      "price": 1794.28,
-      "change_pct": -0.11
+      "price": 1789.23,
+      "change_pct": 1.43
     },
     "SOL": {
-      "price": 73.65,
-      "change_pct": -0.58
+      "price": 73.48,
+      "change_pct": -0.25
     },
     "BNB": {
-      "price": 605.78,
-      "change_pct": -2.07
+      "price": 606.42,
+      "change_pct": -1.19
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Intel takes a major step toward turning around a business that\u2019s bleeding cash"
+      "title": "What have the U.S. and Iran agreed to? This is what markets are focused on."
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m spending $170,000 to upgrade my home for my aging parents. Can I get tax breaks?"
+      "title": "America\u2019s fertility rate has never been lower. Blame smartphones \u2014 and these 4 financial realities."
     }
   ]
 }
