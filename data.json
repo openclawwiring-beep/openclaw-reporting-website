@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, June 17 2026  16:45 PT",
+  "generated_at": "Wednesday, June 17 2026  20:53 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4299.1,
-      "change_pct": -1.2
+      "price": 4340.2,
+      "change_pct": -0.25
     },
     "Oil (WTI)": {
-      "price": 75.33,
-      "change_pct": 0.71
+      "price": 74.58,
+      "change_pct": -0.29
     },
     "Silver": {
-      "price": 68.4,
-      "change_pct": -2.58
+      "price": 69.22,
+      "change_pct": -1.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64382,
-      "change_pct": -1.96
+      "price": 64307,
+      "change_pct": -2.25
     },
     "ETH": {
-      "price": 1746.62,
-      "change_pct": -2.55
+      "price": 1744.05,
+      "change_pct": -2.74
     },
     "SOL": {
-      "price": 71.91,
-      "change_pct": -2.39
+      "price": 71.72,
+      "change_pct": -2.56
     },
     "BNB": {
-      "price": 600.91,
-      "change_pct": -0.71
+      "price": 596.53,
+      "change_pct": -1.35
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump says he likes idea of blaming Vance if Iran deal doesn't work out"
+      "title": "Oil falls as International Energy Agency forecasts supply glut next year after U.S.-Iran deal"
     },
     {
       "source": "MarketWatch",
-      "title": "Rumble gets 22,000 Nvidia chips, but the video company\u2019s CEO insists this isn\u2019t a fad-like pivot"
+      "title": "Inside the push to weaken Washington\u2019s toughest financial watchdog"
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s \u2018unavoidable\u2019: Apple says it will be forced to raise prices due to the AI boom"
+      "title": "Scared to spend your retirement money? Here\u2019s one way to get over the fear of running out."
     }
   ]
 }
