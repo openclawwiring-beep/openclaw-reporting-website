@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, June 18 2026  01:45 PT",
+  "generated_at": "Thursday, June 18 2026  05:25 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4302.0,
-      "change_pct": -0.87
+      "price": 4275.3,
+      "change_pct": -1.48
     },
     "Oil (WTI)": {
-      "price": 74.47,
-      "change_pct": -0.09
+      "price": 74.37,
+      "change_pct": -0.23
     },
     "Silver": {
-      "price": 68.33,
-      "change_pct": -1.37
+      "price": 67.07,
+      "change_pct": -3.2
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64479,
-      "change_pct": -0.7
+      "price": 64066,
+      "change_pct": -0.9
     },
     "ETH": {
-      "price": 1749.78,
-      "change_pct": -0.74
+      "price": 1747.85,
+      "change_pct": -0.05
     },
     "SOL": {
-      "price": 71.93,
-      "change_pct": -0.71
+      "price": 71.08,
+      "change_pct": -1.45
     },
     "BNB": {
-      "price": 591.54,
-      "change_pct": -1.67
+      "price": 589.85,
+      "change_pct": -2.59
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures rise as Fed hints at possible rate hike in 2026; Kospi hits over 9,000 for the first time: Live updates"
+      "title": "Trump hits back at critics as Iran peace deal fuels debate over U.S. concessions"
     },
     {
       "source": "CNBC",
-      "title": "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman"
+      "title": "Intel surges 9% after Trump says company will partner with Apple on U.S. chip design"
     },
     {
       "source": "MarketWatch",
-      "title": "Inside the push to weaken Washington\u2019s toughest financial watchdog"
+      "title": "Micron\u2019s stock is on the rise. Even Apple isn\u2019t safe from ballooning memory-chip costs."
     },
     {
       "source": "MarketWatch",
-      "title": "Scared to spend your retirement money? Here\u2019s one way to get over the fear of running out."
+      "title": "I\u2019m spending $170,000 to upgrade my home for my aging parents. Can I get tax breaks?"
     }
   ]
 }
