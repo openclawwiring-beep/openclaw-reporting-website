@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, June 18 2026  14:22 PT",
+  "generated_at": "Thursday, June 18 2026  16:17 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4227.9,
-      "change_pct": -2.57
+      "price": 4219.1,
+      "change_pct": -2.78
     },
     "Oil (WTI)": {
-      "price": 75.52,
-      "change_pct": 1.31
+      "price": 75.45,
+      "change_pct": 1.22
     },
     "Silver": {
-      "price": 65.78,
-      "change_pct": -5.06
+      "price": 65.49,
+      "change_pct": -5.48
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62955,
-      "change_pct": -2.1
+      "price": 62720,
+      "change_pct": -2.57
     },
     "ETH": {
-      "price": 1704.02,
-      "change_pct": -2.26
+      "price": 1702.44,
+      "change_pct": -2.51
     },
     "SOL": {
-      "price": 69.51,
-      "change_pct": -3.35
+      "price": 69.29,
+      "change_pct": -3.78
     },
     "BNB": {
-      "price": 578.9,
-      "change_pct": -3.67
+      "price": 576.67,
+      "change_pct": -3.99
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Vance says U.S. isn\u2019t giving Iran \u2018a cent\u2019 as he defends Trump peace deal"
+      "title": "The average SpaceX buyer post-IPO is almost under water after two-day slide"
     },
     {
       "source": "CNBC",
-      "title": "Markets are set for a much more hawkish Warsh Fed than expected"
+      "title": "Vance says U.S. isn\u2019t giving Iran \u2018a cent\u2019 as he defends Trump peace deal"
     },
     {
       "source": "MarketWatch",
-      "title": "Micron, other memory stocks are having their best year ever. Why do they still look so cheap?"
+      "title": "I\u2019m 55 and retiring in 6 years. Should I be switching to Roth 401(k) contributions now?"
     },
     {
       "source": "MarketWatch",
-      "title": "Dollar touches highest level in more than a year. Why this latest rally might be overdone."
+      "title": "Trump\u2019s Iran agreement is a massive buy signal for stocks"
     }
   ]
 }
