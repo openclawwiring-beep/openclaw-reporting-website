@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, June 17 2026  20:53 PT",
+  "generated_at": "Thursday, June 18 2026  01:45 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4340.2,
-      "change_pct": -0.25
+      "price": 4302.0,
+      "change_pct": -0.87
     },
     "Oil (WTI)": {
-      "price": 74.58,
-      "change_pct": -0.29
+      "price": 74.47,
+      "change_pct": -0.09
     },
     "Silver": {
-      "price": 69.22,
-      "change_pct": -1.42
+      "price": 68.33,
+      "change_pct": -1.37
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64307,
-      "change_pct": -2.25
+      "price": 64479,
+      "change_pct": -0.7
     },
     "ETH": {
-      "price": 1744.05,
-      "change_pct": -2.74
+      "price": 1749.78,
+      "change_pct": -0.74
     },
     "SOL": {
-      "price": 71.72,
-      "change_pct": -2.56
+      "price": 71.93,
+      "change_pct": -0.71
     },
     "BNB": {
-      "price": 596.53,
-      "change_pct": -1.35
+      "price": 591.54,
+      "change_pct": -1.67
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman"
+      "title": "Stock futures rise as Fed hints at possible rate hike in 2026; Kospi hits over 9,000 for the first time: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Oil falls as International Energy Agency forecasts supply glut next year after U.S.-Iran deal"
+      "title": "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman"
     },
     {
       "source": "MarketWatch",
