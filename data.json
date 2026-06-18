@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, June 18 2026  11:31 PT",
-  "market_status": "Live \u2014 as of 14:31 ET",
+  "generated_at": "Thursday, June 18 2026  14:22 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7494.67,
-      "change_pct": 0.98
+      "price": 7500.58,
+      "change_pct": 1.08
     },
     "Nasdaq": {
-      "price": 26423.54,
-      "change_pct": 1.54
+      "price": 26517.93,
+      "change_pct": 1.91
     },
     "Dow Jones": {
-      "price": 51636.97,
-      "change_pct": 0.26
+      "price": 51564.7,
+      "change_pct": 0.14
     },
     "Russell 2000": {
-      "price": 2965.04,
-      "change_pct": 1.64
+      "price": 2979.77,
+      "change_pct": 2.12
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4246.5,
-      "change_pct": -2.15
+      "price": 4227.9,
+      "change_pct": -2.57
     },
     "Oil (WTI)": {
-      "price": 75.34,
-      "change_pct": 1.07
+      "price": 75.52,
+      "change_pct": 1.31
     },
     "Silver": {
-      "price": 66.11,
-      "change_pct": -4.58
+      "price": 65.78,
+      "change_pct": -5.06
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62803,
-      "change_pct": -3.86
+      "price": 62955,
+      "change_pct": -2.1
     },
     "ETH": {
-      "price": 1685.06,
-      "change_pct": -4.54
+      "price": 1704.02,
+      "change_pct": -2.26
     },
     "SOL": {
-      "price": 68.8,
-      "change_pct": -5.92
+      "price": 69.51,
+      "change_pct": -3.35
     },
     "BNB": {
-      "price": 576.78,
-      "change_pct": -4.51
+      "price": 578.9,
+      "change_pct": -3.67
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "U.S. Navy ends blockade of Iran's ports and coastal areas"
+      "title": "Markets are set for a much more hawkish Warsh Fed than expected"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump\u2019s Iran agreement is a massive buy signal for stocks"
+      "title": "Micron, other memory stocks are having their best year ever. Why do they still look so cheap?"
     },
     {
       "source": "MarketWatch",
-      "title": "These stocks are in trouble now that Kevin Warsh removed the market\u2019s guardrails"
+      "title": "Dollar touches highest level in more than a year. Why this latest rally might be overdone."
     }
   ]
 }
