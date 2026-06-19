@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, June 19 2026  10:56 PT",
-  "market_status": "Live \u2014 as of 13:56 ET",
+  "generated_at": "Friday, June 19 2026  12:51 PT",
+  "market_status": "Live \u2014 as of 15:51 ET",
   "stocks": {
     "S&P 500": {
       "price": 7500.58,
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63132,
-      "change_pct": 1.0
+      "price": 62965,
+      "change_pct": 0.09
     },
     "ETH": {
-      "price": 1702.33,
-      "change_pct": 1.5
+      "price": 1699.95,
+      "change_pct": -0.25
     },
     "SOL": {
-      "price": 69.26,
-      "change_pct": 0.97
+      "price": 68.86,
+      "change_pct": -0.57
     },
     "BNB": {
-      "price": 579.03,
-      "change_pct": 0.65
+      "price": 578.52,
+      "change_pct": -0.01
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Warsh\u2019s new task forces give the Fed wiggle room to put off changing rates until December"
+      "title": "My two sons will inherit a $30,000 annuity from their grandmother. What should I do with the money?"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump picked Kevin Warsh to cut rates. The new Fed chief just told us he has other plans."
+      "title": "Employers to college students: Never mind that 4.0 GPA. Go out and get a summer job."
     }
   ]
 }
