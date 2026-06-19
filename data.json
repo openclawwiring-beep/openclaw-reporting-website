@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, June 18 2026  16:17 PT",
+  "generated_at": "Thursday, June 18 2026  19:16 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4219.1,
-      "change_pct": -2.78
+      "price": 4203.3,
+      "change_pct": -3.14
     },
     "Oil (WTI)": {
-      "price": 75.45,
-      "change_pct": 1.22
+      "price": 75.66,
+      "change_pct": 1.5
     },
     "Silver": {
-      "price": 65.49,
-      "change_pct": -5.48
+      "price": 64.97,
+      "change_pct": -6.22
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62720,
-      "change_pct": -2.57
+      "price": 62970,
+      "change_pct": -2.33
     },
     "ETH": {
-      "price": 1702.44,
-      "change_pct": -2.51
+      "price": 1709.69,
+      "change_pct": -2.42
     },
     "SOL": {
-      "price": 69.29,
-      "change_pct": -3.78
+      "price": 69.81,
+      "change_pct": -3.36
     },
     "BNB": {
-      "price": 576.67,
-      "change_pct": -3.99
+      "price": 581.37,
+      "change_pct": -3.25
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "The average SpaceX buyer post-IPO is almost under water after two-day slide"
+      "title": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios"
     },
     {
       "source": "CNBC",
-      "title": "Vance says U.S. isn\u2019t giving Iran \u2018a cent\u2019 as he defends Trump peace deal"
+      "title": "The average SpaceX buyer post-IPO is almost under water after two-day slide"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This AI company wants to replace MRIs with a 60-second dip in the spa. Can that really work?"
     },
     {
       "source": "MarketWatch",
       "title": "I\u2019m 55 and retiring in 6 years. Should I be switching to Roth 401(k) contributions now?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Trump\u2019s Iran agreement is a massive buy signal for stocks"
     }
   ]
 }
