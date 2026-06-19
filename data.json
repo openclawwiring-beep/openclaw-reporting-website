@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, June 18 2026  19:16 PT",
+  "generated_at": "Friday, June 19 2026  00:38 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,46 +15,46 @@
       "change_pct": 0.14
     },
     "Russell 2000": {
-      "price": 2979.77,
+      "price": 2979.76,
       "change_pct": 2.12
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4203.3,
-      "change_pct": -3.14
+      "price": 4170.7,
+      "change_pct": -3.89
     },
     "Oil (WTI)": {
-      "price": 75.66,
-      "change_pct": 1.5
+      "price": 76.18,
+      "change_pct": 2.2
     },
     "Silver": {
-      "price": 64.97,
-      "change_pct": -6.22
+      "price": 64.75,
+      "change_pct": -6.53
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62970,
-      "change_pct": -2.33
+      "price": 62600,
+      "change_pct": -2.73
     },
     "ETH": {
-      "price": 1709.69,
-      "change_pct": -2.42
+      "price": 1692.93,
+      "change_pct": -3.13
     },
     "SOL": {
-      "price": 69.81,
-      "change_pct": -3.36
+      "price": 68.33,
+      "change_pct": -4.61
     },
     "BNB": {
-      "price": 581.37,
-      "change_pct": -3.25
+      "price": 573.78,
+      "change_pct": -2.72
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios"
+      "title": "U.S.-Iran accord hits early snag after Swiss talks fail to proceed as planned"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "This AI company wants to replace MRIs with a 60-second dip in the spa. Can that really work?"
+      "title": "\u2018I\u2019ll probably be working until I die\u2019: I\u2019m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 55 and retiring in 6 years. Should I be switching to Roth 401(k) contributions now?"
+      "title": "Is Tesla succeeding in AI? Watch this for a clue."
     }
   ]
 }
