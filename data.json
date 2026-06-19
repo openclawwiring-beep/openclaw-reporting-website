@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, June 19 2026  12:51 PT",
-  "market_status": "Live \u2014 as of 15:51 ET",
+  "generated_at": "Friday, June 19 2026  14:09 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7500.58,
@@ -15,7 +15,7 @@
       "change_pct": 0.14
     },
     "Russell 2000": {
-      "price": 2979.77,
+      "price": 2979.76,
       "change_pct": 2.12
     }
   },
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62965,
-      "change_pct": 0.09
+      "price": 63124,
+      "change_pct": 0.13
     },
     "ETH": {
-      "price": 1699.95,
-      "change_pct": -0.25
+      "price": 1704.91,
+      "change_pct": -0.24
     },
     "SOL": {
-      "price": 68.86,
-      "change_pct": -0.57
+      "price": 69.09,
+      "change_pct": -0.96
     },
     "BNB": {
-      "price": 578.52,
-      "change_pct": -0.01
+      "price": 580.81,
+      "change_pct": 0.27
     }
   },
   "headlines": [
