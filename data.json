@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, June 19 2026  05:04 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, June 19 2026  08:47 PT",
+  "market_status": "Live \u2014 as of 11:47 ET",
   "stocks": {
     "S&P 500": {
       "price": 7500.58,
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4168.0,
-      "change_pct": -3.95
+      "price": 4168.6,
+      "change_pct": -3.94
     },
     "Oil (WTI)": {
-      "price": 76.2,
-      "change_pct": 2.23
+      "price": 76.61,
+      "change_pct": 2.78
     },
     "Silver": {
-      "price": 64.72,
+      "price": 64.73,
       "change_pct": -6.57
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62589,
-      "change_pct": -2.13
+      "price": 63191,
+      "change_pct": 0.82
     },
     "ETH": {
-      "price": 1691.52,
-      "change_pct": -2.96
+      "price": 1707.21,
+      "change_pct": 0.76
     },
     "SOL": {
-      "price": 68.25,
-      "change_pct": -3.68
+      "price": 69.35,
+      "change_pct": 0.35
     },
     "BNB": {
-      "price": 573.02,
-      "change_pct": -2.74
+      "price": 578.99,
+      "change_pct": 0.55
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Musk's SpaceX stake is worth over $1 trillion. Here are the other billionaire shareholders"
+      "title": "Oil prices rise after U.S.-Iran peace talks in Geneva are abruptly postponed"
     },
     {
       "source": "CNBC",
-      "title": "U.S.-Iran accord hits early snag after Swiss talks fail to proceed as planned"
+      "title": "Musk's SpaceX stake is worth over $1 trillion. Here are the other billionaire shareholders"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I became invisible when I turned 60\u2019: The hidden crisis of late-career unemployment"
+      "title": "\u2018We own our home outright\u2019: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?"
     },
     {
       "source": "MarketWatch",
-      "title": "The Fed\u2019s new hawkish reality just forced Goldman Sachs to slash its gold forecast by $500"
+      "title": "The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it"
     }
   ]
 }
