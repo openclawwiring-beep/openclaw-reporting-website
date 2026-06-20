@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 20 2026  12:24 PT",
+  "generated_at": "Saturday, June 20 2026  13:50 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63849,
-      "change_pct": 1.43
+      "price": 63827,
+      "change_pct": 1.13
     },
     "ETH": {
-      "price": 1724.75,
-      "change_pct": 1.51
+      "price": 1726.78,
+      "change_pct": 1.36
     },
     "SOL": {
-      "price": 71.64,
-      "change_pct": 4.04
+      "price": 71.81,
+      "change_pct": 4.3
     },
     "BNB": {
-      "price": 585.33,
-      "change_pct": 1.26
+      "price": 585.37,
+      "change_pct": 0.9
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Scared to spend your retirement money? Here\u2019s one way to get over the fear of running out."
+      "title": "\u2018Money can make you happy\u2019: My wife and I have no heirs, but we\u2019re making the world a better place by giving it away"
     },
     {
       "source": "MarketWatch",
-      "title": "You\u2019re going to pay tax on RMDs \u2014 there\u2019s no way around it. Or is there?"
+      "title": "Scared to spend your retirement money? Here\u2019s one way to get over the fear of running out."
     }
   ]
 }
