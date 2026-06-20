@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 20 2026  15:05 PT",
+  "generated_at": "Saturday, June 20 2026  16:44 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,7 +15,7 @@
       "change_pct": 0.14
     },
     "Russell 2000": {
-      "price": 2979.76,
+      "price": 2979.77,
       "change_pct": 2.12
     }
   },
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63944,
-      "change_pct": 1.5
+      "price": 64235,
+      "change_pct": 1.54
     },
     "ETH": {
-      "price": 1732.93,
-      "change_pct": 1.94
+      "price": 1739.91,
+      "change_pct": 1.98
     },
     "SOL": {
-      "price": 72.32,
-      "change_pct": 4.88
+      "price": 73.3,
+      "change_pct": 5.58
     },
     "BNB": {
-      "price": 585.71,
-      "change_pct": 1.05
+      "price": 587.67,
+      "change_pct": 1.28
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks"
+      "title": "Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks"
     },
     {
       "source": "CNBC",
