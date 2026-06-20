@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 20 2026  09:16 PT",
+  "generated_at": "Saturday, June 20 2026  10:54 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63942,
-      "change_pct": 1.13
+      "price": 63766,
+      "change_pct": 1.0
     },
     "ETH": {
-      "price": 1734.86,
-      "change_pct": 1.62
+      "price": 1724.57,
+      "change_pct": 1.3
     },
     "SOL": {
-      "price": 71.64,
-      "change_pct": 3.36
+      "price": 71.4,
+      "change_pct": 3.01
     },
     "BNB": {
-      "price": 586.44,
-      "change_pct": 1.23
+      "price": 584.79,
+      "change_pct": 1.04
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "AI buildout gives tech investors new reasons to watch bond market"
+      "title": "Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks"
     },
     {
       "source": "CNBC",
-      "title": "Iran closes Strait of Hormuz again and says its negotiating team is heading to Switzerland"
+      "title": "AI buildout gives tech investors new reasons to watch bond market"
     },
     {
       "source": "MarketWatch",
-      "title": "AbbVie would gain an experimental eczema drug by buying biotech: report"
+      "title": "The one-page pledge that forces your financial adviser to put you first"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019ll probably be working until I die\u2019: I\u2019m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?"
+      "title": "Three powerful forces are draining family wealth \u2014 and your estate plan is completely unprepared"
     }
   ]
 }
