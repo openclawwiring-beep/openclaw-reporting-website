@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 20 2026  07:41 PT",
+  "generated_at": "Saturday, June 20 2026  09:16 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63351,
-      "change_pct": 0.14
+      "price": 63942,
+      "change_pct": 1.13
     },
     "ETH": {
-      "price": 1713.46,
-      "change_pct": 0.55
+      "price": 1734.86,
+      "change_pct": 1.62
     },
     "SOL": {
-      "price": 70.87,
-      "change_pct": 2.26
+      "price": 71.64,
+      "change_pct": 3.36
     },
     "BNB": {
-      "price": 582.28,
-      "change_pct": 0.73
+      "price": 586.44,
+      "change_pct": 1.23
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla booted from the \u2018Magnificent Seven\u2019 by a top fund manager. Here is the tech giant he\u2019s crowned."
+      "title": "AbbVie would gain an experimental eczema drug by buying biotech: report"
     },
     {
       "source": "MarketWatch",
-      "title": "Employers to college students: Never mind that 4.0 GPA. Go out and get a summer job."
+      "title": "\u2018I\u2019ll probably be working until I die\u2019: I\u2019m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?"
     }
   ]
 }
