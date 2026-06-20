@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, June 19 2026  21:50 PT",
+  "generated_at": "Saturday, June 20 2026  01:20 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63513,
-      "change_pct": 1.64
+      "price": 63488,
+      "change_pct": 1.48
     },
     "ETH": {
-      "price": 1712.25,
-      "change_pct": 1.45
+      "price": 1723.69,
+      "change_pct": 1.73
     },
     "SOL": {
-      "price": 70.78,
-      "change_pct": 3.37
+      "price": 71.48,
+      "change_pct": 4.59
     },
     "BNB": {
-      "price": 580.53,
-      "change_pct": 1.4
+      "price": 586.84,
+      "change_pct": 2.28
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My two sons will inherit a $30,000 annuity from their grandmother. What should I do with the money?"
+      "title": "My mother was co-owner of my late grandmother\u2019s bank account. Should she share the money with her siblings?"
     },
     {
       "source": "MarketWatch",
-      "title": "Employers to college students: Never mind that 4.0 GPA. Go out and get a summer job."
+      "title": "My two sons will inherit a $30,000 annuity from their grandmother. What should I do with the money?"
     }
   ]
 }
