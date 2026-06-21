@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 21 2026  11:04 PT",
+  "generated_at": "Sunday, June 21 2026  13:11 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63971,
-      "change_pct": 0.22
+      "price": 64138,
+      "change_pct": 0.37
     },
     "ETH": {
-      "price": 1721.59,
-      "change_pct": -0.36
+      "price": 1731.47,
+      "change_pct": 0.18
     },
     "SOL": {
-      "price": 74.08,
-      "change_pct": 3.52
+      "price": 74.32,
+      "change_pct": 3.41
     },
     "BNB": {
-      "price": 589.44,
-      "change_pct": 0.73
+      "price": 590.68,
+      "change_pct": 0.91
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My mother was co-owner of my late grandmother\u2019s bank account. Should she share the money with her siblings?"
+      "title": "\u2018I\u2019ll probably be working until I die\u2019: I\u2019m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We own our home outright\u2019: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?"
+      "title": "I\u2019m spending $170,000 to upgrade my home for my aging parents. Can I get tax breaks?"
     }
   ]
 }
