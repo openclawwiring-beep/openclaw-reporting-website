@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 21 2026  09:14 PT",
+  "generated_at": "Sunday, June 21 2026  11:04 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64102,
-      "change_pct": 0.28
+      "price": 63971,
+      "change_pct": 0.22
     },
     "ETH": {
-      "price": 1726.55,
-      "change_pct": -0.43
+      "price": 1721.59,
+      "change_pct": -0.36
     },
     "SOL": {
-      "price": 73.9,
-      "change_pct": 3.16
+      "price": 74.08,
+      "change_pct": 3.52
     },
     "BNB": {
-      "price": 588.97,
-      "change_pct": 0.44
+      "price": 589.44,
+      "change_pct": 0.73
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump threatens Iran with fresh strikes as Vance attends talks in Switzerland"
+      "title": "Trump threatens Iran with fresh strikes as Vance leads peace talks in Switzerland"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My mother was co-owner of my late grandmother\u2019s bank account. Should she share the money with her siblings?"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018We own our home outright\u2019: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My two sons will inherit a $30,000 annuity from their grandmother. What should I do with the money?"
     }
   ]
 }
