@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 21 2026  04:45 PT",
+  "generated_at": "Sunday, June 21 2026  07:08 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64181,
-      "change_pct": 0.81
+      "price": 64048,
+      "change_pct": 1.31
     },
     "ETH": {
-      "price": 1723.94,
-      "change_pct": -0.14
+      "price": 1722.79,
+      "change_pct": 0.69
     },
     "SOL": {
-      "price": 73.29,
-      "change_pct": 2.2
+      "price": 73.83,
+      "change_pct": 3.94
     },
     "BNB": {
-      "price": 588.13,
-      "change_pct": 0.36
+      "price": 587.59,
+      "change_pct": 0.87
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Vance arrives in Switzerland for talks with Iranian negotiators amid rising Strait of Hormuz tensions"
+      "title": "U.S. and Iran begin peace talks amid conflicting claims over Strait of Hormuz"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Money can make you happy\u2019: My wife and I have no heirs, but we\u2019re making the world a better place by giving it away"
+      "title": "My two sons will inherit a $30,000 annuity from their grandmother. What should I do with the money?"
     },
     {
       "source": "MarketWatch",
-      "title": "Scared to spend your retirement money? Here\u2019s one way to get over the fear of running out."
+      "title": "Micron\u2019s earnings are a must-watch market event \u2014 with profit growth approaching 1,000%"
     }
   ]
 }
