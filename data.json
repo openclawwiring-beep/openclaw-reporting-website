@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 21 2026  13:11 PT",
+  "generated_at": "Sunday, June 21 2026  14:53 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64138,
-      "change_pct": 0.37
+      "price": 63767,
+      "change_pct": -0.28
     },
     "ETH": {
-      "price": 1731.47,
-      "change_pct": 0.18
+      "price": 1717.65,
+      "change_pct": -0.92
     },
     "SOL": {
-      "price": 74.32,
-      "change_pct": 3.41
+      "price": 73.21,
+      "change_pct": 1.31
     },
     "BNB": {
-      "price": 590.68,
-      "change_pct": 0.91
+      "price": 587.54,
+      "change_pct": 0.31
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019ll probably be working until I die\u2019: I\u2019m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?"
+      "title": "The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m spending $170,000 to upgrade my home for my aging parents. Can I get tax breaks?"
+      "title": "\u2018I\u2019ll probably be working until I die\u2019: I\u2019m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?"
     }
   ]
 }
