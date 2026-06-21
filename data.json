@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 21 2026  14:53 PT",
+  "generated_at": "Sunday, June 21 2026  16:11 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4172.9,
-      "change_pct": -3.84
+      "price": 4172.1,
+      "change_pct": 0.11
     },
     "Oil (WTI)": {
-      "price": 76.54,
-      "change_pct": 2.68
+      "price": 77.54,
+      "change_pct": 3.03
     },
     "Silver": {
-      "price": 64.91,
-      "change_pct": -6.31
+      "price": 64.85,
+      "change_pct": 1.19
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63767,
-      "change_pct": -0.28
+      "price": 63660,
+      "change_pct": -0.86
     },
     "ETH": {
-      "price": 1717.65,
-      "change_pct": -0.92
+      "price": 1712.04,
+      "change_pct": -1.63
     },
     "SOL": {
-      "price": 73.21,
-      "change_pct": 1.31
+      "price": 72.83,
+      "change_pct": -0.76
     },
     "BNB": {
-      "price": 587.54,
-      "change_pct": 0.31
+      "price": 585.83,
+      "change_pct": -0.27
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed"
+      "title": "Stock futures fall as oil prices rise; investors await key reading on inflation: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it"
+      "title": "This bull market isn\u2019t going to end because of Fed rate hikes under Warsh"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019ll probably be working until I die\u2019: I\u2019m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?"
+      "title": "The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it"
     }
   ]
 }
