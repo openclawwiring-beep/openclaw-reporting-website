@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 21 2026  07:08 PT",
+  "generated_at": "Sunday, June 21 2026  09:14 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64048,
-      "change_pct": 1.31
+      "price": 64102,
+      "change_pct": 0.28
     },
     "ETH": {
-      "price": 1722.79,
-      "change_pct": 0.69
+      "price": 1726.55,
+      "change_pct": -0.43
     },
     "SOL": {
-      "price": 73.83,
-      "change_pct": 3.94
+      "price": 73.9,
+      "change_pct": 3.16
     },
     "BNB": {
-      "price": 587.59,
-      "change_pct": 0.87
+      "price": 588.97,
+      "change_pct": 0.44
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. and Iran begin peace talks amid conflicting claims over Strait of Hormuz"
+      "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed"
     },
     {
       "source": "CNBC",
-      "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed"
+      "title": "Trump threatens Iran with fresh strikes as Vance attends talks in Switzerland"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018We own our home outright\u2019: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?"
     },
     {
       "source": "MarketWatch",
       "title": "My two sons will inherit a $30,000 annuity from their grandmother. What should I do with the money?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron\u2019s earnings are a must-watch market event \u2014 with profit growth approaching 1,000%"
     }
   ]
 }
