@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 21 2026  01:45 PT",
+  "generated_at": "Sunday, June 21 2026  04:45 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,7 +15,7 @@
       "change_pct": 0.14
     },
     "Russell 2000": {
-      "price": 2979.76,
+      "price": 2979.77,
       "change_pct": 2.12
     }
   },
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63889,
-      "change_pct": 0.82
+      "price": 64181,
+      "change_pct": 0.81
     },
     "ETH": {
-      "price": 1726.22,
-      "change_pct": 0.28
+      "price": 1723.94,
+      "change_pct": -0.14
     },
     "SOL": {
-      "price": 72.91,
-      "change_pct": 2.18
+      "price": 73.29,
+      "change_pct": 2.2
     },
     "BNB": {
-      "price": 587.41,
-      "change_pct": 0.33
+      "price": 588.13,
+      "change_pct": 0.36
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "AI buildout gives tech investors new reasons to watch bond market"
+      "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed"
     },
     {
       "source": "MarketWatch",
