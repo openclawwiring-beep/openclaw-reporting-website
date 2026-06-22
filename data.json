@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, June 22 2026  01:37 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, June 22 2026  07:38 PT",
+  "market_status": "Live \u2014 as of 10:38 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7500.58,
-      "change_pct": 1.08
+      "price": 7483.58,
+      "change_pct": -0.19
     },
     "Nasdaq": {
-      "price": 26517.93,
-      "change_pct": 1.91
+      "price": 26300.34,
+      "change_pct": -0.82
     },
     "Dow Jones": {
-      "price": 51564.7,
-      "change_pct": 0.14
+      "price": 51684.55,
+      "change_pct": 0.24
     },
     "Russell 2000": {
-      "price": 2979.77,
-      "change_pct": 2.12
+      "price": 2997.21,
+      "change_pct": 0.57
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4208.5,
-      "change_pct": 0.45
+      "price": 4213.9,
+      "change_pct": 0.58
     },
     "Oil (WTI)": {
-      "price": 75.66,
-      "change_pct": -0.04
+      "price": 73.71,
+      "change_pct": -2.62
     },
     "Silver": {
-      "price": 65.88,
-      "change_pct": 0.43
+      "price": 66.18,
+      "change_pct": 0.88
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64091,
-      "change_pct": 0.31
+      "price": 64968,
+      "change_pct": 1.57
     },
     "ETH": {
-      "price": 1744.64,
-      "change_pct": 1.18
+      "price": 1756.41,
+      "change_pct": 1.98
     },
     "SOL": {
-      "price": 73.89,
-      "change_pct": 1.37
+      "price": 73.63,
+      "change_pct": -0.26
     },
     "BNB": {
-      "price": 592.81,
-      "change_pct": 0.94
+      "price": 597.35,
+      "change_pct": 1.49
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S., Iran agree on roadmap for final deal and plan to end military operations in Lebanon"
+      "title": "Treasury Department authorizes Iranian oil sales through August"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures fall as investors weigh Iran deal progress and await key reading on inflation: Live updates"
+      "title": "Alan Greenspan, former chairman of the Fed, dies at age 100"
     },
     {
       "source": "MarketWatch",
-      "title": "This bull market isn\u2019t going to end because of Fed rate hikes under Warsh"
+      "title": "U.S. oil prices fall below $74 a barrel on 60-day pause on Iranian oil sanctions"
     },
     {
       "source": "MarketWatch",
-      "title": "The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it"
+      "title": "Employers to college students: Never mind that 4.0 GPA. Go out and get a summer job."
     }
   ]
 }
