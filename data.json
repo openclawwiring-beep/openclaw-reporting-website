@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, June 22 2026  14:31 PT",
+  "generated_at": "Monday, June 22 2026  16:17 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4172.9,
-      "change_pct": -0.4
+      "price": 4208.5,
+      "change_pct": 0.45
     },
     "Oil (WTI)": {
-      "price": 76.54,
-      "change_pct": 1.12
+      "price": 74.18,
+      "change_pct": -1.99
     },
     "Silver": {
-      "price": 64.91,
-      "change_pct": -1.05
+      "price": 65.14,
+      "change_pct": -0.71
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64231,
-      "change_pct": 0.84
+      "price": 63853,
+      "change_pct": 0.33
     },
     "ETH": {
-      "price": 1732.04,
-      "change_pct": 0.96
+      "price": 1720.85,
+      "change_pct": 0.61
     },
     "SOL": {
-      "price": 72.61,
-      "change_pct": -0.24
+      "price": 71.92,
+      "change_pct": -1.22
     },
     "BNB": {
-      "price": 590.44,
-      "change_pct": 0.63
+      "price": 588.62,
+      "change_pct": 0.47
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Super Micro\u2019s stock is seeing its best run in a year thanks to Nvidia partnership"
+      "title": "Trump may say he\u2019s banning Wall Street from buying homes. Does the bipartisan housing bill actually do that?"
     },
     {
       "source": "MarketWatch",
-      "title": "Micron\u2019s stock momentum builds as the company inks a new Anthropic partnership"
+      "title": "Big Tech has split into two artificial-intelligence camps \u2014 but the smart money isn\u2019t chasing the next OpenAI"
     }
   ]
 }
