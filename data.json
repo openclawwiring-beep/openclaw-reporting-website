@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, June 22 2026  22:47 PT",
+  "generated_at": "Tuesday, June 23 2026  02:36 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4148.1,
-      "change_pct": -0.75
+      "price": 4131.6,
+      "change_pct": -0.74
     },
     "Oil (WTI)": {
-      "price": 73.42,
-      "change_pct": -0.69
+      "price": 73.46,
+      "change_pct": -0.24
     },
     "Silver": {
-      "price": 63.01,
-      "change_pct": -1.79
+      "price": 62.38,
+      "change_pct": -1.35
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63371,
-      "change_pct": -1.28
+      "price": 62413,
+      "change_pct": -2.52
     },
     "ETH": {
-      "price": 1712.23,
-      "change_pct": -1.32
+      "price": 1650.6,
+      "change_pct": -5.34
     },
     "SOL": {
-      "price": 71.01,
-      "change_pct": -3.94
+      "price": 68.85,
+      "change_pct": -6.5
     },
     "BNB": {
-      "price": 585.55,
-      "change_pct": -0.97
+      "price": 572.34,
+      "change_pct": -3.36
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SpaceX stock tanks 16%, extending slump following post-IPO rally"
+      "title": "Tech rout intensifies as selloff grips global stocks"
     },
     {
       "source": "CNBC",
-      "title": "Alphabet has its worst day in over a year on AI concerns after high-profile exits"
+      "title": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran"
     },
     {
       "source": "MarketWatch",
-      "title": "These 6 fast-growing stocks sit at the cutting edge of space and military technology"
+      "title": "I want to leave everything to my sons, but I\u2019m terrified they\u2019ll give it to my ex-husband. How do I prevent this?"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump may say he\u2019s banning Wall Street from buying homes. Does the bipartisan housing bill actually do that?"
+      "title": "This billionaire trading tycoon argues the public is looking at federal debt all wrong"
     }
   ]
 }
