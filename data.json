@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, June 23 2026  05:31 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, June 23 2026  08:46 PT",
+  "market_status": "Live \u2014 as of 11:46 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7472.79,
-      "change_pct": -0.37
+      "price": 7377.48,
+      "change_pct": -1.31
     },
     "Nasdaq": {
-      "price": 26166.6,
-      "change_pct": -1.32
+      "price": 25661.04,
+      "change_pct": -1.93
     },
     "Dow Jones": {
-      "price": 51712.71,
-      "change_pct": 0.29
+      "price": 51687.0,
+      "change_pct": -0.08
     },
     "Russell 2000": {
-      "price": 3004.4,
-      "change_pct": 0.83
+      "price": 2978.36,
+      "change_pct": -0.85
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4130.6,
-      "change_pct": -0.76
+      "price": 4152.5,
+      "change_pct": -0.23
     },
     "Oil (WTI)": {
-      "price": 73.41,
-      "change_pct": -0.31
+      "price": 72.82,
+      "change_pct": -1.11
     },
     "Silver": {
-      "price": 61.82,
-      "change_pct": -2.25
+      "price": 62.13,
+      "change_pct": -1.75
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62347,
-      "change_pct": -3.86
+      "price": 62229,
+      "change_pct": -4.16
     },
     "ETH": {
-      "price": 1656.99,
-      "change_pct": -5.99
+      "price": 1653.92,
+      "change_pct": -5.49
     },
     "SOL": {
-      "price": 69.07,
-      "change_pct": -6.93
+      "price": 68.67,
+      "change_pct": -6.37
     },
     "BNB": {
-      "price": 574.22,
-      "change_pct": -3.97
+      "price": 572.71,
+      "change_pct": -4.14
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nasdaq futures tumble led by tech stocks as Micron drops 9%; South Korea's Kospi falls 10%: Live updates"
+      "title": "S&P 500 falls on global chip rout with Nasdaq off 2%, led by Micron: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Oracle sheds 21,000 roles over the past year amid wave of AI layoffs from tech giants"
+      "title": "Factory job cuts in June neared financial crisis and Covid levels, S&P says"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 70. A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?"
+      "title": "These stocks are falling the most on Tuesday as the tech sector comes under pressure"
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX sheds $400 billion in value as stock slides below its IPO-day closing price"
+      "title": "At school, it\u2019s cheating. At work, it\u2019s essential. New grads are caught in a double standard around AI."
     }
   ]
 }
