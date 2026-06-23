@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, June 23 2026  10:53 PT",
-  "market_status": "Live \u2014 as of 13:53 ET",
+  "generated_at": "Tuesday, June 23 2026  13:02 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7396.04,
-      "change_pct": -1.06
+      "price": 7365.47,
+      "change_pct": -1.44
     },
     "Nasdaq": {
-      "price": 25745.69,
-      "change_pct": -1.61
+      "price": 25587.04,
+      "change_pct": -2.21
     },
     "Dow Jones": {
-      "price": 51813.55,
-      "change_pct": 0.16
+      "price": 51665.49,
+      "change_pct": -0.09
     },
     "Russell 2000": {
-      "price": 2993.47,
-      "change_pct": -0.34
+      "price": 2974.38,
+      "change_pct": -0.98
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4148.8,
-      "change_pct": -0.32
+      "price": 4132.9,
+      "change_pct": -0.7
     },
     "Oil (WTI)": {
-      "price": 73.1,
-      "change_pct": -0.73
+      "price": 73.37,
+      "change_pct": -0.37
     },
     "Silver": {
-      "price": 61.99,
-      "change_pct": -1.97
+      "price": 61.63,
+      "change_pct": -2.54
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62420,
-      "change_pct": -3.26
+      "price": 62399,
+      "change_pct": -3.32
     },
     "ETH": {
-      "price": 1656.98,
-      "change_pct": -4.63
+      "price": 1663.23,
+      "change_pct": -4.22
     },
     "SOL": {
-      "price": 68.81,
-      "change_pct": -5.72
+      "price": 68.83,
+      "change_pct": -5.46
     },
     "BNB": {
-      "price": 573.56,
-      "change_pct": -3.53
+      "price": 575.73,
+      "change_pct": -2.79
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 falls on global chip rout with Nasdaq off more than 1%, led by Micron: Live updates"
+      "title": "Nasdaq closes 2% lower, led by Micron, as global tech sell-off rattles markets: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Factory job cuts in June neared financial crisis and Covid levels, S&P says"
+      "title": "SpaceX raises $25 billion in debt sale less than two weeks after IPO"
     },
     {
       "source": "MarketWatch",
-      "title": "How to work in retirement without seeing your Social Security checks slashed"
+      "title": "SpaceX stock\u2019s wild price swings since its IPO show how risky leveraged ETFs can be"
     },
     {
       "source": "MarketWatch",
-      "title": "Your index fund is hiding a looming tech-stock risk \u2014 here is how to protect your portfolio"
+      "title": "Researchers cracked the code on predicting market bubbles. Here\u2019s what it\u2019s saying about today\u2019s stock prices."
     }
   ]
 }
