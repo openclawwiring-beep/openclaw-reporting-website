@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, June 23 2026  02:36 PT",
+  "generated_at": "Tuesday, June 23 2026  05:31 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4131.6,
-      "change_pct": -0.74
+      "price": 4130.6,
+      "change_pct": -0.76
     },
     "Oil (WTI)": {
-      "price": 73.46,
-      "change_pct": -0.24
+      "price": 73.41,
+      "change_pct": -0.31
     },
     "Silver": {
-      "price": 62.38,
-      "change_pct": -1.35
+      "price": 61.82,
+      "change_pct": -2.25
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62413,
-      "change_pct": -2.52
+      "price": 62347,
+      "change_pct": -3.86
     },
     "ETH": {
-      "price": 1650.6,
-      "change_pct": -5.34
+      "price": 1656.99,
+      "change_pct": -5.99
     },
     "SOL": {
-      "price": 68.85,
-      "change_pct": -6.5
+      "price": 69.07,
+      "change_pct": -6.93
     },
     "BNB": {
-      "price": 572.34,
-      "change_pct": -3.36
+      "price": 574.22,
+      "change_pct": -3.97
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Tech rout intensifies as selloff grips global stocks"
+      "title": "Nasdaq futures tumble led by tech stocks as Micron drops 9%; South Korea's Kospi falls 10%: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran"
+      "title": "Oracle sheds 21,000 roles over the past year amid wave of AI layoffs from tech giants"
     },
     {
       "source": "MarketWatch",
-      "title": "I want to leave everything to my sons, but I\u2019m terrified they\u2019ll give it to my ex-husband. How do I prevent this?"
+      "title": "I\u2019m 70. A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?"
     },
     {
       "source": "MarketWatch",
-      "title": "This billionaire trading tycoon argues the public is looking at federal debt all wrong"
+      "title": "SpaceX sheds $400 billion in value as stock slides below its IPO-day closing price"
     }
   ]
 }
