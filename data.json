@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, June 23 2026  14:56 PT",
+  "generated_at": "Tuesday, June 23 2026  16:09 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4129.0,
-      "change_pct": -0.8
+      "price": 4122.5,
+      "change_pct": -0.95
     },
     "Oil (WTI)": {
-      "price": 73.05,
-      "change_pct": -0.8
+      "price": 72.96,
+      "change_pct": -0.92
     },
     "Silver": {
-      "price": 61.63,
-      "change_pct": -2.55
+      "price": 61.51,
+      "change_pct": -2.74
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62543,
-      "change_pct": -2.63
+      "price": 62452,
+      "change_pct": -2.32
     },
     "ETH": {
-      "price": 1664.67,
-      "change_pct": -3.82
+      "price": 1659.26,
+      "change_pct": -3.75
     },
     "SOL": {
-      "price": 69.17,
-      "change_pct": -4.72
+      "price": 69.34,
+      "change_pct": -3.66
     },
     "BNB": {
-      "price": 576.33,
-      "change_pct": -2.38
+      "price": 576.1,
+      "change_pct": -2.24
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Cerebras falls 8% after chipmaker forecasts shrinking margin in first earnings report since IPO"
+      "title": "Cerebras falls 10% after chipmaker forecasts shrinking margin in first earnings report since IPO"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Alphabet\u2019s stock is set to join the Dow. Here\u2019s which company is getting the boot."
+      "title": "\u2018It seems too good to be true\u2019: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?"
     },
     {
       "source": "MarketWatch",
-      "title": "Cerebras delivers its first earnings report \u2014 but it\u2019s not enough to lift the stock"
+      "title": "I want to leave everything to my sons, but I\u2019m terrified they\u2019ll give it to my ex-husband. How do I prevent this?"
     }
   ]
 }
