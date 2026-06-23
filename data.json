@@ -1,9 +1,9 @@
 {
-  "generated_at": "Tuesday, June 23 2026  13:02 PT",
+  "generated_at": "Tuesday, June 23 2026  14:56 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7365.47,
+      "price": 7365.46,
       "change_pct": -1.44
     },
     "Nasdaq": {
@@ -11,50 +11,50 @@
       "change_pct": -2.21
     },
     "Dow Jones": {
-      "price": 51665.49,
+      "price": 51666.84,
       "change_pct": -0.09
     },
     "Russell 2000": {
-      "price": 2974.38,
-      "change_pct": -0.98
+      "price": 2975.48,
+      "change_pct": -0.96
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4132.9,
-      "change_pct": -0.7
+      "price": 4129.0,
+      "change_pct": -0.8
     },
     "Oil (WTI)": {
-      "price": 73.37,
-      "change_pct": -0.37
+      "price": 73.05,
+      "change_pct": -0.8
     },
     "Silver": {
       "price": 61.63,
-      "change_pct": -2.54
+      "change_pct": -2.55
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62399,
-      "change_pct": -3.32
+      "price": 62543,
+      "change_pct": -2.63
     },
     "ETH": {
-      "price": 1663.23,
-      "change_pct": -4.22
+      "price": 1664.67,
+      "change_pct": -3.82
     },
     "SOL": {
-      "price": 68.83,
-      "change_pct": -5.46
+      "price": 69.17,
+      "change_pct": -4.72
     },
     "BNB": {
-      "price": 575.73,
-      "change_pct": -2.79
+      "price": 576.33,
+      "change_pct": -2.38
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nasdaq closes 2% lower, led by Micron, as global tech sell-off rattles markets: Live updates"
+      "title": "Cerebras falls 8% after chipmaker forecasts shrinking margin in first earnings report since IPO"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX stock\u2019s wild price swings since its IPO show how risky leveraged ETFs can be"
+      "title": "Alphabet\u2019s stock is set to join the Dow. Here\u2019s which company is getting the boot."
     },
     {
       "source": "MarketWatch",
-      "title": "Researchers cracked the code on predicting market bubbles. Here\u2019s what it\u2019s saying about today\u2019s stock prices."
+      "title": "Cerebras delivers its first earnings report \u2014 but it\u2019s not enough to lift the stock"
     }
   ]
 }
