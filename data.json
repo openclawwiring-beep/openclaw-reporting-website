@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, June 23 2026  22:36 PT",
+  "generated_at": "Wednesday, June 24 2026  02:27 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4087.7,
-      "change_pct": 0.39
+      "price": 4093.6,
+      "change_pct": 0.34
     },
     "Oil (WTI)": {
-      "price": 72.7,
-      "change_pct": 0.47
+      "price": 71.76,
+      "change_pct": -0.91
     },
     "Silver": {
-      "price": 61.47,
-      "change_pct": 0.34
+      "price": 61.35,
+      "change_pct": -0.1
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62824,
-      "change_pct": -0.84
+      "price": 62636,
+      "change_pct": 0.32
     },
     "ETH": {
-      "price": 1671.76,
-      "change_pct": -2.29
+      "price": 1666.83,
+      "change_pct": 0.89
     },
     "SOL": {
-      "price": 69.89,
-      "change_pct": -1.58
+      "price": 69.36,
+      "change_pct": 0.67
     },
     "BNB": {
-      "price": 579.34,
-      "change_pct": -1.05
+      "price": 576.36,
+      "change_pct": 0.59
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Three New York Democrats backed by Mamdani win House seat primaries; 2 incumbents lose"
+      "title": "Brent falls below $76, notching its lowest level since day before U.S.-Iran war"
     },
     {
       "source": "CNBC",
-      "title": "Ukraine is raising the cost of war for Russia \u2014 and testing Putin's resolve"
+      "title": "Three New York Democrats backed by Mamdani win House seat primaries; 2 incumbents lose"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump may say he\u2019s banning Wall Street from buying homes. Does the bipartisan housing bill actually do that?"
+      "title": "\u2018I\u2019m scared of making a huge financial mistake\u2019: I gave my brother half of my $1.5 million home. Can he force me to sell?"
     },
     {
       "source": "MarketWatch",
-      "title": "The No. 1 NBA draft pick will make nearly $70 million as TV deals keep money flowing into the NBA"
+      "title": "Coming to America: SK Hynix plans depository receipt listing on the Nasdaq"
     }
   ]
 }
