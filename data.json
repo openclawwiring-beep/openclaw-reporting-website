@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, June 24 2026  14:09 PT",
+  "generated_at": "Wednesday, June 24 2026  15:46 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4016.6,
-      "change_pct": -1.55
+      "price": 4022.3,
+      "change_pct": -1.41
     },
     "Oil (WTI)": {
-      "price": 69.87,
-      "change_pct": -3.52
+      "price": 69.82,
+      "change_pct": -3.59
     },
     "Silver": {
-      "price": 57.52,
-      "change_pct": -6.33
+      "price": 57.84,
+      "change_pct": -5.81
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60653,
-      "change_pct": -2.9
+      "price": 60817,
+      "change_pct": -2.68
     },
     "ETH": {
-      "price": 1606.55,
-      "change_pct": -3.41
+      "price": 1614.58,
+      "change_pct": -2.87
     },
     "SOL": {
-      "price": 67.35,
-      "change_pct": -2.47
+      "price": 67.77,
+      "change_pct": -2.41
     },
     "BNB": {
-      "price": 560.86,
-      "change_pct": -2.6
+      "price": 562.89,
+      "change_pct": -2.37
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Micron stock jumps 16% as soaring prices from memory crunch lead to quadrupling of revenue"
+      "title": "Micron stock jumps 15% as soaring prices from memory crunch lead to quadrupling of revenue"
     },
     {
       "source": "CNBC",
-      "title": "Trump cancels signing of bipartisan housing bill ahead of tense meeting with GOP senators"
+      "title": "White House requests $87.6 billion supplemental spending for Iran war, farm aid"
     },
     {
       "source": "MarketWatch",
-      "title": "Everyone on Wall Street now believes in buying the dip. That is exactly why you should worry."
+      "title": "\u2018I\u2019m scared of making a huge financial mistake\u2019: I gave my brother half of my $1.5 million home. Can he force me to sell?"
     },
     {
       "source": "MarketWatch",
-      "title": "Could the U.S. join Germany in raising its retirement age?"
+      "title": "Qualcomm\u2019s stock is soaring as these big numbers excite Wall Street"
     }
   ]
 }
