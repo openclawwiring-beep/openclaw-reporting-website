@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, June 24 2026  08:17 PT",
-  "market_status": "Live \u2014 as of 11:17 ET",
+  "generated_at": "Wednesday, June 24 2026  10:26 PT",
+  "market_status": "Live \u2014 as of 13:26 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7420.63,
-      "change_pct": 0.75
+      "price": 7359.43,
+      "change_pct": -0.08
     },
     "Nasdaq": {
-      "price": 25798.38,
-      "change_pct": 0.83
+      "price": 25525.14,
+      "change_pct": -0.24
     },
     "Dow Jones": {
-      "price": 52143.22,
-      "change_pct": 0.92
+      "price": 51839.79,
+      "change_pct": 0.33
     },
     "Russell 2000": {
-      "price": 3011.65,
-      "change_pct": 1.21
+      "price": 2997.3,
+      "change_pct": 0.73
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4016.7,
-      "change_pct": -1.55
+      "price": 4020.4,
+      "change_pct": -1.46
     },
     "Oil (WTI)": {
-      "price": 69.68,
-      "change_pct": -3.78
+      "price": 70.33,
+      "change_pct": -2.89
     },
     "Silver": {
-      "price": 58.84,
-      "change_pct": -4.18
+      "price": 58.38,
+      "change_pct": -4.93
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60844,
-      "change_pct": -2.19
+      "price": 59403,
+      "change_pct": -5.07
     },
     "ETH": {
-      "price": 1638.41,
-      "change_pct": -0.87
+      "price": 1569.62,
+      "change_pct": -5.5
     },
     "SOL": {
-      "price": 68.37,
-      "change_pct": -0.46
+      "price": 65.5,
+      "change_pct": -4.98
     },
     "BNB": {
-      "price": 567.17,
-      "change_pct": -0.94
+      "price": 551.46,
+      "change_pct": -4.02
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump cancels signing of bipartisan housing bill, demanding voter-ID provision"
+      "title": "Trump cancels signing of bipartisan housing bill, demanding voter ID provision"
     },
     {
       "source": "CNBC",
-      "title": "U.S. crude oil dips below $70 as tankers transit Strait of Hormuz"
+      "title": "Cerebras CEO says margin forecast was 'misunderstood' as stock plummets after earnings"
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla and Waymo duel in the robotaxi race \u2014 but the company spending the most builds no cars at all"
+      "title": "Everyone on Wall Street now believes in buying the dip. That is exactly why you should worry."
     },
     {
       "source": "MarketWatch",
-      "title": "My houseguest left heat marks all over my table. I didn\u2019t notice them until she was gone. Do I ask her to pay to remove them?"
+      "title": "Social Security says I was overpaid for 7 years. I believe it\u2019s mistaken. Can they cut my benefits?"
     }
   ]
 }
