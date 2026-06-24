@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, June 24 2026  05:05 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, June 24 2026  08:17 PT",
+  "market_status": "Live \u2014 as of 11:17 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7365.46,
-      "change_pct": -1.44
+      "price": 7420.63,
+      "change_pct": 0.75
     },
     "Nasdaq": {
-      "price": 25587.04,
-      "change_pct": -2.21
+      "price": 25798.38,
+      "change_pct": 0.83
     },
     "Dow Jones": {
-      "price": 51666.84,
-      "change_pct": -0.09
+      "price": 52143.22,
+      "change_pct": 0.92
     },
     "Russell 2000": {
-      "price": 2975.48,
-      "change_pct": -0.96
+      "price": 3011.65,
+      "change_pct": 1.21
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4068.1,
-      "change_pct": -0.29
+      "price": 4016.7,
+      "change_pct": -1.55
     },
     "Oil (WTI)": {
-      "price": 71.11,
-      "change_pct": -1.81
+      "price": 69.68,
+      "change_pct": -3.78
     },
     "Silver": {
-      "price": 59.92,
-      "change_pct": -2.41
+      "price": 58.84,
+      "change_pct": -4.18
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62860,
-      "change_pct": 0.69
+      "price": 60844,
+      "change_pct": -2.19
     },
     "ETH": {
-      "price": 1677.77,
-      "change_pct": 1.12
+      "price": 1638.41,
+      "change_pct": -0.87
     },
     "SOL": {
-      "price": 69.67,
-      "change_pct": 0.65
+      "price": 68.37,
+      "change_pct": -0.46
     },
     "BNB": {
-      "price": 579.0,
-      "change_pct": 0.97
+      "price": 567.17,
+      "change_pct": -0.94
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump claims Iran has assured U.S. there won't be tolls on the Strait of Hormuz"
+      "title": "Trump cancels signing of bipartisan housing bill, demanding voter-ID provision"
     },
     {
       "source": "CNBC",
-      "title": "Treasury Secretary Bessent says U.S. GDP growth can return to 3% before end of the year"
+      "title": "U.S. crude oil dips below $70 as tankers transit Strait of Hormuz"
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla and Waymo are chasing the robotaxi dream \u2014 but the company spending the most to win builds no cars at all"
+      "title": "Tesla and Waymo duel in the robotaxi race \u2014 but the company spending the most builds no cars at all"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s what happened after 17 other one-day plunges in semiconductor stocks over the last 15 years"
+      "title": "My houseguest left heat marks all over my table. I didn\u2019t notice them until she was gone. Do I ask her to pay to remove them?"
     }
   ]
 }
