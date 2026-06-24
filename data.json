@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, June 23 2026  18:24 PT",
+  "generated_at": "Tuesday, June 23 2026  22:36 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4107.3,
-      "change_pct": -1.32
+      "price": 4087.7,
+      "change_pct": 0.39
     },
     "Oil (WTI)": {
-      "price": 72.5,
-      "change_pct": -1.55
+      "price": 72.7,
+      "change_pct": 0.47
     },
     "Silver": {
-      "price": 61.46,
-      "change_pct": -2.82
+      "price": 61.47,
+      "change_pct": 0.34
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62781,
-      "change_pct": -2.11
+      "price": 62824,
+      "change_pct": -0.84
     },
     "ETH": {
-      "price": 1667.52,
-      "change_pct": -3.72
+      "price": 1671.76,
+      "change_pct": -2.29
     },
     "SOL": {
-      "price": 69.72,
-      "change_pct": -2.94
+      "price": 69.89,
+      "change_pct": -1.58
     },
     "BNB": {
-      "price": 578.9,
-      "change_pct": -2.06
+      "price": 579.34,
+      "change_pct": -1.05
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Asian tech stocks rebound after global rout; Samsung up 9%"
+      "title": "Three New York Democrats backed by Mamdani win House seat primaries; 2 incumbents lose"
     },
     {
       "source": "CNBC",
-      "title": "Cerebras falls 10% after chipmaker forecasts shrinking margin in first earnings report since IPO"
+      "title": "Ukraine is raising the cost of war for Russia \u2014 and testing Putin's resolve"
     },
     {
       "source": "MarketWatch",
