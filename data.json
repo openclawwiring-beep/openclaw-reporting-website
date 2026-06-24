@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, June 24 2026  02:27 PT",
+  "generated_at": "Wednesday, June 24 2026  05:05 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4093.6,
-      "change_pct": 0.34
+      "price": 4068.1,
+      "change_pct": -0.29
     },
     "Oil (WTI)": {
-      "price": 71.76,
-      "change_pct": -0.91
+      "price": 71.11,
+      "change_pct": -1.81
     },
     "Silver": {
-      "price": 61.35,
-      "change_pct": -0.1
+      "price": 59.92,
+      "change_pct": -2.41
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62636,
-      "change_pct": 0.32
+      "price": 62860,
+      "change_pct": 0.69
     },
     "ETH": {
-      "price": 1666.83,
-      "change_pct": 0.89
+      "price": 1677.77,
+      "change_pct": 1.12
     },
     "SOL": {
-      "price": 69.36,
-      "change_pct": 0.67
+      "price": 69.67,
+      "change_pct": 0.65
     },
     "BNB": {
-      "price": 576.36,
-      "change_pct": 0.59
+      "price": 579.0,
+      "change_pct": 0.97
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Brent falls below $76, notching its lowest level since day before U.S.-Iran war"
+      "title": "Trump claims Iran has assured U.S. there won't be tolls on the Strait of Hormuz"
     },
     {
       "source": "CNBC",
-      "title": "Three New York Democrats backed by Mamdani win House seat primaries; 2 incumbents lose"
+      "title": "Treasury Secretary Bessent says U.S. GDP growth can return to 3% before end of the year"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m scared of making a huge financial mistake\u2019: I gave my brother half of my $1.5 million home. Can he force me to sell?"
+      "title": "Tesla and Waymo are chasing the robotaxi dream \u2014 but the company spending the most to win builds no cars at all"
     },
     {
       "source": "MarketWatch",
-      "title": "Coming to America: SK Hynix plans depository receipt listing on the Nasdaq"
+      "title": "Here\u2019s what happened after 17 other one-day plunges in semiconductor stocks over the last 15 years"
     }
   ]
 }
