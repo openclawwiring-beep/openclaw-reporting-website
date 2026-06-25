@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, June 25 2026  15:20 PT",
+  "generated_at": "Thursday, June 25 2026  16:52 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4040.2,
-      "change_pct": 0.69
+      "price": 4039.2,
+      "change_pct": 0.67
     },
     "Oil (WTI)": {
-      "price": 71.53,
-      "change_pct": 3.17
+      "price": 71.49,
+      "change_pct": 3.12
     },
     "Silver": {
-      "price": 57.7,
-      "change_pct": 0.31
+      "price": 57.93,
+      "change_pct": 0.71
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59880,
-      "change_pct": -1.63
+      "price": 59760,
+      "change_pct": -1.89
     },
     "ETH": {
-      "price": 1569.56,
-      "change_pct": -2.84
+      "price": 1565.8,
+      "change_pct": -3.21
     },
     "SOL": {
-      "price": 66.95,
-      "change_pct": -1.56
+      "price": 67.7,
+      "change_pct": -0.32
     },
     "BNB": {
-      "price": 559.86,
-      "change_pct": -0.68
+      "price": 560.39,
+      "change_pct": -0.54
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures are little changed after Nasdaq posts four-day losing run: Live updates"
+      "title": "S&P 500 futures are little changed as index heads for losing week: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have full guardianship\u2019: My son has special needs. If I buy him a condo, will that hurt his benefits?"
+      "title": "SpaceX stock is a terrible buy \u2014 what that actually means for the bull market"
     },
     {
       "source": "MarketWatch",
-      "title": "The S&P 500 is at a critical crossroads. A break lower could signal more losses ahead."
+      "title": "A world rejecting OPEC controls could usher in oil below $50 a barrel"
     }
   ]
 }
