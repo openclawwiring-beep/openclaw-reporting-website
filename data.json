@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, June 24 2026  17:11 PT",
+  "generated_at": "Wednesday, June 24 2026  21:44 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -7,7 +7,7 @@
       "change_pct": -0.1
     },
     "Nasdaq": {
-      "price": 25476.63,
+      "price": 25476.64,
       "change_pct": -0.43
     },
     "Dow Jones": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4026.9,
-      "change_pct": -1.3
+      "price": 4006.5,
+      "change_pct": -1.8
     },
     "Oil (WTI)": {
-      "price": 70.01,
-      "change_pct": -3.33
+      "price": 69.43,
+      "change_pct": -4.13
     },
     "Silver": {
-      "price": 57.69,
-      "change_pct": -6.06
+      "price": 57.39,
+      "change_pct": -6.54
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60965,
-      "change_pct": -2.86
-    },
-    "ETH": {
-      "price": 1620.91,
+      "price": 60816,
       "change_pct": -2.84
     },
+    "ETH": {
+      "price": 1617.95,
+      "change_pct": -2.71
+    },
     "SOL": {
-      "price": 68.07,
-      "change_pct": -2.33
+      "price": 67.56,
+      "change_pct": -2.42
     },
     "BNB": {
-      "price": 564.22,
-      "change_pct": -2.51
+      "price": 564.32,
+      "change_pct": -2.07
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Micron stock jumps 15% as soaring prices from memory crunch lead to quadrupling of revenue"
+      "title": "Iran declares new Hormuz route 'unacceptable and dangerous,' warns against ships transiting without approval"
     },
     {
       "source": "CNBC",
-      "title": "White House requests $87.6 billion supplemental spending for Iran war, farm aid"
+      "title": "SK Hynix surges 12% after Micron earnings; blockbuster Nasdaq listing"
     },
     {
       "source": "MarketWatch",
-      "title": "Rocket Lab, Lockheed Martin among the partners in SpaceX\u2019s military space-laser project"
+      "title": "Tesla and Waymo duel in the robotaxi race \u2014 but the company spending the most builds no cars at all"
     },
     {
       "source": "MarketWatch",
-      "title": "A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?"
+      "title": "Why SK Hynix\u2019s $30 billion U.S. listing could be a double-edged sword for Micron\u2019s stock"
     }
   ]
 }
