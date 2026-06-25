@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, June 25 2026  11:31 PT",
-  "market_status": "Live \u2014 as of 14:31 ET",
+  "generated_at": "Thursday, June 25 2026  13:55 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7378.35,
-      "change_pct": 0.25
+      "price": 7357.49,
+      "change_pct": -0.01
     },
     "Nasdaq": {
-      "price": 25447.16,
-      "change_pct": -0.12
+      "price": 25358.6,
+      "change_pct": -0.46
     },
     "Dow Jones": {
-      "price": 52073.63,
-      "change_pct": 0.42
+      "price": 51920.62,
+      "change_pct": 0.14
     },
     "Russell 2000": {
-      "price": 3001.05,
-      "change_pct": 0.49
+      "price": 3007.86,
+      "change_pct": 0.71
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4053.4,
-      "change_pct": 1.02
+      "price": 4041.3,
+      "change_pct": 0.72
     },
     "Oil (WTI)": {
-      "price": 71.8,
-      "change_pct": 3.56
+      "price": 71.56,
+      "change_pct": 3.22
     },
     "Silver": {
-      "price": 58.31,
-      "change_pct": 1.36
+      "price": 57.87,
+      "change_pct": 0.61
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59605,
-      "change_pct": -0.01
+      "price": 59299,
+      "change_pct": -2.84
     },
     "ETH": {
-      "price": 1570.62,
-      "change_pct": -0.38
+      "price": 1555.66,
+      "change_pct": -3.69
     },
     "SOL": {
-      "price": 66.39,
-      "change_pct": 0.43
+      "price": 66.1,
+      "change_pct": -2.25
     },
     "BNB": {
-      "price": 558.32,
-      "change_pct": 0.75
+      "price": 553.83,
+      "change_pct": -1.68
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Apple stock drops 6% on MacBook and iPad price hikes due to memory crunch"
+      "title": "Nasdaq falls for a fourth day as a drop in Apple overshadows Micron's booming earnings: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Microsoft lifts price of Xbox consoles due to soaring component costs"
+      "title": "Iran behind attack on cargo vessel near Oman in Strait of Hormuz, U.S. official tells MS NOW"
     },
     {
       "source": "MarketWatch",
-      "title": "Iran tightens its grip on Strait of Hormuz, sending oil prices higher"
+      "title": "After losing my son, would it be a mistake to sell my recently purchased house and move to my hometown?"
     },
     {
       "source": "MarketWatch",
-      "title": "I want to leave everything to my sons, but I\u2019m terrified they\u2019ll give it to my ex-husband. How do I prevent this?"
+      "title": "Microsoft\u2019s stock is suffering a historic June rout as investors balk at heavy spending"
     }
   ]
 }
