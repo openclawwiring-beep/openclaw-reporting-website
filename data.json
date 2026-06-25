@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, June 25 2026  06:35 PT",
-  "market_status": "Live \u2014 as of 09:35 ET",
+  "generated_at": "Thursday, June 25 2026  09:22 PT",
+  "market_status": "Live \u2014 as of 12:22 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7404.28,
-      "change_pct": 0.6
+      "price": 7381.14,
+      "change_pct": 0.29
     },
     "Nasdaq": {
-      "price": 25627.43,
-      "change_pct": 0.59
+      "price": 25421.53,
+      "change_pct": -0.22
     },
     "Dow Jones": {
-      "price": 52166.18,
-      "change_pct": 0.59
+      "price": 52265.61,
+      "change_pct": 0.79
     },
     "Russell 2000": {
-      "price": 2986.63,
-      "change_pct": 0.37
+      "price": 3005.76,
+      "change_pct": 0.65
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4038.7,
-      "change_pct": 0.66
+      "price": 4052.6,
+      "change_pct": 1.0
     },
     "Oil (WTI)": {
-      "price": 69.99,
-      "change_pct": 0.95
+      "price": 71.63,
+      "change_pct": 3.32
     },
     "Silver": {
-      "price": 58.32,
-      "change_pct": 1.39
+      "price": 58.64,
+      "change_pct": 1.95
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60972,
-      "change_pct": -1.35
+      "price": 59675,
+      "change_pct": -1.42
     },
     "ETH": {
-      "price": 1623.61,
-      "change_pct": -1.9
+      "price": 1573.71,
+      "change_pct": -3.49
     },
     "SOL": {
-      "price": 67.86,
-      "change_pct": -1.29
+      "price": 66.54,
+      "change_pct": -1.57
     },
     "BNB": {
-      "price": 564.91,
-      "change_pct": -1.21
+      "price": 555.35,
+      "change_pct": -1.24
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed\u2019s preferred gauge shows"
+      "title": "Apple stock drops 5% on MacBook and iPad price hikes due to memory crunch"
     },
     {
       "source": "CNBC",
-      "title": "Apple raises prices on MacBook and iPad due to memory crunch, hints at more to come"
+      "title": "Bayer wins Supreme Court case making it harder to sue over glyphosate in Monsanto's Roundup"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m scared of making a huge financial mistake\u2019: I gave my brother half of my $1.5 million home. Can he force me to sell?"
+      "title": "\u2018It feels like a medical miracle\u2019: How did a single QR code coupon cut my $618 Walgreens prescription to $15?"
     },
     {
       "source": "MarketWatch",
-      "title": "Rocket Lab, Lockheed Martin among the partners in SpaceX\u2019s military space-laser project"
+      "title": "This disease is more expensive than cancer and heart disease combined. And it\u2019s only going to get worse."
     }
   ]
 }
