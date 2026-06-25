@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, June 25 2026  09:22 PT",
-  "market_status": "Live \u2014 as of 12:22 ET",
+  "generated_at": "Thursday, June 25 2026  11:31 PT",
+  "market_status": "Live \u2014 as of 14:31 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7381.14,
-      "change_pct": 0.29
+      "price": 7378.35,
+      "change_pct": 0.25
     },
     "Nasdaq": {
-      "price": 25421.53,
-      "change_pct": -0.22
+      "price": 25447.16,
+      "change_pct": -0.12
     },
     "Dow Jones": {
-      "price": 52265.61,
-      "change_pct": 0.79
+      "price": 52073.63,
+      "change_pct": 0.42
     },
     "Russell 2000": {
-      "price": 3005.76,
-      "change_pct": 0.65
+      "price": 3001.05,
+      "change_pct": 0.49
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4052.6,
-      "change_pct": 1.0
+      "price": 4053.4,
+      "change_pct": 1.02
     },
     "Oil (WTI)": {
-      "price": 71.63,
-      "change_pct": 3.32
+      "price": 71.8,
+      "change_pct": 3.56
     },
     "Silver": {
-      "price": 58.64,
-      "change_pct": 1.95
+      "price": 58.31,
+      "change_pct": 1.36
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59675,
-      "change_pct": -1.42
+      "price": 59605,
+      "change_pct": -0.01
     },
     "ETH": {
-      "price": 1573.71,
-      "change_pct": -3.49
+      "price": 1570.62,
+      "change_pct": -0.38
     },
     "SOL": {
-      "price": 66.54,
-      "change_pct": -1.57
+      "price": 66.39,
+      "change_pct": 0.43
     },
     "BNB": {
-      "price": 555.35,
-      "change_pct": -1.24
+      "price": 558.32,
+      "change_pct": 0.75
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Apple stock drops 5% on MacBook and iPad price hikes due to memory crunch"
+      "title": "Apple stock drops 6% on MacBook and iPad price hikes due to memory crunch"
     },
     {
       "source": "CNBC",
-      "title": "Bayer wins Supreme Court case making it harder to sue over glyphosate in Monsanto's Roundup"
+      "title": "Microsoft lifts price of Xbox consoles due to soaring component costs"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It feels like a medical miracle\u2019: How did a single QR code coupon cut my $618 Walgreens prescription to $15?"
+      "title": "Iran tightens its grip on Strait of Hormuz, sending oil prices higher"
     },
     {
       "source": "MarketWatch",
-      "title": "This disease is more expensive than cancer and heart disease combined. And it\u2019s only going to get worse."
+      "title": "I want to leave everything to my sons, but I\u2019m terrified they\u2019ll give it to my ex-husband. How do I prevent this?"
     }
   ]
 }
