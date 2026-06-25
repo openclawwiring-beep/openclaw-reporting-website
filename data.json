@@ -1,18 +1,18 @@
 {
-  "generated_at": "Thursday, June 25 2026  04:14 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, June 25 2026  06:35 PT",
+  "market_status": "Live \u2014 as of 09:35 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7358.22,
-      "change_pct": -0.1
+      "price": 7404.28,
+      "change_pct": 0.6
     },
     "Nasdaq": {
-      "price": 25476.64,
-      "change_pct": -0.43
+      "price": 25627.43,
+      "change_pct": 0.59
     },
     "Dow Jones": {
-      "price": 51848.9,
-      "change_pct": 0.35
+      "price": 52166.18,
+      "change_pct": 0.59
     },
     "Russell 2000": {
       "price": 2986.63,
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3998.6,
-      "change_pct": -0.34
+      "price": 4038.7,
+      "change_pct": 0.66
     },
     "Oil (WTI)": {
-      "price": 69.35,
-      "change_pct": 0.03
+      "price": 69.99,
+      "change_pct": 0.95
     },
     "Silver": {
-      "price": 57.29,
-      "change_pct": -0.4
+      "price": 58.32,
+      "change_pct": 1.39
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61082,
-      "change_pct": -1.93
+      "price": 60972,
+      "change_pct": -1.35
     },
     "ETH": {
-      "price": 1629.89,
-      "change_pct": -1.67
+      "price": 1623.61,
+      "change_pct": -1.9
     },
     "SOL": {
-      "price": 68.04,
-      "change_pct": -1.22
+      "price": 67.86,
+      "change_pct": -1.29
     },
     "BNB": {
-      "price": 561.66,
-      "change_pct": -2.11
+      "price": 564.91,
+      "change_pct": -1.21
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nasdaq futures rally as Micron surges after earnings; Wall Street awaits key inflation reading: Live updates"
+      "title": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed\u2019s preferred gauge shows"
     },
     {
       "source": "CNBC",
-      "title": "Chevron says no quick fix for gas prices as Trump takes on Big Oil: \u2018It\u2019s going to take time\u2019"
+      "title": "Apple raises prices on MacBook and iPad due to memory crunch, hints at more to come"
     },
     {
       "source": "MarketWatch",
-      "title": "Here are five themes Wall Street left behind while chasing a single trade"
+      "title": "\u2018I\u2019m scared of making a huge financial mistake\u2019: I gave my brother half of my $1.5 million home. Can he force me to sell?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Take the money while you can\u2019: I\u2019m a CPA and tell my clients to take their Social Security early. Am I wrong?"
+      "title": "Rocket Lab, Lockheed Martin among the partners in SpaceX\u2019s military space-laser project"
     }
   ]
 }
