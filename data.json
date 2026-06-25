@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, June 25 2026  01:21 PT",
+  "generated_at": "Thursday, June 25 2026  04:14 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4000.9,
-      "change_pct": -0.29
+      "price": 3998.6,
+      "change_pct": -0.34
     },
     "Oil (WTI)": {
-      "price": 69.77,
-      "change_pct": 0.63
+      "price": 69.35,
+      "change_pct": 0.03
     },
     "Silver": {
-      "price": 57.42,
-      "change_pct": -0.18
+      "price": 57.29,
+      "change_pct": -0.4
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61662,
-      "change_pct": -1.53
+      "price": 61082,
+      "change_pct": -1.93
     },
     "ETH": {
-      "price": 1649.92,
-      "change_pct": -1.15
+      "price": 1629.89,
+      "change_pct": -1.67
     },
     "SOL": {
-      "price": 69.08,
-      "change_pct": -0.26
+      "price": 68.04,
+      "change_pct": -1.22
     },
     "BNB": {
-      "price": 568.62,
-      "change_pct": -1.35
+      "price": 561.66,
+      "change_pct": -2.11
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval"
+      "title": "Nasdaq futures rally as Micron surges after earnings; Wall Street awaits key inflation reading: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "SK Hynix surges 12% after Micron earnings; blockbuster Nasdaq listing"
+      "title": "Chevron says no quick fix for gas prices as Trump takes on Big Oil: \u2018It\u2019s going to take time\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla and Waymo duel in the robotaxi race \u2014 but the company spending the most builds no cars at all"
+      "title": "Here are five themes Wall Street left behind while chasing a single trade"
     },
     {
       "source": "MarketWatch",
-      "title": "Why SK Hynix\u2019s $30 billion U.S. listing could be a double-edged sword for Micron\u2019s stock"
+      "title": "\u2018Take the money while you can\u2019: I\u2019m a CPA and tell my clients to take their Social Security early. Am I wrong?"
     }
   ]
 }
