@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, June 25 2026  13:55 PT",
+  "generated_at": "Thursday, June 25 2026  15:20 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4041.3,
-      "change_pct": 0.72
+      "price": 4040.2,
+      "change_pct": 0.69
     },
     "Oil (WTI)": {
-      "price": 71.56,
-      "change_pct": 3.22
+      "price": 71.53,
+      "change_pct": 3.17
     },
     "Silver": {
-      "price": 57.87,
-      "change_pct": 0.61
+      "price": 57.7,
+      "change_pct": 0.31
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59299,
-      "change_pct": -2.84
+      "price": 59880,
+      "change_pct": -1.63
     },
     "ETH": {
-      "price": 1555.66,
-      "change_pct": -3.69
+      "price": 1569.56,
+      "change_pct": -2.84
     },
     "SOL": {
-      "price": 66.1,
-      "change_pct": -2.25
+      "price": 66.95,
+      "change_pct": -1.56
     },
     "BNB": {
-      "price": 553.83,
-      "change_pct": -1.68
+      "price": 559.86,
+      "change_pct": -0.68
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nasdaq falls for a fourth day as a drop in Apple overshadows Micron's booming earnings: Live updates"
+      "title": "Stock futures are little changed after Nasdaq posts four-day losing run: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "After losing my son, would it be a mistake to sell my recently purchased house and move to my hometown?"
+      "title": "\u2018I have full guardianship\u2019: My son has special needs. If I buy him a condo, will that hurt his benefits?"
     },
     {
       "source": "MarketWatch",
-      "title": "Microsoft\u2019s stock is suffering a historic June rout as investors balk at heavy spending"
+      "title": "The S&P 500 is at a critical crossroads. A break lower could signal more losses ahead."
     }
   ]
 }
