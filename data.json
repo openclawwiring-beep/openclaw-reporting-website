@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, June 25 2026  16:52 PT",
+  "generated_at": "Thursday, June 25 2026  20:36 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4039.2,
-      "change_pct": 0.67
+      "price": 4011.0,
+      "change_pct": -0.03
     },
     "Oil (WTI)": {
-      "price": 71.49,
-      "change_pct": 3.12
+      "price": 70.54,
+      "change_pct": 1.75
     },
     "Silver": {
-      "price": 57.93,
-      "change_pct": 0.71
+      "price": 56.35,
+      "change_pct": -2.03
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59760,
-      "change_pct": -1.89
+      "price": 59130,
+      "change_pct": -2.55
     },
     "ETH": {
-      "price": 1565.8,
-      "change_pct": -3.21
+      "price": 1531.07,
+      "change_pct": -5.19
     },
     "SOL": {
-      "price": 67.7,
-      "change_pct": -0.32
+      "price": 66.78,
+      "change_pct": -1.17
     },
     "BNB": {
-      "price": 560.39,
-      "change_pct": -0.54
+      "price": 556.39,
+      "change_pct": -1.37
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 futures are little changed as index heads for losing week: Live updates"
+      "title": "SoftBank sinks 12% as Asia tech rout tracks declines in the U.S."
     },
     {
       "source": "CNBC",
-      "title": "Iran behind attack on cargo vessel near Oman in Strait of Hormuz, U.S. official tells MS NOW"
+      "title": "S&P 500 futures decline as index heads for losing week; South Korea's Kospi falls 5%: Live updates"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "SpaceX FOMO is officially over. Space stocks across the board are getting punished."
     },
     {
       "source": "MarketWatch",
       "title": "SpaceX stock is a terrible buy \u2014 what that actually means for the bull market"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A world rejecting OPEC controls could usher in oil below $50 a barrel"
     }
   ]
 }
