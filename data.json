@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, June 25 2026  20:36 PT",
+  "generated_at": "Friday, June 26 2026  00:51 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4011.0,
-      "change_pct": -0.03
+      "price": 4050.0,
+      "change_pct": 0.78
     },
     "Oil (WTI)": {
-      "price": 70.54,
-      "change_pct": 1.75
+      "price": 70.24,
+      "change_pct": -0.5
     },
     "Silver": {
-      "price": 56.35,
-      "change_pct": -2.03
+      "price": 58.4,
+      "change_pct": 3.13
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59130,
-      "change_pct": -2.55
+      "price": 60440,
+      "change_pct": -2.16
     },
     "ETH": {
-      "price": 1531.07,
-      "change_pct": -5.19
+      "price": 1578.55,
+      "change_pct": -4.58
     },
     "SOL": {
-      "price": 66.78,
-      "change_pct": -1.17
+      "price": 70.57,
+      "change_pct": 1.85
     },
     "BNB": {
-      "price": 556.39,
-      "change_pct": -1.37
+      "price": 568.01,
+      "change_pct": -0.31
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SoftBank sinks 12% as Asia tech rout tracks declines in the U.S."
+      "title": "Global tech sell-off deepens as South Korea's Kospi sinks nearly 6%, S&P 500 futures fall: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "S&P 500 futures decline as index heads for losing week; South Korea's Kospi falls 5%: Live updates"
+      "title": "Tumbling AI stocks signal another day of turmoil for tech companies"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The Wall Street equivalent of roster-cut day happens Friday. It\u2019ll be one of the biggest volume days of the year."
     },
     {
       "source": "MarketWatch",
       "title": "SpaceX FOMO is officially over. Space stocks across the board are getting punished."
-    },
-    {
-      "source": "MarketWatch",
-      "title": "SpaceX stock is a terrible buy \u2014 what that actually means for the bull market"
     }
   ]
 }
