@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, June 26 2026  00:51 PT",
+  "generated_at": "Friday, June 26 2026  03:50 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4050.0,
-      "change_pct": 0.78
+      "price": 4064.1,
+      "change_pct": 1.13
     },
     "Oil (WTI)": {
-      "price": 70.24,
-      "change_pct": -0.5
+      "price": 69.46,
+      "change_pct": -1.6
     },
     "Silver": {
-      "price": 58.4,
-      "change_pct": 3.13
+      "price": 58.65,
+      "change_pct": 3.58
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60440,
-      "change_pct": -2.16
+      "price": 59329,
+      "change_pct": -3.18
     },
     "ETH": {
-      "price": 1578.55,
-      "change_pct": -4.58
+      "price": 1545.74,
+      "change_pct": -5.46
     },
     "SOL": {
-      "price": 70.57,
-      "change_pct": 1.85
+      "price": 68.77,
+      "change_pct": 0.68
     },
     "BNB": {
-      "price": 568.01,
-      "change_pct": -0.31
+      "price": 563.63,
+      "change_pct": -0.1
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Global tech sell-off deepens as South Korea's Kospi sinks nearly 6%, S&P 500 futures fall: Live updates"
+      "title": "U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman"
     },
     {
       "source": "CNBC",
-      "title": "Tumbling AI stocks signal another day of turmoil for tech companies"
+      "title": "Micron falls 5% in premarket, paring earlier gains amid tech rout"
     },
     {
       "source": "MarketWatch",
-      "title": "The Wall Street equivalent of roster-cut day happens Friday. It\u2019ll be one of the biggest volume days of the year."
+      "title": "Why this earnings exuberance may be a problem for the stock market, according to this Wall Street veteran"
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX FOMO is officially over. Space stocks across the board are getting punished."
+      "title": "Why a reported delay for OpenAI\u2019s listing complicates further the picture for tech stocks"
     }
   ]
 }
