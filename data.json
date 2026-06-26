@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, June 26 2026  03:50 PT",
+  "generated_at": "Friday, June 26 2026  06:09 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4064.1,
-      "change_pct": 1.13
+      "price": 4074.5,
+      "change_pct": 1.39
     },
     "Oil (WTI)": {
-      "price": 69.46,
-      "change_pct": -1.6
+      "price": 69.37,
+      "change_pct": -1.73
     },
     "Silver": {
-      "price": 58.65,
-      "change_pct": 3.58
+      "price": 59.36,
+      "change_pct": 4.82
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59329,
-      "change_pct": -3.18
+      "price": 59046,
+      "change_pct": -3.36
     },
     "ETH": {
-      "price": 1545.74,
-      "change_pct": -5.46
+      "price": 1532.38,
+      "change_pct": -6.13
     },
     "SOL": {
-      "price": 68.77,
-      "change_pct": 0.68
+      "price": 68.76,
+      "change_pct": 0.86
     },
     "BNB": {
-      "price": 563.63,
-      "change_pct": -0.1
+      "price": 554.84,
+      "change_pct": -1.38
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. crude oil falls below $70, resuming losses after attack on cargo ship near Oman"
+      "title": "S&P 500 futures decline with chip stocks weak after OpenAI IPO delay report: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Micron falls 5% in premarket, paring earlier gains amid tech rout"
+      "title": "Ex-Apollo CEO Leon Black says Jeffrey Epstein duped him out of more than $60 million"
     },
     {
       "source": "MarketWatch",
-      "title": "Why this earnings exuberance may be a problem for the stock market, according to this Wall Street veteran"
+      "title": "Oil may no longer pose the same threat to the global economy \u2014 but another risk \u2018may be around the corner,\u2019 says Citigroup"
     },
     {
       "source": "MarketWatch",
-      "title": "Why a reported delay for OpenAI\u2019s listing complicates further the picture for tech stocks"
+      "title": "After losing my son, would it be a mistake to sell my recently purchased house and move to my hometown?"
     }
   ]
 }
