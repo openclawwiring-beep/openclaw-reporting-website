@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, June 26 2026  10:46 PT",
-  "market_status": "Live \u2014 as of 13:46 ET",
+  "generated_at": "Friday, June 26 2026  12:45 PT",
+  "market_status": "Live \u2014 as of 15:45 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7371.07,
-      "change_pct": 0.19
-    },
-    "Nasdaq": {
-      "price": 25399.3,
-      "change_pct": 0.16
-    },
-    "Dow Jones": {
-      "price": 51946.55,
+      "price": 7360.15,
       "change_pct": 0.04
     },
+    "Nasdaq": {
+      "price": 25356.46,
+      "change_pct": -0.01
+    },
+    "Dow Jones": {
+      "price": 51807.21,
+      "change_pct": -0.23
+    },
     "Russell 2000": {
-      "price": 3004.54,
-      "change_pct": -0.08
+      "price": 2990.33,
+      "change_pct": -0.55
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4091.9,
-      "change_pct": 1.82
+      "price": 4085.1,
+      "change_pct": 1.65
     },
     "Oil (WTI)": {
-      "price": 69.39,
-      "change_pct": -1.7
+      "price": 69.26,
+      "change_pct": -1.88
     },
     "Silver": {
-      "price": 59.52,
-      "change_pct": 5.1
+      "price": 59.38,
+      "change_pct": 4.86
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59996,
-      "change_pct": 0.97
+      "price": 59832,
+      "change_pct": 1.19
     },
     "ETH": {
-      "price": 1581.69,
-      "change_pct": 1.05
+      "price": 1577.39,
+      "change_pct": 1.53
     },
     "SOL": {
-      "price": 72.35,
-      "change_pct": 8.03
+      "price": 73.65,
+      "change_pct": 11.52
     },
     "BNB": {
-      "price": 566.78,
-      "change_pct": 1.78
+      "price": 566.96,
+      "change_pct": 2.62
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Bond yields are falling as inflation pops. The Fed\u2019s tough talk under Warsh is helping."
+      "title": "Women started asking for raises decades ago \u2014 so why is the gender pay gap even wider?"
     },
     {
       "source": "MarketWatch",
-      "title": "The housing bill\u2019s back on track to becoming law. Here\u2019s what it does for affordability."
+      "title": "A relative offered me a $25,000 loan, but wants a lien on my house. Are they taking advantage of me?"
     }
   ]
 }
