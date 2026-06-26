@@ -1,60 +1,60 @@
 {
-  "generated_at": "Friday, June 26 2026  12:45 PT",
-  "market_status": "Live \u2014 as of 15:45 ET",
+  "generated_at": "Friday, June 26 2026  14:17 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7360.15,
-      "change_pct": 0.04
+      "price": 7354.02,
+      "change_pct": -0.05
     },
     "Nasdaq": {
-      "price": 25356.46,
-      "change_pct": -0.01
+      "price": 25297.62,
+      "change_pct": -0.24
     },
     "Dow Jones": {
-      "price": 51807.21,
-      "change_pct": -0.23
+      "price": 51876.11,
+      "change_pct": -0.09
     },
     "Russell 2000": {
-      "price": 2990.33,
-      "change_pct": -0.55
+      "price": 3010.08,
+      "change_pct": 0.07
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4085.1,
-      "change_pct": 1.65
+      "price": 4103.0,
+      "change_pct": 2.1
     },
     "Oil (WTI)": {
-      "price": 69.26,
-      "change_pct": -1.88
+      "price": 70.24,
+      "change_pct": -0.5
     },
     "Silver": {
-      "price": 59.38,
-      "change_pct": 4.86
+      "price": 59.6,
+      "change_pct": 5.25
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59832,
-      "change_pct": 1.19
+      "price": 59665,
+      "change_pct": 0.31
     },
     "ETH": {
-      "price": 1577.39,
-      "change_pct": 1.53
+      "price": 1570.68,
+      "change_pct": 0.6
     },
     "SOL": {
-      "price": 73.65,
-      "change_pct": 11.52
+      "price": 71.85,
+      "change_pct": 8.34
     },
     "BNB": {
-      "price": 566.96,
-      "change_pct": 2.62
+      "price": 564.84,
+      "change_pct": 1.58
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says Iran violated ceasefire with drone attacks on Strait of Hormuz ships"
+      "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Women started asking for raises decades ago \u2014 so why is the gender pay gap even wider?"
+      "title": "Iran\u2019s ship attack tests the shipping-insurance market just as war-risk premiums had plunged"
     },
     {
       "source": "MarketWatch",
-      "title": "A relative offered me a $25,000 loan, but wants a lien on my house. Are they taking advantage of me?"
+      "title": "SpaceX\u2019s new bonds are flashing a warning sign, as investors pump the brakes on AI frenzy"
     }
   ]
 }
