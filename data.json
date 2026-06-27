@@ -1,11 +1,7 @@
 {
-  "generated_at": "Saturday, June 27 2026  06:40 PT",
+  "generated_at": "Saturday, June 27 2026  08:14 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
-    "S&P 500": {
-      "price": 7354.02,
-      "change_pct": -0.05
-    },
     "Nasdaq": {
       "price": 25297.62,
       "change_pct": -0.24
@@ -35,20 +31,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60496,
-      "change_pct": 1.93
+      "price": 60759,
+      "change_pct": 1.7
     },
     "ETH": {
-      "price": 1586.87,
-      "change_pct": 2.8
+      "price": 1603.47,
+      "change_pct": 2.44
     },
     "SOL": {
-      "price": 72.32,
-      "change_pct": 4.76
+      "price": 72.89,
+      "change_pct": 3.01
     },
     "BNB": {
-      "price": 563.97,
-      "change_pct": 1.08
+      "price": 565.77,
+      "change_pct": 0.87
     }
   },
   "headlines": [
@@ -62,11 +58,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She is retired\u2019: Do I dip into my 401(k) to pay my mother\u2019s $30,000 credit-card debt?"
+      "title": "After losing my son, would it be a mistake to sell my recently purchased house and move to my hometown?"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m a CPA and tell my clients to claim Social Security early. Am I giving them bad advice?"
+      "title": "\u2018She is retired\u2019: Do I dip into my 401(k) to pay my mother\u2019s $30,000 credit-card debt?"
     }
   ]
 }
