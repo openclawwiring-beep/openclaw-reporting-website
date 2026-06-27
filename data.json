@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, June 26 2026  21:34 PT",
+  "generated_at": "Saturday, June 27 2026  00:48 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60309,
-      "change_pct": 0.78
+      "price": 60396,
+      "change_pct": -0.07
     },
     "ETH": {
-      "price": 1580.52,
-      "change_pct": 1.95
+      "price": 1582.15,
+      "change_pct": 0.23
     },
     "SOL": {
-      "price": 72.27,
-      "change_pct": 6.29
+      "price": 72.01,
+      "change_pct": 2.05
     },
     "BNB": {
-      "price": 565.84,
-      "change_pct": 1.04
+      "price": 564.71,
+      "change_pct": -0.59
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz"
+      "title": "SpaceX will join Nasdaq-100"
     },
     {
       "source": "CNBC",
-      "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies"
+      "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz"
     },
     {
       "source": "MarketWatch",
