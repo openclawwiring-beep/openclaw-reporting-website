@@ -1,7 +1,11 @@
 {
-  "generated_at": "Saturday, June 27 2026  08:14 PT",
+  "generated_at": "Saturday, June 27 2026  09:38 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
+    "S&P 500": {
+      "price": 7354.02,
+      "change_pct": -0.05
+    },
     "Nasdaq": {
       "price": 25297.62,
       "change_pct": -0.24
@@ -31,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60759,
-      "change_pct": 1.7
+      "price": 60599,
+      "change_pct": 0.79
     },
     "ETH": {
-      "price": 1603.47,
-      "change_pct": 2.44
+      "price": 1600.36,
+      "change_pct": 1.18
     },
     "SOL": {
-      "price": 72.89,
-      "change_pct": 3.01
+      "price": 72.64,
+      "change_pct": 0.15
     },
     "BNB": {
-      "price": 565.77,
-      "change_pct": 0.87
+      "price": 564.9,
+      "change_pct": -0.42
     }
   },
   "headlines": [
@@ -54,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz"
+      "title": "Tanker struck in Strait of Hormuz as U.S.-Iran tensions escalate"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I had gallbladder surgery. After I got home, the hospital asked me for a financial donation. Is this ethical?"
     },
     {
       "source": "MarketWatch",
       "title": "After losing my son, would it be a mistake to sell my recently purchased house and move to my hometown?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018She is retired\u2019: Do I dip into my 401(k) to pay my mother\u2019s $30,000 credit-card debt?"
     }
   ]
 }
