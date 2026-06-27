@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, June 26 2026  15:44 PT",
+  "generated_at": "Friday, June 26 2026  17:05 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 59869,
-      "change_pct": 0.29
+      "price": 60007,
+      "change_pct": 0.45
     },
     "ETH": {
-      "price": 1573.11,
-      "change_pct": 0.32
+      "price": 1576.87,
+      "change_pct": 0.64
     },
     "SOL": {
-      "price": 71.67,
-      "change_pct": 6.87
+      "price": 71.84,
+      "change_pct": 6.27
     },
     "BNB": {
-      "price": 567.19,
-      "change_pct": 1.4
+      "price": 567.08,
+      "change_pct": 0.97
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4%"
+      "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies: Reports"
     },
     {
       "source": "MarketWatch",
