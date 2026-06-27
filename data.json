@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 27 2026  04:53 PT",
+  "generated_at": "Saturday, June 27 2026  06:40 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60249,
-      "change_pct": 1.71
+      "price": 60496,
+      "change_pct": 1.93
     },
     "ETH": {
-      "price": 1581.15,
-      "change_pct": 2.65
+      "price": 1586.87,
+      "change_pct": 2.8
     },
     "SOL": {
-      "price": 71.71,
-      "change_pct": 4.63
+      "price": 72.32,
+      "change_pct": 4.76
     },
     "BNB": {
-      "price": 562.18,
-      "change_pct": 0.68
+      "price": 563.97,
+      "change_pct": 1.08
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SpaceX will join Nasdaq-100"
+      "title": "The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s a tale of two S&P 500s as rotation out of top tech stocks shifts into overdrive"
+      "title": "\u2018She is retired\u2019: Do I dip into my 401(k) to pay my mother\u2019s $30,000 credit-card debt?"
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla and Waymo duel in the robotaxi race \u2014 but the company spending the most builds no cars at all"
+      "title": "I\u2019m a CPA and tell my clients to claim Social Security early. Am I giving them bad advice?"
     }
   ]
 }
