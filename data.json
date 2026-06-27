@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 27 2026  11:01 PT",
+  "generated_at": "Saturday, June 27 2026  12:52 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60430,
-      "change_pct": 0.74
+      "price": 60101,
+      "change_pct": 0.52
     },
     "ETH": {
-      "price": 1588.78,
-      "change_pct": 0.51
+      "price": 1576.56,
+      "change_pct": 0.02
     },
     "SOL": {
-      "price": 72.03,
-      "change_pct": -0.65
+      "price": 71.06,
+      "change_pct": -2.95
     },
     "BNB": {
-      "price": 562.57,
-      "change_pct": -0.77
+      "price": 558.46,
+      "change_pct": -1.43
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It feels like a medical miracle\u2019: How did a single QR code coupon cut my $618 Walgreens prescription to $15?"
+      "title": "How to work in retirement without seeing your Social Security checks slashed"
     },
     {
       "source": "MarketWatch",
-      "title": "Your health insurer shouldn\u2019t decide your treatment plan. That\u2019s what your doctor \u2014 and possibly AI \u2014 should be doing."
+      "title": "Americans\u2019 401(k) balances hit record levels last year. See how you compare."
     }
   ]
 }
