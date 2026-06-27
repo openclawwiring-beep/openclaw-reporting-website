@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, June 27 2026  03:07 PT",
+  "generated_at": "Saturday, June 27 2026  04:53 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60338,
-      "change_pct": 1.14
+      "price": 60249,
+      "change_pct": 1.71
     },
     "ETH": {
-      "price": 1580.68,
-      "change_pct": 1.96
+      "price": 1581.15,
+      "change_pct": 2.65
     },
     "SOL": {
-      "price": 71.76,
-      "change_pct": 4.05
+      "price": 71.71,
+      "change_pct": 4.63
     },
     "BNB": {
-      "price": 563.85,
-      "change_pct": 0.09
+      "price": 562.18,
+      "change_pct": 0.68
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla and Waymo duel in the robotaxi race \u2014 but the company spending the most builds no cars at all"
+      "title": "It\u2019s a tale of two S&P 500s as rotation out of top tech stocks shifts into overdrive"
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX stock is a terrible buy \u2014 what that actually means for the bull market"
+      "title": "Tesla and Waymo duel in the robotaxi race \u2014 but the company spending the most builds no cars at all"
     }
   ]
 }
