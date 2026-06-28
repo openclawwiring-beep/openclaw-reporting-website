@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 28 2026  07:22 PT",
+  "generated_at": "Sunday, June 28 2026  08:48 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60128,
-      "change_pct": -0.67
+      "price": 59848,
+      "change_pct": -1.38
     },
     "ETH": {
-      "price": 1581.38,
-      "change_pct": -0.64
+      "price": 1578.37,
+      "change_pct": -1.56
     },
     "SOL": {
-      "price": 71.89,
-      "change_pct": -0.83
+      "price": 71.73,
+      "change_pct": -1.59
     },
     "BNB": {
-      "price": 555.71,
-      "change_pct": -1.37
+      "price": 553.85,
+      "change_pct": -1.91
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Your health insurer shouldn\u2019t decide your treatment plan. That\u2019s what your doctor \u2014 and AI \u2014 should be doing."
+      "title": "I had gallbladder surgery. After I got home, the hospital asked me for a financial donation. Is this ethical?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It feels like a medical miracle\u2019: How did a single QR code coupon cut my $618 Walgreens prescription to $15?"
+      "title": "Your health insurer shouldn\u2019t decide your treatment plan. That\u2019s what your doctor \u2014 and AI \u2014 should be doing."
     }
   ]
 }
