@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 28 2026  01:26 PT",
+  "generated_at": "Sunday, June 28 2026  03:40 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60130,
-      "change_pct": -0.4
+      "price": 60012,
+      "change_pct": -0.56
     },
     "ETH": {
-      "price": 1573.22,
-      "change_pct": -0.52
+      "price": 1572.49,
+      "change_pct": -0.54
     },
     "SOL": {
-      "price": 71.12,
-      "change_pct": -1.34
+      "price": 71.2,
+      "change_pct": -0.93
     },
     "BNB": {
-      "price": 555.2,
-      "change_pct": -1.56
+      "price": 554.11,
+      "change_pct": -1.66
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players"
+      "title": "Trump again threatens Iran with annihilation as Kuwait and Bahrain report attacks"
     },
     {
       "source": "CNBC",
-      "title": "U.S. military attacks Iranian targets after commercial tanker hit in the Strait of Hormuz"
+      "title": "The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players"
     },
     {
       "source": "MarketWatch",
