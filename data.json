@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 28 2026  03:40 PT",
+  "generated_at": "Sunday, June 28 2026  05:15 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60012,
-      "change_pct": -0.56
+      "price": 60220,
+      "change_pct": 0.01
     },
     "ETH": {
-      "price": 1572.49,
-      "change_pct": -0.54
+      "price": 1579.23,
+      "change_pct": -0.1
     },
     "SOL": {
-      "price": 71.2,
-      "change_pct": -0.93
+      "price": 71.77,
+      "change_pct": 0.21
     },
     "BNB": {
-      "price": 554.11,
-      "change_pct": -1.66
+      "price": 555.72,
+      "change_pct": -1.16
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "How to work in retirement without seeing your Social Security checks slashed"
+      "title": "\u2018She is retired\u2019: Do I dip into my 401(k) to pay my mother\u2019s $30,000 credit-card debt?"
     },
     {
       "source": "MarketWatch",
-      "title": "Americans\u2019 401(k) balances hit record levels last year. See how you compare."
+      "title": "\u2018I\u2019ll happily wait\u2019: Does delaying Social Security make sense for high earners like me?"
     }
   ]
 }
