@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 28 2026  11:44 PT",
+  "generated_at": "Sunday, June 28 2026  13:12 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 59537,
-      "change_pct": -1.53
+      "price": 59479,
+      "change_pct": -1.16
     },
     "ETH": {
-      "price": 1569.65,
-      "change_pct": -1.37
+      "price": 1565.2,
+      "change_pct": -0.9
     },
     "SOL": {
-      "price": 71.01,
-      "change_pct": -1.23
+      "price": 70.68,
+      "change_pct": -0.65
     },
     "BNB": {
-      "price": 551.65,
-      "change_pct": -1.74
+      "price": 549.69,
+      "change_pct": -1.64
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Iran peace talks on hold after fighting breaks out and Trump once again threatens annihilation"
+      "title": "Iran talks on hold after fighting breaks out and Trump once again threatens annihilation"
     },
     {
       "source": "MarketWatch",
