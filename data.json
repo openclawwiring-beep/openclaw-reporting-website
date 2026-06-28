@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 28 2026  05:15 PT",
+  "generated_at": "Sunday, June 28 2026  07:22 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60220,
-      "change_pct": 0.01
+      "price": 60128,
+      "change_pct": -0.67
     },
     "ETH": {
-      "price": 1579.23,
-      "change_pct": -0.1
+      "price": 1581.38,
+      "change_pct": -0.64
     },
     "SOL": {
-      "price": 71.77,
-      "change_pct": 0.21
+      "price": 71.89,
+      "change_pct": -0.83
     },
     "BNB": {
-      "price": 555.72,
-      "change_pct": -1.16
+      "price": 555.71,
+      "change_pct": -1.37
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump again threatens Iran with annihilation as Kuwait and Bahrain report attacks"
+      "title": "A 'perfect storm' points to a much smaller U.S. auto market by 2040"
     },
     {
       "source": "CNBC",
-      "title": "The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players"
+      "title": "Trump again threatens Iran with annihilation as Kuwait and Bahrain report attacks"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She is retired\u2019: Do I dip into my 401(k) to pay my mother\u2019s $30,000 credit-card debt?"
+      "title": "Your health insurer shouldn\u2019t decide your treatment plan. That\u2019s what your doctor \u2014 and AI \u2014 should be doing."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019ll happily wait\u2019: Does delaying Social Security make sense for high earners like me?"
+      "title": "\u2018It feels like a medical miracle\u2019: How did a single QR code coupon cut my $618 Walgreens prescription to $15?"
     }
   ]
 }
