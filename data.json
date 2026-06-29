@@ -1,68 +1,68 @@
 {
-  "generated_at": "Monday, June 29 2026  11:08 PT",
-  "market_status": "Live \u2014 as of 14:08 ET",
+  "generated_at": "Monday, June 29 2026  13:23 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7434.82,
-      "change_pct": 1.1
+      "price": 7440.43,
+      "change_pct": 1.18
     },
     "Nasdaq": {
-      "price": 25756.54,
-      "change_pct": 1.81
+      "price": 25820.14,
+      "change_pct": 2.07
     },
     "Dow Jones": {
-      "price": 52261.38,
-      "change_pct": 0.74
+      "price": 52182.74,
+      "change_pct": 0.59
     },
     "Russell 2000": {
-      "price": 3000.93,
-      "change_pct": -0.31
+      "price": 3010.42,
+      "change_pct": 0.01
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4034.5,
-      "change_pct": -1.19
+      "price": 4028.2,
+      "change_pct": -1.35
     },
     "Oil (WTI)": {
-      "price": 70.9,
-      "change_pct": 1.2
+      "price": 70.53,
+      "change_pct": 0.67
     },
     "Silver": {
-      "price": 58.63,
-      "change_pct": -0.7
+      "price": 58.7,
+      "change_pct": -0.59
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60348,
-      "change_pct": 1.29
+      "price": 60302,
+      "change_pct": 1.17
     },
     "ETH": {
-      "price": 1623.71,
-      "change_pct": 3.29
+      "price": 1619.29,
+      "change_pct": 3.02
     },
     "SOL": {
-      "price": 75.27,
-      "change_pct": 5.34
+      "price": 75.56,
+      "change_pct": 6.38
     },
     "BNB": {
-      "price": 560.93,
-      "change_pct": 1.72
+      "price": 560.52,
+      "change_pct": 1.73
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Supreme Court rules Trump cannot fire Fed Governor Lisa Cook for now"
+      "title": "Dow jumps 300 points for first close above 52,000, powered by new member Alphabet"
     },
     {
       "source": "CNBC",
-      "title": "Dow jumps more than 200 points as U.S.-Iran halt hostilities, Alphabet shares gain: Live updates"
+      "title": "Supreme Court rules Trump cannot fire Fed Governor Lisa Cook for now"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?"
+      "title": "Strategy can now sell bitcoin to buy back stock \u2014 the opposite of what it\u2019s been doing"
     },
     {
       "source": "MarketWatch",
