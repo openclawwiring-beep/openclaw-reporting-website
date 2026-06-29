@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, June 29 2026  14:51 PT",
+  "generated_at": "Monday, June 29 2026  15:59 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4030.5,
-      "change_pct": -1.29
+      "price": 4027.6,
+      "change_pct": -1.36
     },
     "Oil (WTI)": {
-      "price": 70.42,
-      "change_pct": 0.51
+      "price": 70.3,
+      "change_pct": 0.34
     },
     "Silver": {
-      "price": 58.76,
-      "change_pct": -0.5
+      "price": 58.7,
+      "change_pct": -0.59
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60423,
-      "change_pct": 1.93
+      "price": 60282,
+      "change_pct": 2.22
     },
     "ETH": {
-      "price": 1619.34,
-      "change_pct": 3.89
+      "price": 1611.59,
+      "change_pct": 3.72
     },
     "SOL": {
-      "price": 75.55,
-      "change_pct": 7.27
+      "price": 75.22,
+      "change_pct": 7.39
     },
     "BNB": {
-      "price": 560.58,
-      "change_pct": 2.29
+      "price": 559.54,
+      "change_pct": 2.46
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow jumps 300 points for first close above 52,000, powered by new member Alphabet"
+      "title": "Stock futures are little changed after the Dow posts new record close: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?"
+      "title": "Trump\u2019s weekend Iran strikes keep sparking Monday stock rallies. Here\u2019s what the data shows us."
     },
     {
       "source": "MarketWatch",
-      "title": "Rocket Lab to take on SpaceX\u2019s Starlink with $8 billion acquisition"
+      "title": "\u2018I don\u2019t think I\u2019ll make it to 80\u2019: I\u2019m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?"
     }
   ]
 }
