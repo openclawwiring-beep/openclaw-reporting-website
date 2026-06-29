@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 28 2026  16:00 PT",
+  "generated_at": "Sunday, June 28 2026  18:36 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,48 +21,48 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4079.3,
-      "change_pct": -0.42
+      "price": 4078.0,
+      "change_pct": -0.45
     },
     "Oil (WTI)": {
-      "price": 70.04,
-      "change_pct": 1.17
+      "price": 70.23,
+      "change_pct": 1.44
     },
     "Silver": {
-      "price": 59.23,
-      "change_pct": -0.74
+      "price": 58.99,
+      "change_pct": -1.15
     }
   },
   "crypto": {
     "BTC": {
-      "price": 58971,
-      "change_pct": -1.98
+      "price": 59226,
+      "change_pct": -1.53
     },
     "ETH": {
-      "price": 1553.81,
-      "change_pct": -1.49
+      "price": 1562.25,
+      "change_pct": -0.72
     },
     "SOL": {
-      "price": 70.06,
-      "change_pct": -1.16
+      "price": 71.05,
+      "change_pct": 0.55
     },
     "BNB": {
-      "price": 546.11,
-      "change_pct": -2.13
+      "price": 550.04,
+      "change_pct": -1.28
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures rise along with oil prices as traders weigh U.S. attacks on Iran over the weekend: Live updates"
+      "title": "Stock futures edge higher, Asia mixed as renewed U.S.-Iran attacks push oil prices up: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Iran talks on hold after fighting breaks out and Trump once again threatens annihilation"
+      "title": "Oil jumps back above $70 as fresh U.S.-Iran clashes reignite Middle East supply fears"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices rise, stock futures inch higher as U.S. and Iran trade more airstrikes"
+      "title": "Oil prices, stock futures inch higher as U.S. and Iran reportedly agree to halt attacks"
     },
     {
       "source": "MarketWatch",
