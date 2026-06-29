@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, June 29 2026  08:55 PT",
-  "market_status": "Live \u2014 as of 11:55 ET",
+  "generated_at": "Monday, June 29 2026  11:08 PT",
+  "market_status": "Live \u2014 as of 14:08 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7410.46,
-      "change_pct": 0.77
+      "price": 7434.82,
+      "change_pct": 1.1
     },
     "Nasdaq": {
-      "price": 25638.48,
-      "change_pct": 1.35
+      "price": 25756.54,
+      "change_pct": 1.81
     },
     "Dow Jones": {
-      "price": 52109.52,
-      "change_pct": 0.45
+      "price": 52261.38,
+      "change_pct": 0.74
     },
     "Russell 2000": {
-      "price": 2987.73,
-      "change_pct": -0.75
+      "price": 3000.93,
+      "change_pct": -0.31
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4037.2,
-      "change_pct": -1.13
+      "price": 4034.5,
+      "change_pct": -1.19
     },
     "Oil (WTI)": {
-      "price": 70.55,
-      "change_pct": 0.7
+      "price": 70.9,
+      "change_pct": 1.2
     },
     "Silver": {
-      "price": 58.47,
-      "change_pct": -0.99
+      "price": 58.63,
+      "change_pct": -0.7
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59793,
-      "change_pct": -0.0
+      "price": 60348,
+      "change_pct": 1.29
     },
     "ETH": {
-      "price": 1579.36,
-      "change_pct": 0.09
+      "price": 1623.71,
+      "change_pct": 3.29
     },
     "SOL": {
-      "price": 73.94,
-      "change_pct": 3.02
+      "price": 75.27,
+      "change_pct": 5.34
     },
     "BNB": {
-      "price": 551.2,
-      "change_pct": -0.46
+      "price": 560.93,
+      "change_pct": 1.72
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Comcast jumps 9% after announcing it will spin off NBCUniversal and Sky from cable business"
+      "title": "Dow jumps more than 200 points as U.S.-Iran halt hostilities, Alphabet shares gain: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Wall Street is bracing for a wave of Fed rate hikes that may never come. These sectors stand to gain."
+      "title": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?"
     },
     {
       "source": "MarketWatch",
-      "title": "Fed\u2019s Lisa Cook can stay on at central bank while challenging Trump\u2019s attempt to fire her, Supreme Court rules"
+      "title": "Is the Comcast-NBCUniversal spinoff a precursor for M&A? Wall Street may already be betting on it."
     }
   ]
 }
