@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, June 28 2026  23:46 PT",
+  "generated_at": "Monday, June 29 2026  04:57 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4073.2,
-      "change_pct": -0.24
+      "price": 4049.8,
+      "change_pct": -0.82
     },
     "Oil (WTI)": {
-      "price": 70.26,
-      "change_pct": 0.29
+      "price": 69.86,
+      "change_pct": -0.29
     },
     "Silver": {
-      "price": 59.2,
-      "change_pct": 0.25
+      "price": 58.42,
+      "change_pct": -1.07
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59992,
-      "change_pct": 0.15
+      "price": 59746,
+      "change_pct": -0.84
     },
     "ETH": {
-      "price": 1578.94,
-      "change_pct": 0.87
+      "price": 1569.62,
+      "change_pct": -0.69
     },
     "SOL": {
-      "price": 72.29,
-      "change_pct": 2.77
+      "price": 72.26,
+      "change_pct": 0.62
     },
     "BNB": {
-      "price": 552.59,
-      "change_pct": -0.28
+      "price": 550.08,
+      "change_pct": -1.13
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S., Iran pause hostilities as Hormuz shipping resumes after weekend clashes"
+      "title": "Stock futures jump as tech shares gain, U.S.-Iran agree to halt hostilities: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "The AI boom is colliding with a new threat: severe weather"
+      "title": "Comcast soars 23% after announcing it will spin off media and tech wings into separate public companies"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices, stock futures inch higher as U.S. and Iran reportedly agree to halt attacks"
+      "title": "Comcast\u2019s stock having best day in 18 years after plan to spinoff NBCUniversal"
     },
     {
       "source": "MarketWatch",
-      "title": "I had gallbladder surgery. After I got home, the hospital asked me for a financial donation. Is this ethical?"
+      "title": "There\u2019s a 67% chance stocks will suffer a bear market when this rare signal flashes \u2014 like it\u2019s doing now"
     }
   ]
 }
