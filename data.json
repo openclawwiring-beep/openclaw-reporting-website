@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, June 29 2026  13:23 PT",
+  "generated_at": "Monday, June 29 2026  14:51 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4028.2,
-      "change_pct": -1.35
+      "price": 4030.5,
+      "change_pct": -1.29
     },
     "Oil (WTI)": {
-      "price": 70.53,
-      "change_pct": 0.67
+      "price": 70.42,
+      "change_pct": 0.51
     },
     "Silver": {
-      "price": 58.7,
-      "change_pct": -0.59
+      "price": 58.76,
+      "change_pct": -0.5
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60302,
-      "change_pct": 1.17
+      "price": 60423,
+      "change_pct": 1.93
     },
     "ETH": {
-      "price": 1619.29,
-      "change_pct": 3.02
+      "price": 1619.34,
+      "change_pct": 3.89
     },
     "SOL": {
-      "price": 75.56,
-      "change_pct": 6.38
+      "price": 75.55,
+      "change_pct": 7.27
     },
     "BNB": {
-      "price": 560.52,
-      "change_pct": 1.73
+      "price": 560.58,
+      "change_pct": 2.29
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Supreme Court rules Trump cannot fire Fed Governor Lisa Cook for now"
+      "title": "Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal"
     },
     {
       "source": "MarketWatch",
-      "title": "Strategy can now sell bitcoin to buy back stock \u2014 the opposite of what it\u2019s been doing"
+      "title": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?"
     },
     {
       "source": "MarketWatch",
-      "title": "Is the Comcast-NBCUniversal spinoff a precursor for M&A? Wall Street may already be betting on it."
+      "title": "Rocket Lab to take on SpaceX\u2019s Starlink with $8 billion acquisition"
     }
   ]
 }
