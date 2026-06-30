@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, June 30 2026  11:21 PT",
-  "market_status": "Live \u2014 as of 14:21 ET",
+  "generated_at": "Tuesday, June 30 2026  13:29 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7497.66,
-      "change_pct": 0.77
+      "price": 7499.36,
+      "change_pct": 0.79
     },
     "Nasdaq": {
-      "price": 26187.51,
-      "change_pct": 1.42
+      "price": 26213.72,
+      "change_pct": 1.52
     },
     "Dow Jones": {
-      "price": 52327.68,
-      "change_pct": 0.28
+      "price": 52319.2,
+      "change_pct": 0.26
     },
     "Russell 2000": {
-      "price": 3026.41,
-      "change_pct": 0.52
+      "price": 3024.37,
+      "change_pct": 0.46
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4047.7,
-      "change_pct": 1.6
+      "price": 4033.8,
+      "change_pct": 1.26
     },
     "Oil (WTI)": {
-      "price": 69.56,
-      "change_pct": -1.12
+      "price": 70.08,
+      "change_pct": -0.38
     },
     "Silver": {
-      "price": 60.12,
-      "change_pct": 4.2
+      "price": 59.67,
+      "change_pct": 3.43
     }
   },
   "crypto": {
     "BTC": {
-      "price": 58527,
-      "change_pct": -3.04
+      "price": 58651,
+      "change_pct": -2.79
     },
     "ETH": {
-      "price": 1575.36,
-      "change_pct": -3.07
+      "price": 1574.43,
+      "change_pct": -2.86
     },
     "SOL": {
-      "price": 73.33,
-      "change_pct": -2.82
+      "price": 73.55,
+      "change_pct": -2.5
     },
     "BNB": {
-      "price": 546.84,
-      "change_pct": -2.57
+      "price": 545.31,
+      "change_pct": -2.75
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Amazon is laying out $1 billion to follow Palantir\u2019s AI playbook"
+      "title": "U.S. airline stocks are soaring as cheaper jet fuel and insatiable demand set up a summer boom"
     },
     {
       "source": "MarketWatch",
-      "title": "Your aging parent has a new romance. Here\u2019s how to protect your inheritance \u2014 without looking greedy."
+      "title": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?"
     }
   ]
 }
