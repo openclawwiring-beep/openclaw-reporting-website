@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, June 30 2026  06:24 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, June 30 2026  09:03 PT",
+  "market_status": "Live \u2014 as of 12:03 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7440.43,
-      "change_pct": 1.18
+      "price": 7488.91,
+      "change_pct": 0.65
     },
     "Nasdaq": {
-      "price": 25820.14,
-      "change_pct": 2.07
+      "price": 26142.26,
+      "change_pct": 1.25
     },
     "Dow Jones": {
-      "price": 52182.74,
-      "change_pct": 0.59
+      "price": 52327.06,
+      "change_pct": 0.28
     },
     "Russell 2000": {
-      "price": 3010.42,
-      "change_pct": 0.01
+      "price": 3017.72,
+      "change_pct": 0.23
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4036.4,
-      "change_pct": 1.32
+      "price": 4046.3,
+      "change_pct": 1.57
     },
     "Oil (WTI)": {
-      "price": 71.46,
-      "change_pct": 1.58
+      "price": 69.85,
+      "change_pct": -0.71
     },
     "Silver": {
-      "price": 59.38,
-      "change_pct": 2.91
+      "price": 60.12,
+      "change_pct": 4.19
     }
   },
   "crypto": {
     "BTC": {
-      "price": 58448,
-      "change_pct": -2.64
+      "price": 58342,
+      "change_pct": -2.34
     },
     "ETH": {
-      "price": 1558.34,
-      "change_pct": -1.31
+      "price": 1563.78,
+      "change_pct": -0.89
     },
     "SOL": {
-      "price": 72.41,
-      "change_pct": -2.04
+      "price": 73.18,
+      "change_pct": -0.76
     },
     "BNB": {
-      "price": 545.56,
-      "change_pct": -1.46
+      "price": 544.46,
+      "change_pct": -1.18
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar"
+      "title": "Supreme Court upholds birthright citizenship, blocks Trump order"
     },
     {
       "source": "MarketWatch",
-      "title": "The big surprise for the year\u2019s second half could be the AI trade powering higher. Why it wouldn\u2019t take much."
+      "title": "\u2018She is retired\u2019: Do I dip into my 401(k) to pay my mother\u2019s $30,000 credit-card debt?"
     },
     {
       "source": "MarketWatch",
-      "title": "Value stocks beat growth when inflation is high. Here are 13 stocks top newsletters are betting on now."
+      "title": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?"
     }
   ]
 }
