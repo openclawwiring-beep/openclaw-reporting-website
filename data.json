@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, June 30 2026  01:28 PT",
+  "generated_at": "Tuesday, June 30 2026  04:29 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4036.8,
-      "change_pct": 1.33
+      "price": 4044.9,
+      "change_pct": 1.53
     },
     "Oil (WTI)": {
-      "price": 70.57,
-      "change_pct": 0.31
+      "price": 70.64,
+      "change_pct": 0.41
     },
     "Silver": {
-      "price": 59.18,
-      "change_pct": 2.57
+      "price": 59.42,
+      "change_pct": 2.98
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59308,
-      "change_pct": -0.74
+      "price": 59142,
+      "change_pct": -1.23
     },
     "ETH": {
-      "price": 1587.35,
-      "change_pct": 1.02
+      "price": 1577.21,
+      "change_pct": 0.39
     },
     "SOL": {
-      "price": 73.88,
-      "change_pct": 1.94
+      "price": 73.33,
+      "change_pct": 1.22
     },
     "BNB": {
-      "price": 550.51,
-      "change_pct": -0.18
+      "price": 547.39,
+      "change_pct": -0.73
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures inch higher after the Dow posts new record close: Live updates"
+      "title": "Mag 7 value shrinks by $2.3 trillion amid AI spending jitters \u2014 but investors are still backing chipmakers"
     },
     {
       "source": "CNBC",
-      "title": "Inflation likely to stay \u2018significantly above target,\u2019 top European central banker warns"
+      "title": "Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump\u2019s weekend Iran strikes keep sparking Monday stock rallies. Here\u2019s what the data shows us."
+      "title": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I don\u2019t think I\u2019ll make it to 80\u2019: I\u2019m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?"
+      "title": "The big surprise for the year\u2019s second half could be the AI trade powering higher. Why it wouldn\u2019t take much."
     }
   ]
 }
