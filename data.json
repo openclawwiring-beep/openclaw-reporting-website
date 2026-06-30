@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, June 29 2026  17:14 PT",
+  "generated_at": "Monday, June 29 2026  21:44 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4022.0,
-      "change_pct": -1.5
+      "price": 4006.4,
+      "change_pct": 0.61
     },
     "Oil (WTI)": {
-      "price": 70.24,
-      "change_pct": 0.26
+      "price": 70.32,
+      "change_pct": -0.04
     },
     "Silver": {
-      "price": 58.76,
-      "change_pct": -0.49
+      "price": 58.26,
+      "change_pct": 0.6
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60134,
-      "change_pct": 1.03
+      "price": 59464,
+      "change_pct": -0.39
     },
     "ETH": {
-      "price": 1610.29,
-      "change_pct": 2.69
+      "price": 1585.85,
+      "change_pct": 0.75
     },
     "SOL": {
-      "price": 74.94,
-      "change_pct": 5.57
+      "price": 73.93,
+      "change_pct": 2.97
     },
     "BNB": {
-      "price": 559.3,
-      "change_pct": 1.47
+      "price": 552.71,
+      "change_pct": 0.37
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures are little changed after the Dow posts new record close: Live updates"
+      "title": "Japanese yen sinks to 40-year low, keeping intervention risks in focus"
     },
     {
       "source": "CNBC",
-      "title": "Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal"
+      "title": "Stock futures are little changed after the Dow posts new record close: Live updates"
     },
     {
       "source": "MarketWatch",
