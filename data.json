@@ -1,60 +1,60 @@
 {
-  "generated_at": "Tuesday, June 30 2026  09:03 PT",
-  "market_status": "Live \u2014 as of 12:03 ET",
+  "generated_at": "Tuesday, June 30 2026  11:21 PT",
+  "market_status": "Live \u2014 as of 14:21 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7488.91,
-      "change_pct": 0.65
+      "price": 7497.66,
+      "change_pct": 0.77
     },
     "Nasdaq": {
-      "price": 26142.26,
-      "change_pct": 1.25
+      "price": 26187.51,
+      "change_pct": 1.42
     },
     "Dow Jones": {
-      "price": 52327.06,
+      "price": 52327.68,
       "change_pct": 0.28
     },
     "Russell 2000": {
-      "price": 3017.72,
-      "change_pct": 0.23
+      "price": 3026.41,
+      "change_pct": 0.52
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4046.3,
-      "change_pct": 1.57
+      "price": 4047.7,
+      "change_pct": 1.6
     },
     "Oil (WTI)": {
-      "price": 69.85,
-      "change_pct": -0.71
+      "price": 69.56,
+      "change_pct": -1.12
     },
     "Silver": {
       "price": 60.12,
-      "change_pct": 4.19
+      "change_pct": 4.2
     }
   },
   "crypto": {
     "BTC": {
-      "price": 58342,
-      "change_pct": -2.34
+      "price": 58527,
+      "change_pct": -3.04
     },
     "ETH": {
-      "price": 1563.78,
-      "change_pct": -0.89
+      "price": 1575.36,
+      "change_pct": -3.07
     },
     "SOL": {
-      "price": 73.18,
-      "change_pct": -0.76
+      "price": 73.33,
+      "change_pct": -2.82
     },
     "BNB": {
-      "price": 544.46,
-      "change_pct": -1.18
+      "price": 546.84,
+      "change_pct": -2.57
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Small-cap stocks enjoy their best first half in 35 years. Here's what's driving it"
+      "title": "AWS puts $1 billion into new AI unit to embed engineers with customers, joining growing wave"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She is retired\u2019: Do I dip into my 401(k) to pay my mother\u2019s $30,000 credit-card debt?"
+      "title": "Amazon is laying out $1 billion to follow Palantir\u2019s AI playbook"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?"
+      "title": "Your aging parent has a new romance. Here\u2019s how to protect your inheritance \u2014 without looking greedy."
     }
   ]
 }
