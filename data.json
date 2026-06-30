@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, June 29 2026  21:44 PT",
+  "generated_at": "Tuesday, June 30 2026  01:28 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4006.4,
-      "change_pct": 0.61
+      "price": 4036.8,
+      "change_pct": 1.33
     },
     "Oil (WTI)": {
-      "price": 70.32,
-      "change_pct": -0.04
+      "price": 70.57,
+      "change_pct": 0.31
     },
     "Silver": {
-      "price": 58.26,
-      "change_pct": 0.6
+      "price": 59.18,
+      "change_pct": 2.57
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59464,
-      "change_pct": -0.39
+      "price": 59308,
+      "change_pct": -0.74
     },
     "ETH": {
-      "price": 1585.85,
-      "change_pct": 0.75
+      "price": 1587.35,
+      "change_pct": 1.02
     },
     "SOL": {
-      "price": 73.93,
-      "change_pct": 2.97
+      "price": 73.88,
+      "change_pct": 1.94
     },
     "BNB": {
-      "price": 552.71,
-      "change_pct": 0.37
+      "price": 550.51,
+      "change_pct": -0.18
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Japanese yen sinks to 40-year low, keeping intervention risks in focus"
+      "title": "Stock futures inch higher after the Dow posts new record close: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures are little changed after the Dow posts new record close: Live updates"
+      "title": "Inflation likely to stay \u2018significantly above target,\u2019 top European central banker warns"
     },
     {
       "source": "MarketWatch",
