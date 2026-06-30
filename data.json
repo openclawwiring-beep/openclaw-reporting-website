@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, June 30 2026  04:29 PT",
+  "generated_at": "Tuesday, June 30 2026  06:24 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4044.9,
-      "change_pct": 1.53
+      "price": 4036.4,
+      "change_pct": 1.32
     },
     "Oil (WTI)": {
-      "price": 70.64,
-      "change_pct": 0.41
+      "price": 71.46,
+      "change_pct": 1.58
     },
     "Silver": {
-      "price": 59.42,
-      "change_pct": 2.98
+      "price": 59.38,
+      "change_pct": 2.91
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59142,
-      "change_pct": -1.23
+      "price": 58448,
+      "change_pct": -2.64
     },
     "ETH": {
-      "price": 1577.21,
-      "change_pct": 0.39
+      "price": 1558.34,
+      "change_pct": -1.31
     },
     "SOL": {
-      "price": 73.33,
-      "change_pct": 1.22
+      "price": 72.41,
+      "change_pct": -2.04
     },
     "BNB": {
-      "price": 547.39,
-      "change_pct": -0.73
+      "price": 545.56,
+      "change_pct": -1.46
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Mag 7 value shrinks by $2.3 trillion amid AI spending jitters \u2014 but investors are still backing chipmakers"
+      "title": "Small-cap stocks enjoy their best first half in 35 years. Here's what's driving it"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?"
+      "title": "The big surprise for the year\u2019s second half could be the AI trade powering higher. Why it wouldn\u2019t take much."
     },
     {
       "source": "MarketWatch",
-      "title": "The big surprise for the year\u2019s second half could be the AI trade powering higher. Why it wouldn\u2019t take much."
+      "title": "Value stocks beat growth when inflation is high. Here are 13 stocks top newsletters are betting on now."
     }
   ]
 }
