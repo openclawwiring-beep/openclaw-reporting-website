@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, June 30 2026  14:59 PT",
+  "generated_at": "Tuesday, June 30 2026  16:20 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4021.8,
-      "change_pct": 0.95
+      "price": 4030.8,
+      "change_pct": 1.18
     },
     "Oil (WTI)": {
-      "price": 70.03,
-      "change_pct": -0.45
+      "price": 70.0,
+      "change_pct": -0.5
     },
     "Silver": {
-      "price": 59.04,
-      "change_pct": 2.34
+      "price": 59.25,
+      "change_pct": 2.7
     }
   },
   "crypto": {
     "BTC": {
-      "price": 58546,
-      "change_pct": -3.07
+      "price": 58524,
+      "change_pct": -2.87
     },
     "ETH": {
-      "price": 1569.02,
-      "change_pct": -3.03
+      "price": 1566.78,
+      "change_pct": -2.66
     },
     "SOL": {
       "price": 73.31,
-      "change_pct": -2.94
+      "change_pct": -2.6
     },
     "BNB": {
-      "price": 544.08,
-      "change_pct": -2.91
+      "price": 544.91,
+      "change_pct": -2.56
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund"
-    },
-    {
-      "source": "CNBC",
       "title": "Trump's annual financial disclosure shows more than $580M in crypto-related income"
     },
     {
-      "source": "MarketWatch",
-      "title": "Trump\u2019s energy secretary says global warming is \u2018no big deal.\u2019 Meanwhile, a heat emergency is striking the U.S."
+      "source": "CNBC",
+      "title": "Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund"
     },
     {
       "source": "MarketWatch",
-      "title": "Will the Comcast-NBCU spinoff pay off for investors? Here\u2019s what history has to say."
+      "title": "Trump discloses expanding financial empire, including Apple stock, celebration coins and crypto"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "If LeBron James goes to the Warriors, that team\u2019s roster will be stacked with some of the most expensive players in NBA history"
     }
   ]
 }
