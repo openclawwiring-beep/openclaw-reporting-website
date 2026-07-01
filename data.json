@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, July 01 2026  06:18 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, July 01 2026  09:04 PT",
+  "market_status": "Live \u2014 as of 12:04 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7499.36,
-      "change_pct": 0.79
+      "price": 7515.58,
+      "change_pct": 0.22
     },
     "Nasdaq": {
-      "price": 26213.72,
-      "change_pct": 1.52
+      "price": 26145.2,
+      "change_pct": -0.26
     },
     "Dow Jones": {
-      "price": 52319.2,
-      "change_pct": 0.26
+      "price": 52647.11,
+      "change_pct": 0.63
     },
     "Russell 2000": {
-      "price": 3024.37,
-      "change_pct": 0.46
+      "price": 3041.22,
+      "change_pct": 0.54
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4027.5,
-      "change_pct": 0.87
+      "price": 4098.0,
+      "change_pct": 2.63
     },
     "Oil (WTI)": {
-      "price": 69.14,
-      "change_pct": -0.96
+      "price": 68.14,
+      "change_pct": -2.39
     },
     "Silver": {
-      "price": 58.85,
-      "change_pct": 1.03
+      "price": 60.78,
+      "change_pct": 4.34
     }
   },
   "crypto": {
     "BTC": {
-      "price": 58633,
-      "change_pct": 0.31
+      "price": 60098,
+      "change_pct": 2.99
     },
     "ETH": {
-      "price": 1572.53,
-      "change_pct": 0.93
+      "price": 1617.16,
+      "change_pct": 3.37
     },
     "SOL": {
-      "price": 74.92,
-      "change_pct": 3.64
+      "price": 77.26,
+      "change_pct": 5.5
     },
     "BNB": {
-      "price": 543.49,
-      "change_pct": -0.36
+      "price": 553.79,
+      "change_pct": 1.61
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Watch Fed Chief Kevin Warsh and other central bank leaders talk rate policy at ECB forum: Live updates"
+      "title": "Fed Chief Kevin Warsh declines to hint at July rate decision, but says inflation 'too high'"
     },
     {
       "source": "CNBC",
-      "title": "Nasdaq futures drop to kick off July as investors dump chip stocks after blockbuster first half: Live updates"
+      "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'"
     },
     {
       "source": "MarketWatch",
-      "title": "Warsh warns investors not to expect hints at future Fed rate moves"
+      "title": "Millions of Americans can get Medicare to cover GLP-1s for weight loss starting this week. Here\u2019s how much it costs."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We were stunned\u2019: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?"
+      "title": "Trump\u2019s energy secretary says global warming is \u2018no big deal.\u2019 Meanwhile, a heat emergency is striking the U.S."
     }
   ]
 }
