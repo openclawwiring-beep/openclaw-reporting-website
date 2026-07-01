@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, June 30 2026  16:20 PT",
+  "generated_at": "Tuesday, June 30 2026  18:39 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4030.8,
-      "change_pct": 1.18
+      "price": 3998.9,
+      "change_pct": 0.38
     },
     "Oil (WTI)": {
-      "price": 70.0,
-      "change_pct": -0.5
+      "price": 69.93,
+      "change_pct": -0.6
     },
     "Silver": {
-      "price": 59.25,
-      "change_pct": 2.7
+      "price": 58.44,
+      "change_pct": 1.3
     }
   },
   "crypto": {
     "BTC": {
-      "price": 58524,
-      "change_pct": -2.87
+      "price": 58456,
+      "change_pct": -2.24
     },
     "ETH": {
-      "price": 1566.78,
-      "change_pct": -2.66
+      "price": 1572.09,
+      "change_pct": -1.31
     },
     "SOL": {
-      "price": 73.31,
-      "change_pct": -2.6
+      "price": 73.29,
+      "change_pct": -1.41
     },
     "BNB": {
-      "price": 544.91,
-      "change_pct": -2.56
+      "price": 545.13,
+      "change_pct": -1.79
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Trump discloses expanding financial empire, including Apple stock, celebration coins and crypto"
+      "title": "Bitcoin ETFs were supposed to make selloffs less painful. That theory is being put to the test."
     },
     {
       "source": "MarketWatch",
-      "title": "If LeBron James goes to the Warriors, that team\u2019s roster will be stacked with some of the most expensive players in NBA history"
+      "title": "Nike earnings crushed Wall Street\u2019s estimates \u2014 but here\u2019s the catch"
     }
   ]
 }
