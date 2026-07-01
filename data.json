@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 01 2026  03:29 PT",
+  "generated_at": "Wednesday, July 01 2026  06:18 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3995.2,
-      "change_pct": 0.06
+      "price": 4027.5,
+      "change_pct": 0.87
     },
     "Oil (WTI)": {
-      "price": 68.8,
-      "change_pct": -1.45
+      "price": 69.14,
+      "change_pct": -0.96
     },
     "Silver": {
-      "price": 58.37,
-      "change_pct": 0.21
+      "price": 58.85,
+      "change_pct": 1.03
     }
   },
   "crypto": {
     "BTC": {
-      "price": 58654,
-      "change_pct": -1.05
+      "price": 58633,
+      "change_pct": 0.31
     },
     "ETH": {
-      "price": 1573.0,
-      "change_pct": -0.52
+      "price": 1572.53,
+      "change_pct": 0.93
     },
     "SOL": {
-      "price": 75.24,
-      "change_pct": 2.2
+      "price": 74.92,
+      "change_pct": 3.64
     },
     "BNB": {
-      "price": 543.58,
-      "change_pct": -1.01
+      "price": 543.49,
+      "change_pct": -0.36
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices wobble as breakdown in U.S.-Iran talks casts doubt over peace process"
+      "title": "Watch Fed Chief Kevin Warsh and other central bank leaders talk rate policy at ECB forum: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Tech leads first half stock gains \u2014 but the biggest winners weren't in the US"
+      "title": "Nasdaq futures drop to kick off July as investors dump chip stocks after blockbuster first half: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?"
+      "title": "Warsh warns investors not to expect hints at future Fed rate moves"
     },
     {
       "source": "MarketWatch",
-      "title": "Is the stock market open on Friday, or will it close early for the Fourth of July?"
+      "title": "\u2018We were stunned\u2019: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?"
     }
   ]
 }
