@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, June 30 2026  23:25 PT",
+  "generated_at": "Wednesday, July 01 2026  03:29 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3977.6,
-      "change_pct": -0.45
+      "price": 3995.2,
+      "change_pct": 0.06
     },
     "Oil (WTI)": {
-      "price": 69.57,
-      "change_pct": -0.39
+      "price": 68.8,
+      "change_pct": -1.45
     },
     "Silver": {
-      "price": 57.83,
-      "change_pct": -0.86
+      "price": 58.37,
+      "change_pct": 0.21
     }
   },
   "crypto": {
     "BTC": {
-      "price": 58637,
-      "change_pct": -1.39
+      "price": 58654,
+      "change_pct": -1.05
     },
     "ETH": {
-      "price": 1577.75,
-      "change_pct": -0.63
+      "price": 1573.0,
+      "change_pct": -0.52
     },
     "SOL": {
-      "price": 74.63,
-      "change_pct": 1.05
+      "price": 75.24,
+      "change_pct": 2.2
     },
     "BNB": {
-      "price": 547.32,
-      "change_pct": -0.87
+      "price": 543.58,
+      "change_pct": -1.01
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump's annual financial disclosure shows more than $580M in crypto-related income"
+      "title": "Oil prices wobble as breakdown in U.S.-Iran talks casts doubt over peace process"
     },
     {
       "source": "CNBC",
-      "title": "Iran says it is selling oil at 20% premium as end of U.S. blockade sees 40 million barrels exported"
+      "title": "Tech leads first half stock gains \u2014 but the biggest winners weren't in the US"
     },
     {
       "source": "MarketWatch",
-      "title": "Your aging parent has a new romance. Here\u2019s how to protect your inheritance \u2014 without looking greedy."
+      "title": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?"
     },
     {
       "source": "MarketWatch",
-      "title": "This threat to the chip rally has surged to its highest level since 2015"
+      "title": "Is the stock market open on Friday, or will it close early for the Fourth of July?"
     }
   ]
 }
