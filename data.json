@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 01 2026  14:59 PT",
+  "generated_at": "Wednesday, July 01 2026  16:23 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4044.6,
-      "change_pct": 1.29
+      "price": 4052.5,
+      "change_pct": 1.49
     },
     "Oil (WTI)": {
-      "price": 68.09,
-      "change_pct": -2.46
+      "price": 67.99,
+      "change_pct": -2.61
     },
     "Silver": {
-      "price": 59.6,
-      "change_pct": 2.33
+      "price": 59.78,
+      "change_pct": 2.63
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60743,
-      "change_pct": 3.74
+      "price": 60224,
+      "change_pct": 2.94
     },
     "ETH": {
-      "price": 1630.47,
-      "change_pct": 3.9
+      "price": 1615.4,
+      "change_pct": 3.08
     },
     "SOL": {
-      "price": 78.37,
-      "change_pct": 6.94
+      "price": 77.53,
+      "change_pct": 5.61
     },
     "BNB": {
-      "price": 555.73,
-      "change_pct": 2.12
+      "price": 551.89,
+      "change_pct": 1.31
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Where can I invest my kid\u2019s \u2018Trump account\u2019 money? The Treasury Department just answered that question."
+      "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it."
     },
     {
       "source": "MarketWatch",
-      "title": "ServiceNow and Salesforce shares now look like buys, as \u2018Armageddon\u2019 fears are too extreme, analyst says"
+      "title": "\u2018We were stunned\u2019: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?"
     }
   ]
 }
