@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, July 01 2026  11:24 PT",
-  "market_status": "Live \u2014 as of 14:24 ET",
+  "generated_at": "Wednesday, July 01 2026  13:24 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7499.86,
-      "change_pct": 0.01
+      "price": 7483.23,
+      "change_pct": -0.22
     },
     "Nasdaq": {
-      "price": 26120.82,
-      "change_pct": -0.35
+      "price": 26040.03,
+      "change_pct": -0.66
     },
     "Dow Jones": {
-      "price": 52362.03,
-      "change_pct": 0.08
+      "price": 52305.24,
+      "change_pct": -0.03
     },
     "Russell 2000": {
-      "price": 3028.75,
-      "change_pct": 0.13
+      "price": 3012.59,
+      "change_pct": -0.39
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4084.1,
-      "change_pct": 2.28
+      "price": 4049.9,
+      "change_pct": 1.43
     },
     "Oil (WTI)": {
-      "price": 68.3,
-      "change_pct": -2.16
+      "price": 68.07,
+      "change_pct": -2.49
     },
     "Silver": {
-      "price": 60.35,
-      "change_pct": 3.6
+      "price": 59.69,
+      "change_pct": 2.48
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60080,
-      "change_pct": 2.73
+      "price": 59887,
+      "change_pct": 2.13
     },
     "ETH": {
-      "price": 1618.75,
-      "change_pct": 2.79
+      "price": 1611.52,
+      "change_pct": 2.33
     },
     "SOL": {
-      "price": 77.59,
-      "change_pct": 5.77
+      "price": 76.61,
+      "change_pct": 3.97
     },
     "BNB": {
-      "price": 552.88,
-      "change_pct": 1.18
+      "price": 550.07,
+      "change_pct": 0.85
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Sandisk\u2019s and Micron\u2019s stocks sink as the rotation trade builds, but supply shortages should limit losses"
+      "title": "\u2018I don\u2019t think I\u2019ll make it to 80\u2019: I\u2019m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?"
     },
     {
       "source": "MarketWatch",
-      "title": "Stock-market bulls need Kevin Warsh on their side to keep winning, says Wall Street veteran Bob Doll"
+      "title": "\u2018We were stunned\u2019: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?"
     }
   ]
 }
