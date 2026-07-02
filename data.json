@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, July 02 2026  13:01 PT",
+  "generated_at": "Thursday, July 02 2026  14:44 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7482.69,
-      "change_pct": -0.01
+      "price": 7483.24,
+      "change_pct": 0.0
     },
     "Nasdaq": {
       "price": 25832.67,
       "change_pct": -0.8
     },
     "Dow Jones": {
-      "price": 52899.24,
+      "price": 52900.07,
       "change_pct": 1.14
     },
     "Russell 2000": {
-      "price": 2981.99,
-      "change_pct": -1.04
+      "price": 2996.11,
+      "change_pct": -0.55
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4130.8,
-      "change_pct": 1.19
+      "price": 4135.5,
+      "change_pct": 1.3
     },
     "Oil (WTI)": {
-      "price": 68.45,
-      "change_pct": 1.09
+      "price": 68.46,
+      "change_pct": 1.11
     },
     "Silver": {
-      "price": 61.22,
-      "change_pct": 0.73
+      "price": 61.44,
+      "change_pct": 1.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61412,
-      "change_pct": 2.55
+      "price": 61464,
+      "change_pct": 1.17
     },
     "ETH": {
-      "price": 1699.52,
-      "change_pct": 5.4
+      "price": 1697.75,
+      "change_pct": 4.42
     },
     "SOL": {
-      "price": 80.9,
-      "change_pct": 5.19
+      "price": 80.8,
+      "change_pct": 3.4
     },
     "BNB": {
-      "price": 557.78,
-      "change_pct": 1.37
+      "price": 557.18,
+      "change_pct": 0.33
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "President Donald Trump to sit down for exclusive interview with CNBC: Live updates"
+      "title": "CNBC interviews President Trump in the Oval Office"
     },
     {
       "source": "CNBC",
-      "title": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era"
+      "title": "Watch: President Donald Trump to sit down for exclusive interview with CNBC: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Hybrids are the breakout star of the U.S. car market as EV demand fades"
+      "title": "Palantir\u2019s stock bounces back as analyst cheers company\u2019s unique AI advantage"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump\u2019s real-estate licensing income in foreign countries nearly doubled \u2014 and now features Qatar and Romania"
+      "title": "Why Tesla\u2019s stock sank to its worst day in a year despite blowout delivery numbers"
     }
   ]
 }
