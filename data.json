@@ -1,60 +1,60 @@
 {
-  "generated_at": "Thursday, July 02 2026  09:06 PT",
-  "market_status": "Live \u2014 as of 12:06 ET",
+  "generated_at": "Thursday, July 02 2026  11:12 PT",
+  "market_status": "Live \u2014 as of 14:12 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7467.47,
-      "change_pct": -0.21
+      "price": 7453.07,
+      "change_pct": -0.4
     },
     "Nasdaq": {
-      "price": 25806.82,
-      "change_pct": -0.9
+      "price": 25752.27,
+      "change_pct": -1.11
     },
     "Dow Jones": {
-      "price": 52689.69,
-      "change_pct": 0.74
+      "price": 52576.22,
+      "change_pct": 0.52
     },
     "Russell 2000": {
-      "price": 2997.8,
-      "change_pct": -0.51
+      "price": 2973.47,
+      "change_pct": -1.32
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4138.9,
-      "change_pct": 1.39
+      "price": 4122.1,
+      "change_pct": 0.97
     },
     "Oil (WTI)": {
-      "price": 67.66,
-      "change_pct": -0.07
+      "price": 68.42,
+      "change_pct": 1.05
     },
     "Silver": {
-      "price": 61.53,
-      "change_pct": 1.25
+      "price": 61.02,
+      "change_pct": 0.4
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61500,
-      "change_pct": 2.26
+      "price": 61748,
+      "change_pct": 2.92
     },
     "ETH": {
-      "price": 1692.41,
-      "change_pct": 4.6
+      "price": 1699.93,
+      "change_pct": 5.1
     },
     "SOL": {
-      "price": 80.71,
-      "change_pct": 4.5
+      "price": 80.86,
+      "change_pct": 4.1
     },
     "BNB": {
-      "price": 561.65,
-      "change_pct": 1.49
+      "price": 561.01,
+      "change_pct": 1.5
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%"
+      "title": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "If you lost money on Trump crypto ventures, don\u2019t whine"
+      "title": "Why Tesla\u2019s stock is sinking toward its worst day in a year despite blowout delivery numbers"
     },
     {
       "source": "MarketWatch",
-      "title": "Palantir\u2019s stock bounces back as analyst cheers company\u2019s unique AI advantage"
+      "title": "\u2018We were stunned\u2019: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?"
     }
   ]
 }
