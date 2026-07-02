@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, July 02 2026  11:12 PT",
-  "market_status": "Live \u2014 as of 14:12 ET",
+  "generated_at": "Thursday, July 02 2026  13:01 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7453.07,
-      "change_pct": -0.4
+      "price": 7482.69,
+      "change_pct": -0.01
     },
     "Nasdaq": {
-      "price": 25752.27,
-      "change_pct": -1.11
+      "price": 25832.67,
+      "change_pct": -0.8
     },
     "Dow Jones": {
-      "price": 52576.22,
-      "change_pct": 0.52
+      "price": 52899.24,
+      "change_pct": 1.14
     },
     "Russell 2000": {
-      "price": 2973.47,
-      "change_pct": -1.32
+      "price": 2981.99,
+      "change_pct": -1.04
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4122.1,
-      "change_pct": 0.97
+      "price": 4130.8,
+      "change_pct": 1.19
     },
     "Oil (WTI)": {
-      "price": 68.42,
-      "change_pct": 1.05
+      "price": 68.45,
+      "change_pct": 1.09
     },
     "Silver": {
-      "price": 61.02,
-      "change_pct": 0.4
+      "price": 61.22,
+      "change_pct": 0.73
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61748,
-      "change_pct": 2.92
+      "price": 61412,
+      "change_pct": 2.55
     },
     "ETH": {
-      "price": 1699.93,
-      "change_pct": 5.1
+      "price": 1699.52,
+      "change_pct": 5.4
     },
     "SOL": {
-      "price": 80.86,
-      "change_pct": 4.1
+      "price": 80.9,
+      "change_pct": 5.19
     },
     "BNB": {
-      "price": 561.01,
-      "change_pct": 1.5
+      "price": 557.78,
+      "change_pct": 1.37
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era"
+      "title": "President Donald Trump to sit down for exclusive interview with CNBC: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Tesla stock sinks 7% despite strong deliveries report"
+      "title": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era"
     },
     {
       "source": "MarketWatch",
-      "title": "Why Tesla\u2019s stock is sinking toward its worst day in a year despite blowout delivery numbers"
+      "title": "Hybrids are the breakout star of the U.S. car market as EV demand fades"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We were stunned\u2019: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?"
+      "title": "Trump\u2019s real-estate licensing income in foreign countries nearly doubled \u2014 and now features Qatar and Romania"
     }
   ]
 }
