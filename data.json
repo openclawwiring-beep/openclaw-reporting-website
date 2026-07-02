@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 01 2026  18:31 PT",
+  "generated_at": "Wednesday, July 01 2026  22:58 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4067.5,
-      "change_pct": 1.87
+      "price": 4075.3,
+      "change_pct": -0.17
     },
     "Oil (WTI)": {
-      "price": 67.65,
-      "change_pct": -3.09
+      "price": 67.84,
+      "change_pct": 0.19
     },
     "Silver": {
-      "price": 60.22,
-      "change_pct": 3.38
+      "price": 60.2,
+      "change_pct": -0.95
     }
   },
   "crypto": {
     "BTC": {
-      "price": 59980,
-      "change_pct": 2.73
+      "price": 60476,
+      "change_pct": 2.41
     },
     "ETH": {
-      "price": 1610.83,
-      "change_pct": 2.6
+      "price": 1624.81,
+      "change_pct": 2.22
     },
     "SOL": {
-      "price": 77.79,
-      "change_pct": 6.44
+      "price": 77.93,
+      "change_pct": 3.75
     },
     "BNB": {
-      "price": 549.3,
-      "change_pct": 0.94
+      "price": 551.61,
+      "change_pct": 0.33
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Samsung Electronics, SK Hynix shares tumble over 7% as chip rout spreads from Wall Street"
+      "title": "Russia launches massive strike on Ukraine as Poland scrambles jets, Finland restricts airspace"
     },
     {
       "source": "CNBC",
-      "title": "U.S. won\u2019t renew USMCA, opening door for negotiations with Canada and Mexico"
+      "title": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: report"
     },
     {
       "source": "MarketWatch",
