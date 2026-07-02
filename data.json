@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 01 2026  16:23 PT",
+  "generated_at": "Wednesday, July 01 2026  18:31 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4052.5,
-      "change_pct": 1.49
+      "price": 4067.5,
+      "change_pct": 1.87
     },
     "Oil (WTI)": {
-      "price": 67.99,
-      "change_pct": -2.61
+      "price": 67.65,
+      "change_pct": -3.09
     },
     "Silver": {
-      "price": 59.78,
-      "change_pct": 2.63
+      "price": 60.22,
+      "change_pct": 3.38
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60224,
-      "change_pct": 2.94
+      "price": 59980,
+      "change_pct": 2.73
     },
     "ETH": {
-      "price": 1615.4,
-      "change_pct": 3.08
+      "price": 1610.83,
+      "change_pct": 2.6
     },
     "SOL": {
-      "price": 77.53,
-      "change_pct": 5.61
+      "price": 77.79,
+      "change_pct": 6.44
     },
     "BNB": {
-      "price": 551.89,
-      "change_pct": 1.31
+      "price": 549.3,
+      "change_pct": 0.94
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. won\u2019t renew USMCA, opening door for negotiations with Canada and Mexico"
+      "title": "Samsung Electronics, SK Hynix shares tumble over 7% as chip rout spreads from Wall Street"
     },
     {
       "source": "CNBC",
-      "title": "Fed Chief Kevin Warsh declines to hint at July rate decision, but says inflation 'too high'"
+      "title": "U.S. won\u2019t renew USMCA, opening door for negotiations with Canada and Mexico"
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it."
+      "title": "Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We were stunned\u2019: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?"
+      "title": "Opening a \u2018Trump account\u2019 for your children? Here is the risk you need to reckon with first."
     }
   ]
 }
