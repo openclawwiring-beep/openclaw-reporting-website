@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 01 2026  22:58 PT",
+  "generated_at": "Thursday, July 02 2026  02:25 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4075.3,
-      "change_pct": -0.17
+      "price": 4084.5,
+      "change_pct": 0.05
     },
     "Oil (WTI)": {
-      "price": 67.84,
-      "change_pct": 0.19
+      "price": 67.73,
+      "change_pct": 0.03
     },
     "Silver": {
-      "price": 60.2,
-      "change_pct": -0.95
+      "price": 60.45,
+      "change_pct": -0.53
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60476,
-      "change_pct": 2.41
+      "price": 60481,
+      "change_pct": 2.76
     },
     "ETH": {
-      "price": 1624.81,
-      "change_pct": 2.22
+      "price": 1624.34,
+      "change_pct": 2.89
     },
     "SOL": {
-      "price": 77.93,
-      "change_pct": 3.75
+      "price": 78.42,
+      "change_pct": 4.35
     },
     "BNB": {
-      "price": 551.61,
-      "change_pct": 0.33
+      "price": 550.2,
+      "change_pct": 0.74
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Russia launches massive strike on Ukraine as Poland scrambles jets, Finland restricts airspace"
+      "title": "World Cup could boost the June jobs report by 40,000, Goldman estimates"
     },
     {
       "source": "CNBC",
-      "title": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: report"
+      "title": "Oil prices on pace for fourth straight weekly loss as Trump sees progress in U.S.-Iran talks"
     },
     {
       "source": "MarketWatch",
-      "title": "Protein-packed Cheerios and cat food: How General Mills plans to combat a tough spending backdrop"
+      "title": "Warsh\u2019s throwaway comment injects life into the debasement trade, for one day at least"
     },
     {
       "source": "MarketWatch",
-      "title": "Opening a \u2018Trump account\u2019 for your children? Here is the risk you need to reckon with first."
+      "title": "Tamera Mowry lists Bay Area house for $2.7 million as she prepares to build Napa Valley \u2018dream home\u2019"
     }
   ]
 }
