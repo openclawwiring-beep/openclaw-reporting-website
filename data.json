@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 02 2026  18:09 PT",
+  "generated_at": "Thursday, July 02 2026  22:24 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4163.2,
-      "change_pct": 1.98
+      "price": 4191.1,
+      "change_pct": 2.67
     },
     "Oil (WTI)": {
-      "price": 68.42,
-      "change_pct": 1.05
+      "price": 69.05,
+      "change_pct": 1.98
     },
     "Silver": {
-      "price": 61.98,
-      "change_pct": 1.98
+      "price": 62.92,
+      "change_pct": 3.52
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61384,
-      "change_pct": 2.8
+      "price": 61528,
+      "change_pct": 1.3
     },
     "ETH": {
-      "price": 1702.05,
-      "change_pct": 6.1
+      "price": 1705.82,
+      "change_pct": 4.57
     },
     "SOL": {
-      "price": 80.91,
-      "change_pct": 4.81
+      "price": 80.62,
+      "change_pct": 3.2
     },
     "BNB": {
-      "price": 558.22,
-      "change_pct": 1.89
+      "price": 560.47,
+      "change_pct": 1.32
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My doctor friend objected to his hospital\u2019s fundraising tactics. Did management go too far?"
+      "title": "Is the stock market open today? Here\u2019s how Fourth of July weekend affects trading hours."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?"
+      "title": "My doctor friend objected to his hospital\u2019s fundraising tactics. Did management go too far?"
     }
   ]
 }
