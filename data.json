@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, July 03 2026  01:34 PT",
+  "generated_at": "Friday, July 03 2026  04:31 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -25,48 +25,48 @@
       "change_pct": 2.79
     },
     "Oil (WTI)": {
-      "price": 68.52,
-      "change_pct": 1.2
+      "price": 68.51,
+      "change_pct": 1.18
     },
     "Silver": {
-      "price": 63.19,
-      "change_pct": 3.97
+      "price": 62.89,
+      "change_pct": 3.48
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61692,
-      "change_pct": 2.28
+      "price": 61928,
+      "change_pct": 1.18
     },
     "ETH": {
-      "price": 1717.88,
-      "change_pct": 6.12
+      "price": 1741.81,
+      "change_pct": 5.93
     },
     "SOL": {
-      "price": 80.97,
-      "change_pct": 3.56
+      "price": 81.36,
+      "change_pct": -1.26
     },
     "BNB": {
-      "price": 561.54,
-      "change_pct": 2.18
+      "price": 566.09,
+      "change_pct": 1.16
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "President Donald Trump defends business dealings, his children in exclusive interview with CNBC"
+      "title": "Oman walks a diplomatic tightrope over Strait of Hormuz fees, creating a \u2018blind spot\u2019 for markets"
     },
     {
       "source": "CNBC",
-      "title": "Global stock markets rise as South Korea jumps, shrugging off chip slump: Live updates"
+      "title": "Extreme heat wave threatens U.S. power grids and July 4 travel"
     },
     {
       "source": "MarketWatch",
-      "title": "Is the stock market open today? Here\u2019s how Fourth of July weekend affects trading hours."
+      "title": "Michael Burry makes a bearish bet against hot memory stock Micron: reports"
     },
     {
       "source": "MarketWatch",
-      "title": "My doctor friend objected to his hospital\u2019s fundraising tactics. Did management go too far?"
+      "title": "\u2018I don\u2019t think I\u2019ll make it to 80\u2019: I\u2019m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?"
     }
   ]
 }
