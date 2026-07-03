@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, July 03 2026  07:01 PT",
-  "market_status": "Live \u2014 as of 10:01 ET",
+  "generated_at": "Friday, July 03 2026  09:05 PT",
+  "market_status": "Live \u2014 as of 12:05 ET",
   "stocks": {
     "S&P 500": {
       "price": 7483.24,
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4178.3,
-      "change_pct": 2.35
+      "price": 4177.6,
+      "change_pct": 2.33
     },
     "Oil (WTI)": {
-      "price": 68.63,
-      "change_pct": 1.36
+      "price": 68.71,
+      "change_pct": 1.48
     },
     "Silver": {
-      "price": 62.63,
-      "change_pct": 3.05
+      "price": 62.67,
+      "change_pct": 3.12
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62048,
-      "change_pct": 0.34
+      "price": 61895,
+      "change_pct": 0.57
     },
     "ETH": {
-      "price": 1746.07,
-      "change_pct": 2.2
+      "price": 1729.54,
+      "change_pct": 2.07
     },
     "SOL": {
-      "price": 81.58,
-      "change_pct": 0.26
+      "price": 81.14,
+      "change_pct": 0.53
     },
     "BNB": {
-      "price": 566.13,
-      "change_pct": 0.31
+      "price": 565.13,
+      "change_pct": 0.48
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Extreme heat wave threatens U.S. power grids and July 4 travel"
+      "title": "Ford achieves quality milestone, as CEO targets flawless new vehicle launches"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. stocks have delivered 8.7% a year since independence was declared in 1776"
+      "title": "AI infrastructure stocks have overtaken the tech hyperscalers in a shift UBS calls \u2018extraordinary\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She wants him gone\u2019: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?"
+      "title": "A looming AI disappointment and rising yields. Why one research firm is hitting the brakes on U.S. stocks."
     }
   ]
 }
