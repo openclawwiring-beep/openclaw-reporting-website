@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, July 03 2026  10:56 PT",
-  "market_status": "Live \u2014 as of 13:56 ET",
+  "generated_at": "Friday, July 03 2026  12:23 PT",
+  "market_status": "Live \u2014 as of 15:23 ET",
   "stocks": {
     "S&P 500": {
       "price": 7483.24,
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62140,
-      "change_pct": 0.82
+      "price": 62191,
+      "change_pct": 1.16
     },
     "ETH": {
-      "price": 1736.88,
-      "change_pct": 2.45
+      "price": 1744.16,
+      "change_pct": 2.94
     },
     "SOL": {
-      "price": 81.65,
-      "change_pct": 1.19
+      "price": 82.2,
+      "change_pct": 1.73
     },
     "BNB": {
-      "price": 567.27,
-      "change_pct": 1.19
+      "price": 569.29,
+      "change_pct": 2.04
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Ford achieves quality milestone, as CEO targets flawless new vehicle launches"
+      "title": "First known congressional SpaceX stock buys surface after record IPO"
     },
     {
       "source": "MarketWatch",
-      "title": "The World Cup has made Cape Verde goalkeeper Vozinha a $17 million social-media star"
+      "title": "Opening a \u2018Trump account\u2019 for your children? Here is the risk you need to reckon with first."
     },
     {
       "source": "MarketWatch",
-      "title": "AI infrastructure stocks have overtaken the tech hyperscalers in a shift UBS calls \u2018extraordinary\u2019"
+      "title": "\u2018I don\u2019t think I\u2019ll make it to 80\u2019: I\u2019m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?"
     }
   ]
 }
