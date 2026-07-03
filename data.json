@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, July 03 2026  04:31 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, July 03 2026  07:01 PT",
+  "market_status": "Live \u2014 as of 10:01 ET",
   "stocks": {
     "S&P 500": {
       "price": 7483.24,
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4196.3,
-      "change_pct": 2.79
+      "price": 4178.3,
+      "change_pct": 2.35
     },
     "Oil (WTI)": {
-      "price": 68.51,
-      "change_pct": 1.18
+      "price": 68.63,
+      "change_pct": 1.36
     },
     "Silver": {
-      "price": 62.89,
-      "change_pct": 3.48
+      "price": 62.63,
+      "change_pct": 3.05
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61928,
-      "change_pct": 1.18
+      "price": 62048,
+      "change_pct": 0.34
     },
     "ETH": {
-      "price": 1741.81,
-      "change_pct": 5.93
+      "price": 1746.07,
+      "change_pct": 2.2
     },
     "SOL": {
-      "price": 81.36,
-      "change_pct": -1.26
+      "price": 81.58,
+      "change_pct": 0.26
     },
     "BNB": {
-      "price": 566.09,
-      "change_pct": 1.16
+      "price": 566.13,
+      "change_pct": 0.31
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oman walks a diplomatic tightrope over Strait of Hormuz fees, creating a \u2018blind spot\u2019 for markets"
+      "title": "5 takeaways from President Donald Trump's interview with CNBC"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Michael Burry makes a bearish bet against hot memory stock Micron: reports"
+      "title": "U.S. stocks have delivered 8.7% a year since independence was declared in 1776"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I don\u2019t think I\u2019ll make it to 80\u2019: I\u2019m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?"
+      "title": "\u2018She wants him gone\u2019: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?"
     }
   ]
 }
