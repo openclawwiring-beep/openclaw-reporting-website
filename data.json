@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, July 03 2026  09:05 PT",
-  "market_status": "Live \u2014 as of 12:05 ET",
+  "generated_at": "Friday, July 03 2026  10:56 PT",
+  "market_status": "Live \u2014 as of 13:56 ET",
   "stocks": {
     "S&P 500": {
       "price": 7483.24,
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4177.6,
-      "change_pct": 2.33
+      "price": 4187.3,
+      "change_pct": 2.57
     },
     "Oil (WTI)": {
-      "price": 68.71,
-      "change_pct": 1.48
+      "price": 68.78,
+      "change_pct": 1.58
     },
     "Silver": {
-      "price": 62.67,
-      "change_pct": 3.12
+      "price": 62.81,
+      "change_pct": 3.36
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61895,
-      "change_pct": 0.57
+      "price": 62140,
+      "change_pct": 0.82
     },
     "ETH": {
-      "price": 1729.54,
-      "change_pct": 2.07
+      "price": 1736.88,
+      "change_pct": 2.45
     },
     "SOL": {
-      "price": 81.14,
-      "change_pct": 0.53
+      "price": 81.65,
+      "change_pct": 1.19
     },
     "BNB": {
-      "price": 565.13,
-      "change_pct": 0.48
+      "price": 567.27,
+      "change_pct": 1.19
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "AI infrastructure stocks have overtaken the tech hyperscalers in a shift UBS calls \u2018extraordinary\u2019"
+      "title": "The World Cup has made Cape Verde goalkeeper Vozinha a $17 million social-media star"
     },
     {
       "source": "MarketWatch",
-      "title": "A looming AI disappointment and rising yields. Why one research firm is hitting the brakes on U.S. stocks."
+      "title": "AI infrastructure stocks have overtaken the tech hyperscalers in a shift UBS calls \u2018extraordinary\u2019"
     }
   ]
 }
