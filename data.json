@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 04 2026  02:04 PT",
+  "generated_at": "Saturday, July 04 2026  04:05 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62492,
-      "change_pct": 1.59
+      "price": 62429,
+      "change_pct": 0.82
     },
     "ETH": {
-      "price": 1759.67,
-      "change_pct": 2.46
+      "price": 1756.22,
+      "change_pct": 0.83
     },
     "SOL": {
-      "price": 82.04,
-      "change_pct": 1.49
+      "price": 81.53,
+      "change_pct": 0.12
     },
     "BNB": {
-      "price": 573.89,
-      "change_pct": 2.22
+      "price": 571.53,
+      "change_pct": 0.95
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "5 takeaways from President Donald Trump's interview with CNBC"
+      "title": "First known congressional SpaceX stock buys surface after record IPO"
     },
     {
       "source": "CNBC",
-      "title": "Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death"
+      "title": "UK and France agree with Oman to ensure safety of its territorial waters"
     },
     {
       "source": "MarketWatch",
