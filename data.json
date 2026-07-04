@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 04 2026  11:31 PT",
+  "generated_at": "Saturday, July 04 2026  13:07 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63113,
-      "change_pct": 1.57
+      "price": 63300,
+      "change_pct": 1.52
     },
     "ETH": {
-      "price": 1794.78,
-      "change_pct": 3.32
+      "price": 1792.96,
+      "change_pct": 2.6
     },
     "SOL": {
-      "price": 82.17,
-      "change_pct": 0.55
+      "price": 81.82,
+      "change_pct": -0.65
     },
     "BNB": {
-      "price": 576.29,
-      "change_pct": 1.55
+      "price": 575.27,
+      "change_pct": 0.89
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule \u2014 just in time for hail and hurricane season"
+      "title": "Here\u2019s what\u2019s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more"
     },
     {
       "source": "MarketWatch",
-      "title": "Where can I invest my kid\u2019s \u2018Trump account\u2019 money? The Treasury Department just answered that question."
+      "title": "Why a founder at age 50 is twice as likely to find success as one at age 30"
     }
   ]
 }
