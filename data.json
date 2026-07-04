@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 04 2026  14:27 PT",
+  "generated_at": "Saturday, July 04 2026  15:28 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63362,
-      "change_pct": 1.26
+      "price": 63161,
+      "change_pct": 0.93
     },
     "ETH": {
-      "price": 1790.73,
-      "change_pct": 1.61
+      "price": 1783.45,
+      "change_pct": 1.4
     },
     "SOL": {
-      "price": 82.02,
-      "change_pct": -0.37
+      "price": 81.8,
+      "change_pct": -0.76
     },
     "BNB": {
-      "price": 573.8,
-      "change_pct": 0.21
+      "price": 576.68,
+      "change_pct": 0.71
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She wants him gone\u2019: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?"
+      "title": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s what\u2019s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more"
+      "title": "\u2018She wants him gone\u2019: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?"
     }
   ]
 }
