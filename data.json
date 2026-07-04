@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 04 2026  08:43 PT",
+  "generated_at": "Saturday, July 04 2026  10:03 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62848,
-      "change_pct": 1.7
+      "price": 62792,
+      "change_pct": 1.15
     },
     "ETH": {
-      "price": 1789.15,
-      "change_pct": 3.34
+      "price": 1780.5,
+      "change_pct": 2.82
     },
     "SOL": {
-      "price": 82.17,
-      "change_pct": 1.23
+      "price": 82.05,
+      "change_pct": 0.73
     },
     "BNB": {
-      "price": 576.36,
-      "change_pct": 2.07
+      "price": 574.52,
+      "change_pct": 1.44
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "When it comes to beating the stock market, no news really is good news"
+      "title": "What\u2019s a \u2018soft\u2019 off day? How to take one without getting in trouble at work."
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s what\u2019s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more"
+      "title": "When it comes to beating the stock market, no news really is good news"
     }
   ]
 }
