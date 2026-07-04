@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, July 03 2026  23:18 PT",
+  "generated_at": "Saturday, July 04 2026  02:04 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62391,
-      "change_pct": 1.14
+      "price": 62492,
+      "change_pct": 1.59
     },
     "ETH": {
-      "price": 1754.69,
-      "change_pct": 2.24
+      "price": 1759.67,
+      "change_pct": 2.46
     },
     "SOL": {
-      "price": 83.23,
-      "change_pct": 2.58
+      "price": 82.04,
+      "change_pct": 1.49
     },
     "BNB": {
-      "price": 570.24,
-      "change_pct": 1.4
+      "price": 573.89,
+      "change_pct": 2.22
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "First known congressional SpaceX stock buys surface after record IPO"
+      "title": "Iran begins six-day funeral for Ayatollah Khamenei nearly four months after his death"
     },
     {
       "source": "MarketWatch",
