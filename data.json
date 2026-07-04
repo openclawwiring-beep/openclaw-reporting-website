@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 04 2026  04:05 PT",
+  "generated_at": "Saturday, July 04 2026  05:43 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62429,
-      "change_pct": 0.82
+      "price": 62556,
+      "change_pct": 1.13
     },
     "ETH": {
-      "price": 1756.22,
-      "change_pct": 0.83
+      "price": 1762.91,
+      "change_pct": 1.8
     },
     "SOL": {
-      "price": 81.53,
-      "change_pct": 0.12
+      "price": 81.38,
+      "change_pct": 0.2
     },
     "BNB": {
-      "price": 571.53,
-      "change_pct": 0.95
+      "price": 572.58,
+      "change_pct": 1.49
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "UK and France agree with Oman to ensure safety of its territorial waters"
+      "title": "Trump to mark U.S. 250th anniversary with campaign-style rally on National Mall"
     },
     {
       "source": "MarketWatch",
