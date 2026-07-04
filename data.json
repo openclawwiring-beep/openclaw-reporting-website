@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 04 2026  13:07 PT",
+  "generated_at": "Saturday, July 04 2026  14:27 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63300,
-      "change_pct": 1.52
+      "price": 63362,
+      "change_pct": 1.26
     },
     "ETH": {
-      "price": 1792.96,
-      "change_pct": 2.6
+      "price": 1790.73,
+      "change_pct": 1.61
     },
     "SOL": {
-      "price": 81.82,
-      "change_pct": -0.65
+      "price": 82.02,
+      "change_pct": -0.37
     },
     "BNB": {
-      "price": 575.27,
-      "change_pct": 0.89
+      "price": 573.8,
+      "change_pct": 0.21
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s what\u2019s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more"
+      "title": "\u2018She wants him gone\u2019: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?"
     },
     {
       "source": "MarketWatch",
-      "title": "Why a founder at age 50 is twice as likely to find success as one at age 30"
+      "title": "Here\u2019s what\u2019s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more"
     }
   ]
 }
