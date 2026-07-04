@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 04 2026  10:03 PT",
+  "generated_at": "Saturday, July 04 2026  11:31 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62792,
-      "change_pct": 1.15
+      "price": 63113,
+      "change_pct": 1.57
     },
     "ETH": {
-      "price": 1780.5,
-      "change_pct": 2.82
+      "price": 1794.78,
+      "change_pct": 3.32
     },
     "SOL": {
-      "price": 82.05,
-      "change_pct": 0.73
+      "price": 82.17,
+      "change_pct": 0.55
     },
     "BNB": {
-      "price": 574.52,
-      "change_pct": 1.44
+      "price": 576.29,
+      "change_pct": 1.55
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "What\u2019s a \u2018soft\u2019 off day? How to take one without getting in trouble at work."
+      "title": "Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule \u2014 just in time for hail and hurricane season"
     },
     {
       "source": "MarketWatch",
-      "title": "When it comes to beating the stock market, no news really is good news"
+      "title": "Where can I invest my kid\u2019s \u2018Trump account\u2019 money? The Treasury Department just answered that question."
     }
   ]
 }
