@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 05 2026  12:16 PT",
+  "generated_at": "Sunday, July 05 2026  13:35 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62795,
-      "change_pct": -0.62
+      "price": 62655,
+      "change_pct": -0.82
     },
     "ETH": {
-      "price": 1782.25,
-      "change_pct": -0.43
+      "price": 1775.92,
+      "change_pct": -0.52
     },
     "SOL": {
-      "price": 80.98,
-      "change_pct": -1.39
+      "price": 80.93,
+      "change_pct": -0.82
     },
     "BNB": {
-      "price": 589.87,
-      "change_pct": 2.48
+      "price": 587.88,
+      "change_pct": 2.58
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "From Macron to Modi, governments are rolling out the red carpet for AI giants"
+      "title": "Trump thanks FIFA after Folarin Balogun\u2019s World Cup red card suspension is reversed"
     },
     {
       "source": "CNBC",
-      "title": "Cargo vessel in Red Sea reports coming under attack, UK maritime body says"
+      "title": "Trump gives campaign-style July 4 speech on National Mall for U.S. 250th anniversary"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "OPEC+ raises output levels again despite tumbling crude prices"
     },
     {
       "source": "MarketWatch",
       "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Hybrids are the breakout star of the U.S. car market as EV demand fades"
     }
   ]
 }
