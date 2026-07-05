@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 05 2026  04:32 PT",
+  "generated_at": "Sunday, July 05 2026  06:28 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62580,
-      "change_pct": 0.18
+      "price": 62641,
+      "change_pct": 0.07
     },
     "ETH": {
-      "price": 1758.15,
-      "change_pct": 0.02
+      "price": 1761.88,
+      "change_pct": -0.28
     },
     "SOL": {
-      "price": 80.36,
-      "change_pct": -1.68
+      "price": 80.79,
+      "change_pct": -1.06
     },
     "BNB": {
-      "price": 575.22,
-      "change_pct": 0.65
+      "price": 583.64,
+      "change_pct": 1.93
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump gives campaign-style July 4 speech on National Mall for U.S. 250th anniversary"
+      "title": "Cargo vessel in Red Sea reports coming under attack, UK maritime body says"
     },
     {
       "source": "MarketWatch",
-      "title": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era"
+      "title": "Hybrids are the breakout star of the U.S. car market as EV demand fades"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She wants him gone\u2019: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?"
+      "title": "Why the stock market\u2019s red-hot momentum trade might be headed for a violent unwind this month"
     }
   ]
 }
