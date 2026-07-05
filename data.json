@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 05 2026  02:41 PT",
+  "generated_at": "Sunday, July 05 2026  04:32 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62566,
-      "change_pct": 0.27
+      "price": 62580,
+      "change_pct": 0.18
     },
     "ETH": {
-      "price": 1755.94,
-      "change_pct": 0.09
+      "price": 1758.15,
+      "change_pct": 0.02
     },
     "SOL": {
-      "price": 79.99,
-      "change_pct": -2.11
+      "price": 80.36,
+      "change_pct": -1.68
     },
     "BNB": {
-      "price": 574.64,
-      "change_pct": 0.47
+      "price": 575.22,
+      "change_pct": 0.65
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "First known congressional SpaceX stock buys surface after record IPO"
+      "title": "From Macron to Modi, governments are rolling out the red carpet for AI giants"
     },
     {
       "source": "CNBC",
