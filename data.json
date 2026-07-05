@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 04 2026  16:34 PT",
+  "generated_at": "Saturday, July 04 2026  20:18 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63088,
-      "change_pct": 0.78
+      "price": 62709,
+      "change_pct": 0.3
     },
     "ETH": {
-      "price": 1778.5,
-      "change_pct": 1.18
+      "price": 1761.53,
+      "change_pct": 0.78
     },
     "SOL": {
-      "price": 81.67,
-      "change_pct": -0.65
+      "price": 80.5,
+      "change_pct": -2.11
     },
     "BNB": {
-      "price": 575.15,
-      "change_pct": 0.3
+      "price": 570.25,
+      "change_pct": -0.33
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump to mark U.S. 250th anniversary with campaign-style rally on National Mall"
+      "title": "Severe weather disrupts some America 250th celebrations; Trump says he will still speak in DC"
     },
     {
       "source": "MarketWatch",
