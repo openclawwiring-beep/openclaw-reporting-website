@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 04 2026  20:18 PT",
+  "generated_at": "Saturday, July 04 2026  23:53 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62709,
-      "change_pct": 0.3
+      "price": 62718,
+      "change_pct": 0.43
     },
     "ETH": {
-      "price": 1761.53,
-      "change_pct": 0.78
+      "price": 1762.51,
+      "change_pct": 0.54
     },
     "SOL": {
-      "price": 80.5,
-      "change_pct": -2.11
+      "price": 80.49,
+      "change_pct": -2.56
     },
     "BNB": {
-      "price": 570.25,
-      "change_pct": -0.33
+      "price": 571.41,
+      "change_pct": 0.33
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Severe weather disrupts some America 250th celebrations; Trump says he will still speak in DC"
+      "title": "Trump gives campaign-style July 4 speech on National Mall for U.S. 250th anniversary"
     },
     {
       "source": "MarketWatch",
