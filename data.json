@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 05 2026  06:28 PT",
+  "generated_at": "Sunday, July 05 2026  07:58 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62641,
-      "change_pct": 0.07
+      "price": 62724,
+      "change_pct": 0.14
     },
     "ETH": {
-      "price": 1761.88,
-      "change_pct": -0.28
+      "price": 1769.22,
+      "change_pct": -0.05
     },
     "SOL": {
-      "price": 80.79,
-      "change_pct": -1.06
+      "price": 81.28,
+      "change_pct": -0.52
     },
     "BNB": {
-      "price": 583.64,
-      "change_pct": 1.93
+      "price": 586.66,
+      "change_pct": 2.16
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Hybrids are the breakout star of the U.S. car market as EV demand fades"
+      "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?"
     },
     {
       "source": "MarketWatch",
-      "title": "Why the stock market\u2019s red-hot momentum trade might be headed for a violent unwind this month"
+      "title": "Hybrids are the breakout star of the U.S. car market as EV demand fades"
     }
   ]
 }
