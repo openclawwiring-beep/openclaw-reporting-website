@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, July 06 2026  01:01 PT",
+  "generated_at": "Monday, July 06 2026  05:22 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4175.2,
-      "change_pct": -0.04
+      "price": 4167.0,
+      "change_pct": -0.24
     },
     "Oil (WTI)": {
-      "price": 67.97,
-      "change_pct": -0.66
+      "price": 68.69,
+      "change_pct": 0.39
     },
     "Silver": {
-      "price": 62.74,
-      "change_pct": 0.7
+      "price": 62.58,
+      "change_pct": 0.45
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63042,
-      "change_pct": 0.1
+      "price": 61970,
+      "change_pct": -1.07
     },
     "ETH": {
-      "price": 1770.95,
-      "change_pct": 0.09
+      "price": 1748.55,
+      "change_pct": -0.78
     },
     "SOL": {
-      "price": 80.78,
-      "change_pct": 0.11
+      "price": 80.38,
+      "change_pct": -0.17
     },
     "BNB": {
-      "price": 581.64,
-      "change_pct": 1.06
+      "price": 575.32,
+      "change_pct": -0.72
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Lockheed Martin leading race for $3.5 billion purchase of naval defense firm Ultra Maritime"
+      "title": "S&P 500 and Nasdaq futures rise after a strong week on Wall Street, led by chip stocks: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "'NATO 3.0': Defense spending pledges face the Trump test"
+      "title": "Versant agrees to buy golf simulator company Full Swing for $530 million"
     },
     {
       "source": "MarketWatch",
-      "title": "Just a week after spin-off plan, Comcast says it will buy British broadcaster"
+      "title": "As oil exits the \u2018danger zone,\u2019 here\u2019s what history suggests happens next for stocks"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. stock futures rise as Wall Street looks to extend its rally coming off the holiday weekend"
+      "title": "AI hyperscalers are poised for a big comeback rally as chip gains cool, says Morgan Stanley"
     }
   ]
 }
