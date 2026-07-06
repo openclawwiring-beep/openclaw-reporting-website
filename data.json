@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, July 06 2026  13:23 PT",
+  "generated_at": "Monday, July 06 2026  14:57 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4173.4,
-      "change_pct": -0.09
+      "price": 4187.3,
+      "change_pct": 0.25
     },
     "Oil (WTI)": {
-      "price": 68.69,
-      "change_pct": 0.39
+      "price": 68.78,
+      "change_pct": 0.53
     },
     "Silver": {
-      "price": 62.42,
-      "change_pct": 0.19
+      "price": 62.81,
+      "change_pct": 0.83
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63592,
-      "change_pct": 1.41
+      "price": 64436,
+      "change_pct": 2.13
     },
     "ETH": {
-      "price": 1787.43,
-      "change_pct": 0.54
+      "price": 1815.97,
+      "change_pct": 1.62
     },
     "SOL": {
-      "price": 81.74,
-      "change_pct": 0.94
+      "price": 82.72,
+      "change_pct": 1.23
     },
     "BNB": {
-      "price": 583.65,
-      "change_pct": -0.81
+      "price": 589.23,
+      "change_pct": -0.04
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump plugs Dell at first-ever White House opening bell, sending shares soaring"
+      "title": "Dow jumps 150 points for first close above 53,000; Nasdaq rises as chips rebound: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Strategy is losing a lot of money on bitcoin. Here\u2019s why it\u2019s selling anyway."
+      "title": "Your data built the AI boom \u2014 but Big Tech is pocketing 100% of the equity"
     },
     {
       "source": "MarketWatch",
-      "title": "Dell\u2019s stock gets another Trump bump \u2014\u00a0but this time it\u2019s fading"
+      "title": "Your investing expectations are more than double the reality. Here is the tough truth."
     }
   ]
 }
