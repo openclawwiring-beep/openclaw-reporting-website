@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, July 06 2026  11:16 PT",
-  "market_status": "Live \u2014 as of 14:16 ET",
+  "generated_at": "Monday, July 06 2026  13:23 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7541.41,
-      "change_pct": 0.85
+      "price": 7537.43,
+      "change_pct": 0.72
     },
     "Nasdaq": {
-      "price": 26136.57,
-      "change_pct": 1.18
+      "price": 26121.16,
+      "change_pct": 1.12
     },
     "Dow Jones": {
-      "price": 52950.59,
-      "change_pct": 0.16
+      "price": 53055.91,
+      "change_pct": 0.29
     },
     "Russell 2000": {
-      "price": 3016.54,
-      "change_pct": 0.67
+      "price": 3009.54,
+      "change_pct": 0.45
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4168.4,
-      "change_pct": -0.21
+      "price": 4173.4,
+      "change_pct": -0.09
     },
     "Oil (WTI)": {
-      "price": 68.55,
-      "change_pct": 0.19
+      "price": 68.69,
+      "change_pct": 0.39
     },
     "Silver": {
-      "price": 62.34,
-      "change_pct": 0.06
+      "price": 62.42,
+      "change_pct": 0.19
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63665,
-      "change_pct": 1.63
+      "price": 63592,
+      "change_pct": 1.41
     },
     "ETH": {
-      "price": 1788.49,
-      "change_pct": 0.59
+      "price": 1787.43,
+      "change_pct": 0.54
     },
     "SOL": {
-      "price": 81.42,
-      "change_pct": 0.4
+      "price": 81.74,
+      "change_pct": 0.94
     },
     "BNB": {
-      "price": 583.43,
-      "change_pct": -0.03
+      "price": 583.65,
+      "change_pct": -0.81
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Your 5 biggest questions about \u2018Trump accounts,\u2019 answered"
+      "title": "Strategy is losing a lot of money on bitcoin. Here\u2019s why it\u2019s selling anyway."
     },
     {
       "source": "MarketWatch",
-      "title": "Nine microcap stocks of companies expected to grow sales by triple digits through 2028"
+      "title": "Dell\u2019s stock gets another Trump bump \u2014\u00a0but this time it\u2019s fading"
     }
   ]
 }
