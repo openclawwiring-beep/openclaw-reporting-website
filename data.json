@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, July 06 2026  22:36 PT",
+  "generated_at": "Tuesday, July 07 2026  02:38 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4139.7,
-      "change_pct": -0.28
+      "price": 4134.2,
+      "change_pct": -0.18
     },
     "Oil (WTI)": {
-      "price": 69.15,
-      "change_pct": -0.01
+      "price": 69.21,
+      "change_pct": 0.41
     },
     "Silver": {
-      "price": 61.15,
-      "change_pct": -1.19
+      "price": 61.31,
+      "change_pct": -0.32
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63054,
-      "change_pct": -0.02
+      "price": 63112,
+      "change_pct": 0.84
     },
     "ETH": {
-      "price": 1765.9,
-      "change_pct": -0.31
+      "price": 1771.79,
+      "change_pct": 0.92
     },
     "SOL": {
-      "price": 80.68,
-      "change_pct": 0.59
+      "price": 81.12,
+      "change_pct": 1.19
     },
     "BNB": {
-      "price": 578.35,
-      "change_pct": -0.64
+      "price": 577.06,
+      "change_pct": 0.06
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. loses to Belgium 4-1; Balogun plays after Trump calls FIFA"
+      "title": "Oil prices rise after report of Iranian attack on commercial ships in Strait of Hormuz"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Trump calls Walmart \u2018patriotic\u2019 for cutting beef prices \u2014 in a stark change of tune"
+      "title": "\u2018The money would have been life-changing\u2019: My father told my grandmother to slash my inheritance. Is that fair?"
     },
     {
       "source": "MarketWatch",
-      "title": "The Nasdaq-100 has been far more volatile than the S&P 500. Now add SpaceX to the mix."
+      "title": "SpaceX\u2019s two lead underwriters have a $1 trillion chasm in their valuation as quiet period ends"
     }
   ]
 }
