@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, July 07 2026  05:25 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, July 07 2026  08:24 PT",
+  "market_status": "Live \u2014 as of 11:24 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7537.43,
-      "change_pct": 0.72
+      "price": 7485.12,
+      "change_pct": -0.71
     },
     "Nasdaq": {
-      "price": 26121.16,
-      "change_pct": 1.12
+      "price": 25741.34,
+      "change_pct": -1.45
     },
     "Dow Jones": {
-      "price": 53055.91,
-      "change_pct": 0.29
+      "price": 52821.28,
+      "change_pct": -0.45
     },
     "Russell 2000": {
-      "price": 3009.54,
-      "change_pct": 0.45
+      "price": 2988.94,
+      "change_pct": -0.69
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4185.5,
-      "change_pct": 1.06
+      "price": 4159.5,
+      "change_pct": 0.43
     },
     "Oil (WTI)": {
-      "price": 69.05,
-      "change_pct": 0.17
+      "price": 70.35,
+      "change_pct": 2.06
     },
     "Silver": {
-      "price": 62.12,
-      "change_pct": 1.02
+      "price": 61.2,
+      "change_pct": -0.49
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63692,
-      "change_pct": 2.72
+      "price": 63620,
+      "change_pct": 2.03
     },
     "ETH": {
-      "price": 1791.64,
-      "change_pct": 2.51
+      "price": 1789.43,
+      "change_pct": 1.69
     },
     "SOL": {
-      "price": 81.79,
-      "change_pct": 1.81
+      "price": 81.67,
+      "change_pct": 1.53
     },
     "BNB": {
-      "price": 581.29,
-      "change_pct": 1.1
+      "price": 581.42,
+      "change_pct": 0.37
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nasdaq futures fall as chip stocks struggle: Live updates"
+      "title": "Trump renews Greenland threats at NATO summit, says U.S. could remove troops from Europe"
     },
     {
       "source": "CNBC",
-      "title": "Trump arrives in Turkey as NATO is strained by Russian attacks, U.S. impatience"
+      "title": "Chinese lidar maker with Nvidia ties accused of being cyber risk for U.S."
     },
     {
       "source": "MarketWatch",
-      "title": "Russia\u2019s oil refineries are burning \u2014 and, now, so is its bond market"
+      "title": "NATO announces billions in defense deals. What investors should watch for now."
     },
     {
       "source": "MarketWatch",
-      "title": "The Nasdaq-100 has been far more volatile than the S&P 500. Now add SpaceX to the mix."
+      "title": "\u2018Our family is broken beyond repair\u2019: My brother took over my parents\u2019 finances. What can I do?"
     }
   ]
 }
