@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, July 06 2026  16:12 PT",
+  "generated_at": "Monday, July 06 2026  18:15 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4175.8,
-      "change_pct": -0.03
+      "price": 4158.7,
+      "change_pct": -0.44
     },
     "Oil (WTI)": {
-      "price": 68.72,
-      "change_pct": 0.44
+      "price": 68.83,
+      "change_pct": 0.6
     },
     "Silver": {
-      "price": 62.46,
-      "change_pct": 0.25
+      "price": 61.9,
+      "change_pct": -0.63
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64207,
-      "change_pct": 0.55
+      "price": 63924,
+      "change_pct": 0.3
     },
     "ETH": {
-      "price": 1806.04,
-      "change_pct": 0.48
+      "price": 1794.19,
+      "change_pct": 0.21
     },
     "SOL": {
-      "price": 82.26,
-      "change_pct": 0.65
+      "price": 82.08,
+      "change_pct": 0.0
     },
     "BNB": {
-      "price": 588.04,
-      "change_pct": -0.65
+      "price": 584.06,
+      "change_pct": -1.15
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The Nasdaq-100 has been far more volatile than the S&P 500. Now add SpaceX to the mix."
+      "title": "Trump calls Walmart \u2018patriotic\u2019 for cutting beef prices \u2014 in a stark change of tune"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S.-Belgium match could draw record TV audience amid the Trump World Cup controversy"
+      "title": "The Nasdaq-100 has been far more volatile than the S&P 500. Now add SpaceX to the mix."
     }
   ]
 }
