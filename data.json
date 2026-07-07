@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, July 06 2026  18:15 PT",
+  "generated_at": "Monday, July 06 2026  22:36 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4158.7,
-      "change_pct": -0.44
+      "price": 4139.7,
+      "change_pct": -0.28
     },
     "Oil (WTI)": {
-      "price": 68.83,
-      "change_pct": 0.6
+      "price": 69.15,
+      "change_pct": -0.01
     },
     "Silver": {
-      "price": 61.9,
-      "change_pct": -0.63
+      "price": 61.15,
+      "change_pct": -1.19
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63924,
-      "change_pct": 0.3
+      "price": 63054,
+      "change_pct": -0.02
     },
     "ETH": {
-      "price": 1794.19,
-      "change_pct": 0.21
+      "price": 1765.9,
+      "change_pct": -0.31
     },
     "SOL": {
-      "price": 82.08,
-      "change_pct": 0.0
+      "price": 80.68,
+      "change_pct": 0.59
     },
     "BNB": {
-      "price": 584.06,
-      "change_pct": -1.15
+      "price": 578.35,
+      "change_pct": -0.64
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures are little changed after Dow tops 53,000 for first time: Live updates"
+      "title": "U.S. loses to Belgium 4-1; Balogun plays after Trump calls FIFA"
     },
     {
       "source": "CNBC",
-      "title": "Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios"
+      "title": "Trump heads to Turkey as NATO is strained by Russian attacks, U.S. impatience"
     },
     {
       "source": "MarketWatch",
