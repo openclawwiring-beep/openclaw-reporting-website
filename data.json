@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, July 07 2026  02:38 PT",
+  "generated_at": "Tuesday, July 07 2026  05:25 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4134.2,
-      "change_pct": -0.18
+      "price": 4185.5,
+      "change_pct": 1.06
     },
     "Oil (WTI)": {
-      "price": 69.21,
-      "change_pct": 0.41
+      "price": 69.05,
+      "change_pct": 0.17
     },
     "Silver": {
-      "price": 61.31,
-      "change_pct": -0.32
+      "price": 62.12,
+      "change_pct": 1.02
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63112,
-      "change_pct": 0.84
+      "price": 63692,
+      "change_pct": 2.72
     },
     "ETH": {
-      "price": 1771.79,
-      "change_pct": 0.92
+      "price": 1791.64,
+      "change_pct": 2.51
     },
     "SOL": {
-      "price": 81.12,
-      "change_pct": 1.19
+      "price": 81.79,
+      "change_pct": 1.81
     },
     "BNB": {
-      "price": 577.06,
-      "change_pct": 0.06
+      "price": 581.29,
+      "change_pct": 1.1
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices rise after report of Iranian attack on commercial ships in Strait of Hormuz"
+      "title": "Nasdaq futures fall as chip stocks struggle: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Trump heads to Turkey as NATO is strained by Russian attacks, U.S. impatience"
+      "title": "Trump arrives in Turkey as NATO is strained by Russian attacks, U.S. impatience"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The money would have been life-changing\u2019: My father told my grandmother to slash my inheritance. Is that fair?"
+      "title": "Russia\u2019s oil refineries are burning \u2014 and, now, so is its bond market"
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX\u2019s two lead underwriters have a $1 trillion chasm in their valuation as quiet period ends"
+      "title": "The Nasdaq-100 has been far more volatile than the S&P 500. Now add SpaceX to the mix."
     }
   ]
 }
