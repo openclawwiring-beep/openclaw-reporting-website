@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, July 07 2026  15:36 PT",
+  "generated_at": "Tuesday, July 07 2026  16:56 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4113.0,
-      "change_pct": -0.7
+      "price": 4107.1,
+      "change_pct": -0.84
     },
     "Oil (WTI)": {
-      "price": 72.35,
-      "change_pct": 4.96
+      "price": 72.45,
+      "change_pct": 5.11
     },
     "Silver": {
-      "price": 60.24,
-      "change_pct": -2.06
+      "price": 60.06,
+      "change_pct": -2.35
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63487,
-      "change_pct": -1.03
+      "price": 63347,
+      "change_pct": -1.01
     },
     "ETH": {
-      "price": 1774.43,
-      "change_pct": -1.83
+      "price": 1769.7,
+      "change_pct": -1.54
     },
     "SOL": {
-      "price": 80.84,
-      "change_pct": -1.87
+      "price": 80.7,
+      "change_pct": -1.53
     },
     "BNB": {
-      "price": 578.52,
-      "change_pct": -1.49
+      "price": 577.02,
+      "change_pct": -1.46
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "AI-related debt sells off sharply as Amazon borrows another $25 billion"
+      "title": "\u2018Our family is broken beyond repair\u2019: My brother took over my parents\u2019 finances. What can I do?"
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla\u2019s stock could rise 20% thanks to the potential for a SpaceX merger, analyst says"
+      "title": "Micron\u2019s stock falls as investors wonder if the memory market is near the top"
     }
   ]
 }
