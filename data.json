@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, July 07 2026  12:53 PT",
-  "market_status": "Live \u2014 as of 15:53 ET",
+  "generated_at": "Tuesday, July 07 2026  14:22 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7498.51,
-      "change_pct": -0.53
+      "price": 7503.85,
+      "change_pct": -0.45
     },
     "Nasdaq": {
-      "price": 25782.31,
-      "change_pct": -1.3
+      "price": 25818.69,
+      "change_pct": -1.16
     },
     "Dow Jones": {
-      "price": 52920.43,
-      "change_pct": -0.26
+      "price": 52925.15,
+      "change_pct": -0.25
     },
     "Russell 2000": {
-      "price": 2980.23,
-      "change_pct": -0.98
+      "price": 2982.49,
+      "change_pct": -0.9
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4119.8,
-      "change_pct": -0.53
+      "price": 4116.6,
+      "change_pct": -0.61
     },
     "Oil (WTI)": {
-      "price": 71.96,
-      "change_pct": 4.4
+      "price": 72.19,
+      "change_pct": 4.73
     },
     "Silver": {
-      "price": 60.44,
-      "change_pct": -1.72
+      "price": 60.4,
+      "change_pct": -1.78
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63793,
-      "change_pct": -0.01
+      "price": 63480,
+      "change_pct": -1.24
     },
     "ETH": {
-      "price": 1788.41,
-      "change_pct": -0.32
+      "price": 1776.98,
+      "change_pct": -2.16
     },
     "SOL": {
-      "price": 81.34,
-      "change_pct": -0.75
+      "price": 80.97,
+      "change_pct": -2.26
     },
     "BNB": {
-      "price": 583.03,
-      "change_pct": -0.4
+      "price": 578.8,
+      "change_pct": -1.85
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Adobe\u2019s stock is temptingly cheap. Should investors bite?"
+      "title": "Oil prices rise as the U.S. cancels Iran\u2019s license to sell oil"
     },
     {
       "source": "MarketWatch",
-      "title": "Elon Musk\u2019s Terafab could give a major boost to this corner of the chip sector"
+      "title": "Apple is closing in on Nvidia as it looks to reclaim title of largest U.S. company"
     }
   ]
 }
