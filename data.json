@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, July 08 2026  09:37 PT",
-  "market_status": "Live \u2014 as of 12:37 ET",
+  "generated_at": "Wednesday, July 08 2026  11:15 PT",
+  "market_status": "Live \u2014 as of 14:15 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7452.46,
-      "change_pct": -0.68
+      "price": 7480.55,
+      "change_pct": -0.3
     },
     "Nasdaq": {
-      "price": 25679.74,
-      "change_pct": -0.54
+      "price": 25814.2,
+      "change_pct": -0.02
     },
     "Dow Jones": {
-      "price": 52198.77,
-      "change_pct": -1.35
+      "price": 52369.27,
+      "change_pct": -1.03
     },
     "Russell 2000": {
-      "price": 2941.28,
-      "change_pct": -1.39
+      "price": 2950.72,
+      "change_pct": -1.07
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4054.1,
-      "change_pct": -1.93
+      "price": 4080.9,
+      "change_pct": -1.28
     },
     "Oil (WTI)": {
-      "price": 75.03,
-      "change_pct": 3.83
+      "price": 73.67,
+      "change_pct": 1.95
     },
     "Silver": {
-      "price": 57.97,
-      "change_pct": -4.61
+      "price": 58.76,
+      "change_pct": -3.32
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61797,
-      "change_pct": -3.32
+      "price": 62229,
+      "change_pct": -2.71
     },
     "ETH": {
-      "price": 1727.22,
-      "change_pct": -4.0
+      "price": 1738.18,
+      "change_pct": -3.48
     },
     "SOL": {
-      "price": 76.92,
-      "change_pct": -6.3
+      "price": 77.19,
+      "change_pct": -6.19
     },
     "BNB": {
-      "price": 562.72,
-      "change_pct": -3.75
+      "price": 564.83,
+      "change_pct": -3.33
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says Iran ceasefire is 'over,' U.S. will 'hit them hard tonight'"
+      "title": "Trump downplays Iran's nuclear threat as ceasefire collapses"
     },
     {
       "source": "CNBC",
-      "title": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while"
+      "title": "Fed officials were split on direction of interest rates at last meeting, minutes show"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019d hate to end up with an unexpected tax bill\u2019: I\u2019m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?"
+      "title": "A \u2018few\u2019 Fed officials said there was a case for a rate hike in June, minutes from Warsh\u2019s first meeting show"
     },
     {
       "source": "MarketWatch",
-      "title": "Rocket Lab\u2019s stock could surge 250% as the company takes a page out of SpaceX\u2019s book, analyst says"
+      "title": "The case for having Big Oil in your 401(k) or IRA"
     }
   ]
 }
