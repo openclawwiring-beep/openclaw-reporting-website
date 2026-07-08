@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, July 07 2026  19:45 PT",
+  "generated_at": "Tuesday, July 07 2026  22:49 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4128.4,
-      "change_pct": -0.32
+      "price": 4138.7,
+      "change_pct": -0.02
     },
     "Oil (WTI)": {
-      "price": 72.26,
-      "change_pct": 4.83
+      "price": 72.63,
+      "change_pct": 0.53
     },
     "Silver": {
-      "price": 60.37,
-      "change_pct": -1.84
+      "price": 61.29,
+      "change_pct": 0.38
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62913,
-      "change_pct": -0.85
+      "price": 62538,
+      "change_pct": -0.91
     },
     "ETH": {
-      "price": 1753.46,
-      "change_pct": -1.51
+      "price": 1750.21,
+      "change_pct": -1.0
     },
     "SOL": {
-      "price": 78.7,
-      "change_pct": -3.47
+      "price": 78.38,
+      "change_pct": -3.16
     },
     "BNB": {
-      "price": 570.26,
-      "change_pct": -1.9
+      "price": 567.42,
+      "change_pct": -1.94
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. revokes Iran oil sales authorization after tanker attacks"
+      "title": "Oil jumps as U.S. 'powerful strikes' against Iran risk unraveling fragile Mideast truce"
     },
     {
       "source": "CNBC",
-      "title": "U.S. resumes 'powerful strikes' on Iran after Hormuz Strait ship attacks, CENTCOM says"
+      "title": "Lawmakers probe growing use of Chinese AI models in U.S. companies"
     },
     {
       "source": "MarketWatch",
