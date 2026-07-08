@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 08 2026  14:40 PT",
+  "generated_at": "Wednesday, July 08 2026  16:05 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4082.4,
-      "change_pct": -1.24
+      "price": 4087.6,
+      "change_pct": -1.12
     },
     "Oil (WTI)": {
-      "price": 74.76,
-      "change_pct": 3.46
+      "price": 74.6,
+      "change_pct": 3.24
     },
     "Silver": {
-      "price": 58.54,
-      "change_pct": -3.67
+      "price": 58.83,
+      "change_pct": -3.19
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62065,
-      "change_pct": -1.98
+      "price": 62248,
+      "change_pct": -2.02
     },
     "ETH": {
-      "price": 1734.84,
-      "change_pct": -2.08
+      "price": 1739.3,
+      "change_pct": -2.07
     },
     "SOL": {
-      "price": 77.09,
-      "change_pct": -4.45
+      "price": 77.46,
+      "change_pct": -4.18
     },
     "BNB": {
-      "price": 565.54,
-      "change_pct": -2.17
+      "price": 567.55,
+      "change_pct": -1.86
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices extend gains after hours as U.S. forces conduct additional strikes on Iran"
+      "title": "I started retirement with $3 million. Now I\u2019m 89 and down to $2 million. What if I get sick?"
     },
     {
       "source": "MarketWatch",
-      "title": "Investors haven\u2019t been this bullish on the dollar in a decade. How the buck can keep climbing."
+      "title": "Did you mess up on your taxes? The IRS just made it easier to avoid paying a penalty."
     }
   ]
 }
