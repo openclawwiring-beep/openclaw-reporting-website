@@ -1,60 +1,60 @@
 {
-  "generated_at": "Wednesday, July 08 2026  05:20 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, July 08 2026  07:55 PT",
+  "market_status": "Live \u2014 as of 10:55 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7503.85,
-      "change_pct": -0.45
+      "price": 7446.39,
+      "change_pct": -0.76
     },
     "Nasdaq": {
-      "price": 25818.69,
-      "change_pct": -1.16
+      "price": 25666.43,
+      "change_pct": -0.59
     },
     "Dow Jones": {
-      "price": 52925.15,
-      "change_pct": -0.25
+      "price": 52185.82,
+      "change_pct": -1.38
     },
     "Russell 2000": {
-      "price": 2982.49,
-      "change_pct": -0.9
+      "price": 2951.28,
+      "change_pct": -1.05
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4078.8,
-      "change_pct": -1.33
+      "price": 4047.2,
+      "change_pct": -2.09
     },
     "Oil (WTI)": {
-      "price": 74.11,
-      "change_pct": 2.56
+      "price": 75.34,
+      "change_pct": 4.26
     },
     "Silver": {
-      "price": 59.33,
-      "change_pct": -2.37
+      "price": 58.06,
+      "change_pct": -4.47
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62301,
-      "change_pct": -2.1
+      "price": 61761,
+      "change_pct": -2.36
     },
     "ETH": {
-      "price": 1747.77,
-      "change_pct": -2.2
+      "price": 1725.99,
+      "change_pct": -3.12
     },
     "SOL": {
-      "price": 77.49,
+      "price": 76.85,
       "change_pct": -5.21
     },
     "BNB": {
-      "price": 565.5,
-      "change_pct": -2.68
+      "price": 563.4,
+      "change_pct": -2.67
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says Iran ceasefire is 'over' after latest round of strikes"
+      "title": "Trump says Iran ceasefire is 'over,' U.S. will 'hit them hard tonight'"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "It can take as little as 5 minutes online to get prescribed a GLP-1 for weight loss. Why that\u2019s risky."
+      "title": "\u2018I\u2019ll happily wait\u2019: Does delaying Social Security make sense for high earners like me?"
     },
     {
       "source": "MarketWatch",
-      "title": "As a red-hot global stock market stumbles into bear territory, this Wall Street bull spots a dip worth buying"
+      "title": "\u2018Our family is broken beyond repair\u2019: My brother took over my parents\u2019 finances. What can I do?"
     }
   ]
 }
