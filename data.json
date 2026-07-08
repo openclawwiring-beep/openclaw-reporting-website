@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 08 2026  01:25 PT",
+  "generated_at": "Wednesday, July 08 2026  03:35 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4131.7,
-      "change_pct": -0.19
+      "price": 4063.1,
+      "change_pct": -1.71
     },
     "Oil (WTI)": {
-      "price": 72.03,
-      "change_pct": -0.3
+      "price": 74.41,
+      "change_pct": 2.98
     },
     "Silver": {
-      "price": 61.08,
-      "change_pct": 0.03
+      "price": 58.99,
+      "change_pct": -2.94
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62218,
-      "change_pct": -1.39
+      "price": 62069,
+      "change_pct": -1.83
     },
     "ETH": {
-      "price": 1737.35,
-      "change_pct": -2.01
+      "price": 1739.48,
+      "change_pct": -2.03
     },
     "SOL": {
-      "price": 77.59,
-      "change_pct": -4.73
+      "price": 77.29,
+      "change_pct": -4.56
     },
     "BNB": {
-      "price": 563.92,
-      "change_pct": -2.32
+      "price": 562.46,
+      "change_pct": -2.8
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "'Don't fool with us': NATO allies put on a united front as they prepare to meet Trump"
+      "title": "Trump says Iran ceasefire is 'over' after latest round of strikes"
     },
     {
       "source": "CNBC",
-      "title": "Oil jumps as U.S. 'powerful strikes' against Iran risk stoke Mideast tensions"
+      "title": "Apple commits $30 billion to Broadcom for U.S. chipmaking push"
     },
     {
       "source": "MarketWatch",
-      "title": "Plot twist: Gen Z is buying houses after all. Here\u2019s how they\u2019re doing it."
+      "title": "Oil prices jump by the most in two months after Trump suggests U.S.-Iran cease-fire is over"
     },
     {
       "source": "MarketWatch",
-      "title": "Rivian\u2019s stock sale triggers worst rout for the shares in nearly two years"
+      "title": "\u2018I\u2019d hate to end up with an unexpected tax bill\u2019: I\u2019m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?"
     }
   ]
 }
