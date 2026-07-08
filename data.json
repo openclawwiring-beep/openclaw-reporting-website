@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, July 08 2026  07:55 PT",
-  "market_status": "Live \u2014 as of 10:55 ET",
+  "generated_at": "Wednesday, July 08 2026  09:37 PT",
+  "market_status": "Live \u2014 as of 12:37 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7446.39,
-      "change_pct": -0.76
+      "price": 7452.46,
+      "change_pct": -0.68
     },
     "Nasdaq": {
-      "price": 25666.43,
-      "change_pct": -0.59
+      "price": 25679.74,
+      "change_pct": -0.54
     },
     "Dow Jones": {
-      "price": 52185.82,
-      "change_pct": -1.38
+      "price": 52198.77,
+      "change_pct": -1.35
     },
     "Russell 2000": {
-      "price": 2951.28,
-      "change_pct": -1.05
+      "price": 2941.28,
+      "change_pct": -1.39
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4047.2,
-      "change_pct": -2.09
+      "price": 4054.1,
+      "change_pct": -1.93
     },
     "Oil (WTI)": {
-      "price": 75.34,
-      "change_pct": 4.26
+      "price": 75.03,
+      "change_pct": 3.83
     },
     "Silver": {
-      "price": 58.06,
-      "change_pct": -4.47
+      "price": 57.97,
+      "change_pct": -4.61
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61761,
-      "change_pct": -2.36
+      "price": 61797,
+      "change_pct": -3.32
     },
     "ETH": {
-      "price": 1725.99,
-      "change_pct": -3.12
+      "price": 1727.22,
+      "change_pct": -4.0
     },
     "SOL": {
-      "price": 76.85,
-      "change_pct": -5.21
+      "price": 76.92,
+      "change_pct": -6.3
     },
     "BNB": {
-      "price": 563.4,
-      "change_pct": -2.67
+      "price": 562.72,
+      "change_pct": -3.75
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019ll happily wait\u2019: Does delaying Social Security make sense for high earners like me?"
+      "title": "\u2018I\u2019d hate to end up with an unexpected tax bill\u2019: I\u2019m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Our family is broken beyond repair\u2019: My brother took over my parents\u2019 finances. What can I do?"
+      "title": "Rocket Lab\u2019s stock could surge 250% as the company takes a page out of SpaceX\u2019s book, analyst says"
     }
   ]
 }
