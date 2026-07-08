@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, July 07 2026  22:49 PT",
+  "generated_at": "Wednesday, July 08 2026  01:25 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4138.7,
-      "change_pct": -0.02
+      "price": 4131.7,
+      "change_pct": -0.19
     },
     "Oil (WTI)": {
-      "price": 72.63,
-      "change_pct": 0.53
+      "price": 72.03,
+      "change_pct": -0.3
     },
     "Silver": {
-      "price": 61.29,
-      "change_pct": 0.38
+      "price": 61.08,
+      "change_pct": 0.03
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62538,
-      "change_pct": -0.91
+      "price": 62218,
+      "change_pct": -1.39
     },
     "ETH": {
-      "price": 1750.21,
-      "change_pct": -1.0
+      "price": 1737.35,
+      "change_pct": -2.01
     },
     "SOL": {
-      "price": 78.38,
-      "change_pct": -3.16
+      "price": 77.59,
+      "change_pct": -4.73
     },
     "BNB": {
-      "price": 567.42,
-      "change_pct": -1.94
+      "price": 563.92,
+      "change_pct": -2.32
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil jumps as U.S. 'powerful strikes' against Iran risk unraveling fragile Mideast truce"
+      "title": "'Don't fool with us': NATO allies put on a united front as they prepare to meet Trump"
     },
     {
       "source": "CNBC",
-      "title": "Lawmakers probe growing use of Chinese AI models in U.S. companies"
+      "title": "Oil jumps as U.S. 'powerful strikes' against Iran risk stoke Mideast tensions"
     },
     {
       "source": "MarketWatch",
