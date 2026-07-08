@@ -1,60 +1,60 @@
 {
-  "generated_at": "Wednesday, July 08 2026  11:15 PT",
-  "market_status": "Live \u2014 as of 14:15 ET",
+  "generated_at": "Wednesday, July 08 2026  13:02 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7480.55,
-      "change_pct": -0.3
+      "price": 7482.54,
+      "change_pct": -0.28
     },
     "Nasdaq": {
-      "price": 25814.2,
-      "change_pct": -0.02
+      "price": 25870.65,
+      "change_pct": 0.2
     },
     "Dow Jones": {
-      "price": 52369.27,
-      "change_pct": -1.03
+      "price": 52348.09,
+      "change_pct": -1.09
     },
     "Russell 2000": {
-      "price": 2950.72,
-      "change_pct": -1.07
+      "price": 2948.16,
+      "change_pct": -1.16
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4080.9,
-      "change_pct": -1.28
+      "price": 4090.9,
+      "change_pct": -1.04
     },
     "Oil (WTI)": {
-      "price": 73.67,
-      "change_pct": 1.95
+      "price": 74.03,
+      "change_pct": 2.45
     },
     "Silver": {
-      "price": 58.76,
-      "change_pct": -3.32
+      "price": 58.8,
+      "change_pct": -3.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62229,
-      "change_pct": -2.71
+      "price": 62170,
+      "change_pct": -2.59
     },
     "ETH": {
-      "price": 1738.18,
-      "change_pct": -3.48
+      "price": 1736.54,
+      "change_pct": -2.98
     },
     "SOL": {
-      "price": 77.19,
-      "change_pct": -6.19
+      "price": 77.32,
+      "change_pct": -4.9
     },
     "BNB": {
-      "price": 564.83,
-      "change_pct": -3.33
+      "price": 566.14,
+      "change_pct": -2.9
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump downplays Iran's nuclear threat as ceasefire collapses"
+      "title": "Trump says he's 'not sure' he wants Iran deal as Hormuz Strait strife deepens"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "A \u2018few\u2019 Fed officials said there was a case for a rate hike in June, minutes from Warsh\u2019s first meeting show"
+      "title": "Oil ends at its highest price in over two weeks as flare-up in U.S.-Iran hostilities suggests end to cease-fire"
     },
     {
       "source": "MarketWatch",
-      "title": "The case for having Big Oil in your 401(k) or IRA"
+      "title": "Nvidia\u2019s stock trades at a juicy discount, according to BofA"
     }
   ]
 }
