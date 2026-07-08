@@ -1,9 +1,9 @@
 {
-  "generated_at": "Wednesday, July 08 2026  13:02 PT",
+  "generated_at": "Wednesday, July 08 2026  14:40 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7482.54,
+      "price": 7482.71,
       "change_pct": -0.28
     },
     "Nasdaq": {
@@ -11,62 +11,62 @@
       "change_pct": 0.2
     },
     "Dow Jones": {
-      "price": 52348.09,
+      "price": 52348.39,
       "change_pct": -1.09
     },
     "Russell 2000": {
-      "price": 2948.16,
-      "change_pct": -1.16
+      "price": 2956.39,
+      "change_pct": -0.88
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4090.9,
-      "change_pct": -1.04
+      "price": 4082.4,
+      "change_pct": -1.24
     },
     "Oil (WTI)": {
-      "price": 74.03,
-      "change_pct": 2.45
+      "price": 74.76,
+      "change_pct": 3.46
     },
     "Silver": {
-      "price": 58.8,
-      "change_pct": -3.24
+      "price": 58.54,
+      "change_pct": -3.67
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62170,
-      "change_pct": -2.59
+      "price": 62065,
+      "change_pct": -1.98
     },
     "ETH": {
-      "price": 1736.54,
-      "change_pct": -2.98
+      "price": 1734.84,
+      "change_pct": -2.08
     },
     "SOL": {
-      "price": 77.32,
-      "change_pct": -4.9
+      "price": 77.09,
+      "change_pct": -4.45
     },
     "BNB": {
-      "price": 566.14,
-      "change_pct": -2.9
+      "price": 565.54,
+      "change_pct": -2.17
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says he's 'not sure' he wants Iran deal as Hormuz Strait strife deepens"
+      "title": "U.S. military launches new Iran strikes as Trump says 'not sure' he wants deal"
     },
     {
       "source": "CNBC",
-      "title": "Fed officials were split on direction of interest rates at last meeting, minutes show"
+      "title": "SpaceX stock closes below debut price at $148 in two-day slide after Nasdaq-100 inclusion"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil ends at its highest price in over two weeks as flare-up in U.S.-Iran hostilities suggests end to cease-fire"
+      "title": "Oil prices extend gains after hours as U.S. forces conduct additional strikes on Iran"
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia\u2019s stock trades at a juicy discount, according to BofA"
+      "title": "Investors haven\u2019t been this bullish on the dollar in a decade. How the buck can keep climbing."
     }
   ]
 }
