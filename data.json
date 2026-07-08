@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 08 2026  03:35 PT",
+  "generated_at": "Wednesday, July 08 2026  05:20 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4063.1,
-      "change_pct": -1.71
+      "price": 4078.8,
+      "change_pct": -1.33
     },
     "Oil (WTI)": {
-      "price": 74.41,
-      "change_pct": 2.98
+      "price": 74.11,
+      "change_pct": 2.56
     },
     "Silver": {
-      "price": 58.99,
-      "change_pct": -2.94
+      "price": 59.33,
+      "change_pct": -2.37
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62069,
-      "change_pct": -1.83
+      "price": 62301,
+      "change_pct": -2.1
     },
     "ETH": {
-      "price": 1739.48,
-      "change_pct": -2.03
+      "price": 1747.77,
+      "change_pct": -2.2
     },
     "SOL": {
-      "price": 77.29,
-      "change_pct": -4.56
+      "price": 77.49,
+      "change_pct": -5.21
     },
     "BNB": {
-      "price": 562.46,
-      "change_pct": -2.8
+      "price": 565.5,
+      "change_pct": -2.68
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Apple commits $30 billion to Broadcom for U.S. chipmaking push"
+      "title": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices jump by the most in two months after Trump suggests U.S.-Iran cease-fire is over"
+      "title": "It can take as little as 5 minutes online to get prescribed a GLP-1 for weight loss. Why that\u2019s risky."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019d hate to end up with an unexpected tax bill\u2019: I\u2019m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?"
+      "title": "As a red-hot global stock market stumbles into bear territory, this Wall Street bull spots a dip worth buying"
     }
   ]
 }
