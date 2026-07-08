@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, July 07 2026  16:56 PT",
+  "generated_at": "Tuesday, July 07 2026  19:45 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4107.1,
-      "change_pct": -0.84
+      "price": 4128.4,
+      "change_pct": -0.32
     },
     "Oil (WTI)": {
-      "price": 72.45,
-      "change_pct": 5.11
+      "price": 72.26,
+      "change_pct": 4.83
     },
     "Silver": {
-      "price": 60.06,
-      "change_pct": -2.35
+      "price": 60.37,
+      "change_pct": -1.84
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63347,
-      "change_pct": -1.01
+      "price": 62913,
+      "change_pct": -0.85
     },
     "ETH": {
-      "price": 1769.7,
-      "change_pct": -1.54
+      "price": 1753.46,
+      "change_pct": -1.51
     },
     "SOL": {
-      "price": 80.7,
-      "change_pct": -1.53
+      "price": 78.7,
+      "change_pct": -3.47
     },
     "BNB": {
-      "price": 577.02,
-      "change_pct": -1.46
+      "price": 570.26,
+      "change_pct": -1.9
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Our family is broken beyond repair\u2019: My brother took over my parents\u2019 finances. What can I do?"
+      "title": "Plot twist: Gen Z is buying houses after all. Here\u2019s how they\u2019re doing it."
     },
     {
       "source": "MarketWatch",
-      "title": "Micron\u2019s stock falls as investors wonder if the memory market is near the top"
+      "title": "Rivian\u2019s stock sale triggers worst rout for the shares in nearly two years"
     }
   ]
 }
