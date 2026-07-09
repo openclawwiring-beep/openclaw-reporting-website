@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, July 09 2026  12:44 PT",
-  "market_status": "Live \u2014 as of 15:44 ET",
+  "generated_at": "Thursday, July 09 2026  14:21 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7540.07,
-      "change_pct": 0.78
+      "price": 7543.64,
+      "change_pct": 0.81
     },
     "Nasdaq": {
-      "price": 26195.41,
-      "change_pct": 1.26
+      "price": 26206.89,
+      "change_pct": 1.3
     },
     "Dow Jones": {
-      "price": 52438.61,
-      "change_pct": 0.19
+      "price": 52487.41,
+      "change_pct": 0.27
     },
     "Russell 2000": {
-      "price": 2995.7,
-      "change_pct": 1.33
+      "price": 2992.54,
+      "change_pct": 1.22
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4130.1,
-      "change_pct": 1.42
+      "price": 4132.6,
+      "change_pct": 1.49
     },
     "Oil (WTI)": {
-      "price": 71.74,
-      "change_pct": -3.42
+      "price": 71.81,
+      "change_pct": -3.33
     },
     "Silver": {
-      "price": 60.31,
-      "change_pct": 3.56
+      "price": 60.35,
+      "change_pct": 3.63
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63222,
-      "change_pct": 1.63
+      "price": 63285,
+      "change_pct": 2.04
     },
     "ETH": {
-      "price": 1749.09,
-      "change_pct": 0.63
+      "price": 1747.79,
+      "change_pct": 0.89
     },
     "SOL": {
-      "price": 78.17,
-      "change_pct": 1.28
+      "price": 78.08,
+      "change_pct": 1.47
     },
     "BNB": {
-      "price": 570.71,
-      "change_pct": 0.71
+      "price": 570.46,
+      "change_pct": 0.96
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI"
-    },
-    {
-      "source": "CNBC",
       "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon"
     },
     {
-      "source": "MarketWatch",
-      "title": "\u2018I get $1,460 in Social Security\u2019: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?"
+      "source": "CNBC",
+      "title": "A huge trade just happened on the Nasdaq 100. Bulls are taking notice"
     },
     {
       "source": "MarketWatch",
-      "title": "What affordability crisis? Rich home buyers are powering the housing market."
+      "title": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder."
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018The money would have been life-changing\u2019: My father told my grandmother to slash my inheritance. Is that fair?"
     }
   ]
 }
