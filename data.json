@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, July 09 2026  10:54 PT",
-  "market_status": "Live \u2014 as of 13:54 ET",
+  "generated_at": "Thursday, July 09 2026  12:44 PT",
+  "market_status": "Live \u2014 as of 15:44 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7545.29,
-      "change_pct": 0.85
+      "price": 7540.07,
+      "change_pct": 0.78
     },
     "Nasdaq": {
-      "price": 26187.97,
-      "change_pct": 1.23
+      "price": 26195.41,
+      "change_pct": 1.26
     },
     "Dow Jones": {
-      "price": 52550.35,
-      "change_pct": 0.41
+      "price": 52438.61,
+      "change_pct": 0.19
     },
     "Russell 2000": {
-      "price": 2995.81,
+      "price": 2995.7,
       "change_pct": 1.33
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4143.1,
-      "change_pct": 1.74
+      "price": 4130.1,
+      "change_pct": 1.42
     },
     "Oil (WTI)": {
-      "price": 71.55,
-      "change_pct": -3.68
+      "price": 71.74,
+      "change_pct": -3.42
     },
     "Silver": {
-      "price": 60.76,
-      "change_pct": 4.32
+      "price": 60.31,
+      "change_pct": 3.56
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63044,
-      "change_pct": 1.55
+      "price": 63222,
+      "change_pct": 1.63
     },
     "ETH": {
-      "price": 1747.31,
-      "change_pct": 0.72
+      "price": 1749.09,
+      "change_pct": 0.63
     },
     "SOL": {
-      "price": 78.0,
-      "change_pct": 0.92
+      "price": 78.17,
+      "change_pct": 1.28
     },
     "BNB": {
-      "price": 571.52,
-      "change_pct": 1.12
+      "price": 570.71,
+      "change_pct": 0.71
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "June home sales disappoint as prices reach an all-time high"
+      "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon"
     },
     {
       "source": "MarketWatch",
-      "title": "Home prices hit new all-time high, deepening affordability woes"
+      "title": "\u2018I get $1,460 in Social Security\u2019: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?"
     },
     {
       "source": "MarketWatch",
-      "title": "Mortgage rates jump as tensions with Iran spook bond investors"
+      "title": "What affordability crisis? Rich home buyers are powering the housing market."
     }
   ]
 }
