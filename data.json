@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 09 2026  14:21 PT",
+  "generated_at": "Thursday, July 09 2026  15:49 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4132.6,
-      "change_pct": 1.49
+      "price": 4133.3,
+      "change_pct": 1.5
     },
     "Oil (WTI)": {
-      "price": 71.81,
-      "change_pct": -3.33
+      "price": 71.82,
+      "change_pct": -3.31
     },
     "Silver": {
-      "price": 60.35,
-      "change_pct": 3.63
+      "price": 60.34,
+      "change_pct": 3.61
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63285,
-      "change_pct": 2.04
+      "price": 63308,
+      "change_pct": 1.7
     },
     "ETH": {
-      "price": 1747.79,
-      "change_pct": 0.89
+      "price": 1748.81,
+      "change_pct": 0.58
     },
     "SOL": {
-      "price": 78.08,
-      "change_pct": 1.47
+      "price": 78.18,
+      "change_pct": 1.05
     },
     "BNB": {
-      "price": 570.46,
-      "change_pct": 0.96
+      "price": 570.37,
+      "change_pct": 0.57
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon"
+      "title": "Inside NATO's extraordinary 48 hours that revealed Trump's grip on global diplomacy"
     },
     {
       "source": "CNBC",
-      "title": "A huge trade just happened on the Nasdaq 100. Bulls are taking notice"
+      "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon"
     },
     {
       "source": "MarketWatch",
-      "title": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder."
+      "title": "Taco Bell is reportedly pulling produce from some stores. Here\u2019s what to know."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The money would have been life-changing\u2019: My father told my grandmother to slash my inheritance. Is that fair?"
+      "title": "Why a hidden divergence between the VIX and Nasdaq volatility has the smart money on edge"
     }
   ]
 }
