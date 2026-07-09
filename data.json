@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 08 2026  18:09 PT",
+  "generated_at": "Wednesday, July 08 2026  22:37 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4082.6,
-      "change_pct": -1.24
+      "price": 4078.9,
+      "change_pct": 0.17
     },
     "Oil (WTI)": {
-      "price": 74.09,
-      "change_pct": 2.53
+      "price": 74.43,
+      "change_pct": 0.2
     },
     "Silver": {
-      "price": 58.67,
-      "change_pct": -3.46
+      "price": 58.42,
+      "change_pct": 0.32
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62194,
-      "change_pct": -2.0
+      "price": 62240,
+      "change_pct": -0.66
     },
     "ETH": {
-      "price": 1739.99,
-      "change_pct": -1.99
+      "price": 1738.68,
+      "change_pct": -0.76
     },
     "SOL": {
-      "price": 77.85,
-      "change_pct": -3.03
+      "price": 77.8,
+      "change_pct": -0.91
     },
     "BNB": {
-      "price": 568.78,
-      "change_pct": -1.56
+      "price": 569.44,
+      "change_pct": 0.24
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. military launches new Iran strikes as Trump says 'not sure' he wants deal"
+      "title": "Oil extends gains as Iran-U.S. tensions raise concerns over supply disruptions"
     },
     {
       "source": "CNBC",
-      "title": "S&P 500 futures are little changed as traders assess rising tensions between the U.S. and Iran: Live updates"
+      "title": "Ukraine\u2019s drone playbook is wreaking havoc in Russia \u2014 and upending where NATO wants to invest"
     },
     {
       "source": "MarketWatch",
