@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, July 09 2026  08:43 PT",
-  "market_status": "Live \u2014 as of 11:43 ET",
+  "generated_at": "Thursday, July 09 2026  10:54 PT",
+  "market_status": "Live \u2014 as of 13:54 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7528.45,
-      "change_pct": 0.63
+      "price": 7545.29,
+      "change_pct": 0.85
     },
     "Nasdaq": {
-      "price": 26083.73,
-      "change_pct": 0.82
+      "price": 26187.97,
+      "change_pct": 1.23
     },
     "Dow Jones": {
-      "price": 52543.65,
-      "change_pct": 0.39
+      "price": 52550.35,
+      "change_pct": 0.41
     },
     "Russell 2000": {
-      "price": 2991.79,
-      "change_pct": 1.19
+      "price": 2995.81,
+      "change_pct": 1.33
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4136.5,
-      "change_pct": 1.58
+      "price": 4143.1,
+      "change_pct": 1.74
     },
     "Oil (WTI)": {
-      "price": 72.32,
-      "change_pct": -2.64
+      "price": 71.55,
+      "change_pct": -3.68
     },
     "Silver": {
-      "price": 60.72,
-      "change_pct": 4.27
+      "price": 60.76,
+      "change_pct": 4.32
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62934,
-      "change_pct": 2.24
+      "price": 63044,
+      "change_pct": 1.55
     },
     "ETH": {
-      "price": 1740.23,
-      "change_pct": 1.32
+      "price": 1747.31,
+      "change_pct": 0.72
     },
     "SOL": {
-      "price": 77.66,
-      "change_pct": 1.49
+      "price": 78.0,
+      "change_pct": 0.92
     },
     "BNB": {
-      "price": 570.91,
-      "change_pct": 1.76
+      "price": 571.52,
+      "change_pct": 1.12
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019ve plenty of time on my hands\u2019: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?"
+      "title": "Home prices hit new all-time high, deepening affordability woes"
     },
     {
       "source": "MarketWatch",
-      "title": "PepsiCo cut snack prices again, but not enough to get American consumers to buy more"
+      "title": "Mortgage rates jump as tensions with Iran spook bond investors"
     }
   ]
 }
