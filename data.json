@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 08 2026  16:05 PT",
+  "generated_at": "Wednesday, July 08 2026  18:09 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4087.6,
-      "change_pct": -1.12
+      "price": 4082.6,
+      "change_pct": -1.24
     },
     "Oil (WTI)": {
-      "price": 74.6,
-      "change_pct": 3.24
+      "price": 74.09,
+      "change_pct": 2.53
     },
     "Silver": {
-      "price": 58.83,
-      "change_pct": -3.19
+      "price": 58.67,
+      "change_pct": -3.46
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62248,
-      "change_pct": -2.02
+      "price": 62194,
+      "change_pct": -2.0
     },
     "ETH": {
-      "price": 1739.3,
-      "change_pct": -2.07
+      "price": 1739.99,
+      "change_pct": -1.99
     },
     "SOL": {
-      "price": 77.46,
-      "change_pct": -4.18
+      "price": 77.85,
+      "change_pct": -3.03
     },
     "BNB": {
-      "price": 567.55,
-      "change_pct": -1.86
+      "price": 568.78,
+      "change_pct": -1.56
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "SpaceX stock closes below debut price at $148 in two-day slide after Nasdaq-100 inclusion"
+      "title": "S&P 500 futures are little changed as traders assess rising tensions between the U.S. and Iran: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "I started retirement with $3 million. Now I\u2019m 89 and down to $2 million. What if I get sick?"
+      "title": "Levi\u2019s is finding new ways to win customers \u2014 by looking toward tops and \u2018denim luxury\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "Did you mess up on your taxes? The IRS just made it easier to avoid paying a penalty."
+      "title": "Higher gas prices aren\u2019t the only way rising tensions with Iran will hit home"
     }
   ]
 }
