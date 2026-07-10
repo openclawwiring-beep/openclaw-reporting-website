@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 09 2026  17:03 PT",
+  "generated_at": "Thursday, July 09 2026  21:32 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4132.2,
-      "change_pct": 1.48
+      "price": 4122.7,
+      "change_pct": -0.32
     },
     "Oil (WTI)": {
-      "price": 71.86,
-      "change_pct": -3.26
+      "price": 72.52,
+      "change_pct": 0.46
     },
     "Silver": {
-      "price": 60.46,
-      "change_pct": 3.8
+      "price": 60.73,
+      "change_pct": 0.07
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63172,
-      "change_pct": 1.62
+      "price": 63844,
+      "change_pct": 2.74
     },
     "ETH": {
-      "price": 1743.52,
-      "change_pct": 0.15
+      "price": 1772.41,
+      "change_pct": 2.13
     },
     "SOL": {
-      "price": 78.01,
-      "change_pct": 0.37
+      "price": 78.87,
+      "change_pct": 2.09
     },
     "BNB": {
-      "price": 568.34,
-      "change_pct": 0.04
+      "price": 574.79,
+      "change_pct": 1.14
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon"
+      "title": "SK Hynix is set to make its Wall Street debut. Will that narrow the chipmaker's 'Korea discount'?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "SK Hynix raises $26.5 billion in U.S. offering. What to know about the stock."
     },
     {
       "source": "MarketWatch",
       "title": "Taco Bell is reportedly pulling produce from some stores. Here\u2019s what to know."
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why a hidden divergence between the VIX and Nasdaq volatility has the smart money on edge"
     }
   ]
 }
