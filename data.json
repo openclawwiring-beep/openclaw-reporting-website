@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 09 2026  21:32 PT",
+  "generated_at": "Friday, July 10 2026  01:21 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4122.7,
-      "change_pct": -0.32
+      "price": 4115.5,
+      "change_pct": -0.34
     },
     "Oil (WTI)": {
-      "price": 72.52,
-      "change_pct": 0.46
+      "price": 71.23,
+      "change_pct": -1.6
     },
     "Silver": {
-      "price": 60.73,
-      "change_pct": 0.07
+      "price": 60.24,
+      "change_pct": -0.89
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63844,
-      "change_pct": 2.74
+      "price": 64229,
+      "change_pct": 1.99
     },
     "ETH": {
-      "price": 1772.41,
-      "change_pct": 2.13
+      "price": 1784.02,
+      "change_pct": 1.65
     },
     "SOL": {
-      "price": 78.87,
-      "change_pct": 2.09
+      "price": 79.09,
+      "change_pct": 1.26
     },
     "BNB": {
-      "price": 574.79,
-      "change_pct": 1.14
+      "price": 575.83,
+      "change_pct": 0.63
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Inside NATO's extraordinary 48 hours that revealed Trump's grip on global diplomacy"
+      "title": "Stock futures dip after chip-led rally; investors await SK Hynix U.S. debut: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "SK Hynix is set to make its Wall Street debut. Will that narrow the chipmaker's 'Korea discount'?"
+      "title": "U.S. to continue 'technical talks' with Iran after Trump said ceasefire was 'over'"
     },
     {
       "source": "MarketWatch",
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Taco Bell is reportedly pulling produce from some stores. Here\u2019s what to know."
+      "title": "Bidding war breaks out for easyJet as Apollo tops rival private-equity group\u2019s bid"
     }
   ]
 }
