@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, July 10 2026  04:24 PT",
+  "generated_at": "Friday, July 10 2026  06:26 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4115.3,
-      "change_pct": -0.34
+      "price": 4114.2,
+      "change_pct": -0.37
     },
     "Oil (WTI)": {
-      "price": 72.25,
-      "change_pct": -0.19
+      "price": 72.07,
+      "change_pct": -0.44
     },
     "Silver": {
-      "price": 59.86,
-      "change_pct": -1.51
+      "price": 60.25,
+      "change_pct": -0.86
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64343,
-      "change_pct": 2.69
+      "price": 64182,
+      "change_pct": 2.43
     },
     "ETH": {
-      "price": 1796.29,
-      "change_pct": 3.12
+      "price": 1795.73,
+      "change_pct": 3.05
     },
     "SOL": {
-      "price": 79.34,
-      "change_pct": 2.38
+      "price": 78.87,
+      "change_pct": 1.32
     },
     "BNB": {
-      "price": 575.73,
-      "change_pct": 1.2
+      "price": 573.13,
+      "change_pct": 0.8
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says"
+      "title": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 12%"
     },
     {
       "source": "MarketWatch",
-      "title": "As SK Hynix lands in the U.S., here\u2019s why investors should be wary of the chip sector\u2019s \u2018bubble-like\u2019 volatility"
+      "title": "Kevin Warsh wants fewer press conferences. Why that\u2019s bad for the economy and your money."
     },
     {
       "source": "MarketWatch",
-      "title": "Delta reports record revenue and a profit beat, even as fuel costs surge"
+      "title": "\u2018I\u2019ve plenty of time on my hands\u2019: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?"
     }
   ]
 }
