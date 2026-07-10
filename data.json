@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, July 10 2026  01:21 PT",
+  "generated_at": "Friday, July 10 2026  04:24 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4115.5,
+      "price": 4115.3,
       "change_pct": -0.34
     },
     "Oil (WTI)": {
-      "price": 71.23,
-      "change_pct": -1.6
+      "price": 72.25,
+      "change_pct": -0.19
     },
     "Silver": {
-      "price": 60.24,
-      "change_pct": -0.89
+      "price": 59.86,
+      "change_pct": -1.51
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64229,
-      "change_pct": 1.99
+      "price": 64343,
+      "change_pct": 2.69
     },
     "ETH": {
-      "price": 1784.02,
-      "change_pct": 1.65
+      "price": 1796.29,
+      "change_pct": 3.12
     },
     "SOL": {
-      "price": 79.09,
-      "change_pct": 1.26
+      "price": 79.34,
+      "change_pct": 2.38
     },
     "BNB": {
-      "price": 575.83,
-      "change_pct": 0.63
+      "price": 575.73,
+      "change_pct": 1.2
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures dip after chip-led rally; investors await SK Hynix U.S. debut: Live updates"
+      "title": "Meet SK Hynix, the trillion-dollar South Korean chipmaker debuting on U.S. markets"
     },
     {
       "source": "CNBC",
-      "title": "U.S. to continue 'technical talks' with Iran after Trump said ceasefire was 'over'"
+      "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says"
     },
     {
       "source": "MarketWatch",
-      "title": "SK Hynix raises $26.5 billion in U.S. offering. What to know about the stock."
+      "title": "As SK Hynix lands in the U.S., here\u2019s why investors should be wary of the chip sector\u2019s \u2018bubble-like\u2019 volatility"
     },
     {
       "source": "MarketWatch",
-      "title": "Bidding war breaks out for easyJet as Apollo tops rival private-equity group\u2019s bid"
+      "title": "Delta reports record revenue and a profit beat, even as fuel costs surge"
     }
   ]
 }
