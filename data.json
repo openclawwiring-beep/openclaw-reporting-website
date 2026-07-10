@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, July 10 2026  13:48 PT",
+  "generated_at": "Friday, July 10 2026  15:00 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4119.3,
-      "change_pct": -0.25
+      "price": 4128.9,
+      "change_pct": -0.01
     },
     "Oil (WTI)": {
-      "price": 71.54,
-      "change_pct": -1.17
+      "price": 71.51,
+      "change_pct": -1.22
     },
     "Silver": {
-      "price": 60.17,
-      "change_pct": -0.99
+      "price": 60.3,
+      "change_pct": -0.78
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63816,
-      "change_pct": 0.88
+      "price": 63958,
+      "change_pct": 1.13
     },
     "ETH": {
-      "price": 1790.32,
-      "change_pct": 2.39
+      "price": 1792.94,
+      "change_pct": 2.6
     },
     "SOL": {
-      "price": 77.81,
-      "change_pct": -0.43
+      "price": 77.92,
+      "change_pct": -0.06
     },
     "BNB": {
-      "price": 575.5,
-      "change_pct": 1.02
+      "price": 575.44,
+      "change_pct": 0.99
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Meta\u2019s stock roars back to life as it heads for its best week in years"
+      "title": "\u2018I\u2019d hate to end up with an unexpected tax bill\u2019: I\u2019m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?"
     },
     {
       "source": "MarketWatch",
-      "title": "Summer travel season is here: Make this vital purchase before your next vacation"
+      "title": "\u2018I get $1,460 in Social Security\u2019: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?"
     }
   ]
 }
