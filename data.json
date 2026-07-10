@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, July 10 2026  15:00 PT",
+  "generated_at": "Friday, July 10 2026  16:27 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63958,
-      "change_pct": 1.13
+      "price": 64135,
+      "change_pct": 1.45
     },
     "ETH": {
-      "price": 1792.94,
-      "change_pct": 2.6
+      "price": 1795.7,
+      "change_pct": 2.87
     },
     "SOL": {
-      "price": 77.92,
-      "change_pct": -0.06
+      "price": 78.02,
+      "change_pct": 0.04
     },
     "BNB": {
-      "price": 575.44,
-      "change_pct": 0.99
+      "price": 575.8,
+      "change_pct": 1.15
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019d hate to end up with an unexpected tax bill\u2019: I\u2019m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?"
+      "title": "Apple sues OpenAI for alleged theft of confidential info \u2014 and says that\u2019s just \u2018the tip of the iceberg\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I get $1,460 in Social Security\u2019: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?"
+      "title": "Meta\u2019s stock roars back to life as it notches its best week in years"
     }
   ]
 }
