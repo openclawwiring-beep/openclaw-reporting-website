@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 11 2026  08:30 PT",
+  "generated_at": "Saturday, July 11 2026  09:56 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64379,
-      "change_pct": 0.51
+      "price": 64074,
+      "change_pct": -0.07
     },
     "ETH": {
-      "price": 1822.69,
-      "change_pct": 1.76
+      "price": 1818.6,
+      "change_pct": 1.28
     },
     "SOL": {
-      "price": 78.68,
-      "change_pct": 0.63
+      "price": 77.78,
+      "change_pct": -0.15
     },
     "BNB": {
-      "price": 580.67,
-      "change_pct": 1.25
+      "price": 578.99,
+      "change_pct": 0.39
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018An American tragedy\u2019 in the making: The majority of small-business owners will retire in the next decade. What happens to their workers?"
+      "title": "Is it better to spend my savings now so I can delay taking Social Security? How do I choose?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019ve plenty of time on my hands\u2019: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?"
+      "title": "Your data built the AI boom \u2014 but Big Tech is pocketing 100% of the equity"
     }
   ]
 }
