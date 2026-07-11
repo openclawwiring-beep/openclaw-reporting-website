@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 11 2026  05:31 PT",
+  "generated_at": "Saturday, July 11 2026  07:21 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64119,
-      "change_pct": -0.46
+      "price": 64239,
+      "change_pct": 0.32
     },
     "ETH": {
-      "price": 1798.51,
-      "change_pct": -0.01
+      "price": 1801.99,
+      "change_pct": 0.96
     },
     "SOL": {
-      "price": 78.0,
-      "change_pct": -1.62
+      "price": 78.22,
+      "change_pct": -0.07
     },
     "BNB": {
-      "price": 578.65,
-      "change_pct": 0.58
+      "price": 581.6,
+      "change_pct": 1.7
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Regular water is no longer enough. Welcome to the corporate gold rush around \u2018functional hydration.\u2019"
+      "title": "\u2018I\u2019ve no idea how they got her number\u2019: My student-loan servicer called a friend after I missed a payment. Is that legal?"
     },
     {
       "source": "MarketWatch",
-      "title": "The U.S. stock market is becoming \u2018too big to fail\u2019"
+      "title": "\u2018I get $1,460 in Social Security\u2019: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?"
     }
   ]
 }
