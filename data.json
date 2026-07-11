@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 11 2026  04:29 PT",
+  "generated_at": "Saturday, July 11 2026  05:31 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64115,
-      "change_pct": -0.41
+      "price": 64119,
+      "change_pct": -0.46
     },
     "ETH": {
-      "price": 1797.19,
-      "change_pct": 0.03
+      "price": 1798.51,
+      "change_pct": -0.01
     },
     "SOL": {
-      "price": 77.94,
-      "change_pct": -1.75
+      "price": 78.0,
+      "change_pct": -1.62
     },
     "BNB": {
-      "price": 577.24,
-      "change_pct": 0.3
+      "price": 578.65,
+      "change_pct": 0.58
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'"
+      "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market"
     },
     {
       "source": "MarketWatch",
-      "title": "Fed Chair Warsh will be in the hot seat as lawmakers press for his read on the economy"
+      "title": "Regular water is no longer enough. Welcome to the corporate gold rush around \u2018functional hydration.\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?"
+      "title": "The U.S. stock market is becoming \u2018too big to fail\u2019"
     }
   ]
 }
