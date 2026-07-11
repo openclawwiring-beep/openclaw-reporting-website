@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 11 2026  01:45 PT",
+  "generated_at": "Saturday, July 11 2026  03:13 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64234,
-      "change_pct": 0.1
+      "price": 64107,
+      "change_pct": -0.21
     },
     "ETH": {
-      "price": 1801.23,
-      "change_pct": 1.0
+      "price": 1794.67,
+      "change_pct": 0.3
     },
     "SOL": {
-      "price": 78.03,
-      "change_pct": -1.57
+      "price": 77.8,
+      "change_pct": -1.68
     },
     "BNB": {
-      "price": 578.46,
-      "change_pct": 0.49
+      "price": 577.25,
+      "change_pct": 0.33
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SK Hynix rises 13% in Nasdaq debut. Chairman tells CNBC 'demand is enormous'"
+      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier"
     },
     {
       "source": "CNBC",
