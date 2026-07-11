@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 11 2026  10:55 PT",
+  "generated_at": "Saturday, July 11 2026  12:01 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64287,
-      "change_pct": 0.71
+      "price": 64279,
+      "change_pct": 0.78
     },
     "ETH": {
-      "price": 1823.77,
-      "change_pct": 1.95
+      "price": 1824.82,
+      "change_pct": 2.27
     },
     "SOL": {
-      "price": 77.99,
-      "change_pct": 0.36
+      "price": 78.01,
+      "change_pct": 0.69
     },
     "BNB": {
-      "price": 580.12,
-      "change_pct": 0.74
+      "price": 580.42,
+      "change_pct": 1.14
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Is it better to spend my savings now so I can delay taking Social Security? How do I choose?"
+      "title": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?"
     },
     {
       "source": "MarketWatch",
-      "title": "Your data built the AI boom \u2014 but Big Tech is pocketing 100% of the equity"
+      "title": "Is it better to spend my savings now so I can delay taking Social Security? How do I choose?"
     }
   ]
 }
