@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 12 2026  13:44 PT",
+  "generated_at": "Sunday, July 12 2026  14:49 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64156,
-      "change_pct": -0.32
+      "price": 63902,
+      "change_pct": -0.66
     },
     "ETH": {
-      "price": 1820.92,
-      "change_pct": -0.28
+      "price": 1810.98,
+      "change_pct": -0.65
     },
     "SOL": {
-      "price": 77.46,
-      "change_pct": -0.9
+      "price": 77.16,
+      "change_pct": -1.26
     },
     "BNB": {
-      "price": 578.84,
-      "change_pct": -0.34
+      "price": 576.78,
+      "change_pct": -0.66
     }
   },
   "headlines": [
@@ -62,7 +62,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "As five big U.S. banks report earnings on the same day, Citigroup is the one to watch"
+      "title": "Why Citigroup is the one to watch when banks report earnings this week"
     },
     {
       "source": "MarketWatch",
