@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 12 2026  04:58 PT",
+  "generated_at": "Sunday, July 12 2026  06:43 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63965,
-      "change_pct": -0.28
+      "price": 64005,
+      "change_pct": -0.26
     },
     "ETH": {
-      "price": 1803.23,
-      "change_pct": 0.24
+      "price": 1806.66,
+      "change_pct": 0.29
     },
     "SOL": {
-      "price": 77.06,
-      "change_pct": -1.23
+      "price": 77.26,
+      "change_pct": -1.15
     },
     "BNB": {
-      "price": 579.54,
-      "change_pct": 0.16
+      "price": 580.57,
+      "change_pct": -0.06
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?"
+      "title": "The No. 1 decision for aging retirees: Stay at home or move into a senior community?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I get $1,460 in Social Security\u2019: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?"
+      "title": "The stock-market rally now hinges more on AI than oil"
     }
   ]
 }
