@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 12 2026  02:27 PT",
+  "generated_at": "Sunday, July 12 2026  03:54 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63761,
-      "change_pct": -0.7
+      "price": 63800,
+      "change_pct": -0.5
     },
     "ETH": {
-      "price": 1796.85,
-      "change_pct": -0.08
+      "price": 1798.09,
+      "change_pct": 0.07
     },
     "SOL": {
-      "price": 76.41,
-      "change_pct": -2.06
+      "price": 76.68,
+      "change_pct": -1.69
     },
     "BNB": {
-      "price": 572.21,
-      "change_pct": -1.0
+      "price": 573.66,
+      "change_pct": -0.74
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Senator Lindsey Graham has died after a brief illness, his office says"
+      "title": "Senator Lindsey Graham has died at 71 after a brief illness"
     },
     {
       "source": "CNBC",
