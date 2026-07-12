@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 12 2026  07:54 PT",
+  "generated_at": "Sunday, July 12 2026  08:58 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64159,
-      "change_pct": -0.26
+      "price": 64123,
+      "change_pct": 0.02
     },
     "ETH": {
-      "price": 1818.13,
-      "change_pct": 0.39
+      "price": 1820.73,
+      "change_pct": 0.42
     },
     "SOL": {
-      "price": 77.38,
-      "change_pct": -1.39
+      "price": 77.41,
+      "change_pct": -1.12
     },
     "BNB": {
-      "price": 581.68,
-      "change_pct": 0.1
+      "price": 580.64,
+      "change_pct": 0.24
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Earnings estimates have been following an unusual pattern this time around"
+      "title": "As five big U.S. banks report earnings on the same day, Citigroup is the one to watch"
     },
     {
       "source": "MarketWatch",
-      "title": "The No. 1 decision for aging retirees: Stay at home or move into a senior community?"
+      "title": "Earnings estimates have been following an unusual pattern this time around"
     }
   ]
 }
