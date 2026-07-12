@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 12 2026  06:43 PT",
+  "generated_at": "Sunday, July 12 2026  07:54 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64005,
+      "price": 64159,
       "change_pct": -0.26
     },
     "ETH": {
-      "price": 1806.66,
-      "change_pct": 0.29
+      "price": 1818.13,
+      "change_pct": 0.39
     },
     "SOL": {
-      "price": 77.26,
-      "change_pct": -1.15
+      "price": 77.38,
+      "change_pct": -1.39
     },
     "BNB": {
-      "price": 580.57,
-      "change_pct": -0.06
+      "price": 581.68,
+      "change_pct": 0.1
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says"
+      "title": "U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Earnings estimates have been following an unusual pattern this time around"
     },
     {
       "source": "MarketWatch",
       "title": "The No. 1 decision for aging retirees: Stay at home or move into a senior community?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The stock-market rally now hinges more on AI than oil"
     }
   ]
 }
