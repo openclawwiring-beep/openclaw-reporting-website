@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 11 2026  18:04 PT",
+  "generated_at": "Saturday, July 11 2026  21:51 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4104.1,
-      "change_pct": -0.62
+      "price": 4113.7,
+      "change_pct": -0.38
     },
     "Oil (WTI)": {
       "price": 71.41,
       "change_pct": -1.35
     },
     "Silver": {
-      "price": 59.81,
-      "change_pct": -1.59
+      "price": 60.17,
+      "change_pct": -1.0
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63865,
-      "change_pct": -0.33
+      "price": 63952,
+      "change_pct": -0.2
     },
     "ETH": {
-      "price": 1791.28,
-      "change_pct": 0.0
+      "price": 1805.22,
+      "change_pct": 0.58
     },
     "SOL": {
-      "price": 76.08,
-      "change_pct": -2.19
+      "price": 76.69,
+      "change_pct": -1.33
     },
     "BNB": {
-      "price": 571.45,
-      "change_pct": -0.51
+      "price": 574.02,
+      "change_pct": -0.15
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be"
+      "title": "U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says"
     },
     {
       "source": "CNBC",
-      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier"
+      "title": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be"
     },
     {
       "source": "MarketWatch",
