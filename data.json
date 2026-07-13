@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, July 13 2026  15:30 PT",
+  "generated_at": "Monday, July 13 2026  16:53 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4012.0,
-      "change_pct": -1.36
+      "price": 4003.3,
+      "change_pct": -1.58
     },
     "Oil (WTI)": {
-      "price": 77.92,
-      "change_pct": 4.89
+      "price": 79.44,
+      "change_pct": 6.93
     },
     "Silver": {
-      "price": 58.03,
-      "change_pct": -0.91
+      "price": 57.77,
+      "change_pct": -1.35
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62111,
-      "change_pct": -2.61
+      "price": 62168,
+      "change_pct": -2.48
     },
     "ETH": {
-      "price": 1764.73,
-      "change_pct": -2.06
+      "price": 1773.83,
+      "change_pct": -1.76
     },
     "SOL": {
-      "price": 74.58,
-      "change_pct": -2.68
+      "price": 74.73,
+      "change_pct": -2.56
     },
     "BNB": {
-      "price": 565.79,
-      "change_pct": -1.36
+      "price": 566.22,
+      "change_pct": -1.39
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why a borrowing binge by investors is a warning sign for the stock market"
+      "title": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?"
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX\u2019s stock threatens to fall below the IPO price. Do investors face a \u2018crisis\u2019 if it does?"
+      "title": "I\u2019m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?"
     }
   ]
 }
