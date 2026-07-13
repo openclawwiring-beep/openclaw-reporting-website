@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, July 13 2026  13:19 PT",
+  "generated_at": "Monday, July 13 2026  14:28 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4011.1,
-      "change_pct": -1.38
+      "price": 4008.7,
+      "change_pct": -1.44
     },
     "Oil (WTI)": {
-      "price": 77.82,
-      "change_pct": 4.75
+      "price": 78.0,
+      "change_pct": 4.99
     },
     "Silver": {
-      "price": 58.05,
-      "change_pct": -0.87
+      "price": 57.98,
+      "change_pct": -0.99
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62109,
-      "change_pct": -3.2
+      "price": 61989,
+      "change_pct": -3.24
     },
     "ETH": {
-      "price": 1768.1,
-      "change_pct": -2.81
+      "price": 1760.27,
+      "change_pct": -2.96
     },
     "SOL": {
-      "price": 75.02,
-      "change_pct": -3.21
+      "price": 74.49,
+      "change_pct": -3.63
     },
     "BNB": {
-      "price": 564.65,
-      "change_pct": -2.43
+      "price": 564.42,
+      "change_pct": -2.25
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX\u2019s stock threatens to fall below the IPO price. Do investors face a \u2018crisis\u2019 if it does?"
+      "title": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz"
     },
     {
       "source": "MarketWatch",
-      "title": "Global oil prices top $83 a barrel, logging biggest jump in 6 years after Trump reimposes Strait of Hormuz blockade"
+      "title": "Sandisk\u2019s stock is plunging, but some analysts are getting even more bullish"
     }
   ]
 }
