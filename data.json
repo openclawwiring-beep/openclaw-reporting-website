@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 12 2026  16:52 PT",
+  "generated_at": "Sunday, July 12 2026  19:40 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4085.4,
-      "change_pct": -0.69
+      "price": 4077.5,
+      "change_pct": -0.88
     },
     "Oil (WTI)": {
-      "price": 73.85,
-      "change_pct": 3.42
+      "price": 74.42,
+      "change_pct": 4.22
     },
     "Silver": {
-      "price": 59.18,
-      "change_pct": -1.64
+      "price": 58.78,
+      "change_pct": -2.29
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63730,
-      "change_pct": -0.26
+      "price": 63418,
+      "change_pct": -0.96
     },
     "ETH": {
-      "price": 1804.39,
-      "change_pct": 0.77
+      "price": 1810.86,
+      "change_pct": 0.39
     },
     "SOL": {
-      "price": 76.7,
-      "change_pct": -0.4
+      "price": 76.54,
+      "change_pct": -0.28
     },
     "BNB": {
-      "price": 573.91,
-      "change_pct": -0.27
+      "price": 572.41,
+      "change_pct": -0.2
     }
   },
   "headlines": [
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why Citigroup is the one to watch when banks report earnings this week"
+      "title": "\u2018Trump accounts\u2019 are great \u2014 if you\u2019re already rich"
     }
   ]
 }
