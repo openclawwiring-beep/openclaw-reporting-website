@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, July 12 2026  19:40 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Sunday, July 12 2026  23:16 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7575.39,
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4077.5,
-      "change_pct": -0.88
+      "price": 4053.6,
+      "change_pct": -0.34
     },
     "Oil (WTI)": {
-      "price": 74.42,
-      "change_pct": 4.22
+      "price": 74.55,
+      "change_pct": 0.35
     },
     "Silver": {
-      "price": 58.78,
-      "change_pct": -2.29
+      "price": 58.23,
+      "change_pct": -0.56
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63418,
-      "change_pct": -0.96
+      "price": 62699,
+      "change_pct": -1.56
     },
     "ETH": {
-      "price": 1810.86,
-      "change_pct": 0.39
+      "price": 1776.38,
+      "change_pct": -0.91
     },
     "SOL": {
-      "price": 76.54,
-      "change_pct": -0.28
+      "price": 76.34,
+      "change_pct": 0.31
     },
     "BNB": {
-      "price": 572.41,
-      "change_pct": -0.2
+      "price": 567.41,
+      "change_pct": -0.59
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures slip after U.S., Iran exchange airstrikes again: Live updates"
+      "title": "Stock futures slip after U.S., Iran exchange airstrikes again; Kospi plunges 7%: Live updates"
     },
     {
       "source": "CNBC",
