@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, July 13 2026  05:30 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, July 13 2026  08:26 PT",
+  "market_status": "Live \u2014 as of 11:26 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7575.39,
-      "change_pct": 0.42
+      "price": 7547.51,
+      "change_pct": -0.37
     },
     "Nasdaq": {
-      "price": 26281.61,
-      "change_pct": 0.29
+      "price": 26057.35,
+      "change_pct": -0.85
     },
     "Dow Jones": {
-      "price": 52637.01,
-      "change_pct": 0.29
+      "price": 52531.29,
+      "change_pct": -0.2
     },
     "Russell 2000": {
-      "price": 2977.81,
-      "change_pct": -0.49
+      "price": 2965.7,
+      "change_pct": -0.39
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4064.9,
-      "change_pct": -0.06
+      "price": 4022.6,
+      "change_pct": -1.1
     },
     "Oil (WTI)": {
-      "price": 74.11,
-      "change_pct": -0.24
+      "price": 74.97,
+      "change_pct": 0.92
     },
     "Silver": {
-      "price": 58.86,
-      "change_pct": 0.51
+      "price": 58.37,
+      "change_pct": -0.33
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62750,
-      "change_pct": -1.97
+      "price": 62819,
+      "change_pct": -2.09
     },
     "ETH": {
-      "price": 1778.8,
-      "change_pct": -1.47
+      "price": 1784.0,
+      "change_pct": -2.07
     },
     "SOL": {
-      "price": 76.03,
-      "change_pct": -1.31
+      "price": 76.15,
+      "change_pct": -1.67
     },
     "BNB": {
-      "price": 568.92,
-      "change_pct": -2.18
+      "price": 569.74,
+      "change_pct": -1.82
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. and Iran exchange strikes as Strait of Hormuz standoff escalates"
+      "title": "Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade"
     },
     {
       "source": "CNBC",
-      "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility"
+      "title": "Trump recommends Lindsey Graham's sister serve as interim senator for South Carolina"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019d hate to end up with an unexpected tax bill\u2019: I\u2019m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?"
+      "title": "Global oil prices top $80 a barrel after Trump reimposes Strait of Hormuz blockade and charges 20% fee for cargo shipped through"
     },
     {
       "source": "MarketWatch",
-      "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?"
+      "title": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?"
     }
   ]
 }
