@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, July 13 2026  14:28 PT",
+  "generated_at": "Monday, July 13 2026  15:30 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4008.7,
-      "change_pct": -1.44
+      "price": 4012.0,
+      "change_pct": -1.36
     },
     "Oil (WTI)": {
-      "price": 78.0,
-      "change_pct": 4.99
+      "price": 77.92,
+      "change_pct": 4.89
     },
     "Silver": {
-      "price": 57.98,
-      "change_pct": -0.99
+      "price": 58.03,
+      "change_pct": -0.91
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61989,
-      "change_pct": -3.24
+      "price": 62111,
+      "change_pct": -2.61
     },
     "ETH": {
-      "price": 1760.27,
-      "change_pct": -2.96
+      "price": 1764.73,
+      "change_pct": -2.06
     },
     "SOL": {
-      "price": 74.49,
-      "change_pct": -3.63
+      "price": 74.58,
+      "change_pct": -2.68
     },
     "BNB": {
-      "price": 564.42,
-      "change_pct": -2.25
+      "price": 565.79,
+      "change_pct": -1.36
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz"
+      "title": "Why a borrowing binge by investors is a warning sign for the stock market"
     },
     {
       "source": "MarketWatch",
-      "title": "Sandisk\u2019s stock is plunging, but some analysts are getting even more bullish"
+      "title": "SpaceX\u2019s stock threatens to fall below the IPO price. Do investors face a \u2018crisis\u2019 if it does?"
     }
   ]
 }
