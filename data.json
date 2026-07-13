@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 12 2026  23:16 PT",
+  "generated_at": "Monday, July 13 2026  02:53 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4053.6,
-      "change_pct": -0.34
+      "price": 4079.4,
+      "change_pct": 0.3
     },
     "Oil (WTI)": {
-      "price": 74.55,
-      "change_pct": 0.35
+      "price": 72.78,
+      "change_pct": -2.03
     },
     "Silver": {
-      "price": 58.23,
-      "change_pct": -0.56
+      "price": 58.94,
+      "change_pct": 0.64
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62699,
-      "change_pct": -1.56
+      "price": 63045,
+      "change_pct": -1.4
     },
     "ETH": {
-      "price": 1776.38,
-      "change_pct": -0.91
+      "price": 1784.58,
+      "change_pct": -0.95
     },
     "SOL": {
-      "price": 76.34,
-      "change_pct": 0.31
+      "price": 76.6,
+      "change_pct": -0.23
     },
     "BNB": {
-      "price": 567.41,
-      "change_pct": -0.59
+      "price": 569.07,
+      "change_pct": -0.89
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures slip after U.S., Iran exchange airstrikes again; Kospi plunges 7%: Live updates"
+      "title": "U.S. and Iran exchange strikes as Strait of Hormuz standoff escalates"
     },
     {
       "source": "CNBC",
-      "title": "Sen. Lindsey Graham, influential lawmaker and Trump ally,  dies at 71 after a brief illness"
+      "title": "Chipmakers drag stock futures lower; SK Hynix sinks 10% premarket: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran"
+      "title": "Oil prices surge as much as 5% after Iran declares Strait of Hormuz is closed"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Trump accounts\u2019 are great \u2014 if you\u2019re already rich"
+      "title": "My wife\u2019s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?"
     }
   ]
 }
