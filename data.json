@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, July 13 2026  08:26 PT",
-  "market_status": "Live \u2014 as of 11:26 ET",
+  "generated_at": "Monday, July 13 2026  10:30 PT",
+  "market_status": "Live \u2014 as of 13:30 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7547.51,
-      "change_pct": -0.37
+      "price": 7524.09,
+      "change_pct": -0.68
     },
     "Nasdaq": {
-      "price": 26057.35,
-      "change_pct": -0.85
+      "price": 25923.7,
+      "change_pct": -1.36
     },
     "Dow Jones": {
-      "price": 52531.29,
-      "change_pct": -0.2
+      "price": 52491.72,
+      "change_pct": -0.28
     },
     "Russell 2000": {
-      "price": 2965.7,
-      "change_pct": -0.39
+      "price": 2956.94,
+      "change_pct": -0.68
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4022.6,
-      "change_pct": -1.1
+      "price": 4008.1,
+      "change_pct": -1.46
     },
     "Oil (WTI)": {
-      "price": 74.97,
-      "change_pct": 0.92
+      "price": 75.84,
+      "change_pct": 2.09
     },
     "Silver": {
-      "price": 58.37,
-      "change_pct": -0.33
+      "price": 58.08,
+      "change_pct": -0.81
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62819,
-      "change_pct": -2.09
+      "price": 62136,
+      "change_pct": -3.05
     },
     "ETH": {
-      "price": 1784.0,
-      "change_pct": -2.07
+      "price": 1770.14,
+      "change_pct": -2.62
     },
     "SOL": {
-      "price": 76.15,
-      "change_pct": -1.67
+      "price": 75.28,
+      "change_pct": -2.73
     },
     "BNB": {
-      "price": 569.74,
-      "change_pct": -1.82
+      "price": 565.71,
+      "change_pct": -2.3
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump recommends Lindsey Graham's sister serve as interim senator for South Carolina"
+      "title": "Paramount, WBD hit with lawsuit from 12 states, including California, to block merger"
     },
     {
       "source": "MarketWatch",
-      "title": "Global oil prices top $80 a barrel after Trump reimposes Strait of Hormuz blockade and charges 20% fee for cargo shipped through"
+      "title": "A hot inflation reading this week could mean a rate hike soon, Fed\u2019s Waller says"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?"
+      "title": "Billionaires are loading up on these superior stocks. Why it pays to follow their money."
     }
   ]
 }
