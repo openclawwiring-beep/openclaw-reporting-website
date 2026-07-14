@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, July 14 2026  12:17 PT",
-  "market_status": "Live \u2014 as of 15:17 ET",
+  "generated_at": "Tuesday, July 14 2026  13:36 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7547.18,
-      "change_pct": 0.42
+      "price": 7543.59,
+      "change_pct": 0.38
     },
     "Nasdaq": {
-      "price": 26135.84,
-      "change_pct": 1.02
+      "price": 26107.01,
+      "change_pct": 0.9
     },
     "Dow Jones": {
-      "price": 52508.44,
+      "price": 52508.27,
       "change_pct": 0.02
     },
     "Russell 2000": {
-      "price": 2963.09,
-      "change_pct": 0.33
+      "price": 2964.76,
+      "change_pct": 0.39
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4060.5,
-      "change_pct": 0.94
+      "price": 4059.8,
+      "change_pct": 0.92
     },
     "Oil (WTI)": {
-      "price": 79.67,
-      "change_pct": 0.05
+      "price": 79.99,
+      "change_pct": 0.45
     },
     "Silver": {
-      "price": 58.97,
-      "change_pct": 1.71
+      "price": 59.06,
+      "change_pct": 1.86
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64565,
-      "change_pct": 4.14
+      "price": 64415,
+      "change_pct": 3.6
     },
     "ETH": {
-      "price": 1875.74,
-      "change_pct": 6.26
+      "price": 1875.58,
+      "change_pct": 6.13
     },
     "SOL": {
-      "price": 77.33,
-      "change_pct": 3.4
+      "price": 76.93,
+      "change_pct": 2.75
     },
     "BNB": {
-      "price": 580.47,
-      "change_pct": 2.9
+      "price": 579.74,
+      "change_pct": 2.57
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump"
+      "title": "Skip the lettuce, cook your other greens and more advice on avoiding cyclosporiasis"
     },
     {
       "source": "MarketWatch",
-      "title": "IBM\u2019s stock is having its worst day ever after the surprise release of an earnings miss"
+      "title": "IBM\u2019s stock just had its worst day ever after the surprise release of an earnings miss"
     }
   ]
 }
