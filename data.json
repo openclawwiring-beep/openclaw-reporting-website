@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, July 13 2026  19:24 PT",
+  "generated_at": "Monday, July 13 2026  22:13 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4021.2,
-      "change_pct": -1.14
+      "price": 4027.0,
+      "change_pct": 0.2
     },
     "Oil (WTI)": {
-      "price": 79.12,
-      "change_pct": 6.5
+      "price": 79.87,
+      "change_pct": 0.66
     },
     "Silver": {
-      "price": 57.89,
-      "change_pct": -1.14
+      "price": 58.16,
+      "change_pct": 0.41
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62374,
-      "change_pct": -1.64
+      "price": 62771,
+      "change_pct": -0.07
     },
     "ETH": {
-      "price": 1779.38,
-      "change_pct": -1.54
+      "price": 1789.13,
+      "change_pct": 0.29
     },
     "SOL": {
-      "price": 75.03,
-      "change_pct": -1.88
+      "price": 75.23,
+      "change_pct": -1.36
     },
     "BNB": {
-      "price": 567.96,
-      "change_pct": -0.79
+      "price": 570.81,
+      "change_pct": 0.37
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil gains over 2% as Mideast tensions and Hormuz toll prospects raise supply worries"
+      "title": "Oil extends gains as Mideast tensions and Hormuz toll prospects raise supply worries"
     },
     {
       "source": "CNBC",
-      "title": "U.S. launches strikes against Iran for a third night, while Tehran targets Gulf neighbors"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Sandisk\u2019s stock is plunging, but some analysts are getting even more bullish"
+      "title": "U.S. targets Iranian military assets in latest round of strikes as Tehran hits Gulf states"
     },
     {
       "source": "MarketWatch",
       "title": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Sandisk\u2019s stock is plunging, but some analysts are getting even more bullish"
     }
   ]
 }
