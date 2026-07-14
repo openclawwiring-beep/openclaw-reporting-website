@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, July 14 2026  00:24 PT",
+  "generated_at": "Tuesday, July 14 2026  02:24 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4031.6,
-      "change_pct": 0.22
+      "price": 4027.2,
+      "change_pct": 0.11
     },
     "Oil (WTI)": {
-      "price": 80.13,
-      "change_pct": 0.63
+      "price": 80.27,
+      "change_pct": 0.8
     },
     "Silver": {
-      "price": 58.43,
-      "change_pct": 0.78
+      "price": 58.44,
+      "change_pct": 0.8
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62506,
-      "change_pct": -0.54
+      "price": 62624,
+      "change_pct": -0.69
     },
     "ETH": {
-      "price": 1780.64,
-      "change_pct": -0.18
+      "price": 1786.24,
+      "change_pct": 0.05
     },
     "SOL": {
-      "price": 74.97,
-      "change_pct": -1.86
+      "price": 75.14,
+      "change_pct": -1.88
     },
     "BNB": {
-      "price": 568.58,
-      "change_pct": -0.13
+      "price": 570.3,
+      "change_pct": 0.16
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil jumps 3% as U.S.-Iran ceasefire fractures; Trump's Hormuz toll plans reignite supply fears"
+      "title": "Inflation reports expected to show improvement with a caveat; Warsh heads to Capitol Hill"
     },
     {
       "source": "CNBC",
-      "title": "U.S. targets Iranian military assets in another round of strikes as Tehran hits Gulf states"
+      "title": "Is Hormuz open? Trump's toll threat intensifies rush to bypass the Strait altogether"
     },
     {
       "source": "MarketWatch",
-      "title": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz"
+      "title": "Oil prices see largest two-day percentage gain in four months on U.S.-Iran fighting"
     },
     {
       "source": "MarketWatch",
-      "title": "Sandisk\u2019s stock is plunging, but some analysts are getting even more bullish"
+      "title": "One of the world\u2019s weakest currencies makes this Asian capital the world\u2019s cheapest major city \u2014 for now"
     }
   ]
 }
