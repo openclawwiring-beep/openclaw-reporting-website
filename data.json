@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, July 14 2026  07:49 PT",
-  "market_status": "Live \u2014 as of 10:49 ET",
+  "generated_at": "Tuesday, July 14 2026  09:13 PT",
+  "market_status": "Live \u2014 as of 12:13 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7535.45,
-      "change_pct": 0.27
+      "price": 7528.83,
+      "change_pct": 0.18
     },
     "Nasdaq": {
-      "price": 26031.21,
-      "change_pct": 0.61
+      "price": 26048.05,
+      "change_pct": 0.68
     },
     "Dow Jones": {
-      "price": 52533.02,
-      "change_pct": 0.07
+      "price": 52422.65,
+      "change_pct": -0.14
     },
     "Russell 2000": {
-      "price": 2970.27,
-      "change_pct": 0.57
+      "price": 2965.21,
+      "change_pct": 0.4
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4087.1,
-      "change_pct": 1.6
+      "price": 4070.7,
+      "change_pct": 1.2
     },
     "Oil (WTI)": {
-      "price": 79.17,
-      "change_pct": -0.58
+      "price": 79.48,
+      "change_pct": -0.19
     },
     "Silver": {
-      "price": 59.53,
-      "change_pct": 2.68
+      "price": 59.13,
+      "change_pct": 1.99
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63920,
-      "change_pct": 2.02
+      "price": 64797,
+      "change_pct": 3.69
     },
     "ETH": {
-      "price": 1869.52,
-      "change_pct": 5.25
+      "price": 1874.27,
+      "change_pct": 5.49
     },
     "SOL": {
-      "price": 76.94,
-      "change_pct": 1.3
+      "price": 77.31,
+      "change_pct": 1.97
     },
     "BNB": {
-      "price": 579.64,
-      "change_pct": 1.77
+      "price": 582.59,
+      "change_pct": 2.57
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Warsh promises inflation will be a 'thing of the past,' cites 'mistake' of prior policy"
+      "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people"
     },
     {
       "source": "CNBC",
-      "title": "Jamie Dimon says AI has helped JPMorgan cut up to 40% of jobs in certain roles: Live updates"
+      "title": "Oil prices off highs after Trump abandons 20% protection fee on Strait of Hormuz traffic"
     },
     {
       "source": "MarketWatch",
-      "title": "IBM\u2019s stock is having its worst day ever after the surprise release of an earnings miss"
+      "title": "I\u2019m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?"
     },
     {
       "source": "MarketWatch",
-      "title": "Jamie Dimon says \u2018booming\u2019 markets and a \u2018fine\u2019 consumer fueled JPMorgan\u2019s blowout profits"
+      "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?"
     }
   ]
 }
