@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, July 14 2026  15:57 PT",
+  "generated_at": "Tuesday, July 14 2026  16:55 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4054.7,
-      "change_pct": 0.8
+      "price": 4060.5,
+      "change_pct": 0.94
     },
     "Oil (WTI)": {
-      "price": 79.95,
-      "change_pct": 0.4
+      "price": 79.9,
+      "change_pct": 0.34
     },
     "Silver": {
-      "price": 58.99,
-      "change_pct": 1.74
+      "price": 59.18,
+      "change_pct": 2.07
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64870,
-      "change_pct": 4.88
+      "price": 64978,
+      "change_pct": 4.45
     },
     "ETH": {
-      "price": 1882.59,
-      "change_pct": 7.22
+      "price": 1890.54,
+      "change_pct": 6.61
     },
     "SOL": {
-      "price": 77.68,
-      "change_pct": 4.38
+      "price": 77.73,
+      "change_pct": 3.93
     },
     "BNB": {
-      "price": 581.41,
-      "change_pct": 2.99
+      "price": 581.86,
+      "change_pct": 2.72
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?"
+      "title": "This overlooked index is a better investment than the S&P 500"
     },
     {
       "source": "MarketWatch",
-      "title": "Your monthly Netflix bill is up 29% in just over a year. Critics say Washington needs to fix it."
+      "title": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?"
     }
   ]
 }
