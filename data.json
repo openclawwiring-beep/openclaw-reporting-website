@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, July 13 2026  16:53 PT",
+  "generated_at": "Monday, July 13 2026  19:24 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4003.3,
-      "change_pct": -1.58
+      "price": 4021.2,
+      "change_pct": -1.14
     },
     "Oil (WTI)": {
-      "price": 79.44,
-      "change_pct": 6.93
+      "price": 79.12,
+      "change_pct": 6.5
     },
     "Silver": {
-      "price": 57.77,
-      "change_pct": -1.35
+      "price": 57.89,
+      "change_pct": -1.14
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62168,
-      "change_pct": -2.48
+      "price": 62374,
+      "change_pct": -1.64
     },
     "ETH": {
-      "price": 1773.83,
-      "change_pct": -1.76
+      "price": 1779.38,
+      "change_pct": -1.54
     },
     "SOL": {
-      "price": 74.73,
-      "change_pct": -2.56
+      "price": 75.03,
+      "change_pct": -1.88
     },
     "BNB": {
-      "price": 566.22,
-      "change_pct": -1.39
+      "price": 567.96,
+      "change_pct": -0.79
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade"
+      "title": "Oil gains over 2% as Mideast tensions and Hormuz toll prospects raise supply worries"
     },
     {
       "source": "CNBC",
-      "title": "South Carolina governor taps Lindsey Graham's sister to serve as interim senator"
+      "title": "U.S. launches strikes against Iran for a third night, while Tehran targets Gulf neighbors"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?"
+      "title": "Sandisk\u2019s stock is plunging, but some analysts are getting even more bullish"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?"
+      "title": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz"
     }
   ]
 }
