@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, July 14 2026  14:56 PT",
+  "generated_at": "Tuesday, July 14 2026  15:57 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4058.3,
-      "change_pct": 0.89
+      "price": 4054.7,
+      "change_pct": 0.8
     },
     "Oil (WTI)": {
-      "price": 79.83,
-      "change_pct": 0.25
+      "price": 79.95,
+      "change_pct": 0.4
     },
     "Silver": {
-      "price": 59.04,
-      "change_pct": 1.83
+      "price": 58.99,
+      "change_pct": 1.74
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64615,
-      "change_pct": 4.15
+      "price": 64870,
+      "change_pct": 4.88
     },
     "ETH": {
-      "price": 1875.2,
-      "change_pct": 6.56
+      "price": 1882.59,
+      "change_pct": 7.22
     },
     "SOL": {
-      "price": 77.19,
-      "change_pct": 3.93
+      "price": 77.68,
+      "change_pct": 4.38
     },
     "BNB": {
-      "price": 580.44,
-      "change_pct": 2.86
+      "price": 581.41,
+      "change_pct": 2.99
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Three powerful forces are draining family wealth \u2014 and your estate plan is completely unprepared"
+      "title": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?"
     },
     {
       "source": "MarketWatch",
-      "title": "What IBM\u2019s profit warning means: Hardware is \u2018eating everyone\u2019s lunch\u2019"
+      "title": "Your monthly Netflix bill is up 29% in just over a year. Critics say Washington needs to fix it."
     }
   ]
 }
