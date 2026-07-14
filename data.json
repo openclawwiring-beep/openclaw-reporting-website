@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, July 14 2026  13:36 PT",
+  "generated_at": "Tuesday, July 14 2026  14:56 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4059.8,
-      "change_pct": 0.92
+      "price": 4058.3,
+      "change_pct": 0.89
     },
     "Oil (WTI)": {
-      "price": 79.99,
-      "change_pct": 0.45
+      "price": 79.83,
+      "change_pct": 0.25
     },
     "Silver": {
-      "price": 59.06,
-      "change_pct": 1.86
+      "price": 59.04,
+      "change_pct": 1.83
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64415,
-      "change_pct": 3.6
+      "price": 64615,
+      "change_pct": 4.15
     },
     "ETH": {
-      "price": 1875.58,
-      "change_pct": 6.13
+      "price": 1875.2,
+      "change_pct": 6.56
     },
     "SOL": {
-      "price": 76.93,
-      "change_pct": 2.75
+      "price": 77.19,
+      "change_pct": 3.93
     },
     "BNB": {
-      "price": 579.74,
-      "change_pct": 2.57
+      "price": 580.44,
+      "change_pct": 2.86
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Here\u2019s the inflation breakdown for June 2026 \u2014 in one chart"
+      "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase"
     },
     {
       "source": "CNBC",
-      "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people"
+      "title": "Here\u2019s the inflation breakdown for June 2026 \u2014 in one chart"
     },
     {
       "source": "MarketWatch",
-      "title": "Skip the lettuce, cook your other greens and more advice on avoiding cyclosporiasis"
+      "title": "Three powerful forces are draining family wealth \u2014 and your estate plan is completely unprepared"
     },
     {
       "source": "MarketWatch",
-      "title": "IBM\u2019s stock just had its worst day ever after the surprise release of an earnings miss"
+      "title": "What IBM\u2019s profit warning means: Hardware is \u2018eating everyone\u2019s lunch\u2019"
     }
   ]
 }
