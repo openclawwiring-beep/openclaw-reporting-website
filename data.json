@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, July 15 2026  09:20 PT",
-  "market_status": "Live \u2014 as of 12:20 ET",
+  "generated_at": "Wednesday, July 15 2026  10:46 PT",
+  "market_status": "Live \u2014 as of 13:46 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7534.08,
-      "change_pct": -0.14
+      "price": 7562.4,
+      "change_pct": 0.24
     },
     "Nasdaq": {
-      "price": 26094.18,
-      "change_pct": -0.05
+      "price": 26213.75,
+      "change_pct": 0.41
     },
     "Dow Jones": {
-      "price": 52498.23,
-      "change_pct": -0.05
+      "price": 52638.93,
+      "change_pct": 0.21
     },
     "Russell 2000": {
-      "price": 2972.71,
-      "change_pct": 0.27
+      "price": 2976.77,
+      "change_pct": 0.41
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4046.6,
-      "change_pct": 0.22
+      "price": 4065.1,
+      "change_pct": 0.67
     },
     "Oil (WTI)": {
-      "price": 79.16,
-      "change_pct": -0.96
+      "price": 79.17,
+      "change_pct": -0.95
     },
     "Silver": {
-      "price": 57.85,
-      "change_pct": -1.52
+      "price": 57.92,
+      "change_pct": -1.4
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65121,
-      "change_pct": 0.7
+      "price": 64981,
+      "change_pct": 0.8
     },
     "ETH": {
-      "price": 1919.46,
-      "change_pct": 2.6
+      "price": 1922.61,
+      "change_pct": 3.01
     },
     "SOL": {
-      "price": 77.53,
-      "change_pct": 0.37
+      "price": 77.69,
+      "change_pct": 0.9
     },
     "BNB": {
-      "price": 578.94,
-      "change_pct": -0.5
+      "price": 579.24,
+      "change_pct": -0.1
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Wholesale prices unexpectedly declined 0.3% in June on big drop in gasoline"
+      "title": "Historic IBM stock crash sets up unique options strategy"
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s a buyer\u2019s market for bonds"
+      "title": "SpaceX\u2019s stock breaks below its IPO price for the first time. Why it could still fall further."
     },
     {
       "source": "MarketWatch",
-      "title": "America\u2019s oil refiners could more than triple profits as Iran war sparks massive boom"
+      "title": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?"
     }
   ]
 }
