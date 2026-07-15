@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, July 15 2026  05:51 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, July 15 2026  07:48 PT",
+  "market_status": "Live \u2014 as of 10:48 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7543.59,
-      "change_pct": 0.38
+      "price": 7561.65,
+      "change_pct": 0.23
     },
     "Nasdaq": {
-      "price": 26107.01,
-      "change_pct": 0.9
+      "price": 26180.57,
+      "change_pct": 0.28
     },
     "Dow Jones": {
-      "price": 52508.27,
-      "change_pct": 0.02
+      "price": 52696.67,
+      "change_pct": 0.32
     },
     "Russell 2000": {
-      "price": 2964.76,
-      "change_pct": 0.39
+      "price": 2982.7,
+      "change_pct": 0.61
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4066.2,
-      "change_pct": 0.7
+      "price": 4069.6,
+      "change_pct": 0.79
     },
     "Oil (WTI)": {
-      "price": 79.8,
-      "change_pct": -0.16
+      "price": 79.26,
+      "change_pct": -0.84
     },
     "Silver": {
-      "price": 58.67,
-      "change_pct": -0.12
+      "price": 58.54,
+      "change_pct": -0.33
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64879,
-      "change_pct": 1.74
+      "price": 65282,
+      "change_pct": 2.11
     },
     "ETH": {
-      "price": 1900.72,
-      "change_pct": 3.0
+      "price": 1923.67,
+      "change_pct": 2.86
     },
     "SOL": {
-      "price": 77.67,
-      "change_pct": 1.45
+      "price": 77.86,
+      "change_pct": 1.14
     },
     "BNB": {
-      "price": 579.53,
-      "change_pct": 0.61
+      "price": 580.3,
+      "change_pct": 0.09
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Wholesale prices unexpectedly declined 0.3% in June on big drop in gasoline"
+      "title": "Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'"
     },
     {
       "source": "CNBC",
-      "title": "New York Fed President Williams says inflation has peaked, rates 'well positioned'"
+      "title": "Wholesale prices unexpectedly declined 0.3% in June on big drop in gasoline"
     },
     {
       "source": "MarketWatch",
-      "title": "This Wall Street \u2018theme-o-meter\u2019 has a clear message: The artificial-intelligence bull market is back"
+      "title": "Buying a house is getting easier by one measure. Here\u2019s why it doesn\u2019t feel like it."
     },
     {
       "source": "MarketWatch",
-      "title": "Wholesale prices show first drop in almost a year on lower gas prices, but inflation still too high"
+      "title": "PayPal\u2019s battered stock is getting a record boost from a report of buyout interest"
     }
   ]
 }
