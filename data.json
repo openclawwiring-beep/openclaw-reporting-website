@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 15 2026  00:28 PT",
+  "generated_at": "Wednesday, July 15 2026  02:30 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4034.1,
-      "change_pct": -0.09
+      "price": 4037.4,
+      "change_pct": -0.01
     },
     "Oil (WTI)": {
-      "price": 80.35,
-      "change_pct": 0.53
+      "price": 79.85,
+      "change_pct": -0.1
     },
     "Silver": {
-      "price": 58.59,
-      "change_pct": -0.26
+      "price": 58.67,
+      "change_pct": -0.13
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64537,
-      "change_pct": 3.18
+      "price": 64797,
+      "change_pct": 3.5
     },
     "ETH": {
-      "price": 1867.42,
-      "change_pct": 4.74
+      "price": 1881.85,
+      "change_pct": 5.38
     },
     "SOL": {
-      "price": 77.71,
-      "change_pct": 3.48
+      "price": 77.78,
+      "change_pct": 3.56
     },
     "BNB": {
-      "price": 577.67,
-      "change_pct": 1.53
+      "price": 577.38,
+      "change_pct": 1.29
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "ASML jumps over 7% after hiking sales forecast for second time this year on strong AI chip demand"
-    },
-    {
-      "source": "CNBC",
       "title": "Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports"
     },
     {
-      "source": "MarketWatch",
-      "title": "I\u2019m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?"
+      "source": "CNBC",
+      "title": "PayPal jumps 16% in premarket on report of Stripe, Advent $53 billion takeover offer"
     },
     {
       "source": "MarketWatch",
-      "title": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump"
+      "title": "Stripe and Advent reportedly team up to bid for battered PayPal. Michael Burry says the offer isn\u2019t enough."
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018I don\u2019t want to sound callous\u2019: Nobody knows when they\u2019ll die. Don\u2019t base when you claim Social Security on that."
     }
   ]
 }
