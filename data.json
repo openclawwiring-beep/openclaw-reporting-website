@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 15 2026  04:11 PT",
+  "generated_at": "Wednesday, July 15 2026  05:51 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4036.5,
-      "change_pct": -0.03
+      "price": 4066.2,
+      "change_pct": 0.7
     },
     "Oil (WTI)": {
-      "price": 79.84,
-      "change_pct": -0.11
+      "price": 79.8,
+      "change_pct": -0.16
     },
     "Silver": {
-      "price": 58.28,
-      "change_pct": -0.78
+      "price": 58.67,
+      "change_pct": -0.12
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64690,
-      "change_pct": 3.21
+      "price": 64879,
+      "change_pct": 1.74
     },
     "ETH": {
-      "price": 1879.72,
-      "change_pct": 4.71
+      "price": 1900.72,
+      "change_pct": 3.0
     },
     "SOL": {
-      "price": 77.37,
-      "change_pct": 2.74
+      "price": 77.67,
+      "change_pct": 1.45
     },
     "BNB": {
-      "price": 578.1,
-      "change_pct": 1.37
+      "price": 579.53,
+      "change_pct": 0.61
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. launches fresh wave of strikes on Iran, as analysts warn conflict risks becoming 'forever war'"
+      "title": "Wholesale prices unexpectedly declined 0.3% in June on big drop in gasoline"
     },
     {
       "source": "CNBC",
-      "title": "PayPal jumps 16% in premarket on report of Stripe, Advent $53 billion takeover offer"
+      "title": "New York Fed President Williams says inflation has peaked, rates 'well positioned'"
     },
     {
       "source": "MarketWatch",
-      "title": "This Wall Street \u2018theme-o-meter\u2019 has a clear message: The artificial-intelligence bull market is back."
+      "title": "This Wall Street \u2018theme-o-meter\u2019 has a clear message: The artificial-intelligence bull market is back"
     },
     {
       "source": "MarketWatch",
-      "title": "Industrials could be the next big bottleneck trade. Here are some stocks that could benefit."
+      "title": "Wholesale prices show first drop in almost a year on lower gas prices, but inflation still too high"
     }
   ]
 }
