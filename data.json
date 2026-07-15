@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, July 15 2026  07:48 PT",
-  "market_status": "Live \u2014 as of 10:48 ET",
+  "generated_at": "Wednesday, July 15 2026  09:20 PT",
+  "market_status": "Live \u2014 as of 12:20 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7561.65,
-      "change_pct": 0.23
+      "price": 7534.08,
+      "change_pct": -0.14
     },
     "Nasdaq": {
-      "price": 26180.57,
-      "change_pct": 0.28
+      "price": 26094.18,
+      "change_pct": -0.05
     },
     "Dow Jones": {
-      "price": 52696.67,
-      "change_pct": 0.32
+      "price": 52498.23,
+      "change_pct": -0.05
     },
     "Russell 2000": {
-      "price": 2982.7,
-      "change_pct": 0.61
+      "price": 2972.71,
+      "change_pct": 0.27
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4069.6,
-      "change_pct": 0.79
+      "price": 4046.6,
+      "change_pct": 0.22
     },
     "Oil (WTI)": {
-      "price": 79.26,
-      "change_pct": -0.84
+      "price": 79.16,
+      "change_pct": -0.96
     },
     "Silver": {
-      "price": 58.54,
-      "change_pct": -0.33
+      "price": 57.85,
+      "change_pct": -1.52
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65282,
-      "change_pct": 2.11
+      "price": 65121,
+      "change_pct": 0.7
     },
     "ETH": {
-      "price": 1923.67,
-      "change_pct": 2.86
+      "price": 1919.46,
+      "change_pct": 2.6
     },
     "SOL": {
-      "price": 77.86,
-      "change_pct": 1.14
+      "price": 77.53,
+      "change_pct": 0.37
     },
     "BNB": {
-      "price": 580.3,
-      "change_pct": 0.09
+      "price": 578.94,
+      "change_pct": -0.5
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Buying a house is getting easier by one measure. Here\u2019s why it doesn\u2019t feel like it."
+      "title": "It\u2019s a buyer\u2019s market for bonds"
     },
     {
       "source": "MarketWatch",
-      "title": "PayPal\u2019s battered stock is getting a record boost from a report of buyout interest"
+      "title": "America\u2019s oil refiners could more than triple profits as Iran war sparks massive boom"
     }
   ]
 }
