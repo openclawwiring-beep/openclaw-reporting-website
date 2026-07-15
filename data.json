@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, July 14 2026  19:23 PT",
+  "generated_at": "Tuesday, July 14 2026  22:14 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4041.8,
-      "change_pct": 0.48
+      "price": 4039.0,
+      "change_pct": 0.03
     },
     "Oil (WTI)": {
-      "price": 80.08,
-      "change_pct": 0.57
+      "price": 79.95,
+      "change_pct": 0.03
     },
     "Silver": {
-      "price": 58.69,
-      "change_pct": 1.22
+      "price": 58.78,
+      "change_pct": 0.08
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64551,
-      "change_pct": 3.54
+      "price": 64577,
+      "change_pct": 2.89
     },
     "ETH": {
-      "price": 1866.82,
-      "change_pct": 4.98
+      "price": 1871.41,
+      "change_pct": 4.65
     },
     "SOL": {
-      "price": 77.29,
-      "change_pct": 3.1
+      "price": 77.81,
+      "change_pct": 3.34
     },
     "BNB": {
-      "price": 579.82,
-      "change_pct": 2.13
+      "price": 578.76,
+      "change_pct": 1.48
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase"
+      "title": "Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports"
     },
     {
       "source": "CNBC",
-      "title": "China posts slowest GDP growth since 2022 at 4.3%, missing expectations"
+      "title": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls"
     },
     {
       "source": "MarketWatch",
