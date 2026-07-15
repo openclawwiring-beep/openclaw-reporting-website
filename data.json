@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 15 2026  14:59 PT",
+  "generated_at": "Wednesday, July 15 2026  16:05 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4066.9,
-      "change_pct": 0.72
+      "price": 4065.2,
+      "change_pct": 0.68
     },
     "Oil (WTI)": {
-      "price": 80.24,
-      "change_pct": 0.39
+      "price": 80.38,
+      "change_pct": 0.56
     },
     "Silver": {
-      "price": 58.1,
-      "change_pct": -1.09
+      "price": 58.08,
+      "change_pct": -1.13
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64783,
-      "change_pct": 0.25
+      "price": 64872,
+      "change_pct": 0.15
     },
     "ETH": {
-      "price": 1920.63,
-      "change_pct": 2.46
+      "price": 1924.82,
+      "change_pct": 2.4
     },
     "SOL": {
-      "price": 77.31,
-      "change_pct": 0.2
+      "price": 77.48,
+      "change_pct": -0.14
     },
     "BNB": {
-      "price": 580.55,
-      "change_pct": 0.05
+      "price": 581.1,
+      "change_pct": 0.04
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "A big dividend cut and a $2 billion charge: Conagra\u2019s results signal more pain ahead for food industry"
+      "title": "\u2018I don\u2019t want to sound callous\u2019: Why base your Social Security claim on life expectancy? We could die at any time."
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX\u2019s stock breaks below its IPO price for the first time. Why it could still fall further."
+      "title": "Your Netflix bill is up 29% in just over a year. It\u2019s time for Washington to step in."
     }
   ]
 }
