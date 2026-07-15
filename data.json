@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 15 2026  13:32 PT",
+  "generated_at": "Wednesday, July 15 2026  14:59 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4068.0,
-      "change_pct": 0.75
+      "price": 4066.9,
+      "change_pct": 0.72
     },
     "Oil (WTI)": {
-      "price": 80.19,
-      "change_pct": 0.33
+      "price": 80.24,
+      "change_pct": 0.39
     },
     "Silver": {
-      "price": 58.12,
-      "change_pct": -1.06
+      "price": 58.1,
+      "change_pct": -1.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64966,
-      "change_pct": 0.86
+      "price": 64783,
+      "change_pct": 0.25
     },
     "ETH": {
-      "price": 1925.3,
-      "change_pct": 2.65
+      "price": 1920.63,
+      "change_pct": 2.46
     },
     "SOL": {
-      "price": 77.37,
-      "change_pct": 0.57
+      "price": 77.31,
+      "change_pct": 0.2
     },
     "BNB": {
-      "price": 580.31,
-      "change_pct": 0.1
+      "price": 580.55,
+      "change_pct": 0.05
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'"
+      "title": "United earnings top estimates but airline expects $6 billion in added fuel costs"
     },
     {
       "source": "MarketWatch",
-      "title": "Why the huge premium on SK Hynix\u2019s U.S.-listed shares may prove short-lived"
+      "title": "A big dividend cut and a $2 billion charge: Conagra\u2019s results signal more pain ahead for food industry"
     },
     {
       "source": "MarketWatch",
-      "title": "What the launch of SK Hynix leveraged ETFs tells us about the hottest trade on Wall Street"
+      "title": "SpaceX\u2019s stock breaks below its IPO price for the first time. Why it could still fall further."
     }
   ]
 }
