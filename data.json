@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 15 2026  02:30 PT",
+  "generated_at": "Wednesday, July 15 2026  04:11 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4037.4,
-      "change_pct": -0.01
+      "price": 4036.5,
+      "change_pct": -0.03
     },
     "Oil (WTI)": {
-      "price": 79.85,
-      "change_pct": -0.1
+      "price": 79.84,
+      "change_pct": -0.11
     },
     "Silver": {
-      "price": 58.67,
-      "change_pct": -0.13
+      "price": 58.28,
+      "change_pct": -0.78
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64797,
-      "change_pct": 3.5
+      "price": 64690,
+      "change_pct": 3.21
     },
     "ETH": {
-      "price": 1881.85,
-      "change_pct": 5.38
+      "price": 1879.72,
+      "change_pct": 4.71
     },
     "SOL": {
-      "price": 77.78,
-      "change_pct": 3.56
+      "price": 77.37,
+      "change_pct": 2.74
     },
     "BNB": {
-      "price": 577.38,
-      "change_pct": 1.29
+      "price": 578.1,
+      "change_pct": 1.37
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports"
+      "title": "U.S. launches fresh wave of strikes on Iran, as analysts warn conflict risks becoming 'forever war'"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Stripe and Advent reportedly team up to bid for battered PayPal. Michael Burry says the offer isn\u2019t enough."
+      "title": "This Wall Street \u2018theme-o-meter\u2019 has a clear message: The artificial-intelligence bull market is back."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I don\u2019t want to sound callous\u2019: Nobody knows when they\u2019ll die. Don\u2019t base when you claim Social Security on that."
+      "title": "Industrials could be the next big bottleneck trade. Here are some stocks that could benefit."
     }
   ]
 }
