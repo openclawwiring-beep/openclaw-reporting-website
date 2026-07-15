@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, July 14 2026  16:55 PT",
+  "generated_at": "Tuesday, July 14 2026  19:23 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4060.5,
-      "change_pct": 0.94
+      "price": 4041.8,
+      "change_pct": 0.48
     },
     "Oil (WTI)": {
-      "price": 79.9,
-      "change_pct": 0.34
+      "price": 80.08,
+      "change_pct": 0.57
     },
     "Silver": {
-      "price": 59.18,
-      "change_pct": 2.07
+      "price": 58.69,
+      "change_pct": 1.22
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64978,
-      "change_pct": 4.45
+      "price": 64551,
+      "change_pct": 3.54
     },
     "ETH": {
-      "price": 1890.54,
-      "change_pct": 6.61
+      "price": 1866.82,
+      "change_pct": 4.98
     },
     "SOL": {
-      "price": 77.73,
-      "change_pct": 3.93
+      "price": 77.29,
+      "change_pct": 3.1
     },
     "BNB": {
-      "price": 581.86,
-      "change_pct": 2.72
+      "price": 579.82,
+      "change_pct": 2.13
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Here\u2019s the inflation breakdown for June 2026 \u2014 in one chart"
+      "title": "China posts slowest GDP growth since 2022 at 4.3%, missing expectations"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump"
     },
     {
       "source": "MarketWatch",
       "title": "This overlooked index is a better investment than the S&P 500"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?"
     }
   ]
 }
