@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 15 2026  16:05 PT",
+  "generated_at": "Wednesday, July 15 2026  17:55 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4065.2,
-      "change_pct": 0.68
+      "price": 4063.0,
+      "change_pct": 0.62
     },
     "Oil (WTI)": {
-      "price": 80.38,
-      "change_pct": 0.56
+      "price": 80.08,
+      "change_pct": 0.19
     },
     "Silver": {
-      "price": 58.08,
-      "change_pct": -1.13
+      "price": 57.95,
+      "change_pct": -1.34
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64872,
-      "change_pct": 0.15
+      "price": 64588,
+      "change_pct": -0.29
     },
     "ETH": {
-      "price": 1924.82,
-      "change_pct": 2.4
+      "price": 1915.66,
+      "change_pct": 1.91
     },
     "SOL": {
-      "price": 77.48,
-      "change_pct": -0.14
+      "price": 76.84,
+      "change_pct": -0.9
     },
     "BNB": {
-      "price": 581.1,
-      "change_pct": 0.04
+      "price": 579.72,
+      "change_pct": -0.38
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I don\u2019t want to sound callous\u2019: Why base your Social Security claim on life expectancy? We could die at any time."
+      "title": "United Airlines gets hit by a $6 billion added-fuel-cost headwind"
     },
     {
       "source": "MarketWatch",
-      "title": "Your Netflix bill is up 29% in just over a year. It\u2019s time for Washington to step in."
+      "title": "The trucking market is tighter than it\u2019s been in years \u2014 but investors are upbeat on J.B. Hunt"
     }
   ]
 }
