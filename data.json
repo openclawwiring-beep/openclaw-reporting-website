@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 16 2026  13:55 PT",
+  "generated_at": "Thursday, July 16 2026  15:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3979.0,
-      "change_pct": -1.53
+      "price": 3979.9,
+      "change_pct": -1.5
     },
     "Oil (WTI)": {
-      "price": 78.78,
-      "change_pct": -0.98
+      "price": 78.89,
+      "change_pct": -0.84
     },
     "Silver": {
-      "price": 55.77,
-      "change_pct": -3.04
+      "price": 55.76,
+      "change_pct": -3.05
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64078,
-      "change_pct": -1.32
+      "price": 64173,
+      "change_pct": -0.98
     },
     "ETH": {
-      "price": 1871.68,
-      "change_pct": -2.66
+      "price": 1878.63,
+      "change_pct": -2.24
     },
     "SOL": {
-      "price": 75.73,
-      "change_pct": -2.15
+      "price": 75.9,
+      "change_pct": -1.91
     },
     "BNB": {
-      "price": 574.51,
-      "change_pct": -1.03
+      "price": 576.12,
+      "change_pct": -0.8
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Netflix reports earnings in line with expectations, says company will give fewer engagement updates"
+      "title": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Netflix is getting stingier about its viewing data, and Wall Street isn\u2019t happy"
+      "title": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?"
     },
     {
       "source": "MarketWatch",
-      "title": "As SpaceX\u2019s stock notches first close below IPO price, the company is gearing up for a crucial launch"
+      "title": "He backed Tesla and SpaceX before anyone else \u2014 here is the \u2018impossible\u2019 bet Tim Draper is making now"
     }
   ]
 }
