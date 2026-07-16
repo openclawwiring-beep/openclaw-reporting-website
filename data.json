@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 15 2026  21:07 PT",
+  "generated_at": "Wednesday, July 15 2026  23:42 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4041.9,
-      "change_pct": 0.1
+      "price": 4035.1,
+      "change_pct": -0.14
     },
     "Oil (WTI)": {
-      "price": 79.52,
-      "change_pct": -0.51
+      "price": 79.67,
+      "change_pct": 0.14
     },
     "Silver": {
-      "price": 57.53,
-      "change_pct": -2.06
+      "price": 57.45,
+      "change_pct": -0.12
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64571,
-      "change_pct": -0.25
+      "price": 64647,
+      "change_pct": -0.53
     },
     "ETH": {
-      "price": 1916.7,
-      "change_pct": 2.21
+      "price": 1917.0,
+      "change_pct": 1.75
     },
     "SOL": {
-      "price": 76.88,
-      "change_pct": -1.03
+      "price": 77.14,
+      "change_pct": -1.64
     },
     "BNB": {
-      "price": 581.12,
-      "change_pct": 0.09
+      "price": 581.58,
+      "change_pct": 0.13
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SK Hynix shares plunge 11% as Asia sees tech rout, tracking U.S. chip losses"
+      "title": "U.S. slaps 25% tariff on most Brazilian goods over 'unfair trade practices'"
     },
     {
       "source": "CNBC",
-      "title": "Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership"
+      "title": "TSMC second-quarter profit jumps over 77%, beating estimates, on high-end chip boom"
     },
     {
       "source": "MarketWatch",
