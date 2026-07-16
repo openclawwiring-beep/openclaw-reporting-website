@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 16 2026  04:16 PT",
+  "generated_at": "Thursday, July 16 2026  05:59 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4033.5,
-      "change_pct": -0.18
+      "price": 4004.8,
+      "change_pct": -0.89
     },
     "Oil (WTI)": {
-      "price": 79.48,
-      "change_pct": -0.1
+      "price": 80.34,
+      "change_pct": 0.98
     },
     "Silver": {
-      "price": 56.79,
-      "change_pct": -1.27
+      "price": 56.43,
+      "change_pct": -1.89
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64118,
-      "change_pct": -0.83
+      "price": 63941,
+      "change_pct": -1.79
     },
     "ETH": {
-      "price": 1884.87,
-      "change_pct": 0.28
+      "price": 1872.36,
+      "change_pct": -2.72
     },
     "SOL": {
-      "price": 76.1,
-      "change_pct": -1.66
+      "price": 75.89,
+      "change_pct": -2.91
     },
     "BNB": {
-      "price": 576.43,
-      "change_pct": -0.24
+      "price": 576.36,
+      "change_pct": -1.02
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018They cut off online access\u2019: My mother\u2019s bank balance plummeted after her death. What\u2019s going on?"
+      "title": "UnitedHealth now has an improved outlook for the year. Its stock is rallying."
     },
     {
       "source": "MarketWatch",
-      "title": "The Lehman Brothers of the AI bubble is coming, says this critic warning of a fallout for tech and the entire market"
+      "title": "The Lehman Bros. moment of the AI bubble is coming, says this critic warning of fallout for tech stocks and the entire market"
     }
   ]
 }
