@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 15 2026  17:55 PT",
+  "generated_at": "Wednesday, July 15 2026  21:07 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4063.0,
-      "change_pct": 0.62
+      "price": 4041.9,
+      "change_pct": 0.1
     },
     "Oil (WTI)": {
-      "price": 80.08,
-      "change_pct": 0.19
+      "price": 79.52,
+      "change_pct": -0.51
     },
     "Silver": {
-      "price": 57.95,
-      "change_pct": -1.34
+      "price": 57.53,
+      "change_pct": -2.06
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64588,
-      "change_pct": -0.29
+      "price": 64571,
+      "change_pct": -0.25
     },
     "ETH": {
-      "price": 1915.66,
-      "change_pct": 1.91
+      "price": 1916.7,
+      "change_pct": 2.21
     },
     "SOL": {
-      "price": 76.84,
-      "change_pct": -0.9
+      "price": 76.88,
+      "change_pct": -1.03
     },
     "BNB": {
-      "price": 579.72,
-      "change_pct": -0.38
+      "price": 581.12,
+      "change_pct": 0.09
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fed Chairman Warsh says he meets 'often' with Trump administration, defends independence"
+      "title": "SK Hynix shares plunge 11% as Asia sees tech rout, tracking U.S. chip losses"
     },
     {
       "source": "CNBC",
-      "title": "United earnings top estimates but airline expects $6 billion in added fuel costs"
+      "title": "Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AI is so big, it\u2019s now impossible for investors to avoid"
     },
     {
       "source": "MarketWatch",
       "title": "United Airlines gets hit by a $6 billion added-fuel-cost headwind"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The trucking market is tighter than it\u2019s been in years \u2014 but investors are upbeat on J.B. Hunt"
     }
   ]
 }
