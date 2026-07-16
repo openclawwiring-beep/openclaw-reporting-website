@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 16 2026  15:02 PT",
+  "generated_at": "Thursday, July 16 2026  16:24 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3979.9,
-      "change_pct": -1.5
+      "price": 3983.4,
+      "change_pct": -1.42
     },
     "Oil (WTI)": {
-      "price": 78.89,
-      "change_pct": -0.84
+      "price": 78.99,
+      "change_pct": -0.72
     },
     "Silver": {
-      "price": 55.76,
-      "change_pct": -3.05
+      "price": 55.79,
+      "change_pct": -3.01
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64173,
-      "change_pct": -0.98
+      "price": 63769,
+      "change_pct": -1.66
     },
     "ETH": {
-      "price": 1878.63,
-      "change_pct": -2.24
+      "price": 1860.06,
+      "change_pct": -3.24
     },
     "SOL": {
-      "price": 75.9,
-      "change_pct": -1.91
+      "price": 75.18,
+      "change_pct": -2.98
     },
     "BNB": {
-      "price": 576.12,
-      "change_pct": -0.8
+      "price": 571.86,
+      "change_pct": -1.5
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates"
+      "title": "Trump is set to deliver an election-focused national address tonight. Here's what to know"
     },
     {
       "source": "CNBC",
-      "title": "Here's why the housing market is hurting so much this summer"
+      "title": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?"
+      "title": "Americans say they need $1.2 million to retire. Most are too deep in debt to get there."
     },
     {
       "source": "MarketWatch",
-      "title": "He backed Tesla and SpaceX before anyone else \u2014 here is the \u2018impossible\u2019 bet Tim Draper is making now"
+      "title": "GE boosts profit outlook, but stock falls as booming order growth cools"
     }
   ]
 }
