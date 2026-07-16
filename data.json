@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 15 2026  23:42 PT",
+  "generated_at": "Thursday, July 16 2026  02:11 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4035.1,
-      "change_pct": -0.14
+      "price": 4041.3,
+      "change_pct": 0.01
     },
     "Oil (WTI)": {
-      "price": 79.67,
-      "change_pct": 0.14
+      "price": 79.29,
+      "change_pct": -0.34
     },
     "Silver": {
-      "price": 57.45,
-      "change_pct": -0.12
+      "price": 57.38,
+      "change_pct": -0.23
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64647,
-      "change_pct": -0.53
+      "price": 64078,
+      "change_pct": -1.09
     },
     "ETH": {
-      "price": 1917.0,
-      "change_pct": 1.75
+      "price": 1884.76,
+      "change_pct": 0.12
     },
     "SOL": {
-      "price": 77.14,
-      "change_pct": -1.64
+      "price": 76.09,
+      "change_pct": -1.98
     },
     "BNB": {
-      "price": 581.58,
-      "change_pct": 0.13
+      "price": 576.62,
+      "change_pct": -0.06
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. slaps 25% tariff on most Brazilian goods over 'unfair trade practices'"
+      "title": "Iran warns U.S. of Hormuz \u2018red line,\u2019 says it will retaliate to Trump\u2019s strike threats"
     },
     {
       "source": "CNBC",
-      "title": "TSMC second-quarter profit jumps over 77%, beating estimates, on high-end chip boom"
+      "title": "TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77%"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Alec and Hilaria Baldwin pull $19 million Hamptons home off the market\u2014again"
     },
     {
       "source": "MarketWatch",
       "title": "AI is so big, it\u2019s now impossible for investors to avoid"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "United Airlines gets hit by a $6 billion added-fuel-cost headwind"
     }
   ]
 }
