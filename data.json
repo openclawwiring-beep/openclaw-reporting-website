@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, July 16 2026  08:08 PT",
-  "market_status": "Live \u2014 as of 11:08 ET",
+  "generated_at": "Thursday, July 16 2026  09:48 PT",
+  "market_status": "Live \u2014 as of 12:48 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7558.17,
-      "change_pct": -0.19
+      "price": 7543.98,
+      "change_pct": -0.38
     },
     "Nasdaq": {
-      "price": 26046.05,
-      "change_pct": -0.85
+      "price": 26002.21,
+      "change_pct": -1.02
     },
     "Dow Jones": {
-      "price": 52801.48,
-      "change_pct": 0.27
+      "price": 52629.95,
+      "change_pct": -0.05
     },
     "Russell 2000": {
-      "price": 2990.57,
-      "change_pct": 0.51
+      "price": 2979.27,
+      "change_pct": 0.13
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4002.3,
-      "change_pct": -0.95
+      "price": 3994.9,
+      "change_pct": -1.13
     },
     "Oil (WTI)": {
-      "price": 79.61,
-      "change_pct": 0.06
+      "price": 78.82,
+      "change_pct": -0.93
     },
     "Silver": {
-      "price": 56.43,
-      "change_pct": -1.89
+      "price": 56.31,
+      "change_pct": -2.1
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64386,
-      "change_pct": -1.55
+      "price": 64326,
+      "change_pct": -0.97
     },
     "ETH": {
-      "price": 1874.74,
-      "change_pct": -3.03
+      "price": 1874.75,
+      "change_pct": -2.04
     },
     "SOL": {
-      "price": 76.2,
-      "change_pct": -2.37
+      "price": 76.12,
+      "change_pct": -1.64
     },
     "BNB": {
-      "price": 577.9,
-      "change_pct": -0.6
+      "price": 576.62,
+      "change_pct": -0.18
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Short sellers load up against SpaceX as stock retreats back to IPO price"
+      "title": "Trump teleprompter operator allegedly made Kalshi bets on president's statements; CFTC investigating"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Respect is important\u2019: If my financial adviser said, \u2018Hey,\u2019 my wife and I would walk out. Where do you draw the line?"
+      "title": "Americans say they need $1.2 million to retire. Most are too deep in debt to get there."
     },
     {
       "source": "MarketWatch",
-      "title": "Oil is facing a supply crunch \u2014 and the war in Iran isn\u2019t the only problem"
+      "title": "This isn\u2019t a plan to save Social Security. It\u2019s a plan to have a plan."
     }
   ]
 }
