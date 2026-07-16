@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 16 2026  02:11 PT",
+  "generated_at": "Thursday, July 16 2026  04:16 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4041.3,
-      "change_pct": 0.01
+      "price": 4033.5,
+      "change_pct": -0.18
     },
     "Oil (WTI)": {
-      "price": 79.29,
-      "change_pct": -0.34
+      "price": 79.48,
+      "change_pct": -0.1
     },
     "Silver": {
-      "price": 57.38,
-      "change_pct": -0.23
+      "price": 56.79,
+      "change_pct": -1.27
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64078,
-      "change_pct": -1.09
+      "price": 64118,
+      "change_pct": -0.83
     },
     "ETH": {
-      "price": 1884.76,
-      "change_pct": 0.12
+      "price": 1884.87,
+      "change_pct": 0.28
     },
     "SOL": {
-      "price": 76.09,
-      "change_pct": -1.98
+      "price": 76.1,
+      "change_pct": -1.66
     },
     "BNB": {
-      "price": 576.62,
-      "change_pct": -0.06
+      "price": 576.43,
+      "change_pct": -0.24
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77%"
+      "title": "U.S. grocery slowdown deepens as shoppers buy fewer items, raising pressure on food companies"
     },
     {
       "source": "MarketWatch",
-      "title": "Alec and Hilaria Baldwin pull $19 million Hamptons home off the market\u2014again"
+      "title": "\u2018They cut off online access\u2019: My mother\u2019s bank balance plummeted after her death. What\u2019s going on?"
     },
     {
       "source": "MarketWatch",
-      "title": "AI is so big, it\u2019s now impossible for investors to avoid"
+      "title": "The Lehman Brothers of the AI bubble is coming, says this critic warning of a fallout for tech and the entire market"
     }
   ]
 }
