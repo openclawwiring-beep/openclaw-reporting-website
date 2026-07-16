@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, July 16 2026  12:40 PT",
-  "market_status": "Live \u2014 as of 15:40 ET",
+  "generated_at": "Thursday, July 16 2026  13:55 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7513.3,
-      "change_pct": -0.78
-    },
-    "Nasdaq": {
-      "price": 25824.7,
-      "change_pct": -1.69
-    },
-    "Dow Jones": {
-      "price": 52391.06,
+      "price": 7533.77,
       "change_pct": -0.51
     },
+    "Nasdaq": {
+      "price": 25881.95,
+      "change_pct": -1.47
+    },
+    "Dow Jones": {
+      "price": 52552.97,
+      "change_pct": -0.2
+    },
     "Russell 2000": {
-      "price": 2967.71,
-      "change_pct": -0.26
+      "price": 2974.57,
+      "change_pct": -0.06
     }
   },
   "commodities": {
     "Gold": {
-      "price": 3982.9,
-      "change_pct": -1.43
+      "price": 3979.0,
+      "change_pct": -1.53
     },
     "Oil (WTI)": {
-      "price": 78.35,
-      "change_pct": -1.52
+      "price": 78.78,
+      "change_pct": -0.98
     },
     "Silver": {
-      "price": 55.83,
-      "change_pct": -2.94
+      "price": 55.77,
+      "change_pct": -3.04
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64192,
-      "change_pct": -1.04
+      "price": 64078,
+      "change_pct": -1.32
     },
     "ETH": {
-      "price": 1873.83,
-      "change_pct": -2.57
+      "price": 1871.68,
+      "change_pct": -2.66
     },
     "SOL": {
-      "price": 75.8,
-      "change_pct": -1.82
+      "price": 75.73,
+      "change_pct": -2.15
     },
     "BNB": {
-      "price": 575.55,
-      "change_pct": -0.68
+      "price": 574.51,
+      "change_pct": -1.03
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Here's why the housing market is hurting so much this summer"
+      "title": "Netflix reports earnings in line with expectations, says company will give fewer engagement updates"
     },
     {
       "source": "CNBC",
-      "title": "Trump is set to deliver an election-focused national address tonight. Here's what to know"
+      "title": "Here's why the housing market is hurting so much this summer"
     },
     {
       "source": "MarketWatch",
-      "title": "Wildfire smoke \u2018a growing cardiovascular threat\u2019 as Chicago, Detroit, NYC among world\u2019s most polluted cities today"
+      "title": "Netflix is getting stingier about its viewing data, and Wall Street isn\u2019t happy"
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s a buyer\u2019s market for bonds"
+      "title": "As SpaceX\u2019s stock notches first close below IPO price, the company is gearing up for a crucial launch"
     }
   ]
 }
