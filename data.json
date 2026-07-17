@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 16 2026  21:39 PT",
+  "generated_at": "Friday, July 17 2026  00:15 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3989.0,
-      "change_pct": 0.13
+      "price": 4005.5,
+      "change_pct": 0.54
     },
     "Oil (WTI)": {
-      "price": 79.26,
-      "change_pct": 0.25
+      "price": 78.71,
+      "change_pct": -0.44
     },
     "Silver": {
-      "price": 55.51,
-      "change_pct": 0.42
+      "price": 55.81,
+      "change_pct": 0.95
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63316,
-      "change_pct": -1.92
+      "price": 62848,
+      "change_pct": -2.75
     },
     "ETH": {
-      "price": 1843.47,
-      "change_pct": -3.83
+      "price": 1828.65,
+      "change_pct": -4.74
     },
     "SOL": {
-      "price": 74.88,
-      "change_pct": -2.5
+      "price": 74.47,
+      "change_pct": -3.56
     },
     "BNB": {
-      "price": 570.74,
-      "change_pct": -1.68
+      "price": 568.92,
+      "change_pct": -2.26
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump doubles down on 2020 election claims in national address, alleging China meddling"
+      "title": "Stock futures slide as Asia sell-off poised to spread; Tech selling resumes: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Oil rises as Iran threatens retaliation if Trump targets country's critical infrastructure"
+      "title": "Trump doubles down on 2020 election claims in national address, alleging China meddling"
     },
     {
       "source": "MarketWatch",
