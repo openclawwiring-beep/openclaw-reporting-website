@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, July 17 2026  15:20 PT",
+  "generated_at": "Friday, July 17 2026  16:23 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63972,
-      "change_pct": -0.22
+      "price": 63882,
+      "change_pct": 0.24
     },
     "ETH": {
-      "price": 1839.0,
-      "change_pct": -2.06
+      "price": 1837.55,
+      "change_pct": -1.09
     },
     "SOL": {
-      "price": 74.86,
-      "change_pct": -1.3
+      "price": 74.9,
+      "change_pct": -0.24
     },
     "BNB": {
-      "price": 567.21,
-      "change_pct": -1.5
+      "price": 567.1,
+      "change_pct": -0.76
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The average stock is having a moment as semiconductors struggle. It\u2019s a sign of a healthy market."
+      "title": "The World Cup\u2013winning side will make $50 million \u2014 and the IRS gets a cut"
     },
     {
       "source": "MarketWatch",
-      "title": "19 (mostly) tech stocks that have fallen at least 25% in July"
+      "title": "SpaceX postponed a crucial launch \u2014 and its stock went on to close below IPO price for second day"
     }
   ]
 }
