@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 16 2026  18:00 PT",
+  "generated_at": "Thursday, July 16 2026  21:39 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3989.9,
-      "change_pct": -1.26
+      "price": 3989.0,
+      "change_pct": 0.13
     },
     "Oil (WTI)": {
-      "price": 79.05,
-      "change_pct": -0.64
+      "price": 79.26,
+      "change_pct": 0.25
     },
     "Silver": {
-      "price": 55.81,
-      "change_pct": -2.98
+      "price": 55.51,
+      "change_pct": 0.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63821,
-      "change_pct": -1.13
+      "price": 63316,
+      "change_pct": -1.92
     },
     "ETH": {
-      "price": 1863.7,
-      "change_pct": -2.63
+      "price": 1843.47,
+      "change_pct": -3.83
     },
     "SOL": {
-      "price": 75.44,
-      "change_pct": -1.85
+      "price": 74.88,
+      "change_pct": -2.5
     },
     "BNB": {
-      "price": 573.2,
-      "change_pct": -1.02
+      "price": 570.74,
+      "change_pct": -1.68
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump is set to deliver an election-focused national address tonight. Here's what to know"
+      "title": "Trump doubles down on 2020 election claims in national address, alleging China meddling"
     },
     {
       "source": "CNBC",
-      "title": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates"
+      "title": "Oil rises as Iran threatens retaliation if Trump targets country's critical infrastructure"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron has turned into \u2018the most important stock in the market.\u2019 So is it time to worry?"
     },
     {
       "source": "MarketWatch",
       "title": "Netflix is getting stingier about its viewing data, and Wall Street isn\u2019t happy"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "10 U.S. metro areas where builders are slashing prices on new homes"
     }
   ]
 }
