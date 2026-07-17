@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 16 2026  16:24 PT",
+  "generated_at": "Thursday, July 16 2026  18:00 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3983.4,
-      "change_pct": -1.42
+      "price": 3989.9,
+      "change_pct": -1.26
     },
     "Oil (WTI)": {
-      "price": 78.99,
-      "change_pct": -0.72
+      "price": 79.05,
+      "change_pct": -0.64
     },
     "Silver": {
-      "price": 55.79,
-      "change_pct": -3.01
+      "price": 55.81,
+      "change_pct": -2.98
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63769,
-      "change_pct": -1.66
+      "price": 63821,
+      "change_pct": -1.13
     },
     "ETH": {
-      "price": 1860.06,
-      "change_pct": -3.24
+      "price": 1863.7,
+      "change_pct": -2.63
     },
     "SOL": {
-      "price": 75.18,
-      "change_pct": -2.98
+      "price": 75.44,
+      "change_pct": -1.85
     },
     "BNB": {
-      "price": 571.86,
-      "change_pct": -1.5
+      "price": 573.2,
+      "change_pct": -1.02
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Americans say they need $1.2 million to retire. Most are too deep in debt to get there."
+      "title": "Netflix is getting stingier about its viewing data, and Wall Street isn\u2019t happy"
     },
     {
       "source": "MarketWatch",
-      "title": "GE boosts profit outlook, but stock falls as booming order growth cools"
+      "title": "10 U.S. metro areas where builders are slashing prices on new homes"
     }
   ]
 }
