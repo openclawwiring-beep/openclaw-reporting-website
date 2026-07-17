@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, July 17 2026  13:26 PT",
+  "generated_at": "Friday, July 17 2026  14:21 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4016.7,
-      "change_pct": 0.53
+      "price": 4023.0,
+      "change_pct": 0.68
     },
     "Oil (WTI)": {
-      "price": 81.53,
-      "change_pct": 2.99
+      "price": 81.77,
+      "change_pct": 3.3
     },
     "Silver": {
-      "price": 56.35,
-      "change_pct": 1.29
+      "price": 56.22,
+      "change_pct": 1.06
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64007,
-      "change_pct": -0.21
+      "price": 64116,
+      "change_pct": -0.02
     },
     "ETH": {
-      "price": 1839.43,
-      "change_pct": -1.74
+      "price": 1843.41,
+      "change_pct": -1.75
     },
     "SOL": {
-      "price": 74.98,
-      "change_pct": -1.05
+      "price": 75.11,
+      "change_pct": -1.08
     },
     "BNB": {
-      "price": 567.22,
-      "change_pct": -1.35
+      "price": 568.21,
+      "change_pct": -1.33
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Inside the Chinese fraud rings stealing billions from banks and retailers"
+      "title": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs"
     },
     {
       "source": "CNBC",
-      "title": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds"
+      "title": "Inside the Chinese fraud rings stealing billions from banks and retailers"
     },
     {
       "source": "MarketWatch",
-      "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?"
+      "title": "Look on the bright side: Energy companies are booming"
     },
     {
       "source": "MarketWatch",
-      "title": "Chip stocks enter bear-market territory. A BofA analyst says not to panic."
+      "title": "Chip stocks have entered a bear market. A BofA analyst says not to panic."
     }
   ]
 }
