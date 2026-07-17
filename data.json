@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, July 17 2026  05:42 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, July 17 2026  07:42 PT",
+  "market_status": "Live \u2014 as of 10:42 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7533.77,
-      "change_pct": -0.51
+      "price": 7490.33,
+      "change_pct": -0.58
     },
     "Nasdaq": {
-      "price": 25881.95,
-      "change_pct": -1.47
+      "price": 25584.22,
+      "change_pct": -1.15
     },
     "Dow Jones": {
-      "price": 52552.97,
-      "change_pct": -0.2
+      "price": 52501.07,
+      "change_pct": -0.1
     },
     "Russell 2000": {
-      "price": 2974.57,
-      "change_pct": -0.06
+      "price": 2977.78,
+      "change_pct": 0.13
     }
   },
   "commodities": {
     "Gold": {
-      "price": 3988.3,
-      "change_pct": -0.19
+      "price": 3999.1,
+      "change_pct": 0.09
     },
     "Oil (WTI)": {
-      "price": 80.34,
-      "change_pct": 1.49
+      "price": 80.71,
+      "change_pct": 1.96
     },
     "Silver": {
-      "price": 55.59,
-      "change_pct": -0.07
+      "price": 55.93,
+      "change_pct": 0.54
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63085,
-      "change_pct": -1.22
+      "price": 63260,
+      "change_pct": -2.16
     },
     "ETH": {
-      "price": 1829.51,
-      "change_pct": -2.14
+      "price": 1823.91,
+      "change_pct": -3.35
     },
     "SOL": {
-      "price": 74.5,
-      "change_pct": -1.63
+      "price": 74.38,
+      "change_pct": -2.83
     },
     "BNB": {
-      "price": 561.86,
-      "change_pct": -2.39
+      "price": 562.2,
+      "change_pct": -3.04
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds"
+      "title": "S&P 500 falls, heads for losing week, led by chipmakers; Netflix plunges: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Inside the Chinese fraud rings stealing billions from banks and retailers"
+      "title": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds"
     },
     {
       "source": "MarketWatch",
-      "title": "As semiconductor stocks slump, one AI-adjacent sector is thriving \u2014 and these are the stocks to buy there"
+      "title": "18 tech stocks that have fallen at least 30% during July"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices are up 13% in a week \u2014 and could head for more than $100 a barrel"
+      "title": "AI may force these workers to retire earlier than planned"
     }
   ]
 }
