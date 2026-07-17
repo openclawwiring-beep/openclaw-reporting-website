@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, July 17 2026  07:42 PT",
-  "market_status": "Live \u2014 as of 10:42 ET",
+  "generated_at": "Friday, July 17 2026  09:14 PT",
+  "market_status": "Live \u2014 as of 12:14 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7490.33,
-      "change_pct": -0.58
+      "price": 7487.57,
+      "change_pct": -0.61
     },
     "Nasdaq": {
-      "price": 25584.22,
-      "change_pct": -1.15
+      "price": 25599.86,
+      "change_pct": -1.09
     },
     "Dow Jones": {
-      "price": 52501.07,
-      "change_pct": -0.1
+      "price": 52457.95,
+      "change_pct": -0.18
     },
     "Russell 2000": {
-      "price": 2977.78,
-      "change_pct": 0.13
+      "price": 2963.34,
+      "change_pct": -0.36
     }
   },
   "commodities": {
     "Gold": {
-      "price": 3999.1,
-      "change_pct": 0.09
+      "price": 4019.5,
+      "change_pct": 0.6
     },
     "Oil (WTI)": {
-      "price": 80.71,
-      "change_pct": 1.96
+      "price": 81.25,
+      "change_pct": 2.64
     },
     "Silver": {
-      "price": 55.93,
-      "change_pct": 0.54
+      "price": 56.22,
+      "change_pct": 1.05
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63260,
-      "change_pct": -2.16
+      "price": 63435,
+      "change_pct": -1.6
     },
     "ETH": {
-      "price": 1823.91,
-      "change_pct": -3.35
+      "price": 1830.18,
+      "change_pct": -2.42
     },
     "SOL": {
-      "price": 74.38,
-      "change_pct": -2.83
+      "price": 74.75,
+      "change_pct": -2.16
     },
     "BNB": {
-      "price": 562.2,
-      "change_pct": -3.04
+      "price": 563.46,
+      "change_pct": -2.54
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "18 tech stocks that have fallen at least 30% during July"
+      "title": "My dad wants to buy me a big suburban home \u2014 but I don\u2019t want to live there. Am I ungrateful if I turn him down?"
     },
     {
       "source": "MarketWatch",
-      "title": "AI may force these workers to retire earlier than planned"
+      "title": "Iran war hasn\u2019t hurt the U.S. economy too badly \u2014 but the danger isn\u2019t over yet"
     }
   ]
 }
