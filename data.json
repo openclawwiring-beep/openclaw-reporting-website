@@ -1,60 +1,60 @@
 {
-  "generated_at": "Friday, July 17 2026  09:14 PT",
-  "market_status": "Live \u2014 as of 12:14 ET",
+  "generated_at": "Friday, July 17 2026  10:37 PT",
+  "market_status": "Live \u2014 as of 13:37 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7487.57,
-      "change_pct": -0.61
+      "price": 7488.53,
+      "change_pct": -0.6
     },
     "Nasdaq": {
-      "price": 25599.86,
-      "change_pct": -1.09
+      "price": 25664.28,
+      "change_pct": -0.84
     },
     "Dow Jones": {
-      "price": 52457.95,
-      "change_pct": -0.18
+      "price": 52364.29,
+      "change_pct": -0.36
     },
     "Russell 2000": {
-      "price": 2963.34,
-      "change_pct": -0.36
+      "price": 2972.59,
+      "change_pct": -0.04
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4019.5,
-      "change_pct": 0.6
+      "price": 4019.9,
+      "change_pct": 0.61
     },
     "Oil (WTI)": {
-      "price": 81.25,
-      "change_pct": 2.64
+      "price": 81.66,
+      "change_pct": 3.16
     },
     "Silver": {
-      "price": 56.22,
-      "change_pct": 1.05
+      "price": 56.35,
+      "change_pct": 1.29
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63435,
-      "change_pct": -1.6
+      "price": 63976,
+      "change_pct": -0.33
     },
     "ETH": {
-      "price": 1830.18,
-      "change_pct": -2.42
+      "price": 1844.08,
+      "change_pct": -1.49
     },
     "SOL": {
-      "price": 74.75,
-      "change_pct": -2.16
+      "price": 75.2,
+      "change_pct": -0.94
     },
     "BNB": {
-      "price": 563.46,
-      "change_pct": -2.54
+      "price": 565.47,
+      "change_pct": -1.81
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 falls, heads for losing week, led by chipmakers; Netflix plunges: Live updates"
+      "title": "Inside the Chinese fraud rings stealing billions from banks and retailers"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My dad wants to buy me a big suburban home \u2014 but I don\u2019t want to live there. Am I ungrateful if I turn him down?"
+      "title": "A bad health diagnosis will upend your financial plan, but you can set it right again"
     },
     {
       "source": "MarketWatch",
-      "title": "Iran war hasn\u2019t hurt the U.S. economy too badly \u2014 but the danger isn\u2019t over yet"
+      "title": "Here\u2019s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S."
     }
   ]
 }
