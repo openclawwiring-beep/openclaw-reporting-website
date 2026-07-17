@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, July 17 2026  00:15 PT",
+  "generated_at": "Friday, July 17 2026  02:26 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4005.5,
-      "change_pct": 0.54
+      "price": 4001.9,
+      "change_pct": 0.16
     },
     "Oil (WTI)": {
-      "price": 78.71,
-      "change_pct": -0.44
+      "price": 79.44,
+      "change_pct": 0.35
     },
     "Silver": {
-      "price": 55.81,
-      "change_pct": 0.95
+      "price": 55.85,
+      "change_pct": 0.4
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62848,
-      "change_pct": -2.75
+      "price": 62873,
+      "change_pct": -1.78
     },
     "ETH": {
-      "price": 1828.65,
-      "change_pct": -4.74
+      "price": 1830.23,
+      "change_pct": -2.82
     },
     "SOL": {
-      "price": 74.47,
-      "change_pct": -3.56
+      "price": 74.52,
+      "change_pct": -2.02
     },
     "BNB": {
-      "price": 568.92,
-      "change_pct": -2.26
+      "price": 564.35,
+      "change_pct": -2.19
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures slide as Asia sell-off poised to spread; Tech selling resumes: Live updates"
+      "title": "Stock futures fall as global chip sell-off continues: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Trump doubles down on 2020 election claims in national address, alleging China meddling"
+      "title": "Chinese startup Moonshot AI unveils Kimi model it says rivals OpenAI, Anthropic"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Buyer snaps up Josh Duhamel\u2019s $3 million L.A. home as actor embraces his Minnesota \u2018doomsday prepper\u2019 cabin"
     },
     {
       "source": "MarketWatch",
       "title": "Micron has turned into \u2018the most important stock in the market.\u2019 So is it time to worry?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Netflix is getting stingier about its viewing data, and Wall Street isn\u2019t happy"
     }
   ]
 }
