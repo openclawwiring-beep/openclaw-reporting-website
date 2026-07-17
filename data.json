@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, July 17 2026  04:05 PT",
+  "generated_at": "Friday, July 17 2026  05:42 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3996.6,
-      "change_pct": 0.02
+      "price": 3988.3,
+      "change_pct": -0.19
     },
     "Oil (WTI)": {
-      "price": 79.98,
-      "change_pct": 1.04
+      "price": 80.34,
+      "change_pct": 1.49
     },
     "Silver": {
-      "price": 55.56,
-      "change_pct": -0.12
+      "price": 55.59,
+      "change_pct": -0.07
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63125,
-      "change_pct": -1.58
+      "price": 63085,
+      "change_pct": -1.22
     },
     "ETH": {
-      "price": 1835.21,
-      "change_pct": -2.67
+      "price": 1829.51,
+      "change_pct": -2.14
     },
     "SOL": {
-      "price": 74.74,
-      "change_pct": -1.8
+      "price": 74.5,
+      "change_pct": -1.63
     },
     "BNB": {
-      "price": 563.55,
-      "change_pct": -2.27
+      "price": 561.86,
+      "change_pct": -2.39
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nasdaq futures fall 2% as global chip sell-off continues: Live updates"
+      "title": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds"
     },
     {
       "source": "CNBC",
-      "title": "Iran says civilian infrastructure hit by latest U.S. strikes, expands attacks to Syria, Bahrain"
+      "title": "Inside the Chinese fraud rings stealing billions from banks and retailers"
     },
     {
       "source": "MarketWatch",
-      "title": "Ranch dressing and stuffed raccoons: Some of the World Cup\u2019s biggest winners as Spain and Argentina face off in the final"
+      "title": "As semiconductor stocks slump, one AI-adjacent sector is thriving \u2014 and these are the stocks to buy there"
     },
     {
       "source": "MarketWatch",
-      "title": "As semiconductor stocks slump, one AI-adjacent sector is thriving \u2014 and these are the stocks to buy"
+      "title": "Oil prices are up 13% in a week \u2014 and could head for more than $100 a barrel"
     }
   ]
 }
