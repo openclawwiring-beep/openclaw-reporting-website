@@ -1,32 +1,32 @@
 {
-  "generated_at": "Friday, July 17 2026  12:05 PT",
-  "market_status": "Live \u2014 as of 15:05 ET",
+  "generated_at": "Friday, July 17 2026  13:26 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7462.63,
-      "change_pct": -0.94
+      "price": 7457.69,
+      "change_pct": -1.01
     },
     "Nasdaq": {
-      "price": 25573.31,
-      "change_pct": -1.19
+      "price": 25520.24,
+      "change_pct": -1.4
     },
     "Dow Jones": {
-      "price": 52199.01,
-      "change_pct": -0.67
+      "price": 52146.42,
+      "change_pct": -0.77
     },
     "Russell 2000": {
-      "price": 2958.24,
-      "change_pct": -0.53
+      "price": 2962.22,
+      "change_pct": -0.42
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4015.7,
-      "change_pct": 0.5
+      "price": 4016.7,
+      "change_pct": 0.53
     },
     "Oil (WTI)": {
-      "price": 81.47,
-      "change_pct": 2.92
+      "price": 81.53,
+      "change_pct": 2.99
     },
     "Silver": {
       "price": 56.35,
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64168,
-      "change_pct": -0.09
+      "price": 64007,
+      "change_pct": -0.21
     },
     "ETH": {
-      "price": 1844.15,
-      "change_pct": -1.66
+      "price": 1839.43,
+      "change_pct": -1.74
     },
     "SOL": {
-      "price": 75.25,
-      "change_pct": -0.63
+      "price": 74.98,
+      "change_pct": -1.05
     },
     "BNB": {
-      "price": 566.46,
-      "change_pct": -1.59
+      "price": 567.22,
+      "change_pct": -1.35
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?"
+      "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?"
     },
     {
       "source": "MarketWatch",
-      "title": "My wife\u2019s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?"
+      "title": "Chip stocks enter bear-market territory. A BofA analyst says not to panic."
     }
   ]
 }
