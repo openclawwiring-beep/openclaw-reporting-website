@@ -1,32 +1,32 @@
 {
-  "generated_at": "Friday, July 17 2026  10:37 PT",
-  "market_status": "Live \u2014 as of 13:37 ET",
+  "generated_at": "Friday, July 17 2026  12:05 PT",
+  "market_status": "Live \u2014 as of 15:05 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7488.53,
-      "change_pct": -0.6
+      "price": 7462.63,
+      "change_pct": -0.94
     },
     "Nasdaq": {
-      "price": 25664.28,
-      "change_pct": -0.84
+      "price": 25573.31,
+      "change_pct": -1.19
     },
     "Dow Jones": {
-      "price": 52364.29,
-      "change_pct": -0.36
+      "price": 52199.01,
+      "change_pct": -0.67
     },
     "Russell 2000": {
-      "price": 2972.59,
-      "change_pct": -0.04
+      "price": 2958.24,
+      "change_pct": -0.53
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4019.9,
-      "change_pct": 0.61
+      "price": 4015.7,
+      "change_pct": 0.5
     },
     "Oil (WTI)": {
-      "price": 81.66,
-      "change_pct": 3.16
+      "price": 81.47,
+      "change_pct": 2.92
     },
     "Silver": {
       "price": 56.35,
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63976,
-      "change_pct": -0.33
+      "price": 64168,
+      "change_pct": -0.09
     },
     "ETH": {
-      "price": 1844.08,
-      "change_pct": -1.49
+      "price": 1844.15,
+      "change_pct": -1.66
     },
     "SOL": {
-      "price": 75.2,
-      "change_pct": -0.94
+      "price": 75.25,
+      "change_pct": -0.63
     },
     "BNB": {
-      "price": 565.47,
-      "change_pct": -1.81
+      "price": 566.46,
+      "change_pct": -1.59
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "A bad health diagnosis will upend your financial plan, but you can set it right again"
+      "title": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S."
+      "title": "My wife\u2019s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?"
     }
   ]
 }
