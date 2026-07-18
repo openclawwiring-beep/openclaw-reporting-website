@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 18 2026  07:53 PT",
+  "generated_at": "Saturday, July 18 2026  08:55 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64124,
-      "change_pct": 1.57
+      "price": 64080,
+      "change_pct": 1.41
     },
     "ETH": {
-      "price": 1844.44,
-      "change_pct": 1.38
+      "price": 1843.37,
+      "change_pct": 1.06
     },
     "SOL": {
-      "price": 74.9,
-      "change_pct": 0.76
+      "price": 74.92,
+      "change_pct": 0.58
     },
     "BNB": {
-      "price": 570.55,
-      "change_pct": 1.63
+      "price": 569.92,
+      "change_pct": 1.53
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S."
+      "title": "Is SpaceX\u2019s stock a bust because it fell below $135? Look what happened after Meta\u2019s IPO."
     },
     {
       "source": "MarketWatch",
-      "title": "AI may force these workers to retire earlier than planned"
+      "title": "Are you silently freaking out about retirement? It may not be as bad as you think."
     }
   ]
 }
