@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 18 2026  14:22 PT",
+  "generated_at": "Saturday, July 18 2026  15:21 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64772,
-      "change_pct": 1.01
+      "price": 64740,
+      "change_pct": 1.21
     },
     "ETH": {
-      "price": 1860.54,
-      "change_pct": 0.88
+      "price": 1861.77,
+      "change_pct": 1.22
     },
     "SOL": {
-      "price": 75.53,
-      "change_pct": 0.56
+      "price": 75.47,
+      "change_pct": 0.8
     },
     "BNB": {
-      "price": 571.72,
-      "change_pct": 0.6
+      "price": 570.62,
+      "change_pct": 0.57
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran supreme leader vows 'unforgettable lessons in store' for U.S. after calling off interim peace agreement"
+      "title": "Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace deal"
     },
     {
       "source": "CNBC",
