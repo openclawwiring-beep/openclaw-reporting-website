@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 18 2026  04:03 PT",
+  "generated_at": "Saturday, July 18 2026  05:11 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63966,
-      "change_pct": 1.37
+      "price": 64090,
+      "change_pct": 1.42
     },
     "ETH": {
-      "price": 1844.21,
-      "change_pct": 0.52
+      "price": 1846.09,
+      "change_pct": 0.62
     },
     "SOL": {
-      "price": 74.84,
-      "change_pct": 0.13
+      "price": 75.02,
+      "change_pct": 0.44
     },
     "BNB": {
-      "price": 569.27,
-      "change_pct": 1.04
+      "price": 569.51,
+      "change_pct": 1.06
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping"
+      "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication"
     },
     {
       "source": "CNBC",
-      "title": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs"
+      "title": "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping"
     },
     {
       "source": "MarketWatch",
-      "title": "Will the Fed hike interest rates this month?"
+      "title": "How a homegrown Chinese chip maker became the memory industry\u2019s biggest wild card"
     },
     {
       "source": "MarketWatch",
-      "title": "Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley"
+      "title": "Forget gasoline: Why the price surge in this under-the-radar fuel is the real threat to the U.S. economy"
     }
   ]
 }
