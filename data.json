@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 18 2026  08:55 PT",
+  "generated_at": "Saturday, July 18 2026  09:57 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64080,
-      "change_pct": 1.41
+      "price": 64253,
+      "change_pct": 1.12
     },
     "ETH": {
-      "price": 1843.37,
-      "change_pct": 1.06
-    },
-    "SOL": {
-      "price": 74.92,
+      "price": 1845.05,
       "change_pct": 0.58
     },
+    "SOL": {
+      "price": 75.13,
+      "change_pct": 0.25
+    },
     "BNB": {
-      "price": 569.92,
-      "change_pct": 1.53
+      "price": 570.73,
+      "change_pct": 1.23
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Is SpaceX\u2019s stock a bust because it fell below $135? Look what happened after Meta\u2019s IPO."
+      "title": "Most Americans don\u2019t know how to prevent dementia. Here\u2019s what you can do."
     },
     {
       "source": "MarketWatch",
-      "title": "Are you silently freaking out about retirement? It may not be as bad as you think."
+      "title": "He backed Tesla and SpaceX before anyone else \u2014 here is the \u2018impossible\u2019 bet Tim Draper is making now"
     }
   ]
 }
