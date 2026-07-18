@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, July 17 2026  17:54 PT",
+  "generated_at": "Friday, July 17 2026  20:53 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63865,
-      "change_pct": 0.12
+      "price": 63901,
+      "change_pct": 0.63
     },
     "ETH": {
-      "price": 1839.83,
-      "change_pct": -1.16
+      "price": 1841.68,
+      "change_pct": -0.54
     },
     "SOL": {
-      "price": 75.05,
-      "change_pct": -0.34
+      "price": 75.19,
+      "change_pct": 0.04
     },
     "BNB": {
-      "price": 567.6,
-      "change_pct": -0.93
+      "price": 567.47,
+      "change_pct": -0.82
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The World Cup\u2013winning side will make $50 million \u2014 and the IRS gets a cut"
+      "title": "Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley"
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX postponed a crucial launch \u2014 and its stock went on to close below IPO price for second day"
+      "title": "The World Cup\u2013winning side will make $50 million \u2014 and the IRS gets a cut"
     }
   ]
 }
