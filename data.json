@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 18 2026  05:11 PT",
+  "generated_at": "Saturday, July 18 2026  06:56 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64090,
-      "change_pct": 1.42
+      "price": 64019,
+      "change_pct": 1.95
     },
     "ETH": {
-      "price": 1846.09,
-      "change_pct": 0.62
+      "price": 1839.72,
+      "change_pct": 1.31
     },
     "SOL": {
-      "price": 75.02,
-      "change_pct": 0.44
+      "price": 74.64,
+      "change_pct": 1.31
     },
     "BNB": {
-      "price": 569.51,
-      "change_pct": 1.06
+      "price": 568.95,
+      "change_pct": 1.68
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping"
+      "title": "World Cup audience stayed bipartisan despite Trump's prominent role, CNBC survey finds"
     },
     {
       "source": "MarketWatch",
-      "title": "How a homegrown Chinese chip maker became the memory industry\u2019s biggest wild card"
+      "title": "This overlooked index is a better investment than the S&P 500"
     },
     {
       "source": "MarketWatch",
-      "title": "Forget gasoline: Why the price surge in this under-the-radar fuel is the real threat to the U.S. economy"
+      "title": "\u2018I am at a loss\u2019: My brother is dying. We are not close. What responsibility do I have to help him?"
     }
   ]
 }
