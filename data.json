@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 18 2026  02:55 PT",
+  "generated_at": "Saturday, July 18 2026  04:03 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63939,
-      "change_pct": 1.6
+      "price": 63966,
+      "change_pct": 1.37
     },
     "ETH": {
-      "price": 1843.9,
-      "change_pct": 0.59
+      "price": 1844.21,
+      "change_pct": 0.52
     },
     "SOL": {
-      "price": 74.74,
-      "change_pct": 0.1
+      "price": 74.84,
+      "change_pct": 0.13
     },
     "BNB": {
-      "price": 568.2,
-      "change_pct": 0.78
+      "price": 569.27,
+      "change_pct": 1.04
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley"
+      "title": "Will the Fed hike interest rates this month?"
     },
     {
       "source": "MarketWatch",
-      "title": "The World Cup\u2013winning side will make $50 million \u2014 and the IRS gets a cut"
+      "title": "Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley"
     }
   ]
 }
