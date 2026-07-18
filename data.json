@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 18 2026  01:18 PT",
+  "generated_at": "Saturday, July 18 2026  02:55 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63929,
-      "change_pct": 1.95
+      "price": 63939,
+      "change_pct": 1.6
     },
     "ETH": {
-      "price": 1843.24,
-      "change_pct": 1.05
+      "price": 1843.9,
+      "change_pct": 0.59
     },
     "SOL": {
-      "price": 74.85,
-      "change_pct": 0.41
+      "price": 74.74,
+      "change_pct": 0.1
     },
     "BNB": {
-      "price": 567.52,
-      "change_pct": 0.62
+      "price": 568.2,
+      "change_pct": 0.78
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs"
+      "title": "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping"
     },
     {
       "source": "CNBC",
-      "title": "Inside the Chinese fraud rings stealing billions from banks and retailers"
+      "title": "Trump rips Canada as wildfire smoke spreads, says U.S. will add pollution cost to tariffs"
     },
     {
       "source": "MarketWatch",
