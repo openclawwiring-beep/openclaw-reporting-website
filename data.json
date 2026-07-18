@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 18 2026  12:14 PT",
+  "generated_at": "Saturday, July 18 2026  13:11 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64478,
-      "change_pct": 0.7
+      "price": 64531,
+      "change_pct": 0.86
     },
     "ETH": {
-      "price": 1856.54,
-      "change_pct": 0.94
+      "price": 1856.44,
+      "change_pct": 1.01
     },
     "SOL": {
-      "price": 75.21,
-      "change_pct": 0.03
+      "price": 75.38,
+      "change_pct": 0.59
     },
     "BNB": {
-      "price": 570.55,
-      "change_pct": 0.83
+      "price": 570.36,
+      "change_pct": 0.54
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?"
+      "title": "\u2018Respect is important\u2019: If my financial adviser said, \u2018Hey,\u2019 my wife and I would walk out. Where do you draw the line?"
     },
     {
       "source": "MarketWatch",
-      "title": "Netflix is spending big money on sports. Is the company making the right bets?"
+      "title": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?"
     }
   ]
 }
