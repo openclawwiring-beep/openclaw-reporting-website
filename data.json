@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 18 2026  06:56 PT",
+  "generated_at": "Saturday, July 18 2026  07:53 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64019,
-      "change_pct": 1.95
+      "price": 64124,
+      "change_pct": 1.57
     },
     "ETH": {
-      "price": 1839.72,
-      "change_pct": 1.31
+      "price": 1844.44,
+      "change_pct": 1.38
     },
     "SOL": {
-      "price": 74.64,
-      "change_pct": 1.31
+      "price": 74.9,
+      "change_pct": 0.76
     },
     "BNB": {
-      "price": 568.95,
-      "change_pct": 1.68
+      "price": 570.55,
+      "change_pct": 1.63
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "This overlooked index is a better investment than the S&P 500"
+      "title": "Here\u2019s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I am at a loss\u2019: My brother is dying. We are not close. What responsibility do I have to help him?"
+      "title": "AI may force these workers to retire earlier than planned"
     }
   ]
 }
