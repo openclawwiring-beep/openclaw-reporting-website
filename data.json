@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 19 2026  15:50 PT",
+  "generated_at": "Sunday, July 19 2026  16:55 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4000.1,
-      "change_pct": -0.47
+      "price": 3995.0,
+      "change_pct": -0.59
     },
     "Oil (WTI)": {
-      "price": 84.28,
-      "change_pct": 3.06
+      "price": 83.94,
+      "change_pct": 2.64
     },
     "Silver": {
-      "price": 55.93,
-      "change_pct": -0.7
+      "price": 56.03,
+      "change_pct": -0.53
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64703,
-      "change_pct": -0.08
+      "price": 64647,
+      "change_pct": -0.19
     },
     "ETH": {
-      "price": 1870.8,
-      "change_pct": 0.47
+      "price": 1869.89,
+      "change_pct": 0.52
     },
     "SOL": {
-      "price": 76.13,
-      "change_pct": 0.93
+      "price": 76.32,
+      "change_pct": 1.15
     },
     "BNB": {
-      "price": 570.51,
-      "change_pct": 0.1
+      "price": 570.27,
+      "change_pct": -0.0
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures are little changed after Wall Street suffers losing week: Live updates"
+      "title": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says"
     },
     {
       "source": "CNBC",
-      "title": "U.S. death toll rises again as Iran war escalates over the weekend"
+      "title": "Stock futures are little changed after Wall Street suffers losing week: Live updates"
     },
     {
       "source": "MarketWatch",
