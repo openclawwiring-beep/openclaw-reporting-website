@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 19 2026  09:59 PT",
+  "generated_at": "Sunday, July 19 2026  11:02 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64485,
-      "change_pct": 0.38
+      "price": 64501,
+      "change_pct": 0.11
     },
     "ETH": {
-      "price": 1865.03,
-      "change_pct": 1.11
+      "price": 1866.12,
+      "change_pct": 0.86
     },
     "SOL": {
-      "price": 75.84,
-      "change_pct": 0.95
+      "price": 75.92,
+      "change_pct": 0.84
     },
     "BNB": {
-      "price": 567.96,
-      "change_pct": -0.46
+      "price": 567.93,
+      "change_pct": -0.47
     }
   },
   "headlines": [
