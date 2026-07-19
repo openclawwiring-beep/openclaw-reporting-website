@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 19 2026  14:51 PT",
+  "generated_at": "Sunday, July 19 2026  15:50 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4018.8,
-      "change_pct": 0.58
+      "price": 4000.1,
+      "change_pct": -0.47
     },
     "Oil (WTI)": {
-      "price": 81.78,
-      "change_pct": 3.31
+      "price": 84.28,
+      "change_pct": 3.06
     },
     "Silver": {
-      "price": 56.33,
-      "change_pct": 1.25
+      "price": 55.93,
+      "change_pct": -0.7
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64334,
-      "change_pct": -0.44
+      "price": 64703,
+      "change_pct": -0.08
     },
     "ETH": {
-      "price": 1859.39,
-      "change_pct": 0.15
+      "price": 1870.8,
+      "change_pct": 0.47
     },
     "SOL": {
-      "price": 75.79,
-      "change_pct": 0.62
+      "price": 76.13,
+      "change_pct": 0.93
     },
     "BNB": {
-      "price": 568.34,
-      "change_pct": -0.27
+      "price": 570.51,
+      "change_pct": 0.1
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. death toll rises again as Iran war escalates over the weekend"
+      "title": "Stock futures are little changed after Wall Street suffers losing week: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Universal and Christopher Nolan's 'The Odyssey' sails to $124.5 million opening"
+      "title": "U.S. death toll rises again as Iran war escalates over the weekend"
     },
     {
       "source": "MarketWatch",
-      "title": "Can the \u2018Magnificent Seven\u2019 save a stock market that might be doomed without them?"
+      "title": "Oil prices surge, stock futures flat as fighting between U.S. and Iran intensifies"
     },
     {
       "source": "MarketWatch",
-      "title": "Is there a deadline to claim the $1,000 \u2018Trump account\u2019 contribution for my kid?"
+      "title": "World Cup-champion Spain just won $50 million \u2014 and the IRS gets a cut"
     }
   ]
 }
