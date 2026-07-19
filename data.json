@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 19 2026  00:25 PT",
+  "generated_at": "Sunday, July 19 2026  02:26 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64665,
-      "change_pct": 1.08
+      "price": 64522,
+      "change_pct": 0.96
     },
     "ETH": {
-      "price": 1867.44,
-      "change_pct": 1.28
+      "price": 1866.99,
+      "change_pct": 1.31
     },
     "SOL": {
-      "price": 76.07,
-      "change_pct": 1.62
+      "price": 75.94,
+      "change_pct": 1.68
     },
     "BNB": {
-      "price": 568.54,
-      "change_pct": 0.23
+      "price": 567.22,
+      "change_pct": -0.08
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Respect is important\u2019: If my financial adviser said, \u2018Hey,\u2019 my wife and I would walk out. Where do you draw the line?"
+      "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?"
+      "title": "\u2018Respect is important\u2019: If my financial adviser said, \u2018Hey,\u2019 my wife and I would walk out. Where do you draw the line?"
     }
   ]
 }
