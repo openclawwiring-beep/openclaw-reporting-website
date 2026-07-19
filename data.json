@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 19 2026  13:44 PT",
+  "generated_at": "Sunday, July 19 2026  14:51 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64447,
-      "change_pct": -0.19
+      "price": 64334,
+      "change_pct": -0.44
     },
     "ETH": {
-      "price": 1863.74,
-      "change_pct": 0.38
+      "price": 1859.39,
+      "change_pct": 0.15
     },
     "SOL": {
-      "price": 75.96,
-      "change_pct": 0.86
+      "price": 75.79,
+      "change_pct": 0.62
     },
     "BNB": {
-      "price": 568.88,
-      "change_pct": -0.35
+      "price": 568.34,
+      "change_pct": -0.27
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap"
+      "title": "Universal and Christopher Nolan's 'The Odyssey' sails to $124.5 million opening"
     },
     {
       "source": "MarketWatch",
