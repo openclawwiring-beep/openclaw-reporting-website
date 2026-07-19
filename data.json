@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 19 2026  12:40 PT",
+  "generated_at": "Sunday, July 19 2026  13:44 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64387,
-      "change_pct": -0.16
+      "price": 64447,
+      "change_pct": -0.19
     },
     "ETH": {
-      "price": 1859.06,
-      "change_pct": 0.09
+      "price": 1863.74,
+      "change_pct": 0.38
     },
     "SOL": {
-      "price": 75.77,
-      "change_pct": 0.71
+      "price": 75.96,
+      "change_pct": 0.86
     },
     "BNB": {
-      "price": 567.43,
-      "change_pct": -0.52
+      "price": 568.88,
+      "change_pct": -0.35
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. says it targeted Iranian forces after attacks that killed two American service members"
+      "title": "U.S. death toll rises again as Iran war escalates over the weekend"
     },
     {
       "source": "CNBC",
