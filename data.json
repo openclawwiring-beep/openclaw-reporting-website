@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 19 2026  03:53 PT",
+  "generated_at": "Sunday, July 19 2026  04:56 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64573,
-      "change_pct": 0.95
+      "price": 64419,
+      "change_pct": 0.63
     },
     "ETH": {
-      "price": 1872.44,
-      "change_pct": 1.55
+      "price": 1870.22,
+      "change_pct": 1.4
     },
     "SOL": {
-      "price": 76.27,
-      "change_pct": 1.93
+      "price": 76.06,
+      "change_pct": 1.53
     },
     "BNB": {
-      "price": 567.86,
-      "change_pct": -0.2
+      "price": 567.49,
+      "change_pct": -0.38
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?"
+      "title": "\u2018I am at a loss\u2019: My brother is dying. We are not close. What responsibility do I have to help him?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Respect is important\u2019: If my financial adviser said, \u2018Hey,\u2019 my wife and I would walk out. Where do you draw the line?"
+      "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?"
     }
   ]
 }
