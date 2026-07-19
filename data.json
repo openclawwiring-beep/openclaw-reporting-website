@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 19 2026  11:02 PT",
+  "generated_at": "Sunday, July 19 2026  12:40 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64501,
-      "change_pct": 0.11
+      "price": 64387,
+      "change_pct": -0.16
     },
     "ETH": {
-      "price": 1866.12,
-      "change_pct": 0.86
+      "price": 1859.06,
+      "change_pct": 0.09
     },
     "SOL": {
-      "price": 75.92,
-      "change_pct": 0.84
+      "price": 75.77,
+      "change_pct": 0.71
     },
     "BNB": {
-      "price": 567.93,
-      "change_pct": -0.47
+      "price": 567.43,
+      "change_pct": -0.52
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Is there a deadline to claim the $1,000 \u2018Trump account\u2019 contribution for my kid?"
+      "title": "Can the \u2018Magnificent Seven\u2019 save a stock market that might be doomed without them?"
     },
     {
       "source": "MarketWatch",
-      "title": "Can former employers withhold money from your 401(k) when you\u2019re laid off?"
+      "title": "Is there a deadline to claim the $1,000 \u2018Trump account\u2019 contribution for my kid?"
     }
   ]
 }
