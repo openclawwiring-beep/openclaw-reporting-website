@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 19 2026  02:26 PT",
+  "generated_at": "Sunday, July 19 2026  03:53 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64522,
-      "change_pct": 0.96
+      "price": 64573,
+      "change_pct": 0.95
     },
     "ETH": {
-      "price": 1866.99,
-      "change_pct": 1.31
+      "price": 1872.44,
+      "change_pct": 1.55
     },
     "SOL": {
-      "price": 75.94,
-      "change_pct": 1.68
+      "price": 76.27,
+      "change_pct": 1.93
     },
     "BNB": {
-      "price": 567.22,
-      "change_pct": -0.08
+      "price": 567.86,
+      "change_pct": -0.2
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace agreement"
+      "title": "U.S. says it targeted Iranian forces after attacks that killed two American service members"
     },
     {
       "source": "CNBC",
-      "title": "World Cup audience stayed bipartisan despite Trump's prominent role, CNBC survey finds"
+      "title": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned"
     },
     {
       "source": "MarketWatch",
