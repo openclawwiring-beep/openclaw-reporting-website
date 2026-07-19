@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 19 2026  04:56 PT",
+  "generated_at": "Sunday, July 19 2026  06:21 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64419,
-      "change_pct": 0.63
+      "price": 64289,
+      "change_pct": 0.55
     },
     "ETH": {
-      "price": 1870.22,
-      "change_pct": 1.4
+      "price": 1865.85,
+      "change_pct": 1.55
     },
     "SOL": {
-      "price": 76.06,
-      "change_pct": 1.53
+      "price": 75.88,
+      "change_pct": 1.6
     },
     "BNB": {
-      "price": 567.49,
-      "change_pct": -0.38
+      "price": 566.88,
+      "change_pct": -0.34
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned"
+      "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I am at a loss\u2019: My brother is dying. We are not close. What responsibility do I have to help him?"
+      "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?"
     },
     {
       "source": "MarketWatch",
-      "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?"
+      "title": "Can the \u2018Magnificent Seven\u2019 save a stock market that might be doomed without them?"
     }
   ]
 }
