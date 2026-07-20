@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, July 20 2026  14:42 PT",
+  "generated_at": "Monday, July 20 2026  15:59 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4011.8,
-      "change_pct": -0.4
+      "price": 4007.1,
+      "change_pct": -0.51
     },
     "Oil (WTI)": {
-      "price": 82.42,
-      "change_pct": -1.46
+      "price": 82.67,
+      "change_pct": -1.16
     },
     "Silver": {
-      "price": 56.67,
-      "change_pct": -1.1
+      "price": 56.46,
+      "change_pct": -1.46
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65337,
-      "change_pct": 1.57
+      "price": 65090,
+      "change_pct": 0.7
     },
     "ETH": {
-      "price": 1904.03,
-      "change_pct": 2.41
+      "price": 1893.93,
+      "change_pct": 1.34
     },
     "SOL": {
-      "price": 77.9,
-      "change_pct": 2.8
+      "price": 77.4,
+      "change_pct": 1.74
     },
     "BNB": {
-      "price": 571.35,
-      "change_pct": 0.51
+      "price": 569.59,
+      "change_pct": -0.13
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices rise after Trump says Iran will pay for killing U.S. service members"
-    },
-    {
-      "source": "CNBC",
       "title": "Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination"
     },
     {
-      "source": "MarketWatch",
-      "title": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen\u2019s Houthis keeps market on edge"
+      "source": "CNBC",
+      "title": "Oil prices rise after Trump says Iran will pay for killing U.S. service members"
     },
     {
       "source": "MarketWatch",
-      "title": "Lumentum\u2019s stock just got a lot more interesting \u2014 and Barclays has turned bullish"
+      "title": "Why are gasoline prices rising faster than oil prices? Blame it on the \u2018crack.\u2019"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I will claim Social Security early. Why do so few people talk about the elephant in the room?"
     }
   ]
 }
