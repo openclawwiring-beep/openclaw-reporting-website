@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, July 20 2026  09:22 PT",
-  "market_status": "Live \u2014 as of 12:22 ET",
+  "generated_at": "Monday, July 20 2026  11:28 PT",
+  "market_status": "Live \u2014 as of 14:28 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7493.07,
-      "change_pct": 0.47
+      "price": 7471.56,
+      "change_pct": 0.18
     },
     "Nasdaq": {
-      "price": 25753.59,
-      "change_pct": 0.91
+      "price": 25645.32,
+      "change_pct": 0.49
     },
     "Dow Jones": {
-      "price": 52055.36,
-      "change_pct": -0.2
+      "price": 51969.15,
+      "change_pct": -0.36
     },
     "Russell 2000": {
-      "price": 2962.21,
-      "change_pct": 0.02
+      "price": 2961.1,
+      "change_pct": -0.01
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4020.2,
-      "change_pct": -0.19
+      "price": 4015.8,
+      "change_pct": -0.3
     },
     "Oil (WTI)": {
-      "price": 81.42,
-      "change_pct": -2.65
+      "price": 82.12,
+      "change_pct": -1.82
     },
     "Silver": {
-      "price": 57.36,
-      "change_pct": 0.11
+      "price": 57.11,
+      "change_pct": -0.32
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65413,
-      "change_pct": 1.31
+      "price": 65566,
+      "change_pct": 1.84
     },
     "ETH": {
-      "price": 1898.89,
-      "change_pct": 1.53
+      "price": 1907.28,
+      "change_pct": 2.63
     },
     "SOL": {
-      "price": 77.66,
-      "change_pct": 2.05
+      "price": 77.97,
+      "change_pct": 3.19
     },
     "BNB": {
       "price": 573.48,
-      "change_pct": 0.64
+      "change_pct": 1.13
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices turn lower after Iran says U.S. talks could be pursued based on national interests"
+      "title": "Oil prices edge higher after Trump says Iran will pay for killing U.S. service members"
     },
     {
       "source": "CNBC",
-      "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer"
+      "title": "Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani"
     },
     {
       "source": "MarketWatch",
-      "title": "Detecting cyclospora is \u2018notoriously difficult.\u2019 Here\u2019s what the FDA\u2019s apology to Taylor Farms means."
+      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house \u2014 and take the tax hit?"
     },
     {
       "source": "MarketWatch",
-      "title": "Iren\u2019s stock surges as the neocloud lands $2.8 billion worth of new deals"
+      "title": "Tesla investors share their most burning questions ahead of earnings"
     }
   ]
 }
