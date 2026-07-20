@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, July 20 2026  05:15 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, July 20 2026  07:37 PT",
+  "market_status": "Live \u2014 as of 10:37 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7457.69,
-      "change_pct": -1.01
+      "price": 7476.66,
+      "change_pct": 0.25
     },
     "Nasdaq": {
-      "price": 25520.24,
-      "change_pct": -1.4
+      "price": 25657.47,
+      "change_pct": 0.54
     },
     "Dow Jones": {
-      "price": 52146.42,
-      "change_pct": -0.77
+      "price": 51973.75,
+      "change_pct": -0.36
     },
     "Russell 2000": {
-      "price": 2962.22,
-      "change_pct": -0.42
+      "price": 2956.43,
+      "change_pct": -0.17
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4020.3,
-      "change_pct": -0.19
+      "price": 4009.2,
+      "change_pct": -0.46
     },
     "Oil (WTI)": {
-      "price": 81.47,
-      "change_pct": -2.59
+      "price": 81.52,
+      "change_pct": -2.53
     },
     "Silver": {
-      "price": 57.06,
-      "change_pct": -0.42
+      "price": 56.94,
+      "change_pct": -0.62
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64689,
-      "change_pct": 0.59
+      "price": 64359,
+      "change_pct": -0.16
     },
     "ETH": {
-      "price": 1877.98,
-      "change_pct": 0.74
+      "price": 1864.7,
+      "change_pct": -0.43
     },
     "SOL": {
-      "price": 76.8,
-      "change_pct": 1.35
+      "price": 76.24,
+      "change_pct": -0.02
     },
     "BNB": {
-      "price": 569.2,
-      "change_pct": 0.42
+      "price": 566.75,
+      "change_pct": -0.29
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Voters wary of government ownership in companies as Trump administration takes equity stakes"
+      "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices reverse lower, after report of 10-day ceasefire proposal"
+      "title": "SpaceX gave investors intense FOMO. Now the decade\u2019s hottest IPO represents a brutal reality check."
     },
     {
       "source": "MarketWatch",
-      "title": "Scared of the AI trade? Here are three investment themes Goldman Sachs is offering instead."
+      "title": "Can the \u2018Magnificent Seven\u2019 save a stock market that might be doomed without them?"
     }
   ]
 }
