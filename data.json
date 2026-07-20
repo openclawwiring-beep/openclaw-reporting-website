@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 19 2026  16:55 PT",
+  "generated_at": "Sunday, July 19 2026  19:50 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,48 +21,48 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3995.0,
-      "change_pct": -0.59
+      "price": 4015.5,
+      "change_pct": -0.08
     },
     "Oil (WTI)": {
-      "price": 83.94,
-      "change_pct": 2.64
+      "price": 83.64,
+      "change_pct": 2.27
     },
     "Silver": {
-      "price": 56.03,
-      "change_pct": -0.53
+      "price": 57.06,
+      "change_pct": 1.29
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64647,
-      "change_pct": -0.19
+      "price": 64868,
+      "change_pct": 0.11
     },
     "ETH": {
-      "price": 1869.89,
-      "change_pct": 0.52
+      "price": 1879.67,
+      "change_pct": 0.46
     },
     "SOL": {
-      "price": 76.32,
-      "change_pct": 1.15
+      "price": 76.92,
+      "change_pct": 1.18
     },
     "BNB": {
-      "price": 570.27,
-      "change_pct": -0.0
+      "price": 570.71,
+      "change_pct": -0.02
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend,' CFO says"
+      "title": "Brent breaches $90 as Middle East risks mount with U.S-Iran tensions on the rise"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures are little changed after Wall Street suffers losing week: Live updates"
+      "title": "U.S. hits Iran for ninth consecutive night as American casualties mount"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices surge, stock futures flat as fighting between U.S. and Iran intensifies"
+      "title": "Oil prices rise, stock futures flat as fighting between U.S. and Iran intensifies"
     },
     {
       "source": "MarketWatch",
