@@ -1,60 +1,60 @@
 {
-  "generated_at": "Monday, July 20 2026  11:28 PT",
-  "market_status": "Live \u2014 as of 14:28 ET",
+  "generated_at": "Monday, July 20 2026  13:07 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7471.56,
-      "change_pct": 0.18
+      "price": 7443.28,
+      "change_pct": -0.19
     },
     "Nasdaq": {
-      "price": 25645.32,
-      "change_pct": 0.49
+      "price": 25508.07,
+      "change_pct": -0.05
     },
     "Dow Jones": {
-      "price": 51969.15,
-      "change_pct": -0.36
+      "price": 51839.26,
+      "change_pct": -0.59
     },
     "Russell 2000": {
-      "price": 2961.1,
-      "change_pct": -0.01
+      "price": 2948.69,
+      "change_pct": -0.43
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4015.8,
-      "change_pct": -0.3
+      "price": 4010.8,
+      "change_pct": -0.42
     },
     "Oil (WTI)": {
-      "price": 82.12,
-      "change_pct": -1.82
+      "price": 82.49,
+      "change_pct": -1.37
     },
     "Silver": {
-      "price": 57.11,
-      "change_pct": -0.32
+      "price": 56.67,
+      "change_pct": -1.1
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65566,
-      "change_pct": 1.84
+      "price": 65071,
+      "change_pct": 0.97
     },
     "ETH": {
-      "price": 1907.28,
-      "change_pct": 2.63
+      "price": 1897.54,
+      "change_pct": 1.86
     },
     "SOL": {
-      "price": 77.97,
-      "change_pct": 3.19
+      "price": 77.55,
+      "change_pct": 2.19
     },
     "BNB": {
-      "price": 573.48,
-      "change_pct": 1.13
+      "price": 570.74,
+      "change_pct": 0.47
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices edge higher after Trump says Iran will pay for killing U.S. service members"
+      "title": "Oil prices rise after Trump says Iran will pay for killing U.S. service members"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house \u2014 and take the tax hit?"
+      "title": "It\u2019s getting easier for terminally ill people to end their own lives. What to know as laws change."
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla investors share their most burning questions ahead of earnings"
+      "title": "I will claim Social Security early. Why do so few people talk about the elephant in the room?"
     }
   ]
 }
