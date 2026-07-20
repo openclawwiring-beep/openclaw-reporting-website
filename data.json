@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, July 20 2026  13:07 PT",
+  "generated_at": "Monday, July 20 2026  14:42 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,18 +15,18 @@
       "change_pct": -0.59
     },
     "Russell 2000": {
-      "price": 2948.69,
-      "change_pct": -0.43
+      "price": 2942.43,
+      "change_pct": -0.67
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4010.8,
-      "change_pct": -0.42
+      "price": 4011.8,
+      "change_pct": -0.4
     },
     "Oil (WTI)": {
-      "price": 82.49,
-      "change_pct": -1.37
+      "price": 82.42,
+      "change_pct": -1.46
     },
     "Silver": {
       "price": 56.67,
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65071,
-      "change_pct": 0.97
+      "price": 65337,
+      "change_pct": 1.57
     },
     "ETH": {
-      "price": 1897.54,
-      "change_pct": 1.86
+      "price": 1904.03,
+      "change_pct": 2.41
     },
     "SOL": {
-      "price": 77.55,
-      "change_pct": 2.19
+      "price": 77.9,
+      "change_pct": 2.8
     },
     "BNB": {
-      "price": 570.74,
-      "change_pct": 0.47
+      "price": 571.35,
+      "change_pct": 0.51
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani"
+      "title": "Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination"
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s getting easier for terminally ill people to end their own lives. What to know as laws change."
+      "title": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen\u2019s Houthis keeps market on edge"
     },
     {
       "source": "MarketWatch",
-      "title": "I will claim Social Security early. Why do so few people talk about the elephant in the room?"
+      "title": "Lumentum\u2019s stock just got a lot more interesting \u2014 and Barclays has turned bullish"
     }
   ]
 }
