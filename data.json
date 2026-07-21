@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, July 20 2026  23:26 PT",
+  "generated_at": "Tuesday, July 21 2026  02:09 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4075.8,
-      "change_pct": 0.79
+      "price": 4067.1,
+      "change_pct": 0.4
     },
     "Oil (WTI)": {
-      "price": 82.02,
-      "change_pct": -0.42
+      "price": 82.15,
+      "change_pct": -0.05
     },
     "Silver": {
-      "price": 58.79,
-      "change_pct": 1.49
+      "price": 59.24,
+      "change_pct": 1.95
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65743,
-      "change_pct": 2.59
+      "price": 66155,
+      "change_pct": 3.41
     },
     "ETH": {
-      "price": 1931.49,
-      "change_pct": 4.09
+      "price": 1937.64,
+      "change_pct": 4.3
     },
     "SOL": {
-      "price": 78.33,
-      "change_pct": 3.19
+      "price": 78.17,
+      "change_pct": 2.79
     },
     "BNB": {
-      "price": 575.75,
-      "change_pct": 1.95
+      "price": 577.19,
+      "change_pct": 2.23
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran War update: Five things to know after the resumption of hostilities"
+      "title": "U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire"
     },
     {
       "source": "CNBC",
-      "title": "Ships shun Strait of Hormuz as renewed fighting strains key oil corridor"
+      "title": "Iran War update: Five things to know after the resumption of hostilities"
     },
     {
       "source": "MarketWatch",
-      "title": "Your healthcare could now cost $185,500 in retirement \u2014 and that doesn\u2019t include long-term care"
+      "title": "Montana home of Kelly Clarkson\u2019s late ex-husband\u00a0Brandon Blackstock listed for $2.9 million"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. hits Canada with stiff new tariffs, escalating trade tensions"
+      "title": "Oil prices could surpass $120 per barrel if disruptions in Strait of Hormuz don\u2019t ease, says Goldman Sachs"
     }
   ]
 }
