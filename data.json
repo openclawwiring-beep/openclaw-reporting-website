@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, July 21 2026  05:51 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, July 21 2026  08:02 PT",
+  "market_status": "Live \u2014 as of 11:02 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7443.28,
-      "change_pct": -0.19
+      "price": 7487.37,
+      "change_pct": 0.59
     },
     "Nasdaq": {
-      "price": 25508.07,
-      "change_pct": -0.05
+      "price": 25767.76,
+      "change_pct": 1.02
     },
     "Dow Jones": {
-      "price": 51839.26,
-      "change_pct": -0.59
+      "price": 52097.73,
+      "change_pct": 0.5
     },
     "Russell 2000": {
-      "price": 2942.43,
-      "change_pct": -0.67
+      "price": 2966.12,
+      "change_pct": 0.81
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4059.4,
-      "change_pct": 0.21
+      "price": 4074.3,
+      "change_pct": 0.58
     },
     "Oil (WTI)": {
-      "price": 84.13,
-      "change_pct": 2.36
+      "price": 84.45,
+      "change_pct": 2.75
     },
     "Silver": {
-      "price": 59.28,
-      "change_pct": 2.02
+      "price": 59.33,
+      "change_pct": 2.11
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66486,
-      "change_pct": 2.9
+      "price": 66766,
+      "change_pct": 3.52
     },
     "ETH": {
-      "price": 1940.98,
-      "change_pct": 3.69
+      "price": 1930.11,
+      "change_pct": 3.15
     },
     "SOL": {
-      "price": 78.4,
+      "price": 77.95,
       "change_pct": 2.19
     },
     "BNB": {
-      "price": 577.39,
-      "change_pct": 1.49
+      "price": 575.33,
+      "change_pct": 1.27
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire"
+      "title": "SpaceX sets earnings date, triggering first lock-up expiration for millions of shares"
     },
     {
       "source": "CNBC",
-      "title": "Novo Nordisk sues Eli Lilly, alleging misleading GLP-1 advertising"
+      "title": "Greer hints new Trump tariffs coming on dozens of countries: 'Expect action soon'"
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s getting easier for terminally ill people to end their own lives. What to know as laws change."
+      "title": "Why Paramount could win if it loses the Warner Bros. Discovery deal"
     },
     {
       "source": "MarketWatch",
-      "title": "Your healthcare could now cost $185,500 in retirement \u2014 and that doesn\u2019t include long-term care"
+      "title": "Tesla earnings are on deck, and investors will be looking to settle this major debate"
     }
   ]
 }
