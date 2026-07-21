@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, July 21 2026  09:54 PT",
-  "market_status": "Live \u2014 as of 12:54 ET",
+  "generated_at": "Tuesday, July 21 2026  11:15 PT",
+  "market_status": "Live \u2014 as of 14:15 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7513.87,
-      "change_pct": 0.95
+      "price": 7507.52,
+      "change_pct": 0.86
     },
     "Nasdaq": {
-      "price": 25860.61,
+      "price": 25858.98,
       "change_pct": 1.38
     },
     "Dow Jones": {
-      "price": 52352.64,
-      "change_pct": 0.99
+      "price": 52200.52,
+      "change_pct": 0.7
     },
     "Russell 2000": {
-      "price": 2979.93,
-      "change_pct": 1.28
+      "price": 2981.24,
+      "change_pct": 1.32
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4076.2,
-      "change_pct": 0.62
+      "price": 4072.5,
+      "change_pct": 0.53
     },
     "Oil (WTI)": {
-      "price": 84.46,
-      "change_pct": 2.76
+      "price": 84.19,
+      "change_pct": 2.43
     },
     "Silver": {
-      "price": 59.21,
-      "change_pct": 1.9
+      "price": 59.06,
+      "change_pct": 1.63
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66496,
-      "change_pct": 1.68
+      "price": 66257,
+      "change_pct": 0.85
     },
     "ETH": {
-      "price": 1924.94,
-      "change_pct": 1.46
+      "price": 1920.03,
+      "change_pct": 0.35
     },
     "SOL": {
-      "price": 78.09,
-      "change_pct": 0.58
+      "price": 77.8,
+      "change_pct": -0.14
     },
     "BNB": {
-      "price": 574.21,
-      "change_pct": 0.31
+      "price": 572.94,
+      "change_pct": -0.24
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX\u2019s stock looks to snap brutal losing streak as it heads for one of its best days yet"
+      "title": "Your healthcare could now cost $185,500 in retirement \u2014 and that doesn\u2019t include long-term care"
     },
     {
       "source": "MarketWatch",
-      "title": "Microsoft has 3 secret weapons that could drive its stock 50% higher, analyst says"
+      "title": "Oil prices may fall, but gasoline prices won\u2019t. Look at the trap we\u2019re in."
     }
   ]
 }
