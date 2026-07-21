@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, July 21 2026  08:02 PT",
-  "market_status": "Live \u2014 as of 11:02 ET",
+  "generated_at": "Tuesday, July 21 2026  09:54 PT",
+  "market_status": "Live \u2014 as of 12:54 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7487.37,
-      "change_pct": 0.59
+      "price": 7513.87,
+      "change_pct": 0.95
     },
     "Nasdaq": {
-      "price": 25767.76,
-      "change_pct": 1.02
+      "price": 25860.61,
+      "change_pct": 1.38
     },
     "Dow Jones": {
-      "price": 52097.73,
-      "change_pct": 0.5
+      "price": 52352.64,
+      "change_pct": 0.99
     },
     "Russell 2000": {
-      "price": 2966.12,
-      "change_pct": 0.81
+      "price": 2979.93,
+      "change_pct": 1.28
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4074.3,
-      "change_pct": 0.58
+      "price": 4076.2,
+      "change_pct": 0.62
     },
     "Oil (WTI)": {
-      "price": 84.45,
-      "change_pct": 2.75
+      "price": 84.46,
+      "change_pct": 2.76
     },
     "Silver": {
-      "price": 59.33,
-      "change_pct": 2.11
+      "price": 59.21,
+      "change_pct": 1.9
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66766,
-      "change_pct": 3.52
+      "price": 66496,
+      "change_pct": 1.68
     },
     "ETH": {
-      "price": 1930.11,
-      "change_pct": 3.15
+      "price": 1924.94,
+      "change_pct": 1.46
     },
     "SOL": {
-      "price": 77.95,
-      "change_pct": 2.19
+      "price": 78.09,
+      "change_pct": 0.58
     },
     "BNB": {
-      "price": 575.33,
-      "change_pct": 1.27
+      "price": 574.21,
+      "change_pct": 0.31
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why Paramount could win if it loses the Warner Bros. Discovery deal"
+      "title": "SpaceX\u2019s stock looks to snap brutal losing streak as it heads for one of its best days yet"
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla earnings are on deck, and investors will be looking to settle this major debate"
+      "title": "Microsoft has 3 secret weapons that could drive its stock 50% higher, analyst says"
     }
   ]
 }
