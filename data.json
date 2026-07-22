@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, July 21 2026  21:22 PT",
+  "generated_at": "Wednesday, July 22 2026  00:09 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4132.0,
-      "change_pct": 2.0
+      "price": 4119.6,
+      "change_pct": -0.38
     },
     "Oil (WTI)": {
-      "price": 85.29,
-      "change_pct": 3.77
+      "price": 86.22,
+      "change_pct": 1.07
     },
     "Silver": {
-      "price": 60.01,
-      "change_pct": 3.29
+      "price": 59.57,
+      "change_pct": -0.83
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66314,
-      "change_pct": 1.19
+      "price": 65865,
+      "change_pct": 0.05
     },
     "ETH": {
-      "price": 1933.45,
-      "change_pct": 0.54
+      "price": 1915.69,
+      "change_pct": -0.9
     },
     "SOL": {
-      "price": 78.06,
-      "change_pct": -0.0
+      "price": 77.2,
+      "change_pct": -1.76
     },
     "BNB": {
-      "price": 571.09,
-      "change_pct": -0.52
+      "price": 567.48,
+      "change_pct": -1.38
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump plans steep tariffs on generic drugs starting in 2028 to spur U.S. production"
+      "title": "Tehran's Hormuz threat risks global fallout, Rubio warns as U.S. strikes Iran for 11th straight night"
     },
     {
       "source": "CNBC",
-      "title": "Wistron shares surge in Taiwan after opening of Texas AI superchip plant to supply Nvidia"
+      "title": "Trump's push for American-made AI chips hits TSMC's margins"
     },
     {
       "source": "MarketWatch",
