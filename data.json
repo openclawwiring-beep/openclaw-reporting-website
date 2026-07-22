@@ -1,60 +1,60 @@
 {
-  "generated_at": "Wednesday, July 22 2026  04:51 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, July 22 2026  06:49 PT",
+  "market_status": "Live \u2014 as of 09:49 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7509.2,
-      "change_pct": 0.89
+      "price": 7503.85,
+      "change_pct": -0.05
     },
     "Nasdaq": {
-      "price": 25837.21,
-      "change_pct": 1.29
+      "price": 25728.13,
+      "change_pct": -0.42
     },
     "Dow Jones": {
-      "price": 52224.64,
-      "change_pct": 0.74
+      "price": 52372.74,
+      "change_pct": 0.29
     },
     "Russell 2000": {
-      "price": 2987.4,
-      "change_pct": 1.53
+      "price": 2982.94,
+      "change_pct": -0.13
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4119.9,
-      "change_pct": -0.38
+      "price": 4149.1,
+      "change_pct": 0.33
     },
     "Oil (WTI)": {
-      "price": 87.56,
-      "change_pct": 2.64
+      "price": 86.25,
+      "change_pct": 1.1
     },
     "Silver": {
-      "price": 59.53,
-      "change_pct": -0.9
+      "price": 60.17,
+      "change_pct": 0.17
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65985,
-      "change_pct": -0.47
+      "price": 65863,
+      "change_pct": -0.85
     },
     "ETH": {
-      "price": 1925.71,
-      "change_pct": -0.48
+      "price": 1937.29,
+      "change_pct": 0.45
     },
     "SOL": {
-      "price": 77.54,
-      "change_pct": -1.0
+      "price": 77.78,
+      "change_pct": -0.59
     },
     "BNB": {
-      "price": 570.58,
-      "change_pct": -0.97
+      "price": 571.92,
+      "change_pct": -0.73
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Brent oil price hovers near $95 as Rubio says U.S. will 'continue to protect shipping' after strikes on Iran"
+      "title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Do I use $300,000 of my $1.2 million retirement savings so my daughter can attend her dream college?"
+      "title": "AT&T\u2019s stock rises after earnings. Here\u2019s why investors are cheering."
     },
     {
       "source": "MarketWatch",
-      "title": "Bond-market weakness makes a strong investment case for this unloved sector, strategist says"
+      "title": "Artificial intelligence will drive an unprecedented natural-gas deficit, this investor warns. Here are the stocks to buy before the crunch."
     }
   ]
 }
