@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, July 22 2026  06:49 PT",
-  "market_status": "Live \u2014 as of 09:49 ET",
+  "generated_at": "Wednesday, July 22 2026  08:40 PT",
+  "market_status": "Live \u2014 as of 11:40 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7503.85,
-      "change_pct": -0.05
+      "price": 7515.84,
+      "change_pct": 0.11
     },
     "Nasdaq": {
-      "price": 25728.13,
-      "change_pct": -0.42
+      "price": 25802.03,
+      "change_pct": -0.14
     },
     "Dow Jones": {
-      "price": 52372.74,
-      "change_pct": 0.29
+      "price": 52377.87,
+      "change_pct": 0.3
     },
     "Russell 2000": {
-      "price": 2982.94,
-      "change_pct": -0.13
+      "price": 2970.31,
+      "change_pct": -0.55
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4149.1,
-      "change_pct": 0.33
+      "price": 4161.6,
+      "change_pct": 0.63
     },
     "Oil (WTI)": {
-      "price": 86.25,
-      "change_pct": 1.1
+      "price": 86.83,
+      "change_pct": 1.78
     },
     "Silver": {
-      "price": 60.17,
-      "change_pct": 0.17
+      "price": 60.61,
+      "change_pct": 0.9
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65863,
-      "change_pct": -0.85
+      "price": 65950,
+      "change_pct": -0.95
     },
     "ETH": {
-      "price": 1937.29,
-      "change_pct": 0.45
+      "price": 1941.73,
+      "change_pct": 0.78
     },
     "SOL": {
-      "price": 77.78,
-      "change_pct": -0.59
+      "price": 78.52,
+      "change_pct": 0.74
     },
     "BNB": {
-      "price": 571.92,
-      "change_pct": -0.73
+      "price": 572.06,
+      "change_pct": -0.51
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "AT&T\u2019s stock rises after earnings. Here\u2019s why investors are cheering."
+      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?"
     },
     {
       "source": "MarketWatch",
-      "title": "Artificial intelligence will drive an unprecedented natural-gas deficit, this investor warns. Here are the stocks to buy before the crunch."
+      "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market."
     }
   ]
 }
