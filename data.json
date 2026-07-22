@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 22 2026  13:10 PT",
+  "generated_at": "Wednesday, July 22 2026  14:36 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,58 +15,58 @@
       "change_pct": -0.01
     },
     "Russell 2000": {
-      "price": 2957.96,
-      "change_pct": -0.97
+      "price": 2959.94,
+      "change_pct": -0.92
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4136.1,
-      "change_pct": 0.01
+      "price": 4135.0,
+      "change_pct": -0.01
     },
     "Oil (WTI)": {
       "price": 86.48,
       "change_pct": 1.37
     },
     "Silver": {
-      "price": 59.99,
-      "change_pct": -0.12
+      "price": 60.03,
+      "change_pct": -0.06
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65797,
-      "change_pct": -0.9
+      "price": 65895,
+      "change_pct": -0.62
     },
     "ETH": {
-      "price": 1924.89,
-      "change_pct": 0.19
+      "price": 1927.55,
+      "change_pct": 0.14
     },
     "SOL": {
-      "price": 77.65,
-      "change_pct": -0.24
+      "price": 77.77,
+      "change_pct": -0.25
     },
     "BNB": {
-      "price": 569.67,
-      "change_pct": -0.5
+      "price": 570.67,
+      "change_pct": -0.48
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says"
+      "title": "Alphabet earnings updates: Stock sinks during analyst call as company hikes 2026 capex"
     },
     {
       "source": "CNBC",
-      "title": "Alphabet earnings are out, here are the numbers: Live updates"
+      "title": "Tesla misses on earnings, as free cash flow turns negative and margins slide"
     },
     {
       "source": "MarketWatch",
-      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house \u2014 and take the tax hit?"
+      "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Owning a pet has become a luxury\u2019 \u2014 vets worry about higher prices and shrinking pet population, survey finds"
+      "title": "IBM just cut its outlook. Why its stock is bouncing higher anyway."
     }
   ]
 }
