@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, July 21 2026  17:58 PT",
+  "generated_at": "Tuesday, July 21 2026  21:22 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4101.0,
-      "change_pct": 1.24
+      "price": 4132.0,
+      "change_pct": 2.0
     },
     "Oil (WTI)": {
-      "price": 84.66,
-      "change_pct": 3.01
+      "price": 85.29,
+      "change_pct": 3.77
     },
     "Silver": {
-      "price": 59.34,
-      "change_pct": 2.13
+      "price": 60.01,
+      "change_pct": 3.29
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66613,
-      "change_pct": 1.67
+      "price": 66314,
+      "change_pct": 1.19
     },
     "ETH": {
-      "price": 1938.12,
-      "change_pct": 1.27
+      "price": 1933.45,
+      "change_pct": 0.54
     },
     "SOL": {
-      "price": 78.42,
-      "change_pct": 0.43
+      "price": 78.06,
+      "change_pct": -0.0
     },
     "BNB": {
-      "price": 574.47,
-      "change_pct": 0.24
+      "price": 571.09,
+      "change_pct": -0.52
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement"
+      "title": "Trump plans steep tariffs on generic drugs starting in 2028 to spur U.S. production"
     },
     {
       "source": "CNBC",
-      "title": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe"
+      "title": "Wistron shares surge in Taiwan after opening of Texas AI superchip plant to supply Nvidia"
     },
     {
       "source": "MarketWatch",
