@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 22 2026  00:09 PT",
+  "generated_at": "Wednesday, July 22 2026  02:57 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4119.6,
-      "change_pct": -0.38
+      "price": 4121.4,
+      "change_pct": -0.34
     },
     "Oil (WTI)": {
-      "price": 86.22,
-      "change_pct": 1.07
+      "price": 88.16,
+      "change_pct": 3.34
     },
     "Silver": {
-      "price": 59.57,
-      "change_pct": -0.83
+      "price": 59.81,
+      "change_pct": -0.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65865,
-      "change_pct": 0.05
+      "price": 65845,
+      "change_pct": -0.6
     },
     "ETH": {
-      "price": 1915.69,
-      "change_pct": -0.9
+      "price": 1921.22,
+      "change_pct": -0.99
     },
     "SOL": {
-      "price": 77.2,
-      "change_pct": -1.76
+      "price": 77.38,
+      "change_pct": -1.32
     },
     "BNB": {
-      "price": 567.48,
-      "change_pct": -1.38
+      "price": 569.66,
+      "change_pct": -1.6
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Tehran's Hormuz threat risks global fallout, Rubio warns as U.S. strikes Iran for 11th straight night"
+      "title": "Oil prices jump 4% as Rubio says Iran 'not serious' about peace talks"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Super Micro\u2019s stock soars as its margins unexpectedly double"
+      "title": "Goldman Sachs and Morgan Stanley had a monster quarter. Analysts say these giants could be next."
     },
     {
       "source": "MarketWatch",
-      "title": "This is the ideal retirement strategy if you want to keep your healthcare costs down"
+      "title": "I have children from my first marriage. Should my second husband inherit my house if I die?"
     }
   ]
 }
