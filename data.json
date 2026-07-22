@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, July 21 2026  16:28 PT",
+  "generated_at": "Tuesday, July 21 2026  17:58 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4086.3,
-      "change_pct": 0.87
+      "price": 4101.0,
+      "change_pct": 1.24
     },
     "Oil (WTI)": {
-      "price": 84.7,
-      "change_pct": 3.05
+      "price": 84.66,
+      "change_pct": 3.01
     },
     "Silver": {
-      "price": 59.09,
-      "change_pct": 1.7
+      "price": 59.34,
+      "change_pct": 2.13
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66314,
-      "change_pct": 1.73
+      "price": 66613,
+      "change_pct": 1.67
     },
     "ETH": {
-      "price": 1919.95,
-      "change_pct": 0.96
+      "price": 1938.12,
+      "change_pct": 1.27
     },
     "SOL": {
-      "price": 77.82,
-      "change_pct": 0.2
+      "price": 78.42,
+      "change_pct": 0.43
     },
     "BNB": {
-      "price": 572.19,
-      "change_pct": 0.31
+      "price": 574.47,
+      "change_pct": 0.24
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s how to time your retirement to keep your healthcare costs down"
+      "title": "Super Micro\u2019s stock soars as its margins unexpectedly double"
     },
     {
       "source": "MarketWatch",
-      "title": "Super Micro\u2019s stock soars as its margins unexpectedly double"
+      "title": "This is the ideal retirement strategy if you want to keep your healthcare costs down"
     }
   ]
 }
