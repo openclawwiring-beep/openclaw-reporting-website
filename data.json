@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, July 22 2026  11:40 PT",
-  "market_status": "Live \u2014 as of 14:40 ET",
+  "generated_at": "Wednesday, July 22 2026  13:10 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7509.04,
-      "change_pct": 0.02
+      "price": 7498.96,
+      "change_pct": -0.14
     },
     "Nasdaq": {
-      "price": 25748.07,
-      "change_pct": -0.34
+      "price": 25690.9,
+      "change_pct": -0.57
     },
     "Dow Jones": {
-      "price": 52295.7,
-      "change_pct": 0.14
+      "price": 52218.58,
+      "change_pct": -0.01
     },
     "Russell 2000": {
-      "price": 2962.9,
-      "change_pct": -0.8
+      "price": 2957.96,
+      "change_pct": -0.97
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4140.7,
-      "change_pct": 0.13
+      "price": 4136.1,
+      "change_pct": 0.01
     },
     "Oil (WTI)": {
-      "price": 86.93,
-      "change_pct": 1.9
+      "price": 86.48,
+      "change_pct": 1.37
     },
     "Silver": {
-      "price": 60.2,
-      "change_pct": 0.22
+      "price": 59.99,
+      "change_pct": -0.12
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65719,
-      "change_pct": -0.79
+      "price": 65797,
+      "change_pct": -0.9
     },
     "ETH": {
-      "price": 1923.89,
-      "change_pct": 0.21
+      "price": 1924.89,
+      "change_pct": 0.19
     },
     "SOL": {
-      "price": 77.52,
-      "change_pct": -0.44
+      "price": 77.65,
+      "change_pct": -0.24
     },
     "BNB": {
-      "price": 569.66,
-      "change_pct": -0.58
+      "price": 569.67,
+      "change_pct": -0.5
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "OpenAI cyber models broke out of training environment to hack Hugging Face"
+      "title": "Alphabet earnings are out, here are the numbers: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "This \u2018intrinsic value\u2019 small-cap stock strategy keeps benefiting from deep research"
+      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house \u2014 and take the tax hit?"
     },
     {
       "source": "MarketWatch",
-      "title": "Americans are skipping lettuce and salads as investigation into cyclospora outbreak continues"
+      "title": "\u2018Owning a pet has become a luxury\u2019 \u2014 vets worry about higher prices and shrinking pet population, survey finds"
     }
   ]
 }
