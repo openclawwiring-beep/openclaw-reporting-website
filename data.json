@@ -1,60 +1,60 @@
 {
-  "generated_at": "Thursday, July 23 2026  11:45 PT",
-  "market_status": "Live \u2014 as of 14:45 ET",
+  "generated_at": "Thursday, July 23 2026  13:10 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7395.03,
-      "change_pct": -1.39
+      "price": 7408.3,
+      "change_pct": -1.21
     },
     "Nasdaq": {
-      "price": 25088.32,
-      "change_pct": -2.35
+      "price": 25137.69,
+      "change_pct": -2.15
     },
     "Dow Jones": {
-      "price": 51653.19,
-      "change_pct": -1.1
+      "price": 51711.65,
+      "change_pct": -0.97
     },
     "Russell 2000": {
-      "price": 2931.9,
-      "change_pct": -0.96
+      "price": 2935.99,
+      "change_pct": -0.83
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4047.0,
-      "change_pct": -1.95
+      "price": 4052.6,
+      "change_pct": -1.82
     },
     "Oil (WTI)": {
-      "price": 92.12,
-      "change_pct": 4.1
+      "price": 91.47,
+      "change_pct": 3.37
     },
     "Silver": {
-      "price": 57.83,
-      "change_pct": -3.69
+      "price": 57.92,
+      "change_pct": -3.55
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64754,
-      "change_pct": -1.5
+      "price": 64985,
+      "change_pct": -1.22
     },
     "ETH": {
-      "price": 1878.01,
-      "change_pct": -2.44
+      "price": 1881.24,
+      "change_pct": -2.29
     },
     "SOL": {
-      "price": 75.6,
-      "change_pct": -2.43
+      "price": 75.95,
+      "change_pct": -2.24
     },
     "BNB": {
-      "price": 566.33,
-      "change_pct": -0.59
+      "price": 567.31,
+      "change_pct": -0.44
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'"
+      "title": "Dow drops 500 points as Brent crude surges above $100; Alphabet and Tesla tank: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?"
+      "title": "A \u2018generational buying opportunity\u2019 guarantees inflation plus 3% a year, says this hedge-fund manager"
     },
     {
       "source": "MarketWatch",
-      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?"
+      "title": "Imax\u2019s CEO says it\u2019s time to hike prices as tickets to \u2018The Odyssey\u2019 resell for $1,000"
     }
   ]
 }
