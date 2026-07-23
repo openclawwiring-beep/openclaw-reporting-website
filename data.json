@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 23 2026  13:10 PT",
+  "generated_at": "Thursday, July 23 2026  14:34 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,58 +15,58 @@
       "change_pct": -0.97
     },
     "Russell 2000": {
-      "price": 2935.99,
-      "change_pct": -0.83
+      "price": 2940.16,
+      "change_pct": -0.67
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4052.6,
+      "price": 4052.3,
       "change_pct": -1.82
     },
     "Oil (WTI)": {
-      "price": 91.47,
-      "change_pct": 3.37
+      "price": 92.36,
+      "change_pct": 4.37
     },
     "Silver": {
-      "price": 57.92,
-      "change_pct": -3.55
+      "price": 57.9,
+      "change_pct": -3.58
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64985,
-      "change_pct": -1.22
+      "price": 65059,
+      "change_pct": -1.27
     },
     "ETH": {
-      "price": 1881.24,
-      "change_pct": -2.29
+      "price": 1882.06,
+      "change_pct": -2.36
     },
     "SOL": {
-      "price": 75.95,
-      "change_pct": -2.24
+      "price": 76.0,
+      "change_pct": -2.34
     },
     "BNB": {
-      "price": 567.31,
-      "change_pct": -0.44
+      "price": 566.94,
+      "change_pct": -0.65
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow drops 500 points as Brent crude surges above $100; Alphabet and Tesla tank: Live updates"
+      "title": "Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire"
     },
     {
       "source": "CNBC",
-      "title": "Congress splits on war powers resolutions to force Trump to abandon Iran war"
+      "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years"
     },
     {
       "source": "MarketWatch",
-      "title": "A \u2018generational buying opportunity\u2019 guarantees inflation plus 3% a year, says this hedge-fund manager"
+      "title": "Trump rolls out a new wave of tariffs. Here are the latest rates."
     },
     {
       "source": "MarketWatch",
-      "title": "Imax\u2019s CEO says it\u2019s time to hike prices as tickets to \u2018The Odyssey\u2019 resell for $1,000"
+      "title": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student"
     }
   ]
 }
