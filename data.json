@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 22 2026  21:23 PT",
+  "generated_at": "Thursday, July 23 2026  00:05 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4128.9,
-      "change_pct": 0.03
+      "price": 4122.9,
+      "change_pct": -0.11
     },
     "Oil (WTI)": {
-      "price": 88.37,
-      "change_pct": 0.56
+      "price": 88.72,
+      "change_pct": 0.26
     },
     "Silver": {
-      "price": 60.1,
-      "change_pct": 0.33
+      "price": 59.79,
+      "change_pct": -0.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65646,
-      "change_pct": -1.04
+      "price": 65694,
+      "change_pct": -0.32
     },
     "ETH": {
-      "price": 1921.85,
-      "change_pct": -0.67
+      "price": 1922.23,
+      "change_pct": 0.25
     },
     "SOL": {
-      "price": 77.64,
-      "change_pct": -0.63
+      "price": 77.46,
+      "change_pct": 0.27
     },
     "BNB": {
-      "price": 569.77,
-      "change_pct": -0.26
+      "price": 569.78,
+      "change_pct": 0.36
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth"
+      "title": "Houthis claim strikes on Saudi Arabian oil tankers in Red Sea as Iran conflict expands"
     },
     {
       "source": "CNBC",
-      "title": "Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats"
+      "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth"
     },
     {
       "source": "MarketWatch",
