@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, July 23 2026  08:54 PT",
-  "market_status": "Live \u2014 as of 11:54 ET",
+  "generated_at": "Thursday, July 23 2026  10:21 PT",
+  "market_status": "Live \u2014 as of 13:21 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7394.26,
-      "change_pct": -1.4
+      "price": 7411.93,
+      "change_pct": -1.17
     },
     "Nasdaq": {
-      "price": 25060.71,
-      "change_pct": -2.45
+      "price": 25169.67,
+      "change_pct": -2.03
     },
     "Dow Jones": {
-      "price": 51662.79,
-      "change_pct": -1.08
+      "price": 51743.97,
+      "change_pct": -0.92
     },
     "Russell 2000": {
-      "price": 2929.59,
-      "change_pct": -1.04
+      "price": 2936.04,
+      "change_pct": -0.82
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4053.1,
-      "change_pct": -1.8
+      "price": 4051.1,
+      "change_pct": -1.85
     },
     "Oil (WTI)": {
-      "price": 92.12,
-      "change_pct": 4.1
+      "price": 92.43,
+      "change_pct": 4.45
     },
     "Silver": {
-      "price": 57.84,
-      "change_pct": -3.67
+      "price": 58.07,
+      "change_pct": -3.29
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64946,
-      "change_pct": -1.58
+      "price": 64705,
+      "change_pct": -2.02
     },
     "ETH": {
-      "price": 1893.04,
-      "change_pct": -2.58
+      "price": 1886.48,
+      "change_pct": -2.85
     },
     "SOL": {
-      "price": 76.35,
-      "change_pct": -2.68
+      "price": 75.89,
+      "change_pct": -3.25
     },
     "BNB": {
-      "price": 567.09,
-      "change_pct": -0.86
+      "price": 566.55,
+      "change_pct": -1.26
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow tumbles 600 points as Brent crude tops $100, Alphabet and Tesla drop: Live updates"
+      "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'"
     },
     {
       "source": "CNBC",
-      "title": "Trump says Saudi nuclear deal contingent on relations with Israel, does not include enrichment"
+      "title": "Congress splits on war powers resolutions to force Trump to abandon Iran war"
     },
     {
       "source": "MarketWatch",
-      "title": "Surging IPO activity is one of the four\u00a0horsemen of a market bubble, according to this portfolio manager"
+      "title": "I am a 63-year-old semiretired physician. If I have saved $2 million for retirement, should Social Security be optional?"
     },
     {
       "source": "MarketWatch",
-      "title": "Why ServiceNow\u2019s stock is a rare bright spot while the rest of tech stumbles"
+      "title": "Most FDA advisers say the BPC-157 peptide should be made available in the U.S. Here\u2019s what happens next."
     }
   ]
 }
