@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 23 2026  02:56 PT",
+  "generated_at": "Thursday, July 23 2026  04:51 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4096.3,
-      "change_pct": -0.76
+      "price": 4077.4,
+      "change_pct": -1.22
     },
     "Oil (WTI)": {
-      "price": 90.05,
-      "change_pct": 1.76
+      "price": 91.04,
+      "change_pct": 2.88
     },
     "Silver": {
-      "price": 59.15,
-      "change_pct": -1.48
+      "price": 58.47,
+      "change_pct": -2.63
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65658,
-      "change_pct": -0.28
+      "price": 65535,
+      "change_pct": -0.68
     },
     "ETH": {
-      "price": 1926.29,
-      "change_pct": 0.29
+      "price": 1925.34,
+      "change_pct": -0.03
     },
     "SOL": {
-      "price": 77.53,
-      "change_pct": 0.14
+      "price": 77.62,
+      "change_pct": 0.09
     },
     "BNB": {
-      "price": 569.06,
-      "change_pct": -0.09
+      "price": 570.0,
+      "change_pct": -0.11
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Houthis claim strikes on Saudi Arabian oil tankers as Rubio says Iran not ready to make a deal"
+      "title": "Houthis claim strikes on Saudi oil tankers as Rubio says Iran not ready to make a deal"
     },
     {
       "source": "MarketWatch",
-      "title": "Why beat-and-raise earnings reports are no longer enough to push the stock market higher"
+      "title": "Oil nears $100 a barrel after Houthis claim strikes on Saudi Arabian tankers"
     },
     {
       "source": "MarketWatch",
-      "title": "Surging IPO activity is one of the four\u00a0horsemen of a market bubble, according to this portfolio manager"
+      "title": "The U.S. premium for SK Hynix is set to stay after Korean regulatory ruling"
     }
   ]
 }
