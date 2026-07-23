@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 23 2026  00:05 PT",
+  "generated_at": "Thursday, July 23 2026  02:56 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4122.9,
-      "change_pct": -0.11
+      "price": 4096.3,
+      "change_pct": -0.76
     },
     "Oil (WTI)": {
-      "price": 88.72,
-      "change_pct": 0.26
+      "price": 90.05,
+      "change_pct": 1.76
     },
     "Silver": {
-      "price": 59.79,
-      "change_pct": -0.42
+      "price": 59.15,
+      "change_pct": -1.48
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65694,
-      "change_pct": -0.32
+      "price": 65658,
+      "change_pct": -0.28
     },
     "ETH": {
-      "price": 1922.23,
-      "change_pct": 0.25
+      "price": 1926.29,
+      "change_pct": 0.29
     },
     "SOL": {
-      "price": 77.46,
-      "change_pct": 0.27
+      "price": 77.53,
+      "change_pct": 0.14
     },
     "BNB": {
-      "price": 569.78,
-      "change_pct": 0.36
+      "price": 569.06,
+      "change_pct": -0.09
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Houthis claim strikes on Saudi Arabian oil tankers in Red Sea as Iran conflict expands"
-    },
-    {
-      "source": "CNBC",
       "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth"
     },
     {
-      "source": "MarketWatch",
-      "title": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies"
+      "source": "CNBC",
+      "title": "Houthis claim strikes on Saudi Arabian oil tankers as Rubio says Iran not ready to make a deal"
     },
     {
       "source": "MarketWatch",
-      "title": "ServiceNow\u2019s stock rises as earnings show momentum in cybersecurity"
+      "title": "Why beat-and-raise earnings reports are no longer enough to push the stock market higher"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Surging IPO activity is one of the four\u00a0horsemen of a market bubble, according to this portfolio manager"
     }
   ]
 }
