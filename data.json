@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 22 2026  18:00 PT",
+  "generated_at": "Wednesday, July 22 2026  21:23 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4130.3,
-      "change_pct": -0.13
+      "price": 4128.9,
+      "change_pct": 0.03
     },
     "Oil (WTI)": {
-      "price": 88.08,
-      "change_pct": 3.25
+      "price": 88.37,
+      "change_pct": 0.56
     },
     "Silver": {
-      "price": 59.99,
-      "change_pct": -0.14
+      "price": 60.1,
+      "change_pct": 0.33
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66027,
-      "change_pct": -0.89
+      "price": 65646,
+      "change_pct": -1.04
     },
     "ETH": {
-      "price": 1932.12,
-      "change_pct": -0.31
+      "price": 1921.85,
+      "change_pct": -0.67
     },
     "SOL": {
-      "price": 78.26,
-      "change_pct": -0.21
+      "price": 77.64,
+      "change_pct": -0.63
     },
     "BNB": {
-      "price": 571.32,
-      "change_pct": -0.56
+      "price": 569.77,
+      "change_pct": -0.26
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike"
+      "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth"
     },
     {
       "source": "CNBC",
-      "title": "Tesla misses on earnings, as free cash flow turns negative and margins slide"
+      "title": "Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats"
     },
     {
       "source": "MarketWatch",
