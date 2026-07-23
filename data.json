@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, July 23 2026  04:51 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, July 23 2026  06:54 PT",
+  "market_status": "Live \u2014 as of 09:54 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7498.96,
-      "change_pct": -0.14
+      "price": 7429.99,
+      "change_pct": -0.93
     },
     "Nasdaq": {
-      "price": 25690.9,
-      "change_pct": -0.57
+      "price": 25269.11,
+      "change_pct": -1.64
     },
     "Dow Jones": {
-      "price": 52218.58,
-      "change_pct": -0.01
+      "price": 51699.55,
+      "change_pct": -1.01
     },
     "Russell 2000": {
-      "price": 2959.94,
-      "change_pct": -0.92
+      "price": 2944.39,
+      "change_pct": -0.54
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4077.4,
-      "change_pct": -1.22
+      "price": 4063.3,
+      "change_pct": -1.56
     },
     "Oil (WTI)": {
-      "price": 91.04,
-      "change_pct": 2.88
+      "price": 91.46,
+      "change_pct": 3.36
     },
     "Silver": {
-      "price": 58.47,
-      "change_pct": -2.63
+      "price": 58.23,
+      "change_pct": -3.02
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65535,
-      "change_pct": -0.68
+      "price": 64880,
+      "change_pct": -1.38
     },
     "ETH": {
-      "price": 1925.34,
-      "change_pct": -0.03
+      "price": 1901.16,
+      "change_pct": -1.75
     },
     "SOL": {
-      "price": 77.62,
-      "change_pct": 0.09
+      "price": 76.75,
+      "change_pct": -1.22
     },
     "BNB": {
-      "price": 570.0,
-      "change_pct": -0.11
+      "price": 567.27,
+      "change_pct": -0.74
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth"
+      "title": "Dow tumbles 400 points as Brent crude tops $100, Alphabet and Tesla drop: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Houthis claim strikes on Saudi oil tankers as Rubio says Iran not ready to make a deal"
+      "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil nears $100 a barrel after Houthis claim strikes on Saudi Arabian tankers"
+      "title": "AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical."
     },
     {
       "source": "MarketWatch",
-      "title": "The U.S. premium for SK Hynix is set to stay after Korean regulatory ruling"
+      "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market."
     }
   ]
 }
