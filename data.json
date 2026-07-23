@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 22 2026  16:01 PT",
+  "generated_at": "Wednesday, July 22 2026  18:00 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4125.5,
-      "change_pct": -0.24
+      "price": 4130.3,
+      "change_pct": -0.13
     },
     "Oil (WTI)": {
-      "price": 87.93,
-      "change_pct": 3.07
+      "price": 88.08,
+      "change_pct": 3.25
     },
     "Silver": {
-      "price": 59.64,
-      "change_pct": -0.72
+      "price": 59.99,
+      "change_pct": -0.14
     }
   },
   "crypto": {
     "BTC": {
-      "price": 66001,
-      "change_pct": -0.33
+      "price": 66027,
+      "change_pct": -0.89
     },
     "ETH": {
-      "price": 1937.0,
-      "change_pct": 1.0
+      "price": 1932.12,
+      "change_pct": -0.31
     },
     "SOL": {
-      "price": 77.95,
-      "change_pct": 0.05
+      "price": 78.26,
+      "change_pct": -0.21
     },
     "BNB": {
-      "price": 570.94,
-      "change_pct": -0.19
+      "price": 571.32,
+      "change_pct": -0.56
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Alphabet earnings updates: Stock sinks during analyst call as company hikes 2026 capex"
+      "title": "Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have a $2,000 deductible\u2019: I reported a cracked windshield on my Hertz rental car. Can they charge me?"
+      "title": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies"
     },
     {
       "source": "MarketWatch",
-      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?"
+      "title": "ServiceNow\u2019s stock rises as earnings show momentum in cybersecurity"
     }
   ]
 }
