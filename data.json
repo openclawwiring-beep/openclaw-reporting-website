@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 23 2026  23:24 PT",
+  "generated_at": "Friday, July 24 2026  02:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4033.1,
-      "change_pct": -0.3
+      "price": 4058.3,
+      "change_pct": 0.67
     },
     "Oil (WTI)": {
-      "price": 91.32,
-      "change_pct": -0.44
+      "price": 89.57,
+      "change_pct": -2.59
     },
     "Silver": {
-      "price": 57.69,
-      "change_pct": -0.19
+      "price": 58.58,
+      "change_pct": 1.78
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65402,
-      "change_pct": -0.36
+      "price": 65267,
+      "change_pct": -0.5
     },
     "ETH": {
-      "price": 1883.11,
-      "change_pct": -2.03
+      "price": 1886.85,
+      "change_pct": -2.02
     },
     "SOL": {
-      "price": 75.88,
-      "change_pct": -1.97
+      "price": 75.73,
+      "change_pct": -2.15
     },
     "BNB": {
-      "price": 568.27,
-      "change_pct": -0.2
+      "price": 567.86,
+      "change_pct": -0.38
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump's new global tariff draws rebukes from trade partners over forced-labor justification"
+      "title": "Trump considering a \u2018massive attack\u2019 on Iran as Tehran labels UK \u2018accomplice\u2019 to America"
     },
     {
       "source": "CNBC",
-      "title": "S&P 500 futures are little changed as traders look to recover from oil-driven sell-off: Live updates"
+      "title": "Trump's new global tariff draws rebukes from trade partners over forced-labor justification"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Wise Group shares tank after U.S. bank charter rejected. What\u2019s next for the fintech."
     },
     {
       "source": "MarketWatch",
       "title": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here\u2019s what happens next."
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The August stock-market slump is a myth \u2014 so why does Wall Street keep repeating it?"
     }
   ]
 }
