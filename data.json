@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, July 24 2026  04:16 PT",
+  "generated_at": "Friday, July 24 2026  05:56 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4064.4,
-      "change_pct": 0.83
+      "price": 4056.8,
+      "change_pct": 0.64
     },
     "Oil (WTI)": {
-      "price": 89.78,
-      "change_pct": -2.36
+      "price": 89.11,
+      "change_pct": -3.09
     },
     "Silver": {
-      "price": 58.69,
-      "change_pct": 1.97
+      "price": 58.72,
+      "change_pct": 2.03
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64964,
-      "change_pct": -1.09
+      "price": 64785,
+      "change_pct": -0.63
     },
     "ETH": {
-      "price": 1881.93,
-      "change_pct": -2.36
+      "price": 1874.49,
+      "change_pct": -1.49
     },
     "SOL": {
-      "price": 75.38,
-      "change_pct": -3.11
+      "price": 74.88,
+      "change_pct": -2.64
     },
     "BNB": {
-      "price": 565.82,
-      "change_pct": -0.76
+      "price": 564.34,
+      "change_pct": -0.87
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Verizon\u2019s stock rises as earnings show the company is no longer a \u2018hunting ground\u2019"
+      "title": "A panicking Fed is just what the bond market needs, says Bank of America\u2019s chief strategist"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We are not romantically involved\u2019: I\u2019m marrying my platonic best friend of 20 years. Should I leave him my home?"
+      "title": "A \u2018generational buying opportunity\u2019 guarantees inflation plus 3% a year, says this hedge-fund manager"
     }
   ]
 }
