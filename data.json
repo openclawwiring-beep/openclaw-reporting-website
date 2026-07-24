@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 23 2026  16:59 PT",
+  "generated_at": "Thursday, July 23 2026  20:33 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4052.0,
-      "change_pct": -1.83
+      "price": 4032.5,
+      "change_pct": -2.3
     },
     "Oil (WTI)": {
-      "price": 92.08,
-      "change_pct": 4.06
+      "price": 91.96,
+      "change_pct": 3.92
     },
     "Silver": {
-      "price": 57.88,
-      "change_pct": -3.61
+      "price": 57.52,
+      "change_pct": -4.21
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65015,
-      "change_pct": -1.62
+      "price": 65301,
+      "change_pct": -0.49
     },
     "ETH": {
-      "price": 1875.84,
-      "change_pct": -2.98
+      "price": 1877.8,
+      "change_pct": -2.34
     },
     "SOL": {
       "price": 75.84,
-      "change_pct": -2.69
+      "change_pct": -2.25
     },
     "BNB": {
-      "price": 566.81,
-      "change_pct": -0.7
+      "price": 569.58,
+      "change_pct": -0.13
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire"
+      "title": "Trump's new global tariff draws rebukes from trade partners over forced-labor justification"
     },
     {
       "source": "CNBC",
-      "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years"
+      "title": "U.S., other nations back open-source AI with 'strong security' at China summit"
     },
     {
       "source": "MarketWatch",
