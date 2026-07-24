@@ -1,60 +1,60 @@
 {
-  "generated_at": "Friday, July 24 2026  09:44 PT",
-  "market_status": "Live \u2014 as of 12:44 ET",
+  "generated_at": "Friday, July 24 2026  11:16 PT",
+  "market_status": "Live \u2014 as of 14:16 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7442.48,
-      "change_pct": 0.46
+      "price": 7428.05,
+      "change_pct": 0.27
     },
     "Nasdaq": {
-      "price": 25137.36,
-      "change_pct": -0.0
+      "price": 25075.74,
+      "change_pct": -0.25
     },
     "Dow Jones": {
-      "price": 52025.04,
-      "change_pct": 0.62
+      "price": 51966.61,
+      "change_pct": 0.51
     },
     "Russell 2000": {
-      "price": 2956.57,
-      "change_pct": 0.56
+      "price": 2947.48,
+      "change_pct": 0.25
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4074.7,
-      "change_pct": 1.08
+      "price": 4066.1,
+      "change_pct": 0.87
     },
     "Oil (WTI)": {
-      "price": 88.3,
-      "change_pct": -3.97
+      "price": 88.78,
+      "change_pct": -3.45
     },
     "Silver": {
-      "price": 59.04,
-      "change_pct": 2.6
+      "price": 58.89,
+      "change_pct": 2.33
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63921,
-      "change_pct": -1.22
+      "price": 64120,
+      "change_pct": -0.89
     },
     "ETH": {
-      "price": 1856.39,
-      "change_pct": -1.62
+      "price": 1863.07,
+      "change_pct": -0.82
     },
     "SOL": {
-      "price": 73.83,
-      "change_pct": -2.87
+      "price": 73.96,
+      "change_pct": -2.28
     },
     "BNB": {
-      "price": 560.01,
-      "change_pct": -1.07
+      "price": 561.83,
+      "change_pct": -0.7
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow jumps 300 points as oil retreats on report of Pakistan push for new Iran-U.S. peace talks: Live updates"
+      "title": "Dow jumps 250 points as oil retreats on report of Pakistan push for new Iran-U.S. peace talks: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?"
+      "title": "Jensen Huang has a high-stakes message for AI policymakers"
     },
     {
       "source": "MarketWatch",
-      "title": "College kids are moving into retirement communities for reasons beyond \u2018cheap rent\u2019"
+      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?"
     }
   ]
 }
