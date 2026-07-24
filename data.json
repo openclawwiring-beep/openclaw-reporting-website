@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, July 24 2026  02:02 PT",
+  "generated_at": "Friday, July 24 2026  04:16 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4058.3,
-      "change_pct": 0.67
+      "price": 4064.4,
+      "change_pct": 0.83
     },
     "Oil (WTI)": {
-      "price": 89.57,
-      "change_pct": -2.59
+      "price": 89.78,
+      "change_pct": -2.36
     },
     "Silver": {
-      "price": 58.58,
-      "change_pct": 1.78
+      "price": 58.69,
+      "change_pct": 1.97
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65267,
-      "change_pct": -0.5
+      "price": 64964,
+      "change_pct": -1.09
     },
     "ETH": {
-      "price": 1886.85,
-      "change_pct": -2.02
+      "price": 1881.93,
+      "change_pct": -2.36
     },
     "SOL": {
-      "price": 75.73,
-      "change_pct": -2.15
+      "price": 75.38,
+      "change_pct": -3.11
     },
     "BNB": {
-      "price": 567.86,
-      "change_pct": -0.38
+      "price": 565.82,
+      "change_pct": -0.76
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump considering a \u2018massive attack\u2019 on Iran as Tehran labels UK \u2018accomplice\u2019 to America"
+      "title": "Dow futures rebound by 200 points as oil surge eases, Intel gains after earnings: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Trump's new global tariff draws rebukes from trade partners over forced-labor justification"
+      "title": "Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire"
     },
     {
       "source": "MarketWatch",
-      "title": "Wise Group shares tank after U.S. bank charter rejected. What\u2019s next for the fintech."
+      "title": "Verizon\u2019s stock rises as earnings show the company is no longer a \u2018hunting ground\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "Most FDA advisers say peptides like BPC-157 and TB-500 should be made available in the U.S. Here\u2019s what happens next."
+      "title": "\u2018We are not romantically involved\u2019: I\u2019m marrying my platonic best friend of 20 years. Should I leave him my home?"
     }
   ]
 }
