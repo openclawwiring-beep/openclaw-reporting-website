@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, July 24 2026  12:54 PT",
-  "market_status": "Live \u2014 as of 15:54 ET",
+  "generated_at": "Friday, July 24 2026  14:01 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7406.78,
-      "change_pct": -0.02
+      "price": 7411.98,
+      "change_pct": 0.05
     },
     "Nasdaq": {
-      "price": 24960.73,
-      "change_pct": -0.7
+      "price": 24975.82,
+      "change_pct": -0.64
     },
     "Dow Jones": {
-      "price": 51942.53,
+      "price": 51947.25,
       "change_pct": 0.46
     },
     "Russell 2000": {
-      "price": 2933.54,
-      "change_pct": -0.22
+      "price": 2930.0,
+      "change_pct": -0.35
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4058.8,
-      "change_pct": 0.69
+      "price": 4056.4,
+      "change_pct": 0.63
     },
     "Oil (WTI)": {
-      "price": 89.33,
-      "change_pct": -2.85
+      "price": 90.63,
+      "change_pct": -1.44
     },
     "Silver": {
-      "price": 58.56,
-      "change_pct": 1.75
+      "price": 58.5,
+      "change_pct": 1.65
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64154,
-      "change_pct": -0.83
+      "price": 64111,
+      "change_pct": -1.54
     },
     "ETH": {
-      "price": 1861.39,
-      "change_pct": -0.53
+      "price": 1859.14,
+      "change_pct": -1.36
     },
     "SOL": {
-      "price": 73.87,
-      "change_pct": -2.15
+      "price": 73.71,
+      "change_pct": -3.13
     },
     "BNB": {
-      "price": 564.45,
-      "change_pct": -0.18
+      "price": 564.44,
+      "change_pct": -0.53
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The world is facing its largest oil shock ever. Here is why prices are not higher."
+      "title": "FDA advisers say six popular peptides can be compounded. Here are the issues they considered."
     },
     {
       "source": "MarketWatch",
-      "title": "Don\u2019t rush to save Social Security, AARP tells Congress: \u2018It should be debated openly \u2014 not through an accelerated process\u2019"
+      "title": "I\u2019m 38, lost my job, and have to move back in with my parents. What did I do wrong?"
     }
   ]
 }
