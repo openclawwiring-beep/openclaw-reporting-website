@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, July 24 2026  05:56 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, July 24 2026  07:56 PT",
+  "market_status": "Live \u2014 as of 10:56 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7408.3,
-      "change_pct": -1.21
+      "price": 7416.74,
+      "change_pct": 0.12
     },
     "Nasdaq": {
-      "price": 25137.69,
-      "change_pct": -2.15
+      "price": 25006.39,
+      "change_pct": -0.52
     },
     "Dow Jones": {
-      "price": 51711.65,
-      "change_pct": -0.97
+      "price": 51790.94,
+      "change_pct": 0.17
     },
     "Russell 2000": {
-      "price": 2940.16,
-      "change_pct": -0.67
+      "price": 2929.07,
+      "change_pct": -0.37
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4056.8,
-      "change_pct": 0.64
+      "price": 4062.5,
+      "change_pct": 0.78
     },
     "Oil (WTI)": {
-      "price": 89.11,
-      "change_pct": -3.09
+      "price": 89.55,
+      "change_pct": -2.61
     },
     "Silver": {
-      "price": 58.72,
-      "change_pct": 2.03
+      "price": 58.7,
+      "change_pct": 2.0
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64785,
-      "change_pct": -0.63
+      "price": 63890,
+      "change_pct": -1.47
     },
     "ETH": {
-      "price": 1874.49,
-      "change_pct": -1.49
+      "price": 1856.96,
+      "change_pct": -1.95
     },
     "SOL": {
-      "price": 74.88,
-      "change_pct": -2.64
+      "price": 73.87,
+      "change_pct": -3.25
     },
     "BNB": {
-      "price": 564.34,
-      "change_pct": -0.87
+      "price": 559.37,
+      "change_pct": -1.21
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow futures rebound by 200 points as oil surge eases, Intel gains after earnings: Live updates"
+      "title": "Nasdaq slides, heads for a losing week, as semiconductor stocks struggle: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire"
+      "title": "Trump considering a \u2018massive attack\u2019 on Iran as Tehran labels UK \u2018accomplice\u2019 to America"
     },
     {
       "source": "MarketWatch",
-      "title": "A panicking Fed is just what the bond market needs, says Bank of America\u2019s chief strategist"
+      "title": "U.S. economy had begun to speed up \u2014 until Iran peace talks failed and oil prices surged again"
     },
     {
       "source": "MarketWatch",
-      "title": "A \u2018generational buying opportunity\u2019 guarantees inflation plus 3% a year, says this hedge-fund manager"
+      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?"
     }
   ]
 }
