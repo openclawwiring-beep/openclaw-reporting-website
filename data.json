@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, July 24 2026  07:56 PT",
-  "market_status": "Live \u2014 as of 10:56 ET",
+  "generated_at": "Friday, July 24 2026  09:44 PT",
+  "market_status": "Live \u2014 as of 12:44 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7416.74,
-      "change_pct": 0.12
+      "price": 7442.48,
+      "change_pct": 0.46
     },
     "Nasdaq": {
-      "price": 25006.39,
-      "change_pct": -0.52
+      "price": 25137.36,
+      "change_pct": -0.0
     },
     "Dow Jones": {
-      "price": 51790.94,
-      "change_pct": 0.17
+      "price": 52025.04,
+      "change_pct": 0.62
     },
     "Russell 2000": {
-      "price": 2929.07,
-      "change_pct": -0.37
+      "price": 2956.57,
+      "change_pct": 0.56
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4062.5,
-      "change_pct": 0.78
+      "price": 4074.7,
+      "change_pct": 1.08
     },
     "Oil (WTI)": {
-      "price": 89.55,
-      "change_pct": -2.61
+      "price": 88.3,
+      "change_pct": -3.97
     },
     "Silver": {
-      "price": 58.7,
-      "change_pct": 2.0
+      "price": 59.04,
+      "change_pct": 2.6
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63890,
-      "change_pct": -1.47
+      "price": 63921,
+      "change_pct": -1.22
     },
     "ETH": {
-      "price": 1856.96,
-      "change_pct": -1.95
+      "price": 1856.39,
+      "change_pct": -1.62
     },
     "SOL": {
-      "price": 73.87,
-      "change_pct": -3.25
+      "price": 73.83,
+      "change_pct": -2.87
     },
     "BNB": {
-      "price": 559.37,
-      "change_pct": -1.21
+      "price": 560.01,
+      "change_pct": -1.07
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nasdaq slides, heads for a losing week, as semiconductor stocks struggle: Live updates"
+      "title": "Dow jumps 300 points as oil retreats on report of Pakistan push for new Iran-U.S. peace talks: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Trump considering a \u2018massive attack\u2019 on Iran as Tehran labels UK \u2018accomplice\u2019 to America"
+      "title": "CDC says massive cyclospora outbreak is now in nine states"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. economy had begun to speed up \u2014 until Iran peace talks failed and oil prices surged again"
+      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?"
     },
     {
       "source": "MarketWatch",
-      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?"
+      "title": "College kids are moving into retirement communities for reasons beyond \u2018cheap rent\u2019"
     }
   ]
 }
