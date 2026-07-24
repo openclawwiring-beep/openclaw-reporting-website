@@ -1,60 +1,60 @@
 {
-  "generated_at": "Friday, July 24 2026  11:16 PT",
-  "market_status": "Live \u2014 as of 14:16 ET",
+  "generated_at": "Friday, July 24 2026  12:54 PT",
+  "market_status": "Live \u2014 as of 15:54 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7428.05,
-      "change_pct": 0.27
+      "price": 7406.78,
+      "change_pct": -0.02
     },
     "Nasdaq": {
-      "price": 25075.74,
-      "change_pct": -0.25
+      "price": 24960.73,
+      "change_pct": -0.7
     },
     "Dow Jones": {
-      "price": 51966.61,
-      "change_pct": 0.51
+      "price": 51942.53,
+      "change_pct": 0.46
     },
     "Russell 2000": {
-      "price": 2947.48,
-      "change_pct": 0.25
+      "price": 2933.54,
+      "change_pct": -0.22
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4066.1,
-      "change_pct": 0.87
+      "price": 4058.8,
+      "change_pct": 0.69
     },
     "Oil (WTI)": {
-      "price": 88.78,
-      "change_pct": -3.45
+      "price": 89.33,
+      "change_pct": -2.85
     },
     "Silver": {
-      "price": 58.89,
-      "change_pct": 2.33
+      "price": 58.56,
+      "change_pct": 1.75
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64120,
-      "change_pct": -0.89
+      "price": 64154,
+      "change_pct": -0.83
     },
     "ETH": {
-      "price": 1863.07,
-      "change_pct": -0.82
+      "price": 1861.39,
+      "change_pct": -0.53
     },
     "SOL": {
-      "price": 73.96,
-      "change_pct": -2.28
+      "price": 73.87,
+      "change_pct": -2.15
     },
     "BNB": {
-      "price": 561.83,
-      "change_pct": -0.7
+      "price": 564.45,
+      "change_pct": -0.18
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow jumps 250 points as oil retreats on report of Pakistan push for new Iran-U.S. peace talks: Live updates"
+      "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Jensen Huang has a high-stakes message for AI policymakers"
+      "title": "The world is facing its largest oil shock ever. Here is why prices are not higher."
     },
     {
       "source": "MarketWatch",
-      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?"
+      "title": "Don\u2019t rush to save Social Security, AARP tells Congress: \u2018It should be debated openly \u2014 not through an accelerated process\u2019"
     }
   ]
 }
