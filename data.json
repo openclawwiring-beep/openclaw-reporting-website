@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 25 2026  10:29 PT",
+  "generated_at": "Saturday, July 25 2026  11:31 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64215,
-      "change_pct": 0.22
-    },
-    "ETH": {
-      "price": 1869.32,
+      "price": 64352,
       "change_pct": 0.4
     },
+    "ETH": {
+      "price": 1872.32,
+      "change_pct": 0.65
+    },
     "SOL": {
-      "price": 74.49,
-      "change_pct": 0.57
+      "price": 74.5,
+      "change_pct": 0.74
     },
     "BNB": {
-      "price": 567.48,
-      "change_pct": 1.13
+      "price": 568.32,
+      "change_pct": 1.29
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?"
+      "title": "Here\u2019s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S."
     },
     {
       "source": "MarketWatch",
-      "title": "Running out of money is not the saddest retirement mistake you can make. This is."
+      "title": "\u2018I\u2019m still confused\u2019: I sold $80,000 in shares on June 30, so why didn\u2019t I receive my dividend?"
     }
   ]
 }
