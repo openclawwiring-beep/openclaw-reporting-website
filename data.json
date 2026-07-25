@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 25 2026  03:10 PT",
+  "generated_at": "Saturday, July 25 2026  04:43 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63955,
-      "change_pct": -1.64
+      "price": 64023,
+      "change_pct": -1.43
     },
     "ETH": {
-      "price": 1857.11,
-      "change_pct": -1.48
+      "price": 1857.62,
+      "change_pct": -1.15
     },
     "SOL": {
-      "price": 73.92,
-      "change_pct": -2.08
+      "price": 73.87,
+      "change_pct": -1.72
     },
     "BNB": {
-      "price": 565.21,
-      "change_pct": -0.5
+      "price": 565.41,
+      "change_pct": -0.05
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants"
+      "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up"
     },
     {
       "source": "CNBC",
-      "title": "CDC says massive cyclospora outbreak is now in nine states"
+      "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal"
     },
     {
       "source": "MarketWatch",
-      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?"
+      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house \u2014 and take the tax hit?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s nothing personal\u2019: Should I tell my 96-year-old stepmother that I don\u2019t want her inheritance?"
+      "title": "Investors are in the dark about the Fed\u2019s decision this week \u2014 and that\u2019s just how Warsh wants it"
     }
   ]
 }
