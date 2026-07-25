@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 25 2026  13:09 PT",
+  "generated_at": "Saturday, July 25 2026  14:24 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64306,
-      "change_pct": 0.24
+      "price": 64228,
+      "change_pct": 0.19
     },
     "ETH": {
-      "price": 1873.58,
-      "change_pct": 0.64
+      "price": 1868.67,
+      "change_pct": 0.56
     },
     "SOL": {
-      "price": 74.45,
-      "change_pct": 0.84
+      "price": 74.3,
+      "change_pct": 1.08
     },
     "BNB": {
-      "price": 568.46,
-      "change_pct": 0.64
+      "price": 568.12,
+      "change_pct": 0.72
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation"
+      "title": "Imax 70 mm screenings become the biggest star for Christopher Nolan\u2019s \u2018The Odyssey\u2019"
     },
     {
       "source": "CNBC",
-      "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up"
+      "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?"
+      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?"
     },
     {
       "source": "MarketWatch",
-      "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market."
+      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?"
     }
   ]
 }
