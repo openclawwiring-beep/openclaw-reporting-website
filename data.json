@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 25 2026  15:26 PT",
+  "generated_at": "Saturday, July 25 2026  16:29 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64340,
-      "change_pct": 0.36
+      "price": 64348,
+      "change_pct": 0.35
     },
     "ETH": {
-      "price": 1874.19,
-      "change_pct": 0.87
+      "price": 1873.74,
+      "change_pct": 0.74
     },
     "SOL": {
-      "price": 74.38,
-      "change_pct": 0.78
+      "price": 74.39,
+      "change_pct": 0.76
     },
     "BNB": {
-      "price": 568.82,
-      "change_pct": 0.86
+      "price": 568.84,
+      "change_pct": 0.78
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?"
+      "title": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?"
     },
     {
       "source": "MarketWatch",
-      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?"
+      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?"
     }
   ]
 }
