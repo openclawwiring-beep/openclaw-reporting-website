@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 25 2026  09:03 PT",
+  "generated_at": "Saturday, July 25 2026  10:29 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64137,
-      "change_pct": 0.18
+      "price": 64215,
+      "change_pct": 0.22
     },
     "ETH": {
-      "price": 1866.21,
-      "change_pct": 0.3
+      "price": 1869.32,
+      "change_pct": 0.4
     },
     "SOL": {
-      "price": 74.14,
-      "change_pct": 0.19
+      "price": 74.49,
+      "change_pct": 0.57
     },
     "BNB": {
-      "price": 566.33,
-      "change_pct": 1.01
+      "price": 567.48,
+      "change_pct": 1.13
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The super rich use 401(k)s and IRAs to sidestep taxes on millions of dollars. This proposed law would cut them off."
+      "title": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?"
     },
     {
       "source": "MarketWatch",
-      "title": "Still waiting for the free $1,000 to hit your child\u2019s \u2018Trump account\u2019? Here\u2019s what to know."
+      "title": "Running out of money is not the saddest retirement mistake you can make. This is."
     }
   ]
 }
