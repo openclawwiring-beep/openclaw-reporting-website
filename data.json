@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 25 2026  06:22 PT",
+  "generated_at": "Saturday, July 25 2026  07:46 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64052,
-      "change_pct": -0.54
+      "price": 64128,
+      "change_pct": 0.58
     },
     "ETH": {
-      "price": 1861.15,
-      "change_pct": -0.35
+      "price": 1865.78,
+      "change_pct": 0.84
     },
     "SOL": {
-      "price": 73.91,
-      "change_pct": -0.8
+      "price": 73.89,
+      "change_pct": 0.32
     },
     "BNB": {
-      "price": 566.67,
-      "change_pct": 0.97
+      "price": 566.21,
+      "change_pct": 1.5
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX isn\u2019t the wireless threat that investors fear \u2014 unless someone breaks this unspoken agreement"
+      "title": "A \u2018generational buying opportunity\u2019 guarantees inflation plus 3% a year, says this hedge-fund manager"
     },
     {
       "source": "MarketWatch",
-      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house \u2014 and take the tax hit?"
+      "title": "S&P 500 flashes sell signals \u2014 options traders are bracing for wild swings in Apple, Meta and Microsoft"
     }
   ]
 }
