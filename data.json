@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, July 25 2026  04:43 PT",
+  "generated_at": "Saturday, July 25 2026  06:22 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64023,
-      "change_pct": -1.43
+      "price": 64052,
+      "change_pct": -0.54
     },
     "ETH": {
-      "price": 1857.62,
-      "change_pct": -1.15
+      "price": 1861.15,
+      "change_pct": -0.35
     },
     "SOL": {
-      "price": 73.87,
-      "change_pct": -1.72
+      "price": 73.91,
+      "change_pct": -0.8
     },
     "BNB": {
-      "price": 565.41,
-      "change_pct": -0.05
+      "price": 566.67,
+      "change_pct": 0.97
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up"
+      "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation"
     },
     {
       "source": "CNBC",
-      "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal"
+      "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "SpaceX isn\u2019t the wireless threat that investors fear \u2014 unless someone breaks this unspoken agreement"
     },
     {
       "source": "MarketWatch",
       "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house \u2014 and take the tax hit?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Investors are in the dark about the Fed\u2019s decision this week \u2014 and that\u2019s just how Warsh wants it"
     }
   ]
 }
