@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 26 2026  04:22 PT",
+  "generated_at": "Sunday, July 26 2026  05:36 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64457,
-      "change_pct": 0.69
+      "price": 64510,
+      "change_pct": 0.79
     },
     "ETH": {
-      "price": 1885.31,
-      "change_pct": 1.51
+      "price": 1888.1,
+      "change_pct": 1.67
     },
     "SOL": {
-      "price": 75.02,
-      "change_pct": 1.47
+      "price": 74.9,
+      "change_pct": 1.43
     },
     "BNB": {
-      "price": 570.39,
-      "change_pct": 0.92
+      "price": 570.76,
+      "change_pct": 1.01
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?"
+      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?"
     },
     {
       "source": "MarketWatch",
-      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?"
+      "title": "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates"
     }
   ]
 }
