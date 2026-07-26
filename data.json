@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 26 2026  15:00 PT",
+  "generated_at": "Sunday, July 26 2026  16:05 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4070.8,
-      "change_pct": 0.98
+      "price": 4092.2,
+      "change_pct": 0.53
     },
     "Oil (WTI)": {
-      "price": 89.31,
-      "change_pct": -2.87
+      "price": 84.8,
+      "change_pct": -5.05
     },
     "Silver": {
-      "price": 58.91,
-      "change_pct": 2.36
+      "price": 60.01,
+      "change_pct": 1.87
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64816,
-      "change_pct": 0.81
+      "price": 65344,
+      "change_pct": 1.51
     },
     "ETH": {
-      "price": 1924.47,
-      "change_pct": 2.78
+      "price": 1948.87,
+      "change_pct": 3.94
     },
     "SOL": {
-      "price": 75.6,
-      "change_pct": 1.59
+      "price": 76.58,
+      "change_pct": 2.86
     },
     "BNB": {
-      "price": 573.36,
-      "change_pct": 0.85
+      "price": 574.88,
+      "change_pct": 1.02
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'"
+      "title": "Stock futures climb, oil prices fall as U.S. and Iran pause attacks: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks"
+      "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week"
     },
     {
       "source": "MarketWatch",
       "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018It\u2019s nothing personal\u2019: Should I tell my 96-year-old stepmother that I don\u2019t want her inheritance?"
     }
   ]
 }
