@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 26 2026  02:57 PT",
+  "generated_at": "Sunday, July 26 2026  04:22 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64497,
-      "change_pct": 0.86
+      "price": 64457,
+      "change_pct": 0.69
     },
     "ETH": {
-      "price": 1882.84,
-      "change_pct": 1.39
+      "price": 1885.31,
+      "change_pct": 1.51
     },
     "SOL": {
-      "price": 75.05,
-      "change_pct": 1.48
+      "price": 75.02,
+      "change_pct": 1.47
     },
     "BNB": {
-      "price": 570.95,
-      "change_pct": 1.05
+      "price": 570.39,
+      "change_pct": 0.92
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Imax 70 mm screenings become the biggest star for Christopher Nolan\u2019s \u2018The Odyssey\u2019"
+      "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'"
     },
     {
       "source": "CNBC",
-      "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation"
+      "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage"
     },
     {
       "source": "MarketWatch",
