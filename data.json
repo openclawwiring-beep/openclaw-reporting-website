@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 26 2026  05:36 PT",
+  "generated_at": "Sunday, July 26 2026  07:27 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64510,
+      "price": 64603,
       "change_pct": 0.79
     },
     "ETH": {
-      "price": 1888.1,
-      "change_pct": 1.67
+      "price": 1890.86,
+      "change_pct": 1.4
     },
     "SOL": {
-      "price": 74.9,
-      "change_pct": 1.43
+      "price": 74.91,
+      "change_pct": 1.5
     },
     "BNB": {
-      "price": 570.76,
-      "change_pct": 1.01
+      "price": 571.57,
+      "change_pct": 0.93
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage"
+      "title": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks"
     },
     {
       "source": "MarketWatch",
-      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?"
+      "title": "The S&P 500\u2019s earnings growth has gone bonkers thanks to one company"
     },
     {
       "source": "MarketWatch",
-      "title": "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates"
+      "title": "\u2018We are not romantically involved\u2019: I\u2019m marrying my platonic best friend of 20 years. Should I leave him my home?"
     }
   ]
 }
