@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 26 2026  07:27 PT",
+  "generated_at": "Sunday, July 26 2026  08:40 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64603,
-      "change_pct": 0.79
+      "price": 64751,
+      "change_pct": 0.9
     },
     "ETH": {
-      "price": 1890.86,
-      "change_pct": 1.4
+      "price": 1912.98,
+      "change_pct": 2.39
     },
     "SOL": {
-      "price": 74.91,
-      "change_pct": 1.5
+      "price": 75.34,
+      "change_pct": 1.55
     },
     "BNB": {
-      "price": 571.57,
-      "change_pct": 0.93
+      "price": 572.9,
+      "change_pct": 1.15
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The S&P 500\u2019s earnings growth has gone bonkers thanks to one company"
+      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house \u2014 and take the tax hit?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We are not romantically involved\u2019: I\u2019m marrying my platonic best friend of 20 years. Should I leave him my home?"
+      "title": "The S&P 500\u2019s earnings growth has gone bonkers thanks to one company"
     }
   ]
 }
