@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 26 2026  11:06 PT",
+  "generated_at": "Sunday, July 26 2026  12:43 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64636,
-      "change_pct": 0.54
+      "price": 64673,
+      "change_pct": 0.51
     },
     "ETH": {
-      "price": 1910.88,
-      "change_pct": 2.14
+      "price": 1913.61,
+      "change_pct": 2.05
     },
     "SOL": {
-      "price": 75.31,
-      "change_pct": 1.07
+      "price": 75.21,
+      "change_pct": 0.92
     },
     "BNB": {
-      "price": 572.31,
-      "change_pct": 0.73
+      "price": 572.95,
+      "change_pct": 0.85
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house \u2014 and take the tax hit?"
+      "title": "\u2018It\u2019s nothing personal\u2019: Should I tell my 96-year-old stepmother that I don\u2019t want her inheritance?"
     },
     {
       "source": "MarketWatch",
-      "title": "The S&P 500\u2019s earnings growth has gone bonkers thanks to one company"
+      "title": "There\u2019s a technical \u2018triple threat\u2019 for stocks, but also places investors can hide"
     }
   ]
 }
