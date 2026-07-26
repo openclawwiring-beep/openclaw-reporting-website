@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 26 2026  12:43 PT",
+  "generated_at": "Sunday, July 26 2026  13:56 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64673,
-      "change_pct": 0.51
+      "price": 64600,
+      "change_pct": 0.48
     },
     "ETH": {
-      "price": 1913.61,
-      "change_pct": 2.05
+      "price": 1911.68,
+      "change_pct": 2.15
     },
     "SOL": {
-      "price": 75.21,
-      "change_pct": 0.92
+      "price": 75.28,
+      "change_pct": 1.2
     },
     "BNB": {
-      "price": 572.95,
-      "change_pct": 0.85
+      "price": 572.71,
+      "change_pct": 0.83
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s nothing personal\u2019: Should I tell my 96-year-old stepmother that I don\u2019t want her inheritance?"
+      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?"
     },
     {
       "source": "MarketWatch",
-      "title": "There\u2019s a technical \u2018triple threat\u2019 for stocks, but also places investors can hide"
+      "title": "\u2018It\u2019s nothing personal\u2019: Should I tell my 96-year-old stepmother that I don\u2019t want her inheritance?"
     }
   ]
 }
