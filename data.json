@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, July 26 2026  18:07 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Sunday, July 26 2026  22:09 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7411.98,
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4107.0,
-      "change_pct": 0.89
+      "price": 4091.7,
+      "change_pct": -0.36
     },
     "Oil (WTI)": {
-      "price": 84.76,
-      "change_pct": -5.09
+      "price": 84.83,
+      "change_pct": -0.41
     },
     "Silver": {
-      "price": 60.04,
-      "change_pct": 1.93
+      "price": 59.57,
+      "change_pct": -0.82
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65128,
-      "change_pct": 1.1
+      "price": 65254,
+      "change_pct": 1.24
     },
     "ETH": {
-      "price": 1944.39,
-      "change_pct": 3.56
+      "price": 1953.71,
+      "change_pct": 3.64
     },
     "SOL": {
-      "price": 76.32,
-      "change_pct": 2.19
+      "price": 76.27,
+      "change_pct": 1.67
     },
     "BNB": {
-      "price": 572.43,
-      "change_pct": 0.48
+      "price": 573.3,
+      "change_pct": 0.5
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'"
+      "title": "Why Trump's new tariff blitz is very different this time round"
     },
     {
       "source": "MarketWatch",
