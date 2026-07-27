@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, July 27 2026  01:53 PT",
+  "generated_at": "Monday, July 27 2026  05:21 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4092.9,
-      "change_pct": 0.01
+      "price": 4092.2,
+      "change_pct": -0.01
     },
     "Oil (WTI)": {
-      "price": 83.53,
-      "change_pct": -1.97
+      "price": 83.98,
+      "change_pct": -1.44
     },
     "Silver": {
-      "price": 59.64,
-      "change_pct": 0.08
+      "price": 59.15,
+      "change_pct": -0.75
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65105,
-      "change_pct": 1.03
+      "price": 65050,
+      "change_pct": 0.87
     },
     "ETH": {
-      "price": 1965.45,
-      "change_pct": 4.47
+      "price": 1952.92,
+      "change_pct": 3.5
     },
     "SOL": {
-      "price": 76.23,
-      "change_pct": 1.7
+      "price": 76.52,
+      "change_pct": 2.23
     },
     "BNB": {
-      "price": 573.27,
-      "change_pct": 0.4
+      "price": 572.06,
+      "change_pct": 0.21
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Why Trump's new tariff blitz is very different this time round"
+      "title": "Ford wants more customers to customize vehicles to boost profits as it eyes 'Nike shoe drop' moments"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week"
+      "title": "Would you take $65,000 today, or flip a coin for a chance to win $1.3 million?"
     },
     {
       "source": "MarketWatch",
-      "title": "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?"
+      "title": "Here\u2019s how to use the salary ranges in job postings to get paid more"
     }
   ]
 }
