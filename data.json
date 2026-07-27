@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 26 2026  16:05 PT",
+  "generated_at": "Sunday, July 26 2026  18:07 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4092.2,
-      "change_pct": 0.53
+      "price": 4107.0,
+      "change_pct": 0.89
     },
     "Oil (WTI)": {
-      "price": 84.8,
-      "change_pct": -5.05
+      "price": 84.76,
+      "change_pct": -5.09
     },
     "Silver": {
-      "price": 60.01,
-      "change_pct": 1.87
+      "price": 60.04,
+      "change_pct": 1.93
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65344,
-      "change_pct": 1.51
+      "price": 65128,
+      "change_pct": 1.1
     },
     "ETH": {
-      "price": 1948.87,
-      "change_pct": 3.94
+      "price": 1944.39,
+      "change_pct": 3.56
     },
     "SOL": {
-      "price": 76.58,
-      "change_pct": 2.86
+      "price": 76.32,
+      "change_pct": 2.19
     },
     "BNB": {
-      "price": 574.88,
-      "change_pct": 1.02
+      "price": 572.43,
+      "change_pct": 0.48
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures climb, oil prices fall as U.S. and Iran pause attacks: Live updates"
+      "title": "Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds"
     },
     {
       "source": "CNBC",
