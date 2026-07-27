@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, July 27 2026  13:21 PT",
+  "generated_at": "Monday, July 27 2026  14:37 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4084.4,
-      "change_pct": -0.2
+      "price": 4078.6,
+      "change_pct": -0.34
     },
     "Oil (WTI)": {
-      "price": 81.76,
-      "change_pct": -4.05
+      "price": 81.91,
+      "change_pct": -3.87
     },
     "Silver": {
-      "price": 58.81,
-      "change_pct": -1.31
+      "price": 58.69,
+      "change_pct": -1.51
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64873,
-      "change_pct": 0.42
+      "price": 64787,
+      "change_pct": 0.03
     },
     "ETH": {
-      "price": 1942.75,
-      "change_pct": 1.67
+      "price": 1941.27,
+      "change_pct": 1.08
     },
     "SOL": {
-      "price": 75.76,
-      "change_pct": 0.62
+      "price": 75.54,
+      "change_pct": -0.03
     },
     "BNB": {
-      "price": 574.64,
-      "change_pct": 0.32
+      "price": 572.88,
+      "change_pct": -0.04
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Sam Altman to meet with Trump administration, senators this week. Here's what he plans to say"
+      "title": "Apple ends day as world's most valuable company, passing Nvidia"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Apple reclaims title of world\u2019s largest company after historic stretch of outperformance"
+      "title": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I know what he wants to do,\u2019 Trump says of Fed\u2019s Warsh, as president presses for rate cuts"
+      "title": "Big Tech is forcing consumers to pay for its AI boom. Voters are pushing back."
     }
   ]
 }
