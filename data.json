@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, July 27 2026  05:21 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, July 27 2026  08:23 PT",
+  "market_status": "Live \u2014 as of 11:23 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7411.98,
-      "change_pct": 0.05
+      "price": 7409.5,
+      "change_pct": -0.03
     },
     "Nasdaq": {
-      "price": 24975.82,
-      "change_pct": -0.64
+      "price": 24923.64,
+      "change_pct": -0.21
     },
     "Dow Jones": {
-      "price": 51947.25,
-      "change_pct": 0.46
+      "price": 52156.15,
+      "change_pct": 0.4
     },
     "Russell 2000": {
-      "price": 2930.0,
-      "change_pct": -0.35
+      "price": 2947.29,
+      "change_pct": 0.59
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4092.2,
-      "change_pct": -0.01
+      "price": 4076.9,
+      "change_pct": -0.38
     },
     "Oil (WTI)": {
-      "price": 83.98,
-      "change_pct": -1.44
+      "price": 83.29,
+      "change_pct": -2.25
     },
     "Silver": {
-      "price": 59.15,
-      "change_pct": -0.75
+      "price": 58.87,
+      "change_pct": -1.22
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65050,
-      "change_pct": 0.87
+      "price": 64662,
+      "change_pct": -0.07
     },
     "ETH": {
-      "price": 1952.92,
-      "change_pct": 3.5
+      "price": 1932.52,
+      "change_pct": 1.44
     },
     "SOL": {
-      "price": 76.52,
-      "change_pct": 2.23
+      "price": 75.42,
+      "change_pct": 0.41
     },
     "BNB": {
-      "price": 572.06,
-      "change_pct": 0.21
+      "price": 567.63,
+      "change_pct": -0.84
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. and Iran pause fighting to give peace talks 'space.' Here's where negotiations stand"
+      "title": "S&P 500 falls into the red despite Iran fighting pause as chip stocks tumble: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Ford wants more customers to customize vehicles to boost profits as it eyes 'Nike shoe drop' moments"
+      "title": "Steve Eisman is starting to have doubts about AI. The 'Big Short' investor just sold a key tech stock"
     },
     {
       "source": "MarketWatch",
-      "title": "Would you take $65,000 today, or flip a coin for a chance to win $1.3 million?"
+      "title": "College kids are moving into retirement communities for reasons beyond \u2018cheap rent\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s how to use the salary ranges in job postings to get paid more"
+      "title": "This small-cap stock strategy shines by riding the beat-and-raise trend"
     }
   ]
 }
