@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, July 26 2026  22:09 PT",
+  "generated_at": "Monday, July 27 2026  01:53 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4091.7,
-      "change_pct": -0.36
+      "price": 4092.9,
+      "change_pct": 0.01
     },
     "Oil (WTI)": {
-      "price": 84.83,
-      "change_pct": -0.41
+      "price": 83.53,
+      "change_pct": -1.97
     },
     "Silver": {
-      "price": 59.57,
-      "change_pct": -0.82
+      "price": 59.64,
+      "change_pct": 0.08
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65254,
-      "change_pct": 1.24
+      "price": 65105,
+      "change_pct": 1.03
     },
     "ETH": {
-      "price": 1953.71,
-      "change_pct": 3.64
+      "price": 1965.45,
+      "change_pct": 4.47
     },
     "SOL": {
-      "price": 76.27,
-      "change_pct": 1.67
+      "price": 76.23,
+      "change_pct": 1.7
     },
     "BNB": {
-      "price": 573.3,
-      "change_pct": 0.5
+      "price": 573.27,
+      "change_pct": 0.4
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds"
+      "title": "U.S. and Iran pause fighting to give peace talks 'space.' Here's where negotiations stand"
     },
     {
       "source": "CNBC",
