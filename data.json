@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, July 28 2026  12:20 PT",
-  "market_status": "Live \u2014 as of 15:20 ET",
+  "generated_at": "Tuesday, July 28 2026  13:42 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7439.2,
-      "change_pct": 0.35
+      "price": 7428.78,
+      "change_pct": 0.21
     },
     "Nasdaq": {
-      "price": 24915.44,
-      "change_pct": -0.07
+      "price": 24876.91,
+      "change_pct": -0.22
     },
     "Dow Jones": {
-      "price": 52810.37,
-      "change_pct": 1.16
+      "price": 52747.32,
+      "change_pct": 1.03
     },
     "Russell 2000": {
-      "price": 2952.1,
-      "change_pct": 0.14
+      "price": 2953.8,
+      "change_pct": 0.2
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4023.9,
-      "change_pct": -0.63
+      "price": 4027.3,
+      "change_pct": -0.55
     },
     "Oil (WTI)": {
-      "price": 79.09,
-      "change_pct": -3.03
+      "price": 79.04,
+      "change_pct": -3.09
     },
     "Silver": {
-      "price": 57.44,
-      "change_pct": -0.24
+      "price": 57.37,
+      "change_pct": -0.36
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63684,
-      "change_pct": -1.88
+      "price": 63828,
+      "change_pct": -1.66
     },
     "ETH": {
-      "price": 1911.38,
-      "change_pct": -1.79
+      "price": 1915.31,
+      "change_pct": -1.46
     },
     "SOL": {
-      "price": 73.83,
-      "change_pct": -2.63
+      "price": 74.02,
+      "change_pct": -2.45
     },
     "BNB": {
-      "price": 569.24,
-      "change_pct": -0.96
+      "price": 570.3,
+      "change_pct": -0.71
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow rallies 600 points, boosted by strong earnings and a steep decline in oil: Live updates"
+      "title": "Dow jumps more than 500 points as oil prices slide, investors rotate out of chip stocks: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Kentucky Gov. Beshear calls on Mitch McConnell to prove he can serve or resign"
+      "title": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She is on Medicaid\u2019: My sick friend pleaded with me to be her executor. Can I decline after she dies?"
+      "title": "Microsoft is making a $190 billion AI gamble \u2014 and investors will soon see if it\u2019s paying off"
     },
     {
       "source": "MarketWatch",
-      "title": "An extra-caffeinated version of Mr. Pibb is helping Coca-Cola win over cash-strapped shoppers"
+      "title": "Forget oil. A surging El Ni\u00f1o could kill Fed rate cuts \u2014 and these stocks stand to win."
     }
   ]
 }
