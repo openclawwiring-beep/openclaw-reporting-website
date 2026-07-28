@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, July 28 2026  04:35 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, July 28 2026  07:03 PT",
+  "market_status": "Live \u2014 as of 10:03 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7413.18,
-      "change_pct": 0.02
+      "price": 7398.17,
+      "change_pct": -0.21
     },
     "Nasdaq": {
-      "price": 24932.08,
-      "change_pct": -0.18
+      "price": 24649.0,
+      "change_pct": -1.14
     },
     "Dow Jones": {
-      "price": 52210.08,
-      "change_pct": 0.51
+      "price": 52578.13,
+      "change_pct": 0.72
     },
     "Russell 2000": {
-      "price": 2948.04,
-      "change_pct": 0.62
+      "price": 2932.53,
+      "change_pct": -0.53
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4027.7,
-      "change_pct": -0.54
+      "price": 4025.6,
+      "change_pct": -0.59
     },
     "Oil (WTI)": {
-      "price": 81.18,
-      "change_pct": -0.47
+      "price": 81.52,
+      "change_pct": -0.05
     },
     "Silver": {
-      "price": 57.49,
-      "change_pct": -0.15
+      "price": 57.01,
+      "change_pct": -1.0
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63439,
-      "change_pct": -2.59
+      "price": 63135,
+      "change_pct": -3.31
     },
     "ETH": {
-      "price": 1874.55,
-      "change_pct": -4.25
+      "price": 1874.05,
+      "change_pct": -4.48
     },
     "SOL": {
-      "price": 73.06,
-      "change_pct": -4.52
+      "price": 72.76,
+      "change_pct": -5.35
     },
     "BNB": {
-      "price": 565.33,
-      "change_pct": -1.24
+      "price": 565.29,
+      "change_pct": -1.55
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Blurred front lines: Trump to meet Zelenskyy as Ukraine, Iran wars collide"
+      "title": "Boeing posts wider loss than expected as Air Force One costs weigh on results"
     },
     {
       "source": "CNBC",
-      "title": "Boeing posts bigger loss than expected as Air Force One costs weigh on results"
+      "title": "AMD, Micron and Nvidia extend losses as chip stocks get clobbered"
     },
     {
       "source": "MarketWatch",
-      "title": "UPS turns the page as job cuts and Amazon \u2018glide down\u2019 are completed"
+      "title": "Las Vegas home prices post largest drop in the nation"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I feel lucky\u2019: I\u2019m 71 and inherited $20,000. What should I do with this money?"
+      "title": "How coordinating 401(k) contributions with your spouse can unlock thousands in retirement wealth"
     }
   ]
 }
