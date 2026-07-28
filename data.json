@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, July 28 2026  02:16 PT",
+  "generated_at": "Tuesday, July 28 2026  04:35 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4042.6,
-      "change_pct": -0.17
+      "price": 4027.7,
+      "change_pct": -0.54
     },
     "Oil (WTI)": {
-      "price": 80.57,
-      "change_pct": -1.21
+      "price": 81.18,
+      "change_pct": -0.47
     },
     "Silver": {
-      "price": 57.72,
-      "change_pct": 0.24
+      "price": 57.49,
+      "change_pct": -0.15
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63378,
-      "change_pct": -2.61
+      "price": 63439,
+      "change_pct": -2.59
     },
     "ETH": {
-      "price": 1880.87,
-      "change_pct": -3.85
+      "price": 1874.55,
+      "change_pct": -4.25
     },
     "SOL": {
-      "price": 73.35,
-      "change_pct": -3.66
+      "price": 73.06,
+      "change_pct": -4.52
     },
     "BNB": {
-      "price": 565.14,
-      "change_pct": -1.12
+      "price": 565.33,
+      "change_pct": -1.24
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran hosts Hormuz calls with Saudi Arabia, Oman as Trump hails \u2018good talks\u2019"
+      "title": "Blurred front lines: Trump to meet Zelenskyy as Ukraine, Iran wars collide"
     },
     {
       "source": "CNBC",
-      "title": "Nasdaq futures fall after Asia chip stock sell-off; investors await earnings blitz: Live updates"
+      "title": "Boeing posts bigger loss than expected as Air Force One costs weigh on results"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?"
+      "title": "UPS turns the page as job cuts and Amazon \u2018glide down\u2019 are completed"
     },
     {
       "source": "MarketWatch",
-      "title": "Actor Orlando Bloom tries again to sell Malibu beach house \u2014 now for $10 million"
+      "title": "\u2018I feel lucky\u2019: I\u2019m 71 and inherited $20,000. What should I do with this money?"
     }
   ]
 }
