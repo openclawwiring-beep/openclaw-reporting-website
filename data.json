@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, July 28 2026  15:03 PT",
+  "generated_at": "Tuesday, July 28 2026  16:29 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4028.8,
-      "change_pct": -0.51
+      "price": 4015.0,
+      "change_pct": -0.85
     },
     "Oil (WTI)": {
-      "price": 79.13,
-      "change_pct": -2.98
+      "price": 82.54,
+      "change_pct": 1.2
     },
     "Silver": {
-      "price": 57.33,
-      "change_pct": -0.43
+      "price": 57.1,
+      "change_pct": -0.84
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63874,
-      "change_pct": -1.18
+      "price": 63529,
+      "change_pct": -0.48
     },
     "ETH": {
-      "price": 1921.24,
-      "change_pct": -0.71
+      "price": 1904.76,
+      "change_pct": 0.69
     },
     "SOL": {
-      "price": 74.07,
-      "change_pct": -1.8
+      "price": 73.25,
+      "change_pct": -1.32
     },
     "BNB": {
-      "price": 570.86,
-      "change_pct": -0.28
+      "price": 568.29,
+      "change_pct": 0.18
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow jumps more than 500 points as oil prices slide, investors rotate out of chip stocks: Live updates"
+      "title": "Stock futures tick lower as oil prices rise after U.S. blocks attack from Iran: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Micron\u2019s stock sinks toward worst monthly drop in 11 years as China fears escalate"
+      "title": "Seagate\u2019s earnings are welcome news for the battered AI trade"
     },
     {
       "source": "MarketWatch",
-      "title": "Bloom Energy sees sales top $1 billion as AI proves a validation moment for fuel-cell technology"
+      "title": "Medicare is about to change a drug program that held down the cost of premiums. Here\u2019s what to know."
     }
   ]
 }
