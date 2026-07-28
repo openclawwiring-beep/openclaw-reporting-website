@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, July 27 2026  17:08 PT",
+  "generated_at": "Monday, July 27 2026  20:46 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4073.7,
-      "change_pct": -0.46
+      "price": 4049.6,
+      "change_pct": -1.05
     },
     "Oil (WTI)": {
-      "price": 82.1,
-      "change_pct": -3.65
+      "price": 81.56,
+      "change_pct": -4.28
     },
     "Silver": {
-      "price": 58.65,
-      "change_pct": -1.59
+      "price": 57.67,
+      "change_pct": -3.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63628,
-      "change_pct": -2.42
+      "price": 63307,
+      "change_pct": -3.05
     },
     "ETH": {
-      "price": 1888.28,
-      "change_pct": -3.12
+      "price": 1880.2,
+      "change_pct": -3.37
     },
     "SOL": {
-      "price": 74.11,
-      "change_pct": -3.12
+      "price": 73.29,
+      "change_pct": -4.09
     },
     "BNB": {
-      "price": 565.25,
-      "change_pct": -1.61
+      "price": 566.13,
+      "change_pct": -1.14
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Apple ends day as world's most valuable company, passing Nvidia"
+      "title": "Oil prices drop more than 2% as a pause in U.S.-Iran hostilities raises de-escalation hopes"
     },
     {
       "source": "CNBC",
-      "title": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions"
+      "title": "U.S. stock futures slip, South Korea's Kospi plunges over 8%: Live updates"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia\u2019s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018It\u2019s a high price to pay\u2019: My adviser says I don\u2019t need a withdrawal plan for my $2.3 million portfolio. Is he right?"
     }
   ]
 }
