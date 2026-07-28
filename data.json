@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, July 27 2026  20:46 PT",
+  "generated_at": "Monday, July 27 2026  23:25 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,50 +15,50 @@
       "change_pct": 0.51
     },
     "Russell 2000": {
-      "price": 2948.03,
+      "price": 2948.04,
       "change_pct": 0.62
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4049.6,
-      "change_pct": -1.05
+      "price": 4045.0,
+      "change_pct": -0.0
     },
     "Oil (WTI)": {
-      "price": 81.56,
-      "change_pct": -4.28
+      "price": 82.12,
+      "change_pct": 0.33
     },
     "Silver": {
-      "price": 57.67,
-      "change_pct": -3.24
+      "price": 57.49,
+      "change_pct": 0.07
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63307,
-      "change_pct": -3.05
+      "price": 63454,
+      "change_pct": -3.09
     },
     "ETH": {
-      "price": 1880.2,
-      "change_pct": -3.37
+      "price": 1881.16,
+      "change_pct": -4.25
     },
     "SOL": {
-      "price": 73.29,
-      "change_pct": -4.09
+      "price": 73.31,
+      "change_pct": -4.38
     },
     "BNB": {
-      "price": 566.13,
-      "change_pct": -1.14
+      "price": 564.59,
+      "change_pct": -1.7
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices drop more than 2% as a pause in U.S.-Iran hostilities raises de-escalation hopes"
+      "title": "Oil extends losses as a pause in U.S.-Iran hostilities raises de-escalation hopes"
     },
     {
       "source": "CNBC",
-      "title": "U.S. stock futures slip, South Korea's Kospi plunges over 8%: Live updates"
+      "title": "U.S. and Korean tech stocks are now tightly linked \u2014 and that could be a worry for investors"
     },
     {
       "source": "MarketWatch",
