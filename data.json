@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, July 27 2026  23:25 PT",
+  "generated_at": "Tuesday, July 28 2026  02:16 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4045.0,
-      "change_pct": -0.0
+      "price": 4042.6,
+      "change_pct": -0.17
     },
     "Oil (WTI)": {
-      "price": 82.12,
-      "change_pct": 0.33
+      "price": 80.57,
+      "change_pct": -1.21
     },
     "Silver": {
-      "price": 57.49,
-      "change_pct": 0.07
+      "price": 57.72,
+      "change_pct": 0.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63454,
-      "change_pct": -3.09
+      "price": 63378,
+      "change_pct": -2.61
     },
     "ETH": {
-      "price": 1881.16,
-      "change_pct": -4.25
+      "price": 1880.87,
+      "change_pct": -3.85
     },
     "SOL": {
-      "price": 73.31,
-      "change_pct": -4.38
+      "price": 73.35,
+      "change_pct": -3.66
     },
     "BNB": {
-      "price": 564.59,
-      "change_pct": -1.7
+      "price": 565.14,
+      "change_pct": -1.12
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil extends losses as a pause in U.S.-Iran hostilities raises de-escalation hopes"
+      "title": "Iran hosts Hormuz calls with Saudi Arabia, Oman as Trump hails \u2018good talks\u2019"
     },
     {
       "source": "CNBC",
-      "title": "U.S. and Korean tech stocks are now tightly linked \u2014 and that could be a worry for investors"
+      "title": "Nasdaq futures fall after Asia chip stock sell-off; investors await earnings blitz: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia\u2019s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns"
+      "title": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?"
+      "title": "Actor Orlando Bloom tries again to sell Malibu beach house \u2014 now for $10 million"
     }
   ]
 }
