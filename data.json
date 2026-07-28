@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, July 28 2026  13:42 PT",
+  "generated_at": "Tuesday, July 28 2026  15:03 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4027.3,
-      "change_pct": -0.55
+      "price": 4028.8,
+      "change_pct": -0.51
     },
     "Oil (WTI)": {
-      "price": 79.04,
-      "change_pct": -3.09
+      "price": 79.13,
+      "change_pct": -2.98
     },
     "Silver": {
-      "price": 57.37,
-      "change_pct": -0.36
+      "price": 57.33,
+      "change_pct": -0.43
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63828,
-      "change_pct": -1.66
+      "price": 63874,
+      "change_pct": -1.18
     },
     "ETH": {
-      "price": 1915.31,
-      "change_pct": -1.46
+      "price": 1921.24,
+      "change_pct": -0.71
     },
     "SOL": {
-      "price": 74.02,
-      "change_pct": -2.45
+      "price": 74.07,
+      "change_pct": -1.8
     },
     "BNB": {
-      "price": 570.3,
-      "change_pct": -0.71
+      "price": 570.86,
+      "change_pct": -0.28
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Microsoft is making a $190 billion AI gamble \u2014 and investors will soon see if it\u2019s paying off"
+      "title": "Micron\u2019s stock sinks toward worst monthly drop in 11 years as China fears escalate"
     },
     {
       "source": "MarketWatch",
-      "title": "Forget oil. A surging El Ni\u00f1o could kill Fed rate cuts \u2014 and these stocks stand to win."
+      "title": "Bloom Energy sees sales top $1 billion as AI proves a validation moment for fuel-cell technology"
     }
   ]
 }
