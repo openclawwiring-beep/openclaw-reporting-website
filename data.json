@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, July 28 2026  10:53 PT",
-  "market_status": "Live \u2014 as of 13:53 ET",
+  "generated_at": "Tuesday, July 28 2026  12:20 PT",
+  "market_status": "Live \u2014 as of 15:20 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7432.18,
-      "change_pct": 0.25
+      "price": 7439.2,
+      "change_pct": 0.35
     },
     "Nasdaq": {
-      "price": 24896.49,
-      "change_pct": -0.14
+      "price": 24915.44,
+      "change_pct": -0.07
     },
     "Dow Jones": {
-      "price": 52803.31,
-      "change_pct": 1.15
+      "price": 52810.37,
+      "change_pct": 1.16
     },
     "Russell 2000": {
-      "price": 2951.78,
-      "change_pct": 0.13
+      "price": 2952.1,
+      "change_pct": 0.14
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4028.4,
-      "change_pct": -0.52
+      "price": 4023.9,
+      "change_pct": -0.63
     },
     "Oil (WTI)": {
-      "price": 79.31,
-      "change_pct": -2.76
+      "price": 79.09,
+      "change_pct": -3.03
     },
     "Silver": {
-      "price": 57.36,
-      "change_pct": -0.38
+      "price": 57.44,
+      "change_pct": -0.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63583,
-      "change_pct": -2.04
+      "price": 63684,
+      "change_pct": -1.88
     },
     "ETH": {
-      "price": 1897.4,
-      "change_pct": -2.12
+      "price": 1911.38,
+      "change_pct": -1.79
     },
     "SOL": {
-      "price": 73.62,
-      "change_pct": -2.87
+      "price": 73.83,
+      "change_pct": -2.63
     },
     "BNB": {
-      "price": 567.4,
-      "change_pct": -1.1
+      "price": 569.24,
+      "change_pct": -0.96
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Blurred front lines: Trump meets Zelenskyy as Ukraine, Iran wars collide"
+      "title": "Kentucky Gov. Beshear calls on Mitch McConnell to prove he can serve or resign"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?"
+      "title": "\u2018She is on Medicaid\u2019: My sick friend pleaded with me to be her executor. Can I decline after she dies?"
     },
     {
       "source": "MarketWatch",
-      "title": "Alphabet and Tesla took a hit from soaring AI spending. Will Microsoft, Meta and Amazon be next?"
+      "title": "An extra-caffeinated version of Mr. Pibb is helping Coca-Cola win over cash-strapped shoppers"
     }
   ]
 }
