@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, July 28 2026  21:45 PT",
+  "generated_at": "Wednesday, July 29 2026  00:41 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4023.3,
-      "change_pct": 0.04
+      "price": 4046.1,
+      "change_pct": 0.5
     },
     "Oil (WTI)": {
-      "price": 82.35,
-      "change_pct": -0.44
+      "price": 82.12,
+      "change_pct": -0.51
     },
     "Silver": {
-      "price": 57.64,
-      "change_pct": 0.1
+      "price": 58.41,
+      "change_pct": 1.15
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63825,
-      "change_pct": 0.97
+      "price": 64391,
+      "change_pct": 1.47
     },
     "ETH": {
-      "price": 1901.08,
-      "change_pct": 1.29
+      "price": 1913.73,
+      "change_pct": 1.63
     },
     "SOL": {
-      "price": 73.27,
-      "change_pct": 0.25
+      "price": 73.95,
+      "change_pct": 0.98
     },
     "BNB": {
-      "price": 567.79,
-      "change_pct": 0.54
+      "price": 570.43,
+      "change_pct": 0.92
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Oil jumps as U.S.-Iran resume strikes after a brief pause"
+      "title": "S&P 500 futures edge higher as oil climbs; investors await Fed rates decision: Live updates"
     },
     {
       "source": "MarketWatch",
