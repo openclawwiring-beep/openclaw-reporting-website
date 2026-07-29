@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, July 29 2026  05:58 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, July 29 2026  08:13 PT",
+  "market_status": "Live \u2014 as of 11:13 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7428.78,
-      "change_pct": 0.21
+      "price": 7373.46,
+      "change_pct": -0.74
     },
     "Nasdaq": {
-      "price": 24876.91,
-      "change_pct": -0.22
+      "price": 24630.74,
+      "change_pct": -0.99
     },
     "Dow Jones": {
-      "price": 52747.32,
-      "change_pct": 1.03
+      "price": 51945.62,
+      "change_pct": -1.52
     },
     "Russell 2000": {
-      "price": 2953.8,
-      "change_pct": 0.2
+      "price": 2917.99,
+      "change_pct": -1.21
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4080.5,
-      "change_pct": 1.47
+      "price": 4064.7,
+      "change_pct": 1.07
     },
     "Oil (WTI)": {
-      "price": 84.24,
-      "change_pct": 1.85
+      "price": 85.49,
+      "change_pct": 3.36
     },
     "Silver": {
-      "price": 57.49,
-      "change_pct": -0.16
+      "price": 57.22,
+      "change_pct": -0.63
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64254,
-      "change_pct": 1.21
+      "price": 64107,
+      "change_pct": 1.26
     },
     "ETH": {
-      "price": 1904.9,
-      "change_pct": 0.8
+      "price": 1895.87,
+      "change_pct": 0.56
     },
     "SOL": {
-      "price": 73.5,
-      "change_pct": 0.22
+      "price": 73.33,
+      "change_pct": -0.19
     },
     "BNB": {
-      "price": 568.76,
-      "change_pct": 0.17
+      "price": 568.7,
+      "change_pct": 0.13
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices jump more than 6% after Trump says U.S. will hit Iran hard"
+      "title": "Dow tumbles 800 points as losses mount ahead of Fed decision: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Fed likely to keep rates on hold, but Warsh to face some strong dissension. What to watch: Live coverage"
+      "title": "Oil prices jump more than 7% after Trump says U.S. will hit Iran hard"
     },
     {
       "source": "MarketWatch",
-      "title": "Two rival AI super PACs are backing the same congressman. What gives?"
+      "title": "I got an unexpected $1,000 medical bill. Here\u2019s why I\u2019m not paying it yet."
     },
     {
       "source": "MarketWatch",
-      "title": "Think a 1% advisory fee sounds cheap? It is actually eating 15% of your investment returns."
+      "title": "\u2018We already have wills\u2019: We\u2019re in our 60s with $1.5 million. Should we set up a trust to prevent conflict among our heirs?"
     }
   ]
 }
