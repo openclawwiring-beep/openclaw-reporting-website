@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, July 29 2026  12:51 PT",
-  "market_status": "Live \u2014 as of 15:51 ET",
+  "generated_at": "Wednesday, July 29 2026  13:53 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7332.54,
-      "change_pct": -1.3
+      "price": 7316.15,
+      "change_pct": -1.52
     },
     "Nasdaq": {
-      "price": 24515.05,
-      "change_pct": -1.45
+      "price": 24442.94,
+      "change_pct": -1.74
     },
     "Dow Jones": {
-      "price": 51596.28,
-      "change_pct": -2.18
+      "price": 51594.14,
+      "change_pct": -2.19
     },
     "Russell 2000": {
-      "price": 2918.56,
-      "change_pct": -1.19
+      "price": 2906.31,
+      "change_pct": -1.61
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4128.7,
-      "change_pct": 2.67
+      "price": 4126.6,
+      "change_pct": 2.61
     },
     "Oil (WTI)": {
-      "price": 84.91,
-      "change_pct": 2.66
+      "price": 84.66,
+      "change_pct": 2.36
     },
     "Silver": {
-      "price": 58.24,
-      "change_pct": 1.13
+      "price": 57.83,
+      "change_pct": 0.43
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63606,
-      "change_pct": -0.19
+      "price": 63468,
+      "change_pct": -0.62
     },
     "ETH": {
-      "price": 1887.89,
-      "change_pct": -1.56
+      "price": 1883.29,
+      "change_pct": -1.71
     },
     "SOL": {
-      "price": 73.04,
-      "change_pct": -1.61
+      "price": 72.76,
+      "change_pct": -1.66
     },
     "BNB": {
-      "price": 568.09,
-      "change_pct": -0.35
+      "price": 567.29,
+      "change_pct": -0.58
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fed meeting live updates: Warsh says Fed 'will not hesitate' to act on inflation"
+      "title": "Meta's stock drops on light revenue guidance, dwindling free cash flow"
     },
     {
       "source": "CNBC",
-      "title": "Divided Fed holds interest rates steady, but three members voted to hike"
+      "title": "Microsoft beats Q4 cloud expectations as full-year Azure revenue tops $100 billion"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m managing a former colleague who just can\u2019t keep up with her workload. How do I handle this without being a jerk?"
+      "title": "\u2018Love Island USA\u2019 winners are spending their $100,000 prize money in a very relatable way"
     },
     {
       "source": "MarketWatch",
-      "title": "Americans are living longer than our retirement system can handle \u2014 and many of us are unprepared"
+      "title": "Robinhood puts up record revenue as volatility drives a trading bonanza"
     }
   ]
 }
