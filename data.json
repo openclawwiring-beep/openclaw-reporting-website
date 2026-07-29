@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, July 29 2026  08:13 PT",
-  "market_status": "Live \u2014 as of 11:13 ET",
+  "generated_at": "Wednesday, July 29 2026  09:49 PT",
+  "market_status": "Live \u2014 as of 12:49 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7373.46,
-      "change_pct": -0.74
+      "price": 7358.76,
+      "change_pct": -0.94
     },
     "Nasdaq": {
-      "price": 24630.74,
-      "change_pct": -0.99
+      "price": 24593.34,
+      "change_pct": -1.14
     },
     "Dow Jones": {
-      "price": 51945.62,
-      "change_pct": -1.52
+      "price": 51879.19,
+      "change_pct": -1.65
     },
     "Russell 2000": {
-      "price": 2917.99,
-      "change_pct": -1.21
+      "price": 2910.32,
+      "change_pct": -1.47
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4064.7,
-      "change_pct": 1.07
+      "price": 4074.8,
+      "change_pct": 1.33
     },
     "Oil (WTI)": {
-      "price": 85.49,
-      "change_pct": 3.36
+      "price": 84.45,
+      "change_pct": 2.1
     },
     "Silver": {
-      "price": 57.22,
-      "change_pct": -0.63
+      "price": 57.28,
+      "change_pct": -0.53
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64107,
-      "change_pct": 1.26
+      "price": 63609,
+      "change_pct": -0.38
     },
     "ETH": {
-      "price": 1895.87,
-      "change_pct": 0.56
+      "price": 1888.49,
+      "change_pct": -1.65
     },
     "SOL": {
-      "price": 73.33,
-      "change_pct": -0.19
+      "price": 73.02,
+      "change_pct": -1.64
     },
     "BNB": {
-      "price": 568.7,
-      "change_pct": 0.13
+      "price": 567.32,
+      "change_pct": -0.75
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow tumbles 800 points as losses mount ahead of Fed decision: Live updates"
+      "title": "Dow tumbles 900 points as losses accelerate ahead of Fed decision: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Oil prices jump more than 7% after Trump says U.S. will hit Iran hard"
+      "title": "Trump says U.S. will give Iran a 'beating' after surprise attack"
     },
     {
       "source": "MarketWatch",
-      "title": "I got an unexpected $1,000 medical bill. Here\u2019s why I\u2019m not paying it yet."
+      "title": "Global oil prices top $88 a barrel after Trump vows retaliation for surprise Iranian attack on U.S. troops"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We already have wills\u2019: We\u2019re in our 60s with $1.5 million. Should we set up a trust to prevent conflict among our heirs?"
+      "title": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?"
     }
   ]
 }
