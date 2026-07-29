@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 29 2026  03:37 PT",
+  "generated_at": "Wednesday, July 29 2026  05:58 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4091.1,
-      "change_pct": 1.73
+      "price": 4080.5,
+      "change_pct": 1.47
     },
     "Oil (WTI)": {
-      "price": 82.55,
-      "change_pct": -0.19
+      "price": 84.24,
+      "change_pct": 1.85
     },
     "Silver": {
-      "price": 57.78,
-      "change_pct": 0.34
+      "price": 57.49,
+      "change_pct": -0.16
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64562,
-      "change_pct": 1.9
+      "price": 64254,
+      "change_pct": 1.21
     },
     "ETH": {
-      "price": 1917.53,
-      "change_pct": 2.22
+      "price": 1904.9,
+      "change_pct": 0.8
     },
     "SOL": {
-      "price": 73.96,
-      "change_pct": 1.07
+      "price": 73.5,
+      "change_pct": 0.22
     },
     "BNB": {
-      "price": 571.77,
-      "change_pct": 1.04
+      "price": 568.76,
+      "change_pct": 0.17
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran launches surprise ballistic missile attack on U.S. forces in the Middle East"
+      "title": "Oil prices jump more than 6% after Trump says U.S. will hit Iran hard"
     },
     {
       "source": "CNBC",
-      "title": "Ukraine has found a new pressure point in Russia\u2019s wartime economy"
+      "title": "Fed likely to keep rates on hold, but Warsh to face some strong dissension. What to watch: Live coverage"
     },
     {
       "source": "MarketWatch",
-      "title": "SK Hynix shares sent sprawling once more as earnings miss steepens decline"
+      "title": "Two rival AI super PACs are backing the same congressman. What gives?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?"
+      "title": "Think a 1% advisory fee sounds cheap? It is actually eating 15% of your investment returns."
     }
   ]
 }
