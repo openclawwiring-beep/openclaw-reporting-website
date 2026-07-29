@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 29 2026  00:41 PT",
+  "generated_at": "Wednesday, July 29 2026  03:37 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4046.1,
-      "change_pct": 0.5
+      "price": 4091.1,
+      "change_pct": 1.73
     },
     "Oil (WTI)": {
-      "price": 82.12,
-      "change_pct": -0.51
+      "price": 82.55,
+      "change_pct": -0.19
     },
     "Silver": {
-      "price": 58.41,
-      "change_pct": 1.15
+      "price": 57.78,
+      "change_pct": 0.34
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64391,
-      "change_pct": 1.47
+      "price": 64562,
+      "change_pct": 1.9
     },
     "ETH": {
-      "price": 1913.73,
-      "change_pct": 1.63
+      "price": 1917.53,
+      "change_pct": 2.22
     },
     "SOL": {
-      "price": 73.95,
-      "change_pct": 0.98
+      "price": 73.96,
+      "change_pct": 1.07
     },
     "BNB": {
-      "price": 570.43,
-      "change_pct": 0.92
+      "price": 571.77,
+      "change_pct": 1.04
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "S&P 500 futures edge higher as oil climbs; investors await Fed rates decision: Live updates"
+      "title": "Ukraine has found a new pressure point in Russia\u2019s wartime economy"
     },
     {
       "source": "MarketWatch",
-      "title": "Saudi Arabia has a new, and pricier, workaround to export its oil"
+      "title": "SK Hynix shares sent sprawling once more as earnings miss steepens decline"
     },
     {
       "source": "MarketWatch",
-      "title": "Seagate\u2019s earnings are welcome news for the battered AI trade"
+      "title": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?"
     }
   ]
 }
