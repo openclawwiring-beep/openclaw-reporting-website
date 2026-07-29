@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 29 2026  15:00 PT",
+  "generated_at": "Wednesday, July 29 2026  16:06 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4126.0,
-      "change_pct": 2.6
+      "price": 4146.5,
+      "change_pct": 3.11
     },
     "Oil (WTI)": {
-      "price": 84.6,
-      "change_pct": 2.29
+      "price": 84.44,
+      "change_pct": 2.09
     },
     "Silver": {
-      "price": 57.9,
-      "change_pct": 0.55
+      "price": 58.53,
+      "change_pct": 1.64
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63690,
-      "change_pct": -0.38
+      "price": 63864,
+      "change_pct": 0.32
     },
     "ETH": {
-      "price": 1893.29,
-      "change_pct": -1.57
+      "price": 1902.5,
+      "change_pct": -0.21
     },
     "SOL": {
-      "price": 72.95,
-      "change_pct": -1.6
+      "price": 73.48,
+      "change_pct": 0.28
     },
     "BNB": {
-      "price": 567.93,
-      "change_pct": -0.55
+      "price": 570.42,
+      "change_pct": 0.45
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Microsoft beats Q4 cloud expectations as full-year Azure revenue tops $100 billion"
+      "title": "Microsoft jumps 7% as it boosts capital spending plans, citing demand"
     },
     {
       "source": "MarketWatch",
-      "title": "Stocks and bonds see wild \u2018Fed Day\u2019 swings as Wall Street\u2019s \u2018crash cushion\u2019 evaporates"
+      "title": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?"
     },
     {
       "source": "MarketWatch",
-      "title": "Bond market is calling Warsh\u2019s bluff on inflation fight as yields surge"
+      "title": "Why the USO oil ETF is a better buy than crude futures as the Iran war rages"
     }
   ]
 }
