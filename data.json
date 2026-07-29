@@ -1,60 +1,60 @@
 {
-  "generated_at": "Wednesday, July 29 2026  09:49 PT",
-  "market_status": "Live \u2014 as of 12:49 ET",
+  "generated_at": "Wednesday, July 29 2026  11:06 PT",
+  "market_status": "Live \u2014 as of 14:06 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7358.76,
-      "change_pct": -0.94
+      "price": 7406.65,
+      "change_pct": -0.3
     },
     "Nasdaq": {
-      "price": 24593.34,
-      "change_pct": -1.14
+      "price": 24853.51,
+      "change_pct": -0.09
     },
     "Dow Jones": {
-      "price": 51879.19,
-      "change_pct": -1.65
+      "price": 52064.6,
+      "change_pct": -1.29
     },
     "Russell 2000": {
-      "price": 2910.32,
-      "change_pct": -1.47
+      "price": 2918.42,
+      "change_pct": -1.19
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4074.8,
-      "change_pct": 1.33
+      "price": 4101.6,
+      "change_pct": 1.99
     },
     "Oil (WTI)": {
-      "price": 84.45,
-      "change_pct": 2.1
+      "price": 84.61,
+      "change_pct": 2.3
     },
     "Silver": {
-      "price": 57.28,
-      "change_pct": -0.53
+      "price": 58.12,
+      "change_pct": 0.92
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63609,
-      "change_pct": -0.38
+      "price": 64435,
+      "change_pct": 1.1
     },
     "ETH": {
-      "price": 1888.49,
-      "change_pct": -1.65
+      "price": 1925.64,
+      "change_pct": 0.88
     },
     "SOL": {
-      "price": 73.02,
-      "change_pct": -1.64
+      "price": 74.03,
+      "change_pct": 0.11
     },
     "BNB": {
-      "price": 567.32,
-      "change_pct": -0.75
+      "price": 570.97,
+      "change_pct": 0.38
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow tumbles 900 points as losses accelerate ahead of Fed decision: Live updates"
+      "title": "Divided Fed holds interest rates steady, but three members voted to hike"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Global oil prices top $88 a barrel after Trump vows retaliation for surprise Iranian attack on U.S. troops"
+      "title": "Individual investors are dumping stocks at the fastest pace since the COVID crash"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?"
+      "title": "I\u2019ve seen families destroyed by this common estate-planning mistake. Here\u2019s how to protect yours."
     }
   ]
 }
