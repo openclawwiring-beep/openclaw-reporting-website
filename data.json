@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 29 2026  23:26 PT",
+  "generated_at": "Thursday, July 30 2026  02:13 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4088.9,
-      "change_pct": -0.61
+      "price": 4123.6,
+      "change_pct": 0.23
     },
     "Oil (WTI)": {
-      "price": 85.8,
-      "change_pct": 2.57
+      "price": 84.63,
+      "change_pct": 1.17
     },
     "Silver": {
-      "price": 57.28,
-      "change_pct": -0.77
+      "price": 57.98,
+      "change_pct": 0.43
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63946,
-      "change_pct": -0.29
+      "price": 64261,
+      "change_pct": -0.18
     },
     "ETH": {
-      "price": 1901.99,
-      "change_pct": -0.58
+      "price": 1912.61,
+      "change_pct": -0.2
     },
     "SOL": {
-      "price": 73.5,
-      "change_pct": -0.35
+      "price": 73.8,
+      "change_pct": -0.16
     },
     "BNB": {
-      "price": 572.51,
-      "change_pct": 0.54
+      "price": 577.85,
+      "change_pct": 1.15
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. strikes Iran after surprise missile attack, dashing hopes of de-escalation"
+      "title": "Meta tanks nearly 9%, Microsoft jumps 8% as the AI trade splits Big Tech"
     },
     {
       "source": "CNBC",
-      "title": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged"
+      "title": "Iran says it will 'punish the aggressor today' after 'heavy wave' of U.S. strikes"
     },
     {
       "source": "MarketWatch",
-      "title": "Ford\u2019s big-truck bet is paying off \u2014 and Wall Street is taking notice"
+      "title": "\u2018The View\u2019 Host Joy Behar finally finds a buyer for $7 million Hamptons home after 2 years"
     },
     {
       "source": "MarketWatch",
-      "title": "Why SoFi\u2019s stock drops, even after its earnings beat expectations"
+      "title": "Samsung delivers record-setting profits, but the shares still can\u2019t catch a break from investors."
     }
   ]
 }
