@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, July 30 2026  10:25 PT",
-  "market_status": "Live \u2014 as of 13:25 ET",
+  "generated_at": "Thursday, July 30 2026  11:55 PT",
+  "market_status": "Live \u2014 as of 14:55 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7423.82,
-      "change_pct": 1.47
+      "price": 7429.03,
+      "change_pct": 1.54
     },
     "Nasdaq": {
-      "price": 25075.91,
-      "change_pct": 2.59
+      "price": 25081.13,
+      "change_pct": 2.61
     },
     "Dow Jones": {
-      "price": 52141.71,
-      "change_pct": 1.06
+      "price": 52187.22,
+      "change_pct": 1.15
     },
     "Russell 2000": {
-      "price": 2933.41,
-      "change_pct": 0.92
+      "price": 2935.6,
+      "change_pct": 0.99
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4164.8,
-      "change_pct": 1.23
+      "price": 4163.5,
+      "change_pct": 1.2
     },
     "Oil (WTI)": {
-      "price": 83.95,
-      "change_pct": 0.36
+      "price": 83.73,
+      "change_pct": 0.1
     },
     "Silver": {
-      "price": 58.83,
-      "change_pct": 1.91
+      "price": 59.15,
+      "change_pct": 2.47
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64864,
-      "change_pct": 1.74
+      "price": 64656,
+      "change_pct": 0.22
     },
     "ETH": {
-      "price": 1919.65,
-      "change_pct": 1.2
+      "price": 1916.03,
+      "change_pct": -0.42
     },
     "SOL": {
-      "price": 74.54,
-      "change_pct": 1.73
+      "price": 74.5,
+      "change_pct": 0.18
     },
     "BNB": {
-      "price": 592.65,
-      "change_pct": 4.3
+      "price": 595.0,
+      "change_pct": 3.91
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Social Security\u2019s biggest problem isn\u2019t a design flaw. It\u2019s a missing trust fund."
+      "title": "The warning signal insiders are sending"
     },
     {
       "source": "MarketWatch",
-      "title": "The cyclospora outbreak is the biggest ever. Why the \u2018unusual\u2019 outbreak is so hard to manage."
+      "title": "\u2018Don\u2019t get suckered like I did\u2019: I paid $185 to the wrong passport website. Can I get my money back?"
     }
   ]
 }
