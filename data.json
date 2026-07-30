@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 29 2026  17:54 PT",
+  "generated_at": "Wednesday, July 29 2026  20:55 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4123.6,
-      "change_pct": 2.54
+      "price": 4111.6,
+      "change_pct": 2.24
     },
     "Oil (WTI)": {
-      "price": 84.22,
-      "change_pct": 1.83
+      "price": 83.59,
+      "change_pct": 1.06
     },
     "Silver": {
-      "price": 57.99,
-      "change_pct": 0.7
+      "price": 57.73,
+      "change_pct": 0.25
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63649,
-      "change_pct": -0.57
+      "price": 64141,
+      "change_pct": 0.76
     },
     "ETH": {
-      "price": 1895.68,
-      "change_pct": -1.22
+      "price": 1909.96,
+      "change_pct": 1.03
     },
     "SOL": {
-      "price": 73.25,
-      "change_pct": -0.84
+      "price": 73.69,
+      "change_pct": 0.93
     },
     "BNB": {
-      "price": 570.82,
-      "change_pct": -0.26
+      "price": 572.98,
+      "change_pct": 1.12
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Meta's stock drops on disappointing guidance, dwindling free cash flow"
+      "title": "U.S. strikes Iran after surprise missile attack, dashing hopes of de-escalation"
     },
     {
       "source": "CNBC",
-      "title": "Microsoft jumps 7% as it boosts capital spending plans, citing demand"
+      "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations"
     },
     {
       "source": "MarketWatch",
-      "title": "Qualcomm\u2019s stock falls as memory woes weigh on earnings"
+      "title": "Ford\u2019s big-truck bet is paying off \u2014 and Wall Street is taking notice"
     },
     {
       "source": "MarketWatch",
-      "title": "Starbucks is becoming cool again. Here\u2019s how it pulled off its turnaround."
+      "title": "Why SoFi\u2019s stock drops, even after its earnings beat expectations"
     }
   ]
 }
