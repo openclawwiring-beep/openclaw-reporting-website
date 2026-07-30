@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 30 2026  14:41 PT",
+  "generated_at": "Thursday, July 30 2026  16:05 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4162.8,
-      "change_pct": 1.18
+      "price": 4169.6,
+      "change_pct": 1.35
     },
     "Oil (WTI)": {
-      "price": 83.96,
-      "change_pct": 0.37
+      "price": 84.01,
+      "change_pct": 0.43
     },
     "Silver": {
-      "price": 59.26,
-      "change_pct": 2.66
+      "price": 59.31,
+      "change_pct": 2.73
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64720,
-      "change_pct": 1.83
+      "price": 64804,
+      "change_pct": 1.48
     },
     "ETH": {
-      "price": 1920.73,
-      "change_pct": 1.67
+      "price": 1923.87,
+      "change_pct": 1.14
     },
     "SOL": {
-      "price": 74.45,
-      "change_pct": 2.01
+      "price": 74.64,
+      "change_pct": 1.61
     },
     "BNB": {
-      "price": 591.41,
-      "change_pct": 4.22
+      "price": 592.16,
+      "change_pct": 3.8
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Apple's stock drops 8% as supply constraints lead to weak revenue guidance: Live updates"
+      "title": "Apple's stock drops 6% as supply constraints lead to weak revenue guidance: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Software stocks are fading \u2014 but these 4 could shine through the rest of the year"
+      "title": "Empty seats? Concert giant Live Nation says ticket sales are actually at record levels."
     },
     {
       "source": "MarketWatch",
-      "title": "Can credit cards survive AI shopping? Why Mastercard\u2019s CEO says they\u2019ll \u2018prevail\u2019 in this new era."
+      "title": "Jersey Mike\u2019s spent almost \u2018zero dollars\u2019 on digital marketing. That\u2019s now changing."
     }
   ]
 }
