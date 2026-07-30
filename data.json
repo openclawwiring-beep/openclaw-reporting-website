@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 29 2026  16:06 PT",
+  "generated_at": "Wednesday, July 29 2026  17:54 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4146.5,
-      "change_pct": 3.11
+      "price": 4123.6,
+      "change_pct": 2.54
     },
     "Oil (WTI)": {
-      "price": 84.44,
-      "change_pct": 2.09
+      "price": 84.22,
+      "change_pct": 1.83
     },
     "Silver": {
-      "price": 58.53,
-      "change_pct": 1.64
+      "price": 57.99,
+      "change_pct": 0.7
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63864,
-      "change_pct": 0.32
+      "price": 63649,
+      "change_pct": -0.57
     },
     "ETH": {
-      "price": 1902.5,
-      "change_pct": -0.21
+      "price": 1895.68,
+      "change_pct": -1.22
     },
     "SOL": {
-      "price": 73.48,
-      "change_pct": 0.28
+      "price": 73.25,
+      "change_pct": -0.84
     },
     "BNB": {
-      "price": 570.42,
-      "change_pct": 0.45
+      "price": 570.82,
+      "change_pct": -0.26
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Meta's stock plunges almost 10% on disappointing guidance, dwindling free cash flow"
+      "title": "Meta's stock drops on disappointing guidance, dwindling free cash flow"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?"
+      "title": "Qualcomm\u2019s stock falls as memory woes weigh on earnings"
     },
     {
       "source": "MarketWatch",
-      "title": "Why the USO oil ETF is a better buy than crude futures as the Iran war rages"
+      "title": "Starbucks is becoming cool again. Here\u2019s how it pulled off its turnaround."
     }
   ]
 }
