@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 30 2026  04:28 PT",
+  "generated_at": "Thursday, July 30 2026  06:08 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4139.2,
-      "change_pct": 0.61
+      "price": 4131.0,
+      "change_pct": 0.41
     },
     "Oil (WTI)": {
-      "price": 83.73,
-      "change_pct": 0.1
+      "price": 84.2,
+      "change_pct": 0.66
     },
     "Silver": {
-      "price": 58.33,
-      "change_pct": 1.03
+      "price": 58.36,
+      "change_pct": 1.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64524,
-      "change_pct": 0.09
+      "price": 64828,
+      "change_pct": 0.96
     },
     "ETH": {
-      "price": 1918.09,
-      "change_pct": 0.27
+      "price": 1925.09,
+      "change_pct": 1.13
     },
     "SOL": {
-      "price": 73.99,
-      "change_pct": 0.1
+      "price": 74.33,
+      "change_pct": 1.18
     },
     "BNB": {
-      "price": 587.61,
-      "change_pct": 2.97
+      "price": 585.83,
+      "change_pct": 3.03
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Yum Brands reports mixed results but gives no update on Taco Bell cyclospora outbreak"
+      "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%"
     },
     {
       "source": "CNBC",
-      "title": "Iran says it will 'punish the aggressor today' after 'heavy wave' of U.S. strikes"
+      "title": "Cyclospora outbreak has hurt Taco Bell but sales are already improving, Yum Brands CEO says"
     },
     {
       "source": "MarketWatch",
-      "title": "Wall Street just suffered a historic crash in high-flying stocks. Here is why a quick tech rebound could be a trap."
+      "title": "\u2018I feel lucky\u2019: I\u2019m 71 and inherited $20,000. What should I do with this money?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Don\u2019t get suckered like I did\u2019: I paid $185 to the wrong passport website. Can I get my money back?"
+      "title": "Wall Street just suffered a historic crash in highflying stocks. Why a quick tech rebound could be a trap."
     }
   ]
 }
