@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, July 29 2026  20:55 PT",
+  "generated_at": "Wednesday, July 29 2026  23:26 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4111.6,
-      "change_pct": 2.24
+      "price": 4088.9,
+      "change_pct": -0.61
     },
     "Oil (WTI)": {
-      "price": 83.59,
-      "change_pct": 1.06
+      "price": 85.8,
+      "change_pct": 2.57
     },
     "Silver": {
-      "price": 57.73,
-      "change_pct": 0.25
+      "price": 57.28,
+      "change_pct": -0.77
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64141,
-      "change_pct": 0.76
+      "price": 63946,
+      "change_pct": -0.29
     },
     "ETH": {
-      "price": 1909.96,
-      "change_pct": 1.03
+      "price": 1901.99,
+      "change_pct": -0.58
     },
     "SOL": {
-      "price": 73.69,
-      "change_pct": 0.93
+      "price": 73.5,
+      "change_pct": -0.35
     },
     "BNB": {
-      "price": 572.98,
-      "change_pct": 1.12
+      "price": 572.51,
+      "change_pct": 0.54
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations"
+      "title": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged"
     },
     {
       "source": "MarketWatch",
