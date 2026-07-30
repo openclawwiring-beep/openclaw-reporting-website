@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, July 30 2026  06:08 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, July 30 2026  08:30 PT",
+  "market_status": "Live \u2014 as of 11:30 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7316.15,
-      "change_pct": -1.52
+      "price": 7373.03,
+      "change_pct": 0.78
     },
     "Nasdaq": {
-      "price": 24442.94,
-      "change_pct": -1.74
+      "price": 24920.34,
+      "change_pct": 1.95
     },
     "Dow Jones": {
-      "price": 51594.14,
-      "change_pct": -2.19
+      "price": 51723.88,
+      "change_pct": 0.25
     },
     "Russell 2000": {
-      "price": 2906.31,
-      "change_pct": -1.61
+      "price": 2912.38,
+      "change_pct": 0.2
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4131.0,
-      "change_pct": 0.41
+      "price": 4155.5,
+      "change_pct": 1.01
     },
     "Oil (WTI)": {
-      "price": 84.2,
-      "change_pct": 0.66
+      "price": 84.45,
+      "change_pct": 0.96
     },
     "Silver": {
-      "price": 58.36,
-      "change_pct": 1.09
+      "price": 58.73,
+      "change_pct": 1.73
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64828,
-      "change_pct": 0.96
+      "price": 64674,
+      "change_pct": 1.02
     },
     "ETH": {
-      "price": 1925.09,
-      "change_pct": 1.13
+      "price": 1917.12,
+      "change_pct": 1.26
     },
     "SOL": {
-      "price": 74.33,
-      "change_pct": 1.18
+      "price": 74.52,
+      "change_pct": 1.73
     },
     "BNB": {
-      "price": 585.83,
-      "change_pct": 3.03
+      "price": 589.09,
+      "change_pct": 3.74
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Cyclospora outbreak has hurt Taco Bell but sales are already improving, Yum Brands CEO says"
+      "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I feel lucky\u2019: I\u2019m 71 and inherited $20,000. What should I do with this money?"
+      "title": "Americans are spending plenty \u2014 but they\u2019re saving much less"
     },
     {
       "source": "MarketWatch",
-      "title": "Wall Street just suffered a historic crash in highflying stocks. Why a quick tech rebound could be a trap."
+      "title": "People from this country are buying up the most homes in America right now, even as international sales dry up"
     }
   ]
 }
