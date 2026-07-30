@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 30 2026  02:13 PT",
+  "generated_at": "Thursday, July 30 2026  04:28 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4123.6,
-      "change_pct": 0.23
+      "price": 4139.2,
+      "change_pct": 0.61
     },
     "Oil (WTI)": {
-      "price": 84.63,
-      "change_pct": 1.17
+      "price": 83.73,
+      "change_pct": 0.1
     },
     "Silver": {
-      "price": 57.98,
-      "change_pct": 0.43
+      "price": 58.33,
+      "change_pct": 1.03
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64261,
-      "change_pct": -0.18
+      "price": 64524,
+      "change_pct": 0.09
     },
     "ETH": {
-      "price": 1912.61,
-      "change_pct": -0.2
+      "price": 1918.09,
+      "change_pct": 0.27
     },
     "SOL": {
-      "price": 73.8,
-      "change_pct": -0.16
+      "price": 73.99,
+      "change_pct": 0.1
     },
     "BNB": {
-      "price": 577.85,
-      "change_pct": 1.15
+      "price": 587.61,
+      "change_pct": 2.97
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Meta tanks nearly 9%, Microsoft jumps 8% as the AI trade splits Big Tech"
+      "title": "Yum Brands reports mixed results but gives no update on Taco Bell cyclospora outbreak"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The View\u2019 Host Joy Behar finally finds a buyer for $7 million Hamptons home after 2 years"
+      "title": "Wall Street just suffered a historic crash in high-flying stocks. Here is why a quick tech rebound could be a trap."
     },
     {
       "source": "MarketWatch",
-      "title": "Samsung delivers record-setting profits, but the shares still can\u2019t catch a break from investors."
+      "title": "\u2018Don\u2019t get suckered like I did\u2019: I paid $185 to the wrong passport website. Can I get my money back?"
     }
   ]
 }
