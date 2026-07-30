@@ -1,60 +1,60 @@
 {
-  "generated_at": "Thursday, July 30 2026  08:30 PT",
-  "market_status": "Live \u2014 as of 11:30 ET",
+  "generated_at": "Thursday, July 30 2026  10:25 PT",
+  "market_status": "Live \u2014 as of 13:25 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7373.03,
-      "change_pct": 0.78
+      "price": 7423.82,
+      "change_pct": 1.47
     },
     "Nasdaq": {
-      "price": 24920.34,
-      "change_pct": 1.95
+      "price": 25075.91,
+      "change_pct": 2.59
     },
     "Dow Jones": {
-      "price": 51723.88,
-      "change_pct": 0.25
+      "price": 52141.71,
+      "change_pct": 1.06
     },
     "Russell 2000": {
-      "price": 2912.38,
-      "change_pct": 0.2
+      "price": 2933.41,
+      "change_pct": 0.92
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4155.5,
-      "change_pct": 1.01
+      "price": 4164.8,
+      "change_pct": 1.23
     },
     "Oil (WTI)": {
-      "price": 84.45,
-      "change_pct": 0.96
+      "price": 83.95,
+      "change_pct": 0.36
     },
     "Silver": {
-      "price": 58.73,
-      "change_pct": 1.73
+      "price": 58.83,
+      "change_pct": 1.91
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64674,
-      "change_pct": 1.02
+      "price": 64864,
+      "change_pct": 1.74
     },
     "ETH": {
-      "price": 1917.12,
-      "change_pct": 1.26
+      "price": 1919.65,
+      "change_pct": 1.2
     },
     "SOL": {
-      "price": 74.52,
+      "price": 74.54,
       "change_pct": 1.73
     },
     "BNB": {
-      "price": 589.09,
-      "change_pct": 3.74
+      "price": 592.65,
+      "change_pct": 4.3
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%"
+      "title": "Stocks recover from Fed day sell-off, Nasdaq soars 2% led by chip stocks and Microsoft: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Americans are spending plenty \u2014 but they\u2019re saving much less"
+      "title": "Social Security\u2019s biggest problem isn\u2019t a design flaw. It\u2019s a missing trust fund."
     },
     {
       "source": "MarketWatch",
-      "title": "People from this country are buying up the most homes in America right now, even as international sales dry up"
+      "title": "The cyclospora outbreak is the biggest ever. Why the \u2018unusual\u2019 outbreak is so hard to manage."
     }
   ]
 }
