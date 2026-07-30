@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 30 2026  13:13 PT",
+  "generated_at": "Thursday, July 30 2026  14:41 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,58 +15,58 @@
       "change_pct": 1.19
     },
     "Russell 2000": {
-      "price": 2948.08,
-      "change_pct": 1.42
+      "price": 2946.1,
+      "change_pct": 1.37
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4175.2,
-      "change_pct": 1.49
+      "price": 4162.8,
+      "change_pct": 1.18
     },
     "Oil (WTI)": {
-      "price": 83.67,
-      "change_pct": 0.02
+      "price": 83.96,
+      "change_pct": 0.37
     },
     "Silver": {
-      "price": 59.49,
-      "change_pct": 3.04
+      "price": 59.26,
+      "change_pct": 2.66
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64770,
-      "change_pct": 2.08
+      "price": 64720,
+      "change_pct": 1.83
     },
     "ETH": {
-      "price": 1921.37,
-      "change_pct": 2.08
+      "price": 1920.73,
+      "change_pct": 1.67
     },
     "SOL": {
-      "price": 74.64,
-      "change_pct": 2.71
+      "price": 74.45,
+      "change_pct": 2.01
     },
     "BNB": {
-      "price": 593.08,
-      "change_pct": 4.56
+      "price": 591.41,
+      "change_pct": 4.22
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Amazon posts Q2 revenue beat, accelerating cloud growth"
+      "title": "Amazon hikes 2026 capex to $220 billion due to higher memory costs"
     },
     {
       "source": "CNBC",
-      "title": "Stocks bounce back from Fed selloff, Nasdaq snaps 6-day losing streak: Live updates"
+      "title": "Apple's stock drops 8% as supply constraints lead to weak revenue guidance: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Implosion of Situational Awareness has Wall Street betting the bottom is in for the AI trade"
+      "title": "Software stocks are fading \u2014 but these 4 could shine through the rest of the year"
     },
     {
       "source": "MarketWatch",
-      "title": "Warsh\u2019s Wall Street cred takes a hit as investors doubt the Fed chair\u2019s inflation-fighting resolve"
+      "title": "Can credit cards survive AI shopping? Why Mastercard\u2019s CEO says they\u2019ll \u2018prevail\u2019 in this new era."
     }
   ]
 }
