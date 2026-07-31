@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, July 31 2026  14:37 PT",
+  "generated_at": "Friday, July 31 2026  15:58 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62951,
-      "change_pct": -2.71
+      "price": 62877,
+      "change_pct": -2.97
     },
     "ETH": {
-      "price": 1860.98,
-      "change_pct": -3.06
+      "price": 1860.16,
+      "change_pct": -3.33
     },
     "SOL": {
-      "price": 72.95,
-      "change_pct": -1.97
+      "price": 72.83,
+      "change_pct": -2.49
     },
     "BNB": {
-      "price": 587.52,
-      "change_pct": -0.58
+      "price": 586.3,
+      "change_pct": -0.88
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Health savings accounts can be a great retirement tool \u2013 if you\u2019re healthy or wealthy"
+      "title": "July ends on a hopeful note for stocks after momentum trade sees biggest wipeout since 2000"
     },
     {
       "source": "MarketWatch",
-      "title": "S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff."
+      "title": "Situational Awareness vs. Long-Term Capital Management: A side-by-side comparison"
     }
   ]
 }
