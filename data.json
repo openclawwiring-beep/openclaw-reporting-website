@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, July 31 2026  00:54 PT",
+  "generated_at": "Friday, July 31 2026  03:37 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4129.3,
-      "change_pct": -0.09
+      "price": 4109.9,
+      "change_pct": -0.56
     },
     "Oil (WTI)": {
-      "price": 82.58,
-      "change_pct": 0.27
+      "price": 84.0,
+      "change_pct": 1.99
     },
     "Silver": {
-      "price": 58.52,
-      "change_pct": -0.16
+      "price": 58.21,
+      "change_pct": -0.7
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63916,
-      "change_pct": -0.02
+      "price": 63792,
+      "change_pct": -1.11
     },
     "ETH": {
-      "price": 1887.99,
-      "change_pct": -0.74
+      "price": 1885.86,
+      "change_pct": -1.63
     },
     "SOL": {
-      "price": 73.64,
-      "change_pct": 0.34
+      "price": 73.54,
+      "change_pct": -0.59
     },
     "BNB": {
-      "price": 589.49,
-      "change_pct": 2.63
+      "price": 589.67,
+      "change_pct": 0.97
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack"
+      "title": "Apple drops 7%, Amazon surges 12% as investors pick AI winners after earnings"
     },
     {
       "source": "CNBC",
-      "title": "Oil prices ease as recovering Hormuz Strait traffic tempers war premium"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Corporate insiders are sending warning signals about the stock market"
+      "title": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018Don\u2019t get suckered like I did\u2019: I paid $185 to the wrong passport website. Can I get my money back?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I\u2019m 75 and afraid to let my retirement fund dip below $1 million. Am I being too aggressive?"
     }
   ]
 }
