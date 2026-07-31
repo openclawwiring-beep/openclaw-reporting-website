@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, July 31 2026  05:54 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, July 31 2026  08:18 PT",
+  "market_status": "Live \u2014 as of 11:18 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7437.63,
-      "change_pct": 1.66
+      "price": 7441.28,
+      "change_pct": 0.05
     },
     "Nasdaq": {
-      "price": 25122.18,
-      "change_pct": 2.78
+      "price": 25164.33,
+      "change_pct": 0.17
     },
     "Dow Jones": {
-      "price": 52208.06,
-      "change_pct": 1.19
+      "price": 52288.3,
+      "change_pct": 0.15
     },
     "Russell 2000": {
-      "price": 2946.1,
-      "change_pct": 1.37
+      "price": 2924.87,
+      "change_pct": -0.73
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4099.8,
-      "change_pct": -0.81
+      "price": 4103.0,
+      "change_pct": -0.73
     },
     "Oil (WTI)": {
-      "price": 85.16,
-      "change_pct": 3.4
+      "price": 85.87,
+      "change_pct": 4.26
     },
     "Silver": {
-      "price": 57.94,
-      "change_pct": -1.16
+      "price": 57.76,
+      "change_pct": -1.47
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63625,
-      "change_pct": -1.85
+      "price": 62587,
+      "change_pct": -3.23
     },
     "ETH": {
-      "price": 1876.52,
-      "change_pct": -2.36
+      "price": 1856.89,
+      "change_pct": -3.07
     },
     "SOL": {
-      "price": 73.42,
-      "change_pct": -1.16
+      "price": 72.91,
+      "change_pct": -2.25
     },
     "BNB": {
-      "price": 589.82,
-      "change_pct": 0.7
+      "price": 585.14,
+      "change_pct": -0.64
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Exxon and Chevron profits surge on rising oil prices due to Iran war"
+      "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag"
     },
     {
       "source": "CNBC",
-      "title": "Fed officials who voted to hike rates say action is needed now against inflation"
+      "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund \u2014 and lost most of it in days"
     },
     {
       "source": "MarketWatch",
-      "title": "The Big Mac Index turns 40. Here\u2019s why it\u2019s still relevant."
+      "title": "I\u2019m 75 and afraid to let my retirement fund dip below $1 million. Am I being too conservative?"
     },
     {
       "source": "MarketWatch",
-      "title": "Fed dissenters speak: Why they backed higher interest rates"
+      "title": "6 crucial money lessons Gen Z isn\u2019t getting from their parents"
     }
   ]
 }
