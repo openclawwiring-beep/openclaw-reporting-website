@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 30 2026  21:58 PT",
+  "generated_at": "Friday, July 31 2026  00:54 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4135.7,
-      "change_pct": -0.13
+      "price": 4129.3,
+      "change_pct": -0.09
     },
     "Oil (WTI)": {
-      "price": 81.95,
-      "change_pct": -0.51
+      "price": 82.58,
+      "change_pct": 0.27
     },
     "Silver": {
-      "price": 58.81,
-      "change_pct": -0.14
+      "price": 58.52,
+      "change_pct": -0.16
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64249,
-      "change_pct": 0.48
+      "price": 63916,
+      "change_pct": -0.02
     },
     "ETH": {
-      "price": 1903.82,
-      "change_pct": 0.21
+      "price": 1887.99,
+      "change_pct": -0.74
     },
     "SOL": {
-      "price": 73.7,
-      "change_pct": 0.33
+      "price": 73.64,
+      "change_pct": 0.34
     },
     "BNB": {
-      "price": 588.74,
-      "change_pct": 3.07
+      "price": 589.49,
+      "change_pct": 2.63
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices ease as recovering Hormuz Strait traffic tempers war premium"
+      "title": "Iran targets strategic U.S. assets in Kuwait, Bahrain after Egypt drone attack"
     },
     {
       "source": "CNBC",
-      "title": "BOJ holds rates at 1%, warns of core inflation exceeding 2% target"
+      "title": "Oil prices ease as recovering Hormuz Strait traffic tempers war premium"
     },
     {
       "source": "MarketWatch",
