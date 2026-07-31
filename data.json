@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, July 31 2026  11:52 PT",
-  "market_status": "Live \u2014 as of 14:52 ET",
+  "generated_at": "Friday, July 31 2026  13:19 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7487.79,
-      "change_pct": 0.68
+      "price": 7489.72,
+      "change_pct": 0.7
     },
     "Nasdaq": {
-      "price": 25352.54,
-      "change_pct": 0.92
+      "price": 25373.85,
+      "change_pct": 1.0
     },
     "Dow Jones": {
-      "price": 52528.86,
-      "change_pct": 0.61
+      "price": 52485.03,
+      "change_pct": 0.53
     },
     "Russell 2000": {
-      "price": 2935.94,
-      "change_pct": -0.36
+      "price": 2931.34,
+      "change_pct": -0.5
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4106.8,
-      "change_pct": -0.64
+      "price": 4103.4,
+      "change_pct": -0.72
     },
     "Oil (WTI)": {
-      "price": 84.64,
-      "change_pct": 2.77
+      "price": 84.6,
+      "change_pct": 2.72
     },
     "Silver": {
-      "price": 58.1,
-      "change_pct": -0.87
+      "price": 57.97,
+      "change_pct": -1.1
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63024,
-      "change_pct": -2.53
+      "price": 62954,
+      "change_pct": -2.74
     },
     "ETH": {
-      "price": 1869.05,
-      "change_pct": -2.46
+      "price": 1867.0,
+      "change_pct": -2.76
     },
     "SOL": {
-      "price": 73.05,
-      "change_pct": -1.96
+      "price": 73.03,
+      "change_pct": -2.03
     },
     "BNB": {
-      "price": 588.26,
-      "change_pct": -1.14
+      "price": 587.91,
+      "change_pct": -0.76
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses"
+      "title": "As Warsh\u2019s Fed faces pressure to act on inflation, these indicators show it\u2019s at its lowest in years"
     },
     {
       "source": "MarketWatch",
-      "title": "AI stocks may have bottomed out. What investors should watch for next."
+      "title": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned."
     },
     {
       "source": "MarketWatch",
-      "title": "My girlfriend is 62. Can she claim her late husband\u2019s full Social Security benefit \u2014 or does she have to wait?"
+      "title": "We\u2019re in our 60s with $1.5 million. Would a trust be more effective than a will to prevent conflict among our heirs?"
     }
   ]
 }
