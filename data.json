@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 30 2026  18:03 PT",
+  "generated_at": "Thursday, July 30 2026  21:58 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4152.8,
-      "change_pct": 0.94
+      "price": 4135.7,
+      "change_pct": -0.13
     },
     "Oil (WTI)": {
-      "price": 83.71,
-      "change_pct": 0.07
+      "price": 81.95,
+      "change_pct": -0.51
     },
     "Silver": {
-      "price": 59.08,
-      "change_pct": 2.33
+      "price": 58.81,
+      "change_pct": -0.14
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64837,
-      "change_pct": 1.81
+      "price": 64249,
+      "change_pct": 0.48
     },
     "ETH": {
-      "price": 1920.29,
-      "change_pct": 1.13
+      "price": 1903.82,
+      "change_pct": 0.21
     },
     "SOL": {
-      "price": 74.47,
-      "change_pct": 1.57
+      "price": 73.7,
+      "change_pct": 0.33
     },
     "BNB": {
-      "price": 590.86,
-      "change_pct": 3.37
+      "price": 588.74,
+      "change_pct": 3.07
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Amazon hikes 2026 capex to $220 billion due to higher memory costs"
+      "title": "Oil prices ease as recovering Hormuz Strait traffic tempers war premium"
     },
     {
       "source": "CNBC",
-      "title": "Apple earnings takeaways: Weak forecast, supply concerns overshadow sales beat in Cook's last report as CEO"
+      "title": "BOJ holds rates at 1%, warns of core inflation exceeding 2% target"
     },
     {
       "source": "MarketWatch",
