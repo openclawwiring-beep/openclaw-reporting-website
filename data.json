@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, July 30 2026  16:05 PT",
+  "generated_at": "Thursday, July 30 2026  18:03 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4169.6,
-      "change_pct": 1.35
+      "price": 4152.8,
+      "change_pct": 0.94
     },
     "Oil (WTI)": {
-      "price": 84.01,
-      "change_pct": 0.43
+      "price": 83.71,
+      "change_pct": 0.07
     },
     "Silver": {
-      "price": 59.31,
-      "change_pct": 2.73
+      "price": 59.08,
+      "change_pct": 2.33
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64804,
-      "change_pct": 1.48
+      "price": 64837,
+      "change_pct": 1.81
     },
     "ETH": {
-      "price": 1923.87,
-      "change_pct": 1.14
+      "price": 1920.29,
+      "change_pct": 1.13
     },
     "SOL": {
-      "price": 74.64,
-      "change_pct": 1.61
+      "price": 74.47,
+      "change_pct": 1.57
     },
     "BNB": {
-      "price": 592.16,
-      "change_pct": 3.8
+      "price": 590.86,
+      "change_pct": 3.37
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Apple's stock drops 6% as supply constraints lead to weak revenue guidance: Live updates"
+      "title": "Apple earnings takeaways: Weak forecast, supply concerns overshadow sales beat in Cook's last report as CEO"
     },
     {
       "source": "MarketWatch",
-      "title": "Empty seats? Concert giant Live Nation says ticket sales are actually at record levels."
+      "title": "Corporate insiders are sending warning signals about the stock market"
     },
     {
       "source": "MarketWatch",
-      "title": "Jersey Mike\u2019s spent almost \u2018zero dollars\u2019 on digital marketing. That\u2019s now changing."
+      "title": "\u2018Don\u2019t get suckered like I did\u2019: I paid $185 to the wrong passport website. Can I get my money back?"
     }
   ]
 }
