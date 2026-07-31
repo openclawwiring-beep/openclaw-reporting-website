@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, July 31 2026  10:04 PT",
-  "market_status": "Live \u2014 as of 13:04 ET",
+  "generated_at": "Friday, July 31 2026  11:52 PT",
+  "market_status": "Live \u2014 as of 14:52 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7476.38,
-      "change_pct": 0.52
+      "price": 7487.79,
+      "change_pct": 0.68
     },
     "Nasdaq": {
-      "price": 25298.37,
-      "change_pct": 0.7
+      "price": 25352.54,
+      "change_pct": 0.92
     },
     "Dow Jones": {
-      "price": 52456.69,
-      "change_pct": 0.48
+      "price": 52528.86,
+      "change_pct": 0.61
     },
     "Russell 2000": {
-      "price": 2928.9,
-      "change_pct": -0.59
+      "price": 2935.94,
+      "change_pct": -0.36
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4101.0,
-      "change_pct": -0.78
+      "price": 4106.8,
+      "change_pct": -0.64
     },
     "Oil (WTI)": {
-      "price": 84.69,
-      "change_pct": 2.83
+      "price": 84.64,
+      "change_pct": 2.77
     },
     "Silver": {
-      "price": 57.71,
-      "change_pct": -1.55
+      "price": 58.1,
+      "change_pct": -0.87
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62811,
-      "change_pct": -3.05
+      "price": 63024,
+      "change_pct": -2.53
     },
     "ETH": {
-      "price": 1863.08,
-      "change_pct": -2.86
+      "price": 1869.05,
+      "change_pct": -2.46
     },
     "SOL": {
-      "price": 73.19,
-      "change_pct": -1.81
+      "price": 73.05,
+      "change_pct": -1.96
     },
     "BNB": {
-      "price": 586.89,
-      "change_pct": -1.02
+      "price": 588.26,
+      "change_pct": -1.14
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag"
+      "title": "Trump says U.S. has 'not agreed to' grant Ukraine Patriot missile licenses"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s how Big Oil cashed in on the historic supply crunch"
+      "title": "AI stocks may have bottomed out. What investors should watch for next."
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019ve seen families destroyed by this common estate-planning mistake. Here\u2019s how to protect yours."
+      "title": "My girlfriend is 62. Can she claim her late husband\u2019s full Social Security benefit \u2014 or does she have to wait?"
     }
   ]
 }
