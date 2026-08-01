@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 01 2026  15:53 PT",
+  "generated_at": "Saturday, August 01 2026  16:56 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62790,
-      "change_pct": -0.12
+      "price": 62767,
+      "change_pct": -0.08
     },
     "ETH": {
-      "price": 1846.18,
-      "change_pct": -0.78
+      "price": 1843.21,
+      "change_pct": -0.91
     },
     "SOL": {
-      "price": 71.88,
-      "change_pct": -1.29
+      "price": 71.87,
+      "change_pct": -1.26
     },
     "BNB": {
-      "price": 575.46,
-      "change_pct": -1.86
+      "price": 574.96,
+      "change_pct": -1.97
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes"
+      "title": "Embassies warn Americans of travel risk amid signs of possible U.S.-Iran military action in the coming days"
     },
     {
       "source": "MarketWatch",
