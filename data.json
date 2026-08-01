@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 01 2026  07:06 PT",
+  "generated_at": "Saturday, August 01 2026  08:36 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63022,
-      "change_pct": 0.04
+      "price": 63003,
+      "change_pct": 0.73
     },
     "ETH": {
-      "price": 1868.89,
-      "change_pct": 0.38
+      "price": 1869.98,
+      "change_pct": 0.7
     },
     "SOL": {
-      "price": 72.94,
-      "change_pct": -0.21
+      "price": 72.73,
+      "change_pct": -0.22
     },
     "BNB": {
-      "price": 578.93,
-      "change_pct": -1.51
+      "price": 577.26,
+      "change_pct": -1.17
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "College kids are moving into retirement communities for reasons beyond \u2018cheap rent\u2019"
+      "title": "Medicare is about to change a drug program that held down the cost of premiums. Here\u2019s what to know."
     },
     {
       "source": "MarketWatch",
-      "title": "They spent tens of thousands of dollars on home remodels \u2014 only to regret it"
+      "title": "Caregivers deplete their savings and many have stopped trying to save. Should they get paid?"
     }
   ]
 }
