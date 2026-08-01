@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 01 2026  11:02 PT",
+  "generated_at": "Saturday, August 01 2026  12:42 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62652,
-      "change_pct": -0.88
-    },
-    "ETH": {
-      "price": 1860.22,
+      "price": 62435,
       "change_pct": -0.72
     },
+    "ETH": {
+      "price": 1834.91,
+      "change_pct": -1.56
+    },
     "SOL": {
-      "price": 71.83,
-      "change_pct": -2.07
+      "price": 71.16,
+      "change_pct": -2.41
     },
     "BNB": {
-      "price": 576.65,
-      "change_pct": -2.05
+      "price": 575.55,
+      "change_pct": -2.04
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'"
+      "title": "As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Americans are living longer than our retirement system can handle \u2014 and many of us are unprepared"
+      "title": "Let\u2019s elect candidates who will make the wealthy pay taxes"
     },
     {
       "source": "MarketWatch",
-      "title": "My financial adviser says I don\u2019t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?"
+      "title": "\u2018Don\u2019t get suckered like I did\u2019: I paid $185 to the wrong passport website. Can I get my money back?"
     }
   ]
 }
