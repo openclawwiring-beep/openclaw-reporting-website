@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 01 2026  03:57 PT",
+  "generated_at": "Saturday, August 01 2026  05:04 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62997,
-      "change_pct": -1.38
+      "price": 63037,
+      "change_pct": -1.09
     },
     "ETH": {
-      "price": 1866.25,
-      "change_pct": -1.11
+      "price": 1865.62,
+      "change_pct": -0.83
     },
     "SOL": {
-      "price": 72.79,
-      "change_pct": -1.01
+      "price": 72.85,
+      "change_pct": -0.84
     },
     "BNB": {
-      "price": 580.62,
-      "change_pct": -1.91
+      "price": 579.64,
+      "change_pct": -1.98
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?"
+      "title": "Loyalists may miss the old Southwest. Wall Street loves the new one."
     },
     {
       "source": "MarketWatch",
-      "title": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned."
+      "title": "Many boomers are desperate to move but can\u2019t afford to"
     }
   ]
 }
