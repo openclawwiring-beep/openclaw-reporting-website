@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 01 2026  13:53 PT",
+  "generated_at": "Saturday, August 01 2026  14:54 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62588,
-      "change_pct": -0.54
+      "price": 62772,
+      "change_pct": -0.29
     },
     "ETH": {
-      "price": 1835.58,
-      "change_pct": -1.46
+      "price": 1843.55,
+      "change_pct": -0.95
     },
     "SOL": {
-      "price": 71.47,
-      "change_pct": -2.0
+      "price": 71.78,
+      "change_pct": -1.6
     },
     "BNB": {
-      "price": 574.82,
-      "change_pct": -2.07
+      "price": 575.23,
+      "change_pct": -2.06
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Let\u2019s elect candidates who will make the wealthy pay taxes"
+      "title": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Don\u2019t get suckered like I did\u2019: I paid $185 to the wrong passport website. Can I get my money back?"
+      "title": "\u2018We have always been civil\u2019: My sister refuses to replace me as executor. Can I step down before she dies?"
     }
   ]
 }
