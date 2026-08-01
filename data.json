@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 01 2026  09:57 PT",
+  "generated_at": "Saturday, August 01 2026  11:02 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62873,
-      "change_pct": 0.11
+      "price": 62652,
+      "change_pct": -0.88
     },
     "ETH": {
-      "price": 1866.81,
-      "change_pct": 0.25
+      "price": 1860.22,
+      "change_pct": -0.72
     },
     "SOL": {
-      "price": 72.51,
-      "change_pct": -1.0
+      "price": 71.83,
+      "change_pct": -2.07
     },
     "BNB": {
-      "price": 577.55,
-      "change_pct": -1.61
+      "price": 576.65,
+      "change_pct": -2.05
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 75 and afraid to let my retirement fund dip below $1 million. Am I being too conservative?"
+      "title": "Americans are living longer than our retirement system can handle \u2014 and many of us are unprepared"
     },
     {
       "source": "MarketWatch",
-      "title": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?"
+      "title": "My financial adviser says I don\u2019t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?"
     }
   ]
 }
