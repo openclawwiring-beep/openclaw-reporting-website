@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 01 2026  05:04 PT",
+  "generated_at": "Saturday, August 01 2026  07:06 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63037,
-      "change_pct": -1.09
+      "price": 63022,
+      "change_pct": 0.04
     },
     "ETH": {
-      "price": 1865.62,
-      "change_pct": -0.83
+      "price": 1868.89,
+      "change_pct": 0.38
     },
     "SOL": {
-      "price": 72.85,
-      "change_pct": -0.84
+      "price": 72.94,
+      "change_pct": -0.21
     },
     "BNB": {
-      "price": 579.64,
-      "change_pct": -1.98
+      "price": 578.93,
+      "change_pct": -1.51
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes"
+      "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'"
     },
     {
       "source": "CNBC",
-      "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund \u2014 and lost most of it in days"
+      "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes"
     },
     {
       "source": "MarketWatch",
-      "title": "Loyalists may miss the old Southwest. Wall Street loves the new one."
+      "title": "College kids are moving into retirement communities for reasons beyond \u2018cheap rent\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "Many boomers are desperate to move but can\u2019t afford to"
+      "title": "They spent tens of thousands of dollars on home remodels \u2014 only to regret it"
     }
   ]
 }
