@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 01 2026  02:05 PT",
+  "generated_at": "Saturday, August 01 2026  03:57 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63078,
-      "change_pct": -1.1
+      "price": 62997,
+      "change_pct": -1.38
     },
     "ETH": {
-      "price": 1867.77,
-      "change_pct": -1.1
+      "price": 1866.25,
+      "change_pct": -1.11
     },
     "SOL": {
-      "price": 73.01,
-      "change_pct": -0.79
+      "price": 72.79,
+      "change_pct": -1.01
     },
     "BNB": {
-      "price": 585.49,
-      "change_pct": -1.03
+      "price": 580.62,
+      "change_pct": -1.91
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund \u2014 and lost most of it in days"
+      "title": "Tankers near Oman come under fire as Iran threatens to choke off shipping routes"
     },
     {
       "source": "CNBC",
-      "title": "As Warsh\u2019s Fed faces pressure to act on inflation, these indicators show it\u2019s at its lowest in years"
+      "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund \u2014 and lost most of it in days"
     },
     {
       "source": "MarketWatch",
