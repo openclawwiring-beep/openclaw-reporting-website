@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, July 31 2026  17:04 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, July 31 2026  21:00 PT",
+  "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7489.72,
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4098.6,
-      "change_pct": -0.83
+      "price": 4049.1,
+      "change_pct": -2.03
     },
     "Oil (WTI)": {
-      "price": 86.8,
-      "change_pct": 5.39
+      "price": 84.67,
+      "change_pct": 2.8
     },
     "Silver": {
-      "price": 57.78,
-      "change_pct": -1.43
+      "price": 57.59,
+      "change_pct": -1.75
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62897,
-      "change_pct": -2.96
+      "price": 62940,
+      "change_pct": -2.15
     },
     "ETH": {
-      "price": 1862.93,
-      "change_pct": -2.95
+      "price": 1867.87,
+      "change_pct": -2.08
     },
     "SOL": {
-      "price": 72.88,
-      "change_pct": -2.24
+      "price": 72.96,
+      "change_pct": -1.59
     },
     "BNB": {
-      "price": 587.21,
-      "change_pct": -0.71
+      "price": 588.92,
+      "change_pct": -0.02
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "July ends on a hopeful note for stocks after momentum trade sees biggest wipeout since 2000"
+      "title": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?"
     },
     {
       "source": "MarketWatch",
-      "title": "Situational Awareness vs. Long-Term Capital Management: A side-by-side comparison"
+      "title": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned."
     }
   ]
 }
