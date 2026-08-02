@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 02 2026  14:54 PT",
+  "generated_at": "Sunday, August 02 2026  15:55 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4107.0,
-      "change_pct": -0.63
+      "price": 4123.5,
+      "change_pct": 0.4
     },
     "Oil (WTI)": {
-      "price": 84.67,
-      "change_pct": 2.8
+      "price": 80.84,
+      "change_pct": -4.52
     },
     "Silver": {
-      "price": 57.79,
-      "change_pct": -1.41
+      "price": 58.67,
+      "change_pct": 1.52
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63592,
-      "change_pct": 1.32
+      "price": 63392,
+      "change_pct": 0.96
     },
     "ETH": {
-      "price": 1891.41,
-      "change_pct": 2.6
+      "price": 1881.27,
+      "change_pct": 1.89
     },
     "SOL": {
-      "price": 73.95,
-      "change_pct": 3.03
+      "price": 73.63,
+      "change_pct": 2.46
     },
     "BNB": {
-      "price": 589.52,
-      "change_pct": 2.48
+      "price": 587.71,
+      "change_pct": 2.15
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump cancels planned attack on Iran, saying he reached an agreement over the 'perimeters of a deal'"
+      "title": "Stock futures rally as investors gear up for jobs report, key earnings: Live updates"
     },
     {
       "source": "CNBC",
