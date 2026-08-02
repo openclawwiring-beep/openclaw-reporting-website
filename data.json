@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 02 2026  04:41 PT",
+  "generated_at": "Sunday, August 02 2026  06:17 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63112,
-      "change_pct": 0.15
+      "price": 63058,
+      "change_pct": 0.04
     },
     "ETH": {
-      "price": 1861.87,
-      "change_pct": -0.17
+      "price": 1854.69,
+      "change_pct": -0.65
     },
     "SOL": {
-      "price": 73.14,
-      "change_pct": 0.46
+      "price": 72.91,
+      "change_pct": 0.03
     },
     "BNB": {
-      "price": 582.64,
-      "change_pct": 0.45
+      "price": 581.51,
+      "change_pct": 0.61
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners"
+      "title": "Why flights are so expensive and will likely stay that way"
     },
     {
       "source": "MarketWatch",
-      "title": "Why every tech giant wants to look like a cybersecurity company in the AI era"
+      "title": "\u2018We have always been civil\u2019: My sister refuses to replace me as executor. Can I step down before she dies?"
     },
     {
       "source": "MarketWatch",
-      "title": "Tim Cook\u2019s lasting legacy: Keeping Apple\u2019s eye on the ball"
+      "title": "How Apple\u2019s cheap MacBook Neo sparked a war in budget laptops"
     }
   ]
 }
