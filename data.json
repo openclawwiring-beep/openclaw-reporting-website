@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 02 2026  15:55 PT",
+  "generated_at": "Sunday, August 02 2026  16:57 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4123.5,
-      "change_pct": 0.4
+      "price": 4125.5,
+      "change_pct": 0.45
     },
     "Oil (WTI)": {
-      "price": 80.84,
-      "change_pct": -4.52
+      "price": 80.49,
+      "change_pct": -4.94
     },
     "Silver": {
-      "price": 58.67,
-      "change_pct": 1.52
+      "price": 58.46,
+      "change_pct": 1.16
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63392,
-      "change_pct": 0.96
+      "price": 63464,
+      "change_pct": 1.11
     },
     "ETH": {
-      "price": 1881.27,
-      "change_pct": 1.89
+      "price": 1882.63,
+      "change_pct": 2.13
     },
     "SOL": {
-      "price": 73.63,
-      "change_pct": 2.46
+      "price": 73.44,
+      "change_pct": 2.17
     },
     "BNB": {
-      "price": 587.71,
-      "change_pct": 2.15
+      "price": 587.58,
+      "change_pct": 2.18
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures rally as investors gear up for jobs report, key earnings: Live updates"
+      "title": "Oil drops over 4% after Trump calls off planned strike on Iran"
     },
     {
       "source": "CNBC",
-      "title": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports"
+      "title": "Stock futures rally as investors gear up for jobs report, key earnings: Live updates"
     },
     {
       "source": "MarketWatch",
