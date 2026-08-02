@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 02 2026  07:46 PT",
+  "generated_at": "Sunday, August 02 2026  08:59 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63090,
-      "change_pct": 0.06
+      "price": 63057,
+      "change_pct": 0.14
     },
     "ETH": {
-      "price": 1856.87,
-      "change_pct": -0.75
+      "price": 1856.63,
+      "change_pct": -0.67
     },
     "SOL": {
-      "price": 73.16,
-      "change_pct": 0.33
+      "price": 72.96,
+      "change_pct": 0.25
     },
     "BNB": {
-      "price": 583.78,
-      "change_pct": 0.88
+      "price": 585.7,
+      "change_pct": 1.61
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Why flights are so expensive and will likely stay that way"
+      "title": "'Spider-Man: Brand New Day' chases 'Avengers: Endgame' opening record with $355 million domestic debut"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here\u2019s what\u2019s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more"
     },
     {
       "source": "MarketWatch",
       "title": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "S&P 500 profit growth is getting even wilder as Amazon makes its mark"
     }
   ]
 }
