@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 02 2026  06:17 PT",
+  "generated_at": "Sunday, August 02 2026  07:46 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63058,
-      "change_pct": 0.04
+      "price": 63090,
+      "change_pct": 0.06
     },
     "ETH": {
-      "price": 1854.69,
-      "change_pct": -0.65
+      "price": 1856.87,
+      "change_pct": -0.75
     },
     "SOL": {
-      "price": 72.91,
-      "change_pct": 0.03
+      "price": 73.16,
+      "change_pct": 0.33
     },
     "BNB": {
-      "price": 581.51,
-      "change_pct": 0.61
+      "price": 583.78,
+      "change_pct": 0.88
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We have always been civil\u2019: My sister refuses to replace me as executor. Can I step down before she dies?"
+      "title": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?"
     },
     {
       "source": "MarketWatch",
-      "title": "How Apple\u2019s cheap MacBook Neo sparked a war in budget laptops"
+      "title": "S&P 500 profit growth is getting even wilder as Amazon makes its mark"
     }
   ]
 }
