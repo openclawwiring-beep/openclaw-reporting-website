@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 02 2026  03:14 PT",
+  "generated_at": "Sunday, August 02 2026  04:41 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63162,
-      "change_pct": 0.33
+      "price": 63112,
+      "change_pct": 0.15
     },
     "ETH": {
-      "price": 1867.96,
-      "change_pct": 0.27
+      "price": 1861.87,
+      "change_pct": -0.17
     },
     "SOL": {
-      "price": 73.19,
-      "change_pct": 0.62
+      "price": 73.14,
+      "change_pct": 0.46
     },
     "BNB": {
-      "price": 583.48,
-      "change_pct": 0.24
+      "price": 582.64,
+      "change_pct": 0.45
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My girlfriend is 62. Can she claim her late husband\u2019s full Social Security benefit \u2014 or does she have to wait?"
+      "title": "Why every tech giant wants to look like a cybersecurity company in the AI era"
     },
     {
       "source": "MarketWatch",
-      "title": "If Social Security\u2019s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned."
+      "title": "Tim Cook\u2019s lasting legacy: Keeping Apple\u2019s eye on the ball"
     }
   ]
 }
