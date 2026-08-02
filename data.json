@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 02 2026  01:26 PT",
+  "generated_at": "Sunday, August 02 2026  03:14 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63418,
-      "change_pct": 0.6
+      "price": 63162,
+      "change_pct": 0.33
     },
     "ETH": {
-      "price": 1874.37,
-      "change_pct": 0.36
+      "price": 1867.96,
+      "change_pct": 0.27
     },
     "SOL": {
-      "price": 73.35,
-      "change_pct": 0.56
+      "price": 73.19,
+      "change_pct": 0.62
     },
     "BNB": {
-      "price": 583.75,
-      "change_pct": -0.81
+      "price": 583.48,
+      "change_pct": 0.24
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says he has canceled a planned attack on Iran after reaching an agreement over the 'perimeters of a deal'"
+      "title": "Trump cancels planned attack on Iran, saying he reached an agreement over the 'perimeters of a deal'"
     },
     {
       "source": "CNBC",
