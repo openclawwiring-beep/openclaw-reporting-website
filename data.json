@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 02 2026  23:58 PT",
+  "generated_at": "Monday, August 03 2026  03:49 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4120.9,
-      "change_pct": 0.02
+      "price": 4107.9,
+      "change_pct": -0.29
     },
     "Oil (WTI)": {
-      "price": 79.07,
-      "change_pct": -0.9
+      "price": 79.45,
+      "change_pct": -0.43
     },
     "Silver": {
-      "price": 58.42,
-      "change_pct": 0.03
+      "price": 58.21,
+      "change_pct": -0.34
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62599,
-      "change_pct": -1.32
+      "price": 62606,
+      "change_pct": -0.86
     },
     "ETH": {
-      "price": 1848.87,
-      "change_pct": -1.43
+      "price": 1844.33,
+      "change_pct": -1.24
     },
     "SOL": {
-      "price": 72.56,
-      "change_pct": -1.15
+      "price": 72.55,
+      "change_pct": -0.92
     },
     "BNB": {
-      "price": 581.82,
-      "change_pct": -0.41
+      "price": 586.19,
+      "change_pct": 0.46
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures rally as investors gear up for jobs report, key earnings: Live updates"
+      "title": "Oil prices fall more than 5% as Middle East tensions ebb on diplomatic efforts"
     },
     {
       "source": "CNBC",
-      "title": "Why the U.S. stepped in after decades to prop up Japan's yen \u2014 and what's at stake"
+      "title": "AstraZeneca slides after report of Bristol Myers merger talks leaves analysts 'perplexed'"
     },
     {
       "source": "MarketWatch",
-      "title": "We\u2019re in our 60s with $1.5 million. Would a trust be more effective than a will to prevent conflict among our heirs?"
+      "title": "AstraZeneca tie-up talks with Bristol-Myers Squibb are moving stocks. Analysts are puzzled."
     },
     {
       "source": "MarketWatch",
-      "title": "My girlfriend is 62. Can she claim her late husband\u2019s full Social Security benefit \u2014 or does she have to wait?"
+      "title": "Oil prices fall to three-week low after Trump calls off planned attack"
     }
   ]
 }
