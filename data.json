@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 03 2026  13:10 PT",
+  "generated_at": "Monday, August 03 2026  14:39 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,58 +15,58 @@
       "change_pct": 1.32
     },
     "Russell 2000": {
-      "price": 2983.91,
-      "change_pct": 1.81
+      "price": 2981.91,
+      "change_pct": 1.73
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4106.5,
-      "change_pct": -0.33
+      "price": 4110.9,
+      "change_pct": -0.22
     },
     "Oil (WTI)": {
-      "price": 80.11,
-      "change_pct": 0.4
+      "price": 80.06,
+      "change_pct": 0.34
     },
     "Silver": {
-      "price": 58.19,
-      "change_pct": -0.36
+      "price": 58.4,
+      "change_pct": -0.02
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63801,
-      "change_pct": 0.66
+      "price": 63633,
+      "change_pct": 0.25
     },
     "ETH": {
-      "price": 1868.93,
-      "change_pct": -0.56
+      "price": 1865.5,
+      "change_pct": -1.03
     },
     "SOL": {
-      "price": 73.92,
-      "change_pct": 0.5
+      "price": 73.71,
+      "change_pct": -0.04
     },
     "BNB": {
-      "price": 591.0,
-      "change_pct": 0.44
+      "price": 589.67,
+      "change_pct": 0.12
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow surges nearly 700 points for record close as Big Tech stocks rise, oil prices slide: Live updates"
+      "title": "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%"
     },
     {
       "source": "CNBC",
-      "title": "Hugging Face CEO says China is winning the AI race and dominating on open models"
+      "title": "Snap's stock jumps 10% on earnings beat and strong sales forecast"
     },
     {
       "source": "MarketWatch",
-      "title": "Palantir\u2019s stock gains as AI drives turbocharged growth"
+      "title": "As \u2018Spider-Man\u2019 joins \u2018The Odyssey\u2019 in Imax, are premium movie screens worth the extra price?"
     },
     {
       "source": "MarketWatch",
-      "title": "Microsoft\u2019s stock is on a run not seen in 26 years \u2014 erasing its year-to-date losses"
+      "title": "An AstraZeneca, Bristol Myers Squibb merger could create a cancer-drug giant, but analysts call it \u2018odd\u2019"
     }
   ]
 }
