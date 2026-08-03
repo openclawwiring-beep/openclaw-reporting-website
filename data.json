@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, August 03 2026  06:40 PT",
-  "market_status": "Live \u2014 as of 09:40 ET",
+  "generated_at": "Monday, August 03 2026  09:23 PT",
+  "market_status": "Live \u2014 as of 12:23 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7542.23,
-      "change_pct": 0.7
+      "price": 7586.54,
+      "change_pct": 1.29
     },
     "Nasdaq": {
-      "price": 25601.02,
-      "change_pct": 0.9
+      "price": 25890.8,
+      "change_pct": 2.04
     },
     "Dow Jones": {
-      "price": 53142.32,
-      "change_pct": 1.25
+      "price": 52992.94,
+      "change_pct": 0.97
     },
     "Russell 2000": {
-      "price": 2931.34,
-      "change_pct": -0.5
+      "price": 2976.82,
+      "change_pct": 1.57
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4089.4,
-      "change_pct": -0.74
+      "price": 4091.5,
+      "change_pct": -0.69
     },
     "Oil (WTI)": {
-      "price": 79.36,
-      "change_pct": -0.54
+      "price": 79.75,
+      "change_pct": -0.05
     },
     "Silver": {
-      "price": 56.81,
-      "change_pct": -2.73
+      "price": 57.6,
+      "change_pct": -1.38
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62727,
-      "change_pct": -0.4
+      "price": 63791,
+      "change_pct": 1.15
     },
     "ETH": {
-      "price": 1844.47,
-      "change_pct": -0.42
+      "price": 1866.38,
+      "change_pct": 0.47
     },
     "SOL": {
-      "price": 72.63,
-      "change_pct": -0.08
+      "price": 73.54,
+      "change_pct": 0.8
     },
     "BNB": {
-      "price": 584.79,
-      "change_pct": 0.52
+      "price": 592.69,
+      "change_pct": 1.07
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "What the market is saying about the U.S. intervention to prop up the yen"
+      "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report"
     },
     {
       "source": "CNBC",
-      "title": "Dow pops 600 points, oil slides after Trump calls off planned attacks: Live updates"
+      "title": "Hugging Face CEO says China is winning the AI race and dominating on open models"
     },
     {
       "source": "MarketWatch",
-      "title": "Global oil prices fall below $83 a barrel to hover at 3-week low after Trump calls off planned attack and says Iran talks to resume Monday"
+      "title": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My head hit the driver\u2019s window\u2019: A teenager T-boned our car. Will Medicare pay my hospital bills?"
+      "title": "Why the U.S. decided to help Japan by boosting the flailing yen"
     }
   ]
 }
