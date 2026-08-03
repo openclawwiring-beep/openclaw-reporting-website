@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, August 02 2026  20:31 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Sunday, August 02 2026  23:58 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7489.72,
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4121.1,
-      "change_pct": 0.34
+      "price": 4120.9,
+      "change_pct": 0.02
     },
     "Oil (WTI)": {
-      "price": 79.73,
-      "change_pct": -5.83
+      "price": 79.07,
+      "change_pct": -0.9
     },
     "Silver": {
-      "price": 58.35,
-      "change_pct": 0.98
+      "price": 58.42,
+      "change_pct": 0.03
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63013,
-      "change_pct": -0.59
+      "price": 62599,
+      "change_pct": -1.32
     },
     "ETH": {
-      "price": 1860.17,
-      "change_pct": -0.75
+      "price": 1848.87,
+      "change_pct": -1.43
     },
     "SOL": {
-      "price": 72.96,
-      "change_pct": -0.11
+      "price": 72.56,
+      "change_pct": -1.15
     },
     "BNB": {
-      "price": 583.92,
-      "change_pct": 0.55
+      "price": 581.82,
+      "change_pct": -0.41
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says Iran talks to resume Monday after calling off planned strikes"
+      "title": "Stock futures rally as investors gear up for jobs report, key earnings: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "U.S., Japan confirm coordinated yen intervention, signal readiness for more"
+      "title": "Why the U.S. stepped in after decades to prop up Japan's yen \u2014 and what's at stake"
     },
     {
       "source": "MarketWatch",
