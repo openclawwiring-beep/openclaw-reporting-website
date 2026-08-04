@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 04 2026  13:08 PT",
+  "generated_at": "Tuesday, August 04 2026  14:48 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,58 +15,58 @@
       "change_pct": 1.71
     },
     "Russell 2000": {
-      "price": 3039.5,
-      "change_pct": 1.93
+      "price": 3036.98,
+      "change_pct": 1.85
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4135.7,
-      "change_pct": 0.67
+      "price": 4134.2,
+      "change_pct": 0.63
     },
     "Oil (WTI)": {
-      "price": 75.81,
-      "change_pct": -6.63
+      "price": 75.14,
+      "change_pct": -7.45
     },
     "Silver": {
-      "price": 59.82,
-      "change_pct": 1.54
+      "price": 59.75,
+      "change_pct": 1.43
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64130,
-      "change_pct": 0.5
+      "price": 64175,
+      "change_pct": 0.88
     },
     "ETH": {
-      "price": 1872.01,
-      "change_pct": 0.13
+      "price": 1871.48,
+      "change_pct": 0.28
     },
     "SOL": {
-      "price": 74.08,
-      "change_pct": 0.16
+      "price": 74.02,
+      "change_pct": 0.44
     },
     "BNB": {
-      "price": 593.19,
-      "change_pct": 0.39
+      "price": 593.4,
+      "change_pct": 0.61
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SpaceX's first earnings report is out \u2014 here are the numbers: Live updates"
+      "title": "SpaceX stock drops after first earnings report as AI costs soar: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement'"
+      "title": "Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'"
     },
     {
       "source": "MarketWatch",
-      "title": "The Wegovy pill\u2019s \u2018surprise miss\u2019 is one reason Novo Nordisk\u2019s stock is down"
+      "title": "Stocks face their weakest seasonal stretch. Why extreme investor pessimism could limit any selling."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My head hit the driver\u2019s window\u2019: A teenager T-boned our car. Will Medicare pay my hospital bills?"
+      "title": "My ex-husband\u2019s sister died \u2014 so why is Fidelity asking me for her death certificate?"
     }
   ]
 }
