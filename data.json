@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, August 04 2026  11:10 PT",
-  "market_status": "Live \u2014 as of 14:10 ET",
+  "generated_at": "Tuesday, August 04 2026  13:08 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7743.02,
-      "change_pct": 1.88
+      "price": 7736.52,
+      "change_pct": 1.79
     },
     "Nasdaq": {
-      "price": 26583.66,
-      "change_pct": 2.58
+      "price": 26584.99,
+      "change_pct": 2.59
     },
     "Dow Jones": {
-      "price": 54185.13,
-      "change_pct": 1.89
+      "price": 54085.88,
+      "change_pct": 1.71
     },
     "Russell 2000": {
-      "price": 3038.74,
-      "change_pct": 1.91
+      "price": 3039.5,
+      "change_pct": 1.93
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4142.9,
-      "change_pct": 0.84
+      "price": 4135.7,
+      "change_pct": 0.67
     },
     "Oil (WTI)": {
-      "price": 75.88,
-      "change_pct": -6.54
+      "price": 75.81,
+      "change_pct": -6.63
     },
     "Silver": {
-      "price": 60.02,
-      "change_pct": 1.88
+      "price": 59.82,
+      "change_pct": 1.54
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64065,
-      "change_pct": 0.35
+      "price": 64130,
+      "change_pct": 0.5
     },
     "ETH": {
-      "price": 1872.66,
-      "change_pct": 0.22
+      "price": 1872.01,
+      "change_pct": 0.13
     },
     "SOL": {
-      "price": 73.99,
-      "change_pct": 0.12
+      "price": 74.08,
+      "change_pct": 0.16
     },
     "BNB": {
-      "price": 593.31,
-      "change_pct": 0.31
+      "price": 593.19,
+      "change_pct": 0.39
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow leaps 1,000 points fueled by earnings, hopes for Hormuz Strait deal; S&P 500 hits record: Live updates"
+      "title": "SpaceX's first earnings report is out \u2014 here are the numbers: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "SpaceX earnings live updates: First report since IPO comes ahead of massive share unlock"
+      "title": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement'"
     },
     {
       "source": "MarketWatch",
-      "title": "The richest 20% are buying most of the new cars sold in the U.S."
+      "title": "The Wegovy pill\u2019s \u2018surprise miss\u2019 is one reason Novo Nordisk\u2019s stock is down"
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s getting easier for terminally ill people to end their own lives. What to know as laws change."
+      "title": "\u2018My head hit the driver\u2019s window\u2019: A teenager T-boned our car. Will Medicare pay my hospital bills?"
     }
   ]
 }
