@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, August 04 2026  04:38 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, August 04 2026  07:07 PT",
+  "market_status": "Live \u2014 as of 10:07 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7600.5,
-      "change_pct": 1.48
+      "price": 7668.61,
+      "change_pct": 0.9
     },
     "Nasdaq": {
-      "price": 25913.9,
-      "change_pct": 2.13
+      "price": 26303.09,
+      "change_pct": 1.5
     },
     "Dow Jones": {
-      "price": 53178.41,
-      "change_pct": 1.32
+      "price": 53788.02,
+      "change_pct": 1.15
     },
     "Russell 2000": {
-      "price": 2981.91,
-      "change_pct": 1.73
+      "price": 2998.01,
+      "change_pct": 0.54
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4116.3,
-      "change_pct": 0.2
+      "price": 4141.9,
+      "change_pct": 0.82
     },
     "Oil (WTI)": {
-      "price": 79.76,
-      "change_pct": -1.76
+      "price": 75.9,
+      "change_pct": -6.52
     },
     "Silver": {
-      "price": 59.29,
-      "change_pct": 0.65
+      "price": 59.96,
+      "change_pct": 1.77
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63684,
-      "change_pct": 1.58
+      "price": 63743,
+      "change_pct": 0.91
     },
     "ETH": {
-      "price": 1865.73,
-      "change_pct": 1.16
+      "price": 1862.51,
+      "change_pct": 0.52
     },
     "SOL": {
-      "price": 73.62,
-      "change_pct": 1.47
+      "price": 73.65,
+      "change_pct": 0.66
     },
     "BNB": {
-      "price": 589.23,
-      "change_pct": 0.46
+      "price": 589.11,
+      "change_pct": 0.44
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "McDonald's earnings beat estimates, chain announces new U.S. head to accelerate growth"
+      "title": "Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement'"
     },
     {
       "source": "CNBC",
-      "title": "Palantir jumps 16% on 'otherworldly' commercial revenue \u2014 here's what's driving the demand"
+      "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling"
     },
     {
       "source": "MarketWatch",
-      "title": "The stock market\u2019s brutal summer reset is finally over. Here is why Citadel Securities says it is time to buy again."
+      "title": "I got two email invitations from friends. Is this a phishing scam \u2014 or am I suddenly popular?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m easing into retirement\u2019: I\u2019m getting an $80,000 pension payout. Where can I invest it safely?"
+      "title": "Caterpillar\u2019s stock gives the Dow a 500-point boost as data-center demand drives record revenue"
     }
   ]
 }
