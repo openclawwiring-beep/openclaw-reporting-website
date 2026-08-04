@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, August 04 2026  09:26 PT",
-  "market_status": "Live \u2014 as of 12:26 ET",
+  "generated_at": "Tuesday, August 04 2026  11:10 PT",
+  "market_status": "Live \u2014 as of 14:10 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7715.93,
-      "change_pct": 1.52
+      "price": 7743.02,
+      "change_pct": 1.88
     },
     "Nasdaq": {
-      "price": 26464.18,
-      "change_pct": 2.12
+      "price": 26583.66,
+      "change_pct": 2.58
     },
     "Dow Jones": {
-      "price": 54112.84,
-      "change_pct": 1.76
+      "price": 54185.13,
+      "change_pct": 1.89
     },
     "Russell 2000": {
-      "price": 3027.15,
-      "change_pct": 1.52
+      "price": 3038.74,
+      "change_pct": 1.91
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4142.2,
-      "change_pct": 0.83
+      "price": 4142.9,
+      "change_pct": 0.84
     },
     "Oil (WTI)": {
-      "price": 76.12,
-      "change_pct": -6.24
+      "price": 75.88,
+      "change_pct": -6.54
     },
     "Silver": {
-      "price": 59.9,
-      "change_pct": 1.69
+      "price": 60.02,
+      "change_pct": 1.88
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64015,
-      "change_pct": 0.23
+      "price": 64065,
+      "change_pct": 0.35
     },
     "ETH": {
-      "price": 1869.87,
-      "change_pct": -0.0
+      "price": 1872.66,
+      "change_pct": 0.22
     },
     "SOL": {
-      "price": 73.87,
-      "change_pct": 0.4
+      "price": 73.99,
+      "change_pct": 0.12
     },
     "BNB": {
-      "price": 593.23,
-      "change_pct": -0.03
+      "price": 593.31,
+      "change_pct": 0.31
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 hits record, Dow surges 900 points after Bessent says Hormuz deal is near: Live updates"
+      "title": "Dow leaps 1,000 points fueled by earnings, hopes for Hormuz Strait deal; S&P 500 hits record: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Procter & Gamble will acquire supplements brand Thorne for $3.8 billion, CEO tells CNBC"
+      "title": "SpaceX earnings live updates: First report since IPO comes ahead of massive share unlock"
     },
     {
       "source": "MarketWatch",
-      "title": "Stocks could soar in August. Here are six potential drivers."
+      "title": "The richest 20% are buying most of the new cars sold in the U.S."
     },
     {
       "source": "MarketWatch",
-      "title": "Palantir is leaving its software peers behind in the AI race"
+      "title": "It\u2019s getting easier for terminally ill people to end their own lives. What to know as laws change."
     }
   ]
 }
