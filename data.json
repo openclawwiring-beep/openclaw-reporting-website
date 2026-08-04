@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 04 2026  02:20 PT",
+  "generated_at": "Tuesday, August 04 2026  04:38 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4107.0,
-      "change_pct": -0.03
+      "price": 4116.3,
+      "change_pct": 0.2
     },
     "Oil (WTI)": {
-      "price": 82.14,
-      "change_pct": 1.17
+      "price": 79.76,
+      "change_pct": -1.76
     },
     "Silver": {
-      "price": 58.88,
-      "change_pct": -0.05
+      "price": 59.29,
+      "change_pct": 0.65
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63490,
-      "change_pct": 1.53
+      "price": 63684,
+      "change_pct": 1.58
     },
     "ETH": {
-      "price": 1853.98,
-      "change_pct": 0.77
+      "price": 1865.73,
+      "change_pct": 1.16
     },
     "SOL": {
-      "price": 73.17,
-      "change_pct": 1.17
+      "price": 73.62,
+      "change_pct": 1.47
     },
     "BNB": {
-      "price": 588.28,
-      "change_pct": 0.58
+      "price": 589.23,
+      "change_pct": 0.46
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump warns Iran talks are \u2018last chance\u2019 to end war \u2014 oil prices rise as Tehran denies negotiations"
+      "title": "McDonald's earnings beat estimates, chain announces new U.S. head to accelerate growth"
     },
     {
       "source": "CNBC",
-      "title": "BP profit more than doubles as Trump blasts Big Oil for \u2018making too much money\u2019"
+      "title": "Palantir jumps 16% on 'otherworldly' commercial revenue \u2014 here's what's driving the demand"
     },
     {
       "source": "MarketWatch",
-      "title": "Meg Ryan finds a buyer for picturesque $15.25 million Hamptons property"
+      "title": "The stock market\u2019s brutal summer reset is finally over. Here is why Citadel Securities says it is time to buy again."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We have always been civil\u2019: My sister refuses to replace me as executor. Can I step down before she dies?"
+      "title": "\u2018I\u2019m easing into retirement\u2019: I\u2019m getting an $80,000 pension payout. Where can I invest it safely?"
     }
   ]
 }
