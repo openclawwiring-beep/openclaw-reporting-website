@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 03 2026  15:58 PT",
+  "generated_at": "Monday, August 03 2026  17:12 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4108.5,
-      "change_pct": -0.28
+      "price": 4117.5,
+      "change_pct": -0.06
     },
     "Oil (WTI)": {
-      "price": 79.87,
-      "change_pct": 0.1
+      "price": 80.34,
+      "change_pct": 0.69
     },
     "Silver": {
-      "price": 58.33,
-      "change_pct": -0.12
+      "price": 58.56,
+      "change_pct": 0.27
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63567,
-      "change_pct": 0.3
+      "price": 63499,
+      "change_pct": 0.22
     },
     "ETH": {
-      "price": 1858.51,
-      "change_pct": -1.16
+      "price": 1860.73,
+      "change_pct": -0.89
     },
     "SOL": {
-      "price": 73.48,
-      "change_pct": -0.15
+      "price": 73.53,
+      "change_pct": 0.15
     },
     "BNB": {
-      "price": 589.56,
-      "change_pct": 0.32
+      "price": 589.47,
+      "change_pct": 0.62
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m easing into retirement\u2019: I\u2019m getting an $80,000 pension payout. Where can I invest it safely?"
+      "title": "\u2018We have always been civil\u2019: My sister refuses to replace me as executor. Can I step down before she dies?"
     },
     {
       "source": "MarketWatch",
-      "title": "Microsoft\u2019s stock is on a run not seen in 26 years \u2014 erasing its year-to-date losses"
+      "title": "\u2018My head hit the driver\u2019s window\u2019: A teenager T-boned our car. Will Medicare pay my hospital bills?"
     }
   ]
 }
