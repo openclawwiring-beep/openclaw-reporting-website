@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 04 2026  21:06 PT",
+  "generated_at": "Wednesday, August 05 2026  00:13 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4186.3,
-      "change_pct": 1.9
+      "price": 4234.3,
+      "change_pct": 1.14
     },
     "Oil (WTI)": {
-      "price": 74.62,
-      "change_pct": -8.09
+      "price": 75.02,
+      "change_pct": 0.59
     },
     "Silver": {
-      "price": 60.98,
-      "change_pct": 3.51
+      "price": 62.12,
+      "change_pct": 1.78
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64089,
-      "change_pct": 0.59
+      "price": 64132,
+      "change_pct": 0.92
     },
     "ETH": {
-      "price": 1864.98,
-      "change_pct": 0.19
+      "price": 1865.83,
+      "change_pct": 0.64
     },
     "SOL": {
-      "price": 73.69,
-      "change_pct": 0.17
+      "price": 73.84,
+      "change_pct": 0.73
     },
     "BNB": {
-      "price": 598.52,
-      "change_pct": 1.4
+      "price": 600.28,
+      "change_pct": 1.83
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. says Strait of Hormuz is 'free and open' as Bessent says deal with Iran is close"
+      "title": "SpaceX's AI spending unnerves Wall Street despite promises of quick payoff"
     },
     {
       "source": "CNBC",
-      "title": "SpaceX earnings takeaways: Soaring AI costs outweigh revenue beat in first report since IPO"
+      "title": "U.S. says Strait of Hormuz is 'free and open' as Bessent signals deal with Iran is close"
     },
     {
       "source": "MarketWatch",
