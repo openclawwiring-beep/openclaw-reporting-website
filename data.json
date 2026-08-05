@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, August 05 2026  05:22 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, August 05 2026  07:54 PT",
+  "market_status": "Live \u2014 as of 10:54 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7736.52,
-      "change_pct": 1.79
+      "price": 7753.12,
+      "change_pct": 0.23
     },
     "Nasdaq": {
-      "price": 26584.99,
-      "change_pct": 2.59
+      "price": 26578.87,
+      "change_pct": -0.02
     },
     "Dow Jones": {
-      "price": 54085.88,
-      "change_pct": 1.71
+      "price": 54633.11,
+      "change_pct": 1.0
     },
     "Russell 2000": {
-      "price": 3036.98,
-      "change_pct": 1.85
+      "price": 3035.09,
+      "change_pct": -0.07
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4258.8,
-      "change_pct": 1.72
+      "price": 4301.2,
+      "change_pct": 2.74
     },
     "Oil (WTI)": {
-      "price": 76.14,
-      "change_pct": 2.09
+      "price": 75.01,
+      "change_pct": 0.58
     },
     "Silver": {
-      "price": 62.44,
-      "change_pct": 2.32
+      "price": 62.72,
+      "change_pct": 2.76
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64420,
-      "change_pct": 1.04
+      "price": 64362,
+      "change_pct": 0.52
     },
     "ETH": {
-      "price": 1877.3,
-      "change_pct": 0.47
+      "price": 1873.21,
+      "change_pct": 0.15
     },
     "SOL": {
-      "price": 74.06,
-      "change_pct": 0.39
+      "price": 73.75,
+      "change_pct": 0.03
     },
     "BNB": {
-      "price": 598.48,
-      "change_pct": 1.45
+      "price": 600.93,
+      "change_pct": 1.23
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fed's Kashkari says 'now is the time to start slowly moving' rates up"
+      "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says"
     },
     {
       "source": "CNBC",
-      "title": "Private companies added just 44,000 workers in July, below expectations, ADP reports"
+      "title": "Trump admin refunds $100 billion in 'liberation day' tariffs"
     },
     {
       "source": "MarketWatch",
-      "title": "The S&P 500 just hit a new high. \u2018Big Short\u2019 investor Michael Burry thinks it could bring a 1987-style fall."
+      "title": "3 money rules I swear by \u2014 and why they work"
     },
     {
       "source": "MarketWatch",
-      "title": "Uber profit narrowly beat forecasts as trips across its platform surge"
+      "title": "It\u2019s the worst time in years to invest in AI credit markets: \u2018Almost no upside and plenty of downside\u2019"
     }
   ]
 }
