@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 04 2026  16:01 PT",
+  "generated_at": "Tuesday, August 04 2026  17:53 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4140.0,
-      "change_pct": 0.77
+      "price": 4136.0,
+      "change_pct": 0.68
     },
     "Oil (WTI)": {
-      "price": 75.34,
-      "change_pct": -7.21
+      "price": 75.4,
+      "change_pct": -7.13
     },
     "Silver": {
-      "price": 59.78,
-      "change_pct": 1.47
+      "price": 59.85,
+      "change_pct": 1.59
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64219,
-      "change_pct": 1.08
+      "price": 63973,
+      "change_pct": 0.96
     },
     "ETH": {
-      "price": 1874.06,
-      "change_pct": 0.88
+      "price": 1863.7,
+      "change_pct": 0.68
     },
     "SOL": {
-      "price": 74.05,
-      "change_pct": 0.83
+      "price": 73.49,
+      "change_pct": 0.52
     },
     "BNB": {
-      "price": 593.37,
-      "change_pct": 0.72
+      "price": 595.9,
+      "change_pct": 1.17
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SpaceX stock drops after first earnings report as AI costs soar: Live updates"
+      "title": "SpaceX earnings takeaways: Soaring AI costs outweigh revenue beat in first report since IPO"
     },
     {
       "source": "CNBC",
