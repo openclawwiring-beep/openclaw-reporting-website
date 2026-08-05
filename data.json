@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 05 2026  03:06 PT",
+  "generated_at": "Wednesday, August 05 2026  05:22 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4215.2,
-      "change_pct": 0.68
+      "price": 4258.8,
+      "change_pct": 1.72
     },
     "Oil (WTI)": {
-      "price": 76.43,
-      "change_pct": 2.48
+      "price": 76.14,
+      "change_pct": 2.09
     },
     "Silver": {
-      "price": 61.72,
-      "change_pct": 1.13
+      "price": 62.44,
+      "change_pct": 2.32
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64098,
-      "change_pct": 0.98
+      "price": 64420,
+      "change_pct": 1.04
     },
     "ETH": {
-      "price": 1870.33,
-      "change_pct": 0.85
+      "price": 1877.3,
+      "change_pct": 0.47
     },
     "SOL": {
-      "price": 73.97,
-      "change_pct": 1.16
+      "price": 74.06,
+      "change_pct": 0.39
     },
     "BNB": {
-      "price": 596.59,
-      "change_pct": 1.44
+      "price": 598.48,
+      "change_pct": 1.45
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SpaceX dives 10% after AI spending surge rattles investors"
+      "title": "Fed's Kashkari says 'now is the time to start slowly moving' rates up"
     },
     {
       "source": "CNBC",
-      "title": "Oil prices move higher after Yemen's Iran-backed Houthis claim Saudi tanker strike"
+      "title": "Private companies added just 44,000 workers in July, below expectations, ADP reports"
     },
     {
       "source": "MarketWatch",
-      "title": "Elon Musk addresses memory-chip stock concerns with one simple observation"
+      "title": "The S&P 500 just hit a new high. \u2018Big Short\u2019 investor Michael Burry thinks it could bring a 1987-style fall."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?"
+      "title": "Uber profit narrowly beat forecasts as trips across its platform surge"
     }
   ]
 }
