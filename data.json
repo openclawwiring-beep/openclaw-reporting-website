@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 05 2026  14:46 PT",
+  "generated_at": "Wednesday, August 05 2026  15:56 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,12 +21,12 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4308.0,
-      "change_pct": 2.9
+      "price": 4307.3,
+      "change_pct": 2.88
     },
     "Oil (WTI)": {
-      "price": 75.08,
-      "change_pct": 0.67
+      "price": 75.03,
+      "change_pct": 0.6
     },
     "Silver": {
       "price": 62.26,
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64655,
-      "change_pct": 0.71
+      "price": 64622,
+      "change_pct": 0.7
     },
     "ETH": {
-      "price": 1906.92,
-      "change_pct": 1.88
+      "price": 1907.2,
+      "change_pct": 1.81
     },
     "SOL": {
-      "price": 74.07,
-      "change_pct": 0.04
+      "price": 74.0,
+      "change_pct": 0.0
     },
     "BNB": {
-      "price": 595.43,
-      "change_pct": 0.35
+      "price": 592.96,
+      "change_pct": -0.04
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why AT&T, Verizon and T-Mobile shares are down after SpaceX\u2019s earnings"
+      "title": "Sandisk\u2019s stock falls as the company\u2019s forecast doesn\u2019t live up to high expectations"
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX\u2019s stock falls as Wall Street gets spooked by the extent of AI spending"
+      "title": "Block slashed 40% of its workforce for AI \u2014 and its earnings suggest that\u2019s paying off"
     }
   ]
 }
