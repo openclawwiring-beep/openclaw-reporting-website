@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 05 2026  00:13 PT",
+  "generated_at": "Wednesday, August 05 2026  03:06 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4234.3,
-      "change_pct": 1.14
+      "price": 4215.2,
+      "change_pct": 0.68
     },
     "Oil (WTI)": {
-      "price": 75.02,
-      "change_pct": 0.59
+      "price": 76.43,
+      "change_pct": 2.48
     },
     "Silver": {
-      "price": 62.12,
-      "change_pct": 1.78
+      "price": 61.72,
+      "change_pct": 1.13
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64132,
-      "change_pct": 0.92
+      "price": 64098,
+      "change_pct": 0.98
     },
     "ETH": {
-      "price": 1865.83,
-      "change_pct": 0.64
+      "price": 1870.33,
+      "change_pct": 0.85
     },
     "SOL": {
-      "price": 73.84,
-      "change_pct": 0.73
+      "price": 73.97,
+      "change_pct": 1.16
     },
     "BNB": {
-      "price": 600.28,
-      "change_pct": 1.83
+      "price": 596.59,
+      "change_pct": 1.44
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SpaceX's AI spending unnerves Wall Street despite promises of quick payoff"
+      "title": "SpaceX dives 10% after AI spending surge rattles investors"
     },
     {
       "source": "CNBC",
-      "title": "U.S. says Strait of Hormuz is 'free and open' as Bessent signals deal with Iran is close"
+      "title": "Oil prices move higher after Yemen's Iran-backed Houthis claim Saudi tanker strike"
     },
     {
       "source": "MarketWatch",
-      "title": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded."
+      "title": "Elon Musk addresses memory-chip stock concerns with one simple observation"
     },
     {
       "source": "MarketWatch",
-      "title": "Upstart\u2019s AI upgrades pay off, as a pickup in loan growth helps send the stock higher"
+      "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?"
     }
   ]
 }
