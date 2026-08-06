@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 05 2026  17:00 PT",
+  "generated_at": "Wednesday, August 05 2026  20:48 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4334.1,
-      "change_pct": 3.52
+      "price": 4325.5,
+      "change_pct": 3.32
     },
     "Oil (WTI)": {
-      "price": 75.02,
-      "change_pct": 0.59
+      "price": 74.94,
+      "change_pct": 0.48
     },
     "Silver": {
-      "price": 62.46,
-      "change_pct": 2.34
+      "price": 62.24,
+      "change_pct": 1.97
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64603,
-      "change_pct": 0.84
+      "price": 64441,
+      "change_pct": 0.54
     },
     "ETH": {
-      "price": 1906.68,
-      "change_pct": 2.03
+      "price": 1895.82,
+      "change_pct": 1.62
     },
     "SOL": {
-      "price": 73.96,
-      "change_pct": 0.32
+      "price": 73.39,
+      "change_pct": -0.48
     },
     "BNB": {
-      "price": 593.24,
-      "change_pct": 0.08
+      "price": 593.32,
+      "change_pct": -0.84
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO"
+      "title": "U.S. ready to return to 'commitments,' Iran says, after Trump signals deal is near"
     },
     {
       "source": "CNBC",
-      "title": "Iran, Oman say Strait of Hormuz talks in final stages, as Trump again teases a deal being close"
+      "title": "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'"
     },
     {
       "source": "MarketWatch",
-      "title": "Sandisk\u2019s stock falls as the company\u2019s forecast doesn\u2019t live up to high expectations"
+      "title": "I got two email invitations from friends. Is this a phishing scam \u2014 or am I suddenly popular?"
     },
     {
       "source": "MarketWatch",
-      "title": "Block slashed 40% of its workforce for AI \u2014 and its earnings suggest that\u2019s paying off"
+      "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?"
     }
   ]
 }
