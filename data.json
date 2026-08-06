@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 06 2026  02:23 PT",
+  "generated_at": "Thursday, August 06 2026  04:39 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64760,
-      "change_pct": 0.98
+      "price": 64563,
+      "change_pct": 0.78
     },
     "ETH": {
-      "price": 1908.36,
-      "change_pct": 1.92
+      "price": 1906.09,
+      "change_pct": 2.04
     },
     "SOL": {
-      "price": 73.59,
-      "change_pct": -0.72
+      "price": 73.46,
+      "change_pct": -0.42
     },
     "BNB": {
-      "price": 594.28,
-      "change_pct": -0.78
+      "price": 593.74,
+      "change_pct": -0.62
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. ready to return to 'commitments,' Iran says, after Trump signals deal is near"
+      "title": "U.S. ready to return to \u2018commitments,\u2019 Iran says as Strait of Hormuz deal looms"
     },
     {
       "source": "CNBC",
-      "title": "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'"
+      "title": "Peloton posts first ever annual net profit, but shares drop as outlook disappoints"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018He\u2019s never been good with money\u2019: If I set up an annuity for my brother, 65, would it jeopardize his Supplemental Security Income?"
+      "title": "33 stocks to bet on foreign markets continuing to beat the S&P 500"
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX insiders get their first chance to cash out \u2014 but the stock\u2019s slide will limit their opportunity"
+      "title": "Hedge funds forced out of tech stocks may leave the market at the mercy of retail traders"
     }
   ]
 }
