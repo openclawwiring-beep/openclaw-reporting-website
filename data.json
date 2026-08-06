@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 05 2026  20:48 PT",
+  "generated_at": "Wednesday, August 05 2026  23:28 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4325.5,
-      "change_pct": 3.32
+      "price": 4313.9,
+      "change_pct": -0.25
     },
     "Oil (WTI)": {
-      "price": 74.94,
-      "change_pct": 0.48
+      "price": 75.26,
+      "change_pct": 0.36
     },
     "Silver": {
-      "price": 62.24,
-      "change_pct": 1.97
+      "price": 62.06,
+      "change_pct": -0.41
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64441,
-      "change_pct": 0.54
+      "price": 64745,
+      "change_pct": 0.73
     },
     "ETH": {
-      "price": 1895.82,
-      "change_pct": 1.62
+      "price": 1911.03,
+      "change_pct": 2.26
     },
     "SOL": {
-      "price": 73.39,
-      "change_pct": -0.48
+      "price": 74.03,
+      "change_pct": -0.06
     },
     "BNB": {
-      "price": 593.32,
-      "change_pct": -0.84
+      "price": 594.77,
+      "change_pct": -1.04
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'"
+      "title": "Google is expanding its AI empire \u2014 and losing the people who built it"
     },
     {
       "source": "MarketWatch",
