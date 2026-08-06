@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 05 2026  23:28 PT",
+  "generated_at": "Thursday, August 06 2026  02:23 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4313.9,
-      "change_pct": -0.25
+      "price": 4320.7,
+      "change_pct": -0.1
     },
     "Oil (WTI)": {
-      "price": 75.26,
-      "change_pct": 0.36
+      "price": 75.2,
+      "change_pct": 0.28
     },
     "Silver": {
-      "price": 62.06,
-      "change_pct": -0.41
+      "price": 62.1,
+      "change_pct": -0.34
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64745,
-      "change_pct": 0.73
+      "price": 64760,
+      "change_pct": 0.98
     },
     "ETH": {
-      "price": 1911.03,
-      "change_pct": 2.26
+      "price": 1908.36,
+      "change_pct": 1.92
     },
     "SOL": {
-      "price": 74.03,
-      "change_pct": -0.06
+      "price": 73.59,
+      "change_pct": -0.72
     },
     "BNB": {
-      "price": 594.77,
-      "change_pct": -1.04
+      "price": 594.28,
+      "change_pct": -0.78
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Google is expanding its AI empire \u2014 and losing the people who built it"
+      "title": "JPMorgan's Jamie Dimon warns of high leverage: 'Somebody will disrupt the market'"
     },
     {
       "source": "MarketWatch",
-      "title": "I got two email invitations from friends. Is this a phishing scam \u2014 or am I suddenly popular?"
+      "title": "\u2018He\u2019s never been good with money\u2019: If I set up an annuity for my brother, 65, would it jeopardize his Supplemental Security Income?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?"
+      "title": "SpaceX insiders get their first chance to cash out \u2014 but the stock\u2019s slide will limit their opportunity"
     }
   ]
 }
