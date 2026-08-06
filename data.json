@@ -1,6 +1,6 @@
 {
-  "generated_at": "Thursday, August 06 2026  04:39 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, August 06 2026  07:04 PT",
+  "market_status": "Live \u2014 as of 10:04 ET",
   "stocks": {
     "S&P 500": {
       "price": 7723.55,
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64563,
-      "change_pct": 0.78
+      "price": 64376,
+      "change_pct": 0.15
     },
     "ETH": {
-      "price": 1906.09,
-      "change_pct": 2.04
+      "price": 1905.68,
+      "change_pct": 1.72
     },
     "SOL": {
-      "price": 73.46,
-      "change_pct": -0.42
+      "price": 73.18,
+      "change_pct": -0.83
     },
     "BNB": {
-      "price": 593.74,
-      "change_pct": -0.62
+      "price": 592.25,
+      "change_pct": -1.25
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. ready to return to \u2018commitments,\u2019 Iran says as Strait of Hormuz deal looms"
+      "title": "Stocks are little changed as traders monitor Iran; Sandisk shares fall: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Peloton posts first ever annual net profit, but shares drop as outlook disappoints"
+      "title": "Ford's new 'Fathom' electric pickup truck will start at $28,000"
     },
     {
       "source": "MarketWatch",
-      "title": "33 stocks to bet on foreign markets continuing to beat the S&P 500"
+      "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?"
     },
     {
       "source": "MarketWatch",
-      "title": "Hedge funds forced out of tech stocks may leave the market at the mercy of retail traders"
+      "title": "\u2018He\u2019s never been good with money\u2019: If I set up an annuity for my brother, 65, would it jeopardize his Supplemental Security Income?"
     }
   ]
 }
