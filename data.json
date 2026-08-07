@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, August 07 2026  09:23 PT",
-  "market_status": "Live \u2014 as of 12:23 ET",
+  "generated_at": "Friday, August 07 2026  10:22 PT",
+  "market_status": "Live \u2014 as of 13:22 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7750.97,
-      "change_pct": 0.53
+      "price": 7746.45,
+      "change_pct": 0.47
     },
     "Nasdaq": {
-      "price": 26644.92,
-      "change_pct": 1.13
+      "price": 26606.84,
+      "change_pct": 0.98
     },
     "Dow Jones": {
-      "price": 53971.48,
-      "change_pct": 0.16
+      "price": 53995.26,
+      "change_pct": 0.2
     },
     "Russell 2000": {
-      "price": 3031.72,
-      "change_pct": 1.02
+      "price": 3030.17,
+      "change_pct": 0.97
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4406.8,
-      "change_pct": 1.94
+      "price": 4395.2,
+      "change_pct": 1.67
     },
     "Oil (WTI)": {
-      "price": 78.22,
-      "change_pct": 0.22
+      "price": 78.07,
+      "change_pct": 0.03
     },
     "Silver": {
-      "price": 63.77,
-      "change_pct": 1.9
+      "price": 63.42,
+      "change_pct": 1.35
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64973,
-      "change_pct": 0.62
+      "price": 64667,
+      "change_pct": -0.0
     },
     "ETH": {
-      "price": 1918.91,
-      "change_pct": 0.51
+      "price": 1908.79,
+      "change_pct": -0.26
     },
     "SOL": {
-      "price": 73.98,
-      "change_pct": 1.1
+      "price": 73.32,
+      "change_pct": -0.05
     },
     "BNB": {
-      "price": 593.15,
-      "change_pct": 0.27
+      "price": 591.55,
+      "change_pct": -0.27
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. economy unexpectedly lost 23,000 jobs in July"
+      "title": "Here are three key takeaways from the disappointing July jobs report"
     },
     {
       "source": "CNBC",
-      "title": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick"
+      "title": "Trump teased an Iran deal that didn't come, but markets soared. Here\u2019s why it keeps happening"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?"
+      "title": "SpaceX\u2019s stock is having one of its best days ever \u2014 with the first lockup expiration now behind it"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?"
+      "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?"
     }
   ]
 }
