@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, August 07 2026  07:15 PT",
-  "market_status": "Live \u2014 as of 10:15 ET",
+  "generated_at": "Friday, August 07 2026  08:24 PT",
+  "market_status": "Live \u2014 as of 11:24 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7726.4,
-      "change_pct": 0.21
+      "price": 7759.15,
+      "change_pct": 0.64
     },
     "Nasdaq": {
-      "price": 26502.8,
-      "change_pct": 0.59
+      "price": 26673.11,
+      "change_pct": 1.23
     },
     "Dow Jones": {
-      "price": 53954.91,
-      "change_pct": 0.13
+      "price": 54031.01,
+      "change_pct": 0.27
     },
     "Russell 2000": {
-      "price": 3025.26,
+      "price": 3025.41,
       "change_pct": 0.81
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4393.7,
-      "change_pct": 1.64
+      "price": 4415.4,
+      "change_pct": 2.14
     },
     "Oil (WTI)": {
-      "price": 77.63,
-      "change_pct": -0.54
+      "price": 78.16,
+      "change_pct": 0.14
     },
     "Silver": {
-      "price": 63.88,
+      "price": 63.89,
       "change_pct": 2.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64829,
-      "change_pct": 0.67
+      "price": 64948,
+      "change_pct": 0.4
     },
     "ETH": {
-      "price": 1913.49,
-      "change_pct": 0.38
+      "price": 1914.55,
+      "change_pct": 0.08
     },
     "SOL": {
-      "price": 73.74,
-      "change_pct": 0.82
+      "price": 73.71,
+      "change_pct": 0.48
     },
     "BNB": {
-      "price": 591.71,
-      "change_pct": -0.03
+      "price": 591.15,
+      "change_pct": -0.25
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "S&P 500 rises as it wraps up banner week with traders seeing bright side of dismal jobs report: Live updates"
+      "title": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick"
     },
     {
       "source": "MarketWatch",
-      "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?"
+      "title": "Are target-date funds hurting Americans as they live longer?"
     },
     {
       "source": "MarketWatch",
-      "title": "Social Security is celebrating its 91st birthday. Here\u2019s why it\u2019s not  going away anytime soon."
+      "title": "Tax-free weekends start in Texas, Florida and several other states today. Here\u2019s what to know."
     }
   ]
 }
