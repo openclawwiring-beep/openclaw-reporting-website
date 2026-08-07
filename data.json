@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, August 07 2026  15:05 PT",
+  "generated_at": "Friday, August 07 2026  16:05 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64887,
-      "change_pct": 0.82
+      "price": 64851,
+      "change_pct": 0.85
     },
     "ETH": {
-      "price": 1914.16,
-      "change_pct": 0.51
+      "price": 1913.8,
+      "change_pct": 0.55
     },
     "SOL": {
-      "price": 73.6,
-      "change_pct": 1.14
+      "price": 73.62,
+      "change_pct": 1.37
     },
     "BNB": {
-      "price": 592.24,
-      "change_pct": 0.08
+      "price": 592.41,
+      "change_pct": 0.15
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The smart way to invest in gold right now as the dollar slips"
+      "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies."
     },
     {
       "source": "MarketWatch",
-      "title": "Palantir\u2019s stock stages best week since 2024 \u2014 showing it\u2019s no longer an AI loser"
+      "title": "The smart way to invest in gold right now as the dollar slips"
     }
   ]
 }
