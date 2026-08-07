@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, August 07 2026  11:10 PT",
-  "market_status": "Live \u2014 as of 14:10 ET",
+  "generated_at": "Friday, August 07 2026  12:28 PT",
+  "market_status": "Live \u2014 as of 15:28 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7744.65,
-      "change_pct": 0.45
+      "price": 7753.78,
+      "change_pct": 0.57
     },
     "Nasdaq": {
-      "price": 26606.08,
-      "change_pct": 0.98
+      "price": 26662.19,
+      "change_pct": 1.19
     },
     "Dow Jones": {
-      "price": 53957.43,
-      "change_pct": 0.13
+      "price": 54055.25,
+      "change_pct": 0.32
     },
     "Russell 2000": {
-      "price": 3031.49,
-      "change_pct": 1.01
+      "price": 3035.61,
+      "change_pct": 1.15
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4398.9,
-      "change_pct": 1.76
+      "price": 4407.9,
+      "change_pct": 1.97
     },
     "Oil (WTI)": {
-      "price": 78.11,
-      "change_pct": 0.08
+      "price": 77.3,
+      "change_pct": -0.96
     },
     "Silver": {
-      "price": 63.54,
-      "change_pct": 1.54
+      "price": 63.85,
+      "change_pct": 2.02
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64817,
-      "change_pct": 0.6
+      "price": 64891,
+      "change_pct": 0.82
     },
     "ETH": {
-      "price": 1912.13,
-      "change_pct": 0.21
+      "price": 1914.97,
+      "change_pct": 0.47
     },
     "SOL": {
-      "price": 73.45,
-      "change_pct": 0.72
+      "price": 73.76,
+      "change_pct": 1.65
     },
     "BNB": {
-      "price": 591.7,
-      "change_pct": 0.05
+      "price": 592.55,
+      "change_pct": 0.42
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Here are three key takeaways from the disappointing July jobs report"
-    },
-    {
-      "source": "CNBC",
       "title": "Trump teased an Iran deal that didn't come, but markets soared. Here\u2019s why it keeps happening"
     },
     {
-      "source": "MarketWatch",
-      "title": "I\u2019m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?"
+      "source": "CNBC",
+      "title": "Trump revives effort to fire Fed's Lisa Cook"
     },
     {
       "source": "MarketWatch",
-      "title": "If target date funds aren\u2019t risky enough, Americans could miss out on retirement savings \u2014 especially as they live longer"
+      "title": "The size of the American workforce has fallen by over 1 million people in the past year. Here\u2019s what\u2019s going on."
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here\u2019s when Elon Musk\u2019s Starlink internet is worth the steep monthly price \u2014 and $350 startup cost"
     }
   ]
 }
