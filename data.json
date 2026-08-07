@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, August 07 2026  10:22 PT",
-  "market_status": "Live \u2014 as of 13:22 ET",
+  "generated_at": "Friday, August 07 2026  11:10 PT",
+  "market_status": "Live \u2014 as of 14:10 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7746.45,
-      "change_pct": 0.47
+      "price": 7744.65,
+      "change_pct": 0.45
     },
     "Nasdaq": {
-      "price": 26606.84,
+      "price": 26606.08,
       "change_pct": 0.98
     },
     "Dow Jones": {
-      "price": 53995.26,
-      "change_pct": 0.2
+      "price": 53957.43,
+      "change_pct": 0.13
     },
     "Russell 2000": {
-      "price": 3030.17,
-      "change_pct": 0.97
+      "price": 3031.49,
+      "change_pct": 1.01
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4395.2,
-      "change_pct": 1.67
+      "price": 4398.9,
+      "change_pct": 1.76
     },
     "Oil (WTI)": {
-      "price": 78.07,
-      "change_pct": 0.03
+      "price": 78.11,
+      "change_pct": 0.08
     },
     "Silver": {
-      "price": 63.42,
-      "change_pct": 1.35
+      "price": 63.54,
+      "change_pct": 1.54
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64667,
-      "change_pct": -0.0
+      "price": 64817,
+      "change_pct": 0.6
     },
     "ETH": {
-      "price": 1908.79,
-      "change_pct": -0.26
+      "price": 1912.13,
+      "change_pct": 0.21
     },
     "SOL": {
-      "price": 73.32,
-      "change_pct": -0.05
+      "price": 73.45,
+      "change_pct": 0.72
     },
     "BNB": {
-      "price": 591.55,
-      "change_pct": -0.27
+      "price": 591.7,
+      "change_pct": 0.05
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX\u2019s stock is having one of its best days ever \u2014 with the first lockup expiration now behind it"
+      "title": "I\u2019m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?"
     },
     {
       "source": "MarketWatch",
-      "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?"
+      "title": "If target date funds aren\u2019t risky enough, Americans could miss out on retirement savings \u2014 especially as they live longer"
     }
   ]
 }
