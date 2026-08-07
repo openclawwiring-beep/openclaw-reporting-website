@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 06 2026  22:14 PT",
+  "generated_at": "Thursday, August 06 2026  23:45 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4324.6,
-      "change_pct": 0.24
+      "price": 4344.6,
+      "change_pct": 0.5
     },
     "Oil (WTI)": {
-      "price": 78.3,
-      "change_pct": 0.51
+      "price": 77.77,
+      "change_pct": -0.36
     },
     "Silver": {
-      "price": 62.58,
-      "change_pct": 0.48
+      "price": 63.67,
+      "change_pct": 1.75
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64200,
-      "change_pct": -1.02
+      "price": 64297,
+      "change_pct": -0.71
     },
     "ETH": {
-      "price": 1896.73,
-      "change_pct": -0.86
+      "price": 1902.41,
+      "change_pct": -0.46
     },
     "SOL": {
-      "price": 72.64,
-      "change_pct": -2.03
+      "price": 72.87,
+      "change_pct": -1.56
     },
     "BNB": {
-      "price": 586.93,
-      "change_pct": -1.53
+      "price": 586.67,
+      "change_pct": -1.31
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil rises amid supply disruption fears following Iran's restrictive draft plan for the\u00a0Strait of Hormuz"
+      "title": "Oil rises as Iran's draft plan sees U.S. and Israel banned from Strait of Hormuz"
     },
     {
       "source": "CNBC",
