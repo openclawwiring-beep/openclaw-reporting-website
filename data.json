@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, August 07 2026  13:07 PT",
+  "generated_at": "Friday, August 07 2026  14:09 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,40 +15,40 @@
       "change_pct": 0.28
     },
     "Russell 2000": {
-      "price": 3035.84,
-      "change_pct": 1.16
+      "price": 3034.49,
+      "change_pct": 1.1
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4400.0,
-      "change_pct": 1.79
+      "price": 4400.6,
+      "change_pct": 1.8
     },
     "Oil (WTI)": {
-      "price": 76.98,
-      "change_pct": -1.37
+      "price": 77.11,
+      "change_pct": -1.2
     },
     "Silver": {
-      "price": 63.72,
-      "change_pct": 1.83
+      "price": 63.79,
+      "change_pct": 1.94
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64927,
-      "change_pct": 0.72
+      "price": 64934,
+      "change_pct": 0.76
     },
     "ETH": {
-      "price": 1917.03,
-      "change_pct": 0.43
+      "price": 1913.22,
+      "change_pct": 0.36
     },
     "SOL": {
-      "price": 73.95,
-      "change_pct": 1.45
+      "price": 73.76,
+      "change_pct": 1.27
     },
     "BNB": {
-      "price": 592.93,
-      "change_pct": 0.42
+      "price": 592.68,
+      "change_pct": 0.21
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump revives effort to fire Fed's Lisa Cook"
+      "title": "Here are three key takeaways from the disappointing July jobs report"
     },
     {
       "source": "MarketWatch",
-      "title": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes"
+      "title": "Palantir\u2019s stock stages best week since 2024 \u2014 showing it\u2019s no longer an AI loser"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?"
+      "title": "Two reasons why Nvidia\u2019s stock saw its biggest weekly surge in more than a year"
     }
   ]
 }
