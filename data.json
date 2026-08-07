@@ -1,53 +1,53 @@
 {
-  "generated_at": "Friday, August 07 2026  05:59 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, August 07 2026  07:15 PT",
+  "market_status": "Live \u2014 as of 10:15 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7709.96,
-      "change_pct": -0.18
+      "price": 7726.4,
+      "change_pct": 0.21
     },
     "Nasdaq": {
-      "price": 26348.35,
-      "change_pct": -0.06
+      "price": 26502.8,
+      "change_pct": 0.59
     },
     "Dow Jones": {
-      "price": 53885.1,
-      "change_pct": -0.85
+      "price": 53954.91,
+      "change_pct": 0.13
     },
     "Russell 2000": {
-      "price": 3001.55,
-      "change_pct": -0.58
+      "price": 3025.26,
+      "change_pct": 0.81
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4428.0,
-      "change_pct": 2.43
+      "price": 4393.7,
+      "change_pct": 1.64
     },
     "Oil (WTI)": {
-      "price": 76.8,
-      "change_pct": -1.6
+      "price": 77.63,
+      "change_pct": -0.54
     },
     "Silver": {
-      "price": 65.25,
-      "change_pct": 4.26
+      "price": 63.88,
+      "change_pct": 2.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65242,
-      "change_pct": 1.36
+      "price": 64829,
+      "change_pct": 0.67
     },
     "ETH": {
-      "price": 1931.0,
-      "change_pct": 1.74
+      "price": 1913.49,
+      "change_pct": 0.38
     },
     "SOL": {
-      "price": 73.86,
-      "change_pct": 1.04
+      "price": 73.74,
+      "change_pct": 0.82
     },
     "BNB": {
-      "price": 592.34,
+      "price": 591.71,
       "change_pct": -0.03
     }
   },
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Solar stocks shine after Trump extends China tariffs to polysilicon products"
+      "title": "S&P 500 rises as it wraps up banner week with traders seeing bright side of dismal jobs report: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "How S&P 500 options action may help explain the rising volatility in memory stocks"
+      "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?"
     },
     {
       "source": "MarketWatch",
-      "title": "Kevin O\u2019Leary, aka \u2018Mr. Wonderful,\u2019 on crypto, winning in AI and 3 things all business owners must know"
+      "title": "Social Security is celebrating its 91st birthday. Here\u2019s why it\u2019s not  going away anytime soon."
     }
   ]
 }
