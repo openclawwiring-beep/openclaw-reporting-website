@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 06 2026  20:27 PT",
+  "generated_at": "Thursday, August 06 2026  22:14 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4312.3,
-      "change_pct": -0.29
+      "price": 4324.6,
+      "change_pct": 0.24
     },
     "Oil (WTI)": {
-      "price": 78.1,
-      "change_pct": 4.15
+      "price": 78.3,
+      "change_pct": 0.51
     },
     "Silver": {
-      "price": 62.37,
-      "change_pct": 0.09
+      "price": 62.58,
+      "change_pct": 0.48
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64237,
-      "change_pct": -0.33
+      "price": 64200,
+      "change_pct": -1.02
     },
     "ETH": {
-      "price": 1898.73,
-      "change_pct": 0.25
+      "price": 1896.73,
+      "change_pct": -0.86
     },
     "SOL": {
-      "price": 72.58,
-      "change_pct": -1.13
+      "price": 72.64,
+      "change_pct": -2.03
     },
     "BNB": {
-      "price": 593.53,
-      "change_pct": 0.13
+      "price": 586.93,
+      "change_pct": -1.53
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "China's exports jump 23% in July, beating estimates; imports cool"
+      "title": "Oil rises amid supply disruption fears following Iran's restrictive draft plan for the\u00a0Strait of Hormuz"
     },
     {
       "source": "CNBC",
