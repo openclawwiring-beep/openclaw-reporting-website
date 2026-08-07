@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, August 07 2026  02:31 PT",
+  "generated_at": "Friday, August 07 2026  03:50 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4366.7,
-      "change_pct": 1.02
+      "price": 4375.3,
+      "change_pct": 1.21
     },
     "Oil (WTI)": {
-      "price": 77.54,
-      "change_pct": -0.65
+      "price": 77.0,
+      "change_pct": -1.35
     },
     "Silver": {
-      "price": 64.68,
-      "change_pct": 3.36
+      "price": 64.69,
+      "change_pct": 3.38
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64781,
-      "change_pct": 0.17
+      "price": 64836,
+      "change_pct": 0.4
     },
     "ETH": {
-      "price": 1909.93,
-      "change_pct": 0.18
+      "price": 1912.62,
+      "change_pct": 0.53
     },
     "SOL": {
-      "price": 73.49,
-      "change_pct": 0.07
+      "price": 73.47,
+      "change_pct": 0.29
     },
     "BNB": {
-      "price": 589.36,
-      "change_pct": -0.8
+      "price": 589.98,
+      "change_pct": -0.56
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill"
+      "title": "Solar stocks shine after Trump extends China tariffs to polysilicon products"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "There are good reasons why higher bond yields are here to stay, this strategist says"
     },
     {
       "source": "MarketWatch",
       "title": "My brother asked me to sign as his executor, but wouldn\u2019t let me read the document. Should I have refused?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron\u2019s stock falls but is spared the worst of the memory-chip selloff"
     }
   ]
 }
