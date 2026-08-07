@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, August 07 2026  03:50 PT",
+  "generated_at": "Friday, August 07 2026  04:43 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4375.3,
-      "change_pct": 1.21
+      "price": 4386.6,
+      "change_pct": 1.48
     },
     "Oil (WTI)": {
-      "price": 77.0,
-      "change_pct": -1.35
+      "price": 76.83,
+      "change_pct": -1.56
     },
     "Silver": {
-      "price": 64.69,
-      "change_pct": 3.38
+      "price": 64.54,
+      "change_pct": 3.12
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64836,
-      "change_pct": 0.4
+      "price": 65005,
+      "change_pct": 0.66
     },
     "ETH": {
-      "price": 1912.62,
-      "change_pct": 0.53
+      "price": 1915.52,
+      "change_pct": 0.48
     },
     "SOL": {
-      "price": 73.47,
-      "change_pct": 0.29
+      "price": 73.58,
+      "change_pct": 0.2
     },
     "BNB": {
-      "price": 589.98,
-      "change_pct": -0.56
+      "price": 590.8,
+      "change_pct": -0.47
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "There are good reasons why higher bond yields are here to stay, this strategist says"
+      "title": "Kevin O\u2019Leary, aka \u2018Mr. Wonderful,\u2019 on crypto, winning in AI and 3 things all business owners must know"
     },
     {
       "source": "MarketWatch",
-      "title": "My brother asked me to sign as his executor, but wouldn\u2019t let me read the document. Should I have refused?"
+      "title": "Optical stocks have a China problem that most investors are missing"
     }
   ]
 }
