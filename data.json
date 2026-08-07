@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 06 2026  17:23 PT",
+  "generated_at": "Thursday, August 06 2026  20:27 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4304.1,
-      "change_pct": -0.48
+      "price": 4312.3,
+      "change_pct": -0.29
     },
     "Oil (WTI)": {
-      "price": 78.12,
-      "change_pct": 4.17
+      "price": 78.1,
+      "change_pct": 4.15
     },
     "Silver": {
-      "price": 61.79,
-      "change_pct": -0.83
+      "price": 62.37,
+      "change_pct": 0.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64197,
-      "change_pct": -0.65
+      "price": 64237,
+      "change_pct": -0.33
     },
     "ETH": {
-      "price": 1899.17,
-      "change_pct": -0.59
+      "price": 1898.73,
+      "change_pct": 0.25
     },
     "SOL": {
-      "price": 72.55,
-      "change_pct": -2.12
+      "price": 72.58,
+      "change_pct": -1.13
     },
     "BNB": {
-      "price": 591.73,
-      "change_pct": -0.68
+      "price": 593.53,
+      "change_pct": 0.13
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran's Hormuz Strait plan reportedly blocks U.S., Israeli ships; U.S. rejects any 'impediments'"
+      "title": "China's exports jump 23% in July, beating estimates; imports cool"
     },
     {
       "source": "CNBC",
-      "title": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico"
+      "title": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m easing into retirement\u2019: I\u2019m getting an $80,000 pension payout. Where can I invest it safely?"
+      "title": "Micron\u2019s stock falls but is spared the worst of the memory-chip selloff"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?"
+      "title": "\u2018He\u2019s never been good with money\u2019: If I set up an annuity for my brother, 65, would it jeopardize his Supplemental Security Income?"
     }
   ]
 }
