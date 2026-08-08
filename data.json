@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 08 2026  06:43 PT",
+  "generated_at": "Saturday, August 08 2026  07:30 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64966,
-      "change_pct": -0.35
+      "price": 65062,
+      "change_pct": -0.12
     },
     "ETH": {
-      "price": 1917.97,
-      "change_pct": -0.59
+      "price": 1921.63,
+      "change_pct": -0.07
     },
     "SOL": {
-      "price": 75.42,
-      "change_pct": 1.76
+      "price": 75.72,
+      "change_pct": 2.3
     },
     "BNB": {
-      "price": 595.74,
-      "change_pct": 0.63
+      "price": 606.29,
+      "change_pct": 2.31
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?"
+      "title": "Changing how Medicare pays for hospice care could save the U.S. $7.6 billion a year \u2014 but at what cost to patients?"
     },
     {
       "source": "MarketWatch",
-      "title": "How can we minimize taxes in retirement with a $2.3 million nest egg \u2014 while buying homes in Florida and New England?"
+      "title": "Berkshire Hathaway profit doubles, fueled by a near $13 billion investment gain"
     }
   ]
 }
