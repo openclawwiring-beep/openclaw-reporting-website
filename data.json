@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 08 2026  08:00 PT",
+  "generated_at": "Saturday, August 08 2026  08:56 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65101,
-      "change_pct": 0.28
+      "price": 65029,
+      "change_pct": 0.18
     },
     "ETH": {
-      "price": 1922.97,
-      "change_pct": 0.52
+      "price": 1921.6,
+      "change_pct": 0.24
     },
     "SOL": {
-      "price": 76.49,
-      "change_pct": 3.83
+      "price": 76.39,
+      "change_pct": 3.46
     },
     "BNB": {
-      "price": 608.84,
-      "change_pct": 3.07
+      "price": 604.66,
+      "change_pct": 2.15
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My wife and I are both retired\u2019: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?"
+      "title": "The size of the American workforce has fallen by over 1 million people in the past year. Here\u2019s what\u2019s going on."
     },
     {
       "source": "MarketWatch",
-      "title": "Paying for pricey daycare? Here\u2019s how to keep saving for retirement at the same time."
+      "title": "\u2018My head hit the driver\u2019s window\u2019: A teenager T-boned our car. Will Medicare pay my hospital bills?"
     }
   ]
 }
