@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 08 2026  08:56 PT",
+  "generated_at": "Saturday, August 08 2026  09:33 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65029,
-      "change_pct": 0.18
+      "price": 65022,
+      "change_pct": 0.27
     },
     "ETH": {
-      "price": 1921.6,
-      "change_pct": 0.24
+      "price": 1921.07,
+      "change_pct": 0.49
     },
     "SOL": {
-      "price": 76.39,
-      "change_pct": 3.46
+      "price": 76.26,
+      "change_pct": 3.44
     },
     "BNB": {
-      "price": 604.66,
-      "change_pct": 2.15
+      "price": 604.13,
+      "change_pct": 1.92
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The size of the American workforce has fallen by over 1 million people in the past year. Here\u2019s what\u2019s going on."
+      "title": "My brother asked me to sign as his executor, but wouldn\u2019t let me read the document. Should I have refused?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My head hit the driver\u2019s window\u2019: A teenager T-boned our car. Will Medicare pay my hospital bills?"
+      "title": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?"
     }
   ]
 }
