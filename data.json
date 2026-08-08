@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 08 2026  10:59 PT",
+  "generated_at": "Saturday, August 08 2026  11:50 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65073,
-      "change_pct": 0.56
+      "price": 64999,
+      "change_pct": 0.5
     },
     "ETH": {
-      "price": 1922.98,
+      "price": 1919.73,
       "change_pct": 0.67
     },
     "SOL": {
-      "price": 76.33,
-      "change_pct": 4.12
+      "price": 76.12,
+      "change_pct": 3.91
     },
     "BNB": {
-      "price": 604.06,
-      "change_pct": 2.12
+      "price": 604.09,
+      "change_pct": 2.2
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "If I buy a house for $1 million in cash at 70, will I run out of money by 90?"
+      "title": "Don\u2019t worry about what other people have saved for retirement. Here\u2019s how to find your perfect number."
     },
     {
       "source": "MarketWatch",
-      "title": "Social Security\u2019s funding crisis is the elephant in the room. But don\u2019t ignore the mouse."
+      "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?"
     }
   ]
 }
