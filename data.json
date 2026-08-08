@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 08 2026  03:30 PT",
+  "generated_at": "Saturday, August 08 2026  04:26 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64973,
-      "change_pct": 0.21
+      "price": 64942,
+      "change_pct": -0.21
     },
     "ETH": {
-      "price": 1920.73,
-      "change_pct": 0.42
+      "price": 1918.69,
+      "change_pct": 0.11
     },
     "SOL": {
-      "price": 74.94,
-      "change_pct": 1.87
+      "price": 75.24,
+      "change_pct": 2.2
     },
     "BNB": {
-      "price": 595.36,
-      "change_pct": 0.93
+      "price": 594.8,
+      "change_pct": 0.62
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies."
+      "title": "My brother asked me to sign as his executor, but wouldn\u2019t let me read the document. Should I have refused?"
     },
     {
       "source": "MarketWatch",
-      "title": "The smart way to invest in gold right now as the dollar slips"
+      "title": "SpaceX\u2019s Nvidia deal could be bad news for neoclouds like CoreWeave and Nebius, analysts say"
     }
   ]
 }
