@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 08 2026  05:43 PT",
+  "generated_at": "Saturday, August 08 2026  06:43 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64978,
-      "change_pct": -0.24
+      "price": 64966,
+      "change_pct": -0.35
     },
     "ETH": {
-      "price": 1919.32,
-      "change_pct": -0.5
+      "price": 1917.97,
+      "change_pct": -0.59
     },
     "SOL": {
-      "price": 75.37,
-      "change_pct": 2.17
+      "price": 75.42,
+      "change_pct": 1.76
     },
     "BNB": {
-      "price": 595.51,
-      "change_pct": 0.69
+      "price": 595.74,
+      "change_pct": 0.63
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump teased an Iran deal that didn't come, but markets soared. Here\u2019s why it keeps happening"
+      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard"
     },
     {
       "source": "CNBC",
