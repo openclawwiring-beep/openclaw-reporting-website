@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 08 2026  11:50 PT",
+  "generated_at": "Saturday, August 08 2026  12:28 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64999,
-      "change_pct": 0.5
+      "price": 64972,
+      "change_pct": 0.1
     },
     "ETH": {
-      "price": 1919.73,
-      "change_pct": 0.67
+      "price": 1919.46,
+      "change_pct": 0.2
     },
     "SOL": {
-      "price": 76.12,
-      "change_pct": 3.91
+      "price": 75.99,
+      "change_pct": 3.01
     },
     "BNB": {
-      "price": 604.09,
-      "change_pct": 2.2
+      "price": 602.91,
+      "change_pct": 1.73
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Don\u2019t worry about what other people have saved for retirement. Here\u2019s how to find your perfect number."
+      "title": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?"
+      "title": "How can we minimize taxes in retirement with a $2.3 million nest egg \u2014 while buying homes in Florida and New England?"
     }
   ]
 }
