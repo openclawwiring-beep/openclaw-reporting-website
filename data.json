@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 08 2026  04:26 PT",
+  "generated_at": "Saturday, August 08 2026  04:54 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64942,
-      "change_pct": -0.21
+      "price": 64920,
+      "change_pct": -0.05
     },
     "ETH": {
-      "price": 1918.69,
-      "change_pct": 0.11
+      "price": 1918.75,
+      "change_pct": 0.28
     },
     "SOL": {
-      "price": 75.24,
-      "change_pct": 2.2
+      "price": 75.42,
+      "change_pct": 2.57
     },
     "BNB": {
-      "price": 594.8,
-      "change_pct": 0.62
+      "price": 595.63,
+      "change_pct": 0.88
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My brother asked me to sign as his executor, but wouldn\u2019t let me read the document. Should I have refused?"
+      "title": "Here\u2019s why Wendy\u2019s is losing the burger wars"
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX\u2019s Nvidia deal could be bad news for neoclouds like CoreWeave and Nebius, analysts say"
+      "title": "My brother asked me to sign as his executor, but wouldn\u2019t let me read the document. Should I have refused?"
     }
   ]
 }
