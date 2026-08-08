@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 08 2026  02:35 PT",
+  "generated_at": "Saturday, August 08 2026  03:30 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64989,
-      "change_pct": 0.18
+      "price": 64973,
+      "change_pct": 0.21
     },
     "ETH": {
-      "price": 1918.31,
-      "change_pct": 0.27
+      "price": 1920.73,
+      "change_pct": 0.42
     },
     "SOL": {
-      "price": 74.87,
-      "change_pct": 1.72
+      "price": 74.94,
+      "change_pct": 1.87
     },
     "BNB": {
-      "price": 594.58,
-      "change_pct": 0.78
+      "price": 595.36,
+      "change_pct": 0.93
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Here are three key takeaways from the disappointing July jobs report"
+      "title": "\u2018SaaSpocalypse\u2019 debate intensifies as software stocks swing wildly"
     },
     {
       "source": "MarketWatch",
