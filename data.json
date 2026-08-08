@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 08 2026  12:55 PT",
+  "generated_at": "Saturday, August 08 2026  13:28 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65011,
-      "change_pct": 0.14
+      "price": 65015,
+      "change_pct": 0.1
     },
     "ETH": {
-      "price": 1919.24,
-      "change_pct": 0.14
+      "price": 1918.58,
+      "change_pct": 0.12
     },
     "SOL": {
-      "price": 76.13,
-      "change_pct": 3.1
+      "price": 76.12,
+      "change_pct": 2.86
     },
     "BNB": {
-      "price": 602.76,
-      "change_pct": 1.7
+      "price": 602.17,
+      "change_pct": 1.62
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?"
+      "title": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?"
     },
     {
       "source": "MarketWatch",
-      "title": "How can we minimize taxes in retirement with a $2.3 million nest egg \u2014 while buying homes in Florida and New England?"
+      "title": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?"
     }
   ]
 }
