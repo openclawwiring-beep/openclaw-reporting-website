@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 08 2026  10:28 PT",
+  "generated_at": "Saturday, August 08 2026  10:59 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65061,
-      "change_pct": 0.74
+      "price": 65073,
+      "change_pct": 0.56
     },
     "ETH": {
-      "price": 1921.52,
-      "change_pct": 0.75
+      "price": 1922.98,
+      "change_pct": 0.67
     },
     "SOL": {
-      "price": 76.28,
-      "change_pct": 4.13
+      "price": 76.33,
+      "change_pct": 4.12
     },
     "BNB": {
-      "price": 604.98,
-      "change_pct": 2.34
+      "price": 604.06,
+      "change_pct": 2.12
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard"
+      "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike"
     },
     {
       "source": "CNBC",
-      "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike"
+      "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'"
     },
     {
       "source": "MarketWatch",
