@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 09 2026  05:49 PT",
+  "generated_at": "Sunday, August 09 2026  06:48 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64889,
-      "change_pct": -0.12
+      "price": 65168,
+      "change_pct": 0.32
     },
     "ETH": {
-      "price": 1916.0,
-      "change_pct": -0.15
+      "price": 1921.31,
+      "change_pct": 0.2
     },
     "SOL": {
-      "price": 76.3,
-      "change_pct": 1.1
+      "price": 76.59,
+      "change_pct": 1.52
     },
     "BNB": {
-      "price": 603.84,
-      "change_pct": 1.42
+      "price": 606.16,
+      "change_pct": 1.7
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I got two email invitations from friends. Is this a phishing scam \u2014 or am I suddenly popular?"
+      "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Her bank accounts were stripped bare by Medicaid\u2019: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?"
+      "title": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?"
     }
   ]
 }
