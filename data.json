@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 08 2026  22:03 PT",
+  "generated_at": "Saturday, August 08 2026  23:07 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64740,
-      "change_pct": -0.36
+      "price": 64765,
+      "change_pct": -0.29
     },
     "ETH": {
-      "price": 1911.61,
-      "change_pct": -0.23
+      "price": 1913.59,
+      "change_pct": -0.13
     },
     "SOL": {
-      "price": 75.92,
-      "change_pct": 1.79
+      "price": 75.93,
+      "change_pct": 1.83
     },
     "BNB": {
-      "price": 600.86,
-      "change_pct": 1.27
+      "price": 601.81,
+      "change_pct": 1.48
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'"
+      "title": "Myspace eyes comeback as an an 'antidote' to social media fatigue \u2014 but it may be a long shot"
     },
     {
       "source": "MarketWatch",
