@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 09 2026  04:55 PT",
+  "generated_at": "Sunday, August 09 2026  05:49 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64937,
-      "change_pct": 0.01
+      "price": 64889,
+      "change_pct": -0.12
     },
     "ETH": {
-      "price": 1918.28,
-      "change_pct": -0.05
+      "price": 1916.0,
+      "change_pct": -0.15
     },
     "SOL": {
-      "price": 76.44,
-      "change_pct": 1.27
+      "price": 76.3,
+      "change_pct": 1.1
     },
     "BNB": {
-      "price": 603.79,
-      "change_pct": 1.38
+      "price": 603.84,
+      "change_pct": 1.42
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Myspace eyes comeback as an an 'antidote' to social media fatigue \u2014 but it may be a long shot"
+      "title": "Myspace eyes comeback as an 'antidote' to social media fatigue \u2014 but it may be a long shot"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My wife and I are both retired\u2019: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?"
+      "title": "I got two email invitations from friends. Is this a phishing scam \u2014 or am I suddenly popular?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?"
+      "title": "\u2018Her bank accounts were stripped bare by Medicaid\u2019: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?"
     }
   ]
 }
