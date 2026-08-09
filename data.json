@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 09 2026  11:50 PT",
+  "generated_at": "Sunday, August 09 2026  12:31 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65170,
-      "change_pct": 0.26
+      "price": 65165,
+      "change_pct": 0.3
     },
     "ETH": {
-      "price": 1919.89,
-      "change_pct": 0.0
+      "price": 1920.71,
+      "change_pct": 0.11
     },
     "SOL": {
-      "price": 77.13,
-      "change_pct": 1.33
+      "price": 77.22,
+      "change_pct": 1.68
     },
     "BNB": {
-      "price": 607.78,
-      "change_pct": 0.61
+      "price": 608.21,
+      "change_pct": 0.88
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My wife and I are both retired\u2019: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?"
+      "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise."
     },
     {
       "source": "MarketWatch",
-      "title": "S&P 500 sales growth is at a nearly 5-year high. Here\u2019s what\u2019s behind the surge."
+      "title": "\u2018My wife and I are both retired\u2019: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?"
     }
   ]
 }
