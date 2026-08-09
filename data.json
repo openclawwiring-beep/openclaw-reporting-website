@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 09 2026  04:26 PT",
+  "generated_at": "Sunday, August 09 2026  04:55 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64929,
-      "change_pct": -0.02
+      "price": 64937,
+      "change_pct": 0.01
     },
     "ETH": {
-      "price": 1919.32,
-      "change_pct": 0.03
+      "price": 1918.28,
+      "change_pct": -0.05
     },
     "SOL": {
-      "price": 76.35,
-      "change_pct": 1.49
+      "price": 76.44,
+      "change_pct": 1.27
     },
     "BNB": {
-      "price": 603.85,
-      "change_pct": 1.52
+      "price": 603.79,
+      "change_pct": 1.38
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike"
+      "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?"
+      "title": "\u2018My wife and I are both retired\u2019: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m in my peak earning years\u2019: I\u2019m working beyond 70. Will that help increase my Social Security?"
+      "title": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?"
     }
   ]
 }
