@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 09 2026  09:00 PT",
+  "generated_at": "Sunday, August 09 2026  10:03 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65183,
+      "price": 65185,
       "change_pct": 0.22
     },
     "ETH": {
-      "price": 1925.44,
-      "change_pct": 0.21
+      "price": 1922.5,
+      "change_pct": 0.08
     },
     "SOL": {
-      "price": 77.34,
-      "change_pct": 1.33
+      "price": 77.24,
+      "change_pct": 1.23
     },
     "BNB": {
-      "price": 608.02,
-      "change_pct": 0.55
+      "price": 608.22,
+      "change_pct": 0.56
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Myspace eyes comeback as an 'antidote' to social media fatigue \u2014 but it may be a long shot"
+      "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018My wife and I are both retired\u2019: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?"
     },
     {
       "source": "MarketWatch",
       "title": "S&P 500 sales growth is at a nearly 5-year high. Here\u2019s what\u2019s behind the surge."
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?"
     }
   ]
 }
