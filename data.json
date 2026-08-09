@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 09 2026  06:48 PT",
+  "generated_at": "Sunday, August 09 2026  07:32 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65168,
-      "change_pct": 0.32
+      "price": 65139,
+      "change_pct": 0.04
     },
     "ETH": {
-      "price": 1921.31,
-      "change_pct": 0.2
+      "price": 1922.06,
+      "change_pct": -0.0
     },
     "SOL": {
-      "price": 76.59,
-      "change_pct": 1.52
+      "price": 76.63,
+      "change_pct": 1.17
     },
     "BNB": {
-      "price": 606.16,
-      "change_pct": 1.7
+      "price": 608.78,
+      "change_pct": 0.02
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?"
+      "title": "S&P 500 sales growth is at a nearly 5-year high. Here\u2019s what\u2019s behind the surge."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This has been an emotionally difficult time\u2019: My brother has cancer and my father is 94. How do I shoulder this responsibility?"
+      "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?"
     }
   ]
 }
