@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 10 2026  13:40 PT",
+  "generated_at": "Monday, August 10 2026  14:39 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4450.3,
-      "change_pct": 1.42
+      "price": 4448.6,
+      "change_pct": 1.39
     },
     "Oil (WTI)": {
-      "price": 82.28,
-      "change_pct": 4.4
+      "price": 82.3,
+      "change_pct": 4.43
     },
     "Silver": {
-      "price": 66.03,
-      "change_pct": 3.46
+      "price": 65.88,
+      "change_pct": 3.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64076,
-      "change_pct": -1.57
+      "price": 64057,
+      "change_pct": -1.66
     },
     "ETH": {
-      "price": 1878.37,
-      "change_pct": -2.14
+      "price": 1875.28,
+      "change_pct": -2.5
     },
     "SOL": {
-      "price": 76.31,
-      "change_pct": -1.12
+      "price": 76.4,
+      "change_pct": -1.19
     },
     "BNB": {
-      "price": 600.57,
-      "change_pct": -1.14
+      "price": 599.97,
+      "change_pct": -1.31
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia taps Wall Street for $500 billion financing. CEO Jensen Huang tells CNBC AI chips now 'investable asset'"
+      "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are \u2018investable asset\u2019"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Workers are worried, but there\u2019s no sign AI is muscling people out of their jobs on a massive scale"
+      "title": "Rocket Lab reveals some big plans, but its stock is dropping on mixed earnings"
     },
     {
       "source": "MarketWatch",
-      "title": "EBay may dodge a GameStop takeover \u2014 but there\u2019s a new twist in the Ryan Cohen saga"
+      "title": "Wall Street thinks inflation is under control. Here\u2019s why investors shouldn\u2019t buy it."
     }
   ]
 }
