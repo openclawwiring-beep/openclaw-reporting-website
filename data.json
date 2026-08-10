@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, August 10 2026  10:55 PT",
-  "market_status": "Live \u2014 as of 13:55 ET",
+  "generated_at": "Monday, August 10 2026  11:55 PT",
+  "market_status": "Live \u2014 as of 14:55 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7749.34,
-      "change_pct": -0.08
+      "price": 7753.73,
+      "change_pct": -0.02
     },
     "Nasdaq": {
-      "price": 26577.95,
-      "change_pct": -0.42
+      "price": 26603.98,
+      "change_pct": -0.32
     },
     "Dow Jones": {
-      "price": 53902.02,
+      "price": 53899.7,
       "change_pct": -0.24
     },
     "Russell 2000": {
-      "price": 3015.85,
-      "change_pct": -0.6
+      "price": 3016.39,
+      "change_pct": -0.58
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4418.1,
-      "change_pct": 0.69
+      "price": 4437.1,
+      "change_pct": 1.12
     },
     "Oil (WTI)": {
-      "price": 81.79,
-      "change_pct": 3.78
+      "price": 82.12,
+      "change_pct": 4.2
     },
     "Silver": {
-      "price": 65.26,
-      "change_pct": 2.27
+      "price": 65.71,
+      "change_pct": 2.97
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63869,
-      "change_pct": -1.98
+      "price": 63850,
+      "change_pct": -2.02
     },
     "ETH": {
-      "price": 1873.11,
-      "change_pct": -2.53
+      "price": 1870.4,
+      "change_pct": -2.59
     },
     "SOL": {
-      "price": 75.89,
-      "change_pct": -1.57
+      "price": 75.74,
+      "change_pct": -1.85
     },
     "BNB": {
-      "price": 599.61,
-      "change_pct": -1.43
+      "price": 599.51,
+      "change_pct": -1.39
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Archer strikes deal with Boeing in latest bid to transform aviation through AI"
+      "title": "\u2018I unexpectedly came into some money\u2019: Is putting $20,000 into CDs a smart move?"
     },
     {
       "source": "MarketWatch",
-      "title": "Protect College Sports Act to be voted on next month: What it means for transfers and team spending"
+      "title": "Is $1 million enough for a household to retire? The answer keeps changing."
     }
   ]
 }
