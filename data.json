@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 10 2026  02:18 PT",
+  "generated_at": "Monday, August 10 2026  03:42 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4405.2,
-      "change_pct": 0.4
+      "price": 4401.5,
+      "change_pct": 0.31
     },
     "Oil (WTI)": {
-      "price": 79.07,
-      "change_pct": 0.33
+      "price": 78.98,
+      "change_pct": 0.22
     },
     "Silver": {
-      "price": 64.39,
-      "change_pct": 0.89
+      "price": 64.24,
+      "change_pct": 0.67
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65172,
-      "change_pct": 0.61
+      "price": 64974,
+      "change_pct": 0.12
     },
     "ETH": {
-      "price": 1925.12,
-      "change_pct": 0.6
+      "price": 1915.78,
+      "change_pct": -0.15
     },
     "SOL": {
-      "price": 76.94,
-      "change_pct": 0.72
+      "price": 76.62,
+      "change_pct": 0.29
     },
     "BNB": {
-      "price": 603.92,
-      "change_pct": 0.41
+      "price": 604.53,
+      "change_pct": 0.11
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall"
+      "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz"
     },
     {
       "source": "CNBC",
-      "title": "Australian rare earth miner surges after U.S. Department of War investment"
+      "title": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I unexpectedly came into some money\u2019: Is putting $20,000 into CDs a smart move?"
+      "title": "Is $1 million enough for a household to retire? The answer keeps changing."
     },
     {
       "source": "MarketWatch",
-      "title": "How \u2018Ted Lasso\u2019 turned an affluent London neighborhood into a tourist hotspot"
+      "title": "This is the hottest ZIP Code where homes are selling fast"
     }
   ]
 }
