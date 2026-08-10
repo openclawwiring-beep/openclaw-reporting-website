@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 09 2026  21:27 PT",
+  "generated_at": "Sunday, August 09 2026  22:56 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4391.3,
-      "change_pct": -0.12
+      "price": 4401.9,
+      "change_pct": 0.32
     },
     "Oil (WTI)": {
-      "price": 78.82,
-      "change_pct": -0.06
+      "price": 78.37,
+      "change_pct": -0.56
     },
     "Silver": {
-      "price": 63.94,
-      "change_pct": -0.01
+      "price": 64.15,
+      "change_pct": 0.52
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65010,
-      "change_pct": 0.38
+      "price": 65050,
+      "change_pct": 0.47
     },
     "ETH": {
-      "price": 1917.93,
-      "change_pct": 0.28
+      "price": 1921.74,
+      "change_pct": 0.48
     },
     "SOL": {
-      "price": 76.6,
-      "change_pct": 0.84
+      "price": 76.83,
+      "change_pct": 1.15
     },
     "BNB": {
-      "price": 602.52,
-      "change_pct": 0.26
+      "price": 602.93,
+      "change_pct": 0.28
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal"
+      "title": "U.S. reaffirms grip on Hormuz blockade, turning away 55 ships as talks stall"
     },
     {
       "source": "CNBC",
-      "title": "S&P 500 futures slip as traders watch for Strait of Hormuz deal, inflation data: Live updates"
+      "title": "Trump says oil supermajors are making too much money. What will they do with it?"
     },
     {
       "source": "MarketWatch",
