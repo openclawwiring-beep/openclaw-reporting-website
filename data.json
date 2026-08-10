@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 10 2026  15:35 PT",
+  "generated_at": "Monday, August 10 2026  16:33 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4452.4,
-      "change_pct": 1.47
+      "price": 4454.7,
+      "change_pct": 1.52
     },
     "Oil (WTI)": {
-      "price": 82.18,
-      "change_pct": 4.28
+      "price": 82.06,
+      "change_pct": 4.12
     },
     "Silver": {
-      "price": 65.93,
-      "change_pct": 3.31
+      "price": 65.89,
+      "change_pct": 3.26
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63940,
-      "change_pct": -1.71
-    },
-    "ETH": {
-      "price": 1874.41,
-      "change_pct": -2.49
-    },
-    "SOL": {
-      "price": 76.1,
+      "price": 63932,
       "change_pct": -1.4
     },
+    "ETH": {
+      "price": 1872.04,
+      "change_pct": -2.0
+    },
+    "SOL": {
+      "price": 76.05,
+      "change_pct": -0.3
+    },
     "BNB": {
-      "price": 598.78,
-      "change_pct": -1.04
+      "price": 598.37,
+      "change_pct": -0.73
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s who stands to gain the most from a Jeff Bezos-Liverpool FC deal"
+      "title": "EBay may dodge a GameStop takeover \u2014 but there\u2019s a new twist in the Ryan Cohen saga"
     },
     {
       "source": "MarketWatch",
-      "title": "Rocket Lab reveals some big plans, but its stock is dropping on mixed earnings"
+      "title": "Archer strikes deal with Boeing in latest bid to transform aviation through AI"
     }
   ]
 }
