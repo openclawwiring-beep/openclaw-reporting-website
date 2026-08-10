@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, August 09 2026  19:40 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Sunday, August 09 2026  21:27 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7757.64,
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4391.2,
-      "change_pct": -0.19
+      "price": 4391.3,
+      "change_pct": -0.12
     },
     "Oil (WTI)": {
-      "price": 78.68,
-      "change_pct": 0.64
+      "price": 78.82,
+      "change_pct": -0.06
     },
     "Silver": {
-      "price": 63.79,
-      "change_pct": 0.47
+      "price": 63.94,
+      "change_pct": -0.01
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64952,
-      "change_pct": 0.25
+      "price": 65010,
+      "change_pct": 0.38
     },
     "ETH": {
-      "price": 1915.67,
-      "change_pct": 0.08
+      "price": 1917.93,
+      "change_pct": 0.28
     },
     "SOL": {
-      "price": 76.53,
-      "change_pct": 0.82
+      "price": 76.6,
+      "change_pct": 0.84
     },
     "BNB": {
-      "price": 602.35,
-      "change_pct": 0.28
+      "price": 602.52,
+      "change_pct": 0.26
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 futures slip as traders watch for Strait of Hormuz deal, inflation data: Live updates"
+      "title": "Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal"
     },
     {
       "source": "CNBC",
-      "title": "Iran denies any direct talks with U.S. on opening Strait of Hormuz as Houthis claim attack on Saudi refinery"
+      "title": "S&P 500 futures slip as traders watch for Strait of Hormuz deal, inflation data: Live updates"
     },
     {
       "source": "MarketWatch",
