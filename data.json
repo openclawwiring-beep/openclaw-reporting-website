@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 10 2026  00:42 PT",
+  "generated_at": "Monday, August 10 2026  02:18 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4412.5,
-      "change_pct": 0.56
+      "price": 4405.2,
+      "change_pct": 0.4
     },
     "Oil (WTI)": {
-      "price": 78.15,
-      "change_pct": -0.84
+      "price": 79.07,
+      "change_pct": 0.33
     },
     "Silver": {
-      "price": 64.47,
-      "change_pct": 1.03
+      "price": 64.39,
+      "change_pct": 0.89
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65288,
-      "change_pct": 0.77
+      "price": 65172,
+      "change_pct": 0.61
     },
     "ETH": {
-      "price": 1927.43,
+      "price": 1925.12,
       "change_pct": 0.6
     },
     "SOL": {
-      "price": 76.98,
-      "change_pct": 1.02
+      "price": 76.94,
+      "change_pct": 0.72
     },
     "BNB": {
-      "price": 604.08,
-      "change_pct": 0.22
+      "price": 603.92,
+      "change_pct": 0.41
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump says oil supermajors are making too much money. What will they do with it?"
+      "title": "Australian rare earth miner surges after U.S. Department of War investment"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. stock futures flat as investors await inflation data, grapple with more Iran uncertainty"
+      "title": "\u2018I unexpectedly came into some money\u2019: Is putting $20,000 into CDs a smart move?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m easing into retirement\u2019: I\u2019m getting an $80,000 pension payout. Where can I invest it safely?"
+      "title": "How \u2018Ted Lasso\u2019 turned an affluent London neighborhood into a tourist hotspot"
     }
   ]
 }
