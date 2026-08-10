@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 10 2026  14:39 PT",
+  "generated_at": "Monday, August 10 2026  15:35 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4448.6,
-      "change_pct": 1.39
+      "price": 4452.4,
+      "change_pct": 1.47
     },
     "Oil (WTI)": {
-      "price": 82.3,
-      "change_pct": 4.43
+      "price": 82.18,
+      "change_pct": 4.28
     },
     "Silver": {
-      "price": 65.88,
-      "change_pct": 3.24
+      "price": 65.93,
+      "change_pct": 3.31
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64057,
-      "change_pct": -1.66
+      "price": 63940,
+      "change_pct": -1.71
     },
     "ETH": {
-      "price": 1875.28,
-      "change_pct": -2.5
+      "price": 1874.41,
+      "change_pct": -2.49
     },
     "SOL": {
-      "price": 76.4,
-      "change_pct": -1.19
+      "price": 76.1,
+      "change_pct": -1.4
     },
     "BNB": {
-      "price": 599.97,
-      "change_pct": -1.31
+      "price": 598.78,
+      "change_pct": -1.04
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Rocket Lab reveals some big plans, but its stock is dropping on mixed earnings"
+      "title": "Here\u2019s who stands to gain the most from a Jeff Bezos-Liverpool FC deal"
     },
     {
       "source": "MarketWatch",
-      "title": "Wall Street thinks inflation is under control. Here\u2019s why investors shouldn\u2019t buy it."
+      "title": "Rocket Lab reveals some big plans, but its stock is dropping on mixed earnings"
     }
   ]
 }
