@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 11 2026  02:58 PT",
+  "generated_at": "Tuesday, August 11 2026  03:56 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4432.7,
-      "change_pct": -0.99
+      "price": 4438.2,
+      "change_pct": -0.87
     },
     "Oil (WTI)": {
-      "price": 84.31,
-      "change_pct": 2.67
+      "price": 83.58,
+      "change_pct": 1.78
     },
     "Silver": {
-      "price": 65.12,
-      "change_pct": -1.27
+      "price": 65.21,
+      "change_pct": -1.13
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64202,
-      "change_pct": -1.12
+      "price": 64193,
+      "change_pct": -1.19
     },
     "ETH": {
-      "price": 1880.47,
-      "change_pct": -1.82
+      "price": 1884.98,
+      "change_pct": -1.62
     },
     "SOL": {
-      "price": 75.71,
-      "change_pct": -1.11
+      "price": 75.88,
+      "change_pct": -1.17
     },
     "BNB": {
-      "price": 606.18,
-      "change_pct": 0.42
+      "price": 607.57,
+      "change_pct": 0.29
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "'That's a good idea': U.S. and Iran trade reparation demands as Hormuz deal hopes fade"
+      "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?"
     },
     {
       "source": "CNBC",
-      "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates"
+      "title": "'That's a good idea': U.S. and Iran trade reparation demands as Hormuz deal hopes fade"
     },
     {
       "source": "MarketWatch",
-      "title": "Why copper \u2014 \u2018the commodity for all seasons\u2019 \u2014 is more precious than gold nowadays"
+      "title": "Wall Street bank urges hedging into July\u2019s CPI \u2014 as sell trigger hits highest level in eight years"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s how much Roger Federer is losing as On Holding says it is being disciplined on price"
+      "title": "These 11 midcaps are popular right now among investment newsletters but not because of their market valuations"
     }
   ]
 }
