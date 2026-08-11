@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 11 2026  13:40 PT",
+  "generated_at": "Tuesday, August 11 2026  14:43 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4429.5,
-      "change_pct": -1.06
+      "price": 4427.8,
+      "change_pct": -1.1
     },
     "Oil (WTI)": {
-      "price": 83.41,
-      "change_pct": 1.57
+      "price": 83.23,
+      "change_pct": 1.35
     },
     "Silver": {
       "price": 64.86,
-      "change_pct": -1.66
+      "change_pct": -1.67
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63619,
-      "change_pct": -0.71
+      "price": 63603,
+      "change_pct": -0.61
     },
     "ETH": {
-      "price": 1878.64,
-      "change_pct": 0.03
+      "price": 1880.19,
+      "change_pct": 0.31
     },
     "SOL": {
-      "price": 75.92,
-      "change_pct": -0.51
+      "price": 76.1,
+      "change_pct": -0.35
     },
     "BNB": {
-      "price": 612.13,
-      "change_pct": 1.92
+      "price": 612.04,
+      "change_pct": 2.06
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "CoreWeave stock pops 10% as revenue doubles on accelerating AI infrastructure demand"
+      "title": "CoreWeave stock pops 15% as revenue doubles on accelerating AI infrastructure demand"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Oracle\u2019s stock has taken a hit as AI spending concerns resurface"
+      "title": "CoreWeave\u2019s stock soars as earnings show major AI momentum"
     },
     {
       "source": "MarketWatch",
-      "title": "Social Security expands list of conditions to 314 illnesses for faster disability claims"
+      "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?"
     }
   ]
 }
