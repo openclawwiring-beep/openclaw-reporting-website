@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, August 11 2026  11:25 PT",
-  "market_status": "Live \u2014 as of 14:25 ET",
+  "generated_at": "Tuesday, August 11 2026  12:34 PT",
+  "market_status": "Live \u2014 as of 15:34 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7727.49,
-      "change_pct": -0.33
+      "price": 7730.28,
+      "change_pct": -0.29
     },
     "Nasdaq": {
-      "price": 26414.78,
-      "change_pct": -0.72
+      "price": 26443.93,
+      "change_pct": -0.61
     },
     "Dow Jones": {
-      "price": 53871.03,
-      "change_pct": -0.18
+      "price": 53817.46,
+      "change_pct": -0.28
     },
     "Russell 2000": {
-      "price": 3032.11,
-      "change_pct": 0.5
+      "price": 3031.01,
+      "change_pct": 0.47
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4424.2,
-      "change_pct": -1.18
+      "price": 4424.6,
+      "change_pct": -1.17
     },
     "Oil (WTI)": {
-      "price": 83.06,
-      "change_pct": 1.14
+      "price": 83.4,
+      "change_pct": 1.56
     },
     "Silver": {
-      "price": 64.66,
-      "change_pct": -1.97
+      "price": 64.81,
+      "change_pct": -1.74
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63533,
-      "change_pct": -0.6
+      "price": 63352,
+      "change_pct": -1.04
     },
     "ETH": {
-      "price": 1864.03,
-      "change_pct": -0.38
+      "price": 1870.38,
+      "change_pct": -0.39
     },
     "SOL": {
-      "price": 75.25,
-      "change_pct": -0.87
+      "price": 75.29,
+      "change_pct": -1.11
     },
     "BNB": {
-      "price": 609.96,
-      "change_pct": 1.68
+      "price": 609.78,
+      "change_pct": 1.56
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Longtime OpenAI executive Brad Lightcap leaves as shakeup at AI lab continues"
+      "title": "Trump says NYC pied-\u00e0-terre tax 'must be stopped,' eyes federal block"
     },
     {
       "source": "MarketWatch",
-      "title": "Health insurers are dumping Medicare Advantage plans. Here\u2019s how many seniors could be affected."
+      "title": "Social Security expands list of conditions to 314 illnesses for faster disability claims"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m dreaming of cocktails at Ch\u00e2teau Marmont\u2019: I found $100 in my Airbnb\u2019s communal washer. What should I do?"
+      "title": "Nvidia just soothed a major market fear about AI, analysts say"
     }
   ]
 }
