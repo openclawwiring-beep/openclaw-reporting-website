@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, August 11 2026  06:00 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, August 11 2026  07:22 PT",
+  "market_status": "Live \u2014 as of 10:22 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7753.11,
-      "change_pct": -0.06
+      "price": 7759.22,
+      "change_pct": 0.08
     },
     "Nasdaq": {
-      "price": 26605.36,
-      "change_pct": -0.32
+      "price": 26598.43,
+      "change_pct": -0.03
     },
     "Dow Jones": {
-      "price": 53975.98,
-      "change_pct": -0.11
+      "price": 54036.11,
+      "change_pct": 0.13
     },
     "Russell 2000": {
-      "price": 3017.4,
-      "change_pct": -0.56
+      "price": 3033.34,
+      "change_pct": 0.54
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4454.9,
-      "change_pct": -0.49
+      "price": 4444.1,
+      "change_pct": -0.73
     },
     "Oil (WTI)": {
-      "price": 82.43,
-      "change_pct": 0.38
+      "price": 82.04,
+      "change_pct": -0.1
     },
     "Silver": {
-      "price": 65.17,
-      "change_pct": -1.2
+      "price": 65.03,
+      "change_pct": -1.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64301,
-      "change_pct": -0.82
+      "price": 64179,
+      "change_pct": -0.79
     },
     "ETH": {
-      "price": 1888.24,
-      "change_pct": -0.88
+      "price": 1888.61,
+      "change_pct": -0.46
     },
     "SOL": {
-      "price": 75.89,
-      "change_pct": -0.9
+      "price": 76.0,
+      "change_pct": -0.64
     },
     "BNB": {
-      "price": 612.04,
-      "change_pct": 1.64
+      "price": 610.69,
+      "change_pct": 1.66
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "'That's a good idea': U.S. and Iran trade reparation demands as Hormuz deal hopes fade"
+      "title": "Pakistan signals progress on U.S.-Iran deal as Washington and Tehran trade reparation demands"
     },
     {
       "source": "MarketWatch",
-      "title": "This fund manager tunes out AI hype to flag the infrastructure stocks to buy now. Think roads, water and telecom towers."
+      "title": "\u2018I unexpectedly came into some money\u2019: Is putting $20,000 into CDs a smart move?"
     },
     {
       "source": "MarketWatch",
-      "title": "Airbnb has added thousands of new hotel listings. Will that ruin its charm?"
+      "title": "My wife can claim $900 at 62. Should she take it now \u2014 or wait for her spousal benefit?"
     }
   ]
 }
