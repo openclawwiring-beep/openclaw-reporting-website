@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 11 2026  00:45 PT",
+  "generated_at": "Tuesday, August 11 2026  01:53 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4420.3,
-      "change_pct": -1.27
+      "price": 4434.1,
+      "change_pct": -0.96
     },
     "Oil (WTI)": {
-      "price": 83.9,
-      "change_pct": 2.17
+      "price": 84.26,
+      "change_pct": 2.61
     },
     "Silver": {
-      "price": 64.7,
-      "change_pct": -1.91
+      "price": 65.05,
+      "change_pct": -1.38
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64013,
-      "change_pct": -1.94
+      "price": 64050,
+      "change_pct": -1.77
     },
     "ETH": {
-      "price": 1876.11,
-      "change_pct": -2.6
+      "price": 1875.66,
+      "change_pct": -2.58
     },
     "SOL": {
-      "price": 75.64,
-      "change_pct": -1.76
+      "price": 75.86,
+      "change_pct": -1.31
     },
     "BNB": {
-      "price": 601.24,
-      "change_pct": -0.51
+      "price": 604.24,
+      "change_pct": 0.02
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The Bessent bond-market scorecard doesn\u2019t look as strong as it once did"
+      "title": "Intel now says it is selling $20 billion of stock"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The market is obviously on fire\u2019: Is it a mistake to take $1,000 from my brokerage account to pay my car loan?"
+      "title": "Bears are in pain as the S&P 500 hits record highs. That may mean more upside for stocks."
     }
   ]
 }
