@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, August 11 2026  10:26 PT",
-  "market_status": "Live \u2014 as of 13:26 ET",
+  "generated_at": "Tuesday, August 11 2026  11:25 PT",
+  "market_status": "Live \u2014 as of 14:25 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7730.34,
-      "change_pct": -0.29
+      "price": 7727.49,
+      "change_pct": -0.33
     },
     "Nasdaq": {
-      "price": 26445.8,
-      "change_pct": -0.6
+      "price": 26414.78,
+      "change_pct": -0.72
     },
     "Dow Jones": {
-      "price": 53864.96,
-      "change_pct": -0.19
+      "price": 53871.03,
+      "change_pct": -0.18
     },
     "Russell 2000": {
-      "price": 3030.99,
-      "change_pct": 0.47
+      "price": 3032.11,
+      "change_pct": 0.5
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4441.1,
-      "change_pct": -0.8
+      "price": 4424.2,
+      "change_pct": -1.18
     },
     "Oil (WTI)": {
-      "price": 83.13,
-      "change_pct": 1.23
+      "price": 83.06,
+      "change_pct": 1.14
     },
     "Silver": {
-      "price": 64.96,
-      "change_pct": -1.52
+      "price": 64.66,
+      "change_pct": -1.97
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63484,
-      "change_pct": -0.67
+      "price": 63533,
+      "change_pct": -0.6
     },
     "ETH": {
-      "price": 1863.36,
-      "change_pct": -0.55
+      "price": 1864.03,
+      "change_pct": -0.38
     },
     "SOL": {
-      "price": 74.97,
-      "change_pct": -1.27
+      "price": 75.25,
+      "change_pct": -0.87
     },
     "BNB": {
-      "price": 609.61,
-      "change_pct": 1.67
+      "price": 609.96,
+      "change_pct": 1.68
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Unitree\u2019s IPO may be just the beginning of an investor frenzy over humanoid-robot stocks"
+      "title": "Health insurers are dumping Medicare Advantage plans. Here\u2019s how many seniors could be affected."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The market is obviously on fire\u2019: Should I take $1,000 from my brokerage account to pay off my car loan?"
+      "title": "\u2018I\u2019m dreaming of cocktails at Ch\u00e2teau Marmont\u2019: I found $100 in my Airbnb\u2019s communal washer. What should I do?"
     }
   ]
 }
