@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, August 11 2026  08:28 PT",
-  "market_status": "Live \u2014 as of 11:28 ET",
+  "generated_at": "Tuesday, August 11 2026  09:25 PT",
+  "market_status": "Live \u2014 as of 12:25 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7748.23,
-      "change_pct": -0.06
+      "price": 7738.44,
+      "change_pct": -0.19
     },
     "Nasdaq": {
-      "price": 26553.34,
-      "change_pct": -0.2
+      "price": 26474.0,
+      "change_pct": -0.49
     },
     "Dow Jones": {
-      "price": 53949.33,
-      "change_pct": -0.03
+      "price": 53902.87,
+      "change_pct": -0.12
     },
     "Russell 2000": {
-      "price": 3030.43,
-      "change_pct": 0.45
+      "price": 3031.44,
+      "change_pct": 0.48
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4444.7,
-      "change_pct": -0.72
+      "price": 4439.5,
+      "change_pct": -0.84
     },
     "Oil (WTI)": {
-      "price": 82.59,
-      "change_pct": 0.57
+      "price": 83.09,
+      "change_pct": 1.18
     },
     "Silver": {
-      "price": 65.06,
-      "change_pct": -1.37
+      "price": 65.12,
+      "change_pct": -1.27
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63769,
-      "change_pct": -0.82
+      "price": 63589,
+      "change_pct": -0.69
     },
     "ETH": {
-      "price": 1874.15,
-      "change_pct": 0.09
+      "price": 1864.74,
+      "change_pct": -0.5
     },
     "SOL": {
-      "price": 75.27,
-      "change_pct": -0.75
+      "price": 74.99,
+      "change_pct": -1.01
     },
     "BNB": {
-      "price": 608.54,
-      "change_pct": 1.5
+      "price": 609.25,
+      "change_pct": 1.39
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Pakistan signals progress on U.S.-Iran deal as Washington and Tehran trade reparation demands"
+      "title": "U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?"
+      "title": "Musk\u2019s Starlink boasts of doubled subscriber base, but mainstream remains a far-off destination for the satellite internet service"
     },
     {
       "source": "MarketWatch",
-      "title": "AI is killing worker confidence, but there\u2019s no sign it\u2019s muscling people out of their jobs on a massive scale"
+      "title": "\u2018My wife and I are both retired\u2019: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?"
     }
   ]
 }
