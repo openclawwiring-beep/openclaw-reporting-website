@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, August 11 2026  07:22 PT",
-  "market_status": "Live \u2014 as of 10:22 ET",
+  "generated_at": "Tuesday, August 11 2026  08:28 PT",
+  "market_status": "Live \u2014 as of 11:28 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7759.22,
-      "change_pct": 0.08
+      "price": 7748.23,
+      "change_pct": -0.06
     },
     "Nasdaq": {
-      "price": 26598.43,
-      "change_pct": -0.03
+      "price": 26553.34,
+      "change_pct": -0.2
     },
     "Dow Jones": {
-      "price": 54036.11,
-      "change_pct": 0.13
+      "price": 53949.33,
+      "change_pct": -0.03
     },
     "Russell 2000": {
-      "price": 3033.34,
-      "change_pct": 0.54
+      "price": 3030.43,
+      "change_pct": 0.45
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4444.1,
-      "change_pct": -0.73
+      "price": 4444.7,
+      "change_pct": -0.72
     },
     "Oil (WTI)": {
-      "price": 82.04,
-      "change_pct": -0.1
+      "price": 82.59,
+      "change_pct": 0.57
     },
     "Silver": {
-      "price": 65.03,
-      "change_pct": -1.42
+      "price": 65.06,
+      "change_pct": -1.37
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64179,
-      "change_pct": -0.79
+      "price": 63769,
+      "change_pct": -0.82
     },
     "ETH": {
-      "price": 1888.61,
-      "change_pct": -0.46
+      "price": 1874.15,
+      "change_pct": 0.09
     },
     "SOL": {
-      "price": 76.0,
-      "change_pct": -0.64
+      "price": 75.27,
+      "change_pct": -0.75
     },
     "BNB": {
-      "price": 610.69,
-      "change_pct": 1.66
+      "price": 608.54,
+      "change_pct": 1.5
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I unexpectedly came into some money\u2019: Is putting $20,000 into CDs a smart move?"
+      "title": "\u2018I don\u2019t wish to be cold-hearted\u2019: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?"
     },
     {
       "source": "MarketWatch",
-      "title": "My wife can claim $900 at 62. Should she take it now \u2014 or wait for her spousal benefit?"
+      "title": "AI is killing worker confidence, but there\u2019s no sign it\u2019s muscling people out of their jobs on a massive scale"
     }
   ]
 }
