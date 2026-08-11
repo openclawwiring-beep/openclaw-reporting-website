@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 10 2026  23:13 PT",
+  "generated_at": "Tuesday, August 11 2026  00:45 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4439.2,
-      "change_pct": -1.05
+      "price": 4420.3,
+      "change_pct": -1.27
     },
     "Oil (WTI)": {
-      "price": 82.36,
-      "change_pct": -0.12
+      "price": 83.9,
+      "change_pct": 2.17
     },
     "Silver": {
-      "price": 65.08,
-      "change_pct": -2.27
+      "price": 64.7,
+      "change_pct": -1.91
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63980,
-      "change_pct": -1.81
+      "price": 64013,
+      "change_pct": -1.94
     },
     "ETH": {
-      "price": 1872.91,
-      "change_pct": -2.65
+      "price": 1876.11,
+      "change_pct": -2.6
     },
     "SOL": {
-      "price": 75.9,
-      "change_pct": -1.28
+      "price": 75.64,
+      "change_pct": -1.76
     },
     "BNB": {
-      "price": 599.84,
-      "change_pct": -0.53
+      "price": 601.24,
+      "change_pct": -0.51
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens"
+      "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates"
     },
     {
       "source": "CNBC",
-      "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are \u2018investable asset\u2019"
+      "title": "Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens"
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia teams with Wall Street firms to help finance $500 billion for AI infrastructure"
+      "title": "The Bessent bond-market scorecard doesn\u2019t look as strong as it once did"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Her bank accounts were stripped bare by Medicaid\u2019: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?"
+      "title": "\u2018The market is obviously on fire\u2019: Is it a mistake to take $1,000 from my brokerage account to pay my car loan?"
     }
   ]
 }
