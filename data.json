@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 11 2026  15:39 PT",
+  "generated_at": "Tuesday, August 11 2026  16:37 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4434.9,
-      "change_pct": -0.94
+      "price": 4429.0,
+      "change_pct": -1.07
     },
     "Oil (WTI)": {
-      "price": 83.51,
-      "change_pct": 1.69
+      "price": 83.49,
+      "change_pct": 1.67
     },
     "Silver": {
-      "price": 65.04,
-      "change_pct": -1.39
+      "price": 64.94,
+      "change_pct": -1.54
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63664,
-      "change_pct": -0.4
+      "price": 63550,
+      "change_pct": -0.55
     },
     "ETH": {
-      "price": 1882.02,
-      "change_pct": 0.51
+      "price": 1881.02,
+      "change_pct": 0.57
     },
     "SOL": {
-      "price": 76.34,
-      "change_pct": 0.35
+      "price": 76.22,
+      "change_pct": 0.27
     },
     "BNB": {
-      "price": 612.56,
-      "change_pct": 2.31
+      "price": 615.61,
+      "change_pct": 2.95
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "CoreWeave stock pops 13% as revenue doubles on accelerating AI infrastructure demand"
+      "title": "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I unexpectedly came into some money\u2019: Is putting $20,000 into CDs a smart move?"
+      "title": "CoreWeave\u2019s stock soars as earnings show major AI momentum"
     },
     {
       "source": "MarketWatch",
-      "title": "Lumentum sees sales more than double as AI demand swells"
+      "title": "\u2018I unexpectedly came into some money\u2019: Is putting $20,000 into CDs a smart move?"
     }
   ]
 }
