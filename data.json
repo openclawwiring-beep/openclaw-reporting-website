@@ -1,60 +1,60 @@
 {
-  "generated_at": "Tuesday, August 11 2026  12:34 PT",
-  "market_status": "Live \u2014 as of 15:34 ET",
+  "generated_at": "Tuesday, August 11 2026  13:40 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7730.28,
-      "change_pct": -0.29
+      "price": 7728.2,
+      "change_pct": -0.32
     },
     "Nasdaq": {
-      "price": 26443.93,
-      "change_pct": -0.61
+      "price": 26445.45,
+      "change_pct": -0.6
     },
     "Dow Jones": {
-      "price": 53817.46,
-      "change_pct": -0.28
+      "price": 53791.85,
+      "change_pct": -0.34
     },
     "Russell 2000": {
-      "price": 3031.01,
-      "change_pct": 0.47
+      "price": 3027.12,
+      "change_pct": 0.32
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4424.6,
-      "change_pct": -1.17
+      "price": 4429.5,
+      "change_pct": -1.06
     },
     "Oil (WTI)": {
-      "price": 83.4,
-      "change_pct": 1.56
+      "price": 83.41,
+      "change_pct": 1.57
     },
     "Silver": {
-      "price": 64.81,
-      "change_pct": -1.74
+      "price": 64.86,
+      "change_pct": -1.66
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63352,
-      "change_pct": -1.04
+      "price": 63619,
+      "change_pct": -0.71
     },
     "ETH": {
-      "price": 1870.38,
-      "change_pct": -0.39
+      "price": 1878.64,
+      "change_pct": 0.03
     },
     "SOL": {
-      "price": 75.29,
-      "change_pct": -1.11
+      "price": 75.92,
+      "change_pct": -0.51
     },
     "BNB": {
-      "price": 609.78,
-      "change_pct": 1.56
+      "price": 612.13,
+      "change_pct": 1.92
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump wants to split the MMR vaccine. Experts say that's unlikely \u2014 and comes with consequences"
+      "title": "CoreWeave stock pops 10% as revenue doubles on accelerating AI infrastructure demand"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Social Security expands list of conditions to 314 illnesses for faster disability claims"
+      "title": "Oracle\u2019s stock has taken a hit as AI spending concerns resurface"
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia just soothed a major market fear about AI, analysts say"
+      "title": "Social Security expands list of conditions to 314 illnesses for faster disability claims"
     }
   ]
 }
