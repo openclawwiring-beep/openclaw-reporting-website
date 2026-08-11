@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 11 2026  03:56 PT",
+  "generated_at": "Tuesday, August 11 2026  04:45 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4438.2,
-      "change_pct": -0.87
+      "price": 4444.8,
+      "change_pct": -0.72
     },
     "Oil (WTI)": {
-      "price": 83.58,
-      "change_pct": 1.78
+      "price": 82.27,
+      "change_pct": 0.18
     },
     "Silver": {
-      "price": 65.21,
-      "change_pct": -1.13
+      "price": 65.39,
+      "change_pct": -0.87
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64193,
-      "change_pct": -1.19
+      "price": 64295,
+      "change_pct": -1.1
     },
     "ETH": {
-      "price": 1884.98,
-      "change_pct": -1.62
+      "price": 1890.79,
+      "change_pct": -1.36
     },
     "SOL": {
-      "price": 75.88,
-      "change_pct": -1.17
+      "price": 76.12,
+      "change_pct": -0.85
     },
     "BNB": {
-      "price": 607.57,
-      "change_pct": 0.29
+      "price": 607.22,
+      "change_pct": 0.46
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Wall Street bank urges hedging into July\u2019s CPI \u2014 as sell trigger hits highest level in eight years"
+      "title": "This fund manager tunes out AI hype to flag the infrastructure stocks to buy now. Think roads, water and telecom towers."
     },
     {
       "source": "MarketWatch",
-      "title": "These 11 midcaps are popular right now among investment newsletters but not because of their market valuations"
+      "title": "Is $1 million enough for a household to retire? The answer keeps changing."
     }
   ]
 }
