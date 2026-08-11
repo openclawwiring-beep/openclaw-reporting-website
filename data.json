@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 11 2026  01:53 PT",
+  "generated_at": "Tuesday, August 11 2026  02:58 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4434.1,
-      "change_pct": -0.96
+      "price": 4432.7,
+      "change_pct": -0.99
     },
     "Oil (WTI)": {
-      "price": 84.26,
-      "change_pct": 2.61
+      "price": 84.31,
+      "change_pct": 2.67
     },
     "Silver": {
-      "price": 65.05,
-      "change_pct": -1.38
+      "price": 65.12,
+      "change_pct": -1.27
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64050,
-      "change_pct": -1.77
+      "price": 64202,
+      "change_pct": -1.12
     },
     "ETH": {
-      "price": 1875.66,
-      "change_pct": -2.58
+      "price": 1880.47,
+      "change_pct": -1.82
     },
     "SOL": {
-      "price": 75.86,
-      "change_pct": -1.31
+      "price": 75.71,
+      "change_pct": -1.11
     },
     "BNB": {
-      "price": 604.24,
-      "change_pct": 0.02
+      "price": 606.18,
+      "change_pct": 0.42
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates"
+      "title": "'That's a good idea': U.S. and Iran trade reparation demands as Hormuz deal hopes fade"
     },
     {
       "source": "CNBC",
-      "title": "Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens"
+      "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates"
     },
     {
       "source": "MarketWatch",
-      "title": "Intel now says it is selling $20 billion of stock"
+      "title": "Why copper \u2014 \u2018the commodity for all seasons\u2019 \u2014 is more precious than gold nowadays"
     },
     {
       "source": "MarketWatch",
-      "title": "Bears are in pain as the S&P 500 hits record highs. That may mean more upside for stocks."
+      "title": "Here\u2019s how much Roger Federer is losing as On Holding says it is being disciplined on price"
     }
   ]
 }
