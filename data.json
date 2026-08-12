@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, August 12 2026  12:35 PT",
-  "market_status": "Live \u2014 as of 15:35 ET",
+  "generated_at": "Wednesday, August 12 2026  13:41 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7751.57,
-      "change_pct": 0.31
+      "price": 7748.5,
+      "change_pct": 0.26
     },
     "Nasdaq": {
-      "price": 26599.99,
-      "change_pct": 0.58
+      "price": 26588.49,
+      "change_pct": 0.54
     },
     "Dow Jones": {
-      "price": 53827.34,
-      "change_pct": 0.08
+      "price": 53770.27,
+      "change_pct": -0.04
     },
     "Russell 2000": {
-      "price": 3050.46,
-      "change_pct": 0.78
+      "price": 3045.48,
+      "change_pct": 0.61
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4477.1,
-      "change_pct": 0.34
+      "price": 4467.2,
+      "change_pct": 0.12
     },
     "Oil (WTI)": {
-      "price": 83.08,
-      "change_pct": -1.39
+      "price": 82.86,
+      "change_pct": -1.65
     },
     "Silver": {
-      "price": 65.7,
-      "change_pct": 0.22
+      "price": 65.45,
+      "change_pct": -0.16
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63320,
-      "change_pct": -0.01
+      "price": 63496,
+      "change_pct": -0.22
     },
     "ETH": {
-      "price": 1882.76,
-      "change_pct": 0.81
+      "price": 1885.27,
+      "change_pct": 0.3
     },
     "SOL": {
-      "price": 75.75,
-      "change_pct": 0.66
+      "price": 75.92,
+      "change_pct": -0.02
     },
     "BNB": {
-      "price": 609.07,
-      "change_pct": -0.07
+      "price": 611.3,
+      "change_pct": -0.09
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers"
+      "title": "Cerebras stock plunges 14% after second earnings report following IPO"
     },
     {
       "source": "MarketWatch",
