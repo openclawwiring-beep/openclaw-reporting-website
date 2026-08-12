@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 11 2026  22:54 PT",
+  "generated_at": "Wednesday, August 12 2026  00:22 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4450.0,
-      "change_pct": -0.26
+      "price": 4464.0,
+      "change_pct": 0.05
     },
     "Oil (WTI)": {
-      "price": 83.67,
-      "change_pct": -0.69
+      "price": 83.96,
+      "change_pct": -0.34
     },
     "Silver": {
-      "price": 65.36,
-      "change_pct": -0.3
+      "price": 66.21,
+      "change_pct": 1.0
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63773,
-      "change_pct": -0.31
+      "price": 63686,
+      "change_pct": -0.26
     },
     "ETH": {
-      "price": 1889.83,
-      "change_pct": 0.83
+      "price": 1888.43,
+      "change_pct": 1.01
     },
     "SOL": {
-      "price": 76.24,
-      "change_pct": 0.55
+      "price": 76.0,
+      "change_pct": 0.81
     },
     "BNB": {
-      "price": 612.45,
-      "change_pct": 2.15
+      "price": 611.45,
+      "change_pct": 2.18
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes containership"
+      "title": "World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time"
     },
     {
       "source": "CNBC",
-      "title": "Why the historic U.S.-Japan intervention has failed to halt the yen\u2019s slide"
+      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship"
     },
     {
       "source": "MarketWatch",
