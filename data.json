@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 12 2026  13:41 PT",
+  "generated_at": "Wednesday, August 12 2026  14:42 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4467.2,
-      "change_pct": 0.12
+      "price": 4469.0,
+      "change_pct": 0.16
     },
     "Oil (WTI)": {
-      "price": 82.86,
-      "change_pct": -1.65
+      "price": 82.58,
+      "change_pct": -1.98
     },
     "Silver": {
-      "price": 65.45,
-      "change_pct": -0.16
+      "price": 65.53,
+      "change_pct": -0.04
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63496,
-      "change_pct": -0.22
+      "price": 63442,
+      "change_pct": -0.25
     },
     "ETH": {
-      "price": 1885.27,
-      "change_pct": 0.3
+      "price": 1877.85,
+      "change_pct": -0.1
     },
     "SOL": {
-      "price": 75.92,
-      "change_pct": -0.02
+      "price": 75.56,
+      "change_pct": -0.69
     },
     "BNB": {
-      "price": 611.3,
-      "change_pct": -0.09
+      "price": 609.41,
+      "change_pct": -0.4
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Now China wants to become the shop floor for the Muslim world"
+      "title": "Cisco sees record results from an AI \u2018supercycle,\u2019 but its stock pulls back"
     },
     {
       "source": "MarketWatch",
-      "title": "Will Trump accounts and grandparent 529s bring down the price of college in the future?"
+      "title": "Goldman\u2019s latest deal underscores how \u2018boomer candy\u2019 ETFs are now big business on Wall Street"
     }
   ]
 }
