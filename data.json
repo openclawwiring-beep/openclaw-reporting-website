@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 11 2026  18:49 PT",
+  "generated_at": "Tuesday, August 11 2026  21:06 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4446.4,
-      "change_pct": -0.68
+      "price": 4461.4,
+      "change_pct": -0.35
     },
     "Oil (WTI)": {
-      "price": 83.85,
-      "change_pct": 2.11
+      "price": 84.3,
+      "change_pct": 2.65
     },
     "Silver": {
-      "price": 65.05,
-      "change_pct": -1.38
+      "price": 65.56,
+      "change_pct": -0.6
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63752,
-      "change_pct": -0.31
+      "price": 63774,
+      "change_pct": -0.48
     },
     "ETH": {
-      "price": 1882.77,
-      "change_pct": 0.43
+      "price": 1885.55,
+      "change_pct": 0.37
     },
     "SOL": {
-      "price": 76.38,
-      "change_pct": 0.67
+      "price": 76.39,
+      "change_pct": 0.44
     },
     "BNB": {
-      "price": 617.41,
-      "change_pct": 2.98
+      "price": 612.57,
+      "change_pct": 2.13
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues"
+      "title": "Why the historic U.S.-Japan intervention has failed to halt the yen\u2019s slide"
     },
     {
       "source": "MarketWatch",
