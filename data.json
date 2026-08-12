@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 11 2026  16:37 PT",
+  "generated_at": "Tuesday, August 11 2026  18:49 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4429.0,
-      "change_pct": -1.07
+      "price": 4446.4,
+      "change_pct": -0.68
     },
     "Oil (WTI)": {
-      "price": 83.49,
-      "change_pct": 1.67
+      "price": 83.85,
+      "change_pct": 2.11
     },
     "Silver": {
-      "price": 64.94,
-      "change_pct": -1.54
+      "price": 65.05,
+      "change_pct": -1.38
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63550,
-      "change_pct": -0.55
+      "price": 63752,
+      "change_pct": -0.31
     },
     "ETH": {
-      "price": 1881.02,
-      "change_pct": 0.57
+      "price": 1882.77,
+      "change_pct": 0.43
     },
     "SOL": {
-      "price": 76.22,
-      "change_pct": 0.27
+      "price": 76.38,
+      "change_pct": 0.67
     },
     "BNB": {
-      "price": 615.61,
-      "change_pct": 2.95
+      "price": 617.41,
+      "change_pct": 2.98
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump says NYC pied-\u00e0-terre tax 'must be stopped,' eyes federal block"
+      "title": "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues"
     },
     {
       "source": "MarketWatch",
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I unexpectedly came into some money\u2019: Is putting $20,000 into CDs a smart move?"
+      "title": "Super Micro\u2019s earnings report brings more good news, and the stock is climbing"
     }
   ]
 }
