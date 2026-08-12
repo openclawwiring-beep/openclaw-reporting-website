@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 12 2026  04:20 PT",
+  "generated_at": "Wednesday, August 12 2026  05:08 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4470.5,
-      "change_pct": 0.19
+      "price": 4472.6,
+      "change_pct": 0.24
     },
     "Oil (WTI)": {
-      "price": 83.5,
-      "change_pct": -0.89
+      "price": 83.73,
+      "change_pct": -0.62
     },
     "Silver": {
-      "price": 66.47,
-      "change_pct": 1.4
+      "price": 66.46,
+      "change_pct": 1.39
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64091,
-      "change_pct": -0.31
+      "price": 64205,
+      "change_pct": -0.28
     },
     "ETH": {
-      "price": 1908.36,
-      "change_pct": 0.96
+      "price": 1913.89,
+      "change_pct": 1.11
     },
     "SOL": {
-      "price": 76.69,
-      "change_pct": 0.86
+      "price": 76.93,
+      "change_pct": 1.11
     },
     "BNB": {
-      "price": 613.22,
-      "change_pct": 1.1
+      "price": 614.21,
+      "change_pct": 0.77
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "CoreWeave surges 18% in premarket after a 'cleaner quarter'. Here's what's happening"
+      "title": "Mortgage rates finally stop rising, causing demand to trickle back"
     },
     {
       "source": "MarketWatch",
-      "title": "My wife can claim $900 at 62. Should she take it now \u2014 or wait for her spousal benefit?"
+      "title": "\u2018The market is obviously on fire\u2019: Should I take $1,000 from my brokerage account to pay off my car loan?"
     },
     {
       "source": "MarketWatch",
-      "title": "Citadel Securities called the stock-market reset. Now it says leverage may build up again."
+      "title": "This week\u2019s solar eclipse could make stocks go down. No, really. Here\u2019s why."
     }
   ]
 }
