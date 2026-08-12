@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, August 12 2026  06:55 PT",
-  "market_status": "Live \u2014 as of 09:55 ET",
+  "generated_at": "Wednesday, August 12 2026  07:56 PT",
+  "market_status": "Live \u2014 as of 10:56 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7748.68,
-      "change_pct": 0.28
+      "price": 7742.71,
+      "change_pct": 0.2
     },
     "Nasdaq": {
-      "price": 26594.13,
-      "change_pct": 0.56
+      "price": 26573.64,
+      "change_pct": 0.48
     },
     "Dow Jones": {
-      "price": 53834.0,
-      "change_pct": 0.09
+      "price": 53775.26,
+      "change_pct": -0.02
     },
     "Russell 2000": {
-      "price": 3040.23,
-      "change_pct": 0.45
+      "price": 3032.43,
+      "change_pct": 0.19
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4479.1,
-      "change_pct": 0.39
+      "price": 4491.5,
+      "change_pct": 0.67
     },
     "Oil (WTI)": {
-      "price": 82.77,
-      "change_pct": -1.76
+      "price": 82.71,
+      "change_pct": -1.83
     },
     "Silver": {
-      "price": 66.04,
-      "change_pct": 0.73
+      "price": 66.42,
+      "change_pct": 1.32
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63860,
-      "change_pct": -0.4
+      "price": 63458,
+      "change_pct": -0.38
     },
     "ETH": {
-      "price": 1901.34,
-      "change_pct": 0.68
+      "price": 1888.96,
+      "change_pct": 0.93
     },
     "SOL": {
-      "price": 76.2,
-      "change_pct": 0.4
+      "price": 75.48,
+      "change_pct": 0.45
     },
     "BNB": {
-      "price": 612.08,
-      "change_pct": 0.24
+      "price": 609.93,
+      "change_pct": 0.19
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Mortgage rates finally stop rising, causing demand to trickle back"
+      "title": "Here's the inflation breakdown for July 2026 \u2014 in one chart"
     },
     {
       "source": "MarketWatch",
-      "title": "CoreWeave\u2019s stock is rocketing after earnings lead to praise from bulls and bears alike"
+      "title": "Social Security recipients will get more money next year. Here\u2019s how much benefits may rise."
     },
     {
       "source": "MarketWatch",
-      "title": "Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own"
+      "title": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?"
     }
   ]
 }
