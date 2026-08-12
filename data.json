@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 12 2026  01:46 PT",
+  "generated_at": "Wednesday, August 12 2026  03:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4464.4,
-      "change_pct": 0.06
+      "price": 4472.7,
+      "change_pct": 0.24
     },
     "Oil (WTI)": {
-      "price": 83.61,
-      "change_pct": -0.76
+      "price": 82.82,
+      "change_pct": -1.7
     },
     "Silver": {
-      "price": 66.48,
-      "change_pct": 1.41
+      "price": 66.6,
+      "change_pct": 1.59
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63720,
-      "change_pct": -0.53
+      "price": 64048,
+      "change_pct": -0.28
     },
     "ETH": {
-      "price": 1889.44,
-      "change_pct": 0.69
+      "price": 1903.74,
+      "change_pct": 1.11
     },
     "SOL": {
-      "price": 76.22,
-      "change_pct": 0.53
+      "price": 76.67,
+      "change_pct": 1.16
     },
     "BNB": {
-      "price": 609.7,
-      "change_pct": 0.71
+      "price": 613.04,
+      "change_pct": 1.06
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time"
+      "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "A stock just surged on news Situational Awareness had bought it. But its current fate is unclear."
+      "title": "AI capex could hit $1.6 trillion next year, says fund manager who sees more echoes of 1998 than the dot-com bust"
     },
     {
       "source": "MarketWatch",
-      "title": "CoreWeave\u2019s stock soars as earnings show major AI momentum"
+      "title": "Another AI lab is burning through cash as Tencent earnings rise"
     }
   ]
 }
