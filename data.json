@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, August 12 2026  10:04 PT",
-  "market_status": "Live \u2014 as of 13:04 ET",
+  "generated_at": "Wednesday, August 12 2026  11:25 PT",
+  "market_status": "Live \u2014 as of 14:25 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7753.8,
-      "change_pct": 0.34
+      "price": 7755.28,
+      "change_pct": 0.36
     },
     "Nasdaq": {
-      "price": 26627.79,
-      "change_pct": 0.69
+      "price": 26625.27,
+      "change_pct": 0.68
     },
     "Dow Jones": {
-      "price": 53813.89,
+      "price": 53809.78,
       "change_pct": 0.05
     },
     "Russell 2000": {
-      "price": 3042.4,
-      "change_pct": 0.52
+      "price": 3042.76,
+      "change_pct": 0.53
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4464.5,
-      "change_pct": 0.06
+      "price": 4464.7,
+      "change_pct": 0.07
     },
     "Oil (WTI)": {
-      "price": 83.09,
-      "change_pct": -1.38
+      "price": 82.99,
+      "change_pct": -1.5
     },
     "Silver": {
-      "price": 65.4,
-      "change_pct": -0.23
+      "price": 65.61,
+      "change_pct": 0.08
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63440,
-      "change_pct": -0.04
+      "price": 63356,
+      "change_pct": -0.28
     },
     "ETH": {
-      "price": 1889.12,
-      "change_pct": 1.39
+      "price": 1885.35,
+      "change_pct": 1.15
     },
     "SOL": {
-      "price": 75.66,
-      "change_pct": 1.01
+      "price": 75.89,
+      "change_pct": 0.85
     },
     "BNB": {
-      "price": 610.08,
-      "change_pct": 0.13
+      "price": 609.64,
+      "change_pct": -0.06
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says"
+      "title": "U.S. budget deficit surged in July to highest level since March 2021"
     },
     {
       "source": "MarketWatch",
-      "title": "Social Security recipients will get more money next year. Here\u2019s how much the COLA may boost benefits."
+      "title": "Will Trump accounts and grandparent 529s bring down the price of college in the future?"
     },
     {
       "source": "MarketWatch",
-      "title": "Super Micro gives a big sales forecast, but analysts wonder how long the momentum can last"
+      "title": "Alphabet\u2019s stock slips as Nvidia\u2019s $500 billion financing deal threatens custom chips"
     }
   ]
 }
