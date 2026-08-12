@@ -1,60 +1,60 @@
 {
-  "generated_at": "Wednesday, August 12 2026  05:08 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, August 12 2026  06:55 PT",
+  "market_status": "Live \u2014 as of 09:55 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7728.2,
-      "change_pct": -0.32
+      "price": 7748.68,
+      "change_pct": 0.28
     },
     "Nasdaq": {
-      "price": 26445.45,
-      "change_pct": -0.6
+      "price": 26594.13,
+      "change_pct": 0.56
     },
     "Dow Jones": {
-      "price": 53791.85,
-      "change_pct": -0.34
+      "price": 53834.0,
+      "change_pct": 0.09
     },
     "Russell 2000": {
-      "price": 3027.12,
-      "change_pct": 0.32
+      "price": 3040.23,
+      "change_pct": 0.45
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4472.6,
-      "change_pct": 0.24
+      "price": 4479.1,
+      "change_pct": 0.39
     },
     "Oil (WTI)": {
-      "price": 83.73,
-      "change_pct": -0.62
+      "price": 82.77,
+      "change_pct": -1.76
     },
     "Silver": {
-      "price": 66.46,
-      "change_pct": 1.39
+      "price": 66.04,
+      "change_pct": 0.73
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64205,
-      "change_pct": -0.28
+      "price": 63860,
+      "change_pct": -0.4
     },
     "ETH": {
-      "price": 1913.89,
-      "change_pct": 1.11
+      "price": 1901.34,
+      "change_pct": 0.68
     },
     "SOL": {
-      "price": 76.93,
-      "change_pct": 1.11
+      "price": 76.2,
+      "change_pct": 0.4
     },
     "BNB": {
-      "price": 614.21,
-      "change_pct": 0.77
+      "price": 612.08,
+      "change_pct": 0.24
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "AI\u2019s costly buildout complicates the Fed\u2019s inflation fight"
+      "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The market is obviously on fire\u2019: Should I take $1,000 from my brokerage account to pay off my car loan?"
+      "title": "CoreWeave\u2019s stock is rocketing after earnings lead to praise from bulls and bears alike"
     },
     {
       "source": "MarketWatch",
-      "title": "This week\u2019s solar eclipse could make stocks go down. No, really. Here\u2019s why."
+      "title": "Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own"
     }
   ]
 }
