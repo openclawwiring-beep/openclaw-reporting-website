@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, August 12 2026  07:56 PT",
-  "market_status": "Live \u2014 as of 10:56 ET",
+  "generated_at": "Wednesday, August 12 2026  08:59 PT",
+  "market_status": "Live \u2014 as of 11:59 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7742.71,
+      "price": 7742.7,
       "change_pct": 0.2
     },
     "Nasdaq": {
-      "price": 26573.64,
-      "change_pct": 0.48
+      "price": 26548.57,
+      "change_pct": 0.39
     },
     "Dow Jones": {
-      "price": 53775.26,
-      "change_pct": -0.02
+      "price": 53804.21,
+      "change_pct": 0.04
     },
     "Russell 2000": {
-      "price": 3032.43,
-      "change_pct": 0.19
+      "price": 3037.21,
+      "change_pct": 0.35
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4491.5,
-      "change_pct": 0.67
+      "price": 4475.0,
+      "change_pct": 0.3
     },
     "Oil (WTI)": {
-      "price": 82.71,
-      "change_pct": -1.83
+      "price": 83.34,
+      "change_pct": -1.08
     },
     "Silver": {
-      "price": 66.42,
-      "change_pct": 1.32
+      "price": 65.87,
+      "change_pct": 0.48
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63458,
-      "change_pct": -0.38
+      "price": 63439,
+      "change_pct": -0.19
     },
     "ETH": {
-      "price": 1888.96,
-      "change_pct": 0.93
+      "price": 1891.94,
+      "change_pct": 1.66
     },
     "SOL": {
-      "price": 75.48,
-      "change_pct": 0.45
+      "price": 75.7,
+      "change_pct": 1.11
     },
     "BNB": {
-      "price": 609.93,
-      "change_pct": 0.19
+      "price": 610.8,
+      "change_pct": 0.58
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%"
-    },
-    {
-      "source": "CNBC",
       "title": "Here's the inflation breakdown for July 2026 \u2014 in one chart"
     },
     {
-      "source": "MarketWatch",
-      "title": "Social Security recipients will get more money next year. Here\u2019s how much benefits may rise."
+      "source": "CNBC",
+      "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says"
     },
     {
       "source": "MarketWatch",
-      "title": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?"
+      "title": "My wife can claim $900 at 62. Should she take it now \u2014 or wait for her spousal benefit?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here\u2019s how."
     }
   ]
 }
