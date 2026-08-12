@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 11 2026  21:06 PT",
+  "generated_at": "Tuesday, August 11 2026  22:54 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4461.4,
-      "change_pct": -0.35
+      "price": 4450.0,
+      "change_pct": -0.26
     },
     "Oil (WTI)": {
-      "price": 84.3,
-      "change_pct": 2.65
+      "price": 83.67,
+      "change_pct": -0.69
     },
     "Silver": {
-      "price": 65.56,
-      "change_pct": -0.6
+      "price": 65.36,
+      "change_pct": -0.3
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63774,
-      "change_pct": -0.48
+      "price": 63773,
+      "change_pct": -0.31
     },
     "ETH": {
-      "price": 1885.55,
-      "change_pct": 0.37
+      "price": 1889.83,
+      "change_pct": 0.83
     },
     "SOL": {
-      "price": 76.39,
-      "change_pct": 0.44
+      "price": 76.24,
+      "change_pct": 0.55
     },
     "BNB": {
-      "price": 612.57,
-      "change_pct": 2.13
+      "price": 612.45,
+      "change_pct": 2.15
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand"
+      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes containership"
     },
     {
       "source": "CNBC",
