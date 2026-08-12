@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 12 2026  03:02 PT",
+  "generated_at": "Wednesday, August 12 2026  04:20 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4472.7,
-      "change_pct": 0.24
+      "price": 4470.5,
+      "change_pct": 0.19
     },
     "Oil (WTI)": {
-      "price": 82.82,
-      "change_pct": -1.7
+      "price": 83.5,
+      "change_pct": -0.89
     },
     "Silver": {
-      "price": 66.6,
-      "change_pct": 1.59
+      "price": 66.47,
+      "change_pct": 1.4
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64048,
-      "change_pct": -0.28
+      "price": 64091,
+      "change_pct": -0.31
     },
     "ETH": {
-      "price": 1903.74,
-      "change_pct": 1.11
+      "price": 1908.36,
+      "change_pct": 0.96
     },
     "SOL": {
-      "price": 76.67,
-      "change_pct": 1.16
+      "price": 76.69,
+      "change_pct": 0.86
     },
     "BNB": {
-      "price": 613.04,
-      "change_pct": 1.06
+      "price": 613.22,
+      "change_pct": 1.1
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect"
+      "title": "AI\u2019s costly buildout complicates the Fed\u2019s inflation fight"
     },
     {
       "source": "CNBC",
-      "title": "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship"
+      "title": "CoreWeave surges 18% in premarket after a 'cleaner quarter'. Here's what's happening"
     },
     {
       "source": "MarketWatch",
-      "title": "AI capex could hit $1.6 trillion next year, says fund manager who sees more echoes of 1998 than the dot-com bust"
+      "title": "My wife can claim $900 at 62. Should she take it now \u2014 or wait for her spousal benefit?"
     },
     {
       "source": "MarketWatch",
-      "title": "Another AI lab is burning through cash as Tencent earnings rise"
+      "title": "Citadel Securities called the stock-market reset. Now it says leverage may build up again."
     }
   ]
 }
