@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, August 13 2026  11:27 PT",
-  "market_status": "Live \u2014 as of 14:27 ET",
+  "generated_at": "Thursday, August 13 2026  12:35 PT",
+  "market_status": "Live \u2014 as of 15:35 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7791.29,
-      "change_pct": 0.55
+      "price": 7802.38,
+      "change_pct": 0.69
     },
     "Nasdaq": {
-      "price": 26777.37,
-      "change_pct": 0.71
+      "price": 26834.54,
+      "change_pct": 0.93
     },
     "Dow Jones": {
-      "price": 53757.96,
-      "change_pct": -0.02
+      "price": 53832.39,
+      "change_pct": 0.12
     },
     "Russell 2000": {
-      "price": 3050.33,
-      "change_pct": 0.15
+      "price": 3056.72,
+      "change_pct": 0.36
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4418.8,
-      "change_pct": -0.89
+      "price": 4405.4,
+      "change_pct": -1.19
     },
     "Oil (WTI)": {
-      "price": 81.36,
-      "change_pct": -1.53
+      "price": 81.2,
+      "change_pct": -1.72
     },
     "Silver": {
-      "price": 65.0,
-      "change_pct": -0.73
+      "price": 64.46,
+      "change_pct": -1.56
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63139,
-      "change_pct": -0.36
+      "price": 63360,
+      "change_pct": 0.07
     },
     "ETH": {
-      "price": 1877.52,
-      "change_pct": -0.37
+      "price": 1885.24,
+      "change_pct": 0.14
     },
     "SOL": {
-      "price": 75.77,
-      "change_pct": -0.16
+      "price": 76.01,
+      "change_pct": 0.33
     },
     "BNB": {
-      "price": 607.54,
-      "change_pct": -0.42
+      "price": 609.06,
+      "change_pct": 0.01
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why September is the worst month of the year for the stock market"
+      "title": "\u2018She\u2019s desperate\u2019: My friend\u2019s mother died. Can she stop Medicaid from taking the family home?"
     },
     {
       "source": "MarketWatch",
-      "title": "Sandisk\u2019s stock is flying higher. Here are the new targets that are exciting Wall Street."
+      "title": "The 10 housing markets where the most sellers have listed their homes for less than what they paid"
     }
   ]
 }
