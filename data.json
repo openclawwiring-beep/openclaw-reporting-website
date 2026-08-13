@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 13 2026  04:20 PT",
+  "generated_at": "Thursday, August 13 2026  05:08 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4448.5,
-      "change_pct": -0.22
+      "price": 4444.4,
+      "change_pct": -0.31
     },
     "Oil (WTI)": {
-      "price": 81.41,
-      "change_pct": -1.46
+      "price": 81.6,
+      "change_pct": -1.23
     },
     "Silver": {
-      "price": 65.13,
-      "change_pct": -0.53
+      "price": 65.21,
+      "change_pct": -0.4
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63563,
-      "change_pct": -0.82
+      "price": 63417,
+      "change_pct": -1.22
     },
     "ETH": {
-      "price": 1879.4,
-      "change_pct": -1.54
+      "price": 1878.39,
+      "change_pct": -1.85
     },
     "SOL": {
-      "price": 75.59,
-      "change_pct": -1.43
+      "price": 75.64,
+      "change_pct": -1.64
     },
     "BNB": {
-      "price": 610.38,
-      "change_pct": -0.48
+      "price": 608.41,
+      "change_pct": -0.93
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Lenovo profits soar past expectations on AI computers, servers and services"
+      "title": "Social Security recipients will get more money next year. Here\u2019s how much the COLA may boost benefits."
     },
     {
       "source": "MarketWatch",
-      "title": "Bill Ackman once exited Netflix stake in a huff. Why he\u2019s buying the streaming giant again as well as these five stocks."
+      "title": "If you can answer this one question, you\u2019ll never worry about money again"
     }
   ]
 }
