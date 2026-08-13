@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 12 2026  21:10 PT",
+  "generated_at": "Wednesday, August 12 2026  22:55 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4456.1,
-      "change_pct": -0.21
+      "price": 4445.1,
+      "change_pct": -0.3
     },
     "Oil (WTI)": {
-      "price": 82.65,
-      "change_pct": 0.5
+      "price": 82.99,
+      "change_pct": 0.45
     },
     "Silver": {
-      "price": 65.43,
-      "change_pct": -0.95
+      "price": 65.35,
+      "change_pct": -0.2
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63581,
-      "change_pct": -0.25
+      "price": 63833,
+      "change_pct": 0.1
     },
     "ETH": {
-      "price": 1885.61,
-      "change_pct": 0.05
+      "price": 1894.9,
+      "change_pct": 0.28
     },
     "SOL": {
-      "price": 76.17,
-      "change_pct": -0.22
+      "price": 76.48,
+      "change_pct": 0.32
     },
     "BNB": {
-      "price": 611.79,
-      "change_pct": -0.08
+      "price": 612.96,
+      "change_pct": 0.06
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade"
+      "title": "South Korea\u2019s Kospi has staged a stunning comeback. How long will the bull market last?"
     },
     {
       "source": "MarketWatch",
