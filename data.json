@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 12 2026  22:55 PT",
+  "generated_at": "Thursday, August 13 2026  00:24 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4445.1,
-      "change_pct": -0.3
+      "price": 4433.2,
+      "change_pct": -0.56
     },
     "Oil (WTI)": {
-      "price": 82.99,
-      "change_pct": 0.45
+      "price": 82.94,
+      "change_pct": 0.39
     },
     "Silver": {
-      "price": 65.35,
-      "change_pct": -0.2
+      "price": 64.83,
+      "change_pct": -0.98
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63833,
-      "change_pct": 0.1
-    },
-    "ETH": {
-      "price": 1894.9,
+      "price": 63856,
       "change_pct": 0.28
     },
+    "ETH": {
+      "price": 1896.49,
+      "change_pct": 0.43
+    },
     "SOL": {
-      "price": 76.48,
-      "change_pct": 0.32
+      "price": 76.42,
+      "change_pct": 0.56
     },
     "BNB": {
-      "price": 612.96,
-      "change_pct": 0.06
+      "price": 613.19,
+      "change_pct": 0.32
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "South Korea\u2019s Kospi has staged a stunning comeback. How long will the bull market last?"
+      "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Lenovo profits soar past expectations on AI computers, servers and services"
     },
     {
       "source": "MarketWatch",
       "title": "Cisco sees record results from an AI \u2018supercycle,\u2019 but its stock pulls back"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My wife can claim $900 at 62. Should she take it now \u2014 or wait for her spousal benefit?"
     }
   ]
 }
