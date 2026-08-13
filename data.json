@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, August 13 2026  12:35 PT",
-  "market_status": "Live \u2014 as of 15:35 ET",
+  "generated_at": "Thursday, August 13 2026  13:40 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7802.38,
-      "change_pct": 0.69
+      "price": 7798.99,
+      "change_pct": 0.65
     },
     "Nasdaq": {
-      "price": 26834.54,
-      "change_pct": 0.93
+      "price": 26803.03,
+      "change_pct": 0.81
     },
     "Dow Jones": {
-      "price": 53832.39,
-      "change_pct": 0.12
+      "price": 53839.99,
+      "change_pct": 0.13
     },
     "Russell 2000": {
-      "price": 3056.72,
-      "change_pct": 0.36
+      "price": 3052.85,
+      "change_pct": 0.24
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4405.4,
-      "change_pct": -1.19
+      "price": 4407.4,
+      "change_pct": -1.14
     },
     "Oil (WTI)": {
-      "price": 81.2,
-      "change_pct": -1.72
+      "price": 81.29,
+      "change_pct": -1.61
     },
     "Silver": {
-      "price": 64.46,
-      "change_pct": -1.56
+      "price": 64.6,
+      "change_pct": -1.34
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63360,
-      "change_pct": 0.07
+      "price": 63394,
+      "change_pct": -0.16
     },
     "ETH": {
-      "price": 1885.24,
-      "change_pct": 0.14
+      "price": 1886.92,
+      "change_pct": 0.1
     },
     "SOL": {
-      "price": 76.01,
-      "change_pct": 0.33
+      "price": 76.24,
+      "change_pct": 0.41
     },
     "BNB": {
-      "price": 609.06,
-      "change_pct": 0.01
+      "price": 610.3,
+      "change_pct": -0.17
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom"
+      "title": "Trade court upholds Trump's closure of 'de minimis' loophole"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She\u2019s desperate\u2019: My friend\u2019s mother died. Can she stop Medicaid from taking the family home?"
+      "title": "SpaceX set an IPO record. Now there\u2019s hope that Anthropic could shatter it."
     },
     {
       "source": "MarketWatch",
-      "title": "The 10 housing markets where the most sellers have listed their homes for less than what they paid"
+      "title": "The average car loan is now $785 a month \u2014 and lasts for almost 6 years"
     }
   ]
 }
