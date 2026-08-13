@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, August 13 2026  09:01 PT",
-  "market_status": "Live \u2014 as of 12:01 ET",
+  "generated_at": "Thursday, August 13 2026  10:27 PT",
+  "market_status": "Live \u2014 as of 13:27 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7781.28,
-      "change_pct": 0.42
+      "price": 7795.2,
+      "change_pct": 0.6
     },
     "Nasdaq": {
-      "price": 26733.77,
-      "change_pct": 0.55
+      "price": 26803.72,
+      "change_pct": 0.81
     },
     "Dow Jones": {
-      "price": 53677.26,
-      "change_pct": -0.17
+      "price": 53752.03,
+      "change_pct": -0.03
     },
     "Russell 2000": {
-      "price": 3049.85,
-      "change_pct": 0.13
+      "price": 3051.39,
+      "change_pct": 0.19
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4425.5,
-      "change_pct": -0.74
+      "price": 4423.8,
+      "change_pct": -0.77
     },
     "Oil (WTI)": {
-      "price": 82.64,
-      "change_pct": 0.02
+      "price": 82.02,
+      "change_pct": -0.73
     },
     "Silver": {
-      "price": 64.86,
-      "change_pct": -0.94
+      "price": 64.95,
+      "change_pct": -0.8
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63424,
-      "change_pct": 0.03
+      "price": 63157,
+      "change_pct": -0.35
     },
     "ETH": {
-      "price": 1880.73,
-      "change_pct": -0.53
+      "price": 1876.41,
+      "change_pct": -0.44
     },
     "SOL": {
-      "price": 75.63,
-      "change_pct": -0.1
+      "price": 75.76,
+      "change_pct": 0.13
     },
     "BNB": {
-      "price": 607.3,
-      "change_pct": -0.51
+      "price": 607.46,
+      "change_pct": -0.45
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "These nontech stocks can ride the AI build-out for years"
+      "title": "Why September is the worst month of the year for the stock market"
     },
     {
       "source": "MarketWatch",
-      "title": "Rich Americans are propping up the travel economy as airfares soar 25% higher than last year"
+      "title": "Sandisk\u2019s stock is flying higher. Here are the new targets that are exciting Wall Street."
     }
   ]
 }
