@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 12 2026  18:51 PT",
+  "generated_at": "Wednesday, August 12 2026  21:10 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4481.1,
-      "change_pct": 0.43
+      "price": 4456.1,
+      "change_pct": -0.21
     },
     "Oil (WTI)": {
-      "price": 82.28,
-      "change_pct": -2.34
+      "price": 82.65,
+      "change_pct": 0.5
     },
     "Silver": {
-      "price": 65.87,
-      "change_pct": 0.48
+      "price": 65.43,
+      "change_pct": -0.95
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63372,
-      "change_pct": -0.65
+      "price": 63581,
+      "change_pct": -0.25
     },
     "ETH": {
-      "price": 1875.64,
-      "change_pct": -0.46
+      "price": 1885.61,
+      "change_pct": 0.05
     },
     "SOL": {
-      "price": 75.58,
-      "change_pct": -1.17
+      "price": 76.17,
+      "change_pct": -0.22
     },
     "BNB": {
-      "price": 609.99,
-      "change_pct": -1.33
+      "price": 611.79,
+      "change_pct": -0.08
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "South Korea stocks have entered bull market in about a month as AI trade roars back"
+      "title": "\u2018Hormuz remains blocked\u2019: Iran disputes Trump claims as traffic sinks to near 3-month lows"
     },
     {
       "source": "CNBC",
-      "title": "U.S. budget deficit surged in July to highest level since March 2021"
+      "title": "South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade"
     },
     {
       "source": "MarketWatch",
