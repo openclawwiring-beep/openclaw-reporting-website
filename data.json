@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, August 13 2026  05:08 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, August 13 2026  06:56 PT",
+  "market_status": "Live \u2014 as of 09:56 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7748.5,
-      "change_pct": 0.26
+      "price": 7793.08,
+      "change_pct": 0.57
     },
     "Nasdaq": {
-      "price": 26588.49,
-      "change_pct": 0.54
+      "price": 26795.24,
+      "change_pct": 0.78
     },
     "Dow Jones": {
-      "price": 53770.27,
-      "change_pct": -0.04
+      "price": 53867.54,
+      "change_pct": 0.18
     },
     "Russell 2000": {
-      "price": 3045.48,
-      "change_pct": 0.61
+      "price": 3063.38,
+      "change_pct": 0.58
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4444.4,
-      "change_pct": -0.31
+      "price": 4434.6,
+      "change_pct": -0.53
     },
     "Oil (WTI)": {
-      "price": 81.6,
-      "change_pct": -1.23
+      "price": 81.19,
+      "change_pct": -1.73
     },
     "Silver": {
-      "price": 65.21,
-      "change_pct": -0.4
+      "price": 65.11,
+      "change_pct": -0.57
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63417,
-      "change_pct": -1.22
+      "price": 63683,
+      "change_pct": -0.25
     },
     "ETH": {
-      "price": 1878.39,
-      "change_pct": -1.85
+      "price": 1889.53,
+      "change_pct": -0.6
     },
     "SOL": {
-      "price": 75.64,
-      "change_pct": -1.64
+      "price": 76.19,
+      "change_pct": -0.02
     },
     "BNB": {
-      "price": 608.41,
-      "change_pct": -0.93
+      "price": 610.3,
+      "change_pct": -0.28
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea"
+      "title": "Wholesale prices were flat in July, below expectations for 0.2% increase"
     },
     {
       "source": "CNBC",
-      "title": "Oil prices drop as investors weigh falling demand against Middle East tensions"
+      "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on"
     },
     {
       "source": "MarketWatch",
-      "title": "Social Security recipients will get more money next year. Here\u2019s how much the COLA may boost benefits."
+      "title": "Salesforce\u2019s stock gets a boost as J.P. Morgan says AI fears are overblown"
     },
     {
       "source": "MarketWatch",
-      "title": "If you can answer this one question, you\u2019ll never worry about money again"
+      "title": "Bill Ackman once exited his Netflix stake in a huff. He\u2019s buying the streaming giant again, as well as these five stocks."
     }
   ]
 }
