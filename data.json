@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 13 2026  14:42 PT",
+  "generated_at": "Thursday, August 13 2026  15:39 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4407.1,
-      "change_pct": -1.15
+      "price": 4412.7,
+      "change_pct": -1.02
     },
     "Oil (WTI)": {
-      "price": 81.21,
-      "change_pct": -1.71
+      "price": 81.1,
+      "change_pct": -1.84
     },
     "Silver": {
-      "price": 64.58,
-      "change_pct": -1.36
+      "price": 64.61,
+      "change_pct": -1.31
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63437,
-      "change_pct": -0.01
+      "price": 63525,
+      "change_pct": 0.3
     },
     "ETH": {
-      "price": 1887.3,
-      "change_pct": 0.46
+      "price": 1888.51,
+      "change_pct": 0.62
     },
     "SOL": {
-      "price": 76.11,
-      "change_pct": 0.71
+      "price": 76.32,
+      "change_pct": 1.2
     },
     "BNB": {
-      "price": 610.55,
-      "change_pct": 0.15
+      "price": 610.56,
+      "change_pct": 0.13
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Workday\u2019s stock sees a record surge. Could a buyout spark a software revival?"
+      "title": "\u2018My wife and I are both retired\u2019: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?"
     },
     {
       "source": "MarketWatch",
-      "title": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?"
+      "title": "Dell\u2019s stock has beaten Micron and AMD this year \u2014 and now it\u2019s adding to its gains"
     }
   ]
 }
