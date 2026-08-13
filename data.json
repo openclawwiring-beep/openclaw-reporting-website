@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 13 2026  03:03 PT",
+  "generated_at": "Thursday, August 13 2026  04:20 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4437.1,
-      "change_pct": -0.48
+      "price": 4448.5,
+      "change_pct": -0.22
     },
     "Oil (WTI)": {
-      "price": 81.73,
-      "change_pct": -1.08
+      "price": 81.41,
+      "change_pct": -1.46
     },
     "Silver": {
-      "price": 64.79,
-      "change_pct": -1.05
+      "price": 65.13,
+      "change_pct": -0.53
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63724,
-      "change_pct": -0.57
+      "price": 63563,
+      "change_pct": -0.82
     },
     "ETH": {
-      "price": 1886.3,
-      "change_pct": -1.09
+      "price": 1879.4,
+      "change_pct": -1.54
     },
     "SOL": {
-      "price": 76.05,
-      "change_pct": -0.84
+      "price": 75.59,
+      "change_pct": -1.43
     },
     "BNB": {
-      "price": 611.2,
-      "change_pct": -0.34
+      "price": 610.38,
+      "change_pct": -0.48
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Oil prices fall as investors weigh falling demand against Middle East tensions"
+      "title": "Oil prices drop as investors weigh falling demand against Middle East tensions"
     },
     {
       "source": "MarketWatch",
-      "title": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?"
+      "title": "Lenovo profits soar past expectations on AI computers, servers and services"
     },
     {
       "source": "MarketWatch",
-      "title": "What is driving the rapid shift as South Korea\u2019s bear market turns back into a bull"
+      "title": "Bill Ackman once exited Netflix stake in a huff. Why he\u2019s buying the streaming giant again as well as these five stocks."
     }
   ]
 }
