@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 13 2026  15:39 PT",
+  "generated_at": "Thursday, August 13 2026  16:38 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4412.7,
-      "change_pct": -1.02
+      "price": 4417.8,
+      "change_pct": -0.91
     },
     "Oil (WTI)": {
-      "price": 81.1,
-      "change_pct": -1.84
+      "price": 81.23,
+      "change_pct": -1.68
     },
     "Silver": {
-      "price": 64.61,
-      "change_pct": -1.31
+      "price": 64.79,
+      "change_pct": -1.05
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63525,
-      "change_pct": 0.3
+      "price": 63414,
+      "change_pct": 0.02
     },
     "ETH": {
-      "price": 1888.51,
-      "change_pct": 0.62
+      "price": 1885.07,
+      "change_pct": 0.44
     },
     "SOL": {
-      "price": 76.32,
-      "change_pct": 1.2
+      "price": 76.2,
+      "change_pct": 0.93
     },
     "BNB": {
-      "price": 610.56,
-      "change_pct": 0.13
+      "price": 610.41,
+      "change_pct": 0.05
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My wife and I are both retired\u2019: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?"
+      "title": "Reddit is joining the S&P 500 after months of speculation. Analysts have these concerns."
     },
     {
       "source": "MarketWatch",
-      "title": "Dell\u2019s stock has beaten Micron and AMD this year \u2014 and now it\u2019s adding to its gains"
+      "title": "\u2018My wife and I are both retired\u2019: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?"
     }
   ]
 }
