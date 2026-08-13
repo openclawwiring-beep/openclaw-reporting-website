@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 13 2026  01:50 PT",
+  "generated_at": "Thursday, August 13 2026  03:03 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4430.2,
-      "change_pct": -0.63
+      "price": 4437.1,
+      "change_pct": -0.48
     },
     "Oil (WTI)": {
-      "price": 81.78,
-      "change_pct": -1.02
+      "price": 81.73,
+      "change_pct": -1.08
     },
     "Silver": {
-      "price": 64.57,
-      "change_pct": -1.38
+      "price": 64.79,
+      "change_pct": -1.05
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63725,
-      "change_pct": -0.05
+      "price": 63724,
+      "change_pct": -0.57
     },
     "ETH": {
-      "price": 1889.1,
-      "change_pct": -0.06
+      "price": 1886.3,
+      "change_pct": -1.09
     },
     "SOL": {
-      "price": 76.15,
-      "change_pct": -0.07
+      "price": 76.05,
+      "change_pct": -0.84
     },
     "BNB": {
-      "price": 613.69,
-      "change_pct": 0.59
+      "price": 611.2,
+      "change_pct": -0.34
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "\u2018Hormuz remains blocked\u2019: Iran disputes Trump claims as traffic sinks to near 3-month lows"
+      "title": "An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea"
     },
     {
       "source": "CNBC",
-      "title": "Maersk shares jump 7% after shipping giant smashes profit estimates and hikes outlook"
+      "title": "Oil prices fall as investors weigh falling demand against Middle East tensions"
     },
     {
       "source": "MarketWatch",
-      "title": "Lenovo profits soar past expectations on AI computers, servers and services"
+      "title": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?"
     },
     {
       "source": "MarketWatch",
-      "title": "Cisco sees record results from an AI \u2018supercycle,\u2019 but its stock pulls back"
+      "title": "What is driving the rapid shift as South Korea\u2019s bear market turns back into a bull"
     }
   ]
 }
