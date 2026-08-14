@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, August 14 2026  09:50 PT",
-  "market_status": "Live \u2014 as of 12:50 ET",
+  "generated_at": "Friday, August 14 2026  10:50 PT",
+  "market_status": "Live \u2014 as of 13:50 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7782.19,
-      "change_pct": -0.21
+      "price": 7776.52,
+      "change_pct": -0.29
     },
     "Nasdaq": {
-      "price": 26683.97,
-      "change_pct": -0.44
+      "price": 26679.26,
+      "change_pct": -0.46
     },
     "Dow Jones": {
-      "price": 53716.69,
-      "change_pct": -0.22
+      "price": 53704.16,
+      "change_pct": -0.24
     },
     "Russell 2000": {
-      "price": 3064.28,
-      "change_pct": 0.38
+      "price": 3065.38,
+      "change_pct": 0.42
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4445.3,
-      "change_pct": 1.5
+      "price": 4437.7,
+      "change_pct": 1.33
     },
     "Oil (WTI)": {
-      "price": 81.82,
-      "change_pct": 0.58
+      "price": 82.15,
+      "change_pct": 0.98
     },
     "Silver": {
-      "price": 65.09,
-      "change_pct": 1.42
+      "price": 65.06,
+      "change_pct": 1.37
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63092,
-      "change_pct": 0.08
+      "price": 63050,
+      "change_pct": -0.2
     },
     "ETH": {
-      "price": 1882.71,
-      "change_pct": 0.56
+      "price": 1881.51,
+      "change_pct": 0.25
     },
     "SOL": {
-      "price": 75.45,
-      "change_pct": 0.03
+      "price": 75.41,
+      "change_pct": -0.45
     },
     "BNB": {
-      "price": 605.92,
-      "change_pct": -0.06
+      "price": 606.08,
+      "change_pct": -0.3
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Still trying to time the stock market? This chart shows why it\u2019s tougher than you think."
+      "title": "Luigi Mangione pleads guilty to stalking health-insurance CEO in federal court"
     },
     {
       "source": "MarketWatch",
-      "title": "I have $10 million and pay two advisers for financial help, but still have questions"
+      "title": "Owning a home is overrated. Renting is now often a much better money move."
     }
   ]
 }
