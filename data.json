@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, August 14 2026  10:50 PT",
-  "market_status": "Live \u2014 as of 13:50 ET",
+  "generated_at": "Friday, August 14 2026  11:51 PT",
+  "market_status": "Live \u2014 as of 14:51 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7776.52,
-      "change_pct": -0.29
+      "price": 7786.0,
+      "change_pct": -0.16
     },
     "Nasdaq": {
-      "price": 26679.26,
-      "change_pct": -0.46
+      "price": 26702.53,
+      "change_pct": -0.37
     },
     "Dow Jones": {
-      "price": 53704.16,
-      "change_pct": -0.24
+      "price": 53811.68,
+      "change_pct": -0.04
     },
     "Russell 2000": {
-      "price": 3065.38,
-      "change_pct": 0.42
+      "price": 3063.66,
+      "change_pct": 0.36
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4437.7,
-      "change_pct": 1.33
+      "price": 4438.7,
+      "change_pct": 1.35
     },
     "Oil (WTI)": {
-      "price": 82.15,
-      "change_pct": 0.98
+      "price": 82.51,
+      "change_pct": 1.43
     },
     "Silver": {
-      "price": 65.06,
-      "change_pct": 1.37
+      "price": 65.0,
+      "change_pct": 1.28
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63050,
-      "change_pct": -0.2
+      "price": 62836,
+      "change_pct": -0.51
     },
     "ETH": {
-      "price": 1881.51,
-      "change_pct": 0.25
+      "price": 1872.42,
+      "change_pct": -0.35
     },
     "SOL": {
-      "price": 75.41,
-      "change_pct": -0.45
+      "price": 74.92,
+      "change_pct": -1.16
     },
     "BNB": {
-      "price": 606.08,
-      "change_pct": -0.3
+      "price": 605.29,
+      "change_pct": -0.5
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Luigi Mangione pleads guilty to stalking health-insurance CEO in federal court"
+      "title": "A plan to save Social Security involves high earners paying more in taxes \u2014 without getting more in benefits"
     },
     {
       "source": "MarketWatch",
-      "title": "Owning a home is overrated. Renting is now often a much better money move."
+      "title": "Congress changed the rules around charitable giving. You\u2019ll now save more money if you donate earlier in the year."
     }
   ]
 }
