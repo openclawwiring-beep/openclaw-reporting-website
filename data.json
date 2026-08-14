@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, August 14 2026  05:07 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, August 14 2026  06:52 PT",
+  "market_status": "Live \u2014 as of 09:52 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7798.99,
-      "change_pct": 0.65
+      "price": 7807.19,
+      "change_pct": 0.11
     },
     "Nasdaq": {
-      "price": 26803.03,
-      "change_pct": 0.81
+      "price": 26819.1,
+      "change_pct": 0.06
     },
     "Dow Jones": {
-      "price": 53839.99,
-      "change_pct": 0.13
+      "price": 53859.16,
+      "change_pct": 0.05
     },
     "Russell 2000": {
-      "price": 3052.85,
-      "change_pct": 0.24
+      "price": 3052.62,
+      "change_pct": -0.0
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4422.3,
-      "change_pct": 0.97
+      "price": 4448.6,
+      "change_pct": 1.58
     },
     "Oil (WTI)": {
-      "price": 81.62,
-      "change_pct": 0.33
+      "price": 80.92,
+      "change_pct": -0.53
     },
     "Silver": {
-      "price": 65.12,
-      "change_pct": 1.46
+      "price": 65.51,
+      "change_pct": 2.08
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62805,
-      "change_pct": -0.97
+      "price": 62634,
+      "change_pct": -1.75
     },
     "ETH": {
-      "price": 1875.05,
-      "change_pct": -0.18
+      "price": 1867.13,
+      "change_pct": -1.25
     },
     "SOL": {
-      "price": 75.46,
-      "change_pct": -0.24
+      "price": 75.31,
+      "change_pct": -1.17
     },
     "BNB": {
-      "price": 604.51,
-      "change_pct": -0.64
+      "price": 603.67,
+      "change_pct": -1.11
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Treasury yields are little changed as U.S. threatens Iran with more economic sanctions"
+      "title": "S&P 500 is little changed, heads for third straight winning week: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "How a niche copper trade became a real-time gauge of Trump\u2019s next tariff move"
+      "title": "\u2018Absolutely unacceptable\u2019: Japan PM Takaichi condemns Putin\u2019s visit to disputed Kuril Islands"
     },
     {
       "source": "MarketWatch",
-      "title": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?"
+      "title": "I have a 9-to-5 job and started dating a bartender. Can I have a future with someone who works nights?"
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla\u2019s stock is bouncing. Here\u2019s what the options market says you should do."
+      "title": "Bond yields are at multiyear highs, yet stocks have hit fresh records. Here\u2019s how long the defiance can last."
     }
   ]
 }
