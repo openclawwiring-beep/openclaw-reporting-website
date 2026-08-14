@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, August 14 2026  01:44 PT",
+  "generated_at": "Friday, August 14 2026  02:58 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4400.8,
-      "change_pct": 0.48
+      "price": 4409.4,
+      "change_pct": 0.68
     },
     "Oil (WTI)": {
-      "price": 82.56,
-      "change_pct": 1.49
+      "price": 82.25,
+      "change_pct": 1.11
     },
     "Silver": {
-      "price": 64.68,
-      "change_pct": 0.79
+      "price": 64.91,
+      "change_pct": 1.14
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62800,
-      "change_pct": -1.47
+      "price": 62742,
+      "change_pct": -1.54
     },
     "ETH": {
-      "price": 1872.25,
-      "change_pct": -1.01
+      "price": 1872.03,
+      "change_pct": -0.88
     },
     "SOL": {
-      "price": 75.73,
-      "change_pct": -0.6
+      "price": 75.47,
+      "change_pct": -0.83
     },
     "BNB": {
-      "price": 606.9,
-      "change_pct": -1.1
+      "price": 607.06,
+      "change_pct": -0.73
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln"
+      "title": "Treasury yields rise as U.S. threatens Iran with more economic sanctions"
     },
     {
       "source": "CNBC",
-      "title": "How a niche copper trade became a real-time gauge of Trump\u2019s next tariff move"
+      "title": "Stock futures choppy after S&P 500 sets record above 7,800, heads for winning week: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Reddit is joining the S&P 500 after months of speculation. Analysts have these concerns."
+      "title": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My wife and I are both retired\u2019: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?"
+      "title": "\u2018American Pie\u2019 star Seann William Scott lists stunning Malibu waterfront home for $17.5 million"
     }
   ]
 }
