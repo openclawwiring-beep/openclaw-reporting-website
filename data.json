@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, August 14 2026  02:58 PT",
+  "generated_at": "Friday, August 14 2026  04:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4409.4,
-      "change_pct": 0.68
+      "price": 4409.1,
+      "change_pct": 0.67
     },
     "Oil (WTI)": {
-      "price": 82.25,
-      "change_pct": 1.11
+      "price": 81.55,
+      "change_pct": 0.25
     },
     "Silver": {
-      "price": 64.91,
-      "change_pct": 1.14
+      "price": 64.86,
+      "change_pct": 1.05
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62742,
-      "change_pct": -1.54
+      "price": 62756,
+      "change_pct": -1.32
     },
     "ETH": {
-      "price": 1872.03,
-      "change_pct": -0.88
+      "price": 1874.27,
+      "change_pct": -0.38
     },
     "SOL": {
-      "price": 75.47,
-      "change_pct": -0.83
+      "price": 75.34,
+      "change_pct": -0.45
     },
     "BNB": {
-      "price": 607.06,
-      "change_pct": -0.73
+      "price": 604.89,
+      "change_pct": -0.85
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Stock futures choppy after S&P 500 sets record above 7,800, heads for winning week: Live updates"
+      "title": "\u2018Absolutely unacceptable\u2019: Japan PM Takaichi condemns Putin\u2019s visit to disputed Kuril Islands"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?"
+      "title": "Rates are at multiyear highs, yet stocks hit fresh records. Here\u2019s how long the defiance may last."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018American Pie\u2019 star Seann William Scott lists stunning Malibu waterfront home for $17.5 million"
+      "title": "Batten down the hatches and allocate defensively because global liquidity has peaked, argues veteran strategist"
     }
   ]
 }
