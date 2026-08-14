@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, August 14 2026  08:49 PT",
-  "market_status": "Live \u2014 as of 11:49 ET",
+  "generated_at": "Friday, August 14 2026  09:50 PT",
+  "market_status": "Live \u2014 as of 12:50 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7780.46,
-      "change_pct": -0.24
+      "price": 7782.19,
+      "change_pct": -0.21
     },
     "Nasdaq": {
-      "price": 26668.79,
-      "change_pct": -0.5
+      "price": 26683.97,
+      "change_pct": -0.44
     },
     "Dow Jones": {
-      "price": 53701.62,
-      "change_pct": -0.25
+      "price": 53716.69,
+      "change_pct": -0.22
     },
     "Russell 2000": {
-      "price": 3060.28,
-      "change_pct": 0.25
+      "price": 3064.28,
+      "change_pct": 0.38
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4446.1,
-      "change_pct": 1.52
+      "price": 4445.3,
+      "change_pct": 1.5
     },
     "Oil (WTI)": {
-      "price": 81.67,
-      "change_pct": 0.39
+      "price": 81.82,
+      "change_pct": 0.58
     },
     "Silver": {
-      "price": 65.24,
-      "change_pct": 1.64
+      "price": 65.09,
+      "change_pct": 1.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62969,
-      "change_pct": -0.98
+      "price": 63092,
+      "change_pct": 0.08
     },
     "ETH": {
-      "price": 1881.34,
-      "change_pct": -0.26
+      "price": 1882.71,
+      "change_pct": 0.56
     },
     "SOL": {
-      "price": 75.66,
-      "change_pct": -0.35
+      "price": 75.45,
+      "change_pct": 0.03
     },
     "BNB": {
-      "price": 605.93,
-      "change_pct": -0.33
+      "price": 605.92,
+      "change_pct": -0.06
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 edges lower, but index heads for third straight winning week: Live updates"
+      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO"
     },
     {
       "source": "CNBC",
-      "title": "How a niche copper trade became a real-time gauge of Trump\u2019s next tariff move"
+      "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?"
+      "title": "Still trying to time the stock market? This chart shows why it\u2019s tougher than you think."
     },
     {
       "source": "MarketWatch",
-      "title": "Your prescription drugs shouldn\u2019t cost more than your mortgage. Inside the broken math that got us here."
+      "title": "I have $10 million and pay two advisers for financial help, but still have questions"
     }
   ]
 }
