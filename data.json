@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 13 2026  18:49 PT",
+  "generated_at": "Thursday, August 13 2026  21:06 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4374.3,
-      "change_pct": -1.88
+      "price": 4379.4,
+      "change_pct": -1.77
     },
     "Oil (WTI)": {
-      "price": 80.98,
-      "change_pct": -1.98
+      "price": 81.38,
+      "change_pct": -1.5
     },
     "Silver": {
-      "price": 64.09,
-      "change_pct": -2.12
+      "price": 64.16,
+      "change_pct": -2.02
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63469,
-      "change_pct": 0.15
+      "price": 63348,
+      "change_pct": -0.37
     },
     "ETH": {
-      "price": 1886.7,
-      "change_pct": 0.58
+      "price": 1883.83,
+      "change_pct": -0.07
     },
     "SOL": {
-      "price": 76.03,
-      "change_pct": 0.56
+      "price": 75.8,
+      "change_pct": -0.49
     },
     "BNB": {
-      "price": 610.27,
-      "change_pct": 0.04
+      "price": 611.4,
+      "change_pct": -0.04
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. to use economic tactics on Iran `that have never been seen'; Navy works to relieve troubled carrier Abraham Lincoln"
+      "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln"
     },
     {
       "source": "CNBC",
