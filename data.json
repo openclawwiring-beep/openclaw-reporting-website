@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, August 14 2026  04:02 PT",
+  "generated_at": "Friday, August 14 2026  05:07 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4409.1,
-      "change_pct": 0.67
+      "price": 4422.3,
+      "change_pct": 0.97
     },
     "Oil (WTI)": {
-      "price": 81.55,
-      "change_pct": 0.25
+      "price": 81.62,
+      "change_pct": 0.33
     },
     "Silver": {
-      "price": 64.86,
-      "change_pct": 1.05
+      "price": 65.12,
+      "change_pct": 1.46
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62756,
-      "change_pct": -1.32
+      "price": 62805,
+      "change_pct": -0.97
     },
     "ETH": {
-      "price": 1874.27,
-      "change_pct": -0.38
+      "price": 1875.05,
+      "change_pct": -0.18
     },
     "SOL": {
-      "price": 75.34,
-      "change_pct": -0.45
+      "price": 75.46,
+      "change_pct": -0.24
     },
     "BNB": {
-      "price": 604.89,
-      "change_pct": -0.85
+      "price": 604.51,
+      "change_pct": -0.64
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Treasury yields rise as U.S. threatens Iran with more economic sanctions"
+      "title": "Treasury yields are little changed as U.S. threatens Iran with more economic sanctions"
     },
     {
       "source": "CNBC",
-      "title": "\u2018Absolutely unacceptable\u2019: Japan PM Takaichi condemns Putin\u2019s visit to disputed Kuril Islands"
+      "title": "How a niche copper trade became a real-time gauge of Trump\u2019s next tariff move"
     },
     {
       "source": "MarketWatch",
-      "title": "Rates are at multiyear highs, yet stocks hit fresh records. Here\u2019s how long the defiance may last."
+      "title": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?"
     },
     {
       "source": "MarketWatch",
-      "title": "Batten down the hatches and allocate defensively because global liquidity has peaked, argues veteran strategist"
+      "title": "Tesla\u2019s stock is bouncing. Here\u2019s what the options market says you should do."
     }
   ]
 }
