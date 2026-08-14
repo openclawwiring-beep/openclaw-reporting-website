@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, August 14 2026  06:52 PT",
-  "market_status": "Live \u2014 as of 09:52 ET",
+  "generated_at": "Friday, August 14 2026  07:49 PT",
+  "market_status": "Live \u2014 as of 10:49 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7807.19,
-      "change_pct": 0.11
+      "price": 7793.65,
+      "change_pct": -0.07
     },
     "Nasdaq": {
-      "price": 26819.1,
-      "change_pct": 0.06
+      "price": 26751.39,
+      "change_pct": -0.19
     },
     "Dow Jones": {
-      "price": 53859.16,
-      "change_pct": 0.05
+      "price": 53771.51,
+      "change_pct": -0.12
     },
     "Russell 2000": {
-      "price": 3052.62,
-      "change_pct": -0.0
+      "price": 3064.66,
+      "change_pct": 0.39
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4448.6,
-      "change_pct": 1.58
+      "price": 4443.6,
+      "change_pct": 1.46
     },
     "Oil (WTI)": {
-      "price": 80.92,
-      "change_pct": -0.53
+      "price": 81.53,
+      "change_pct": 0.22
     },
     "Silver": {
-      "price": 65.51,
-      "change_pct": 2.08
+      "price": 65.65,
+      "change_pct": 2.29
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62634,
-      "change_pct": -1.75
+      "price": 62696,
+      "change_pct": -1.82
     },
     "ETH": {
-      "price": 1867.13,
-      "change_pct": -1.25
+      "price": 1869.31,
+      "change_pct": -1.26
     },
     "SOL": {
-      "price": 75.31,
-      "change_pct": -1.17
+      "price": 75.29,
+      "change_pct": -1.5
     },
     "BNB": {
-      "price": 603.67,
-      "change_pct": -1.11
+      "price": 604.57,
+      "change_pct": -0.83
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I have a 9-to-5 job and started dating a bartender. Can I have a future with someone who works nights?"
+      "title": "Should I tap my home equity or sell stocks to build a $100,000 emergency fund?"
     },
     {
       "source": "MarketWatch",
-      "title": "Bond yields are at multiyear highs, yet stocks have hit fresh records. Here\u2019s how long the defiance can last."
+      "title": "Congress changed the rules around charitable giving. You\u2019ll now save more money if you donate earlier in the year."
     }
   ]
 }
