@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, August 14 2026  07:49 PT",
-  "market_status": "Live \u2014 as of 10:49 ET",
+  "generated_at": "Friday, August 14 2026  08:49 PT",
+  "market_status": "Live \u2014 as of 11:49 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7793.65,
-      "change_pct": -0.07
+      "price": 7780.46,
+      "change_pct": -0.24
     },
     "Nasdaq": {
-      "price": 26751.39,
-      "change_pct": -0.19
+      "price": 26668.79,
+      "change_pct": -0.5
     },
     "Dow Jones": {
-      "price": 53771.51,
-      "change_pct": -0.12
+      "price": 53701.62,
+      "change_pct": -0.25
     },
     "Russell 2000": {
-      "price": 3064.66,
-      "change_pct": 0.39
+      "price": 3060.28,
+      "change_pct": 0.25
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4443.6,
-      "change_pct": 1.46
+      "price": 4446.1,
+      "change_pct": 1.52
     },
     "Oil (WTI)": {
-      "price": 81.53,
-      "change_pct": 0.22
+      "price": 81.67,
+      "change_pct": 0.39
     },
     "Silver": {
-      "price": 65.65,
-      "change_pct": 2.29
+      "price": 65.24,
+      "change_pct": 1.64
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62696,
-      "change_pct": -1.82
+      "price": 62969,
+      "change_pct": -0.98
     },
     "ETH": {
-      "price": 1869.31,
-      "change_pct": -1.26
+      "price": 1881.34,
+      "change_pct": -0.26
     },
     "SOL": {
-      "price": 75.29,
-      "change_pct": -1.5
+      "price": 75.66,
+      "change_pct": -0.35
     },
     "BNB": {
-      "price": 604.57,
-      "change_pct": -0.83
+      "price": 605.93,
+      "change_pct": -0.33
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 is little changed, heads for third straight winning week: Live updates"
+      "title": "S&P 500 edges lower, but index heads for third straight winning week: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "\u2018Absolutely unacceptable\u2019: Japan PM Takaichi condemns Putin\u2019s visit to disputed Kuril Islands"
+      "title": "How a niche copper trade became a real-time gauge of Trump\u2019s next tariff move"
     },
     {
       "source": "MarketWatch",
-      "title": "Should I tap my home equity or sell stocks to build a $100,000 emergency fund?"
+      "title": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?"
     },
     {
       "source": "MarketWatch",
-      "title": "Congress changed the rules around charitable giving. You\u2019ll now save more money if you donate earlier in the year."
+      "title": "Your prescription drugs shouldn\u2019t cost more than your mortgage. Inside the broken math that got us here."
     }
   ]
 }
