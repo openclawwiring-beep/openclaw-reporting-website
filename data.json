@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 13 2026  16:38 PT",
+  "generated_at": "Thursday, August 13 2026  18:49 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4417.8,
-      "change_pct": -0.91
+      "price": 4374.3,
+      "change_pct": -1.88
     },
     "Oil (WTI)": {
-      "price": 81.23,
-      "change_pct": -1.68
+      "price": 80.98,
+      "change_pct": -1.98
     },
     "Silver": {
-      "price": 64.79,
-      "change_pct": -1.05
+      "price": 64.09,
+      "change_pct": -2.12
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63414,
-      "change_pct": 0.02
+      "price": 63469,
+      "change_pct": 0.15
     },
     "ETH": {
-      "price": 1885.07,
-      "change_pct": 0.44
+      "price": 1886.7,
+      "change_pct": 0.58
     },
     "SOL": {
-      "price": 76.2,
-      "change_pct": 0.93
+      "price": 76.03,
+      "change_pct": 0.56
     },
     "BNB": {
-      "price": 610.41,
-      "change_pct": 0.05
+      "price": 610.27,
+      "change_pct": 0.04
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say"
+      "title": "U.S. to use economic tactics on Iran `that have never been seen'; Navy works to relieve troubled carrier Abraham Lincoln"
     },
     {
       "source": "CNBC",
-      "title": "Trade court upholds Trump's closure of 'de minimis' loophole"
+      "title": "From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore"
     },
     {
       "source": "MarketWatch",
