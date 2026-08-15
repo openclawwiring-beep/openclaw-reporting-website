@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 15 2026  04:18 PT",
+  "generated_at": "Saturday, August 15 2026  04:43 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62968,
-      "change_pct": 0.27
+      "price": 62972,
+      "change_pct": 0.28
     },
     "ETH": {
-      "price": 1878.72,
-      "change_pct": 0.19
+      "price": 1878.11,
+      "change_pct": 0.08
     },
     "SOL": {
-      "price": 75.21,
-      "change_pct": -0.31
+      "price": 75.2,
+      "change_pct": -0.33
     },
     "BNB": {
-      "price": 611.1,
-      "change_pct": 1.3
+      "price": 611.14,
+      "change_pct": 1.06
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The \u2018Hindenburg Omen\u2019 keeps flashing. Should investors worry about a stock-market crash?"
+      "title": "This old-school way of investing money is better than ever \u2014 even in the age of AI and mega-IPOs"
     },
     {
       "source": "MarketWatch",
-      "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock"
+      "title": "The \u2018Hindenburg Omen\u2019 keeps flashing. Should investors worry about a stock-market crash?"
     }
   ]
 }
