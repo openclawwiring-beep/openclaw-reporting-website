@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 15 2026  08:18 PT",
+  "generated_at": "Saturday, August 15 2026  08:44 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62988,
-      "change_pct": 0.56
+      "price": 63059,
+      "change_pct": 0.23
     },
     "ETH": {
-      "price": 1882.02,
-      "change_pct": 0.81
+      "price": 1883.81,
+      "change_pct": 0.17
     },
     "SOL": {
-      "price": 75.4,
-      "change_pct": 0.26
+      "price": 75.46,
+      "change_pct": -0.2
     },
     "BNB": {
-      "price": 610.49,
-      "change_pct": 1.07
+      "price": 610.18,
+      "change_pct": 0.77
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia, Intel, Google: Wall Street is partying like it\u2019s 1999"
+      "title": "Social Security recipients will get more money next year. Here\u2019s how much the COLA may boost benefits."
     },
     {
       "source": "MarketWatch",
-      "title": "I have $10 million and pay two advisers for financial help, but still have questions"
+      "title": "Nvidia, Intel, Google: Wall Street is partying like it\u2019s 1999"
     }
   ]
 }
