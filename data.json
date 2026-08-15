@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 15 2026  05:33 PT",
+  "generated_at": "Saturday, August 15 2026  06:28 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62926,
-      "change_pct": 0.15
+      "price": 62981,
+      "change_pct": 0.46
     },
     "ETH": {
-      "price": 1876.8,
-      "change_pct": 0.01
+      "price": 1881.15,
+      "change_pct": 0.63
     },
     "SOL": {
-      "price": 75.16,
-      "change_pct": -0.43
+      "price": 75.4,
+      "change_pct": 0.06
     },
     "BNB": {
-      "price": 611.0,
-      "change_pct": 0.97
+      "price": 609.45,
+      "change_pct": 0.87
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck"
+      "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations"
     },
     {
       "source": "CNBC",
-      "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets"
+      "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck"
     },
     {
       "source": "MarketWatch",
-      "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend"
+      "title": "Here\u2019s who could pay higher Social Security taxes under proposals to shore up the program"
     },
     {
       "source": "MarketWatch",
-      "title": "A decade of internal AI battles is finally catching up to Google"
+      "title": "Should I tap my home equity or sell stocks to build a $100,000 emergency fund?"
     }
   ]
 }
