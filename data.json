@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 15 2026  08:44 PT",
+  "generated_at": "Saturday, August 15 2026  09:21 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63059,
-      "change_pct": 0.23
+      "price": 63022,
+      "change_pct": 0.04
     },
     "ETH": {
-      "price": 1883.81,
-      "change_pct": 0.17
+      "price": 1882.72,
+      "change_pct": 0.18
     },
     "SOL": {
-      "price": 75.46,
-      "change_pct": -0.2
+      "price": 75.38,
+      "change_pct": -0.22
     },
     "BNB": {
-      "price": 610.18,
-      "change_pct": 0.77
+      "price": 610.79,
+      "change_pct": 0.83
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Social Security recipients will get more money next year. Here\u2019s how much the COLA may boost benefits."
+      "title": "Health insurers are dumping Medicare Advantage plans. Here\u2019s how many seniors could be affected."
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia, Intel, Google: Wall Street is partying like it\u2019s 1999"
+      "title": "Is $1 million enough for a household to retire? The answer keeps changing."
     }
   ]
 }
