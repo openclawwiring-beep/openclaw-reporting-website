@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 15 2026  07:47 PT",
+  "generated_at": "Saturday, August 15 2026  08:18 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62983,
-      "change_pct": 0.47
+      "price": 62988,
+      "change_pct": 0.56
     },
     "ETH": {
-      "price": 1880.93,
-      "change_pct": 0.64
+      "price": 1882.02,
+      "change_pct": 0.81
     },
     "SOL": {
-      "price": 75.44,
-      "change_pct": 0.19
+      "price": 75.4,
+      "change_pct": 0.26
     },
     "BNB": {
-      "price": 609.05,
-      "change_pct": 0.75
+      "price": 610.49,
+      "change_pct": 1.07
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I have $10 million and pay two advisers for financial help, but still have questions"
+      "title": "Nvidia, Intel, Google: Wall Street is partying like it\u2019s 1999"
     },
     {
       "source": "MarketWatch",
-      "title": "Congress changed the rules around charitable giving. You\u2019ll now save more money if you donate earlier in the year."
+      "title": "I have $10 million and pay two advisers for financial help, but still have questions"
     }
   ]
 }
