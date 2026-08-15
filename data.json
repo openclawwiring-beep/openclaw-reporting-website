@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 15 2026  06:53 PT",
+  "generated_at": "Saturday, August 15 2026  07:20 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62990,
-      "change_pct": 0.64
+      "price": 62978,
+      "change_pct": 0.7
     },
     "ETH": {
-      "price": 1881.79,
-      "change_pct": 0.86
+      "price": 1881.23,
+      "change_pct": 0.93
     },
     "SOL": {
-      "price": 75.48,
-      "change_pct": 0.29
+      "price": 75.51,
+      "change_pct": 0.52
     },
     "BNB": {
-      "price": 608.93,
-      "change_pct": 0.93
+      "price": 608.6,
+      "change_pct": 0.94
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO. That could affect the state\u2019s case."
+      "title": "Congress changed the rules around charitable giving. You\u2019ll now save more money if you donate earlier in the year."
     },
     {
       "source": "MarketWatch",
-      "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?"
+      "title": "\u2018The market is obviously on fire\u2019: Should I take $1,000 from my brokerage account to pay off my car loan?"
     }
   ]
 }
