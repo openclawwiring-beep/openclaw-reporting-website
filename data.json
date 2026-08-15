@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, August 14 2026  22:53 PT",
+  "generated_at": "Friday, August 14 2026  23:34 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63003,
-      "change_pct": -0.53
+      "price": 62999,
+      "change_pct": -0.27
     },
     "ETH": {
-      "price": 1878.33,
-      "change_pct": -0.26
+      "price": 1879.08,
+      "change_pct": 0.12
     },
     "SOL": {
-      "price": 75.29,
-      "change_pct": -0.76
+      "price": 75.28,
+      "change_pct": -0.43
     },
     "BNB": {
-      "price": 610.02,
-      "change_pct": -0.02
+      "price": 610.86,
+      "change_pct": 0.5
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets"
+      "title": "Russia's economy has defied the skeptics. Cracks are getting harder to hide"
     },
     {
       "source": "MarketWatch",
