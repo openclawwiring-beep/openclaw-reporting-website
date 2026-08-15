@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 15 2026  07:20 PT",
+  "generated_at": "Saturday, August 15 2026  07:47 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62978,
-      "change_pct": 0.7
+      "price": 62983,
+      "change_pct": 0.47
     },
     "ETH": {
-      "price": 1881.23,
-      "change_pct": 0.93
+      "price": 1880.93,
+      "change_pct": 0.64
     },
     "SOL": {
-      "price": 75.51,
-      "change_pct": 0.52
+      "price": 75.44,
+      "change_pct": 0.19
     },
     "BNB": {
-      "price": 608.6,
-      "change_pct": 0.94
+      "price": 609.05,
+      "change_pct": 0.75
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Congress changed the rules around charitable giving. You\u2019ll now save more money if you donate earlier in the year."
+      "title": "I have $10 million and pay two advisers for financial help, but still have questions"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The market is obviously on fire\u2019: Should I take $1,000 from my brokerage account to pay off my car loan?"
+      "title": "Congress changed the rules around charitable giving. You\u2019ll now save more money if you donate earlier in the year."
     }
   ]
 }
