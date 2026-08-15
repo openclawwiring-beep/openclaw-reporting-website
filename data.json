@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 15 2026  09:49 PT",
+  "generated_at": "Saturday, August 15 2026  10:18 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63037,
-      "change_pct": -0.09
+      "price": 63036,
+      "change_pct": -0.14
     },
     "ETH": {
-      "price": 1882.8,
-      "change_pct": -0.01
+      "price": 1883.8,
+      "change_pct": 0.02
     },
     "SOL": {
-      "price": 75.41,
-      "change_pct": -0.02
+      "price": 75.51,
+      "change_pct": -0.01
     },
     "BNB": {
-      "price": 611.03,
-      "change_pct": 0.82
+      "price": 611.06,
+      "change_pct": 0.78
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Health insurers are dumping Medicare Advantage plans. Here\u2019s how many seniors could be affected."
+      "title": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?"
     },
     {
       "source": "MarketWatch",
-      "title": "Is $1 million enough for a household to retire? The answer keeps changing."
+      "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend"
     }
   ]
 }
