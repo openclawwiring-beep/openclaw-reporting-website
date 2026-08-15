@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 15 2026  04:43 PT",
+  "generated_at": "Saturday, August 15 2026  05:33 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62972,
-      "change_pct": 0.28
+      "price": 62926,
+      "change_pct": 0.15
     },
     "ETH": {
-      "price": 1878.11,
-      "change_pct": 0.08
+      "price": 1876.8,
+      "change_pct": 0.01
     },
     "SOL": {
-      "price": 75.2,
-      "change_pct": -0.33
+      "price": 75.16,
+      "change_pct": -0.43
     },
     "BNB": {
-      "price": 611.14,
-      "change_pct": 1.06
+      "price": 611.0,
+      "change_pct": 0.97
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "This old-school way of investing money is better than ever \u2014 even in the age of AI and mega-IPOs"
+      "title": "Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend"
     },
     {
       "source": "MarketWatch",
-      "title": "The \u2018Hindenburg Omen\u2019 keeps flashing. Should investors worry about a stock-market crash?"
+      "title": "A decade of internal AI battles is finally catching up to Google"
     }
   ]
 }
