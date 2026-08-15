@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 15 2026  06:28 PT",
+  "generated_at": "Saturday, August 15 2026  06:53 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62981,
-      "change_pct": 0.46
+      "price": 62990,
+      "change_pct": 0.64
     },
     "ETH": {
-      "price": 1881.15,
-      "change_pct": 0.63
+      "price": 1881.79,
+      "change_pct": 0.86
     },
     "SOL": {
-      "price": 75.4,
-      "change_pct": 0.06
+      "price": 75.48,
+      "change_pct": 0.29
     },
     "BNB": {
-      "price": 609.45,
-      "change_pct": 0.87
+      "price": 608.93,
+      "change_pct": 0.93
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s who could pay higher Social Security taxes under proposals to shore up the program"
+      "title": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO. That could affect the state\u2019s case."
     },
     {
       "source": "MarketWatch",
-      "title": "Should I tap my home equity or sell stocks to build a $100,000 emergency fund?"
+      "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?"
     }
   ]
 }
