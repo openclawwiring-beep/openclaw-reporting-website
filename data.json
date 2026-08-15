@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 15 2026  13:19 PT",
+  "generated_at": "Saturday, August 15 2026  13:47 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63018,
-      "change_pct": 0.22
+      "price": 63020,
+      "change_pct": 0.25
     },
     "ETH": {
-      "price": 1881.69,
-      "change_pct": 0.2
+      "price": 1881.14,
+      "change_pct": 0.18
     },
     "SOL": {
-      "price": 75.41,
-      "change_pct": 0.44
+      "price": 75.44,
+      "change_pct": 0.41
     },
     "BNB": {
-      "price": 610.38,
-      "change_pct": 0.7
+      "price": 610.22,
+      "change_pct": 0.69
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck"
+      "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?"
     },
     {
       "source": "MarketWatch",
       "title": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Think interest rates are high now? These charts offer a different perspective."
     }
   ]
 }
