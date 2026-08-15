@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 15 2026  11:56 PT",
+  "generated_at": "Saturday, August 15 2026  12:22 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62991,
-      "change_pct": 0.21
+      "price": 63041,
+      "change_pct": 0.4
     },
     "ETH": {
-      "price": 1881.07,
-      "change_pct": 0.36
+      "price": 1881.78,
+      "change_pct": 0.44
     },
     "SOL": {
-      "price": 75.49,
-      "change_pct": 0.77
+      "price": 75.47,
+      "change_pct": 1.01
     },
     "BNB": {
-      "price": 609.61,
-      "change_pct": 0.66
+      "price": 609.85,
+      "change_pct": 0.73
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Owning a home is overrated. Renting is now often a much better money move."
+      "title": "Think interest rates are high now? These charts offer a different perspective."
     },
     {
       "source": "MarketWatch",
-      "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here\u2019s how."
+      "title": "Owning a home is overrated. Renting is now often a much better money move."
     }
   ]
 }
