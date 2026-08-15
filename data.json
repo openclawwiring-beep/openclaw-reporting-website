@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 15 2026  03:47 PT",
+  "generated_at": "Saturday, August 15 2026  04:18 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62973,
-      "change_pct": 0.24
+      "price": 62968,
+      "change_pct": 0.27
     },
     "ETH": {
-      "price": 1878.18,
+      "price": 1878.72,
       "change_pct": 0.19
     },
     "SOL": {
       "price": 75.21,
-      "change_pct": -0.28
+      "change_pct": -0.31
     },
     "BNB": {
-      "price": 610.89,
-      "change_pct": 0.91
+      "price": 611.1,
+      "change_pct": 1.3
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO"
+      "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck"
     },
     {
       "source": "CNBC",
-      "title": "Russia's economy has defied the skeptics. Cracks are getting harder to hide"
+      "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The \u2018Hindenburg Omen\u2019 keeps flashing. Should investors worry about a stock-market crash?"
     },
     {
       "source": "MarketWatch",
       "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "16 beaten-down AI stocks that are beloved by BofA analysts"
     }
   ]
 }
