@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 16 2026  02:30 PT",
+  "generated_at": "Sunday, August 16 2026  03:20 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63015,
-      "change_pct": 0.15
+      "price": 62935,
+      "change_pct": -0.04
     },
     "ETH": {
-      "price": 1880.16,
-      "change_pct": 0.2
+      "price": 1878.08,
+      "change_pct": 0.04
     },
     "SOL": {
-      "price": 75.36,
-      "change_pct": 0.33
+      "price": 75.16,
+      "change_pct": -0.08
     },
     "BNB": {
-      "price": 607.19,
-      "change_pct": -0.55
+      "price": 606.55,
+      "change_pct": -0.65
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations"
+      "title": "Secret outperformer: Dispelling the 'myths' about an unloved stock market"
     },
     {
       "source": "CNBC",
-      "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter"
+      "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations"
     },
     {
       "source": "MarketWatch",
