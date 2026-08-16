@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 16 2026  12:43 PT",
+  "generated_at": "Sunday, August 16 2026  13:19 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63170,
-      "change_pct": 0.19
+      "price": 63081,
+      "change_pct": 0.1
     },
     "ETH": {
-      "price": 1886.44,
-      "change_pct": 0.21
+      "price": 1885.34,
+      "change_pct": 0.19
     },
     "SOL": {
-      "price": 75.28,
-      "change_pct": -0.25
+      "price": 75.22,
+      "change_pct": -0.31
     },
     "BNB": {
-      "price": 605.69,
-      "change_pct": -0.67
+      "price": 605.02,
+      "change_pct": -0.88
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "What the results of a Connecticut congressional primary race may mean for Social Security"
+      "title": "Top U.S. commander acknowledges mental health issues on USS Lincoln"
     },
     {
       "source": "MarketWatch",
