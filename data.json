@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 16 2026  09:21 PT",
+  "generated_at": "Sunday, August 16 2026  09:50 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63250,
-      "change_pct": 0.36
+      "price": 63227,
+      "change_pct": 0.3
     },
     "ETH": {
-      "price": 1885.27,
-      "change_pct": 0.13
+      "price": 1888.72,
+      "change_pct": 0.32
     },
     "SOL": {
-      "price": 75.54,
-      "change_pct": 0.22
+      "price": 75.49,
+      "change_pct": 0.13
     },
     "BNB": {
-      "price": 607.35,
-      "change_pct": -0.54
+      "price": 607.01,
+      "change_pct": -0.64
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Secret outperformer: Dispelling the 'myths' about an unloved stock market"
+      "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S."
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s the real reason oil prices aren\u2019t moving higher"
+      "title": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?"
     },
     {
       "source": "MarketWatch",
-      "title": "The Mediterranean diet is the best out there. Here\u2019s why Americans struggle with it."
+      "title": "Here\u2019s the real reason oil prices aren\u2019t moving higher"
     }
   ]
 }
