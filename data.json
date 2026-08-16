@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 16 2026  03:47 PT",
+  "generated_at": "Sunday, August 16 2026  04:18 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 62956,
-      "change_pct": -0.04
+      "price": 62951,
+      "change_pct": -0.03
     },
     "ETH": {
-      "price": 1879.07,
-      "change_pct": 0.03
+      "price": 1879.05,
+      "change_pct": 0.02
     },
     "SOL": {
-      "price": 75.18,
-      "change_pct": -0.07
+      "price": 75.2,
+      "change_pct": -0.03
     },
     "BNB": {
-      "price": 606.02,
-      "change_pct": -0.8
+      "price": 606.17,
+      "change_pct": -0.81
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?"
+      "title": "Walmart and Target are about to reveal the health of the U.S. consumer"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?"
+      "title": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?"
     }
   ]
 }
