@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 16 2026  09:50 PT",
+  "generated_at": "Sunday, August 16 2026  10:17 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63227,
-      "change_pct": 0.3
+      "price": 63166,
+      "change_pct": 0.21
     },
     "ETH": {
-      "price": 1888.72,
-      "change_pct": 0.32
-    },
-    "SOL": {
-      "price": 75.49,
+      "price": 1886.29,
       "change_pct": 0.13
     },
+    "SOL": {
+      "price": 75.47,
+      "change_pct": -0.04
+    },
     "BNB": {
-      "price": 607.01,
-      "change_pct": -0.64
+      "price": 606.97,
+      "change_pct": -0.67
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?"
+      "title": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s the real reason oil prices aren\u2019t moving higher"
+      "title": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?"
     }
   ]
 }
