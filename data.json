@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 16 2026  10:43 PT",
+  "generated_at": "Sunday, August 16 2026  11:26 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63127,
-      "change_pct": 0.19
+      "price": 63113,
+      "change_pct": 0.18
     },
     "ETH": {
-      "price": 1884.97,
-      "change_pct": 0.15
+      "price": 1884.17,
+      "change_pct": 0.14
     },
     "SOL": {
-      "price": 75.33,
-      "change_pct": -0.3
+      "price": 75.12,
+      "change_pct": -0.47
     },
     "BNB": {
-      "price": 606.13,
-      "change_pct": -0.68
+      "price": 605.37,
+      "change_pct": -0.72
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My friend\u2019s mother died. Can she stop Medicaid from taking the family home?"
+      "title": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?"
+      "title": "My friend\u2019s mother died. Can she stop Medicaid from taking the family home?"
     }
   ]
 }
