@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 16 2026  14:43 PT",
+  "generated_at": "Sunday, August 16 2026  15:18 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -22,33 +22,33 @@
   "commodities": {
     "Gold": {
       "price": 4437.3,
-      "change_pct": 1.32
+      "change_pct": 0.0
     },
     "Oil (WTI)": {
       "price": 82.4,
-      "change_pct": 1.29
+      "change_pct": 0.0
     },
     "Silver": {
       "price": 65.11,
-      "change_pct": 1.45
+      "change_pct": 0.0
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62831,
-      "change_pct": -0.42
+      "price": 62872,
+      "change_pct": -0.34
     },
     "ETH": {
-      "price": 1872.08,
-      "change_pct": -0.59
+      "price": 1875.76,
+      "change_pct": -0.38
     },
     "SOL": {
-      "price": 74.42,
-      "change_pct": -1.62
+      "price": 74.4,
+      "change_pct": -1.52
     },
     "BNB": {
-      "price": 603.67,
-      "change_pct": -1.05
+      "price": 603.83,
+      "change_pct": -0.83
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?"
+      "title": "U.S. stock futures little changed as investors ponder the Fed\u2019s next move"
     },
     {
       "source": "MarketWatch",
-      "title": "My friend\u2019s mother died. Can she stop Medicaid from taking the family home?"
+      "title": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?"
     }
   ]
 }
