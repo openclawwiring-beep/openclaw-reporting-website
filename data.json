@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 16 2026  07:48 PT",
+  "generated_at": "Sunday, August 16 2026  08:19 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63043,
-      "change_pct": 0.09
+      "price": 63054,
+      "change_pct": 0.08
     },
     "ETH": {
-      "price": 1881.25,
-      "change_pct": 0.02
+      "price": 1881.83,
+      "change_pct": -0.04
     },
     "SOL": {
-      "price": 75.31,
-      "change_pct": -0.17
+      "price": 75.39,
+      "change_pct": -0.04
     },
     "BNB": {
-      "price": 607.04,
-      "change_pct": -0.31
+      "price": 607.28,
+      "change_pct": -0.56
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations"
+      "title": "What the results of a Connecticut congressional primary race may mean for Social Security"
     },
     {
       "source": "MarketWatch",
