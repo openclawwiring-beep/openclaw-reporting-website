@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 17 2026  03:59 PT",
+  "generated_at": "Monday, August 17 2026  04:32 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4454.7,
-      "change_pct": 0.02
+      "price": 4460.2,
+      "change_pct": 0.15
     },
     "Oil (WTI)": {
-      "price": 82.85,
-      "change_pct": 0.74
+      "price": 82.73,
+      "change_pct": 0.6
     },
     "Silver": {
-      "price": 65.75,
-      "change_pct": 0.09
+      "price": 65.85,
+      "change_pct": 0.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63591,
-      "change_pct": 1.01
+      "price": 63602,
+      "change_pct": 1.07
     },
     "ETH": {
-      "price": 1903.98,
-      "change_pct": 1.33
+      "price": 1903.92,
+      "change_pct": 1.34
     },
     "SOL": {
-      "price": 75.68,
-      "change_pct": 0.63
+      "price": 75.72,
+      "change_pct": 0.64
     },
     "BNB": {
-      "price": 604.61,
-      "change_pct": -0.26
+      "price": 604.17,
+      "change_pct": -0.31
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Russia targets Danube port after one of Ukraine\u2019s largest aerial attacks of the war"
+      "title": "What will TV look like in three years? Media insiders share their predictions"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?"
     },
     {
       "source": "MarketWatch",
       "title": "The AI productivity payoff is coming. Here are 20 stocks primed to capture the gains as adoption spreads."
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
     }
   ]
 }
