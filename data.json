@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 17 2026  15:22 PT",
+  "generated_at": "Monday, August 17 2026  15:49 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4472.9,
-      "change_pct": 0.43
+      "price": 4469.5,
+      "change_pct": 0.35
     },
     "Oil (WTI)": {
-      "price": 85.16,
-      "change_pct": 3.55
+      "price": 85.12,
+      "change_pct": 3.5
     },
     "Silver": {
-      "price": 65.92,
-      "change_pct": 0.34
+      "price": 65.86,
+      "change_pct": 0.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64241,
-      "change_pct": 2.22
+      "price": 64251,
+      "change_pct": 2.43
     },
     "ETH": {
-      "price": 1902.48,
-      "change_pct": 1.45
+      "price": 1903.18,
+      "change_pct": 1.65
     },
     "SOL": {
-      "price": 75.76,
-      "change_pct": 1.83
+      "price": 75.7,
+      "change_pct": 1.86
     },
     "BNB": {
-      "price": 604.3,
-      "change_pct": 0.09
+      "price": 604.19,
+      "change_pct": 0.46
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?"
+      "title": "Why this popular Treasury-bond ETF is trading at its lowest since 2004"
     },
     {
       "source": "MarketWatch",
-      "title": "There\u2019s a 49% chance the Dow will finish this year up double digits. Here\u2019s why."
+      "title": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?"
     }
   ]
 }
