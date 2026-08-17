@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 16 2026  16:43 PT",
+  "generated_at": "Sunday, August 16 2026  18:09 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4426.2,
-      "change_pct": -0.25
+      "price": 4456.8,
+      "change_pct": 0.44
     },
     "Oil (WTI)": {
-      "price": 82.47,
-      "change_pct": 0.08
+      "price": 81.89,
+      "change_pct": -0.62
     },
     "Silver": {
-      "price": 65.08,
-      "change_pct": -0.04
+      "price": 65.64,
+      "change_pct": 0.81
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62809,
-      "change_pct": -0.37
+      "price": 63057,
+      "change_pct": 0.06
     },
     "ETH": {
-      "price": 1872.76,
-      "change_pct": -0.48
+      "price": 1890.53,
+      "change_pct": 0.56
     },
     "SOL": {
-      "price": 74.47,
-      "change_pct": -1.1
+      "price": 74.98,
+      "change_pct": -0.55
     },
     "BNB": {
-      "price": 602.47,
-      "change_pct": -0.77
+      "price": 603.66,
+      "change_pct": -0.55
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures are little changed after S&P 500 posts three-week win streak: Live updates"
+      "title": "Japan second-quarter GDP grows 1.1% on an annualized basis, missing expectations"
     },
     {
       "source": "CNBC",
