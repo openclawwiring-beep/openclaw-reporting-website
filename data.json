@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 17 2026  01:40 PT",
+  "generated_at": "Monday, August 17 2026  02:39 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4457.4,
-      "change_pct": 0.08
+      "price": 4453.2,
+      "change_pct": -0.01
     },
     "Oil (WTI)": {
-      "price": 82.08,
-      "change_pct": -0.19
+      "price": 82.49,
+      "change_pct": 0.3
     },
     "Silver": {
-      "price": 65.71,
-      "change_pct": 0.02
+      "price": 65.62,
+      "change_pct": -0.11
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63352,
-      "change_pct": 0.53
+      "price": 63283,
+      "change_pct": 0.45
     },
     "ETH": {
-      "price": 1892.22,
-      "change_pct": 0.69
+      "price": 1893.1,
+      "change_pct": 0.71
     },
     "SOL": {
-      "price": 75.29,
-      "change_pct": -0.14
+      "price": 75.27,
+      "change_pct": -0.12
     },
     "BNB": {
-      "price": 604.63,
-      "change_pct": -0.19
+      "price": 603.29,
+      "change_pct": -0.61
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Stock futures mixed after S&P 500 posts three-week win streak: Live updates"
+      "title": "Japanese automakers vulnerable to one-two punch of Iran war, yen rally"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. stock futures little changed as investors ponder the Fed\u2019s next move"
+      "title": "Investor dubbed \u2018AI stock god\u2019 had 56% of his funds in these two stocks before it blew up"
     },
     {
       "source": "MarketWatch",
-      "title": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?"
+      "title": "My son does not work, yet he pays $500 for ACA health insurance. How is that fair?"
     }
   ]
 }
