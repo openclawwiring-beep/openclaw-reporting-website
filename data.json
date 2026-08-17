@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 17 2026  03:30 PT",
+  "generated_at": "Monday, August 17 2026  03:59 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4453.6,
-      "change_pct": -0.0
+      "price": 4454.7,
+      "change_pct": 0.02
     },
     "Oil (WTI)": {
-      "price": 83.01,
-      "change_pct": 0.94
+      "price": 82.85,
+      "change_pct": 0.74
     },
     "Silver": {
-      "price": 65.68,
-      "change_pct": -0.02
+      "price": 65.75,
+      "change_pct": 0.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63296,
-      "change_pct": 0.54
+      "price": 63591,
+      "change_pct": 1.01
     },
     "ETH": {
-      "price": 1892.11,
-      "change_pct": 0.72
+      "price": 1903.98,
+      "change_pct": 1.33
     },
     "SOL": {
-      "price": 75.28,
-      "change_pct": 0.16
+      "price": 75.68,
+      "change_pct": 0.63
     },
     "BNB": {
-      "price": 603.51,
-      "change_pct": -0.46
+      "price": 604.61,
+      "change_pct": -0.26
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
+      "title": "The AI productivity payoff is coming. Here are 20 stocks primed to capture the gains as adoption spreads."
     },
     {
       "source": "MarketWatch",
-      "title": "Investor dubbed \u2018AI stock god\u2019 had 56% of his funds in these two stocks before it blew up"
+      "title": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
     }
   ]
 }
