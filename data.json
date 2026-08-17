@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 17 2026  02:39 PT",
+  "generated_at": "Monday, August 17 2026  03:30 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4453.2,
-      "change_pct": -0.01
+      "price": 4453.6,
+      "change_pct": -0.0
     },
     "Oil (WTI)": {
-      "price": 82.49,
-      "change_pct": 0.3
+      "price": 83.01,
+      "change_pct": 0.94
     },
     "Silver": {
-      "price": 65.62,
-      "change_pct": -0.11
+      "price": 65.68,
+      "change_pct": -0.02
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63283,
-      "change_pct": 0.45
+      "price": 63296,
+      "change_pct": 0.54
     },
     "ETH": {
-      "price": 1893.1,
-      "change_pct": 0.71
+      "price": 1892.11,
+      "change_pct": 0.72
     },
     "SOL": {
-      "price": 75.27,
-      "change_pct": -0.12
+      "price": 75.28,
+      "change_pct": 0.16
     },
     "BNB": {
-      "price": 603.29,
-      "change_pct": -0.61
+      "price": 603.51,
+      "change_pct": -0.46
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Japanese automakers vulnerable to one-two punch of Iran war, yen rally"
+      "title": "Russia targets Danube port after one of Ukraine\u2019s largest aerial attacks of the war"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
     },
     {
       "source": "MarketWatch",
       "title": "Investor dubbed \u2018AI stock god\u2019 had 56% of his funds in these two stocks before it blew up"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My son does not work, yet he pays $500 for ACA health insurance. How is that fair?"
     }
   ]
 }
