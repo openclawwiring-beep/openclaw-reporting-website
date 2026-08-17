@@ -1,60 +1,60 @@
 {
-  "generated_at": "Monday, August 17 2026  05:39 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, August 17 2026  06:37 PT",
+  "market_status": "Live \u2014 as of 09:37 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7785.76,
-      "change_pct": -0.17
+      "price": 7777.2,
+      "change_pct": -0.11
     },
     "Nasdaq": {
-      "price": 26729.16,
-      "change_pct": -0.28
+      "price": 26750.87,
+      "change_pct": 0.08
     },
     "Dow Jones": {
-      "price": 53732.41,
-      "change_pct": -0.2
+      "price": 53522.29,
+      "change_pct": -0.39
     },
     "Russell 2000": {
-      "price": 3068.42,
+      "price": 3068.41,
       "change_pct": 0.51
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4443.2,
-      "change_pct": -0.24
+      "price": 4443.8,
+      "change_pct": -0.22
     },
     "Oil (WTI)": {
-      "price": 82.78,
-      "change_pct": 0.66
+      "price": 82.81,
+      "change_pct": 0.69
     },
     "Silver": {
-      "price": 65.64,
-      "change_pct": -0.09
+      "price": 65.43,
+      "change_pct": -0.4
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63527,
-      "change_pct": 0.91
+      "price": 63641,
+      "change_pct": 0.99
     },
     "ETH": {
-      "price": 1897.49,
-      "change_pct": 1.02
+      "price": 1903.58,
+      "change_pct": 1.25
     },
     "SOL": {
-      "price": 75.36,
-      "change_pct": 0.21
+      "price": 75.57,
+      "change_pct": 0.33
     },
     "BNB": {
-      "price": 603.99,
-      "change_pct": -0.45
+      "price": 604.8,
+      "change_pct": -0.46
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires"
+      "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?"
+      "title": "The stock market is driving the economy in one major way"
     },
     {
       "source": "MarketWatch",
-      "title": "Investor dubbed \u2018AI stock god\u2019 had 56% of his funds in these two stocks before the July blow-up"
+      "title": "The AI productivity payoff is coming. Here are 20 stocks primed to capture the gains as adoption spreads."
     }
   ]
 }
