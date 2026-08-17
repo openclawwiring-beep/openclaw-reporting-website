@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, August 17 2026  07:53 PT",
-  "market_status": "Live \u2014 as of 10:53 ET",
+  "generated_at": "Monday, August 17 2026  08:22 PT",
+  "market_status": "Live \u2014 as of 11:22 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7771.24,
-      "change_pct": -0.19
+      "price": 7778.77,
+      "change_pct": -0.09
     },
     "Nasdaq": {
-      "price": 26727.24,
-      "change_pct": -0.01
+      "price": 26777.34,
+      "change_pct": 0.18
     },
     "Dow Jones": {
-      "price": 53523.4,
-      "change_pct": -0.39
+      "price": 53568.82,
+      "change_pct": -0.31
     },
     "Russell 2000": {
-      "price": 3057.71,
-      "change_pct": -0.34
+      "price": 3060.1,
+      "change_pct": -0.27
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4477.9,
-      "change_pct": 0.54
+      "price": 4478.4,
+      "change_pct": 0.55
     },
     "Oil (WTI)": {
-      "price": 82.39,
-      "change_pct": 0.18
+      "price": 82.35,
+      "change_pct": 0.13
     },
     "Silver": {
-      "price": 66.43,
-      "change_pct": 1.12
+      "price": 66.51,
+      "change_pct": 1.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63680,
-      "change_pct": 1.01
+      "price": 63767,
+      "change_pct": 1.13
     },
     "ETH": {
-      "price": 1903.6,
-      "change_pct": 1.19
+      "price": 1903.27,
+      "change_pct": 1.13
     },
     "SOL": {
-      "price": 75.78,
-      "change_pct": 0.63
+      "price": 75.77,
+      "change_pct": 0.49
     },
     "BNB": {
-      "price": 605.64,
-      "change_pct": -0.25
+      "price": 605.54,
+      "change_pct": -0.26
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive"
+      "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio"
     },
     {
       "source": "MarketWatch",
-      "title": "5 expensive surprises new homeowners face \u2014 and how to avoid them"
+      "title": "Micron, Sandisk and other chip stocks climb as investors are more confident about AI spending"
     },
     {
       "source": "MarketWatch",
-      "title": "Prediction markets see a divided government after midterm elections. Here\u2019s how you should trade, Citi says."
+      "title": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
     }
   ]
 }
