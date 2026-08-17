@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 17 2026  14:24 PT",
+  "generated_at": "Monday, August 17 2026  14:49 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64323,
-      "change_pct": 2.1
+      "price": 64320,
+      "change_pct": 2.27
     },
     "ETH": {
-      "price": 1905.69,
-      "change_pct": 1.38
+      "price": 1904.52,
+      "change_pct": 1.65
     },
     "SOL": {
-      "price": 75.9,
-      "change_pct": 1.23
+      "price": 75.91,
+      "change_pct": 2.12
     },
     "BNB": {
-      "price": 605.18,
-      "change_pct": 0.13
+      "price": 604.69,
+      "change_pct": 0.15
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The number of \u2018negative-beta\u2019 stocks in the S&P 500 just hit a new record high. What that means for investors."
+      "title": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?"
+      "title": "There\u2019s a 49% chance the Dow will finish this year up double digits. Here\u2019s why."
     }
   ]
 }
