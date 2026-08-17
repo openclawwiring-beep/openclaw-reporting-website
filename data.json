@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, August 17 2026  12:51 PT",
-  "market_status": "Live \u2014 as of 15:51 ET",
+  "generated_at": "Monday, August 17 2026  13:24 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7749.59,
-      "change_pct": -0.47
-    },
-    "Nasdaq": {
-      "price": 26650.98,
-      "change_pct": -0.29
-    },
-    "Dow Jones": {
-      "price": 53452.42,
+      "price": 7745.06,
       "change_pct": -0.52
     },
+    "Nasdaq": {
+      "price": 26644.91,
+      "change_pct": -0.32
+    },
+    "Dow Jones": {
+      "price": 53459.78,
+      "change_pct": -0.51
+    },
     "Russell 2000": {
-      "price": 3055.01,
-      "change_pct": -0.43
+      "price": 3057.54,
+      "change_pct": -0.35
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4472.1,
-      "change_pct": 0.41
+      "price": 4474.2,
+      "change_pct": 0.46
     },
     "Oil (WTI)": {
-      "price": 84.4,
-      "change_pct": 2.63
+      "price": 84.7,
+      "change_pct": 2.99
     },
     "Silver": {
-      "price": 66.03,
-      "change_pct": 0.51
+      "price": 65.96,
+      "change_pct": 0.4
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64299,
+      "price": 64275,
       "change_pct": 1.91
     },
     "ETH": {
-      "price": 1907.39,
-      "change_pct": 1.27
+      "price": 1904.5,
+      "change_pct": 1.01
     },
     "SOL": {
-      "price": 75.79,
-      "change_pct": 0.85
+      "price": 75.68,
+      "change_pct": 0.6
     },
     "BNB": {
-      "price": 604.71,
-      "change_pct": -0.14
+      "price": 604.86,
+      "change_pct": -0.04
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
+      "title": "SpaceX\u2019s stock is rising, and that\u2019s a good sign for Nvidia and Google"
     },
     {
       "source": "MarketWatch",
-      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?"
+      "title": "Why it pays to stay invested: No amount of bad news could stop the stock market\u2019s strongest run in more than 25 years"
     }
   ]
 }
