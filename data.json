@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, August 17 2026  10:55 PT",
-  "market_status": "Live \u2014 as of 13:55 ET",
+  "generated_at": "Monday, August 17 2026  11:36 PT",
+  "market_status": "Live \u2014 as of 14:36 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7756.14,
-      "change_pct": -0.38
+      "price": 7754.99,
+      "change_pct": -0.4
     },
     "Nasdaq": {
-      "price": 26655.49,
-      "change_pct": -0.28
+      "price": 26656.33,
+      "change_pct": -0.27
     },
     "Dow Jones": {
-      "price": 53445.97,
-      "change_pct": -0.54
+      "price": 53478.62,
+      "change_pct": -0.47
     },
     "Russell 2000": {
-      "price": 3053.1,
-      "change_pct": -0.49
+      "price": 3052.58,
+      "change_pct": -0.51
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4474.7,
-      "change_pct": 0.47
+      "price": 4466.1,
+      "change_pct": 0.28
     },
     "Oil (WTI)": {
-      "price": 84.07,
-      "change_pct": 2.23
+      "price": 84.63,
+      "change_pct": 2.91
     },
     "Silver": {
-      "price": 66.24,
-      "change_pct": 0.82
+      "price": 66.1,
+      "change_pct": 0.62
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64275,
-      "change_pct": 1.85
+      "price": 64358,
+      "change_pct": 1.99
     },
     "ETH": {
-      "price": 1907.32,
-      "change_pct": 1.21
+      "price": 1907.29,
+      "change_pct": 1.22
     },
     "SOL": {
-      "price": 75.87,
-      "change_pct": 0.79
+      "price": 75.92,
+      "change_pct": 1.08
     },
     "BNB": {
-      "price": 605.74,
-      "change_pct": -0.07
+      "price": 605.79,
+      "change_pct": 0.12
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout"
+      "title": "30-year Treasury yield tops 5.31%, the highest in 19 years"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here\u2019s how Amazon\u2019s stock could nearly double by the end of next year, according to Morgan Stanley"
     },
     {
       "source": "MarketWatch",
       "title": "The Mediterranean diet is the best one out there. Here\u2019s why Americans struggle with it."
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Investor dubbed the \u2018AI stock god\u2019 had 56% of his hedge fund invested in these two stocks before the July blow-up"
     }
   ]
 }
