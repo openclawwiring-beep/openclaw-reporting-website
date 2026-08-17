@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, August 17 2026  09:24 PT",
-  "market_status": "Live \u2014 as of 12:24 ET",
+  "generated_at": "Monday, August 17 2026  09:54 PT",
+  "market_status": "Live \u2014 as of 12:54 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7774.67,
-      "change_pct": -0.15
+      "price": 7769.07,
+      "change_pct": -0.22
     },
     "Nasdaq": {
-      "price": 26735.4,
-      "change_pct": 0.02
+      "price": 26713.3,
+      "change_pct": -0.06
     },
     "Dow Jones": {
-      "price": 53603.08,
-      "change_pct": -0.24
+      "price": 53514.96,
+      "change_pct": -0.41
     },
     "Russell 2000": {
-      "price": 3058.99,
-      "change_pct": -0.3
+      "price": 3060.96,
+      "change_pct": -0.24
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4484.0,
-      "change_pct": 0.68
+      "price": 4481.7,
+      "change_pct": 0.63
     },
     "Oil (WTI)": {
-      "price": 82.39,
-      "change_pct": 0.18
+      "price": 82.75,
+      "change_pct": 0.62
     },
     "Silver": {
-      "price": 66.49,
-      "change_pct": 1.21
+      "price": 66.5,
+      "change_pct": 1.22
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64062,
-      "change_pct": 1.3
+      "price": 64067,
+      "change_pct": 1.39
     },
     "ETH": {
-      "price": 1908.36,
-      "change_pct": 1.2
+      "price": 1905.81,
+      "change_pct": 0.95
     },
     "SOL": {
       "price": 75.98,
-      "change_pct": 0.64
+      "change_pct": 0.65
     },
     "BNB": {
-      "price": 606.65,
-      "change_pct": -0.06
+      "price": 607.1,
+      "change_pct": 0.02
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Owning a home is overrated. Renting is now often a much better money move."
+      "title": "Investor dubbed the \u2018AI stock god\u2019 had 56% of his hedge fund invested in these two stocks before the July blow-up"
     },
     {
       "source": "MarketWatch",
-      "title": "Apple\u2019s stock could rise 30% if it strikes an Nvidia deal for AI, this analyst says"
+      "title": "Owning a home is overrated. Renting is now often a much better money move."
     }
   ]
 }
