@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 17 2026  13:53 PT",
+  "generated_at": "Monday, August 17 2026  14:24 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4471.9,
-      "change_pct": 0.41
+      "price": 4473.1,
+      "change_pct": 0.44
     },
     "Oil (WTI)": {
-      "price": 84.94,
-      "change_pct": 3.28
+      "price": 84.95,
+      "change_pct": 3.3
     },
     "Silver": {
-      "price": 65.89,
-      "change_pct": 0.3
+      "price": 65.9,
+      "change_pct": 0.32
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64285,
-      "change_pct": 2.05
+      "price": 64323,
+      "change_pct": 2.1
     },
     "ETH": {
-      "price": 1904.71,
-      "change_pct": 1.24
+      "price": 1905.69,
+      "change_pct": 1.38
     },
     "SOL": {
-      "price": 75.88,
-      "change_pct": 1.19
+      "price": 75.9,
+      "change_pct": 1.23
     },
     "BNB": {
-      "price": 604.97,
-      "change_pct": 0.05
+      "price": 605.18,
+      "change_pct": 0.13
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending"
+      "title": "The number of \u2018negative-beta\u2019 stocks in the S&P 500 just hit a new record high. What that means for investors."
     },
     {
       "source": "MarketWatch",
-      "title": "A new set of Trump tariffs for Canada could take effect Wednesday. Here\u2019s what\u2019s at stake."
+      "title": "I\u2019m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?"
     }
   ]
 }
