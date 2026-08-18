@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 18 2026  14:47 PT",
+  "generated_at": "Tuesday, August 18 2026  15:20 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4389.5,
-      "change_pct": -1.32
+      "price": 4395.0,
+      "change_pct": -1.19
     },
     "Oil (WTI)": {
-      "price": 84.42,
-      "change_pct": -0.97
+      "price": 84.53,
+      "change_pct": -0.84
     },
     "Silver": {
-      "price": 63.42,
-      "change_pct": -2.89
+      "price": 63.48,
+      "change_pct": -2.79
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64546,
-      "change_pct": 0.36
+      "price": 64541,
+      "change_pct": 0.47
     },
     "ETH": {
-      "price": 1910.47,
-      "change_pct": 0.31
+      "price": 1913.05,
+      "change_pct": 0.56
     },
     "SOL": {
-      "price": 76.95,
-      "change_pct": 1.4
+      "price": 77.05,
+      "change_pct": 1.7
     },
     "BNB": {
-      "price": 602.21,
-      "change_pct": -0.41
+      "price": 602.62,
+      "change_pct": -0.28
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "AI chip stocks were riding high. Here\u2019s why Micron and others are now pulling back."
+      "title": "Meta is facing its \u2018Big Tobacco\u2019 moment \u2014 and investors can profit"
     },
     {
       "source": "MarketWatch",
-      "title": "Hidden Valley Ranch dressing may be a victim of this summer\u2019s salad scare"
+      "title": "AI chip stocks were riding high. Here\u2019s why Micron and others are now pulling back."
     }
   ]
 }
