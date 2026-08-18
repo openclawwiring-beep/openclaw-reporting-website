@@ -1,18 +1,18 @@
 {
-  "generated_at": "Tuesday, August 18 2026  05:41 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, August 18 2026  06:40 PT",
+  "market_status": "Live \u2014 as of 09:40 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7745.06,
-      "change_pct": -0.52
+      "price": 7710.22,
+      "change_pct": -0.46
     },
     "Nasdaq": {
-      "price": 26644.91,
-      "change_pct": -0.32
+      "price": 26394.0,
+      "change_pct": -0.94
     },
     "Dow Jones": {
-      "price": 53459.78,
-      "change_pct": -0.51
+      "price": 53329.69,
+      "change_pct": -0.26
     },
     "Russell 2000": {
       "price": 3057.54,
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4450.8,
-      "change_pct": 0.06
+      "price": 4445.1,
+      "change_pct": -0.07
     },
     "Oil (WTI)": {
-      "price": 84.2,
-      "change_pct": -1.23
+      "price": 84.72,
+      "change_pct": -0.62
     },
     "Silver": {
-      "price": 65.2,
-      "change_pct": -0.16
+      "price": 64.96,
+      "change_pct": -0.54
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64209,
-      "change_pct": 1.14
+      "price": 64060,
+      "change_pct": 0.63
     },
     "ETH": {
-      "price": 1898.78,
-      "change_pct": 0.13
+      "price": 1893.96,
+      "change_pct": -0.55
     },
     "SOL": {
-      "price": 76.22,
-      "change_pct": 1.18
+      "price": 76.05,
+      "change_pct": 0.6
     },
     "BNB": {
-      "price": 600.82,
-      "change_pct": -0.51
+      "price": 599.81,
+      "change_pct": -0.87
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions'"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Home Depot revenue rises even as customers turn away from bigger projects"
+      "title": "Disney-owned ABC files First Amendment lawsuit against FCC"
     },
     {
       "source": "MarketWatch",
       "title": "Stocks keep shrugging off rising Treasury yields. Here\u2019s the level that could finally trigger a selloff."
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Disney sues FCC over Trump\u2019s broadcast-license threat"
     }
   ]
 }
