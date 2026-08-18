@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 18 2026  01:34 PT",
+  "generated_at": "Tuesday, August 18 2026  02:30 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,12 +21,12 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4443.6,
-      "change_pct": -0.1
+      "price": 4446.3,
+      "change_pct": -0.04
     },
     "Oil (WTI)": {
-      "price": 84.49,
-      "change_pct": -0.89
+      "price": 84.1,
+      "change_pct": -1.35
     },
     "Silver": {
       "price": 65.01,
@@ -35,19 +35,19 @@
   },
   "crypto": {
     "BTC": {
-      "price": 64170,
-      "change_pct": 1.26
+      "price": 64107,
+      "change_pct": 1.24
     },
     "ETH": {
-      "price": 1896.77,
-      "change_pct": 0.18
+      "price": 1894.47,
+      "change_pct": 0.02
     },
     "SOL": {
-      "price": 75.87,
-      "change_pct": 0.66
+      "price": 75.86,
+      "change_pct": 0.71
     },
     "BNB": {
-      "price": 602.33,
+      "price": 601.48,
       "change_pct": -0.42
     }
   },
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict"
+      "title": "South Korea must brace for \u2018worst-case scenario,\u2019 President Lee says, as Trump cuts military drills"
     },
     {
       "source": "MarketWatch",
-      "title": "Why this popular Treasury-bond ETF is trading at its lowest since 2004"
+      "title": "\u2018We are hurt\u2019: Our son and daughter-in-law cut off contact with us over politics. Should we change our $3 million will?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s a double-edged sword\u2019: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?"
+      "title": "Usher\u2019s art-packed Atlanta mansion also has a hookah lounge and a barbershop"
     }
   ]
 }
