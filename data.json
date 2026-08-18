@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, August 18 2026  06:40 PT",
-  "market_status": "Live \u2014 as of 09:40 ET",
+  "generated_at": "Tuesday, August 18 2026  07:31 PT",
+  "market_status": "Live \u2014 as of 10:31 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7710.22,
-      "change_pct": -0.46
+      "price": 7709.96,
+      "change_pct": -0.47
     },
     "Nasdaq": {
-      "price": 26394.0,
-      "change_pct": -0.94
+      "price": 26367.31,
+      "change_pct": -1.04
     },
     "Dow Jones": {
-      "price": 53329.69,
-      "change_pct": -0.26
+      "price": 53420.34,
+      "change_pct": -0.09
     },
     "Russell 2000": {
-      "price": 3057.54,
-      "change_pct": -0.35
+      "price": 3037.41,
+      "change_pct": -0.66
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4445.1,
-      "change_pct": -0.07
+      "price": 4455.1,
+      "change_pct": 0.16
     },
     "Oil (WTI)": {
-      "price": 84.72,
-      "change_pct": -0.62
+      "price": 84.06,
+      "change_pct": -1.4
     },
     "Silver": {
-      "price": 64.96,
-      "change_pct": -0.54
+      "price": 64.86,
+      "change_pct": -0.67
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64060,
-      "change_pct": 0.63
+      "price": 64892,
+      "change_pct": 2.09
     },
     "ETH": {
-      "price": 1893.96,
-      "change_pct": -0.55
+      "price": 1913.84,
+      "change_pct": 0.85
     },
     "SOL": {
-      "price": 76.05,
-      "change_pct": 0.6
+      "price": 76.88,
+      "change_pct": 1.75
     },
     "BNB": {
-      "price": 599.81,
-      "change_pct": -0.87
+      "price": 603.09,
+      "change_pct": -0.27
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Stocks keep shrugging off rising Treasury yields. Here\u2019s the level that could finally trigger a selloff."
+      "title": "U.S. investors have been buying stocks all month and are now sitting on profits. Here\u2019s what might make them sell."
     },
     {
       "source": "MarketWatch",
-      "title": "Disney sues FCC over Trump\u2019s broadcast-license threat"
+      "title": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?"
     }
   ]
 }
