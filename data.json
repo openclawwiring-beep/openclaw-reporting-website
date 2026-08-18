@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 17 2026  22:55 PT",
+  "generated_at": "Monday, August 17 2026  23:40 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4449.6,
-      "change_pct": -0.35
+      "price": 4453.9,
+      "change_pct": 0.05
     },
     "Oil (WTI)": {
-      "price": 85.13,
-      "change_pct": 0.24
+      "price": 85.49,
+      "change_pct": 0.28
     },
     "Silver": {
-      "price": 65.2,
-      "change_pct": -0.81
+      "price": 65.45,
+      "change_pct": 0.15
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64149,
-      "change_pct": 1.07
+      "price": 64349,
+      "change_pct": 1.26
     },
     "ETH": {
-      "price": 1893.65,
-      "change_pct": -0.25
+      "price": 1899.88,
+      "change_pct": -0.06
     },
     "SOL": {
-      "price": 75.68,
-      "change_pct": 0.34
+      "price": 75.89,
+      "change_pct": 0.54
     },
     "BNB": {
-      "price": 602.73,
-      "change_pct": -0.39
+      "price": 604.42,
+      "change_pct": -0.15
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "South Korea must brace for \u2018worst-case scenario,\u2019 President Lee says, as Trump cuts military drills"
+      "title": "The 30-year Treasury yield just hit a 19-year high. Three things could drive it even higher"
     },
     {
       "source": "MarketWatch",
