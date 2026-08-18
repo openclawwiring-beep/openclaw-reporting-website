@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 18 2026  04:50 PT",
+  "generated_at": "Tuesday, August 18 2026  05:41 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4447.0,
-      "change_pct": -0.02
+      "price": 4450.8,
+      "change_pct": 0.06
     },
     "Oil (WTI)": {
-      "price": 84.04,
-      "change_pct": -1.42
+      "price": 84.2,
+      "change_pct": -1.23
     },
     "Silver": {
-      "price": 65.08,
-      "change_pct": -0.34
+      "price": 65.2,
+      "change_pct": -0.16
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64318,
-      "change_pct": 0.98
+      "price": 64209,
+      "change_pct": 1.14
     },
     "ETH": {
-      "price": 1902.54,
-      "change_pct": -0.15
+      "price": 1898.78,
+      "change_pct": 0.13
     },
     "SOL": {
-      "price": 76.26,
-      "change_pct": 0.58
+      "price": 76.22,
+      "change_pct": 1.18
     },
     "BNB": {
-      "price": 601.74,
-      "change_pct": -0.48
+      "price": 600.82,
+      "change_pct": -0.51
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Stocks keep shrugging off rising Treasury yields. Here\u2019s the level that could finally trigger a selloff."
+      "title": "Home Depot revenue rises even as customers turn away from bigger projects"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
+      "title": "Stocks keep shrugging off rising Treasury yields. Here\u2019s the level that could finally trigger a selloff."
     }
   ]
 }
