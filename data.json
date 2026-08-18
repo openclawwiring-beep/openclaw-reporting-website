@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, August 18 2026  09:39 PT",
-  "market_status": "Live \u2014 as of 12:39 ET",
+  "generated_at": "Tuesday, August 18 2026  10:24 PT",
+  "market_status": "Live \u2014 as of 13:24 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7704.92,
-      "change_pct": -0.53
+      "price": 7702.53,
+      "change_pct": -0.56
     },
     "Nasdaq": {
-      "price": 26352.53,
-      "change_pct": -1.1
+      "price": 26334.79,
+      "change_pct": -1.16
     },
     "Dow Jones": {
-      "price": 53382.42,
-      "change_pct": -0.16
+      "price": 53377.56,
+      "change_pct": -0.17
     },
     "Russell 2000": {
-      "price": 3028.59,
-      "change_pct": -0.95
+      "price": 3027.81,
+      "change_pct": -0.97
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4419.1,
-      "change_pct": -0.65
+      "price": 4422.1,
+      "change_pct": -0.58
     },
     "Oil (WTI)": {
-      "price": 84.4,
-      "change_pct": -1.0
+      "price": 84.28,
+      "change_pct": -1.14
     },
     "Silver": {
-      "price": 63.96,
-      "change_pct": -2.07
+      "price": 64.0,
+      "change_pct": -2.0
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64731,
-      "change_pct": 1.0
+      "price": 64769,
+      "change_pct": 0.65
     },
     "ETH": {
-      "price": 1914.66,
-      "change_pct": 0.36
+      "price": 1915.25,
+      "change_pct": 0.17
     },
     "SOL": {
-      "price": 76.95,
-      "change_pct": 1.22
+      "price": 76.94,
+      "change_pct": 1.19
     },
     "BNB": {
-      "price": 603.16,
-      "change_pct": -0.62
+      "price": 602.6,
+      "change_pct": -0.75
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns"
+      "title": "Bond yields are climbing. Here\u2019s what that means for mortgages and other consumer borrowing"
     },
     {
       "source": "MarketWatch",
-      "title": "Can you get a piece of State Farm\u2019s $5 billion cash-back dividend? Here\u2019s how to check."
+      "title": "Here\u2019s the case for Nvidia\u2019s stock to climb 55% from here, according to BofA"
     },
     {
       "source": "MarketWatch",
-      "title": "Gambling is everywhere. How do financial advisers keep clients from going overboard?"
+      "title": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
     }
   ]
 }
