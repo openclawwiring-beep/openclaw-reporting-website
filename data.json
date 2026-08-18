@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 18 2026  02:30 PT",
+  "generated_at": "Tuesday, August 18 2026  03:26 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4446.3,
-      "change_pct": -0.04
+      "price": 4450.9,
+      "change_pct": 0.06
     },
     "Oil (WTI)": {
-      "price": 84.1,
-      "change_pct": -1.35
+      "price": 84.22,
+      "change_pct": -1.21
     },
     "Silver": {
-      "price": 65.01,
-      "change_pct": -0.45
+      "price": 65.2,
+      "change_pct": -0.16
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64107,
-      "change_pct": 1.24
+      "price": 64092,
+      "change_pct": 1.3
     },
     "ETH": {
-      "price": 1894.47,
-      "change_pct": 0.02
+      "price": 1894.36,
+      "change_pct": 0.17
     },
     "SOL": {
-      "price": 75.86,
-      "change_pct": 0.71
+      "price": 75.77,
+      "change_pct": 0.68
     },
     "BNB": {
-      "price": 601.48,
-      "change_pct": -0.42
+      "price": 600.61,
+      "change_pct": -0.48
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "The 30-year Treasury yield just hit a 19-year high. Three things could drive it even higher"
+      "title": "Global bond yields hit multi-decade highs as governments pay the price for U.S.-Iran stalemate"
     },
     {
       "source": "CNBC",
-      "title": "South Korea must brace for \u2018worst-case scenario,\u2019 President Lee says, as Trump cuts military drills"
+      "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions'"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Financial advisers tell us how they handle clients who love to gamble"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018We are hurt\u2019: Our son and daughter-in-law cut off contact with us over politics. Should we change our $3 million will?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Usher\u2019s art-packed Atlanta mansion also has a hookah lounge and a barbershop"
     }
   ]
 }
