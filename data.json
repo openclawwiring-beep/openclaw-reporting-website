@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 18 2026  15:20 PT",
+  "generated_at": "Tuesday, August 18 2026  15:50 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4395.0,
-      "change_pct": -1.19
+      "price": 4386.7,
+      "change_pct": -1.38
     },
     "Oil (WTI)": {
-      "price": 84.53,
-      "change_pct": -0.84
+      "price": 84.51,
+      "change_pct": -0.87
     },
     "Silver": {
-      "price": 63.48,
-      "change_pct": -2.79
+      "price": 63.29,
+      "change_pct": -3.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64541,
-      "change_pct": 0.47
+      "price": 64588,
+      "change_pct": 0.52
     },
     "ETH": {
-      "price": 1913.05,
-      "change_pct": 0.56
+      "price": 1912.42,
+      "change_pct": 0.48
     },
     "SOL": {
-      "price": 77.05,
-      "change_pct": 1.7
+      "price": 76.93,
+      "change_pct": 1.62
     },
     "BNB": {
-      "price": 602.62,
-      "change_pct": -0.28
+      "price": 602.83,
+      "change_pct": -0.22
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Bond yields are climbing. Here\u2019s what that means for mortgages and other consumer borrowing"
+      "title": "Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods"
     },
     {
       "source": "MarketWatch",
-      "title": "Meta is facing its \u2018Big Tobacco\u2019 moment \u2014 and investors can profit"
+      "title": "\u2018This is very stressful\u2019: My son\u2019s roof was damaged in a storm, but his insurance won\u2019t pay. Can he fight this?"
     },
     {
       "source": "MarketWatch",
-      "title": "AI chip stocks were riding high. Here\u2019s why Micron and others are now pulling back."
+      "title": "\u2018Too many people go bankrupt\u2019: Should Medicare provide catastrophic coverage?"
     }
   ]
 }
