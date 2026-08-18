@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 17 2026  20:42 PT",
+  "generated_at": "Monday, August 17 2026  21:33 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -11,7 +11,7 @@
       "change_pct": -0.32
     },
     "Dow Jones": {
-      "price": 53459.8,
+      "price": 53459.78,
       "change_pct": -0.51
     },
     "Russell 2000": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4452.5,
-      "change_pct": -0.03
+      "price": 4447.9,
+      "change_pct": -0.39
     },
     "Oil (WTI)": {
-      "price": 85.08,
-      "change_pct": 3.45
+      "price": 85.23,
+      "change_pct": 0.35
     },
     "Silver": {
-      "price": 65.38,
-      "change_pct": -0.49
+      "price": 65.25,
+      "change_pct": -0.74
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64076,
-      "change_pct": 1.22
+      "price": 64102,
+      "change_pct": 1.07
     },
     "ETH": {
-      "price": 1891.26,
+      "price": 1893.22,
       "change_pct": -0.37
     },
     "SOL": {
-      "price": 75.44,
-      "change_pct": -0.03
+      "price": 75.66,
+      "change_pct": 0.25
     },
     "BNB": {
-      "price": 602.91,
-      "change_pct": -0.18
+      "price": 602.64,
+      "change_pct": -0.35
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "30-year Treasury yield tops 5.31%, the highest in 19 years"
+      "title": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict"
     },
     {
       "source": "CNBC",
-      "title": "Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way'"
+      "title": "Lakers governor Jeanie Buss says siblings cannot sell family\u2019s stake to Bob Iger, Joshua Kushner"
     },
     {
       "source": "MarketWatch",
