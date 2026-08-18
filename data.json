@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 18 2026  00:36 PT",
+  "generated_at": "Tuesday, August 18 2026  01:34 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4458.1,
-      "change_pct": 0.22
+      "price": 4443.6,
+      "change_pct": -0.1
     },
     "Oil (WTI)": {
-      "price": 84.87,
-      "change_pct": -0.45
+      "price": 84.49,
+      "change_pct": -0.89
     },
     "Silver": {
-      "price": 65.39,
-      "change_pct": 0.13
+      "price": 65.01,
+      "change_pct": -0.45
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64214,
-      "change_pct": 1.11
+      "price": 64170,
+      "change_pct": 1.26
     },
     "ETH": {
-      "price": 1897.98,
-      "change_pct": -0.21
+      "price": 1896.77,
+      "change_pct": 0.18
     },
     "SOL": {
-      "price": 75.98,
-      "change_pct": 0.25
+      "price": 75.87,
+      "change_pct": 0.66
     },
     "BNB": {
-      "price": 603.18,
-      "change_pct": -0.35
+      "price": 602.33,
+      "change_pct": -0.42
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict"
+      "title": "The 30-year Treasury yield just hit a 19-year high. Three things could drive it even higher"
     },
     {
       "source": "CNBC",
-      "title": "The 30-year Treasury yield just hit a 19-year high. Three things could drive it even higher"
+      "title": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict"
     },
     {
       "source": "MarketWatch",
