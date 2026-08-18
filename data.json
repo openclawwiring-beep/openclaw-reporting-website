@@ -1,11 +1,7 @@
 {
-  "generated_at": "Tuesday, August 18 2026  03:55 PT",
+  "generated_at": "Tuesday, August 18 2026  04:23 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
-    "S&P 500": {
-      "price": 7745.06,
-      "change_pct": -0.52
-    },
     "Nasdaq": {
       "price": 26644.91,
       "change_pct": -0.32
@@ -21,34 +17,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4455.0,
-      "change_pct": 0.16
+      "price": 4450.1,
+      "change_pct": 0.04
     },
     "Oil (WTI)": {
-      "price": 83.91,
-      "change_pct": -1.57
+      "price": 83.97,
+      "change_pct": -1.5
     },
     "Silver": {
-      "price": 65.22,
-      "change_pct": -0.13
+      "price": 65.17,
+      "change_pct": -0.21
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64140,
-      "change_pct": 0.91
+      "price": 64298,
+      "change_pct": 1.06
     },
     "ETH": {
-      "price": 1896.08,
-      "change_pct": -0.4
+      "price": 1901.63,
+      "change_pct": -0.14
     },
     "SOL": {
-      "price": 75.79,
-      "change_pct": 0.17
+      "price": 76.3,
+      "change_pct": 0.78
     },
     "BNB": {
-      "price": 600.86,
-      "change_pct": -0.59
+      "price": 601.69,
+      "change_pct": -0.44
     }
   },
   "headlines": [
@@ -58,15 +54,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Global bond yields hit multi-decade highs as governments pay the price for U.S.-Iran stalemate"
+      "title": "Nvidia's AI moat is shifting from chips to capital"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This is very stressful\u2019: My son\u2019s insurance company won\u2019t pay for his damaged roof. How can he fight this?"
+      "title": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
     },
     {
       "source": "MarketWatch",
-      "title": "Financial advisers tell us how they handle clients who love to gamble"
+      "title": "U.S. 30-year Treasury yield hits highest level since 2007 amid global bond sell-off"
     }
   ]
 }
