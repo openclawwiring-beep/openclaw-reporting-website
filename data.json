@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 18 2026  18:08 PT",
+  "generated_at": "Tuesday, August 18 2026  19:37 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4390.9,
-      "change_pct": -1.29
+      "price": 4413.6,
+      "change_pct": -0.78
     },
     "Oil (WTI)": {
-      "price": 84.78,
-      "change_pct": -0.55
+      "price": 84.9,
+      "change_pct": -0.41
     },
     "Silver": {
-      "price": 63.06,
-      "change_pct": -3.44
+      "price": 63.26,
+      "change_pct": -3.13
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64432,
-      "change_pct": 0.26
+      "price": 64347,
+      "change_pct": 0.39
     },
     "ETH": {
-      "price": 1915.1,
-      "change_pct": 0.49
+      "price": 1907.82,
+      "change_pct": 0.68
     },
     "SOL": {
-      "price": 76.95,
-      "change_pct": 1.43
+      "price": 76.83,
+      "change_pct": 2.01
     },
     "BNB": {
-      "price": 604.0,
-      "change_pct": -0.06
+      "price": 602.26,
+      "change_pct": 0.02
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says no talks scheduled with Iran as he teases action in Hormuz Strait"
+      "title": "China\u2019s backflipping robot maker Unitree pops 542% in Shanghai debut"
     },
     {
       "source": "CNBC",
-      "title": "Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods"
+      "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim"
     },
     {
       "source": "MarketWatch",
