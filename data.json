@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, August 19 2026  10:49 PT",
-  "market_status": "Live \u2014 as of 13:49 ET",
+  "generated_at": "Wednesday, August 19 2026  11:32 PT",
+  "market_status": "Live \u2014 as of 14:32 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7715.61,
-      "change_pct": 0.29
+      "price": 7718.48,
+      "change_pct": 0.33
     },
     "Nasdaq": {
-      "price": 26339.8,
-      "change_pct": 0.19
+      "price": 26353.45,
+      "change_pct": 0.24
     },
     "Dow Jones": {
-      "price": 53454.54,
-      "change_pct": 0.2
+      "price": 53480.88,
+      "change_pct": 0.25
     },
     "Russell 2000": {
-      "price": 3035.58,
-      "change_pct": 0.59
+      "price": 3031.81,
+      "change_pct": 0.47
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4546.2,
-      "change_pct": 3.11
+      "price": 4541.5,
+      "change_pct": 3.01
     },
     "Oil (WTI)": {
-      "price": 85.21,
-      "change_pct": 0.63
+      "price": 84.74,
+      "change_pct": 0.07
     },
     "Silver": {
-      "price": 65.78,
-      "change_pct": 4.18
+      "price": 65.74,
+      "change_pct": 4.12
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68138,
-      "change_pct": 5.37
+      "price": 68270,
+      "change_pct": 5.42
     },
     "ETH": {
-      "price": 2087.38,
-      "change_pct": 9.18
+      "price": 2086.1,
+      "change_pct": 8.93
     },
     "SOL": {
-      "price": 81.55,
-      "change_pct": 6.01
+      "price": 81.88,
+      "change_pct": 6.07
     },
     "BNB": {
-      "price": 616.48,
-      "change_pct": 2.34
+      "price": 616.6,
+      "change_pct": 2.18
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market"
-    },
-    {
-      "source": "CNBC",
       "title": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far"
     },
     {
-      "source": "MarketWatch",
-      "title": "Apple\u2019s stock could be the savviest buy within Big Tech, according to this analysis"
+      "source": "CNBC",
+      "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
+      "title": "Fed minutes reveal growing support for rate hikes"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I want to be a snowbird. Can my $2 million nest egg sustain two homes?"
     }
   ]
 }
