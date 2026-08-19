@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 18 2026  23:49 PT",
+  "generated_at": "Wednesday, August 19 2026  00:36 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4397.2,
-      "change_pct": -0.22
+      "price": 4409.1,
+      "change_pct": 0.05
     },
     "Oil (WTI)": {
-      "price": 84.69,
-      "change_pct": -0.07
+      "price": 84.65,
+      "change_pct": -0.12
     },
     "Silver": {
-      "price": 62.99,
-      "change_pct": -0.04
+      "price": 63.25,
+      "change_pct": 0.38
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64235,
-      "change_pct": -0.12
+      "price": 64303,
+      "change_pct": 0.18
     },
     "ETH": {
-      "price": 1910.97,
-      "change_pct": 0.45
+      "price": 1917.28,
+      "change_pct": 1.03
     },
     "SOL": {
-      "price": 76.92,
-      "change_pct": 1.31
+      "price": 76.95,
+      "change_pct": 1.3
     },
     "BNB": {
-      "price": 601.31,
-      "change_pct": -0.5
+      "price": 601.79,
+      "change_pct": -0.22
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa"
+      "title": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran"
     },
     {
       "source": "CNBC",
-      "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim"
+      "title": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa"
     },
     {
       "source": "MarketWatch",
