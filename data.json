@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 19 2026  14:23 PT",
+  "generated_at": "Wednesday, August 19 2026  14:50 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 69524,
-      "change_pct": 7.66
+      "price": 69884,
+      "change_pct": 8.24
     },
     "ETH": {
-      "price": 2265.11,
-      "change_pct": 18.45
+      "price": 2293.12,
+      "change_pct": 20.03
     },
     "SOL": {
-      "price": 86.38,
-      "change_pct": 12.23
+      "price": 86.94,
+      "change_pct": 13.06
     },
     "BNB": {
-      "price": 628.98,
-      "change_pct": 4.38
+      "price": 634.87,
+      "change_pct": 5.42
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why the Treasury market\u2019s newfound calm could break down in September"
+      "title": "Test driving that drone or just renting? Why the Chinese government needs to know."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I brought my Super Bowl ring to the open houses\u2019: Seahawks player shares story of getting his real-estate license"
+      "title": "ServiceNow\u2019s stock leads a software rally. Here\u2019s what\u2019s energizing investors."
     }
   ]
 }
