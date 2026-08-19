@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 19 2026  03:26 PT",
+  "generated_at": "Wednesday, August 19 2026  03:54 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4418.5,
-      "change_pct": 0.22
+      "price": 4422.5,
+      "change_pct": 0.31
     },
     "Oil (WTI)": {
-      "price": 85.04,
-      "change_pct": 0.43
+      "price": 85.01,
+      "change_pct": 0.39
     },
     "Silver": {
-      "price": 63.32,
-      "change_pct": 0.29
+      "price": 63.38,
+      "change_pct": 0.4
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64333,
-      "change_pct": 0.38
+      "price": 64365,
+      "change_pct": 0.34
     },
     "ETH": {
-      "price": 1916.84,
-      "change_pct": 1.18
+      "price": 1917.71,
+      "change_pct": 1.14
     },
     "SOL": {
-      "price": 77.21,
-      "change_pct": 1.91
+      "price": 77.26,
+      "change_pct": 1.96
     },
     "BNB": {
-      "price": 602.06,
-      "change_pct": 0.25
+      "price": 601.92,
+      "change_pct": 0.17
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran"
+      "title": "Target hikes outlook as sales rebound and huge tariff refund boosts bottom line"
     },
     {
       "source": "CNBC",
-      "title": "Target is set to report earnings before the bell. Here's what to expect"
+      "title": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Target\u2019s grocery overhaul is helping it win back customers"
     },
     {
       "source": "MarketWatch",
       "title": "Chinese robotic company\u2019s stock soars over 600% in trading debut"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I\u2019m my mother-in-law\u2019s power of attorney, executor and trustee. Do I hold all the power?"
     }
   ]
 }
