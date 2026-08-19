@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, August 19 2026  09:38 PT",
-  "market_status": "Live \u2014 as of 12:38 ET",
+  "generated_at": "Wednesday, August 19 2026  10:24 PT",
+  "market_status": "Live \u2014 as of 13:24 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7725.05,
-      "change_pct": 0.41
-    },
-    "Nasdaq": {
-      "price": 26395.67,
-      "change_pct": 0.4
-    },
-    "Dow Jones": {
-      "price": 53478.31,
+      "price": 7712.71,
       "change_pct": 0.25
     },
+    "Nasdaq": {
+      "price": 26322.12,
+      "change_pct": 0.12
+    },
+    "Dow Jones": {
+      "price": 53438.49,
+      "change_pct": 0.17
+    },
     "Russell 2000": {
-      "price": 3041.75,
-      "change_pct": 0.8
+      "price": 3036.98,
+      "change_pct": 0.64
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4549.1,
-      "change_pct": 3.18
+      "price": 4550.5,
+      "change_pct": 3.21
     },
     "Oil (WTI)": {
-      "price": 85.32,
-      "change_pct": 0.76
+      "price": 85.61,
+      "change_pct": 1.1
     },
     "Silver": {
-      "price": 65.95,
-      "change_pct": 4.46
+      "price": 65.94,
+      "change_pct": 4.44
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68756,
-      "change_pct": 6.22
+      "price": 68019,
+      "change_pct": 5.02
     },
     "ETH": {
-      "price": 2097.84,
-      "change_pct": 9.57
+      "price": 2071.48,
+      "change_pct": 8.18
     },
     "SOL": {
-      "price": 81.97,
-      "change_pct": 6.52
+      "price": 81.17,
+      "change_pct": 5.51
     },
     "BNB": {
-      "price": 619.52,
-      "change_pct": 2.71
+      "price": 616.36,
+      "change_pct": 2.29
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "We\u2019re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?"
+      "title": "\u2018Trump accounts\u2019 won\u2019t help solve Americans\u2019 savings problems. Here\u2019s a better way."
     },
     {
       "source": "MarketWatch",
-      "title": "Stocks, bonds and gold rally after Treasury indicates it will buy more government bonds to stop yields from surging"
+      "title": "My male co-workers with kids expect me to pick up their slack because I don\u2019t have children. Do I push back?"
     }
   ]
 }
