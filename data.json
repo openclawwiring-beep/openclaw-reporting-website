@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 19 2026  13:24 PT",
+  "generated_at": "Wednesday, August 19 2026  13:53 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4563.5,
-      "change_pct": 3.5
+      "price": 4578.6,
+      "change_pct": 3.85
     },
     "Oil (WTI)": {
-      "price": 84.19,
-      "change_pct": -0.58
+      "price": 84.35,
+      "change_pct": -0.39
     },
     "Silver": {
-      "price": 66.44,
-      "change_pct": 5.24
+      "price": 66.82,
+      "change_pct": 5.84
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68669,
-      "change_pct": 6.32
+      "price": 69194,
+      "change_pct": 7.18
     },
     "ETH": {
-      "price": 2113.32,
-      "change_pct": 10.51
+      "price": 2193.12,
+      "change_pct": 14.7
     },
     "SOL": {
-      "price": 82.39,
-      "change_pct": 7.07
+      "price": 83.63,
+      "change_pct": 8.83
     },
     "BNB": {
-      "price": 617.46,
-      "change_pct": 2.51
+      "price": 621.81,
+      "change_pct": 3.2
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far"
+      "title": "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar"
     },
     {
       "source": "CNBC",
-      "title": "Moderna stock soars 177%, Merck jumps 12% after cancer vaccine shows promise in late-stage trial"
+      "title": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far"
     },
     {
       "source": "MarketWatch",
-      "title": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?"
+      "title": "The national debt just hit $40 trillion. Here\u2019s how it can hurt Americans."
     },
     {
       "source": "MarketWatch",
-      "title": "Moderna\u2019s experimental vaccine prevents cancer recurrence, in \u2018historic\u2019 win for personalized medicine. Its stock soared."
+      "title": "Moderna\u2019s cancer-vaccine breakthrough drives broad biopharma stock rally"
     }
   ]
 }
