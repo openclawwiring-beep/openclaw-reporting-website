@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 18 2026  21:34 PT",
+  "generated_at": "Tuesday, August 18 2026  22:27 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4404.7,
-      "change_pct": -0.06
+      "price": 4390.4,
+      "change_pct": -0.37
     },
     "Oil (WTI)": {
-      "price": 84.66,
-      "change_pct": -0.35
+      "price": 84.55,
+      "change_pct": -0.24
     },
     "Silver": {
-      "price": 62.94,
-      "change_pct": -0.18
+      "price": 62.65,
+      "change_pct": -0.57
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64289,
-      "change_pct": 0.25
+      "price": 64286,
+      "change_pct": 0.19
     },
     "ETH": {
-      "price": 1910.24,
+      "price": 1910.4,
       "change_pct": 0.84
     },
     "SOL": {
-      "price": 76.97,
-      "change_pct": 1.66
+      "price": 76.85,
+      "change_pct": 1.39
     },
     "BNB": {
-      "price": 601.86,
-      "change_pct": -0.16
+      "price": 601.09,
+      "change_pct": -0.3
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "China\u2019s backflipping robot maker Unitree pops 542% in Shanghai debut"
+      "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim"
     },
     {
       "source": "MarketWatch",
