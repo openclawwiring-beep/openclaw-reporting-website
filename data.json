@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 18 2026  19:37 PT",
+  "generated_at": "Tuesday, August 18 2026  20:44 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4413.6,
-      "change_pct": -0.78
+      "price": 4410.1,
+      "change_pct": -0.85
     },
     "Oil (WTI)": {
-      "price": 84.9,
-      "change_pct": -0.41
+      "price": 84.71,
+      "change_pct": -0.63
     },
     "Silver": {
-      "price": 63.26,
-      "change_pct": -3.13
+      "price": 63.17,
+      "change_pct": -3.26
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64347,
-      "change_pct": 0.39
+      "price": 64299,
+      "change_pct": 0.31
     },
     "ETH": {
-      "price": 1907.82,
-      "change_pct": 0.68
+      "price": 1910.72,
+      "change_pct": 0.95
     },
     "SOL": {
-      "price": 76.83,
-      "change_pct": 2.01
+      "price": 77.0,
+      "change_pct": 2.04
     },
     "BNB": {
-      "price": 602.26,
-      "change_pct": 0.02
+      "price": 601.51,
+      "change_pct": -0.26
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "China\u2019s backflipping robot maker Unitree pops 542% in Shanghai debut"
+      "title": "Trump pauses 50% scheduled tariffs on Canada for three days, announces 'deal' with Ottawa"
     },
     {
       "source": "CNBC",
-      "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim"
+      "title": "China\u2019s backflipping robot maker Unitree pops 542% in Shanghai debut"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Trump holds off on new 50% tariffs for Canadian goods"
     },
     {
       "source": "MarketWatch",
       "title": "Cerebras\u2019s stock has been a post-IPO bust. Its comeback hinges on this new chip."
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?"
     }
   ]
 }
