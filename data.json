@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 18 2026  16:46 PT",
+  "generated_at": "Tuesday, August 18 2026  18:08 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4382.7,
-      "change_pct": -1.47
+      "price": 4390.9,
+      "change_pct": -1.29
     },
     "Oil (WTI)": {
-      "price": 84.51,
-      "change_pct": -0.87
+      "price": 84.78,
+      "change_pct": -0.55
     },
     "Silver": {
-      "price": 62.86,
-      "change_pct": -3.74
+      "price": 63.06,
+      "change_pct": -3.44
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64735,
-      "change_pct": 0.48
+      "price": 64432,
+      "change_pct": 0.26
     },
     "ETH": {
-      "price": 1918.34,
-      "change_pct": 0.38
+      "price": 1915.1,
+      "change_pct": 0.49
     },
     "SOL": {
-      "price": 77.16,
-      "change_pct": 1.67
+      "price": 76.95,
+      "change_pct": 1.43
     },
     "BNB": {
-      "price": 603.7,
-      "change_pct": -0.28
+      "price": 604.0,
+      "change_pct": -0.06
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?"
+      "title": "Cerebras\u2019s stock has been a post-IPO bust. Its comeback hinges on this new chip."
     },
     {
       "source": "MarketWatch",
-      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?"
+      "title": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?"
     }
   ]
 }
