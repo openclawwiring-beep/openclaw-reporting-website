@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 19 2026  00:36 PT",
+  "generated_at": "Wednesday, August 19 2026  01:35 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4409.1,
-      "change_pct": 0.05
+      "price": 4414.0,
+      "change_pct": 0.11
     },
     "Oil (WTI)": {
-      "price": 84.65,
-      "change_pct": -0.12
+      "price": 84.52,
+      "change_pct": -0.19
     },
     "Silver": {
-      "price": 63.25,
-      "change_pct": 0.38
+      "price": 63.3,
+      "change_pct": 0.26
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64303,
-      "change_pct": 0.18
+      "price": 64317,
+      "change_pct": 0.21
     },
     "ETH": {
-      "price": 1917.28,
-      "change_pct": 1.03
+      "price": 1916.79,
+      "change_pct": 1.04
     },
     "SOL": {
-      "price": 76.95,
-      "change_pct": 1.3
+      "price": 77.14,
+      "change_pct": 1.64
     },
     "BNB": {
-      "price": 601.79,
-      "change_pct": -0.22
+      "price": 601.98,
+      "change_pct": -0.04
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Trump holds off on new 50% tariffs for Canadian goods"
+      "title": "My male co-workers with kids expect me to pick up their slack because I don\u2019t have children. Do I push back?"
     },
     {
       "source": "MarketWatch",
-      "title": "Cerebras\u2019s stock has been a post-IPO bust. Its comeback hinges on this new chip."
+      "title": "Trump holds off on new 50% tariffs for Canadian goods"
     }
   ]
 }
