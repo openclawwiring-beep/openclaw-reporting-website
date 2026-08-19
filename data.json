@@ -1,18 +1,18 @@
 {
-  "generated_at": "Wednesday, August 19 2026  05:42 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, August 19 2026  06:41 PT",
+  "market_status": "Live \u2014 as of 09:41 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7691.76,
-      "change_pct": -0.69
+      "price": 7713.22,
+      "change_pct": 0.26
     },
     "Nasdaq": {
-      "price": 26289.71,
-      "change_pct": -1.33
+      "price": 26296.68,
+      "change_pct": 0.03
     },
     "Dow Jones": {
-      "price": 53343.4,
-      "change_pct": -0.22
+      "price": 53449.94,
+      "change_pct": 0.19
     },
     "Russell 2000": {
       "price": 3017.89,
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4426.1,
-      "change_pct": 0.39
+      "price": 4520.2,
+      "change_pct": 2.52
     },
     "Oil (WTI)": {
-      "price": 84.36,
-      "change_pct": -0.38
+      "price": 84.47,
+      "change_pct": -0.25
     },
     "Silver": {
-      "price": 63.83,
-      "change_pct": 1.1
+      "price": 65.39,
+      "change_pct": 3.58
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64670,
-      "change_pct": 0.73
+      "price": 64831,
+      "change_pct": 1.05
     },
     "ETH": {
-      "price": 1925.93,
-      "change_pct": 1.43
+      "price": 1929.93,
+      "change_pct": 1.74
     },
     "SOL": {
-      "price": 77.65,
-      "change_pct": 1.85
+      "price": 78.32,
+      "change_pct": 2.86
     },
     "BNB": {
-      "price": 603.31,
-      "change_pct": 0.42
+      "price": 604.23,
+      "change_pct": 0.67
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%"
+      "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market"
     },
     {
       "source": "CNBC",
-      "title": "UAE severs trade with Iran after reported missile strike"
+      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%"
     },
     {
       "source": "MarketWatch",
-      "title": "Moderna\u2019s stock doubles on promising cancer-vaccine results"
+      "title": "Pressure on bonds abates as Treasury announces buybacks. What may come next."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018This is very stressful\u2019: My son\u2019s roof was damaged in a storm, but his insurance won\u2019t pay. Can he fight this?"
+      "title": "The bond selloff is rattling investors, but here\u2019s why they shouldn\u2019t expect a deeper stock downturn"
     }
   ]
 }
