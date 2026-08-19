@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 19 2026  13:53 PT",
+  "generated_at": "Wednesday, August 19 2026  14:23 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4578.6,
-      "change_pct": 3.85
+      "price": 4580.7,
+      "change_pct": 3.89
     },
     "Oil (WTI)": {
-      "price": 84.35,
-      "change_pct": -0.39
+      "price": 84.4,
+      "change_pct": -0.33
     },
     "Silver": {
-      "price": 66.82,
-      "change_pct": 5.84
+      "price": 67.13,
+      "change_pct": 6.33
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69194,
-      "change_pct": 7.18
+      "price": 69524,
+      "change_pct": 7.66
     },
     "ETH": {
-      "price": 2193.12,
-      "change_pct": 14.7
+      "price": 2265.11,
+      "change_pct": 18.45
     },
     "SOL": {
-      "price": 83.63,
-      "change_pct": 8.83
+      "price": 86.38,
+      "change_pct": 12.23
     },
     "BNB": {
-      "price": 621.81,
-      "change_pct": 3.2
+      "price": 628.98,
+      "change_pct": 4.38
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The national debt just hit $40 trillion. Here\u2019s how it can hurt Americans."
+      "title": "Why the Treasury market\u2019s newfound calm could break down in September"
     },
     {
       "source": "MarketWatch",
-      "title": "Moderna\u2019s cancer-vaccine breakthrough drives broad biopharma stock rally"
+      "title": "\u2018I brought my Super Bowl ring to the open houses\u2019: Seahawks player shares story of getting his real-estate license"
     }
   ]
 }
