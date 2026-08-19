@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, August 19 2026  10:24 PT",
-  "market_status": "Live \u2014 as of 13:24 ET",
+  "generated_at": "Wednesday, August 19 2026  10:49 PT",
+  "market_status": "Live \u2014 as of 13:49 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7712.71,
-      "change_pct": 0.25
+      "price": 7715.61,
+      "change_pct": 0.29
     },
     "Nasdaq": {
-      "price": 26322.12,
-      "change_pct": 0.12
+      "price": 26339.8,
+      "change_pct": 0.19
     },
     "Dow Jones": {
-      "price": 53438.49,
-      "change_pct": 0.17
+      "price": 53454.54,
+      "change_pct": 0.2
     },
     "Russell 2000": {
-      "price": 3036.98,
-      "change_pct": 0.64
+      "price": 3035.58,
+      "change_pct": 0.59
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4550.5,
-      "change_pct": 3.21
+      "price": 4546.2,
+      "change_pct": 3.11
     },
     "Oil (WTI)": {
-      "price": 85.61,
-      "change_pct": 1.1
+      "price": 85.21,
+      "change_pct": 0.63
     },
     "Silver": {
-      "price": 65.94,
-      "change_pct": 4.44
+      "price": 65.78,
+      "change_pct": 4.18
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68019,
-      "change_pct": 5.02
+      "price": 68138,
+      "change_pct": 5.37
     },
     "ETH": {
-      "price": 2071.48,
-      "change_pct": 8.18
+      "price": 2087.38,
+      "change_pct": 9.18
     },
     "SOL": {
-      "price": 81.17,
-      "change_pct": 5.51
+      "price": 81.55,
+      "change_pct": 6.01
     },
     "BNB": {
-      "price": 616.36,
-      "change_pct": 2.29
+      "price": 616.48,
+      "change_pct": 2.34
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Trump accounts\u2019 won\u2019t help solve Americans\u2019 savings problems. Here\u2019s a better way."
+      "title": "Apple\u2019s stock could be the savviest buy within Big Tech, according to this analysis"
     },
     {
       "source": "MarketWatch",
-      "title": "My male co-workers with kids expect me to pick up their slack because I don\u2019t have children. Do I push back?"
+      "title": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
     }
   ]
 }
