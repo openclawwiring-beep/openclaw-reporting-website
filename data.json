@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, August 20 2026  11:39 PT",
-  "market_status": "Live \u2014 as of 14:39 ET",
+  "generated_at": "Thursday, August 20 2026  12:29 PT",
+  "market_status": "Live \u2014 as of 15:29 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7653.38,
-      "change_pct": -0.71
+      "price": 7654.1,
+      "change_pct": -0.7
     },
     "Nasdaq": {
-      "price": 26047.16,
-      "change_pct": -1.08
+      "price": 26089.05,
+      "change_pct": -0.92
     },
     "Dow Jones": {
-      "price": 52843.03,
-      "change_pct": -1.17
+      "price": 52825.88,
+      "change_pct": -1.2
     },
     "Russell 2000": {
-      "price": 2992.26,
-      "change_pct": -1.34
+      "price": 2993.42,
+      "change_pct": -1.3
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4576.4,
-      "change_pct": 0.45
+      "price": 4583.6,
+      "change_pct": 0.61
     },
     "Oil (WTI)": {
-      "price": 86.89,
-      "change_pct": 2.84
+      "price": 86.7,
+      "change_pct": 2.62
     },
     "Silver": {
-      "price": 68.11,
-      "change_pct": 1.24
+      "price": 68.26,
+      "change_pct": 1.46
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72512,
-      "change_pct": 6.25
+      "price": 72585,
+      "change_pct": 6.35
     },
     "ETH": {
-      "price": 2314.83,
-      "change_pct": 10.93
+      "price": 2327.82,
+      "change_pct": 11.08
     },
     "SOL": {
-      "price": 86.84,
-      "change_pct": 5.94
+      "price": 87.35,
+      "change_pct": 6.17
     },
     "BNB": {
-      "price": 647.68,
-      "change_pct": 4.99
+      "price": 649.5,
+      "change_pct": 5.31
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Neocloud stocks like CoreWeave are having a moment \u2014 and time\u2019s running out to cash in"
+      "title": "Sports betting to build wealth is becoming the new American dream"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018There is considerable tension\u2019: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?"
+      "title": "The bond market is going to burst the stock-market bubble"
     }
   ]
 }
