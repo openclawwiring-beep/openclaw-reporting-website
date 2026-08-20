@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 20 2026  01:35 PT",
+  "generated_at": "Thursday, August 20 2026  02:32 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4552.2,
-      "change_pct": -0.08
+      "price": 4548.4,
+      "change_pct": -0.16
     },
     "Oil (WTI)": {
-      "price": 85.99,
-      "change_pct": 1.78
+      "price": 86.47,
+      "change_pct": 2.34
     },
     "Silver": {
-      "price": 66.91,
-      "change_pct": -0.55
+      "price": 66.88,
+      "change_pct": -0.6
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71242,
-      "change_pct": 10.75
+      "price": 71805,
+      "change_pct": 11.61
     },
     "ETH": {
-      "price": 2271.94,
-      "change_pct": 18.47
+      "price": 2284.79,
+      "change_pct": 19.03
     },
     "SOL": {
-      "price": 87.41,
-      "change_pct": 13.31
+      "price": 87.51,
+      "change_pct": 13.25
     },
     "BNB": {
-      "price": 638.6,
-      "change_pct": 6.08
+      "price": 643.05,
+      "change_pct": 6.78
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump announces 'economic warfare' on Iran, threatens \u2018tremendous\u2019 consequences for its backers"
+      "title": "Trump threatens 'Economic D-Day' for Iran and \u2018tremendous\u2019 consequences for its backers"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?"
+      "title": "Our 4-year-old son has $100,000 in his 529 account. Should we buy him stocks instead?"
     },
     {
       "source": "MarketWatch",
-      "title": "I hold my mother-in-law\u2019s power of attorney. I\u2019m also her executor and trustee. Do I have ultimate authority?"
+      "title": "Wrestler Logan Paul lists California \u2018LSD ranch\u2019 for $3 million"
     }
   ]
 }
