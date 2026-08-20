@@ -1,64 +1,64 @@
 {
-  "generated_at": "Thursday, August 20 2026  12:56 PT",
-  "market_status": "Live \u2014 as of 15:56 ET",
+  "generated_at": "Thursday, August 20 2026  13:31 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7642.08,
-      "change_pct": -0.86
+      "price": 7641.16,
+      "change_pct": -0.87
     },
     "Nasdaq": {
-      "price": 26060.83,
-      "change_pct": -1.03
+      "price": 26067.17,
+      "change_pct": -1.0
     },
     "Dow Jones": {
-      "price": 52779.51,
-      "change_pct": -1.29
+      "price": 52759.21,
+      "change_pct": -1.32
     },
     "Russell 2000": {
-      "price": 2992.76,
-      "change_pct": -1.32
+      "price": 2992.43,
+      "change_pct": -1.34
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4582.2,
-      "change_pct": 0.58
+      "price": 4578.2,
+      "change_pct": 0.49
     },
     "Oil (WTI)": {
-      "price": 86.62,
-      "change_pct": 2.52
+      "price": 86.49,
+      "change_pct": 2.37
     },
     "Silver": {
-      "price": 68.18,
-      "change_pct": 1.33
+      "price": 68.19,
+      "change_pct": 1.36
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72669,
-      "change_pct": 6.23
-    },
-    "ETH": {
-      "price": 2326.4,
-      "change_pct": 10.7
-    },
-    "SOL": {
-      "price": 87.19,
+      "price": 72812,
       "change_pct": 5.95
     },
+    "ETH": {
+      "price": 2326.11,
+      "change_pct": 9.35
+    },
+    "SOL": {
+      "price": 87.36,
+      "change_pct": 5.92
+    },
     "BNB": {
-      "price": 650.32,
-      "change_pct": 5.58
+      "price": 651.9,
+      "change_pct": 5.47
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow falls 600 points with stock losses increasing after a Treasury plan to tamp down yields fails: Live updates"
+      "title": "Dow tumbles 700 points, S&P 500 falls as Treasury plan to subdue yields fails"
     },
     {
       "source": "CNBC",
-      "title": "AI data center outrage is showing up everywhere from ads to elections"
+      "title": "Walmart stock tumbles 9% after outlook disappoints Wall Street"
     },
     {
       "source": "MarketWatch",
