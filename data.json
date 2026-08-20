@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 19 2026  22:58 PT",
+  "generated_at": "Wednesday, August 19 2026  23:56 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4538.2,
-      "change_pct": -0.38
+      "price": 4552.7,
+      "change_pct": 0.06
     },
     "Oil (WTI)": {
-      "price": 84.59,
-      "change_pct": 0.12
+      "price": 84.82,
+      "change_pct": 0.46
     },
     "Silver": {
-      "price": 66.94,
-      "change_pct": -0.51
+      "price": 67.24,
+      "change_pct": -0.07
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69336,
-      "change_pct": 7.98
+      "price": 69817,
+      "change_pct": 8.62
     },
     "ETH": {
-      "price": 2244.57,
-      "change_pct": 17.55
+      "price": 2262.24,
+      "change_pct": 18.19
     },
     "SOL": {
-      "price": 84.85,
-      "change_pct": 10.53
+      "price": 85.76,
+      "change_pct": 11.35
     },
     "BNB": {
-      "price": 624.39,
-      "change_pct": 3.9
+      "price": 628.6,
+      "change_pct": 4.51
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 futures are little changed after index snaps three-day slide: Live updates"
+      "title": "Trump announces 'economic warfare' on Iran, threatens \u2018tremendous\u2019 consequences for its backers"
     },
     {
       "source": "CNBC",
-      "title": "Trump announces 'economic warfare' on Iran, threatens \u2018tremendous\u2019 consequences for its backers"
+      "title": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act"
     },
     {
       "source": "MarketWatch",
