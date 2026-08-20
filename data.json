@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 20 2026  02:32 PT",
+  "generated_at": "Thursday, August 20 2026  03:27 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4548.4,
-      "change_pct": -0.16
+      "price": 4547.5,
+      "change_pct": -0.18
     },
     "Oil (WTI)": {
-      "price": 86.47,
-      "change_pct": 2.34
+      "price": 86.6,
+      "change_pct": 2.5
     },
     "Silver": {
-      "price": 66.88,
-      "change_pct": -0.6
+      "price": 67.07,
+      "change_pct": -0.32
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71805,
-      "change_pct": 11.61
+      "price": 72113,
+      "change_pct": 12.11
     },
     "ETH": {
-      "price": 2284.79,
-      "change_pct": 19.03
+      "price": 2284.31,
+      "change_pct": 19.21
     },
     "SOL": {
-      "price": 87.51,
-      "change_pct": 13.25
+      "price": 87.44,
+      "change_pct": 13.28
     },
     "BNB": {
-      "price": 643.05,
-      "change_pct": 6.78
+      "price": 644.06,
+      "change_pct": 7.01
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Our 4-year-old son has $100,000 in his 529 account. Should we buy him stocks instead?"
+      "title": "Why Bessent\u2019s Treasury operations have breathed life back into the gold trade"
     },
     {
       "source": "MarketWatch",
-      "title": "Wrestler Logan Paul lists California \u2018LSD ranch\u2019 for $3 million"
+      "title": "\u2018There is considerable tension\u2019: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?"
     }
   ]
 }
