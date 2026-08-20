@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 19 2026  19:36 PT",
+  "generated_at": "Wednesday, August 19 2026  20:44 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4550.5,
-      "change_pct": 3.21
+      "price": 4554.5,
+      "change_pct": 3.3
     },
     "Oil (WTI)": {
-      "price": 84.58,
-      "change_pct": -0.12
+      "price": 84.49,
+      "change_pct": -0.22
     },
     "Silver": {
-      "price": 67.15,
-      "change_pct": 6.36
+      "price": 67.19,
+      "change_pct": 6.43
     }
   },
   "crypto": {
     "BTC": {
-      "price": 69468,
-      "change_pct": 7.94
+      "price": 69059,
+      "change_pct": 7.41
     },
     "ETH": {
-      "price": 2259.92,
-      "change_pct": 18.42
+      "price": 2244.55,
+      "change_pct": 17.45
     },
     "SOL": {
-      "price": 85.01,
-      "change_pct": 10.62
+      "price": 84.39,
+      "change_pct": 9.61
     },
     "BNB": {
-      "price": 625.3,
-      "change_pct": 3.82
+      "price": 624.41,
+      "change_pct": 3.8
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. government debt passes $40 trillion, more than doubling in a decade"
+      "title": "S&P 500 futures are little changed after index snaps three-day slide: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed"
+      "title": "Trump announces 'economic warfare' on Iran, threatens \u2018tremendous\u2019 consequences for its backers"
     },
     {
       "source": "MarketWatch",
