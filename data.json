@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 20 2026  15:54 PT",
+  "generated_at": "Thursday, August 20 2026  16:23 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4578.9,
-      "change_pct": 0.51
+      "price": 4584.2,
+      "change_pct": 0.63
     },
     "Oil (WTI)": {
       "price": 86.29,
       "change_pct": 2.13
     },
     "Silver": {
-      "price": 68.29,
-      "change_pct": 1.51
+      "price": 68.4,
+      "change_pct": 1.66
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72769,
-      "change_pct": 5.3
+      "price": 72955,
+      "change_pct": 5.27
     },
     "ETH": {
-      "price": 2316.2,
-      "change_pct": 3.2
+      "price": 2325.41,
+      "change_pct": 3.49
     },
     "SOL": {
-      "price": 87.36,
-      "change_pct": 2.6
+      "price": 87.48,
+      "change_pct": 2.56
     },
     "BNB": {
-      "price": 654.38,
-      "change_pct": 4.33
+      "price": 656.2,
+      "change_pct": 4.75
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I hold my mother-in-law\u2019s power of attorney. I\u2019m also her executor and trustee. Do I have too much power over her affairs?"
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?"
     },
     {
       "source": "MarketWatch",
-      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?"
+      "title": "I hold my mother-in-law\u2019s power of attorney. I\u2019m also her executor and trustee. Do I have too much power over her affairs?"
     }
   ]
 }
