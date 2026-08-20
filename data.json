@@ -1,18 +1,18 @@
 {
-  "generated_at": "Thursday, August 20 2026  05:44 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, August 20 2026  06:44 PT",
+  "market_status": "Live \u2014 as of 09:44 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7707.98,
-      "change_pct": 0.21
+      "price": 7696.28,
+      "change_pct": -0.15
     },
     "Nasdaq": {
-      "price": 26331.09,
-      "change_pct": 0.16
+      "price": 26255.63,
+      "change_pct": -0.29
     },
     "Dow Jones": {
-      "price": 53463.05,
-      "change_pct": 0.22
+      "price": 53133.54,
+      "change_pct": -0.62
     },
     "Russell 2000": {
       "price": 3032.94,
@@ -21,19 +21,36 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4508.8,
-      "change_pct": -1.03
+      "price": 4530.1,
+      "change_pct": -0.56
     },
     "Oil (WTI)": {
-      "price": 87.51,
-      "change_pct": 3.57
+      "price": 86.84,
+      "change_pct": 2.78
     },
     "Silver": {
-      "price": 66.07,
-      "change_pct": -1.79
+      "price": 67.0,
+      "change_pct": -0.42
     }
   },
-  "crypto": {},
+  "crypto": {
+    "BTC": {
+      "price": 71430,
+      "change_pct": 10.23
+    },
+    "ETH": {
+      "price": 2268.52,
+      "change_pct": 17.6
+    },
+    "SOL": {
+      "price": 86.53,
+      "change_pct": 10.49
+    },
+    "BNB": {
+      "price": 639.53,
+      "change_pct": 5.85
+    }
+  },
   "headlines": [
     {
       "source": "CNBC",
@@ -45,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Want to bet on the bond rally? Check out these overlooked funds."
+      "title": "Treasury\u2019s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here\u2019s its advice for investors."
     },
     {
       "source": "MarketWatch",
-      "title": "Most of Gen Z is now afraid AI will steal their jobs."
+      "title": "Walmart\u2019s stock slides as U.S. sales are hit by falling drug prices"
     }
   ]
 }
