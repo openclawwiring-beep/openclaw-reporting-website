@@ -1,53 +1,53 @@
 {
-  "generated_at": "Thursday, August 20 2026  10:26 PT",
-  "market_status": "Live \u2014 as of 13:26 ET",
+  "generated_at": "Thursday, August 20 2026  10:56 PT",
+  "market_status": "Live \u2014 as of 13:56 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7667.62,
-      "change_pct": -0.52
+      "price": 7665.5,
+      "change_pct": -0.55
     },
     "Nasdaq": {
-      "price": 26094.58,
-      "change_pct": -0.9
+      "price": 26098.62,
+      "change_pct": -0.88
     },
     "Dow Jones": {
-      "price": 52955.51,
-      "change_pct": -0.96
+      "price": 52912.06,
+      "change_pct": -1.04
     },
     "Russell 2000": {
-      "price": 2994.78,
-      "change_pct": -1.25
+      "price": 2992.44,
+      "change_pct": -1.33
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4565.4,
-      "change_pct": 0.21
+      "price": 4575.2,
+      "change_pct": 0.43
     },
     "Oil (WTI)": {
-      "price": 86.29,
-      "change_pct": 2.13
+      "price": 86.66,
+      "change_pct": 2.57
     },
     "Silver": {
-      "price": 68.23,
-      "change_pct": 1.41
+      "price": 68.25,
+      "change_pct": 1.44
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72669,
-      "change_pct": 6.99
+      "price": 72832,
+      "change_pct": 6.84
     },
     "ETH": {
-      "price": 2339.41,
-      "change_pct": 12.92
+      "price": 2345.09,
+      "change_pct": 12.25
     },
     "SOL": {
-      "price": 87.53,
-      "change_pct": 7.94
+      "price": 87.77,
+      "change_pct": 7.53
     },
     "BNB": {
-      "price": 651.85,
+      "price": 653.47,
       "change_pct": 5.87
     }
   },
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Seahawks player on his real-estate side hustle: \u2018I brought my Super Bowl ring to the open houses\u2019"
+      "title": "U.S. bond yields are already surging again a day after Bessent\u2019s debt-buyback plan"
     },
     {
       "source": "MarketWatch",
-      "title": "Walmart\u2019s stock slides as investors worry that pressure on consumers is getting worse"
+      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?"
     }
   ]
 }
