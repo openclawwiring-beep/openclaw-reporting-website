@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 20 2026  04:33 PT",
+  "generated_at": "Thursday, August 20 2026  05:44 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,35 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4541.4,
-      "change_pct": -0.31
+      "price": 4508.8,
+      "change_pct": -1.03
     },
     "Oil (WTI)": {
-      "price": 87.02,
-      "change_pct": 2.99
+      "price": 87.51,
+      "change_pct": 3.57
     },
     "Silver": {
-      "price": 66.82,
-      "change_pct": -0.69
+      "price": 66.07,
+      "change_pct": -1.79
     }
   },
-  "crypto": {
-    "BTC": {
-      "price": 71860,
-      "change_pct": 11.47
-    },
-    "ETH": {
-      "price": 2293.4,
-      "change_pct": 19.35
-    },
-    "SOL": {
-      "price": 87.12,
-      "change_pct": 12.38
-    },
-    "BNB": {
-      "price": 642.36,
-      "change_pct": 6.62
-    }
-  },
+  "crypto": {},
   "headlines": [
+    {
+      "source": "CNBC",
+      "title": "Treasury yields rebound, wiping out the decline following Bessent's intervention"
+    },
     {
       "source": "CNBC",
       "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low"
     },
     {
-      "source": "CNBC",
-      "title": "Trump threatens 'Economic D-Day' for Iran and \u2018tremendous\u2019 consequences for its backers"
+      "source": "MarketWatch",
+      "title": "Want to bet on the bond rally? Check out these overlooked funds."
     },
     {
       "source": "MarketWatch",
-      "title": "We\u2019re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Treasury\u2019s bond buyback blitz may end up driving yields higher, warns JPMorgan. Here\u2019s their investment advice."
+      "title": "Most of Gen Z is now afraid AI will steal their jobs."
     }
   ]
 }
