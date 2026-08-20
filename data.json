@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 20 2026  03:27 PT",
+  "generated_at": "Thursday, August 20 2026  03:58 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4547.5,
-      "change_pct": -0.18
+      "price": 4546.6,
+      "change_pct": -0.2
     },
     "Oil (WTI)": {
-      "price": 86.6,
-      "change_pct": 2.5
+      "price": 86.7,
+      "change_pct": 2.62
     },
     "Silver": {
-      "price": 67.07,
-      "change_pct": -0.32
+      "price": 66.96,
+      "change_pct": -0.48
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72113,
-      "change_pct": 12.11
+      "price": 71848,
+      "change_pct": 11.61
     },
     "ETH": {
-      "price": 2284.31,
-      "change_pct": 19.21
+      "price": 2279.31,
+      "change_pct": 18.84
     },
     "SOL": {
-      "price": 87.44,
-      "change_pct": 13.28
+      "price": 87.16,
+      "change_pct": 12.78
     },
     "BNB": {
-      "price": 644.06,
-      "change_pct": 7.01
+      "price": 642.61,
+      "change_pct": 6.74
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why Bessent\u2019s Treasury operations have breathed life back into the gold trade"
+      "title": "Oil prices jump after Trump declares economic war on Iran"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018There is considerable tension\u2019: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?"
+      "title": "Why Bessent\u2019s Treasury operations have breathed life back into the gold trade"
     }
   ]
 }
