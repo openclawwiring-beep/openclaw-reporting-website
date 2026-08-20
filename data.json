@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, August 20 2026  06:44 PT",
-  "market_status": "Live \u2014 as of 09:44 ET",
+  "generated_at": "Thursday, August 20 2026  07:34 PT",
+  "market_status": "Live \u2014 as of 10:34 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7696.28,
-      "change_pct": -0.15
-    },
-    "Nasdaq": {
-      "price": 26255.63,
+      "price": 7685.71,
       "change_pct": -0.29
     },
+    "Nasdaq": {
+      "price": 26158.06,
+      "change_pct": -0.66
+    },
     "Dow Jones": {
-      "price": 53133.54,
-      "change_pct": -0.62
+      "price": 53129.36,
+      "change_pct": -0.63
     },
     "Russell 2000": {
-      "price": 3032.94,
-      "change_pct": 0.5
+      "price": 2999.56,
+      "change_pct": -1.1
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4530.1,
-      "change_pct": -0.56
+      "price": 4548.4,
+      "change_pct": -0.16
     },
     "Oil (WTI)": {
-      "price": 86.84,
-      "change_pct": 2.78
+      "price": 85.77,
+      "change_pct": 1.51
     },
     "Silver": {
-      "price": 67.0,
-      "change_pct": -0.42
+      "price": 67.57,
+      "change_pct": 0.44
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71430,
-      "change_pct": 10.23
+      "price": 71473,
+      "change_pct": 9.39
     },
     "ETH": {
-      "price": 2268.52,
-      "change_pct": 17.6
+      "price": 2276.26,
+      "change_pct": 17.69
     },
     "SOL": {
-      "price": 86.53,
-      "change_pct": 10.49
+      "price": 86.42,
+      "change_pct": 10.13
     },
     "BNB": {
-      "price": 639.53,
-      "change_pct": 5.85
+      "price": 641.26,
+      "change_pct": 5.92
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low"
+      "title": "AI data center outrage is showing up everywhere from ads to elections"
     },
     {
       "source": "MarketWatch",
-      "title": "Treasury\u2019s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here\u2019s its advice for investors."
+      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?"
     },
     {
       "source": "MarketWatch",
-      "title": "Walmart\u2019s stock slides as U.S. sales are hit by falling drug prices"
+      "title": "\u2018There is considerable tension\u2019: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?"
     }
   ]
 }
