@@ -1,54 +1,54 @@
 {
-  "generated_at": "Thursday, August 20 2026  08:31 PT",
-  "market_status": "Live \u2014 as of 11:31 ET",
+  "generated_at": "Thursday, August 20 2026  09:32 PT",
+  "market_status": "Live \u2014 as of 12:32 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7686.12,
-      "change_pct": -0.28
+      "price": 7673.48,
+      "change_pct": -0.45
     },
     "Nasdaq": {
-      "price": 26117.66,
-      "change_pct": -0.81
+      "price": 26100.66,
+      "change_pct": -0.88
     },
     "Dow Jones": {
-      "price": 53120.86,
-      "change_pct": -0.65
+      "price": 53000.86,
+      "change_pct": -0.87
     },
     "Russell 2000": {
-      "price": 3006.47,
-      "change_pct": -0.87
+      "price": 2995.62,
+      "change_pct": -1.23
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4588.9,
-      "change_pct": 0.73
+      "price": 4567.8,
+      "change_pct": 0.27
     },
     "Oil (WTI)": {
-      "price": 86.37,
-      "change_pct": 2.23
+      "price": 86.62,
+      "change_pct": 2.52
     },
     "Silver": {
-      "price": 68.89,
-      "change_pct": 2.4
+      "price": 68.11,
+      "change_pct": 1.23
     }
   },
   "crypto": {
     "BTC": {
-      "price": 72239,
-      "change_pct": 5.77
+      "price": 72302,
+      "change_pct": 5.08
     },
     "ETH": {
-      "price": 2303.3,
-      "change_pct": 10.91
+      "price": 2321.11,
+      "change_pct": 10.6
     },
     "SOL": {
-      "price": 86.88,
-      "change_pct": 5.97
+      "price": 86.96,
+      "change_pct": 6.11
     },
     "BNB": {
-      "price": 647.21,
-      "change_pct": 4.72
+      "price": 648.5,
+      "change_pct": 4.67
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Bessent suggests Treasury could intervene again in bond market: \u2018We have a big tool kit\u2019"
+      "title": "The rise in interest rates hit a \u2018raw nerve\u2019 at the White House. Bessent\u2019s plan has analysts on edge."
     },
     {
       "source": "MarketWatch",
-      "title": "The energy market\u2019s rising \u2018crack spread\u2019 is threatening to break the American consumer"
+      "title": "The biggest loser from the Treasury\u2019s latest buyback plan: The U.S. dollar. Here\u2019s why."
     }
   ]
 }
