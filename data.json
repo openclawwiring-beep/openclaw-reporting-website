@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, August 21 2026  15:50 PT",
+  "generated_at": "Friday, August 21 2026  16:21 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78394,
-      "change_pct": 7.83
+      "price": 78625,
+      "change_pct": 7.8
     },
     "ETH": {
-      "price": 2525.22,
-      "change_pct": 9.19
+      "price": 2533.11,
+      "change_pct": 8.93
     },
     "SOL": {
-      "price": 94.02,
-      "change_pct": 7.7
+      "price": 94.39,
+      "change_pct": 7.89
     },
     "BNB": {
-      "price": 689.3,
-      "change_pct": 5.38
+      "price": 690.87,
+      "change_pct": 5.28
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow surges 500 points Friday, but index posts back-to-back weekly losses: Live updates"
+      "title": "Dow surges 500 points Friday, but index posts back-to-back weekly losses"
     },
     {
       "source": "CNBC",
