@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, August 21 2026  04:32 PT",
+  "generated_at": "Friday, August 21 2026  05:42 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4657.9,
-      "change_pct": 1.46
+      "price": 4636.6,
+      "change_pct": 1.0
     },
     "Oil (WTI)": {
-      "price": 86.92,
-      "change_pct": 0.53
+      "price": 86.98,
+      "change_pct": 0.6
     },
     "Silver": {
-      "price": 70.0,
-      "change_pct": 1.54
+      "price": 69.39,
+      "change_pct": 0.65
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77395,
-      "change_pct": 7.69
+      "price": 77173,
+      "change_pct": 7.49
     },
     "ETH": {
-      "price": 2383.93,
-      "change_pct": 3.94
+      "price": 2385.51,
+      "change_pct": 4.64
     },
     "SOL": {
-      "price": 90.95,
-      "change_pct": 4.39
+      "price": 90.84,
+      "change_pct": 4.67
     },
     "BNB": {
-      "price": 677.24,
-      "change_pct": 5.43
+      "price": 677.57,
+      "change_pct": 5.67
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out"
+      "title": "Stock futures rise as Wall Street tries to recover from yield-driven selloff: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran"
+      "title": "U.S., Canada near final trade deal as Trump tariff deadline looms"
     },
     {
       "source": "MarketWatch",
-      "title": "Moderna\u2019s personalized mRNA shot could reshape the fight against skin cancer \u2014 but it may also be overhyped"
+      "title": "When it comes to stock buybacks, anything SK Hynix can do, Samsung can do bigger"
     },
     {
       "source": "MarketWatch",
-      "title": "The U.S. government plans to crack down on its $40 trillion debt \u2014 but brace for a \u2018wrenching time\u2019 ahead"
+      "title": "American consumers are delivering a retail reality check as they laser in on bargains"
     }
   ]
 }
