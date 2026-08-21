@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, August 21 2026  09:31 PT",
-  "market_status": "Live \u2014 as of 12:31 ET",
+  "generated_at": "Friday, August 21 2026  10:26 PT",
+  "market_status": "Live \u2014 as of 13:26 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7681.15,
-      "change_pct": 0.52
+      "price": 7675.87,
+      "change_pct": 0.45
     },
     "Nasdaq": {
-      "price": 26198.76,
-      "change_pct": 0.5
+      "price": 26180.31,
+      "change_pct": 0.43
     },
     "Dow Jones": {
-      "price": 53172.21,
-      "change_pct": 0.78
+      "price": 53166.71,
+      "change_pct": 0.77
     },
     "Russell 2000": {
-      "price": 3013.16,
-      "change_pct": 0.71
+      "price": 3013.64,
+      "change_pct": 0.72
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4672.8,
-      "change_pct": 1.78
+      "price": 4681.0,
+      "change_pct": 1.96
     },
     "Oil (WTI)": {
-      "price": 86.68,
-      "change_pct": 0.25
+      "price": 87.16,
+      "change_pct": 0.81
     },
     "Silver": {
-      "price": 69.63,
-      "change_pct": 1.0
+      "price": 69.76,
+      "change_pct": 1.19
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77313,
-      "change_pct": 6.93
+      "price": 77192,
+      "change_pct": 6.17
     },
     "ETH": {
-      "price": 2400.56,
-      "change_pct": 3.42
+      "price": 2404.32,
+      "change_pct": 2.68
     },
     "SOL": {
-      "price": 91.45,
-      "change_pct": 5.17
+      "price": 91.2,
+      "change_pct": 4.16
     },
     "BNB": {
-      "price": 678.16,
-      "change_pct": 4.57
+      "price": 676.76,
+      "change_pct": 3.8
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "6 AI hardware stocks to own for the remainder of the year, according to an analyst"
+      "title": "5 things to know about the Chinese e-commerce juggernaut Shein ahead of its IPO"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?"
+      "title": "Tesla\u2019s stock jumps as the company gets ready for a robotaxi push"
     }
   ]
 }
