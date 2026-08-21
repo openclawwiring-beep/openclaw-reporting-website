@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, August 21 2026  10:56 PT",
-  "market_status": "Live \u2014 as of 13:56 ET",
+  "generated_at": "Friday, August 21 2026  11:38 PT",
+  "market_status": "Live \u2014 as of 14:38 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7673.84,
-      "change_pct": 0.43
+      "price": 7670.55,
+      "change_pct": 0.38
     },
     "Nasdaq": {
-      "price": 26174.03,
-      "change_pct": 0.41
+      "price": 26148.8,
+      "change_pct": 0.31
     },
     "Dow Jones": {
-      "price": 53194.48,
-      "change_pct": 0.83
+      "price": 53239.29,
+      "change_pct": 0.91
     },
     "Russell 2000": {
-      "price": 3014.48,
-      "change_pct": 0.75
+      "price": 3015.2,
+      "change_pct": 0.77
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4675.9,
-      "change_pct": 1.85
+      "price": 4683.4,
+      "change_pct": 2.01
     },
     "Oil (WTI)": {
-      "price": 87.28,
-      "change_pct": 0.95
+      "price": 87.01,
+      "change_pct": 0.64
     },
     "Silver": {
-      "price": 69.56,
-      "change_pct": 0.9
+      "price": 69.7,
+      "change_pct": 1.1
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77376,
-      "change_pct": 6.25
+      "price": 77151,
+      "change_pct": 6.39
     },
     "ETH": {
-      "price": 2423.49,
-      "change_pct": 3.38
+      "price": 2419.55,
+      "change_pct": 4.51
     },
     "SOL": {
-      "price": 91.78,
-      "change_pct": 4.67
+      "price": 91.8,
+      "change_pct": 5.71
     },
     "BNB": {
-      "price": 679.37,
-      "change_pct": 3.99
+      "price": 677.71,
+      "change_pct": 4.65
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try"
+      "title": "Supreme Court allows Trump to continue White House ballroom construction for now"
     },
     {
       "source": "MarketWatch",
-      "title": "5 things to know about the Chinese e-commerce juggernaut Shein ahead of its IPO"
+      "title": "Trump, Vance and Bessent try to calm the bond market with \u2018alternative facts\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla\u2019s stock jumps as the company gets ready for a robotaxi push"
+      "title": "The Treasury, the Fed and the threat to your money"
     }
   ]
 }
