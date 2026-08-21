@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 20 2026  16:49 PT",
+  "generated_at": "Thursday, August 20 2026  18:11 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4579.7,
-      "change_pct": 0.53
+      "price": 4566.4,
+      "change_pct": 0.23
     },
     "Oil (WTI)": {
-      "price": 86.3,
-      "change_pct": 2.14
+      "price": 86.41,
+      "change_pct": 2.27
     },
     "Silver": {
-      "price": 68.25,
-      "change_pct": 1.45
+      "price": 68.06,
+      "change_pct": 1.16
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73111,
-      "change_pct": 5.67
+      "price": 73869,
+      "change_pct": 6.61
     },
     "ETH": {
-      "price": 2327.28,
-      "change_pct": 3.46
+      "price": 2342.9,
+      "change_pct": 4.03
     },
     "SOL": {
-      "price": 87.63,
-      "change_pct": 2.83
+      "price": 88.25,
+      "change_pct": 4.19
     },
     "BNB": {
-      "price": 655.54,
-      "change_pct": 4.67
+      "price": 656.78,
+      "change_pct": 4.88
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow tumbles 700 points, S&P 500 falls as Treasury plan to subdue yields fails"
+      "title": "Stock futures are little changed after a steep sell-off sparked by a move back higher in Treasury yields: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Walmart stock tumbles 9% after outlook disappoints Wall Street"
+      "title": "AI data center outrage is showing up everywhere from ads to elections"
     },
     {
       "source": "MarketWatch",
