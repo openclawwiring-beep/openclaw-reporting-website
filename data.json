@@ -1,18 +1,18 @@
 {
-  "generated_at": "Friday, August 21 2026  05:42 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, August 21 2026  06:42 PT",
+  "market_status": "Live \u2014 as of 09:42 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7641.16,
-      "change_pct": -0.87
+      "price": 7671.2,
+      "change_pct": 0.39
     },
     "Nasdaq": {
-      "price": 26067.17,
-      "change_pct": -1.0
+      "price": 26136.73,
+      "change_pct": 0.27
     },
     "Dow Jones": {
-      "price": 52759.21,
-      "change_pct": -1.32
+      "price": 53076.45,
+      "change_pct": 0.6
     },
     "Russell 2000": {
       "price": 2992.43,
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4636.6,
-      "change_pct": 1.0
+      "price": 4640.3,
+      "change_pct": 1.08
     },
     "Oil (WTI)": {
       "price": 86.98,
       "change_pct": 0.6
     },
     "Silver": {
-      "price": 69.39,
-      "change_pct": 0.65
+      "price": 69.66,
+      "change_pct": 1.04
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77173,
-      "change_pct": 7.49
+      "price": 77028,
+      "change_pct": 7.78
     },
     "ETH": {
-      "price": 2385.51,
-      "change_pct": 4.64
+      "price": 2390.1,
+      "change_pct": 5.29
     },
     "SOL": {
       "price": 90.84,
-      "change_pct": 4.67
+      "change_pct": 4.91
     },
     "BNB": {
-      "price": 677.57,
-      "change_pct": 5.67
+      "price": 678.02,
+      "change_pct": 6.05
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures rise as Wall Street tries to recover from yield-driven selloff: Live updates"
+      "title": "Stocks rebound after sell-off but remain on pace for weekly decline: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "When it comes to stock buybacks, anything SK Hynix can do, Samsung can do bigger"
+      "title": "Nvidia earnings could rescue a stalled-out stock market \u2014 if the AI chip maker breaks this trend"
     },
     {
       "source": "MarketWatch",
-      "title": "American consumers are delivering a retail reality check as they laser in on bargains"
+      "title": "I hold my mother-in-law\u2019s power of attorney. I\u2019m also her executor and trustee. Do I have too much power over her affairs?"
     }
   ]
 }
