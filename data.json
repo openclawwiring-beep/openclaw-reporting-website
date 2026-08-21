@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 20 2026  20:48 PT",
+  "generated_at": "Thursday, August 20 2026  21:35 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4586.2,
-      "change_pct": 0.67
+      "price": 4600.5,
+      "change_pct": 0.98
     },
     "Oil (WTI)": {
-      "price": 86.5,
-      "change_pct": 2.38
+      "price": 86.49,
+      "change_pct": 2.37
     },
     "Silver": {
-      "price": 68.82,
-      "change_pct": 2.28
+      "price": 69.12,
+      "change_pct": 2.73
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74672,
-      "change_pct": 7.94
+      "price": 74897,
+      "change_pct": 8.21
     },
     "ETH": {
-      "price": 2349.49,
-      "change_pct": 4.38
+      "price": 2347.65,
+      "change_pct": 4.37
     },
     "SOL": {
-      "price": 89.28,
-      "change_pct": 5.68
+      "price": 89.09,
+      "change_pct": 5.51
     },
     "BNB": {
-      "price": 660.8,
-      "change_pct": 5.78
+      "price": 659.92,
+      "change_pct": 5.65
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "AI data center outrage is showing up everywhere from ads to elections"
+      "title": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran"
     },
     {
       "source": "MarketWatch",
