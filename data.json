@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, August 21 2026  11:38 PT",
-  "market_status": "Live \u2014 as of 14:38 ET",
+  "generated_at": "Friday, August 21 2026  12:24 PT",
+  "market_status": "Live \u2014 as of 15:24 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7670.55,
-      "change_pct": 0.38
+      "price": 7679.53,
+      "change_pct": 0.5
     },
     "Nasdaq": {
-      "price": 26148.8,
-      "change_pct": 0.31
+      "price": 26187.97,
+      "change_pct": 0.46
     },
     "Dow Jones": {
-      "price": 53239.29,
-      "change_pct": 0.91
+      "price": 53330.48,
+      "change_pct": 1.08
     },
     "Russell 2000": {
-      "price": 3015.2,
-      "change_pct": 0.77
+      "price": 3017.78,
+      "change_pct": 0.86
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4683.4,
-      "change_pct": 2.01
+      "price": 4680.2,
+      "change_pct": 1.95
     },
     "Oil (WTI)": {
-      "price": 87.01,
-      "change_pct": 0.64
+      "price": 86.79,
+      "change_pct": 0.38
     },
     "Silver": {
-      "price": 69.7,
-      "change_pct": 1.1
+      "price": 69.59,
+      "change_pct": 0.94
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77151,
-      "change_pct": 6.39
+      "price": 77092,
+      "change_pct": 6.25
     },
     "ETH": {
-      "price": 2419.55,
-      "change_pct": 4.51
+      "price": 2410.93,
+      "change_pct": 3.61
     },
     "SOL": {
-      "price": 91.8,
-      "change_pct": 5.71
+      "price": 91.03,
+      "change_pct": 4.2
     },
     "BNB": {
-      "price": 677.71,
-      "change_pct": 4.65
+      "price": 674.88,
+      "change_pct": 3.95
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio"
+      "title": "Dow jumps 500 points, but stocks are still headed for a losing week: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Supreme Court allows Trump to continue White House ballroom construction for now"
+      "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump, Vance and Bessent try to calm the bond market with \u2018alternative facts\u2019"
+      "title": "Former JPMorgan exec takes on Social Security advisory role"
     },
     {
       "source": "MarketWatch",
-      "title": "The Treasury, the Fed and the threat to your money"
+      "title": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?"
     }
   ]
 }
