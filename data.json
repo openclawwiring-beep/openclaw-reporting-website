@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, August 21 2026  14:21 PT",
+  "generated_at": "Friday, August 21 2026  14:48 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77653,
-      "change_pct": 6.81
+      "price": 78307,
+      "change_pct": 7.68
     },
     "ETH": {
-      "price": 2453.24,
-      "change_pct": 5.79
+      "price": 2488.77,
+      "change_pct": 7.29
     },
     "SOL": {
-      "price": 92.34,
-      "change_pct": 5.43
+      "price": 93.1,
+      "change_pct": 6.37
     },
     "BNB": {
-      "price": 678.02,
-      "change_pct": 3.72
+      "price": 680.71,
+      "change_pct": 4.17
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Soon you can buy Medicare Advantage plans at Costco. What you need to know."
+      "title": "You can now Venmo your kid\u2019s college tuition. But should you?"
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla\u2019s stock jumps as the company gets cleared for a Las Vegas robotaxi launch"
+      "title": "Soon you can buy Medicare Advantage plans at Costco. What you need to know."
     }
   ]
 }
