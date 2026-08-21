@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, August 21 2026  03:58 PT",
+  "generated_at": "Friday, August 21 2026  04:32 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4648.5,
-      "change_pct": 1.25
+      "price": 4657.9,
+      "change_pct": 1.46
     },
     "Oil (WTI)": {
-      "price": 86.88,
-      "change_pct": 0.49
+      "price": 86.92,
+      "change_pct": 0.53
     },
     "Silver": {
-      "price": 69.51,
-      "change_pct": 0.83
+      "price": 70.0,
+      "change_pct": 1.54
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77833,
-      "change_pct": 8.27
+      "price": 77395,
+      "change_pct": 7.69
     },
     "ETH": {
-      "price": 2396.22,
-      "change_pct": 5.09
+      "price": 2383.93,
+      "change_pct": 3.94
     },
     "SOL": {
-      "price": 91.49,
-      "change_pct": 4.79
+      "price": 90.95,
+      "change_pct": 4.39
     },
     "BNB": {
-      "price": 679.27,
-      "change_pct": 5.65
+      "price": 677.24,
+      "change_pct": 5.43
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia earnings could rescue a stalling stock market \u2014 if the AI chip maker breaks this trend"
+      "title": "Moderna\u2019s personalized mRNA shot could reshape the fight against skin cancer \u2014 but it may also be overhyped"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s truly a tragedy\u2019: My daughter hasn\u2019t spoken to me for 4 years, but it has nothing to do with politics"
+      "title": "The U.S. government plans to crack down on its $40 trillion debt \u2014 but brace for a \u2018wrenching time\u2019 ahead"
     }
   ]
 }
