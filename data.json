@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, August 21 2026  13:49 PT",
+  "generated_at": "Friday, August 21 2026  14:21 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4665.9,
-      "change_pct": 1.63
+      "price": 4661.6,
+      "change_pct": 1.54
     },
     "Oil (WTI)": {
-      "price": 86.77,
-      "change_pct": 0.36
+      "price": 86.64,
+      "change_pct": 0.21
     },
     "Silver": {
-      "price": 68.92,
-      "change_pct": -0.03
+      "price": 69.01,
+      "change_pct": 0.1
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77372,
-      "change_pct": 6.38
+      "price": 77653,
+      "change_pct": 6.81
     },
     "ETH": {
-      "price": 2432.16,
-      "change_pct": 4.9
+      "price": 2453.24,
+      "change_pct": 5.79
     },
     "SOL": {
-      "price": 91.63,
-      "change_pct": 4.68
+      "price": 92.34,
+      "change_pct": 5.43
     },
     "BNB": {
-      "price": 674.24,
-      "change_pct": 3.39
+      "price": 678.02,
+      "change_pct": 3.72
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla\u2019s stock jumps as the company gets cleared for a Las Vegas robotaxi launch"
+      "title": "Soon you can buy Medicare Advantage plans at Costco. What you need to know."
     },
     {
       "source": "MarketWatch",
-      "title": "I plan to leave money to grandkids \u2014 but they must pass financial-literacy classes to get it. Is that fair?"
+      "title": "Tesla\u2019s stock jumps as the company gets cleared for a Las Vegas robotaxi launch"
     }
   ]
 }
