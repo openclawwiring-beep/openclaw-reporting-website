@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, August 21 2026  12:24 PT",
-  "market_status": "Live \u2014 as of 15:24 ET",
+  "generated_at": "Friday, August 21 2026  12:47 PT",
+  "market_status": "Live \u2014 as of 15:47 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7679.53,
-      "change_pct": 0.5
+      "price": 7684.24,
+      "change_pct": 0.56
     },
     "Nasdaq": {
-      "price": 26187.97,
-      "change_pct": 0.46
+      "price": 26214.13,
+      "change_pct": 0.56
     },
     "Dow Jones": {
-      "price": 53330.48,
+      "price": 53329.91,
       "change_pct": 1.08
     },
     "Russell 2000": {
-      "price": 3017.78,
-      "change_pct": 0.86
+      "price": 3017.95,
+      "change_pct": 0.87
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4680.2,
-      "change_pct": 1.95
+      "price": 4674.2,
+      "change_pct": 1.81
     },
     "Oil (WTI)": {
-      "price": 86.79,
-      "change_pct": 0.38
+      "price": 86.85,
+      "change_pct": 0.45
     },
     "Silver": {
-      "price": 69.59,
-      "change_pct": 0.94
+      "price": 69.4,
+      "change_pct": 0.67
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77092,
-      "change_pct": 6.25
+      "price": 77128,
+      "change_pct": 6.22
     },
     "ETH": {
-      "price": 2410.93,
-      "change_pct": 3.61
+      "price": 2415.9,
+      "change_pct": 3.78
     },
     "SOL": {
-      "price": 91.03,
-      "change_pct": 4.2
+      "price": 90.83,
+      "change_pct": 4.08
     },
     "BNB": {
-      "price": 674.88,
-      "change_pct": 3.95
+      "price": 674.3,
+      "change_pct": 3.76
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio"
+      "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin"
     },
     {
       "source": "MarketWatch",
