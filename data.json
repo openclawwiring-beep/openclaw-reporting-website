@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 20 2026  23:00 PT",
+  "generated_at": "Friday, August 21 2026  00:00 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4601.3,
-      "change_pct": 0.23
+      "price": 4624.2,
+      "change_pct": 0.73
     },
     "Oil (WTI)": {
-      "price": 86.45,
-      "change_pct": -0.01
+      "price": 86.38,
+      "change_pct": -0.09
     },
     "Silver": {
-      "price": 69.14,
-      "change_pct": 0.3
+      "price": 69.02,
+      "change_pct": 0.12
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75380,
-      "change_pct": 8.68
+      "price": 75548,
+      "change_pct": 8.23
     },
     "ETH": {
-      "price": 2363.21,
-      "change_pct": 5.16
+      "price": 2370.83,
+      "change_pct": 4.87
     },
     "SOL": {
-      "price": 90.36,
-      "change_pct": 6.47
+      "price": 90.12,
+      "change_pct": 5.0
     },
     "BNB": {
-      "price": 664.07,
-      "change_pct": 6.31
+      "price": 666.53,
+      "change_pct": 5.87
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures are little changed after a steep sell-off sparked by a move back higher in Treasury yields: Live updates"
+      "title": "Stock futures are flat after Treasury yield rebound sparks sell-off: Live updates"
     },
     {
       "source": "CNBC",
