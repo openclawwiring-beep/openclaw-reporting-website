@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, August 21 2026  08:30 PT",
-  "market_status": "Live \u2014 as of 11:30 ET",
+  "generated_at": "Friday, August 21 2026  09:31 PT",
+  "market_status": "Live \u2014 as of 12:31 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7678.06,
-      "change_pct": 0.48
+      "price": 7681.15,
+      "change_pct": 0.52
     },
     "Nasdaq": {
-      "price": 26173.12,
-      "change_pct": 0.41
+      "price": 26198.76,
+      "change_pct": 0.5
     },
     "Dow Jones": {
-      "price": 53160.16,
-      "change_pct": 0.76
+      "price": 53172.21,
+      "change_pct": 0.78
     },
     "Russell 2000": {
-      "price": 3007.14,
-      "change_pct": 0.51
+      "price": 3013.16,
+      "change_pct": 0.71
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4653.7,
-      "change_pct": 1.37
+      "price": 4672.8,
+      "change_pct": 1.78
     },
     "Oil (WTI)": {
-      "price": 86.82,
-      "change_pct": 0.42
+      "price": 86.68,
+      "change_pct": 0.25
     },
     "Silver": {
-      "price": 69.36,
-      "change_pct": 0.6
+      "price": 69.63,
+      "change_pct": 1.0
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77707,
-      "change_pct": 7.4
+      "price": 77313,
+      "change_pct": 6.93
     },
     "ETH": {
-      "price": 2401.27,
-      "change_pct": 3.98
+      "price": 2400.56,
+      "change_pct": 3.42
     },
     "SOL": {
-      "price": 91.66,
-      "change_pct": 5.4
+      "price": 91.45,
+      "change_pct": 5.17
     },
     "BNB": {
-      "price": 679.51,
-      "change_pct": 4.93
+      "price": 678.16,
+      "change_pct": 4.57
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try"
-    },
-    {
-      "source": "CNBC",
       "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio"
     },
     {
-      "source": "MarketWatch",
-      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?"
+      "source": "CNBC",
+      "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try"
     },
     {
       "source": "MarketWatch",
-      "title": "Social Security union says it needs $3 billion and another 20,000 workers to fix long wait times and \u2018ghost offices\u2019"
+      "title": "6 AI hardware stocks to own for the remainder of the year, according to an analyst"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?"
     }
   ]
 }
