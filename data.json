@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 22 2026  02:50 PT",
+  "generated_at": "Saturday, August 22 2026  03:20 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76986,
-      "change_pct": -1.59
+      "price": 76716,
+      "change_pct": -1.82
     },
     "ETH": {
-      "price": 2417.4,
-      "change_pct": 0.29
+      "price": 2398.5,
+      "change_pct": -0.43
     },
     "SOL": {
-      "price": 93.87,
-      "change_pct": 1.92
+      "price": 92.0,
+      "change_pct": 0.49
     },
     "BNB": {
-      "price": 697.66,
-      "change_pct": 2.54
+      "price": 687.08,
+      "change_pct": 1.15
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "You can now Venmo your kid\u2019s college tuition. But should you?"
+      "title": "\u2018She\u2019s desperate\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
     },
     {
       "source": "MarketWatch",
-      "title": "Soon you can buy Medicare Advantage plans at Costco. What you need to know."
+      "title": "This has been one of the most affordable U.S. cities to buy a home for the past 134 years"
     }
   ]
 }
