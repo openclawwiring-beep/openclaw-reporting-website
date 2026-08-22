@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 22 2026  06:30 PT",
+  "generated_at": "Saturday, August 22 2026  06:54 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77209,
-      "change_pct": 0.23
+      "price": 77295,
+      "change_pct": -0.24
     },
     "ETH": {
-      "price": 2427.2,
-      "change_pct": 1.69
+      "price": 2430.95,
+      "change_pct": 1.51
     },
     "SOL": {
-      "price": 93.84,
-      "change_pct": 3.45
+      "price": 94.11,
+      "change_pct": 3.4
     },
     "BNB": {
-      "price": 694.51,
-      "change_pct": 2.51
+      "price": 694.93,
+      "change_pct": 2.26
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?"
+      "title": "\u2018She\u2019s desperate\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
     },
     {
       "source": "MarketWatch",
-      "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week"
+      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?"
     }
   ]
 }
