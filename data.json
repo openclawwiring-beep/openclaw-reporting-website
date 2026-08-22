@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 22 2026  06:54 PT",
+  "generated_at": "Saturday, August 22 2026  07:19 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77295,
-      "change_pct": -0.24
+      "price": 77006,
+      "change_pct": 0.29
     },
     "ETH": {
-      "price": 2430.95,
-      "change_pct": 1.51
+      "price": 2417.7,
+      "change_pct": 1.66
     },
     "SOL": {
-      "price": 94.11,
-      "change_pct": 3.4
+      "price": 93.71,
+      "change_pct": 3.04
     },
     "BNB": {
-      "price": 694.93,
-      "change_pct": 2.26
+      "price": 692.72,
+      "change_pct": 2.36
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "U.S., Canada fail to reach a tariff deal, deepening trade war"
+      "title": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs"
     },
     {
       "source": "MarketWatch",
