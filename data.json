@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 22 2026  03:20 PT",
+  "generated_at": "Saturday, August 22 2026  03:49 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76716,
-      "change_pct": -1.82
+      "price": 77087,
+      "change_pct": -1.08
     },
     "ETH": {
-      "price": 2398.5,
-      "change_pct": -0.43
+      "price": 2414.13,
+      "change_pct": 0.55
     },
     "SOL": {
-      "price": 92.0,
-      "change_pct": 0.49
+      "price": 93.14,
+      "change_pct": 1.73
     },
     "BNB": {
-      "price": 687.08,
-      "change_pct": 1.15
+      "price": 691.78,
+      "change_pct": 1.79
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow surges 500 points Friday, but index posts back-to-back weekly losses"
+      "title": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'"
     },
     {
       "source": "CNBC",
-      "title": "Six investors reveal the biggest market risks \u2014 and one strategy they agree on"
+      "title": "Dow surges 500 points Friday, but index posts back-to-back weekly losses"
     },
     {
       "source": "MarketWatch",
