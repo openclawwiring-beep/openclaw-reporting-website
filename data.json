@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 22 2026  11:27 PT",
+  "generated_at": "Saturday, August 22 2026  11:58 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77297,
-      "change_pct": -0.13
+      "price": 77194,
+      "change_pct": 0.34
     },
     "ETH": {
-      "price": 2431.25,
-      "change_pct": 0.21
+      "price": 2424.63,
+      "change_pct": 0.51
     },
     "SOL": {
-      "price": 94.38,
-      "change_pct": 2.69
+      "price": 94.2,
+      "change_pct": 3.04
     },
     "BNB": {
-      "price": 697.8,
-      "change_pct": 2.75
+      "price": 697.3,
+      "change_pct": 3.21
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8"
+      "title": "Inside Coca-Cola\u2019s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers"
     },
     {
       "source": "CNBC",
-      "title": "Inside Coca-Cola\u2019s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers"
+      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down"
     },
     {
       "source": "MarketWatch",
       "title": "I hold my mother-in-law\u2019s power of attorney. I\u2019m also her executor and trustee. Do I have too much power over her affairs?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
     }
   ]
 }
