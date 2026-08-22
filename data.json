@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 22 2026  09:49 PT",
+  "generated_at": "Saturday, August 22 2026  10:18 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77465,
-      "change_pct": 0.09
+      "price": 77271,
+      "change_pct": -0.19
     },
     "ETH": {
-      "price": 2427.42,
-      "change_pct": 0.97
+      "price": 2424.26,
+      "change_pct": 0.51
     },
     "SOL": {
-      "price": 94.56,
-      "change_pct": 3.25
+      "price": 94.25,
+      "change_pct": 2.85
     },
     "BNB": {
-      "price": 696.9,
-      "change_pct": 2.49
+      "price": 696.28,
+      "change_pct": 2.6
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
+      "title": "I hold my mother-in-law\u2019s power of attorney. I\u2019m also her executor and trustee. Do I have too much power over her affairs?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She\u2019s desperate\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
+      "title": "\u2018I\u2019m running out of time\u2019: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?"
     }
   ]
 }
