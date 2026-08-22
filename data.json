@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 22 2026  12:47 PT",
+  "generated_at": "Saturday, August 22 2026  13:20 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77389,
-      "change_pct": 0.35
+      "price": 77374,
+      "change_pct": -0.05
     },
     "ETH": {
-      "price": 2433.75,
-      "change_pct": 0.71
+      "price": 2440.06,
+      "change_pct": 0.42
     },
     "SOL": {
-      "price": 94.71,
-      "change_pct": 4.3
+      "price": 94.57,
+      "change_pct": 3.37
     },
     "BNB": {
-      "price": 698.09,
-      "change_pct": 3.54
+      "price": 699.27,
+      "change_pct": 3.92
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down"
+      "title": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
     },
     {
       "source": "MarketWatch",
-      "title": "I hold my mother-in-law\u2019s power of attorney. I\u2019m also her executor and trustee. Do I have too much power over her affairs?"
+      "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down"
     }
   ]
 }
