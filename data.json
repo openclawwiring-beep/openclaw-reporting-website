@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 22 2026  03:49 PT",
+  "generated_at": "Saturday, August 22 2026  04:18 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77087,
-      "change_pct": -1.08
+      "price": 76837,
+      "change_pct": -0.74
     },
     "ETH": {
-      "price": 2414.13,
-      "change_pct": 0.55
+      "price": 2408.91,
+      "change_pct": 1.19
     },
     "SOL": {
-      "price": 93.14,
-      "change_pct": 1.73
+      "price": 92.82,
+      "change_pct": 2.1
     },
     "BNB": {
-      "price": 691.78,
-      "change_pct": 1.79
+      "price": 690.58,
+      "change_pct": 2.15
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She\u2019s desperate\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
+      "title": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?"
     },
     {
       "source": "MarketWatch",
-      "title": "This has been one of the most affordable U.S. cities to buy a home for the past 134 years"
+      "title": "A massive \u2018corporate welfare\u2019 program is underway \u2014 and consumers want a bigger cut of it"
     }
   ]
 }
