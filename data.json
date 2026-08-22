@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 22 2026  04:18 PT",
+  "generated_at": "Saturday, August 22 2026  04:45 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76837,
-      "change_pct": -0.74
+      "price": 77121,
+      "change_pct": 0.38
     },
     "ETH": {
-      "price": 2408.91,
-      "change_pct": 1.19
+      "price": 2422.4,
+      "change_pct": 2.09
     },
     "SOL": {
-      "price": 92.82,
-      "change_pct": 2.1
+      "price": 93.32,
+      "change_pct": 3.16
     },
     "BNB": {
-      "price": 690.58,
-      "change_pct": 2.15
+      "price": 694.53,
+      "change_pct": 3.06
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Dow surges 500 points Friday, but index posts back-to-back weekly losses"
+      "title": "U.S., Canada fail to reach a tariff deal, deepen trade war"
     },
     {
       "source": "MarketWatch",
