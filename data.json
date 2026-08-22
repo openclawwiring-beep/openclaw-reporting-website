@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 22 2026  05:35 PT",
+  "generated_at": "Saturday, August 22 2026  06:30 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77240,
-      "change_pct": 0.78
+      "price": 77209,
+      "change_pct": 0.23
     },
     "ETH": {
-      "price": 2432.37,
-      "change_pct": 2.47
+      "price": 2427.2,
+      "change_pct": 1.69
     },
     "SOL": {
-      "price": 93.96,
-      "change_pct": 4.03
+      "price": 93.84,
+      "change_pct": 3.45
     },
     "BNB": {
-      "price": 697.13,
-      "change_pct": 3.32
+      "price": 694.51,
+      "change_pct": 2.51
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Move over, credit cards: Social-media stars are tapping magic wands to buy things"
+      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?"
+      "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week"
     }
   ]
 }
