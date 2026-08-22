@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 22 2026  00:30 PT",
+  "generated_at": "Saturday, August 22 2026  00:56 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77409,
-      "change_pct": 1.42
+      "price": 77335,
+      "change_pct": 1.33
     },
     "ETH": {
-      "price": 2438.13,
-      "change_pct": 2.47
+      "price": 2436.25,
+      "change_pct": 2.74
     },
     "SOL": {
-      "price": 94.89,
-      "change_pct": 5.16
+      "price": 94.71,
+      "change_pct": 4.81
     },
     "BNB": {
-      "price": 704.31,
-      "change_pct": 5.0
+      "price": 707.05,
+      "change_pct": 5.61
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin"
+      "title": "Six investors reveal the biggest market risks \u2014 and one strategy they agree on"
     },
     {
       "source": "MarketWatch",
