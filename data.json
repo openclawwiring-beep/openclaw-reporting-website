@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 22 2026  07:47 PT",
+  "generated_at": "Saturday, August 22 2026  08:18 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76972,
-      "change_pct": -0.34
+      "price": 76943,
+      "change_pct": -0.9
     },
     "ETH": {
-      "price": 2413.81,
-      "change_pct": 1.11
+      "price": 2408.43,
+      "change_pct": 0.34
     },
     "SOL": {
-      "price": 93.41,
-      "change_pct": 2.01
+      "price": 93.04,
+      "change_pct": 1.39
     },
     "BNB": {
-      "price": 692.64,
-      "change_pct": 2.13
+      "price": 691.02,
+      "change_pct": 1.54
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers"
+      "title": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs"
     },
     {
       "source": "CNBC",
-      "title": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs"
+      "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers"
     },
     {
       "source": "MarketWatch",
