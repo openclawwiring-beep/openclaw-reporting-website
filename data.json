@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 23 2026  04:45 PT",
+  "generated_at": "Sunday, August 23 2026  05:36 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77287,
-      "change_pct": 0.18
+      "price": 77062,
+      "change_pct": -0.21
     },
     "ETH": {
-      "price": 2434.75,
-      "change_pct": 0.45
+      "price": 2423.47,
+      "change_pct": -0.29
     },
     "SOL": {
-      "price": 94.66,
-      "change_pct": 1.35
+      "price": 94.6,
+      "change_pct": 0.77
     },
     "BNB": {
-      "price": 694.86,
-      "change_pct": 0.02
+      "price": 692.74,
+      "change_pct": -0.35
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8"
+      "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
+      "title": "We\u2019re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?"
+      "title": "The Treasury\u2019s bond-market intervention isn\u2019t working. So what comes next?"
     }
   ]
 }
