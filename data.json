@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 23 2026  10:45 PT",
+  "generated_at": "Sunday, August 23 2026  11:26 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77227,
-      "change_pct": 0.04
+      "price": 77317,
+      "change_pct": 0.03
     },
     "ETH": {
-      "price": 2439.29,
-      "change_pct": 0.63
+      "price": 2445.83,
+      "change_pct": 0.6
     },
     "SOL": {
-      "price": 95.16,
-      "change_pct": 0.99
+      "price": 95.21,
+      "change_pct": 0.9
     },
     "BNB": {
-      "price": 697.22,
-      "change_pct": 0.15
+      "price": 699.26,
+      "change_pct": 0.22
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "We\u2019re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?"
+      "title": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?"
+      "title": "We\u2019re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?"
     }
   ]
 }
