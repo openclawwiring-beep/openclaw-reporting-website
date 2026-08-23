@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 23 2026  03:49 PT",
+  "generated_at": "Sunday, August 23 2026  04:19 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76842,
-      "change_pct": -0.28
+      "price": 76852,
+      "change_pct": 0.02
     },
     "ETH": {
-      "price": 2416.33,
-      "change_pct": 0.19
+      "price": 2418.77,
+      "change_pct": 0.4
     },
     "SOL": {
-      "price": 93.73,
-      "change_pct": 0.78
+      "price": 93.78,
+      "change_pct": 1.13
     },
     "BNB": {
-      "price": 690.42,
-      "change_pct": -0.21
+      "price": 691.76,
+      "change_pct": 0.13
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?"
+      "title": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
     },
     {
       "source": "MarketWatch",
-      "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down"
+      "title": "\u2018The estrangement isn\u2019t about politics\u2019: My daughter hasn\u2019t spoken to me for 4 years. Do I leave her a monthly annuity?"
     }
   ]
 }
