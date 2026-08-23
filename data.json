@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 23 2026  12:23 PT",
+  "generated_at": "Sunday, August 23 2026  12:44 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77370,
-      "change_pct": 0.15
+      "price": 77363,
+      "change_pct": 0.01
     },
     "ETH": {
-      "price": 2444.09,
-      "change_pct": 0.68
+      "price": 2445.31,
+      "change_pct": 0.54
     },
     "SOL": {
-      "price": 95.09,
-      "change_pct": 0.79
+      "price": 95.14,
+      "change_pct": 0.6
     },
     "BNB": {
-      "price": 699.29,
-      "change_pct": 0.3
+      "price": 699.24,
+      "change_pct": 0.22
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The market is obviously on fire\u2019: Should I take $1,000 from my brokerage account to pay off my car loan?"
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
+      "title": "\u2018The market is obviously on fire\u2019: Should I take $1,000 from my brokerage account to pay off my car loan?"
     }
   ]
 }
