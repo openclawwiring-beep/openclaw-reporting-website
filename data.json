@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 23 2026  15:47 PT",
+  "generated_at": "Sunday, August 23 2026  16:18 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4673.1,
-      "change_pct": -0.16
+      "price": 4664.4,
+      "change_pct": -0.35
     },
     "Oil (WTI)": {
-      "price": 86.34,
-      "change_pct": -0.83
+      "price": 86.14,
+      "change_pct": -1.06
     },
     "Silver": {
-      "price": 69.17,
-      "change_pct": -0.52
+      "price": 68.95,
+      "change_pct": -0.83
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77635,
-      "change_pct": 0.74
+      "price": 77478,
+      "change_pct": 0.64
     },
     "ETH": {
-      "price": 2458.42,
-      "change_pct": 1.77
+      "price": 2448.95,
+      "change_pct": 1.39
     },
     "SOL": {
-      "price": 95.53,
-      "change_pct": 1.87
+      "price": 95.22,
+      "change_pct": 1.74
     },
     "BNB": {
-      "price": 703.75,
-      "change_pct": 1.39
+      "price": 701.94,
+      "change_pct": 1.26
     }
   },
   "headlines": [
@@ -62,7 +62,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Stock futures slip as U.S. and Canada appear headed for trade war"
+      "title": "Stock futures flat as U.S. and Canada appear headed for trade war"
     },
     {
       "source": "MarketWatch",
