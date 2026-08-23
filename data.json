@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 23 2026  04:19 PT",
+  "generated_at": "Sunday, August 23 2026  04:45 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76852,
-      "change_pct": 0.02
+      "price": 77287,
+      "change_pct": 0.18
     },
     "ETH": {
-      "price": 2418.77,
-      "change_pct": 0.4
+      "price": 2434.75,
+      "change_pct": 0.45
     },
     "SOL": {
-      "price": 93.78,
-      "change_pct": 1.13
+      "price": 94.66,
+      "change_pct": 1.35
     },
     "BNB": {
-      "price": 691.76,
-      "change_pct": 0.13
+      "price": 694.86,
+      "change_pct": 0.02
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Inside Coca-Cola\u2019s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers"
+      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8"
     },
     {
       "source": "CNBC",
-      "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8"
+      "title": "Inside Coca-Cola\u2019s secretive innovation labs: How the beverage giant wants to automate dirty soda and refreshers"
     },
     {
       "source": "MarketWatch",
