@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 23 2026  09:22 PT",
+  "generated_at": "Sunday, August 23 2026  09:51 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77232,
-      "change_pct": 0.05
+      "price": 77385,
+      "change_pct": -0.05
     },
     "ETH": {
-      "price": 2442.37,
-      "change_pct": 0.94
+      "price": 2447.93,
+      "change_pct": 0.9
     },
     "SOL": {
-      "price": 95.25,
-      "change_pct": 1.44
+      "price": 95.37,
+      "change_pct": 1.03
     },
     "BNB": {
-      "price": 695.62,
-      "change_pct": 0.29
+      "price": 697.62,
+      "change_pct": 0.13
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia is the beating heart of the AI boom and the stock market \u2014 which sets up a big test"
+      "title": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
     },
     {
       "source": "MarketWatch",
-      "title": "We\u2019re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?"
+      "title": "Nvidia is the beating heart of the AI boom and the stock market \u2014 which sets up a big test"
     }
   ]
 }
