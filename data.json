@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 23 2026  14:44 PT",
+  "generated_at": "Sunday, August 23 2026  15:19 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -22,33 +22,33 @@
   "commodities": {
     "Gold": {
       "price": 4680.6,
-      "change_pct": 1.95
+      "change_pct": 0.0
     },
     "Oil (WTI)": {
       "price": 87.06,
-      "change_pct": 0.69
+      "change_pct": 0.0
     },
     "Silver": {
       "price": 69.53,
-      "change_pct": 0.86
+      "change_pct": 0.0
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77651,
-      "change_pct": 0.92
+      "price": 77724,
+      "change_pct": 0.82
     },
     "ETH": {
-      "price": 2461.69,
-      "change_pct": 2.06
+      "price": 2464.37,
+      "change_pct": 1.86
     },
     "SOL": {
-      "price": 95.25,
-      "change_pct": 2.29
+      "price": 95.34,
+      "change_pct": 1.82
     },
     "BNB": {
-      "price": 703.76,
-      "change_pct": 1.44
+      "price": 702.57,
+      "change_pct": 0.95
     }
   },
   "headlines": [
