@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, August 24 2026  06:49 PT",
-  "market_status": "Live \u2014 as of 09:49 ET",
+  "generated_at": "Monday, August 24 2026  07:39 PT",
+  "market_status": "Live \u2014 as of 10:39 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7648.14,
-      "change_pct": -0.34
+      "price": 7655.22,
+      "change_pct": -0.25
     },
     "Nasdaq": {
-      "price": 25945.99,
-      "change_pct": -0.9
+      "price": 26018.02,
+      "change_pct": -0.62
     },
     "Dow Jones": {
-      "price": 53450.0,
-      "change_pct": 0.32
+      "price": 53406.04,
+      "change_pct": 0.24
     },
     "Russell 2000": {
-      "price": 3007.41,
-      "change_pct": -0.35
+      "price": 3005.37,
+      "change_pct": -0.42
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4726.6,
-      "change_pct": 0.6
+      "price": 4731.1,
+      "change_pct": 0.7
     },
     "Oil (WTI)": {
-      "price": 85.84,
-      "change_pct": 0.25
+      "price": 84.86,
+      "change_pct": -0.9
     },
     "Silver": {
-      "price": 69.33,
-      "change_pct": 0.54
+      "price": 69.14,
+      "change_pct": 0.25
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78223,
-      "change_pct": 0.93
+      "price": 79669,
+      "change_pct": 2.86
     },
     "ETH": {
-      "price": 2489.42,
-      "change_pct": 1.4
+      "price": 2526.15,
+      "change_pct": 2.94
     },
     "SOL": {
-      "price": 94.85,
-      "change_pct": -0.61
+      "price": 96.37,
+      "change_pct": 1.01
     },
     "BNB": {
-      "price": 698.8,
-      "change_pct": 0.07
+      "price": 707.31,
+      "change_pct": 1.45
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said"
+      "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates"
     },
     {
       "source": "CNBC",
-      "title": "U.S. Trade Rep Greer blames Canada for failed tariff talks: 'They wanted more'"
+      "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said"
     },
     {
       "source": "MarketWatch",
-      "title": "This has been one of the most affordable U.S. cities to buy a home for more than 134 years"
+      "title": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m turning 70. Here\u2019s how I\u2019m making this decade the richest of my retirement."
+      "title": "Oil trades lower even as Bessent promises \u2018economic D-Day\u2019 announcement on Iran"
     }
   ]
 }
