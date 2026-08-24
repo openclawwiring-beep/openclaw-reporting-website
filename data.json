@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 23 2026  16:44 PT",
+  "generated_at": "Sunday, August 23 2026  18:11 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4675.4,
-      "change_pct": -0.11
+      "price": 4691.5,
+      "change_pct": 0.23
     },
     "Oil (WTI)": {
-      "price": 86.16,
-      "change_pct": -1.03
+      "price": 85.42,
+      "change_pct": -1.88
     },
     "Silver": {
-      "price": 69.19,
-      "change_pct": -0.49
+      "price": 69.5,
+      "change_pct": -0.04
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77481,
-      "change_pct": 0.62
+      "price": 77472,
+      "change_pct": 0.3
     },
     "ETH": {
-      "price": 2452.97,
-      "change_pct": 1.32
+      "price": 2455.85,
+      "change_pct": 1.16
     },
     "SOL": {
-      "price": 95.09,
-      "change_pct": 1.54
+      "price": 94.95,
+      "change_pct": -1.21
     },
     "BNB": {
-      "price": 700.54,
-      "change_pct": 1.07
+      "price": 702.21,
+      "change_pct": 0.52
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill"
+      "title": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran"
     },
     {
       "source": "MarketWatch",
