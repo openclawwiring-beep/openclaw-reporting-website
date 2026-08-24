@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 24 2026  03:35 PT",
+  "generated_at": "Monday, August 24 2026  04:26 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4700.8,
-      "change_pct": 0.06
+      "price": 4698.9,
+      "change_pct": 0.01
     },
     "Oil (WTI)": {
-      "price": 85.06,
-      "change_pct": -0.67
+      "price": 85.3,
+      "change_pct": -0.39
     },
     "Silver": {
-      "price": 68.89,
-      "change_pct": -0.09
+      "price": 68.85,
+      "change_pct": -0.17
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77928,
-      "change_pct": 1.42
+      "price": 77804,
+      "change_pct": 0.7
     },
     "ETH": {
-      "price": 2475.07,
-      "change_pct": 2.46
+      "price": 2467.91,
+      "change_pct": 1.56
     },
     "SOL": {
-      "price": 94.9,
-      "change_pct": 1.16
+      "price": 94.7,
+      "change_pct": 0.34
     },
     "BNB": {
-      "price": 701.32,
-      "change_pct": 1.41
+      "price": 700.18,
+      "change_pct": 0.81
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures"
+      "title": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one"
     },
     {
       "source": "MarketWatch",
-      "title": "5 things to know about the Chinese e-commerce juggernaut Shein ahead of its IPO"
+      "title": "Think Medicare Advantage provides better care for chronic conditions? A new study suggests otherwise."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?"
+      "title": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
     }
   ]
 }
