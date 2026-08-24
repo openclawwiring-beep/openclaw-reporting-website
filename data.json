@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, August 24 2026  05:45 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, August 24 2026  06:49 PT",
+  "market_status": "Live \u2014 as of 09:49 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7674.37,
-      "change_pct": 0.43
+      "price": 7648.14,
+      "change_pct": -0.34
     },
     "Nasdaq": {
-      "price": 26180.46,
-      "change_pct": 0.43
+      "price": 25945.99,
+      "change_pct": -0.9
     },
     "Dow Jones": {
-      "price": 53277.01,
-      "change_pct": 0.98
+      "price": 53450.0,
+      "change_pct": 0.32
     },
     "Russell 2000": {
-      "price": 3017.87,
-      "change_pct": 0.85
+      "price": 3007.41,
+      "change_pct": -0.35
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4715.3,
-      "change_pct": 0.36
+      "price": 4726.6,
+      "change_pct": 0.6
     },
     "Oil (WTI)": {
-      "price": 85.48,
-      "change_pct": -0.18
+      "price": 85.84,
+      "change_pct": 0.25
     },
     "Silver": {
-      "price": 69.18,
-      "change_pct": 0.31
+      "price": 69.33,
+      "change_pct": 0.54
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78769,
-      "change_pct": 2.01
+      "price": 78223,
+      "change_pct": 0.93
     },
     "ETH": {
-      "price": 2499.66,
-      "change_pct": 3.01
+      "price": 2489.42,
+      "change_pct": 1.4
     },
     "SOL": {
-      "price": 96.04,
-      "change_pct": 1.42
+      "price": 94.85,
+      "change_pct": -0.61
     },
     "BNB": {
-      "price": 704.4,
-      "change_pct": 1.45
+      "price": 698.8,
+      "change_pct": 0.07
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "There are six stocks that hedge funds and mutual funds are both overweight \u2014 and SpaceX is one"
+      "title": "This has been one of the most affordable U.S. cities to buy a home for more than 134 years"
     },
     {
       "source": "MarketWatch",
-      "title": "Temu owner\u2019s shares rise as results beat estimates despite tumbling profits"
+      "title": "I\u2019m turning 70. Here\u2019s how I\u2019m making this decade the richest of my retirement."
     }
   ]
 }
