@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, August 24 2026  07:39 PT",
-  "market_status": "Live \u2014 as of 10:39 ET",
+  "generated_at": "Monday, August 24 2026  08:36 PT",
+  "market_status": "Live \u2014 as of 11:36 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7655.22,
-      "change_pct": -0.25
+      "price": 7655.76,
+      "change_pct": -0.24
     },
     "Nasdaq": {
-      "price": 26018.02,
-      "change_pct": -0.62
+      "price": 26057.31,
+      "change_pct": -0.47
     },
     "Dow Jones": {
-      "price": 53406.04,
-      "change_pct": 0.24
+      "price": 53424.46,
+      "change_pct": 0.27
     },
     "Russell 2000": {
-      "price": 3005.37,
-      "change_pct": -0.42
+      "price": 2999.79,
+      "change_pct": -0.6
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4731.1,
-      "change_pct": 0.7
+      "price": 4729.6,
+      "change_pct": 0.67
     },
     "Oil (WTI)": {
       "price": 84.86,
       "change_pct": -0.9
     },
     "Silver": {
-      "price": 69.14,
-      "change_pct": 0.25
+      "price": 69.12,
+      "change_pct": 0.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79669,
-      "change_pct": 2.86
+      "price": 79805,
+      "change_pct": 3.39
     },
     "ETH": {
-      "price": 2526.15,
-      "change_pct": 2.94
+      "price": 2516.15,
+      "change_pct": 3.18
     },
     "SOL": {
-      "price": 96.37,
-      "change_pct": 1.01
+      "price": 96.93,
+      "change_pct": 1.27
     },
     "BNB": {
-      "price": 707.31,
-      "change_pct": 1.45
+      "price": 713.14,
+      "change_pct": 2.51
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?"
+      "title": "Think Medicare Advantage provides better care for chronic conditions? A new study suggests otherwise."
     },
     {
       "source": "MarketWatch",
-      "title": "Oil trades lower even as Bessent promises \u2018economic D-Day\u2019 announcement on Iran"
+      "title": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
     }
   ]
 }
