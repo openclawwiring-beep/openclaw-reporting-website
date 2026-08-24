@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, August 24 2026  10:59 PT",
-  "market_status": "Live \u2014 as of 13:59 ET",
+  "generated_at": "Monday, August 24 2026  11:51 PT",
+  "market_status": "Live \u2014 as of 14:51 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7650.94,
-      "change_pct": -0.3
+      "price": 7660.79,
+      "change_pct": -0.17
     },
     "Nasdaq": {
-      "price": 26013.63,
-      "change_pct": -0.64
+      "price": 26048.25,
+      "change_pct": -0.5
     },
     "Dow Jones": {
-      "price": 53351.53,
-      "change_pct": 0.14
+      "price": 53435.75,
+      "change_pct": 0.29
     },
     "Russell 2000": {
-      "price": 2993.14,
-      "change_pct": -0.82
+      "price": 2998.29,
+      "change_pct": -0.65
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4691.7,
-      "change_pct": -0.14
+      "price": 4690.0,
+      "change_pct": -0.17
     },
     "Oil (WTI)": {
-      "price": 84.93,
-      "change_pct": -0.82
+      "price": 85.07,
+      "change_pct": -0.65
     },
     "Silver": {
-      "price": 68.38,
-      "change_pct": -0.85
+      "price": 68.56,
+      "change_pct": -0.59
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78662,
-      "change_pct": 1.89
+      "price": 79036,
+      "change_pct": 2.26
     },
     "ETH": {
-      "price": 2465.92,
-      "change_pct": 1.02
+      "price": 2479.31,
+      "change_pct": 1.38
     },
     "SOL": {
-      "price": 95.26,
-      "change_pct": 0.13
+      "price": 96.22,
+      "change_pct": 1.08
     },
     "BNB": {
-      "price": 701.77,
-      "change_pct": 0.63
+      "price": 704.21,
+      "change_pct": 0.71
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Trump suggested states should fund Medicare \u2014 which would weaken the program and put Americans at risk"
+      "title": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
     },
     {
       "source": "MarketWatch",
-      "title": "Ford\u2019s $3 billion Canadian bet is getting caught in trade-war crosshairs"
+      "title": "Oil prices pull back as Bessent launches \u2018Operation Economic Outcast\u2019 against Iran but holds off on new secondary sanctions"
     }
   ]
 }
