@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 24 2026  01:50 PT",
+  "generated_at": "Monday, August 24 2026  02:44 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4693.2,
-      "change_pct": -0.11
+      "price": 4691.6,
+      "change_pct": -0.14
     },
     "Oil (WTI)": {
-      "price": 85.36,
-      "change_pct": -0.32
+      "price": 85.33,
+      "change_pct": -0.35
     },
     "Silver": {
-      "price": 68.84,
-      "change_pct": -0.17
+      "price": 68.66,
+      "change_pct": -0.44
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77066,
-      "change_pct": 0.74
+      "price": 77445,
+      "change_pct": 1.17
     },
     "ETH": {
-      "price": 2450.65,
-      "change_pct": 1.41
+      "price": 2461.52,
+      "change_pct": 2.08
     },
     "SOL": {
-      "price": 93.84,
-      "change_pct": 0.65
+      "price": 94.76,
+      "change_pct": 1.63
     },
     "BNB": {
-      "price": 695.11,
-      "change_pct": 0.86
+      "price": 698.32,
+      "change_pct": 1.5
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures"
+      "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war"
     },
     {
       "source": "CNBC",
-      "title": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran"
+      "title": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures"
     },
     {
       "source": "MarketWatch",
-      "title": "Samsung Electronics stock had its worst day in three weeks, and the other memory stocks are lower as well"
+      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?"
     },
     {
       "source": "MarketWatch",
-      "title": "There are six stocks that hedge funds and mutual funds are both overweight \u2014 and SpaceX is one"
+      "title": "Alibaba shares tumble as investors question whether AI spending splurge is justified"
     }
   ]
 }
