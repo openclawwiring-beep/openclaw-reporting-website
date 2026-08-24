@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 24 2026  04:26 PT",
+  "generated_at": "Monday, August 24 2026  04:54 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4698.9,
-      "change_pct": 0.01
+      "price": 4715.1,
+      "change_pct": 0.36
     },
     "Oil (WTI)": {
-      "price": 85.3,
-      "change_pct": -0.39
+      "price": 85.13,
+      "change_pct": -0.58
     },
     "Silver": {
-      "price": 68.85,
-      "change_pct": -0.17
+      "price": 69.28,
+      "change_pct": 0.46
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77804,
-      "change_pct": 0.7
+      "price": 78137,
+      "change_pct": 1.18
     },
     "ETH": {
-      "price": 2467.91,
-      "change_pct": 1.56
+      "price": 2489.47,
+      "change_pct": 2.41
     },
     "SOL": {
-      "price": 94.7,
-      "change_pct": 0.34
+      "price": 95.56,
+      "change_pct": 0.96
     },
     "BNB": {
-      "price": 700.18,
-      "change_pct": 0.81
+      "price": 702.83,
+      "change_pct": 1.16
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war"
+      "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said"
     },
     {
       "source": "CNBC",
-      "title": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one"
+      "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war"
     },
     {
       "source": "MarketWatch",
