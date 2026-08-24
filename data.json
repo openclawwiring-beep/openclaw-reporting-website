@@ -1,54 +1,54 @@
 {
-  "generated_at": "Monday, August 24 2026  08:36 PT",
-  "market_status": "Live \u2014 as of 11:36 ET",
+  "generated_at": "Monday, August 24 2026  09:34 PT",
+  "market_status": "Live \u2014 as of 12:34 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7655.76,
-      "change_pct": -0.24
+      "price": 7663.81,
+      "change_pct": -0.13
     },
     "Nasdaq": {
-      "price": 26057.31,
-      "change_pct": -0.47
+      "price": 26083.7,
+      "change_pct": -0.37
     },
     "Dow Jones": {
-      "price": 53424.46,
+      "price": 53422.92,
       "change_pct": 0.27
     },
     "Russell 2000": {
-      "price": 2999.79,
-      "change_pct": -0.6
+      "price": 3002.19,
+      "change_pct": -0.52
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4729.6,
-      "change_pct": 0.67
+      "price": 4713.6,
+      "change_pct": 0.33
     },
     "Oil (WTI)": {
-      "price": 84.86,
-      "change_pct": -0.9
+      "price": 85.07,
+      "change_pct": -0.65
     },
     "Silver": {
-      "price": 69.12,
-      "change_pct": 0.24
+      "price": 68.79,
+      "change_pct": -0.25
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79805,
-      "change_pct": 3.39
+      "price": 79687,
+      "change_pct": 3.02
     },
     "ETH": {
-      "price": 2516.15,
-      "change_pct": 3.18
+      "price": 2497.86,
+      "change_pct": 2.02
     },
     "SOL": {
-      "price": 96.93,
-      "change_pct": 1.27
+      "price": 97.11,
+      "change_pct": 1.6
     },
     "BNB": {
-      "price": 713.14,
-      "change_pct": 2.51
+      "price": 709.22,
+      "change_pct": 1.89
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Think Medicare Advantage provides better care for chronic conditions? A new study suggests otherwise."
+      "title": "Make these 7 money moves before taking out a private student loan"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
+      "title": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
     }
   ]
 }
