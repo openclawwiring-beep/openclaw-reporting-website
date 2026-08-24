@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, August 24 2026  10:28 PT",
-  "market_status": "Live \u2014 as of 13:28 ET",
+  "generated_at": "Monday, August 24 2026  10:59 PT",
+  "market_status": "Live \u2014 as of 13:59 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7654.53,
-      "change_pct": -0.26
+      "price": 7650.94,
+      "change_pct": -0.3
     },
     "Nasdaq": {
-      "price": 26043.38,
-      "change_pct": -0.52
+      "price": 26013.63,
+      "change_pct": -0.64
     },
     "Dow Jones": {
-      "price": 53353.89,
+      "price": 53351.53,
       "change_pct": 0.14
     },
     "Russell 2000": {
-      "price": 2999.99,
-      "change_pct": -0.59
+      "price": 2993.14,
+      "change_pct": -0.82
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4709.3,
-      "change_pct": 0.24
+      "price": 4691.7,
+      "change_pct": -0.14
     },
     "Oil (WTI)": {
-      "price": 84.83,
-      "change_pct": -0.93
+      "price": 84.93,
+      "change_pct": -0.82
     },
     "Silver": {
-      "price": 68.85,
-      "change_pct": -0.17
+      "price": 68.38,
+      "change_pct": -0.85
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78578,
-      "change_pct": 1.71
+      "price": 78662,
+      "change_pct": 1.89
     },
     "ETH": {
-      "price": 2459.33,
-      "change_pct": 0.7
+      "price": 2465.92,
+      "change_pct": 1.02
     },
     "SOL": {
-      "price": 95.06,
-      "change_pct": -0.2
+      "price": 95.26,
+      "change_pct": 0.13
     },
     "BNB": {
-      "price": 699.64,
-      "change_pct": 0.3
+      "price": 701.77,
+      "change_pct": 0.63
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates"
+      "title": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt"
     },
     {
       "source": "CNBC",
-      "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said"
+      "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?"
+      "title": "Trump suggested states should fund Medicare \u2014 which would weaken the program and put Americans at risk"
     },
     {
       "source": "MarketWatch",
-      "title": "Dell\u2019s stock is up 235% this year \u2014 and earnings could propel it even higher, analysts say"
+      "title": "Ford\u2019s $3 billion Canadian bet is getting caught in trade-war crosshairs"
     }
   ]
 }
