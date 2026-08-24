@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 24 2026  04:54 PT",
+  "generated_at": "Monday, August 24 2026  05:45 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4715.1,
+      "price": 4715.3,
       "change_pct": 0.36
     },
     "Oil (WTI)": {
-      "price": 85.13,
-      "change_pct": -0.58
+      "price": 85.48,
+      "change_pct": -0.18
     },
     "Silver": {
-      "price": 69.28,
-      "change_pct": 0.46
+      "price": 69.18,
+      "change_pct": 0.31
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78137,
-      "change_pct": 1.18
+      "price": 78769,
+      "change_pct": 2.01
     },
     "ETH": {
-      "price": 2489.47,
-      "change_pct": 2.41
+      "price": 2499.66,
+      "change_pct": 3.01
     },
     "SOL": {
-      "price": 95.56,
-      "change_pct": 0.96
+      "price": 96.04,
+      "change_pct": 1.42
     },
     "BNB": {
-      "price": 702.83,
-      "change_pct": 1.16
+      "price": 704.4,
+      "change_pct": 1.45
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war"
+      "title": "U.S. Trade Rep Greer blames Canada for failed tariff talks: 'They wanted more'"
     },
     {
       "source": "MarketWatch",
-      "title": "Think Medicare Advantage provides better care for chronic conditions? A new study suggests otherwise."
+      "title": "There are six stocks that hedge funds and mutual funds are both overweight \u2014 and SpaceX is one"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
+      "title": "Temu owner\u2019s shares rise as results beat estimates despite tumbling profits"
     }
   ]
 }
