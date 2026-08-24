@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 23 2026  18:11 PT",
+  "generated_at": "Sunday, August 23 2026  19:44 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4691.5,
-      "change_pct": 0.23
+      "price": 4709.4,
+      "change_pct": 0.62
     },
     "Oil (WTI)": {
-      "price": 85.42,
-      "change_pct": -1.88
+      "price": 85.65,
+      "change_pct": -1.62
     },
     "Silver": {
-      "price": 69.5,
-      "change_pct": -0.04
+      "price": 69.25,
+      "change_pct": -0.4
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77472,
-      "change_pct": 0.3
+      "price": 77470,
+      "change_pct": 0.4
     },
     "ETH": {
-      "price": 2455.85,
-      "change_pct": 1.16
+      "price": 2447.0,
+      "change_pct": 1.19
     },
     "SOL": {
-      "price": 94.95,
-      "change_pct": -1.21
+      "price": 94.81,
+      "change_pct": 0.26
     },
     "BNB": {
-      "price": 702.21,
-      "change_pct": 0.52
+      "price": 701.0,
+      "change_pct": 0.91
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat"
+      "title": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures"
     },
     {
       "source": "CNBC",
