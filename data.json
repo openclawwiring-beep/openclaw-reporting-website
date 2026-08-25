@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, August 25 2026  06:48 PT",
-  "market_status": "Live \u2014 as of 09:48 ET",
+  "generated_at": "Tuesday, August 25 2026  07:42 PT",
+  "market_status": "Live \u2014 as of 10:42 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7682.3,
-      "change_pct": 0.39
+      "price": 7663.74,
+      "change_pct": 0.14
     },
     "Nasdaq": {
-      "price": 26205.89,
-      "change_pct": 0.87
+      "price": 26093.34,
+      "change_pct": 0.44
     },
     "Dow Jones": {
-      "price": 53446.26,
-      "change_pct": 0.05
+      "price": 53460.89,
+      "change_pct": 0.08
     },
     "Russell 2000": {
-      "price": 3011.49,
-      "change_pct": 0.54
+      "price": 3004.27,
+      "change_pct": 0.3
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4674.2,
-      "change_pct": -0.3
+      "price": 4684.7,
+      "change_pct": -0.08
     },
     "Oil (WTI)": {
-      "price": 82.36,
-      "change_pct": -3.59
+      "price": 82.69,
+      "change_pct": -3.21
     },
     "Silver": {
-      "price": 67.71,
-      "change_pct": -0.33
+      "price": 68.0,
+      "change_pct": 0.11
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78510,
-      "change_pct": 0.37
+      "price": 79134,
+      "change_pct": -0.77
     },
     "ETH": {
-      "price": 2461.25,
-      "change_pct": -1.13
+      "price": 2474.53,
+      "change_pct": -2.08
     },
     "SOL": {
-      "price": 97.21,
-      "change_pct": 2.49
+      "price": 98.09,
+      "change_pct": 1.57
     },
     "BNB": {
-      "price": 693.38,
-      "change_pct": -0.78
+      "price": 697.84,
+      "change_pct": -1.5
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
+      "title": "Dick\u2019s Sporting Goods\u2019 stock is having its worst day ever, as sneakers aren\u2019t selling without deeper discounts"
     },
     {
       "source": "MarketWatch",
-      "title": "Investors poured into Canadian ETFs right before trade talks broke down"
+      "title": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?"
     }
   ]
 }
