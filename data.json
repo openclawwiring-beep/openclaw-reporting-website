@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, August 25 2026  12:30 PT",
-  "market_status": "Live \u2014 as of 15:30 ET",
+  "generated_at": "Tuesday, August 25 2026  12:57 PT",
+  "market_status": "Live \u2014 as of 15:57 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7670.04,
-      "change_pct": 0.23
+      "price": 7679.64,
+      "change_pct": 0.35
     },
     "Nasdaq": {
-      "price": 26099.92,
-      "change_pct": 0.46
+      "price": 26154.59,
+      "change_pct": 0.67
     },
     "Dow Jones": {
-      "price": 53565.0,
-      "change_pct": 0.27
+      "price": 53595.09,
+      "change_pct": 0.33
     },
     "Russell 2000": {
-      "price": 3004.22,
-      "change_pct": 0.3
+      "price": 3006.01,
+      "change_pct": 0.36
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4723.9,
-      "change_pct": 0.76
+      "price": 4717.6,
+      "change_pct": 0.62
     },
     "Oil (WTI)": {
-      "price": 82.25,
-      "change_pct": -3.72
+      "price": 82.03,
+      "change_pct": -3.98
     },
     "Silver": {
-      "price": 69.23,
-      "change_pct": 1.91
+      "price": 68.92,
+      "change_pct": 1.45
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78949,
-      "change_pct": 0.12
+      "price": 78886,
+      "change_pct": 0.24
     },
     "ETH": {
-      "price": 2463.68,
-      "change_pct": -0.25
+      "price": 2461.63,
+      "change_pct": -0.29
     },
     "SOL": {
-      "price": 98.1,
-      "change_pct": 2.3
+      "price": 97.8,
+      "change_pct": 1.5
     },
     "BNB": {
-      "price": 698.37,
-      "change_pct": -0.66
+      "price": 697.65,
+      "change_pct": -0.62
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "U.S.-Canada trade war threatens to worsen inflation for both economies. Neither can afford it."
+      "title": "Has AI gotten any better at stock picking?"
     },
     {
       "source": "MarketWatch",
-      "title": "This chart shows exactly why investors should worry about rising yields \u2014 even if they don\u2019t own any bonds"
+      "title": "\u2018It\u2019s the ultimate regifting\u2019: My mom gave me a house. Should I transfer it back to her to reduce capital gains?"
     }
   ]
 }
