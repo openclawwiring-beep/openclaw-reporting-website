@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, August 25 2026  07:42 PT",
-  "market_status": "Live \u2014 as of 10:42 ET",
+  "generated_at": "Tuesday, August 25 2026  08:39 PT",
+  "market_status": "Live \u2014 as of 11:39 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7663.74,
-      "change_pct": 0.14
+      "price": 7669.64,
+      "change_pct": 0.22
     },
     "Nasdaq": {
-      "price": 26093.34,
-      "change_pct": 0.44
+      "price": 26127.51,
+      "change_pct": 0.57
     },
     "Dow Jones": {
-      "price": 53460.89,
-      "change_pct": 0.08
+      "price": 53450.82,
+      "change_pct": 0.06
     },
     "Russell 2000": {
-      "price": 3004.27,
-      "change_pct": 0.3
+      "price": 3007.1,
+      "change_pct": 0.4
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4684.7,
-      "change_pct": -0.08
+      "price": 4697.4,
+      "change_pct": 0.19
     },
     "Oil (WTI)": {
-      "price": 82.69,
-      "change_pct": -3.21
+      "price": 82.37,
+      "change_pct": -3.58
     },
     "Silver": {
-      "price": 68.0,
-      "change_pct": 0.11
+      "price": 68.33,
+      "change_pct": 0.59
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79134,
-      "change_pct": -0.77
+      "price": 79414,
+      "change_pct": -0.19
     },
     "ETH": {
-      "price": 2474.53,
-      "change_pct": -2.08
+      "price": 2477.02,
+      "change_pct": -1.23
     },
     "SOL": {
-      "price": 98.09,
-      "change_pct": 1.57
+      "price": 98.28,
+      "change_pct": 1.61
     },
     "BNB": {
-      "price": 697.84,
-      "change_pct": -1.5
+      "price": 698.96,
+      "change_pct": -1.72
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style"
+      "title": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods"
     },
     {
       "source": "CNBC",
-      "title": "Canada poised to retaliate against Trump tariffs: 'We're not waiting by the phone'"
+      "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style"
     },
     {
       "source": "MarketWatch",
-      "title": "Dick\u2019s Sporting Goods\u2019 stock is having its worst day ever, as sneakers aren\u2019t selling without deeper discounts"
+      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?"
+      "title": "Home prices in Chicago have risen the most in the U.S. over the past year"
     }
   ]
 }
