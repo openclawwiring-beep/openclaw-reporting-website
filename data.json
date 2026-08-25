@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 25 2026  15:24 PT",
+  "generated_at": "Tuesday, August 25 2026  15:54 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4721.6,
-      "change_pct": 0.71
+      "price": 4727.2,
+      "change_pct": 0.83
     },
     "Oil (WTI)": {
-      "price": 81.2,
-      "change_pct": -4.95
+      "price": 80.96,
+      "change_pct": -5.23
     },
     "Silver": {
-      "price": 68.86,
-      "change_pct": 1.37
+      "price": 68.95,
+      "change_pct": 1.5
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78821,
-      "change_pct": -0.02
+      "price": 78867,
+      "change_pct": 0.08
     },
     "ETH": {
-      "price": 2447.63,
-      "change_pct": -1.29
+      "price": 2452.91,
+      "change_pct": -1.05
     },
     "SOL": {
-      "price": 97.57,
-      "change_pct": 0.13
+      "price": 97.3,
+      "change_pct": -0.3
     },
     "BNB": {
-      "price": 696.14,
-      "change_pct": -0.88
+      "price": 696.95,
+      "change_pct": -0.76
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why Meta\u2019s stock could see a 50% rally, thanks to an overlooked AI wild card"
+      "title": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved."
     },
     {
       "source": "MarketWatch",
-      "title": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved."
+      "title": "Why Meta\u2019s stock could see a 50% rally, thanks to an overlooked AI wild card"
     }
   ]
 }
