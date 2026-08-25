@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, August 25 2026  09:34 PT",
-  "market_status": "Live \u2014 as of 12:34 ET",
+  "generated_at": "Tuesday, August 25 2026  10:29 PT",
+  "market_status": "Live \u2014 as of 13:29 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7675.19,
-      "change_pct": 0.29
+      "price": 7665.87,
+      "change_pct": 0.17
     },
     "Nasdaq": {
-      "price": 26140.41,
-      "change_pct": 0.62
+      "price": 26102.19,
+      "change_pct": 0.47
     },
     "Dow Jones": {
-      "price": 53492.89,
-      "change_pct": 0.14
+      "price": 53477.61,
+      "change_pct": 0.11
     },
     "Russell 2000": {
-      "price": 3004.46,
-      "change_pct": 0.31
+      "price": 3004.09,
+      "change_pct": 0.3
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4697.3,
-      "change_pct": 0.19
+      "price": 4698.9,
+      "change_pct": 0.23
     },
     "Oil (WTI)": {
-      "price": 82.2,
-      "change_pct": -3.78
+      "price": 82.23,
+      "change_pct": -3.75
     },
     "Silver": {
-      "price": 68.62,
-      "change_pct": 1.02
+      "price": 68.78,
+      "change_pct": 1.25
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79298,
-      "change_pct": -0.44
+      "price": 78803,
+      "change_pct": 0.13
     },
     "ETH": {
-      "price": 2475.03,
-      "change_pct": -0.86
+      "price": 2458.16,
+      "change_pct": -0.22
     },
     "SOL": {
-      "price": 98.3,
-      "change_pct": 1.21
+      "price": 97.59,
+      "change_pct": 2.58
     },
     "BNB": {
-      "price": 698.63,
-      "change_pct": -1.47
+      "price": 696.95,
+      "change_pct": -0.54
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s the ultimate regifting\u2019: My mom gave me a house. Should I transfer it back to her to reduce capital gains?"
+      "title": "Dick\u2019s Sporting Goods\u2019 epic drop hits other footwear giants, as shoppers sour on retro sneakers"
     },
     {
       "source": "MarketWatch",
-      "title": "Are older Americans spoiling the economy for everyone else?"
+      "title": "\u2018It\u2019s the ultimate regifting\u2019: My mom gave me a house. Should I transfer it back to her to reduce capital gains?"
     }
   ]
 }
