@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 25 2026  00:00 PT",
+  "generated_at": "Tuesday, August 25 2026  01:06 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4704.0,
-      "change_pct": 0.01
+      "price": 4686.8,
+      "change_pct": -0.03
     },
     "Oil (WTI)": {
-      "price": 84.48,
-      "change_pct": -1.11
+      "price": 84.49,
+      "change_pct": -1.1
     },
     "Silver": {
-      "price": 68.42,
-      "change_pct": 0.46
+      "price": 68.02,
+      "change_pct": 0.13
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80436,
-      "change_pct": 3.85
+      "price": 79774,
+      "change_pct": 3.24
     },
     "ETH": {
-      "price": 2497.5,
-      "change_pct": 1.68
+      "price": 2480.01,
+      "change_pct": 1.17
     },
     "SOL": {
-      "price": 100.54,
-      "change_pct": 6.38
+      "price": 100.16,
+      "change_pct": 6.51
     },
     "BNB": {
-      "price": 711.9,
-      "change_pct": 1.75
+      "price": 706.26,
+      "change_pct": 1.26
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
+      "title": "Bitcoin has beaten stocks and gold over six months. Now it\u2019s crossed the $80,000 mark."
     },
     {
       "source": "MarketWatch",
-      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?"
+      "title": "Investors poured into Canadian ETFs right before trade talks broke down"
     }
   ]
 }
