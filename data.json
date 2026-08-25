@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 24 2026  19:37 PT",
+  "generated_at": "Monday, August 24 2026  20:46 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -11,7 +11,7 @@
       "change_pct": -0.76
     },
     "Dow Jones": {
-      "price": 53417.16,
+      "price": 53417.2,
       "change_pct": 0.26
     },
     "Russell 2000": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4711.4,
-      "change_pct": 0.28
+      "price": 4696.6,
+      "change_pct": -0.03
     },
     "Oil (WTI)": {
-      "price": 85.72,
-      "change_pct": 0.11
+      "price": 85.38,
+      "change_pct": -0.29
     },
     "Silver": {
-      "price": 68.35,
-      "change_pct": -0.88
+      "price": 68.04,
+      "change_pct": -1.33
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80879,
-      "change_pct": 4.35
+      "price": 80637,
+      "change_pct": 4.71
     },
     "ETH": {
-      "price": 2517.35,
-      "change_pct": 2.8
+      "price": 2497.91,
+      "change_pct": 2.47
     },
     "SOL": {
-      "price": 101.87,
-      "change_pct": 7.24
+      "price": 101.37,
+      "change_pct": 7.96
     },
     "BNB": {
-      "price": 717.46,
-      "change_pct": 2.35
+      "price": 715.31,
+      "change_pct": 2.63
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt"
+      "title": "Bitcoin jumps 3%, closing in on $80,000 as rally gathers pace"
     },
     {
       "source": "MarketWatch",
