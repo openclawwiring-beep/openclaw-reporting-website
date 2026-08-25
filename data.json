@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 24 2026  22:29 PT",
+  "generated_at": "Monday, August 24 2026  22:59 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4699.3,
-      "change_pct": -0.09
+      "price": 4695.1,
+      "change_pct": -0.18
     },
     "Oil (WTI)": {
-      "price": 84.94,
-      "change_pct": -0.57
+      "price": 84.72,
+      "change_pct": -0.83
     },
     "Silver": {
-      "price": 68.13,
-      "change_pct": 0.03
+      "price": 67.91,
+      "change_pct": -0.29
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80606,
-      "change_pct": 4.55
+      "price": 80747,
+      "change_pct": 4.64
     },
     "ETH": {
-      "price": 2506.37,
-      "change_pct": 2.16
+      "price": 2508.92,
+      "change_pct": 2.48
     },
     "SOL": {
-      "price": 101.97,
-      "change_pct": 8.35
+      "price": 102.03,
+      "change_pct": 8.23
     },
     "BNB": {
-      "price": 717.15,
-      "change_pct": 2.72
+      "price": 716.85,
+      "change_pct": 2.52
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Gold hits over three-month high on dollar weakness, Treasury bond buyback plans"
+      "title": "Trump targets Iran\u2019s trade lifelines \u2014 here are the countries most exposed"
     },
     {
       "source": "CNBC",
