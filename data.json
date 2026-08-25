@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 25 2026  03:40 PT",
+  "generated_at": "Tuesday, August 25 2026  04:25 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4689.3,
-      "change_pct": 0.02
+      "price": 4696.3,
+      "change_pct": 0.17
     },
     "Oil (WTI)": {
-      "price": 82.32,
-      "change_pct": -3.64
+      "price": 82.41,
+      "change_pct": -3.54
     },
     "Silver": {
-      "price": 67.89,
-      "change_pct": -0.05
+      "price": 67.92,
+      "change_pct": -0.02
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79245,
+      "price": 79241,
       "change_pct": 1.8
     },
     "ETH": {
-      "price": 2477.29,
-      "change_pct": 0.32
+      "price": 2476.46,
+      "change_pct": 0.28
     },
     "SOL": {
-      "price": 99.35,
-      "change_pct": 4.82
+      "price": 98.91,
+      "change_pct": 4.33
     },
     "BNB": {
-      "price": 699.22,
-      "change_pct": -0.22
+      "price": 698.53,
+      "change_pct": -0.29
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump targets Iran\u2019s trade lifelines \u2014 here are the countries most exposed"
+      "title": "Dick's Sporting Goods misses revenue expectations, citing 'challenging' footwear market"
     },
     {
       "source": "CNBC",
-      "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse"
+      "title": "Trump targets Iran\u2019s trade lifelines \u2014 here are the countries most exposed"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?"
+      "title": "The debt-fueled AI build-out may already be too big to fail"
     },
     {
       "source": "MarketWatch",
-      "title": "One Wall Street measure of market fragility just hit its highest possible level. The last time it did, volatility spiked."
+      "title": "Stick with value stocks until everyone is talking about them \u2014 and they are still under the radar, this Wall Street firm says."
     }
   ]
 }
