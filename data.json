@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 25 2026  15:54 PT",
+  "generated_at": "Tuesday, August 25 2026  16:23 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4727.2,
-      "change_pct": 0.83
+      "price": 4724.9,
+      "change_pct": 0.78
     },
     "Oil (WTI)": {
-      "price": 80.96,
-      "change_pct": -5.23
+      "price": 81.0,
+      "change_pct": -5.19
     },
     "Silver": {
-      "price": 68.95,
-      "change_pct": 1.5
+      "price": 68.99,
+      "change_pct": 1.55
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78867,
-      "change_pct": 0.08
+      "price": 78768,
+      "change_pct": -0.08
     },
     "ETH": {
-      "price": 2452.91,
-      "change_pct": -1.05
+      "price": 2451.24,
+      "change_pct": -1.16
     },
     "SOL": {
-      "price": 97.3,
-      "change_pct": -0.3
+      "price": 97.03,
+      "change_pct": -1.01
     },
     "BNB": {
-      "price": 696.95,
-      "change_pct": -0.76
+      "price": 696.14,
+      "change_pct": -0.83
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved."
+      "title": "\u2018It\u2019s the ultimate regifting\u2019: My mom gave me a house. Should I transfer it back to her to reduce capital gains?"
     },
     {
       "source": "MarketWatch",
-      "title": "Why Meta\u2019s stock could see a 50% rally, thanks to an overlooked AI wild card"
+      "title": "Dick\u2019s Sporting Goods\u2019 epic drop hits other footwear giants, as shoppers sour on retro sneakers"
     }
   ]
 }
