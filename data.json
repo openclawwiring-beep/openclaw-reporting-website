@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 25 2026  02:07 PT",
+  "generated_at": "Tuesday, August 25 2026  02:59 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4682.7,
-      "change_pct": -0.12
+      "price": 4695.6,
+      "change_pct": 0.16
     },
     "Oil (WTI)": {
-      "price": 83.05,
-      "change_pct": -2.79
+      "price": 82.09,
+      "change_pct": -3.91
     },
     "Silver": {
-      "price": 67.81,
-      "change_pct": -0.18
+      "price": 68.08,
+      "change_pct": 0.23
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79715,
-      "change_pct": 3.33
+      "price": 79035,
+      "change_pct": 1.95
     },
     "ETH": {
-      "price": 2479.97,
-      "change_pct": 0.89
+      "price": 2470.39,
+      "change_pct": 0.37
     },
     "SOL": {
-      "price": 100.08,
-      "change_pct": 6.18
+      "price": 99.59,
+      "change_pct": 5.23
     },
     "BNB": {
-      "price": 702.75,
-      "change_pct": 0.82
+      "price": 698.12,
+      "change_pct": -0.13
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Lego posts record first-half revenue, CEO touts strong sales at high-end and value pricing"
+      "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse"
     },
     {
       "source": "MarketWatch",
-      "title": "Bitcoin has beaten stocks and gold over six months. Now it\u2019s crossed the $80,000 mark."
+      "title": "One Wall Street measure of market fragility just hit its highest possible level. The last time it did, volatility spiked."
     },
     {
       "source": "MarketWatch",
-      "title": "Investors poured into Canadian ETFs right before trade talks broke down"
+      "title": "He once mentored Scott Bessent. Now Stanley Druckenmiller is criticizing the treasury secretary."
     }
   ]
 }
