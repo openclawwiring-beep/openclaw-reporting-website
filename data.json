@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, August 25 2026  08:39 PT",
-  "market_status": "Live \u2014 as of 11:39 ET",
+  "generated_at": "Tuesday, August 25 2026  09:34 PT",
+  "market_status": "Live \u2014 as of 12:34 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7669.64,
-      "change_pct": 0.22
+      "price": 7675.19,
+      "change_pct": 0.29
     },
     "Nasdaq": {
-      "price": 26127.51,
-      "change_pct": 0.57
+      "price": 26140.41,
+      "change_pct": 0.62
     },
     "Dow Jones": {
-      "price": 53450.82,
-      "change_pct": 0.06
+      "price": 53492.89,
+      "change_pct": 0.14
     },
     "Russell 2000": {
-      "price": 3007.1,
-      "change_pct": 0.4
+      "price": 3004.46,
+      "change_pct": 0.31
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4697.4,
+      "price": 4697.3,
       "change_pct": 0.19
     },
     "Oil (WTI)": {
-      "price": 82.37,
-      "change_pct": -3.58
+      "price": 82.2,
+      "change_pct": -3.78
     },
     "Silver": {
-      "price": 68.33,
-      "change_pct": 0.59
+      "price": 68.62,
+      "change_pct": 1.02
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79414,
-      "change_pct": -0.19
+      "price": 79298,
+      "change_pct": -0.44
     },
     "ETH": {
-      "price": 2477.02,
-      "change_pct": -1.23
+      "price": 2475.03,
+      "change_pct": -0.86
     },
     "SOL": {
-      "price": 98.28,
-      "change_pct": 1.61
+      "price": 98.3,
+      "change_pct": 1.21
     },
     "BNB": {
-      "price": 698.96,
-      "change_pct": -1.72
+      "price": 698.63,
+      "change_pct": -1.47
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style"
+      "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail"
     },
     {
       "source": "MarketWatch",
-      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?"
+      "title": "\u2018It\u2019s the ultimate regifting\u2019: My mom gave me a house. Should I transfer it back to her to reduce capital gains?"
     },
     {
       "source": "MarketWatch",
-      "title": "Home prices in Chicago have risen the most in the U.S. over the past year"
+      "title": "Are older Americans spoiling the economy for everyone else?"
     }
   ]
 }
