@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 25 2026  04:25 PT",
+  "generated_at": "Tuesday, August 25 2026  04:54 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4696.3,
-      "change_pct": 0.17
+      "price": 4697.3,
+      "change_pct": 0.19
     },
     "Oil (WTI)": {
-      "price": 82.41,
-      "change_pct": -3.54
+      "price": 82.22,
+      "change_pct": -3.76
     },
     "Silver": {
-      "price": 67.92,
-      "change_pct": -0.02
+      "price": 68.08,
+      "change_pct": 0.23
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79241,
-      "change_pct": 1.8
+      "price": 79145,
+      "change_pct": 1.21
     },
     "ETH": {
-      "price": 2476.46,
-      "change_pct": 0.28
+      "price": 2481.95,
+      "change_pct": -0.41
     },
     "SOL": {
-      "price": 98.91,
-      "change_pct": 4.33
+      "price": 98.71,
+      "change_pct": 3.2
     },
     "BNB": {
-      "price": 698.53,
-      "change_pct": -0.29
+      "price": 697.83,
+      "change_pct": -0.7
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dick's Sporting Goods misses revenue expectations, citing 'challenging' footwear market"
+      "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style"
     },
     {
       "source": "CNBC",
-      "title": "Trump targets Iran\u2019s trade lifelines \u2014 here are the countries most exposed"
+      "title": "Oil drops 3% to 12-day low as Iran claims two-year plan to cope with Washington\u2019s \u2018economic D-Day\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "The debt-fueled AI build-out may already be too big to fail"
+      "title": "Why hire a warehouse worker for $30 per hour when a robot costs $10? JPMorgan expects booming humanoid demand."
     },
     {
       "source": "MarketWatch",
-      "title": "Stick with value stocks until everyone is talking about them \u2014 and they are still under the radar, this Wall Street firm says."
+      "title": "Stick with value stocks until everyone starts talking about them \u2014 and they are still under the radar, this Wall Street firm says"
     }
   ]
 }
