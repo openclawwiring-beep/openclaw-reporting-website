@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 25 2026  13:32 PT",
+  "generated_at": "Tuesday, August 25 2026  14:25 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4724.8,
-      "change_pct": 0.78
+      "price": 4715.9,
+      "change_pct": 0.59
     },
     "Oil (WTI)": {
-      "price": 80.33,
-      "change_pct": -5.97
+      "price": 81.09,
+      "change_pct": -5.08
     },
     "Silver": {
-      "price": 68.93,
-      "change_pct": 1.47
+      "price": 68.63,
+      "change_pct": 1.03
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78767,
-      "change_pct": 0.12
+      "price": 78342,
+      "change_pct": -0.74
     },
     "ETH": {
-      "price": 2456.33,
-      "change_pct": -0.46
+      "price": 2427.18,
+      "change_pct": -2.16
     },
     "SOL": {
-      "price": 97.63,
-      "change_pct": 1.81
+      "price": 96.27,
+      "change_pct": -0.43
     },
     "BNB": {
-      "price": 696.34,
-      "change_pct": -0.68
+      "price": 690.61,
+      "change_pct": -1.94
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Tax tips for TikTok stars, after judge says influencer can\u2019t write off his Grammy tickets"
+      "title": "Why Meta\u2019s stock could see a 50% rally, thanks to an overlooked AI wild card"
     },
     {
       "source": "MarketWatch",
-      "title": "Options traders are betting on the quietest Nvidia earnings reaction in years. It could be an opportunity for AI bulls."
+      "title": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved."
     }
   ]
 }
