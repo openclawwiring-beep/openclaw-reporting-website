@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 24 2026  21:36 PT",
+  "generated_at": "Monday, August 24 2026  22:29 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4685.6,
-      "change_pct": -0.38
+      "price": 4699.3,
+      "change_pct": -0.09
     },
     "Oil (WTI)": {
-      "price": 85.26,
-      "change_pct": -0.43
+      "price": 84.94,
+      "change_pct": -0.57
     },
     "Silver": {
-      "price": 67.88,
-      "change_pct": -0.34
+      "price": 68.13,
+      "change_pct": 0.03
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80274,
-      "change_pct": 4.03
+      "price": 80606,
+      "change_pct": 4.55
     },
     "ETH": {
-      "price": 2493.84,
-      "change_pct": 2.12
+      "price": 2506.37,
+      "change_pct": 2.16
     },
     "SOL": {
-      "price": 101.31,
-      "change_pct": 7.58
+      "price": 101.97,
+      "change_pct": 8.35
     },
     "BNB": {
-      "price": 714.7,
-      "change_pct": 2.43
+      "price": 717.15,
+      "change_pct": 2.72
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation"
+      "title": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt"
     },
     {
       "source": "MarketWatch",
