@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 25 2026  14:53 PT",
+  "generated_at": "Tuesday, August 25 2026  15:24 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4715.9,
-      "change_pct": 0.59
+      "price": 4721.6,
+      "change_pct": 0.71
     },
     "Oil (WTI)": {
-      "price": 81.11,
-      "change_pct": -5.06
+      "price": 81.2,
+      "change_pct": -4.95
     },
     "Silver": {
-      "price": 68.63,
-      "change_pct": 1.03
+      "price": 68.86,
+      "change_pct": 1.37
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78578,
-      "change_pct": -0.49
+      "price": 78821,
+      "change_pct": -0.02
     },
     "ETH": {
-      "price": 2441.24,
-      "change_pct": -1.74
+      "price": 2447.63,
+      "change_pct": -1.29
     },
     "SOL": {
-      "price": 97.11,
-      "change_pct": -0.11
+      "price": 97.57,
+      "change_pct": 0.13
     },
     "BNB": {
-      "price": 692.69,
-      "change_pct": -1.61
+      "price": 696.14,
+      "change_pct": -0.88
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail"
+      "title": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates"
     },
     {
       "source": "MarketWatch",
