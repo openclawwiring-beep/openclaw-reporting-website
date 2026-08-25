@@ -1,54 +1,54 @@
 {
-  "generated_at": "Tuesday, August 25 2026  05:42 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, August 25 2026  06:48 PT",
+  "market_status": "Live \u2014 as of 09:48 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7652.86,
-      "change_pct": -0.28
+      "price": 7682.3,
+      "change_pct": 0.39
     },
     "Nasdaq": {
-      "price": 25980.19,
-      "change_pct": -0.76
+      "price": 26205.89,
+      "change_pct": 0.87
     },
     "Dow Jones": {
-      "price": 53417.16,
-      "change_pct": 0.26
+      "price": 53446.26,
+      "change_pct": 0.05
     },
     "Russell 2000": {
-      "price": 2995.08,
-      "change_pct": -0.76
+      "price": 3011.49,
+      "change_pct": 0.54
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4689.1,
-      "change_pct": 0.02
+      "price": 4674.2,
+      "change_pct": -0.3
     },
     "Oil (WTI)": {
-      "price": 82.4,
-      "change_pct": -3.55
+      "price": 82.36,
+      "change_pct": -3.59
     },
     "Silver": {
-      "price": 67.86,
-      "change_pct": -0.1
+      "price": 67.71,
+      "change_pct": -0.33
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78853,
-      "change_pct": 0.28
+      "price": 78510,
+      "change_pct": 0.37
     },
     "ETH": {
-      "price": 2464.72,
-      "change_pct": -1.28
+      "price": 2461.25,
+      "change_pct": -1.13
     },
     "SOL": {
-      "price": 98.02,
-      "change_pct": 2.2
+      "price": 97.21,
+      "change_pct": 2.49
     },
     "BNB": {
-      "price": 694.75,
-      "change_pct": -1.31
+      "price": 693.38,
+      "change_pct": -0.78
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Oil drops more than 3% on report U.S. plans to return evacuated diplomats to Middle East"
+      "title": "Canada poised to retaliate against Trump tariffs: 'We're not waiting by the phone'"
     },
     {
       "source": "MarketWatch",
-      "title": "Stick with value stocks until everyone starts talking about them \u2014 they\u2019re still under the radar, this Wall Street firm says"
+      "title": "\u2018She looked into COBRA\u2019: My friend was laid off and lost her health insurance. How can she find affordable coverage?"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump\u2019s trade war with Canada could lead the U.S. back to quantitative easing"
+      "title": "Investors poured into Canadian ETFs right before trade talks broke down"
     }
   ]
 }
