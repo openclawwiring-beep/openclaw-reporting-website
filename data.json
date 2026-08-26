@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 26 2026  03:33 PT",
+  "generated_at": "Wednesday, August 26 2026  04:27 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4674.7,
-      "change_pct": -0.56
+      "price": 4676.3,
+      "change_pct": -0.53
     },
     "Oil (WTI)": {
-      "price": 80.12,
-      "change_pct": -0.19
+      "price": 80.18,
+      "change_pct": -0.11
     },
     "Silver": {
-      "price": 68.5,
-      "change_pct": -1.1
+      "price": 68.47,
+      "change_pct": -1.14
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78614,
-      "change_pct": -0.84
+      "price": 78672,
+      "change_pct": -0.71
     },
     "ETH": {
-      "price": 2454.09,
-      "change_pct": -0.91
+      "price": 2465.99,
+      "change_pct": -0.4
     },
     "SOL": {
-      "price": 96.63,
-      "change_pct": -2.93
+      "price": 97.4,
+      "change_pct": -1.46
     },
     "BNB": {
-      "price": 697.73,
-      "change_pct": -0.2
+      "price": 705.66,
+      "change_pct": 1.09
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Amazon service Bezos once called 'artificial artificial intelligence' is shutting down"
+      "title": "Mortgage rates hit highest level in 3 weeks, weakening demand further"
     },
     {
       "source": "MarketWatch",
-      "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend."
+      "title": "\u2018It\u2019s the ultimate regifting\u2019: My mom gave me a house. Should I transfer it back to her to reduce capital gains?"
     },
     {
       "source": "MarketWatch",
-      "title": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved."
+      "title": "Wall Street\u2019s massive bet against long-term bonds is a recipe for a painful bearish unwind, says Citadel Securities"
     }
   ]
 }
