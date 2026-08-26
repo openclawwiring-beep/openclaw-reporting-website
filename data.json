@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 25 2026  22:32 PT",
+  "generated_at": "Tuesday, August 25 2026  23:45 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4698.9,
-      "change_pct": -0.13
+      "price": 4687.7,
+      "change_pct": -0.37
     },
     "Oil (WTI)": {
       "price": 80.69,
       "change_pct": 0.44
     },
     "Silver": {
-      "price": 69.12,
-      "change_pct": -0.48
+      "price": 68.77,
+      "change_pct": -0.98
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78998,
-      "change_pct": -2.03
+      "price": 78918,
+      "change_pct": -1.97
     },
     "ETH": {
-      "price": 2462.67,
-      "change_pct": -1.77
+      "price": 2459.11,
+      "change_pct": -1.73
     },
     "SOL": {
-      "price": 96.82,
-      "change_pct": -5.54
+      "price": 96.74,
+      "change_pct": -4.32
     },
     "BNB": {
-      "price": 695.58,
-      "change_pct": -3.01
+      "price": 697.09,
+      "change_pct": -2.24
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk"
+      "title": "Oil falls as the U.S. pivots to economic pressure on Iran"
     },
     {
       "source": "CNBC",
-      "title": "Sen. Darline Graham, Trump's pick for South Carolina Senate, wins GOP primary"
+      "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk"
     },
     {
       "source": "MarketWatch",
