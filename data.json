@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, August 26 2026  11:14 PT",
-  "market_status": "Live \u2014 as of 14:14 ET",
+  "generated_at": "Wednesday, August 26 2026  13:33 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7672.28,
-      "change_pct": -0.07
+      "price": 7675.7,
+      "change_pct": -0.02
     },
     "Nasdaq": {
-      "price": 26100.05,
-      "change_pct": -0.2
+      "price": 26130.2,
+      "change_pct": -0.08
     },
     "Dow Jones": {
-      "price": 53452.67,
-      "change_pct": -0.23
+      "price": 53463.88,
+      "change_pct": -0.21
     },
     "Russell 2000": {
-      "price": 3006.07,
-      "change_pct": -0.13
+      "price": 3005.9,
+      "change_pct": -0.14
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4658.3,
-      "change_pct": -0.91
+      "price": 4641.1,
+      "change_pct": -1.28
     },
     "Oil (WTI)": {
-      "price": 82.44,
-      "change_pct": 2.7
+      "price": 81.85,
+      "change_pct": 1.97
     },
     "Silver": {
-      "price": 68.14,
-      "change_pct": -1.61
+      "price": 67.92,
+      "change_pct": -1.93
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78605,
-      "change_pct": -0.89
+      "price": 78388,
+      "change_pct": -0.43
     },
     "ETH": {
-      "price": 2468.41,
-      "change_pct": -0.22
+      "price": 2468.96,
+      "change_pct": 0.62
     },
     "SOL": {
-      "price": 97.08,
-      "change_pct": -1.43
+      "price": 96.74,
+      "change_pct": -0.85
     },
     "BNB": {
-      "price": 699.38,
-      "change_pct": -0.18
+      "price": 699.17,
+      "change_pct": 0.45
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook"
+      "title": "Nvidia reports earnings beat as revenue more than doubles: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Meta settles social media addiction case with California, other states for $16.7 billion"
+      "title": "Salesforce stock jumps 14% on AI growth and Anthropic investment gain"
     },
     {
       "source": "MarketWatch",
-      "title": "5 affordable cities to retire in the U.S. right now"
+      "title": "Salesforce\u2019s stock surges as AI momentum fuels revenue growth"
     },
     {
       "source": "MarketWatch",
-      "title": "I need to get out of my job, but I\u2019ve signed a noncompete. Can I still leave for a competitor?"
+      "title": "\u2018The relationship quickly deteriorated\u2019: My friend\u2019s lawyer settled his injury case without his consent. What can he do?"
     }
   ]
 }
