@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 26 2026  02:39 PT",
+  "generated_at": "Wednesday, August 26 2026  03:33 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4672.8,
-      "change_pct": -0.6
+      "price": 4674.7,
+      "change_pct": -0.56
     },
     "Oil (WTI)": {
       "price": 80.12,
       "change_pct": -0.19
     },
     "Silver": {
-      "price": 68.47,
-      "change_pct": -1.14
+      "price": 68.5,
+      "change_pct": -1.1
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78504,
-      "change_pct": -1.64
+      "price": 78614,
+      "change_pct": -0.84
     },
     "ETH": {
-      "price": 2449.22,
-      "change_pct": -1.52
+      "price": 2454.09,
+      "change_pct": -0.91
     },
     "SOL": {
-      "price": 96.28,
-      "change_pct": -4.01
+      "price": 96.63,
+      "change_pct": -2.93
     },
     "BNB": {
-      "price": 695.54,
-      "change_pct": -1.02
+      "price": 697.73,
+      "change_pct": -0.2
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The relationship quickly deteriorated\u2019: My friend\u2019s lawyer settled his injury case without his consent. What can he do?"
+      "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend."
     },
     {
       "source": "MarketWatch",
-      "title": "Japan got caught in the tech selloff. Now it\u2019s time to buy the dip, says strategist."
+      "title": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved."
     }
   ]
 }
