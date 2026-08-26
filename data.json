@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 26 2026  00:43 PT",
+  "generated_at": "Wednesday, August 26 2026  01:40 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4690.8,
-      "change_pct": -0.3
+      "price": 4683.1,
+      "change_pct": -0.47
     },
     "Oil (WTI)": {
-      "price": 80.12,
-      "change_pct": -0.27
+      "price": 80.14,
+      "change_pct": -0.16
     },
     "Silver": {
-      "price": 68.85,
-      "change_pct": -0.87
+      "price": 68.54,
+      "change_pct": -1.32
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78993,
-      "change_pct": -1.88
-    },
-    "ETH": {
-      "price": 2465.21,
+      "price": 78894,
       "change_pct": -1.34
     },
+    "ETH": {
+      "price": 2461.18,
+      "change_pct": -1.07
+    },
     "SOL": {
-      "price": 97.01,
-      "change_pct": -4.43
+      "price": 97.1,
+      "change_pct": -3.38
     },
     "BNB": {
-      "price": 698.66,
-      "change_pct": -1.51
+      "price": 698.39,
+      "change_pct": -1.22
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Are older Americans spoiling the economy for everyone else?"
+      "title": "The S&P 500 has three hurdles to clear before a move to 8,000, says this strategist"
     },
     {
       "source": "MarketWatch",
-      "title": "5 cheap U.S. cities to retire in \u2014 if you can deal with this one thing"
+      "title": "Are older Americans spoiling the economy for everyone else?"
     }
   ]
 }
