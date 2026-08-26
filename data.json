@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 25 2026  23:45 PT",
+  "generated_at": "Wednesday, August 26 2026  00:43 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4687.7,
-      "change_pct": -0.37
+      "price": 4690.8,
+      "change_pct": -0.3
     },
     "Oil (WTI)": {
-      "price": 80.69,
-      "change_pct": 0.44
+      "price": 80.12,
+      "change_pct": -0.27
     },
     "Silver": {
-      "price": 68.77,
-      "change_pct": -0.98
+      "price": 68.85,
+      "change_pct": -0.87
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78918,
-      "change_pct": -1.97
+      "price": 78993,
+      "change_pct": -1.88
     },
     "ETH": {
-      "price": 2459.11,
-      "change_pct": -1.73
+      "price": 2465.21,
+      "change_pct": -1.34
     },
     "SOL": {
-      "price": 96.74,
-      "change_pct": -4.32
+      "price": 97.01,
+      "change_pct": -4.43
     },
     "BNB": {
-      "price": 697.09,
-      "change_pct": -2.24
+      "price": 698.66,
+      "change_pct": -1.51
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil falls as the U.S. pivots to economic pressure on Iran"
+      "title": "Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions"
     },
     {
       "source": "CNBC",
-      "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk"
+      "title": "Oil prices fall on Hormuz deal hopes, U.S. pivots to economic pressure on Iran"
     },
     {
       "source": "MarketWatch",
