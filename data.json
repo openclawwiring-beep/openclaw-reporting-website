@@ -1,54 +1,54 @@
 {
-  "generated_at": "Wednesday, August 26 2026  07:49 PT",
-  "market_status": "Live \u2014 as of 10:49 ET",
+  "generated_at": "Wednesday, August 26 2026  09:16 PT",
+  "market_status": "Live \u2014 as of 12:16 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7672.51,
-      "change_pct": -0.06
+      "price": 7668.17,
+      "change_pct": -0.12
     },
     "Nasdaq": {
-      "price": 26087.39,
-      "change_pct": -0.24
+      "price": 26053.73,
+      "change_pct": -0.37
     },
     "Dow Jones": {
-      "price": 53458.49,
-      "change_pct": -0.22
+      "price": 53441.48,
+      "change_pct": -0.25
     },
     "Russell 2000": {
-      "price": 3007.14,
-      "change_pct": -0.1
+      "price": 3002.63,
+      "change_pct": -0.25
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4673.8,
-      "change_pct": -0.58
+      "price": 4656.7,
+      "change_pct": -0.94
     },
     "Oil (WTI)": {
-      "price": 81.75,
-      "change_pct": 1.84
+      "price": 82.8,
+      "change_pct": 3.15
     },
     "Silver": {
-      "price": 68.29,
-      "change_pct": -1.4
+      "price": 67.99,
+      "change_pct": -1.83
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77946,
-      "change_pct": -1.6
+      "price": 78068,
+      "change_pct": -1.4
     },
     "ETH": {
-      "price": 2444.05,
-      "change_pct": -1.32
+      "price": 2450.58,
+      "change_pct": -0.93
     },
     "SOL": {
-      "price": 95.66,
-      "change_pct": -2.55
+      "price": 95.85,
+      "change_pct": -2.26
     },
     "BNB": {
-      "price": 695.99,
-      "change_pct": -0.3
+      "price": 696.89,
+      "change_pct": -0.18
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Fed\u2019s preferred inflation gauge shows core prices rose 3.3% annually in July"
+      "title": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook"
     },
     {
       "source": "MarketWatch",
-      "title": "China is collecting on old debts but won\u2019t pay its own"
+      "title": "Meta\u2019s stock rises after child-safety settlement \u2014 and looks poised to head even higher from here"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s the ultimate regifting\u2019: My mom gave me a house. Should I transfer it back to her to reduce capital gains?"
+      "title": "Bill Gates issues a stark warning about AI \u2014 and Americans increasingly share his concerns"
     }
   ]
 }
