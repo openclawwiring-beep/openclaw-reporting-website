@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, August 25 2026  18:12 PT",
+  "generated_at": "Tuesday, August 25 2026  19:46 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4696.7,
-      "change_pct": 0.18
+      "price": 4722.3,
+      "change_pct": 0.73
     },
     "Oil (WTI)": {
-      "price": 80.5,
-      "change_pct": -5.77
+      "price": 80.41,
+      "change_pct": -5.88
     },
     "Silver": {
-      "price": 68.38,
-      "change_pct": 0.66
+      "price": 69.57,
+      "change_pct": 2.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78795,
-      "change_pct": -1.09
+      "price": 79146,
+      "change_pct": -2.1
     },
     "ETH": {
-      "price": 2454.66,
-      "change_pct": -1.39
+      "price": 2466.94,
+      "change_pct": -2.04
     },
     "SOL": {
-      "price": 97.03,
-      "change_pct": -4.66
+      "price": 97.39,
+      "change_pct": -4.18
     },
     "BNB": {
-      "price": 695.28,
-      "change_pct": -2.09
+      "price": 697.67,
+      "change_pct": -2.52
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Sen. Darline Graham, Trump's pick for South Carolina Senate, wins GOP primary"
+      "title": "Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk"
     },
     {
       "source": "CNBC",
-      "title": "Oil drops more than 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war"
+      "title": "Sen. Darline Graham, Trump's pick for South Carolina Senate, wins GOP primary"
     },
     {
       "source": "MarketWatch",
-      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?"
+      "title": "Are older Americans spoiling the economy for everyone else?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?"
+      "title": "5 cheap U.S. cities to retire in \u2014 if you can deal with this one thing"
     }
   ]
 }
