@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, August 26 2026  09:16 PT",
-  "market_status": "Live \u2014 as of 12:16 ET",
+  "generated_at": "Wednesday, August 26 2026  11:14 PT",
+  "market_status": "Live \u2014 as of 14:14 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7668.17,
-      "change_pct": -0.12
+      "price": 7672.28,
+      "change_pct": -0.07
     },
     "Nasdaq": {
-      "price": 26053.73,
-      "change_pct": -0.37
+      "price": 26100.05,
+      "change_pct": -0.2
     },
     "Dow Jones": {
-      "price": 53441.48,
-      "change_pct": -0.25
+      "price": 53452.67,
+      "change_pct": -0.23
     },
     "Russell 2000": {
-      "price": 3002.63,
-      "change_pct": -0.25
+      "price": 3006.07,
+      "change_pct": -0.13
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4656.7,
-      "change_pct": -0.94
+      "price": 4658.3,
+      "change_pct": -0.91
     },
     "Oil (WTI)": {
-      "price": 82.8,
-      "change_pct": 3.15
+      "price": 82.44,
+      "change_pct": 2.7
     },
     "Silver": {
-      "price": 67.99,
-      "change_pct": -1.83
+      "price": 68.14,
+      "change_pct": -1.61
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78068,
-      "change_pct": -1.4
+      "price": 78605,
+      "change_pct": -0.89
     },
     "ETH": {
-      "price": 2450.58,
-      "change_pct": -0.93
+      "price": 2468.41,
+      "change_pct": -0.22
     },
     "SOL": {
-      "price": 95.85,
-      "change_pct": -2.26
+      "price": 97.08,
+      "change_pct": -1.43
     },
     "BNB": {
-      "price": 696.89,
+      "price": 699.38,
       "change_pct": -0.18
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Meta settles social media addiction case with California, other states for $16.7 billion"
-    },
-    {
-      "source": "CNBC",
       "title": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook"
     },
     {
-      "source": "MarketWatch",
-      "title": "Meta\u2019s stock rises after child-safety settlement \u2014 and looks poised to head even higher from here"
+      "source": "CNBC",
+      "title": "Meta settles social media addiction case with California, other states for $16.7 billion"
     },
     {
       "source": "MarketWatch",
-      "title": "Bill Gates issues a stark warning about AI \u2014 and Americans increasingly share his concerns"
+      "title": "5 affordable cities to retire in the U.S. right now"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I need to get out of my job, but I\u2019ve signed a noncompete. Can I still leave for a competitor?"
     }
   ]
 }
