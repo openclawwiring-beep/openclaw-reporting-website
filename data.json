@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 26 2026  17:27 PT",
+  "generated_at": "Thursday, August 27 2026  03:10 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4667.4,
-      "change_pct": -0.72
+      "price": 4631.9,
+      "change_pct": -1.01
     },
     "Oil (WTI)": {
-      "price": 81.64,
-      "change_pct": 1.71
+      "price": 82.35,
+      "change_pct": 0.62
     },
     "Silver": {
-      "price": 68.67,
-      "change_pct": -0.86
+      "price": 68.92,
+      "change_pct": -0.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78842,
-      "change_pct": 0.39
+      "price": 80101,
+      "change_pct": 2.26
     },
     "ETH": {
-      "price": 2500.87,
-      "change_pct": 2.41
+      "price": 2537.95,
+      "change_pct": 3.82
     },
     "SOL": {
-      "price": 101.32,
-      "change_pct": 5.18
+      "price": 104.73,
+      "change_pct": 9.04
     },
     "BNB": {
-      "price": 704.62,
-      "change_pct": 1.67
+      "price": 713.32,
+      "change_pct": 2.58
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia earnings takeaways: Huang forecasts 70% fiscal 2028 revenue growth, far above estimates"
+      "title": "Nvidia jumps 7% after blockbuster earnings boost AI confidence"
     },
     {
       "source": "CNBC",
-      "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain"
+      "title": "CIA chief John Ratcliffe reportedly made secretive Moscow trip to warn Russia against attacking NATO"
     },
     {
       "source": "MarketWatch",
-      "title": "Fed\u2019s Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office"
+      "title": "Nvidia stock is climbing after another set of blockbuster results. Here\u2019s what Wall Street is saying."
     },
     {
       "source": "MarketWatch",
-      "title": "Salesforce\u2019s stock gets an Anthropic boost \u2014 and more highlights from earnings"
+      "title": "Second straight rate hike for Asia\u2019s number-three economy as Nvidia-led AI expansion continues"
     }
   ]
 }
