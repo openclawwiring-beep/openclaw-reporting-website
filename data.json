@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, August 26 2026  13:33 PT",
+  "generated_at": "Wednesday, August 26 2026  17:27 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4641.1,
-      "change_pct": -1.28
+      "price": 4667.4,
+      "change_pct": -0.72
     },
     "Oil (WTI)": {
-      "price": 81.85,
-      "change_pct": 1.97
+      "price": 81.64,
+      "change_pct": 1.71
     },
     "Silver": {
-      "price": 67.92,
-      "change_pct": -1.93
+      "price": 68.67,
+      "change_pct": -0.86
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78388,
-      "change_pct": -0.43
+      "price": 78842,
+      "change_pct": 0.39
     },
     "ETH": {
-      "price": 2468.96,
-      "change_pct": 0.62
+      "price": 2500.87,
+      "change_pct": 2.41
     },
     "SOL": {
-      "price": 96.74,
-      "change_pct": -0.85
+      "price": 101.32,
+      "change_pct": 5.18
     },
     "BNB": {
-      "price": 699.17,
-      "change_pct": 0.45
+      "price": 704.62,
+      "change_pct": 1.67
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia reports earnings beat as revenue more than doubles: Live updates"
+      "title": "Nvidia earnings takeaways: Huang forecasts 70% fiscal 2028 revenue growth, far above estimates"
     },
     {
       "source": "CNBC",
-      "title": "Salesforce stock jumps 14% on AI growth and Anthropic investment gain"
+      "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain"
     },
     {
       "source": "MarketWatch",
-      "title": "Salesforce\u2019s stock surges as AI momentum fuels revenue growth"
+      "title": "Fed\u2019s Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The relationship quickly deteriorated\u2019: My friend\u2019s lawyer settled his injury case without his consent. What can he do?"
+      "title": "Salesforce\u2019s stock gets an Anthropic boost \u2014 and more highlights from earnings"
     }
   ]
 }
