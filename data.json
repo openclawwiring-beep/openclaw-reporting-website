@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, August 27 2026  22:06 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, August 28 2026  10:36 PT",
+  "market_status": "Live \u2014 as of 13:36 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7730.99,
-      "change_pct": 0.72
+      "price": 7711.78,
+      "change_pct": -0.24
     },
     "Nasdaq": {
-      "price": 26541.35,
-      "change_pct": 1.57
+      "price": 26424.44,
+      "change_pct": -0.44
     },
     "Dow Jones": {
-      "price": 53569.44,
-      "change_pct": 0.2
+      "price": 53543.53,
+      "change_pct": -0.03
     },
     "Russell 2000": {
-      "price": 3014.34,
-      "change_pct": 0.28
+      "price": 2979.15,
+      "change_pct": -1.17
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4634.3,
-      "change_pct": -0.06
+      "price": 4529.4,
+      "change_pct": -2.2
     },
     "Oil (WTI)": {
-      "price": 83.25,
-      "change_pct": -0.24
+      "price": 83.4,
+      "change_pct": 0.35
     },
     "Silver": {
-      "price": 69.65,
-      "change_pct": -0.11
+      "price": 67.72,
+      "change_pct": -2.65
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79698,
-      "change_pct": 1.32
+      "price": 77969,
+      "change_pct": -3.33
     },
     "ETH": {
-      "price": 2487.3,
-      "change_pct": 0.14
+      "price": 2444.14,
+      "change_pct": -3.12
     },
     "SOL": {
-      "price": 106.93,
-      "change_pct": 5.96
+      "price": 104.63,
+      "change_pct": -3.17
     },
     "BNB": {
-      "price": 709.0,
-      "change_pct": 1.04
+      "price": 694.4,
+      "change_pct": -2.46
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk"
+      "title": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike"
     },
     {
       "source": "CNBC",
-      "title": "Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal"
+      "title": "Trump loses bid to transfer New York hush money case to federal court"
     },
     {
       "source": "MarketWatch",
-      "title": "Judge says Trump administration\u2019s blacklist of Anthropic was illegal"
+      "title": "Should I use my financial institution\u2019s \u2018free\u2019 advisers?"
     },
     {
       "source": "MarketWatch",
-      "title": "Marvell boosts its forecasts, but the stock slides as Wall Street wonders if there\u2019s more to the story"
+      "title": "I\u2019m turning 70. Here\u2019s how I\u2019m making this decade the richest of my retirement."
     }
   ]
 }
