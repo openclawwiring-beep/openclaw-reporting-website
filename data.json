@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, August 27 2026  13:40 PT",
+  "generated_at": "Thursday, August 27 2026  22:06 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4657.5,
-      "change_pct": -0.46
+      "price": 4634.3,
+      "change_pct": -0.06
     },
     "Oil (WTI)": {
-      "price": 83.53,
-      "change_pct": 2.07
+      "price": 83.25,
+      "change_pct": -0.24
     },
     "Silver": {
-      "price": 70.07,
-      "change_pct": 1.59
+      "price": 69.65,
+      "change_pct": -0.11
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80003,
-      "change_pct": 2.09
+      "price": 79698,
+      "change_pct": 1.32
     },
     "ETH": {
-      "price": 2505.02,
-      "change_pct": 1.57
+      "price": 2487.3,
+      "change_pct": 0.14
     },
     "SOL": {
-      "price": 108.96,
-      "change_pct": 12.82
+      "price": 106.93,
+      "change_pct": 5.96
     },
     "BNB": {
-      "price": 709.81,
-      "change_pct": 1.67
+      "price": 709.0,
+      "change_pct": 1.04
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect"
+      "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk"
     },
     {
       "source": "CNBC",
-      "title": "SK Hynix CEO says Indiana will be key memory production base by 2030, first U.S. facility now underway"
+      "title": "Iran links Hormuz reopening to ending regional wars as Trump reportedly rejects return to June deal"
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia is getting too big, and that\u2019s a problem"
+      "title": "Judge says Trump administration\u2019s blacklist of Anthropic was illegal"
     },
     {
       "source": "MarketWatch",
-      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?"
+      "title": "Marvell boosts its forecasts, but the stock slides as Wall Street wonders if there\u2019s more to the story"
     }
   ]
 }
