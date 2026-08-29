@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, August 28 2026  10:36 PT",
-  "market_status": "Live \u2014 as of 13:36 ET",
+  "generated_at": "Friday, August 28 2026  18:28 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7711.78,
-      "change_pct": -0.24
+      "price": 7711.76,
+      "change_pct": -0.25
     },
     "Nasdaq": {
-      "price": 26424.44,
-      "change_pct": -0.44
+      "price": 26402.42,
+      "change_pct": -0.52
     },
     "Dow Jones": {
-      "price": 53543.53,
-      "change_pct": -0.03
+      "price": 53559.99,
+      "change_pct": -0.02
     },
     "Russell 2000": {
-      "price": 2979.15,
-      "change_pct": -1.17
+      "price": 2972.37,
+      "change_pct": -1.39
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4529.4,
-      "change_pct": -2.2
+      "price": 4504.1,
+      "change_pct": -2.75
     },
     "Oil (WTI)": {
-      "price": 83.4,
-      "change_pct": 0.35
+      "price": 83.44,
+      "change_pct": 0.4
     },
     "Silver": {
-      "price": 67.72,
-      "change_pct": -2.65
+      "price": 67.09,
+      "change_pct": -3.56
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77969,
-      "change_pct": -3.33
+      "price": 77756,
+      "change_pct": -4.08
     },
     "ETH": {
-      "price": 2444.14,
-      "change_pct": -3.12
+      "price": 2443.16,
+      "change_pct": -3.33
     },
     "SOL": {
-      "price": 104.63,
-      "change_pct": -3.17
+      "price": 104.02,
+      "change_pct": -5.02
     },
     "BNB": {
-      "price": 694.4,
-      "change_pct": -2.46
+      "price": 691.05,
+      "change_pct": -3.76
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike"
+      "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves"
     },
     {
       "source": "CNBC",
-      "title": "Trump loses bid to transfer New York hush money case to federal court"
+      "title": "Bessent attacks Warren over yen intervention query, offers \u2018Foreign Exchange for Dummies\u2019 lesson"
     },
     {
       "source": "MarketWatch",
-      "title": "Should I use my financial institution\u2019s \u2018free\u2019 advisers?"
+      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m turning 70. Here\u2019s how I\u2019m making this decade the richest of my retirement."
+      "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend."
     }
   ]
 }
