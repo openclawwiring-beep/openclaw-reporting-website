@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 29 2026  01:14 PT",
+  "generated_at": "Saturday, August 29 2026  06:56 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77516,
-      "change_pct": -2.81
+      "price": 77696,
+      "change_pct": -2.12
     },
     "ETH": {
-      "price": 2433.06,
-      "change_pct": -2.59
+      "price": 2436.1,
+      "change_pct": -2.99
     },
     "SOL": {
-      "price": 103.4,
-      "change_pct": -2.94
+      "price": 103.89,
+      "change_pct": -1.46
     },
     "BNB": {
-      "price": 687.83,
-      "change_pct": -2.91
+      "price": 688.42,
+      "change_pct": -2.39
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves"
+      "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears"
     },
     {
       "source": "CNBC",
-      "title": "Bessent attacks Warren over yen intervention query, offers \u2018Foreign Exchange for Dummies\u2019 lesson"
+      "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves"
     },
     {
       "source": "MarketWatch",
-      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?"
+      "title": "Why would someone lock up money by rolling it into a 401(k)?"
     },
     {
       "source": "MarketWatch",
-      "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend."
+      "title": "5 affordable cities to retire in the U.S. right now"
     }
   ]
 }
