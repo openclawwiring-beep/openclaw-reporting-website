@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 29 2026  10:31 PT",
+  "generated_at": "Saturday, August 29 2026  13:26 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77992,
-      "change_pct": 0.09
+      "price": 78207,
+      "change_pct": 0.94
     },
     "ETH": {
-      "price": 2448.63,
-      "change_pct": 0.3
+      "price": 2454.73,
+      "change_pct": 0.9
     },
     "SOL": {
-      "price": 104.7,
-      "change_pct": 0.15
+      "price": 105.22,
+      "change_pct": 1.61
     },
     "BNB": {
-      "price": 691.16,
-      "change_pct": -0.42
+      "price": 692.99,
+      "change_pct": 0.57
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears"
+      "title": "K, C or E? Why economists can\u2019t agree on the shape of today\u2019s economy"
     },
     {
       "source": "CNBC",
-      "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves"
+      "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX"
     },
     {
       "source": "MarketWatch",
