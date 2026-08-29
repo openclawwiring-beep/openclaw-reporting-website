@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, August 29 2026  06:56 PT",
+  "generated_at": "Saturday, August 29 2026  10:31 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77696,
-      "change_pct": -2.12
+      "price": 77992,
+      "change_pct": 0.09
     },
     "ETH": {
-      "price": 2436.1,
-      "change_pct": -2.99
+      "price": 2448.63,
+      "change_pct": 0.3
     },
     "SOL": {
-      "price": 103.89,
-      "change_pct": -1.46
+      "price": 104.7,
+      "change_pct": 0.15
     },
     "BNB": {
-      "price": 688.42,
-      "change_pct": -2.39
+      "price": 691.16,
+      "change_pct": -0.42
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why would someone lock up money by rolling it into a 401(k)?"
+      "title": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved."
     },
     {
       "source": "MarketWatch",
-      "title": "5 affordable cities to retire in the U.S. right now"
+      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?"
     }
   ]
 }
