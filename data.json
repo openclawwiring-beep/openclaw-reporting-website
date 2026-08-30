@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 30 2026  06:07 PT",
+  "generated_at": "Sunday, August 30 2026  10:40 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78698,
-      "change_pct": 1.44
+      "price": 78993,
+      "change_pct": 1.36
     },
     "ETH": {
-      "price": 2467.14,
-      "change_pct": 1.35
+      "price": 2503.76,
+      "change_pct": 2.28
     },
     "SOL": {
-      "price": 106.05,
-      "change_pct": 2.38
+      "price": 105.99,
+      "change_pct": 1.43
     },
     "BNB": {
-      "price": 695.92,
-      "change_pct": 1.12
+      "price": 699.78,
+      "change_pct": 1.31
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Am I too old for Roth conversions? I\u2019m 84 and my wife is 77. We have $8 million saved."
+      "title": "\u2018I feel shoehorned\u2019: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?"
     },
     {
       "source": "MarketWatch",
-      "title": "These charts show how leverage-happy investors are transforming the stock market"
+      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?"
     }
   ]
 }
