@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 30 2026  00:05 PT",
+  "generated_at": "Sunday, August 30 2026  06:07 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78257,
-      "change_pct": 0.96
+      "price": 78698,
+      "change_pct": 1.44
     },
     "ETH": {
-      "price": 2458.82,
-      "change_pct": 0.93
+      "price": 2467.14,
+      "change_pct": 1.35
     },
     "SOL": {
-      "price": 105.26,
-      "change_pct": 1.43
+      "price": 106.05,
+      "change_pct": 2.38
     },
     "BNB": {
-      "price": 693.82,
-      "change_pct": 0.85
+      "price": 695.92,
+      "change_pct": 1.12
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "K, C or E? Why economists can\u2019t agree on the shape of today\u2019s economy"
+      "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently"
     },
     {
       "source": "CNBC",
-      "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX"
+      "title": "He beat Big Tobacco. Will the same playbook work against Meta and social media?"
     },
     {
       "source": "MarketWatch",
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?"
+      "title": "These charts show how leverage-happy investors are transforming the stock market"
     }
   ]
 }
