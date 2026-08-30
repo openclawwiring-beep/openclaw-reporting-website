@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 30 2026  10:40 PT",
+  "generated_at": "Sunday, August 30 2026  13:36 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78993,
-      "change_pct": 1.36
+      "price": 78788,
+      "change_pct": 0.82
     },
     "ETH": {
-      "price": 2503.76,
-      "change_pct": 2.28
+      "price": 2500.05,
+      "change_pct": 1.91
     },
     "SOL": {
-      "price": 105.99,
-      "change_pct": 1.43
+      "price": 105.18,
+      "change_pct": -0.11
     },
     "BNB": {
-      "price": 699.78,
-      "change_pct": 1.31
+      "price": 698.82,
+      "change_pct": 0.89
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently"
+      "title": "He beat Big Tobacco. Will the same playbook work against Meta and social media?"
     },
     {
       "source": "CNBC",
-      "title": "He beat Big Tobacco. Will the same playbook work against Meta and social media?"
+      "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently"
     },
     {
       "source": "MarketWatch",
