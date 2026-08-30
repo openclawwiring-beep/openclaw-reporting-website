@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, August 30 2026  13:36 PT",
+  "generated_at": "Sunday, August 30 2026  16:11 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4529.9,
-      "change_pct": -2.19
+      "price": 4510.8,
+      "change_pct": 0.15
     },
     "Oil (WTI)": {
-      "price": 83.4,
-      "change_pct": 0.35
+      "price": 84.87,
+      "change_pct": 1.76
     },
     "Silver": {
-      "price": 67.79,
-      "change_pct": -2.56
+      "price": 67.24,
+      "change_pct": 0.22
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78788,
-      "change_pct": 0.82
+      "price": 78335,
+      "change_pct": 0.14
     },
     "ETH": {
-      "price": 2500.05,
-      "change_pct": 1.91
+      "price": 2466.15,
+      "change_pct": 0.48
     },
     "SOL": {
-      "price": 105.18,
-      "change_pct": -0.11
+      "price": 103.55,
+      "change_pct": -2.01
     },
     "BNB": {
-      "price": 698.82,
-      "change_pct": 0.89
+      "price": 693.02,
+      "change_pct": -0.01
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently"
+      "title": "U.S. strikes Iranian rocket launchers near Strait of Hormuz"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I feel shoehorned\u2019: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?"
+      "title": "U.S. stock futures flat as chances of rate hike rise after Warsh\u2019s Jackson Hole comments"
     },
     {
       "source": "MarketWatch",
-      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?"
+      "title": "\u2018It\u2019s the ultimate regifting\u2019: My mom gave me a house. Should I transfer it back to her to reduce capital gains?"
     }
   ]
 }
