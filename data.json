@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, August 31 2026  00:27 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, August 31 2026  08:18 PT",
+  "market_status": "Live \u2014 as of 11:18 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7711.76,
-      "change_pct": -0.25
+      "price": 7672.59,
+      "change_pct": -0.48
     },
     "Nasdaq": {
-      "price": 26402.42,
-      "change_pct": -0.52
+      "price": 26290.18,
+      "change_pct": -0.43
     },
     "Dow Jones": {
-      "price": 53559.99,
-      "change_pct": -0.02
+      "price": 53205.0,
+      "change_pct": -0.64
     },
     "Russell 2000": {
-      "price": 2972.37,
-      "change_pct": -1.39
+      "price": 2948.04,
+      "change_pct": -0.82
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4487.3,
-      "change_pct": 0.38
+      "price": 4479.7,
+      "change_pct": 0.17
     },
     "Oil (WTI)": {
-      "price": 84.69,
-      "change_pct": -0.47
+      "price": 85.37,
+      "change_pct": 0.33
     },
     "Silver": {
-      "price": 67.42,
-      "change_pct": 0.95
+      "price": 66.86,
+      "change_pct": 0.04
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78248,
-      "change_pct": 0.03
+      "price": 78348,
+      "change_pct": -0.49
     },
     "ETH": {
-      "price": 2443.76,
-      "change_pct": -0.57
+      "price": 2460.87,
+      "change_pct": -0.65
     },
     "SOL": {
-      "price": 103.02,
-      "change_pct": -2.03
+      "price": 103.01,
+      "change_pct": -3.09
     },
     "BNB": {
-      "price": 687.61,
-      "change_pct": -0.9
+      "price": 688.81,
+      "change_pct": -1.27
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump threatens to blow up Iran's Kharg Island oil hub as hostilities escalate once again"
+      "title": "G20 meeting live updates: Bessent, Warsh kick off summit with growth-focused remarks"
     },
     {
       "source": "CNBC",
-      "title": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit"
+      "title": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. stock futures slip as chances of rate hike rise after Warsh\u2019s Jackson Hole comments"
+      "title": "\u2018I\u2019m leaving money on the table\u2019: I\u2019m 64 and my husband is 70. Should I take spousal benefits or wait for my own?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s the ultimate regifting\u2019: My mom gave me a house. Should I transfer it back to her to reduce capital gains?"
+      "title": "\u2018We are committed Christians\u2019: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?"
     }
   ]
 }
