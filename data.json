@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 31 2026  17:29 PT",
+  "generated_at": "Monday, August 31 2026  22:32 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4506.0,
-      "change_pct": 0.76
+      "price": 4476.0,
+      "change_pct": -0.05
     },
     "Oil (WTI)": {
-      "price": 86.62,
-      "change_pct": 1.8
+      "price": 86.92,
+      "change_pct": 0.18
     },
     "Silver": {
-      "price": 67.4,
-      "change_pct": 0.84
+      "price": 66.96,
+      "change_pct": 0.06
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78843,
-      "change_pct": 1.24
+      "price": 78956,
+      "change_pct": 1.22
     },
     "ETH": {
-      "price": 2474.99,
-      "change_pct": 1.9
+      "price": 2474.87,
+      "change_pct": 1.65
     },
     "SOL": {
-      "price": 103.43,
-      "change_pct": 1.27
+      "price": 103.95,
+      "change_pct": 1.28
     },
     "BNB": {
-      "price": 692.88,
-      "change_pct": 0.91
+      "price": 692.47,
+      "change_pct": 0.84
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon"
+      "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says"
     },
     {
       "source": "CNBC",
-      "title": "Supreme Court lets Trump build White House ballroom as lawsuit continues"
+      "title": "Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard'"
     },
     {
       "source": "MarketWatch",
