@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, September 01 2026  04:08 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, September 01 2026  08:30 PT",
+  "market_status": "Live \u2014 as of 11:30 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7686.14,
-      "change_pct": -0.33
+      "price": 7653.97,
+      "change_pct": -0.42
     },
     "Nasdaq": {
-      "price": 26370.89,
-      "change_pct": -0.12
+      "price": 26190.28,
+      "change_pct": -0.68
     },
     "Dow Jones": {
-      "price": 53185.9,
-      "change_pct": -0.7
+      "price": 52972.35,
+      "change_pct": -0.4
     },
     "Russell 2000": {
-      "price": 2956.45,
-      "change_pct": -0.54
+      "price": 2935.63,
+      "change_pct": -0.71
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4427.6,
-      "change_pct": -1.32
+      "price": 4412.2,
+      "change_pct": -1.67
     },
     "Oil (WTI)": {
-      "price": 87.73,
-      "change_pct": 1.13
+      "price": 88.0,
+      "change_pct": 1.44
     },
     "Silver": {
-      "price": 65.47,
-      "change_pct": -2.88
+      "price": 65.49,
+      "change_pct": -2.86
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77973,
-      "change_pct": -0.81
+      "price": 77815,
+      "change_pct": -0.78
     },
     "ETH": {
-      "price": 2454.39,
-      "change_pct": 0.01
+      "price": 2440.61,
+      "change_pct": -1.07
     },
     "SOL": {
-      "price": 102.3,
-      "change_pct": -1.42
+      "price": 101.72,
+      "change_pct": -1.4
     },
     "BNB": {
-      "price": 686.1,
-      "change_pct": -0.33
+      "price": 685.55,
+      "change_pct": -0.5
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow futures fall 200 points to kick off September as global bond yields rise: Live updates"
+      "title": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries"
     },
     {
       "source": "CNBC",
-      "title": "Apple enters John Ternus era as AI challenges and memory crunch intensify"
+      "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease"
     },
     {
       "source": "MarketWatch",
-      "title": "New Apple CEO John Ternus\u2019s first big challenge: Leading when his old boss is still in the building"
+      "title": "There\u2019s a disconnect between AI valuations and revenue-growth forecasts, observes this investor"
     },
     {
       "source": "MarketWatch",
-      "title": "Are rising bond rates really so bad? Maybe not, say these experts"
+      "title": "Are rising bond rates really so bad? Maybe not, say these experts."
     }
   ]
 }
