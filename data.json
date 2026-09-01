@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 31 2026  13:57 PT",
+  "generated_at": "Monday, August 31 2026  17:29 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4496.9,
-      "change_pct": 0.56
+      "price": 4506.0,
+      "change_pct": 0.76
     },
     "Oil (WTI)": {
-      "price": 86.31,
-      "change_pct": 1.43
+      "price": 86.62,
+      "change_pct": 1.8
     },
     "Silver": {
-      "price": 67.21,
-      "change_pct": 0.56
+      "price": 67.4,
+      "change_pct": 0.84
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78885,
-      "change_pct": 0.27
+      "price": 78843,
+      "change_pct": 1.24
     },
     "ETH": {
-      "price": 2473.77,
-      "change_pct": -0.8
+      "price": 2474.99,
+      "change_pct": 1.9
     },
     "SOL": {
-      "price": 103.74,
-      "change_pct": -1.22
+      "price": 103.43,
+      "change_pct": 1.27
     },
     "BNB": {
-      "price": 691.08,
-      "change_pct": -1.01
+      "price": 692.88,
+      "change_pct": 0.91
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Supreme Court says Trump can build White House ballroom as lawsuit continues"
+      "title": "Supreme Court lets Trump build White House ballroom as lawsuit continues"
     },
     {
       "source": "MarketWatch",
-      "title": "With Warsh running the Fed should bond investors be worried?"
+      "title": "Amazon\u2019s stock slips as the FTC alleges billions of dollars in hidden ad fees"
     },
     {
       "source": "MarketWatch",
-      "title": "How to profit from September stock-market weakness"
+      "title": "\u2018I\u2019m leaving money on the table\u2019: I\u2019m 64 and my husband is 70. Should I take spousal benefits or wait for my own?"
     }
   ]
 }
