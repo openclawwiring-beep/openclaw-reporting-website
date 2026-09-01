@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, September 01 2026  12:12 PT",
-  "market_status": "Live \u2014 as of 15:12 ET",
+  "generated_at": "Tuesday, September 01 2026  14:54 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7628.5,
-      "change_pct": -0.75
+      "price": 7631.47,
+      "change_pct": -0.71
     },
     "Nasdaq": {
-      "price": 26093.97,
-      "change_pct": -1.05
+      "price": 26099.77,
+      "change_pct": -1.03
     },
     "Dow Jones": {
-      "price": 52769.43,
-      "change_pct": -0.78
+      "price": 52766.88,
+      "change_pct": -0.79
     },
     "Russell 2000": {
-      "price": 2919.82,
-      "change_pct": -1.24
+      "price": 2920.13,
+      "change_pct": -1.23
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4378.0,
-      "change_pct": -2.43
+      "price": 4375.7,
+      "change_pct": -2.48
     },
     "Oil (WTI)": {
-      "price": 90.5,
-      "change_pct": 4.32
+      "price": 90.68,
+      "change_pct": 4.53
     },
     "Silver": {
-      "price": 64.73,
-      "change_pct": -3.98
+      "price": 64.66,
+      "change_pct": -4.08
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77163,
-      "change_pct": -2.54
+      "price": 77164,
+      "change_pct": -2.31
     },
     "ETH": {
-      "price": 2414.37,
-      "change_pct": -2.88
+      "price": 2414.17,
+      "change_pct": -2.63
     },
     "SOL": {
-      "price": 99.7,
-      "change_pct": -4.56
+      "price": 99.54,
+      "change_pct": -4.06
     },
     "BNB": {
-      "price": 679.52,
-      "change_pct": -2.05
+      "price": 680.26,
+      "change_pct": -1.79
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom"
+      "title": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war"
     },
     {
       "source": "CNBC",
-      "title": "Bessent touts bond market as 10-year Treasury yield spikes"
+      "title": "U.S. House votes to avoid government shutdown amid GOP hard-liner resistance"
     },
     {
       "source": "MarketWatch",
-      "title": "Broadcom earnings need to answer these questions for the stock to rally again"
+      "title": "Palo Alto Networks\u2019 stock slides despite strong AI cybersecurity demand"
     },
     {
       "source": "MarketWatch",
-      "title": "This could be the 10-year Treasury\u2019s tipping point into the danger zone"
+      "title": "Which workers are using AI surprisingly often? Dry cleaners and construction workers."
     }
   ]
 }
