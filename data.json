@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, September 01 2026  14:54 PT",
+  "generated_at": "Tuesday, September 01 2026  16:47 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4375.7,
-      "change_pct": -2.48
+      "price": 4380.0,
+      "change_pct": -2.38
     },
     "Oil (WTI)": {
-      "price": 90.68,
-      "change_pct": 4.53
+      "price": 90.71,
+      "change_pct": 4.56
     },
     "Silver": {
-      "price": 64.66,
-      "change_pct": -4.08
+      "price": 64.78,
+      "change_pct": -3.9
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77164,
-      "change_pct": -2.31
+      "price": 77467,
+      "change_pct": -1.36
     },
     "ETH": {
-      "price": 2414.17,
-      "change_pct": -2.63
+      "price": 2421.27,
+      "change_pct": -1.82
     },
     "SOL": {
-      "price": 99.54,
-      "change_pct": -4.06
+      "price": 100.06,
+      "change_pct": -2.8
     },
     "BNB": {
-      "price": 680.26,
-      "change_pct": -1.79
+      "price": 682.77,
+      "change_pct": -1.15
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "U.S. House votes to avoid government shutdown amid GOP hard-liner resistance"
+      "title": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says"
     },
     {
       "source": "MarketWatch",
-      "title": "Palo Alto Networks\u2019 stock slides despite strong AI cybersecurity demand"
+      "title": "\u2018It\u2019s not fair\u2019: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?"
     },
     {
       "source": "MarketWatch",
-      "title": "Which workers are using AI surprisingly often? Dry cleaners and construction workers."
+      "title": "Dow drops below a key chart level, warning of more trouble ahead"
     }
   ]
 }
