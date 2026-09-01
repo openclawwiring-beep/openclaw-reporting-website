@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, August 31 2026  22:32 PT",
+  "generated_at": "Tuesday, September 01 2026  04:08 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4476.0,
-      "change_pct": -0.05
+      "price": 4427.6,
+      "change_pct": -1.32
     },
     "Oil (WTI)": {
-      "price": 86.92,
-      "change_pct": 0.18
+      "price": 87.73,
+      "change_pct": 1.13
     },
     "Silver": {
-      "price": 66.96,
-      "change_pct": 0.06
+      "price": 65.47,
+      "change_pct": -2.88
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78956,
-      "change_pct": 1.22
+      "price": 77973,
+      "change_pct": -0.81
     },
     "ETH": {
-      "price": 2474.87,
-      "change_pct": 1.65
+      "price": 2454.39,
+      "change_pct": 0.01
     },
     "SOL": {
-      "price": 103.95,
-      "change_pct": 1.28
+      "price": 102.3,
+      "change_pct": -1.42
     },
     "BNB": {
-      "price": 692.47,
-      "change_pct": 0.84
+      "price": 686.1,
+      "change_pct": -0.33
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says"
+      "title": "Dow futures fall 200 points to kick off September as global bond yields rise: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard'"
+      "title": "Apple enters John Ternus era as AI challenges and memory crunch intensify"
     },
     {
       "source": "MarketWatch",
-      "title": "Amazon\u2019s stock slips as the FTC alleges billions of dollars in hidden ad fees"
+      "title": "New Apple CEO John Ternus\u2019s first big challenge: Leading when his old boss is still in the building"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m leaving money on the table\u2019: I\u2019m 64 and my husband is 70. Should I take spousal benefits or wait for my own?"
+      "title": "Are rising bond rates really so bad? Maybe not, say these experts"
     }
   ]
 }
