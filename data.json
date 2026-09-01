@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, September 01 2026  08:30 PT",
-  "market_status": "Live \u2014 as of 11:30 ET",
+  "generated_at": "Tuesday, September 01 2026  12:12 PT",
+  "market_status": "Live \u2014 as of 15:12 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7653.97,
-      "change_pct": -0.42
+      "price": 7628.5,
+      "change_pct": -0.75
     },
     "Nasdaq": {
-      "price": 26190.28,
-      "change_pct": -0.68
+      "price": 26093.97,
+      "change_pct": -1.05
     },
     "Dow Jones": {
-      "price": 52972.35,
-      "change_pct": -0.4
+      "price": 52769.43,
+      "change_pct": -0.78
     },
     "Russell 2000": {
-      "price": 2935.63,
-      "change_pct": -0.71
+      "price": 2919.82,
+      "change_pct": -1.24
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4412.2,
-      "change_pct": -1.67
+      "price": 4378.0,
+      "change_pct": -2.43
     },
     "Oil (WTI)": {
-      "price": 88.0,
-      "change_pct": 1.44
+      "price": 90.5,
+      "change_pct": 4.32
     },
     "Silver": {
-      "price": 65.49,
-      "change_pct": -2.86
+      "price": 64.73,
+      "change_pct": -3.98
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77815,
-      "change_pct": -0.78
+      "price": 77163,
+      "change_pct": -2.54
     },
     "ETH": {
-      "price": 2440.61,
-      "change_pct": -1.07
+      "price": 2414.37,
+      "change_pct": -2.88
     },
     "SOL": {
-      "price": 101.72,
-      "change_pct": -1.4
+      "price": 99.7,
+      "change_pct": -4.56
     },
     "BNB": {
-      "price": 685.55,
-      "change_pct": -0.5
+      "price": 679.52,
+      "change_pct": -2.05
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries"
+      "title": "U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom"
     },
     {
       "source": "CNBC",
-      "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease"
+      "title": "Bessent touts bond market as 10-year Treasury yield spikes"
     },
     {
       "source": "MarketWatch",
-      "title": "There\u2019s a disconnect between AI valuations and revenue-growth forecasts, observes this investor"
+      "title": "Broadcom earnings need to answer these questions for the stock to rally again"
     },
     {
       "source": "MarketWatch",
-      "title": "Are rising bond rates really so bad? Maybe not, say these experts."
+      "title": "This could be the 10-year Treasury\u2019s tipping point into the danger zone"
     }
   ]
 }
