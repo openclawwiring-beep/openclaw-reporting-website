@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, September 02 2026  05:33 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, September 02 2026  10:00 PT",
+  "market_status": "Live \u2014 as of 13:00 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7631.47,
-      "change_pct": -0.71
+      "price": 7666.71,
+      "change_pct": 0.45
     },
     "Nasdaq": {
-      "price": 26099.77,
-      "change_pct": -1.03
+      "price": 26207.82,
+      "change_pct": 0.41
     },
     "Dow Jones": {
-      "price": 52766.88,
-      "change_pct": -0.79
+      "price": 52980.37,
+      "change_pct": 0.39
     },
     "Russell 2000": {
-      "price": 2920.13,
-      "change_pct": -1.23
+      "price": 2947.09,
+      "change_pct": 0.93
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4382.4,
-      "change_pct": 0.77
+      "price": 4412.4,
+      "change_pct": 1.46
     },
     "Oil (WTI)": {
-      "price": 89.53,
-      "change_pct": -1.28
+      "price": 91.04,
+      "change_pct": 0.39
     },
     "Silver": {
-      "price": 65.04,
-      "change_pct": 1.23
+      "price": 65.49,
+      "change_pct": 1.93
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76939,
-      "change_pct": -1.17
+      "price": 77176,
+      "change_pct": -0.52
     },
     "ETH": {
-      "price": 2385.14,
-      "change_pct": -2.65
+      "price": 2385.51,
+      "change_pct": -1.94
     },
     "SOL": {
-      "price": 98.22,
-      "change_pct": -3.79
+      "price": 98.85,
+      "change_pct": -2.1
     },
     "BNB": {
-      "price": 684.59,
-      "change_pct": -0.19
+      "price": 685.94,
+      "change_pct": 0.3
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday"
+      "title": "New York Fed's Williams says yield surge due to strong economic prospects"
     },
     {
       "source": "CNBC",
-      "title": "G20 live updates: White House readying tariffs on semiconductors, Lutnick tells CNBC"
+      "title": "G20 live updates: OpenAI's Altman makes his case for countries to adopt AI"
     },
     {
       "source": "MarketWatch",
-      "title": "How these homeowners pulled off buying a house in their early 20s"
+      "title": "\u2018I feel tricked\u2019: My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s not fair\u2019: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?"
+      "title": "Here\u2019s how much Americans rely on Social Security \u2014 at all income levels"
     }
   ]
 }
