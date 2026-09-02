@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, September 01 2026  16:47 PT",
+  "generated_at": "Tuesday, September 01 2026  19:59 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4380.0,
-      "change_pct": -2.38
+      "price": 4357.5,
+      "change_pct": -2.89
     },
     "Oil (WTI)": {
-      "price": 90.71,
-      "change_pct": 4.56
+      "price": 90.86,
+      "change_pct": 4.74
     },
     "Silver": {
-      "price": 64.78,
-      "change_pct": -3.9
+      "price": 64.48,
+      "change_pct": -4.35
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77467,
-      "change_pct": -1.36
+      "price": 77230,
+      "change_pct": -1.51
     },
     "ETH": {
-      "price": 2421.27,
-      "change_pct": -1.82
+      "price": 2406.72,
+      "change_pct": -2.29
     },
     "SOL": {
-      "price": 100.06,
-      "change_pct": -2.8
+      "price": 99.82,
+      "change_pct": -3.37
     },
     "BNB": {
-      "price": 682.77,
-      "change_pct": -1.15
+      "price": 685.22,
+      "change_pct": -0.96
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. strikes Iran as Tehran retaliates, raising risk of wider war"
+      "title": "Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s not fair\u2019: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?"
+      "title": "Dell\u2019s AI servers drive a stellar earnings performance, and a raised outlook"
     },
     {
       "source": "MarketWatch",
-      "title": "Dow drops below a key chart level, warning of more trouble ahead"
+      "title": "Palo Alto Networks\u2019 stock falls despite strong AI cybersecurity demand"
     }
   ]
 }
