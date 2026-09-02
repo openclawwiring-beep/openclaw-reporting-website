@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, September 02 2026  00:50 PT",
+  "generated_at": "Wednesday, September 02 2026  05:33 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4372.6,
-      "change_pct": 0.55
+      "price": 4382.4,
+      "change_pct": 0.77
     },
     "Oil (WTI)": {
-      "price": 90.15,
-      "change_pct": -0.6
+      "price": 89.53,
+      "change_pct": -1.28
     },
     "Silver": {
-      "price": 64.54,
-      "change_pct": 0.47
+      "price": 65.04,
+      "change_pct": 1.23
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77550,
-      "change_pct": -1.37
+      "price": 76939,
+      "change_pct": -1.17
     },
     "ETH": {
-      "price": 2421.57,
-      "change_pct": -1.99
+      "price": 2385.14,
+      "change_pct": -2.65
     },
     "SOL": {
-      "price": 100.04,
-      "change_pct": -3.0
+      "price": 98.22,
+      "change_pct": -3.79
     },
     "BNB": {
-      "price": 688.06,
-      "change_pct": -0.3
+      "price": 684.59,
+      "change_pct": -0.19
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes"
+      "title": "Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday"
     },
     {
       "source": "CNBC",
-      "title": "China's Xi keeps Iranian president at arm's length weeks ahead of Trump summit"
+      "title": "G20 live updates: White House readying tariffs on semiconductors, Lutnick tells CNBC"
     },
     {
       "source": "MarketWatch",
-      "title": "AI capital expenditure forecast to exceed the cost of building railways in both the U.S. and the U.K. \u2014 with the internet added on top"
+      "title": "How these homeowners pulled off buying a house in their early 20s"
     },
     {
       "source": "MarketWatch",
-      "title": "Dell\u2019s AI servers drive a stellar earnings performance, and a raised outlook"
+      "title": "\u2018It\u2019s not fair\u2019: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?"
     }
   ]
 }
