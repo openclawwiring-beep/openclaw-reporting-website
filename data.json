@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, September 02 2026  10:00 PT",
-  "market_status": "Live \u2014 as of 13:00 ET",
+  "generated_at": "Wednesday, September 02 2026  12:42 PT",
+  "market_status": "Live \u2014 as of 15:42 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7666.71,
+      "price": 7667.09,
       "change_pct": 0.45
     },
     "Nasdaq": {
-      "price": 26207.82,
-      "change_pct": 0.41
+      "price": 26198.26,
+      "change_pct": 0.38
     },
     "Dow Jones": {
-      "price": 52980.37,
-      "change_pct": 0.39
+      "price": 53071.72,
+      "change_pct": 0.56
     },
     "Russell 2000": {
-      "price": 2947.09,
-      "change_pct": 0.93
+      "price": 2956.57,
+      "change_pct": 1.25
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4412.4,
-      "change_pct": 1.46
+      "price": 4429.0,
+      "change_pct": 1.84
     },
     "Oil (WTI)": {
-      "price": 91.04,
-      "change_pct": 0.39
+      "price": 90.92,
+      "change_pct": 0.25
     },
     "Silver": {
-      "price": 65.49,
-      "change_pct": 1.93
+      "price": 65.78,
+      "change_pct": 2.39
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77176,
-      "change_pct": -0.52
+      "price": 77147,
+      "change_pct": -0.22
     },
     "ETH": {
-      "price": 2385.51,
-      "change_pct": -1.94
+      "price": 2384.67,
+      "change_pct": -1.37
     },
     "SOL": {
-      "price": 98.85,
-      "change_pct": -2.1
+      "price": 99.23,
+      "change_pct": -0.7
     },
     "BNB": {
-      "price": 685.94,
-      "change_pct": 0.3
+      "price": 685.39,
+      "change_pct": 0.74
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "New York Fed's Williams says yield surge due to strong economic prospects"
+      "title": "G20 live updates: Palantir's Karp says wealth inequality a 'real issue' for societies"
     },
     {
       "source": "CNBC",
-      "title": "G20 live updates: OpenAI's Altman makes his case for countries to adopt AI"
+      "title": "States now must report undocumented immigrants to DHS or risk federal funding, DOJ says"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I feel tricked\u2019: My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?"
+      "title": "Why Palantir\u2019s stock is suffering its worst slump since February"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s how much Americans rely on Social Security \u2014 at all income levels"
+      "title": "Rising yields aren\u2019t scaring off investors. Why money is still pouring into bond funds."
     }
   ]
 }
