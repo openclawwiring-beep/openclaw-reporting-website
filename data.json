@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, September 01 2026  19:59 PT",
+  "generated_at": "Wednesday, September 02 2026  00:50 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4357.5,
-      "change_pct": -2.89
+      "price": 4372.6,
+      "change_pct": 0.55
     },
     "Oil (WTI)": {
-      "price": 90.86,
-      "change_pct": 4.74
+      "price": 90.15,
+      "change_pct": -0.6
     },
     "Silver": {
-      "price": 64.48,
-      "change_pct": -4.35
+      "price": 64.54,
+      "change_pct": 0.47
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77230,
-      "change_pct": -1.51
+      "price": 77550,
+      "change_pct": -1.37
     },
     "ETH": {
-      "price": 2406.72,
-      "change_pct": -2.29
+      "price": 2421.57,
+      "change_pct": -1.99
     },
     "SOL": {
-      "price": 99.82,
-      "change_pct": -3.37
+      "price": 100.04,
+      "change_pct": -3.0
     },
     "BNB": {
-      "price": 685.22,
-      "change_pct": -0.96
+      "price": 688.06,
+      "change_pct": -0.3
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says"
+      "title": "China's Xi keeps Iranian president at arm's length weeks ahead of Trump summit"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AI capital expenditure forecast to exceed the cost of building railways in both the U.S. and the U.K. \u2014 with the internet added on top"
     },
     {
       "source": "MarketWatch",
       "title": "Dell\u2019s AI servers drive a stellar earnings performance, and a raised outlook"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Palo Alto Networks\u2019 stock falls despite strong AI cybersecurity demand"
     }
   ]
 }
