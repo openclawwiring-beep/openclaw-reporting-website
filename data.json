@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, September 02 2026  21:56 PT",
+  "generated_at": "Thursday, September 03 2026  02:29 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4482.8,
-      "change_pct": 1.16
+      "price": 4481.5,
+      "change_pct": 0.1
     },
     "Oil (WTI)": {
-      "price": 90.65,
-      "change_pct": -0.07
+      "price": 91.28,
+      "change_pct": 0.24
     },
     "Silver": {
-      "price": 66.74,
-      "change_pct": 1.28
+      "price": 66.39,
+      "change_pct": -0.43
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77712,
-      "change_pct": 0.24
+      "price": 77797,
+      "change_pct": 1.3
     },
     "ETH": {
-      "price": 2405.1,
-      "change_pct": -0.35
+      "price": 2401.3,
+      "change_pct": 0.69
     },
     "SOL": {
-      "price": 100.59,
-      "change_pct": 0.6
+      "price": 100.46,
+      "change_pct": 1.42
     },
     "BNB": {
-      "price": 693.92,
-      "change_pct": 0.98
+      "price": 702.09,
+      "change_pct": 2.45
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'"
+      "title": "The world appears to be entering a higher-rate era. Here\u2019s who will pay the price"
     },
     {
       "source": "CNBC",
-      "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade"
+      "title": "Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless'"
     },
     {
       "source": "MarketWatch",
-      "title": "There\u2019s a new record number of 401(k) millionaires as retirement savings hold at all-time highs"
+      "title": "\u2018Please don\u2019t let this happen to you\u2019: My best friend died without a will \u2014 her neglectful family gets everything"
     },
     {
       "source": "MarketWatch",
-      "title": "Broadcom\u2019s stock falls despite upbeat earnings, extending a frustrating stretch for investors"
+      "title": "Why alarming bond yields might drop sooner than investors think"
     }
   ]
 }
