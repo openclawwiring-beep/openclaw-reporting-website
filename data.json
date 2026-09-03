@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, September 03 2026  13:31 PT",
+  "generated_at": "Thursday, September 03 2026  15:58 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4518.3,
-      "change_pct": 0.92
+      "price": 4518.9,
+      "change_pct": 0.93
     },
     "Oil (WTI)": {
-      "price": 91.74,
-      "change_pct": 0.75
+      "price": 91.76,
+      "change_pct": 0.77
     },
     "Silver": {
-      "price": 67.51,
-      "change_pct": 1.25
+      "price": 67.6,
+      "change_pct": 1.38
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81546,
-      "change_pct": 5.39
+      "price": 81137,
+      "change_pct": 5.36
     },
     "ETH": {
-      "price": 2510.61,
-      "change_pct": 4.99
+      "price": 2497.86,
+      "change_pct": 5.01
     },
     "SOL": {
-      "price": 105.39,
-      "change_pct": 5.76
+      "price": 104.18,
+      "change_pct": 4.68
     },
     "BNB": {
-      "price": 723.71,
-      "change_pct": 5.37
+      "price": 723.45,
+      "change_pct": 5.47
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Carney claps back at Lutnick, says Canada will resume trade talks 'when the Americans are ready'"
+      "title": "Lululemon stock plunges 15% on disappointing earnings and outlook"
     },
     {
       "source": "MarketWatch",
-      "title": "An old stock-market adage applies this month \u2014 how you should play it"
+      "title": "Lululemon bets on \u2018away from body\u2019 pants as customers sour on form-fitting leggings"
     },
     {
       "source": "MarketWatch",
-      "title": "Wall Street is betting on Fed Chair Kevin Warsh to keep a manic bond market from unraveling"
+      "title": "Adobe just announced its next CEO. Here\u2019s why its stock is dropping."
     }
   ]
 }
