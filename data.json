@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, September 02 2026  17:30 PT",
+  "generated_at": "Wednesday, September 02 2026  21:56 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4431.5,
-      "change_pct": 1.9
+      "price": 4482.8,
+      "change_pct": 1.16
     },
     "Oil (WTI)": {
-      "price": 90.75,
-      "change_pct": 0.07
+      "price": 90.65,
+      "change_pct": -0.07
     },
     "Silver": {
-      "price": 65.86,
-      "change_pct": 2.51
+      "price": 66.74,
+      "change_pct": 1.28
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77026,
-      "change_pct": -0.32
+      "price": 77712,
+      "change_pct": 0.24
     },
     "ETH": {
-      "price": 2380.79,
-      "change_pct": -1.37
+      "price": 2405.1,
+      "change_pct": -0.35
     },
     "SOL": {
-      "price": 99.74,
-      "change_pct": -0.03
+      "price": 100.59,
+      "change_pct": 0.6
     },
     "BNB": {
-      "price": 687.29,
-      "change_pct": 0.59
+      "price": 693.92,
+      "change_pct": 0.98
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs"
+      "title": "Iran attacks Kuwait as Trump says renewed Mideast hostilities will not last 'too long'"
     },
     {
       "source": "CNBC",
-      "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units"
+      "title": "Google starts September with AI momentum after longest monthly losing streak in over a decade"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "There\u2019s a new record number of 401(k) millionaires as retirement savings hold at all-time highs"
     },
     {
       "source": "MarketWatch",
       "title": "Broadcom\u2019s stock falls despite upbeat earnings, extending a frustrating stretch for investors"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Snowflake\u2019s stock soars as the company blows away estimates with its AI-fueled forecast"
     }
   ]
 }
