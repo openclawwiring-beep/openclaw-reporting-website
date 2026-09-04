@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, September 04 2026  13:55 PT",
+  "generated_at": "Friday, September 04 2026  15:46 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4477.8,
-      "change_pct": -0.8
+      "price": 4477.2,
+      "change_pct": -0.81
     },
     "Oil (WTI)": {
-      "price": 91.29,
-      "change_pct": -0.79
+      "price": 91.22,
+      "change_pct": -0.87
     },
     "Silver": {
-      "price": 66.79,
-      "change_pct": -0.64
+      "price": 66.82,
+      "change_pct": -0.59
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79727,
-      "change_pct": -2.16
+      "price": 79684,
+      "change_pct": -1.9
     },
     "ETH": {
-      "price": 2453.22,
-      "change_pct": -2.13
+      "price": 2453.1,
+      "change_pct": -1.82
     },
     "SOL": {
-      "price": 101.76,
-      "change_pct": -3.12
+      "price": 101.71,
+      "change_pct": -2.34
     },
     "BNB": {
-      "price": 718.68,
-      "change_pct": -0.77
+      "price": 718.88,
+      "change_pct": -0.62
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla\u2019s stock falls as Cybercab launch lands with a thud"
+      "title": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well."
     },
     {
       "source": "MarketWatch",
-      "title": "Micron is doubling down on AI memory chips. That could pay off big time for investors."
+      "title": "Tesla\u2019s stock falls as Cybercab launch lands with a thud"
     }
   ]
 }
