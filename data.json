@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, September 04 2026  03:38 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, September 04 2026  07:47 PT",
+  "market_status": "Live \u2014 as of 10:47 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7747.71,
-      "change_pct": 1.06
+      "price": 7717.46,
+      "change_pct": -0.39
     },
     "Nasdaq": {
-      "price": 26584.06,
-      "change_pct": 1.4
+      "price": 26502.52,
+      "change_pct": -0.31
     },
     "Dow Jones": {
-      "price": 53686.11,
-      "change_pct": 1.18
+      "price": 53389.53,
+      "change_pct": -0.56
     },
     "Russell 2000": {
-      "price": 2968.27,
-      "change_pct": 0.51
+      "price": 2970.98,
+      "change_pct": 0.11
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4517.0,
-      "change_pct": 0.07
+      "price": 4478.8,
+      "change_pct": -0.78
     },
     "Oil (WTI)": {
-      "price": 90.62,
-      "change_pct": -1.52
+      "price": 89.94,
+      "change_pct": -2.26
     },
     "Silver": {
-      "price": 67.38,
-      "change_pct": 0.24
+      "price": 66.68,
+      "change_pct": -0.8
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80976,
-      "change_pct": 4.51
+      "price": 79073,
+      "change_pct": -1.04
     },
     "ETH": {
-      "price": 2522.3,
-      "change_pct": 5.48
+      "price": 2442.61,
+      "change_pct": -0.59
     },
     "SOL": {
-      "price": 103.83,
-      "change_pct": 3.82
+      "price": 100.79,
+      "change_pct": -2.05
     },
     "BNB": {
-      "price": 719.3,
-      "change_pct": 2.5
+      "price": 712.2,
+      "change_pct": -0.99
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer"
+      "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%"
     },
     {
       "source": "CNBC",
-      "title": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings"
+      "title": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses"
     },
     {
       "source": "MarketWatch",
-      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?"
+      "title": "Adobe just announced its next CEO. Here\u2019s why its stock is dropping."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Neither of us attended college\u2019: At 62, how can we afford to put our granddaughter through college?"
+      "title": "Six reasons that the risk of a stock-market selloff is rising. Here\u2019s what investors should be doing."
     }
   ]
 }
