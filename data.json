@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, September 04 2026  11:06 PT",
-  "market_status": "Live \u2014 as of 14:06 ET",
+  "generated_at": "Friday, September 04 2026  13:55 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7709.11,
-      "change_pct": -0.5
+      "price": 7718.6,
+      "change_pct": -0.38
     },
     "Nasdaq": {
-      "price": 26452.66,
-      "change_pct": -0.49
+      "price": 26506.99,
+      "change_pct": -0.29
     },
     "Dow Jones": {
-      "price": 53397.07,
-      "change_pct": -0.54
+      "price": 53414.25,
+      "change_pct": -0.51
     },
     "Russell 2000": {
-      "price": 2967.83,
-      "change_pct": 0.01
+      "price": 2975.65,
+      "change_pct": 0.25
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4465.9,
-      "change_pct": -1.06
+      "price": 4477.8,
+      "change_pct": -0.8
     },
     "Oil (WTI)": {
-      "price": 90.88,
-      "change_pct": -1.24
+      "price": 91.29,
+      "change_pct": -0.79
     },
     "Silver": {
-      "price": 66.5,
-      "change_pct": -1.07
+      "price": 66.79,
+      "change_pct": -0.64
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79574,
-      "change_pct": -1.95
+      "price": 79727,
+      "change_pct": -2.16
     },
     "ETH": {
-      "price": 2449.04,
-      "change_pct": -2.14
+      "price": 2453.22,
+      "change_pct": -2.13
     },
     "SOL": {
-      "price": 101.41,
-      "change_pct": -3.48
+      "price": 101.76,
+      "change_pct": -3.12
     },
     "BNB": {
-      "price": 717.89,
-      "change_pct": -0.57
+      "price": 718.68,
+      "change_pct": -0.77
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses"
+      "title": "Trump doubles down on threat to halt trade with top partners unless Fed cuts rates"
     },
     {
       "source": "CNBC",
-      "title": "Tesla's stock drops as Cybercab update 'underwhelms' Wall Street"
+      "title": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Please don\u2019t let this happen to you\u2019: My best friend died without a will \u2014 her neglectful family gets everything"
+      "title": "Tesla\u2019s stock falls as Cybercab launch lands with a thud"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s not fair\u2019: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?"
+      "title": "Micron is doubling down on AI memory chips. That could pay off big time for investors."
     }
   ]
 }
