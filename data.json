@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, September 03 2026  22:31 PT",
+  "generated_at": "Friday, September 04 2026  03:38 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,35 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4521.1,
-      "change_pct": 0.13
+      "price": 4517.0,
+      "change_pct": 0.07
     },
     "Oil (WTI)": {
-      "price": 91.49,
-      "change_pct": -0.27
+      "price": 90.62,
+      "change_pct": -1.52
     },
     "Silver": {
-      "price": 67.36,
-      "change_pct": 0.13
+      "price": 67.38,
+      "change_pct": 0.24
     }
   },
-  "crypto": {},
+  "crypto": {
+    "BTC": {
+      "price": 80976,
+      "change_pct": 4.51
+    },
+    "ETH": {
+      "price": 2522.3,
+      "change_pct": 5.48
+    },
+    "SOL": {
+      "price": 103.83,
+      "change_pct": 3.82
+    },
+    "BNB": {
+      "price": 719.3,
+      "change_pct": 2.5
+    }
+  },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "EU joins U.S. sanctions push on Iran as South Korea weighs Hormuz deployment"
+      "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer"
     },
     {
       "source": "CNBC",
-      "title": "The inflation genie could be out of the bottle \u2014 and bond markets are sounding the alarm"
+      "title": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings"
     },
     {
       "source": "MarketWatch",
-      "title": "Snowflake has a secret weapon that\u2019s powering its stock toward a huge gain"
+      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I currently give him $1,000 a month\u2019: My grandson has severe mental illness. How do I protect him after I\u2019m gone?"
+      "title": "\u2018Neither of us attended college\u2019: At 62, how can we afford to put our granddaughter through college?"
     }
   ]
 }
