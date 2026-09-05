@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, September 05 2026  05:54 PT",
+  "generated_at": "Saturday, September 05 2026  08:46 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79727,
-      "change_pct": 0.19
+      "price": 79750,
+      "change_pct": 0.29
     },
     "ETH": {
-      "price": 2458.49,
-      "change_pct": 0.12
+      "price": 2458.97,
+      "change_pct": 0.16
     },
     "SOL": {
-      "price": 102.94,
-      "change_pct": 1.23
+      "price": 102.78,
+      "change_pct": 1.13
     },
     "BNB": {
-      "price": 761.29,
-      "change_pct": 6.31
+      "price": 766.77,
+      "change_pct": 6.91
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Plastic surgery is booming with boomers. Here\u2019s how to cash in on the antiaging craze."
+      "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?"
     },
     {
       "source": "MarketWatch",
-      "title": "Why does almost nobody want to befriend older people like me \u2014 except scammers?"
+      "title": "I\u2019m 68. Should I spend half my 401(k) to buy a home with a mortgage?"
     }
   ]
 }
