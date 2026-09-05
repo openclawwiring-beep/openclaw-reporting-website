@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, September 05 2026  08:46 PT",
+  "generated_at": "Saturday, September 05 2026  10:54 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79750,
-      "change_pct": 0.29
+      "price": 80068,
+      "change_pct": 0.82
     },
     "ETH": {
-      "price": 2458.97,
-      "change_pct": 0.16
+      "price": 2478.94,
+      "change_pct": 1.39
     },
     "SOL": {
-      "price": 102.78,
-      "change_pct": 1.13
+      "price": 103.91,
+      "change_pct": 2.7
     },
     "BNB": {
-      "price": 766.77,
-      "change_pct": 6.91
+      "price": 777.76,
+      "change_pct": 8.46
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?"
+      "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire."
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 68. Should I spend half my 401(k) to buy a home with a mortgage?"
+      "title": "There\u2019s a new record number of 401(k) millionaires as retirement savings hold at all-time highs"
     }
   ]
 }
