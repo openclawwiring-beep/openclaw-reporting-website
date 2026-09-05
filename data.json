@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, September 05 2026  14:58 PT",
+  "generated_at": "Saturday, September 05 2026  16:45 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79895,
-      "change_pct": 0.34
+      "price": 79814,
+      "change_pct": 0.16
     },
     "ETH": {
-      "price": 2488.63,
-      "change_pct": 1.49
+      "price": 2480.35,
+      "change_pct": 1.08
     },
     "SOL": {
-      "price": 103.73,
-      "change_pct": 2.11
+      "price": 103.18,
+      "change_pct": 1.28
     },
     "BNB": {
-      "price": 771.54,
-      "change_pct": 7.54
+      "price": 766.85,
+      "change_pct": 6.34
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher."
+      "title": "Why does almost nobody want to befriend older people like me \u2014 except scammers?"
     },
     {
       "source": "MarketWatch",
-      "title": "Will a data center hurt your home\u2019s value? Research says no. Sellers disagree."
+      "title": "Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher."
     }
   ]
 }
