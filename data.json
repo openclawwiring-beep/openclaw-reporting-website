@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, September 05 2026  02:12 PT",
+  "generated_at": "Saturday, September 05 2026  05:54 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79702,
-      "change_pct": -1.77
+      "price": 79727,
+      "change_pct": 0.19
     },
     "ETH": {
-      "price": 2458.28,
-      "change_pct": -2.85
+      "price": 2458.49,
+      "change_pct": 0.12
     },
     "SOL": {
-      "price": 102.69,
-      "change_pct": -1.54
+      "price": 102.94,
+      "change_pct": 1.23
     },
     "BNB": {
-      "price": 749.83,
-      "change_pct": 4.22
+      "price": 761.29,
+      "change_pct": 6.31
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump doubles down on threat to halt trade with top partners unless Fed cuts rates"
+      "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry"
     },
     {
       "source": "CNBC",
-      "title": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street"
+      "title": "Meet the CISO: A new front line star in the AI cybersecurity war"
     },
     {
       "source": "MarketWatch",
-      "title": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well."
+      "title": "Plastic surgery is booming with boomers. Here\u2019s how to cash in on the antiaging craze."
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla\u2019s stock falls as Cybercab launch lands with a thud"
+      "title": "Why does almost nobody want to befriend older people like me \u2014 except scammers?"
     }
   ]
 }
