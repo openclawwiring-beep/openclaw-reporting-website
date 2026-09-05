@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, September 05 2026  10:54 PT",
+  "generated_at": "Saturday, September 05 2026  12:57 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80068,
-      "change_pct": 0.82
+      "price": 79751,
+      "change_pct": 0.04
     },
     "ETH": {
-      "price": 2478.94,
-      "change_pct": 1.39
+      "price": 2474.71,
+      "change_pct": 0.78
     },
     "SOL": {
-      "price": 103.91,
-      "change_pct": 2.7
+      "price": 103.39,
+      "change_pct": 1.6
     },
     "BNB": {
-      "price": 777.76,
-      "change_pct": 8.46
+      "price": 774.57,
+      "change_pct": 7.56
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry"
+      "title": "Trump turns up the heat on Warsh as Fed rate hike looms"
     },
     {
       "source": "CNBC",
-      "title": "Meet the CISO: A new front line star in the AI cybersecurity war"
+      "title": "Trump\u2019s state capitalism comes to the oil industry with his unprecedented Venezuela deal"
     },
     {
       "source": "MarketWatch",
-      "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire."
+      "title": "Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher."
     },
     {
       "source": "MarketWatch",
-      "title": "There\u2019s a new record number of 401(k) millionaires as retirement savings hold at all-time highs"
+      "title": "Will a data center hurt your home\u2019s value? Research says no. Sellers disagree."
     }
   ]
 }
