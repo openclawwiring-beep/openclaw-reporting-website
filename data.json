@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, September 06 2026  01:02 PT",
+  "generated_at": "Sunday, September 06 2026  05:14 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79826,
-      "change_pct": 0.16
+      "price": 79869,
+      "change_pct": 0.26
     },
     "ETH": {
-      "price": 2496.95,
-      "change_pct": 1.64
+      "price": 2499.67,
+      "change_pct": 1.81
     },
     "SOL": {
-      "price": 105.27,
-      "change_pct": 3.02
+      "price": 106.49,
+      "change_pct": 3.97
     },
     "BNB": {
-      "price": 756.6,
-      "change_pct": 2.47
+      "price": 757.28,
+      "change_pct": 0.74
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump turns up the heat on Warsh as Fed rate hike looms"
+      "title": "\u2018Model fatigue\u2019 sets in as AI labs race to roll out new versions at frenetic pace"
     },
     {
       "source": "CNBC",
-      "title": "Trump\u2019s state capitalism comes to the oil industry with his unprecedented Venezuela deal"
+      "title": "Iran warns of \u2018more painful\u2019 response to U.S. attacks as economic pressure mounts"
     },
     {
       "source": "MarketWatch",
