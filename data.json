@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, September 06 2026  08:37 PT",
+  "generated_at": "Sunday, September 06 2026  11:01 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79606,
-      "change_pct": -0.14
+      "price": 79728,
+      "change_pct": -0.39
     },
     "ETH": {
-      "price": 2476.92,
-      "change_pct": 0.74
+      "price": 2492.48,
+      "change_pct": 0.49
     },
     "SOL": {
-      "price": 105.62,
-      "change_pct": 2.83
+      "price": 106.13,
+      "change_pct": 1.82
     },
     "BNB": {
-      "price": 744.33,
-      "change_pct": -2.87
+      "price": 748.11,
+      "change_pct": -3.58
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "\u2018Model fatigue\u2019 sets in as AI labs race to roll out new versions at frenetic pace"
+      "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen"
     },
     {
       "source": "CNBC",
-      "title": "Iran warns of \u2018more painful\u2019 response to U.S. attacks as economic pressure mounts"
+      "title": "AI data centers are transforming rural land markets \u2014 and fueling a backlash"
     },
     {
       "source": "MarketWatch",
