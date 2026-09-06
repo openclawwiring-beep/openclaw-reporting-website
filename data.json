@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, September 05 2026  16:45 PT",
+  "generated_at": "Saturday, September 05 2026  20:02 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79814,
-      "change_pct": 0.16
+      "price": 79910,
+      "change_pct": 0.42
     },
     "ETH": {
-      "price": 2480.35,
-      "change_pct": 1.08
+      "price": 2502.78,
+      "change_pct": 2.03
     },
     "SOL": {
-      "price": 103.18,
-      "change_pct": 1.28
+      "price": 104.41,
+      "change_pct": 2.4
     },
     "BNB": {
-      "price": 766.85,
-      "change_pct": 6.34
+      "price": 763.78,
+      "change_pct": 5.93
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why does almost nobody want to befriend older people like me \u2014 except scammers?"
+      "title": "\u2018Poverty doesn\u2019t have to be my reality\u2019: I thought I\u2019d have to rely on Social Security. Then I taught myself how to invest."
     },
     {
       "source": "MarketWatch",
-      "title": "Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher."
+      "title": "Why does almost nobody want to befriend older people like me \u2014 except scammers?"
     }
   ]
 }
