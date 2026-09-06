@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, September 06 2026  11:01 PT",
+  "generated_at": "Sunday, September 06 2026  13:38 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79728,
-      "change_pct": -0.39
+      "price": 79950,
+      "change_pct": 0.26
     },
     "ETH": {
-      "price": 2492.48,
-      "change_pct": 0.49
+      "price": 2496.45,
+      "change_pct": 0.77
     },
     "SOL": {
-      "price": 106.13,
-      "change_pct": 1.82
+      "price": 105.78,
+      "change_pct": 2.42
     },
     "BNB": {
-      "price": 748.11,
-      "change_pct": -3.58
+      "price": 751.0,
+      "change_pct": -2.58
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "AI data centers are transforming rural land markets \u2014 and fueling a backlash"
+      "title": "Amazon cargo plane crashes after overrunning runway, closing Miami airport on busy holiday weekend"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m leaving money on the table\u2019: I\u2019m 64 and my husband is 70. Should I take spousal benefits or wait for my own?"
+      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?"
     },
     {
       "source": "MarketWatch",
-      "title": "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York."
+      "title": "\u2018Poverty doesn\u2019t have to be my reality\u2019: I thought I\u2019d have to rely on Social Security. Then I taught myself how to invest."
     }
   ]
 }
