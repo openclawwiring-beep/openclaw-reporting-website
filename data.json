@@ -1,6 +1,6 @@
 {
-  "generated_at": "Monday, September 07 2026  10:17 PT",
-  "market_status": "Live \u2014 as of 13:17 ET",
+  "generated_at": "Monday, September 07 2026  13:42 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7718.6,
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79112,
-      "change_pct": -0.65
+      "price": 79209,
+      "change_pct": -0.89
     },
     "ETH": {
-      "price": 2488.39,
-      "change_pct": 0.09
+      "price": 2490.97,
+      "change_pct": -0.16
     },
     "SOL": {
-      "price": 104.04,
-      "change_pct": -2.01
+      "price": 104.05,
+      "change_pct": -1.55
     },
     "BNB": {
-      "price": 740.04,
-      "change_pct": -1.0
+      "price": 739.55,
+      "change_pct": -1.48
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts"
+      "title": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there"
     },
     {
       "source": "MarketWatch",
-      "title": "We\u2019re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?"
+      "title": "\u2018Poverty doesn\u2019t have to be my reality\u2019: I thought I\u2019d have to rely on Social Security. Then I taught myself how to invest."
     },
     {
       "source": "MarketWatch",
-      "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?"
+      "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels"
     }
   ]
 }
