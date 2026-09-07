@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, September 06 2026  22:41 PT",
+  "generated_at": "Monday, September 07 2026  04:38 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79850,
-      "change_pct": -0.25
+      "price": 79440,
+      "change_pct": -0.59
     },
     "ETH": {
-      "price": 2510.44,
-      "change_pct": -0.41
+      "price": 2491.58,
+      "change_pct": -0.36
     },
     "SOL": {
-      "price": 105.51,
-      "change_pct": -1.01
+      "price": 104.94,
+      "change_pct": -1.52
     },
     "BNB": {
-      "price": 749.19,
-      "change_pct": -1.87
+      "price": 744.08,
+      "change_pct": -1.74
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Israel-Hezbollah clashes deepen threat to fragile truce as Lebanon's president calls for U.S. support"
+      "title": "Trump says he has made 'Hundreds of Billions of Dollars on Stocks' in stream of AI posts"
     },
     {
       "source": "CNBC",
-      "title": "Asia-Pacific markets rise as investors assess renewed Middle East hostilities"
+      "title": "SpaceX rival launches rocket in historic first, says industry is 'desperate' for more"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I currently give him $1,000 a month\u2019: My grandson has severe mental illness. How do I protect him after I\u2019m gone?"
+      "title": "Why does almost nobody want to befriend older people like me \u2014 except scammers?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s not fair\u2019: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?"
+      "title": "Is the stock market open today for Labor Day? What about bond trading and mail delivery?"
     }
   ]
 }
