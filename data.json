@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, September 06 2026  17:41 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Sunday, September 06 2026  22:41 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7718.6,
@@ -22,43 +22,43 @@
   "commodities": {
     "Gold": {
       "price": 4476.6,
-      "change_pct": 0.0
+      "change_pct": -0.82
     },
     "Oil (WTI)": {
       "price": 91.48,
-      "change_pct": 0.0
+      "change_pct": -0.59
     },
     "Silver": {
       "price": 66.75,
-      "change_pct": 0.0
+      "change_pct": -0.69
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80119,
-      "change_pct": 0.27
+      "price": 79850,
+      "change_pct": -0.25
     },
     "ETH": {
-      "price": 2513.88,
-      "change_pct": 1.07
+      "price": 2510.44,
+      "change_pct": -0.41
     },
     "SOL": {
-      "price": 106.02,
-      "change_pct": 2.55
+      "price": 105.51,
+      "change_pct": -1.01
     },
     "BNB": {
-      "price": 752.16,
-      "change_pct": -1.99
+      "price": 749.19,
+      "change_pct": -1.87
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen"
+      "title": "Israel-Hezbollah clashes deepen threat to fragile truce as Lebanon's president calls for U.S. support"
     },
     {
       "source": "CNBC",
-      "title": "Asia-Pacific markets open higher as investors assess renewed Middle East  hostilities"
+      "title": "Asia-Pacific markets rise as investors assess renewed Middle East hostilities"
     },
     {
       "source": "MarketWatch",
