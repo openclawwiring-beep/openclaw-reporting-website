@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, September 06 2026  15:41 PT",
+  "generated_at": "Sunday, September 06 2026  17:41 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 79963,
-      "change_pct": 0.2
+      "price": 80119,
+      "change_pct": 0.27
     },
     "ETH": {
-      "price": 2505.15,
-      "change_pct": 0.93
+      "price": 2513.88,
+      "change_pct": 1.07
     },
     "SOL": {
-      "price": 105.89,
-      "change_pct": 2.47
+      "price": 106.02,
+      "change_pct": 2.55
     },
     "BNB": {
-      "price": 750.65,
-      "change_pct": -2.5
+      "price": 752.16,
+      "change_pct": -1.99
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "At least 5 dead after Amazon cargo plane barreled off runway at Miami airport"
+      "title": "Asia-Pacific markets open higher as investors assess renewed Middle East  hostilities"
     },
     {
       "source": "MarketWatch",
