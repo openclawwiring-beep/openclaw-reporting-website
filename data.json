@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, September 08 2026  09:01 PT",
-  "market_status": "Live \u2014 as of 12:01 ET",
+  "generated_at": "Tuesday, September 08 2026  12:29 PT",
+  "market_status": "Live \u2014 as of 15:29 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7687.64,
-      "change_pct": -0.39
+      "price": 7684.66,
+      "change_pct": -0.43
     },
     "Nasdaq": {
-      "price": 26467.14,
-      "change_pct": -0.15
+      "price": 26444.09,
+      "change_pct": -0.24
     },
     "Dow Jones": {
-      "price": 52822.6,
-      "change_pct": -1.09
+      "price": 52846.43,
+      "change_pct": -1.05
     },
     "Russell 2000": {
-      "price": 2971.6,
-      "change_pct": -0.12
+      "price": 2971.45,
+      "change_pct": -0.13
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4443.1,
-      "change_pct": -0.75
+      "price": 4412.6,
+      "change_pct": -1.43
     },
     "Oil (WTI)": {
-      "price": 92.34,
-      "change_pct": 0.94
+      "price": 93.55,
+      "change_pct": 2.26
     },
     "Silver": {
-      "price": 66.95,
-      "change_pct": 0.3
+      "price": 66.55,
+      "change_pct": -0.3
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78850,
-      "change_pct": 0.05
+      "price": 78398,
+      "change_pct": -1.03
     },
     "ETH": {
-      "price": 2497.22,
-      "change_pct": 1.1
+      "price": 2484.37,
+      "change_pct": -0.3
     },
     "SOL": {
-      "price": 104.12,
-      "change_pct": 0.87
+      "price": 103.2,
+      "change_pct": -0.85
     },
     "BNB": {
-      "price": 756.13,
-      "change_pct": 2.92
+      "price": 749.56,
+      "change_pct": 1.29
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow drops more than 500 points to start shortened week as oil prices climb: Live updates"
+      "title": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America"
     },
     {
       "source": "CNBC",
-      "title": "Qualcomm issues Amazon warrants to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal"
+      "title": "New Hampshire goes to the polls in primary for key open Senate seat"
     },
     {
       "source": "MarketWatch",
-      "title": "Bombardier\u2019s stock drops as the U.S.-Canada trade war intensifies. Here\u2019s what Trump may target next."
+      "title": "Stocks are stumbling after Labor Day. This year\u2019s easy gains may be over."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?"
+      "title": "How these Gen Z workers managed to buy homes in their early 20s"
     }
   ]
 }
