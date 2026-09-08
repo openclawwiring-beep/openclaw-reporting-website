@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, September 08 2026  04:34 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, September 08 2026  09:01 PT",
+  "market_status": "Live \u2014 as of 12:01 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7718.6,
-      "change_pct": -0.38
+      "price": 7687.64,
+      "change_pct": -0.39
     },
     "Nasdaq": {
-      "price": 26506.99,
-      "change_pct": -0.29
+      "price": 26467.14,
+      "change_pct": -0.15
     },
     "Dow Jones": {
-      "price": 53414.25,
-      "change_pct": -0.51
+      "price": 52822.6,
+      "change_pct": -1.09
     },
     "Russell 2000": {
-      "price": 2975.65,
-      "change_pct": 0.25
+      "price": 2971.6,
+      "change_pct": -0.12
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4444.3,
-      "change_pct": -0.72
+      "price": 4443.1,
+      "change_pct": -0.75
     },
     "Oil (WTI)": {
-      "price": 93.81,
-      "change_pct": 2.55
+      "price": 92.34,
+      "change_pct": 0.94
     },
     "Silver": {
-      "price": 66.7,
-      "change_pct": -0.07
+      "price": 66.95,
+      "change_pct": 0.3
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78439,
-      "change_pct": -1.28
+      "price": 78850,
+      "change_pct": 0.05
     },
     "ETH": {
-      "price": 2474.46,
-      "change_pct": -0.73
+      "price": 2497.22,
+      "change_pct": 1.1
     },
     "SOL": {
-      "price": 102.93,
-      "change_pct": -1.97
+      "price": 104.12,
+      "change_pct": 0.87
     },
     "BNB": {
-      "price": 753.61,
-      "change_pct": 1.28
+      "price": 756.13,
+      "change_pct": 2.92
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Brent crude nears $100 after strikes on Saudi energy sites amid renewed Mideast hostilities"
+      "title": "Dow drops more than 500 points to start shortened week as oil prices climb: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens"
+      "title": "Qualcomm issues Amazon warrants to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal"
     },
     {
       "source": "MarketWatch",
-      "title": "Beneath the surface, the next stock-market leaders are getting ready to break out, says Morgan Stanley"
+      "title": "Bombardier\u2019s stock drops as the U.S.-Canada trade war intensifies. Here\u2019s what Trump may target next."
     },
     {
       "source": "MarketWatch",
-      "title": "I have two sons. Should I allow one son to build a $400,000 house on my property? I\u2019m not permitted to subdivide the land."
+      "title": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?"
     }
   ]
 }
