@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, September 08 2026  12:29 PT",
-  "market_status": "Live \u2014 as of 15:29 ET",
+  "generated_at": "Tuesday, September 08 2026  14:59 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7684.66,
-      "change_pct": -0.43
+      "price": 7673.52,
+      "change_pct": -0.58
     },
     "Nasdaq": {
-      "price": 26444.09,
-      "change_pct": -0.24
+      "price": 26421.41,
+      "change_pct": -0.32
     },
     "Dow Jones": {
-      "price": 52846.43,
-      "change_pct": -1.05
+      "price": 52786.07,
+      "change_pct": -1.18
     },
     "Russell 2000": {
-      "price": 2971.45,
-      "change_pct": -0.13
+      "price": 2960.2,
+      "change_pct": -0.52
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4412.6,
-      "change_pct": -1.43
+      "price": 4400.0,
+      "change_pct": -1.71
     },
     "Oil (WTI)": {
-      "price": 93.55,
-      "change_pct": 2.26
+      "price": 94.25,
+      "change_pct": 3.03
     },
     "Silver": {
-      "price": 66.55,
-      "change_pct": -0.3
+      "price": 66.38,
+      "change_pct": -0.56
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78398,
-      "change_pct": -1.03
+      "price": 78454,
+      "change_pct": -0.93
     },
     "ETH": {
-      "price": 2484.37,
-      "change_pct": -0.3
+      "price": 2480.37,
+      "change_pct": -0.44
     },
     "SOL": {
-      "price": 103.2,
-      "change_pct": -0.85
+      "price": 102.96,
+      "change_pct": -0.95
     },
     "BNB": {
-      "price": 749.56,
-      "change_pct": 1.29
+      "price": 751.98,
+      "change_pct": 1.72
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America"
+      "title": "Dow closes 600 points lower in back-to-back losses as oil prices gain"
     },
     {
       "source": "CNBC",
-      "title": "New Hampshire goes to the polls in primary for key open Senate seat"
+      "title": "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait"
     },
     {
       "source": "MarketWatch",
-      "title": "Stocks are stumbling after Labor Day. This year\u2019s easy gains may be over."
+      "title": "Memory chips have come to rule the AI boom. Why Micron\u2019s reign could be here to stay."
     },
     {
       "source": "MarketWatch",
-      "title": "How these Gen Z workers managed to buy homes in their early 20s"
+      "title": "Oracle\u2019s stock gets a boost as the OpenAI ecosystem comes back into favor"
     }
   ]
 }
