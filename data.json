@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, September 08 2026  14:59 PT",
+  "generated_at": "Tuesday, September 08 2026  17:01 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4400.0,
-      "change_pct": -1.71
+      "price": 4396.2,
+      "change_pct": -1.8
     },
     "Oil (WTI)": {
-      "price": 94.25,
-      "change_pct": 3.03
+      "price": 94.62,
+      "change_pct": 3.43
     },
     "Silver": {
-      "price": 66.38,
-      "change_pct": -0.56
+      "price": 66.22,
+      "change_pct": -0.78
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78454,
-      "change_pct": -0.93
+      "price": 78443,
+      "change_pct": -0.82
     },
     "ETH": {
-      "price": 2480.37,
-      "change_pct": -0.44
+      "price": 2484.85,
+      "change_pct": -0.18
     },
     "SOL": {
-      "price": 102.96,
-      "change_pct": -0.95
+      "price": 103.34,
+      "change_pct": -0.44
     },
     "BNB": {
-      "price": 751.98,
+      "price": 752.38,
       "change_pct": 1.72
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow closes 600 points lower in back-to-back losses as oil prices gain"
+      "title": "U.S. military destroys five Iranian oil tankers after attempted attack on American warship, Centcom says"
     },
     {
       "source": "CNBC",
-      "title": "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait"
+      "title": "Stock futures are little changed after losing session; Brent crude tops $99 per barrel: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Memory chips have come to rule the AI boom. Why Micron\u2019s reign could be here to stay."
+      "title": "How to invest in a booming stock market that\u2019s way cheaper than the S&P 500"
     },
     {
       "source": "MarketWatch",
-      "title": "Oracle\u2019s stock gets a boost as the OpenAI ecosystem comes back into favor"
+      "title": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?"
     }
   ]
 }
