@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, September 09 2026  13:27 PT",
+  "generated_at": "Wednesday, September 09 2026  15:41 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4441.5,
-      "change_pct": 0.48
+      "price": 4446.7,
+      "change_pct": 0.59
     },
     "Oil (WTI)": {
-      "price": 96.85,
-      "change_pct": 2.83
+      "price": 97.01,
+      "change_pct": 3.0
     },
     "Silver": {
-      "price": 67.79,
-      "change_pct": 1.38
+      "price": 67.95,
+      "change_pct": 1.61
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78211,
-      "change_pct": -0.38
+      "price": 78010,
+      "change_pct": -0.6
     },
     "ETH": {
-      "price": 2465.92,
-      "change_pct": -0.78
+      "price": 2455.28,
+      "change_pct": -1.16
     },
     "SOL": {
-      "price": 102.29,
-      "change_pct": -1.03
+      "price": 101.35,
+      "change_pct": -1.88
     },
     "BNB": {
-      "price": 736.46,
-      "change_pct": -1.77
+      "price": 720.73,
+      "change_pct": -4.28
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Canadian whisky on the rocks? Crown Royal is set to avoid Trump\u2019s new ban."
+      "title": "I\u2019m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?"
     },
     {
       "source": "MarketWatch",
-      "title": "Treasury will buy more government bonds than previously announced. The market remains \u2018underwhelmed.\u2019"
+      "title": "Home-insurance premiums just hit a record high. Here\u2019s where they spiked the most."
     }
   ]
 }
