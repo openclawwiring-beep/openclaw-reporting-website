@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, September 09 2026  22:37 PT",
+  "generated_at": "Thursday, September 10 2026  03:39 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4461.6,
-      "change_pct": 0.54
+      "price": 4436.9,
+      "change_pct": -0.34
     },
     "Oil (WTI)": {
-      "price": 95.9,
-      "change_pct": -0.68
+      "price": 97.35,
+      "change_pct": 1.3
     },
     "Silver": {
-      "price": 68.32,
-      "change_pct": 0.57
+      "price": 66.99,
+      "change_pct": -1.48
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78461,
-      "change_pct": -0.69
+      "price": 77958,
+      "change_pct": -1.5
     },
     "ETH": {
-      "price": 2479.66,
-      "change_pct": -0.71
+      "price": 2468.28,
+      "change_pct": -0.97
     },
     "SOL": {
-      "price": 101.99,
-      "change_pct": -2.15
+      "price": 101.11,
+      "change_pct": -2.79
     },
     "BNB": {
-      "price": 722.46,
-      "change_pct": -3.98
+      "price": 717.59,
+      "change_pct": -4.38
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says oil and gas prices won't fall until 'right after' midterm election"
+      "title": "Trump promises $5,000 'dividend' to U.S. citizens if Republicans win midterms"
     },
     {
       "source": "CNBC",
-      "title": "World\u2019s largest contract chipmaker TSMC sees August revenue surge over 53% to record high"
+      "title": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and \u2018DOGE\u2019 dividends last year that never came."
+      "title": "\u2018We fear financial exploitation\u2019: Who will manage our finances if my wife and I become incapacitated?"
     },
     {
       "source": "MarketWatch",
-      "title": "Hunter Biden memecoin $LAPTOP loses 95% of market value just hours after launch"
+      "title": "The ECB is virtually certain to raise rates. Wall Street is bracing for what comes next."
     }
   ]
 }
