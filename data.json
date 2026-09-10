@@ -1,60 +1,60 @@
 {
-  "generated_at": "Thursday, September 10 2026  07:49 PT",
-  "market_status": "Live \u2014 as of 10:49 ET",
+  "generated_at": "Thursday, September 10 2026  11:06 PT",
+  "market_status": "Live \u2014 as of 14:06 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7600.81,
-      "change_pct": -0.48
+      "price": 7592.08,
+      "change_pct": -0.6
     },
     "Nasdaq": {
-      "price": 26134.43,
-      "change_pct": -0.45
+      "price": 26098.19,
+      "change_pct": -0.59
     },
     "Dow Jones": {
-      "price": 52131.34,
-      "change_pct": -0.5
+      "price": 52022.32,
+      "change_pct": -0.7
     },
     "Russell 2000": {
-      "price": 2905.72,
-      "change_pct": -0.53
+      "price": 2892.58,
+      "change_pct": -0.98
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4406.5,
-      "change_pct": -1.02
+      "price": 4397.1,
+      "change_pct": -1.23
     },
     "Oil (WTI)": {
-      "price": 99.42,
-      "change_pct": 3.45
+      "price": 101.95,
+      "change_pct": 6.09
     },
     "Silver": {
-      "price": 65.05,
-      "change_pct": -4.33
+      "price": 64.74,
+      "change_pct": -4.79
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77329,
-      "change_pct": -2.16
+      "price": 77196,
+      "change_pct": -1.96
     },
     "ETH": {
-      "price": 2442.47,
-      "change_pct": -2.45
+      "price": 2461.33,
+      "change_pct": -1.31
     },
     "SOL": {
-      "price": 100.29,
-      "change_pct": -3.22
+      "price": 99.68,
+      "change_pct": -3.78
     },
     "BNB": {
-      "price": 710.31,
-      "change_pct": -4.52
+      "price": 711.36,
+      "change_pct": -4.03
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO"
+      "title": "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?"
+      "title": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m always covering for a lazy employee. How can I deal with him without going crazy?"
+      "title": "The future of retirement: Work until you die"
     }
   ]
 }
