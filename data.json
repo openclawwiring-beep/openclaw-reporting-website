@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, September 10 2026  14:03 PT",
+  "generated_at": "Thursday, September 10 2026  16:19 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4357.8,
-      "change_pct": -2.11
+      "price": 4358.9,
+      "change_pct": -2.09
     },
     "Oil (WTI)": {
-      "price": 103.86,
-      "change_pct": 8.07
+      "price": 103.78,
+      "change_pct": 7.99
     },
     "Silver": {
-      "price": 64.11,
-      "change_pct": -5.71
+      "price": 64.04,
+      "change_pct": -5.81
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77242,
-      "change_pct": -1.33
+      "price": 76583,
+      "change_pct": -1.96
     },
     "ETH": {
-      "price": 2462.03,
-      "change_pct": -0.32
+      "price": 2436.7,
+      "change_pct": -0.94
     },
     "SOL": {
-      "price": 100.04,
-      "change_pct": -2.31
+      "price": 98.8,
+      "change_pct": -2.58
     },
     "BNB": {
-      "price": 714.68,
-      "change_pct": -2.54
+      "price": 708.97,
+      "change_pct": -1.65
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback"
+      "title": "Oracle's stock edges up on earnings beat as cloud infrastructure revenue more than doubles"
     },
     {
       "source": "CNBC",
-      "title": "Oracle's stock jumps 7% on earnings beat as cloud infrastructure revenue more than doubles"
+      "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect"
     },
     {
       "source": "MarketWatch",
-      "title": "Adobe\u2019s latest earnings leave Wall Street wanting more"
+      "title": "All the ways record-high diesel and rising gas prices are about to make your life more expensive \u2014 from commuting to grocery shopping"
     },
     {
       "source": "MarketWatch",
-      "title": "Apple is walking a \u2018tightrope\u2019 when it comes to the prices of its new iPhones"
+      "title": "Want Apple\u2019s $1,999 foldable iPhone Duo? Here\u2019s what T-Mobile, AT&T and Verizon are doing to lower the cost."
     }
   ]
 }
