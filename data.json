@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, September 10 2026  03:39 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, September 10 2026  07:49 PT",
+  "market_status": "Live \u2014 as of 10:49 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7636.36,
+      "price": 7600.81,
       "change_pct": -0.48
     },
     "Nasdaq": {
-      "price": 26253.34,
-      "change_pct": -0.64
+      "price": 26134.43,
+      "change_pct": -0.45
     },
     "Dow Jones": {
-      "price": 52380.66,
-      "change_pct": -0.77
+      "price": 52131.34,
+      "change_pct": -0.5
     },
     "Russell 2000": {
-      "price": 2921.24,
-      "change_pct": -1.32
+      "price": 2905.72,
+      "change_pct": -0.53
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4436.9,
-      "change_pct": -0.34
+      "price": 4406.5,
+      "change_pct": -1.02
     },
     "Oil (WTI)": {
-      "price": 97.35,
-      "change_pct": 1.3
+      "price": 99.42,
+      "change_pct": 3.45
     },
     "Silver": {
-      "price": 66.99,
-      "change_pct": -1.48
+      "price": 65.05,
+      "change_pct": -4.33
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77958,
-      "change_pct": -1.5
+      "price": 77329,
+      "change_pct": -2.16
     },
     "ETH": {
-      "price": 2468.28,
-      "change_pct": -0.97
+      "price": 2442.47,
+      "change_pct": -2.45
     },
     "SOL": {
-      "price": 101.11,
-      "change_pct": -2.79
+      "price": 100.29,
+      "change_pct": -3.22
     },
     "BNB": {
-      "price": 717.59,
-      "change_pct": -4.38
+      "price": 710.31,
+      "change_pct": -4.52
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump promises $5,000 'dividend' to U.S. citizens if Republicans win midterms"
+      "title": "Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO"
     },
     {
       "source": "CNBC",
-      "title": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz"
+      "title": "The likelihood of a Fed interest rate hike next week just got a lot higher"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We fear financial exploitation\u2019: Who will manage our finances if my wife and I become incapacitated?"
+      "title": "I\u2019m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?"
     },
     {
       "source": "MarketWatch",
-      "title": "The ECB is virtually certain to raise rates. Wall Street is bracing for what comes next."
+      "title": "I\u2019m always covering for a lazy employee. How can I deal with him without going crazy?"
     }
   ]
 }
