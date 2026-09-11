@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, September 11 2026  08:54 PT",
-  "market_status": "Live \u2014 as of 11:54 ET",
+  "generated_at": "Friday, September 11 2026  11:58 PT",
+  "market_status": "Live \u2014 as of 14:58 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7668.6,
-      "change_pct": 1.01
+      "price": 7664.83,
+      "change_pct": 0.96
     },
     "Nasdaq": {
-      "price": 26387.76,
-      "change_pct": 1.17
+      "price": 26370.63,
+      "change_pct": 1.11
     },
     "Dow Jones": {
-      "price": 52572.58,
-      "change_pct": 0.98
+      "price": 52594.04,
+      "change_pct": 1.02
     },
     "Russell 2000": {
-      "price": 2908.86,
-      "change_pct": 0.62
+      "price": 2908.17,
+      "change_pct": 0.6
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4415.2,
-      "change_pct": 1.62
+      "price": 4387.2,
+      "change_pct": 0.97
     },
     "Oil (WTI)": {
-      "price": 99.41,
-      "change_pct": -3.69
+      "price": 100.53,
+      "change_pct": -2.61
     },
     "Silver": {
-      "price": 65.09,
-      "change_pct": 2.39
+      "price": 64.76,
+      "change_pct": 1.88
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78385,
-      "change_pct": 1.59
+      "price": 77001,
+      "change_pct": -0.24
     },
     "ETH": {
-      "price": 2602.18,
-      "change_pct": 6.74
+      "price": 2533.73,
+      "change_pct": 2.77
     },
     "SOL": {
-      "price": 102.87,
-      "change_pct": 3.27
+      "price": 100.82,
+      "change_pct": 0.96
     },
     "BNB": {
-      "price": 735.33,
-      "change_pct": 3.94
+      "price": 721.99,
+      "change_pct": 1.23
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access"
+      "title": "Analysis: Hot inflation data sets up a Fed rate hike. What happens if Warsh wavers"
     },
     {
       "source": "MarketWatch",
-      "title": "Investors are all wrong about demography"
+      "title": "Are AI-written resumes more likely to get you a job? The answer may surprise you."
     },
     {
       "source": "MarketWatch",
-      "title": "Forget the Fed. The Bank of Japan could deliver next week\u2019s market shock."
+      "title": "The Fed could raise interest rates three times. Here\u2019s where the market could face the stiffest test."
     }
   ]
 }
