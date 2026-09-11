@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, September 11 2026  14:39 PT",
+  "generated_at": "Friday, September 11 2026  16:52 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77334,
-      "change_pct": 0.22
+      "price": 77159,
+      "change_pct": 0.59
     },
     "ETH": {
-      "price": 2536.17,
-      "change_pct": 3.16
+      "price": 2512.14,
+      "change_pct": 2.94
     },
     "SOL": {
-      "price": 102.81,
-      "change_pct": 2.96
+      "price": 102.41,
+      "change_pct": 3.42
     },
     "BNB": {
-      "price": 726.32,
-      "change_pct": 1.73
+      "price": 726.96,
+      "change_pct": 2.4
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Marvell is sitting on an incredibly \u2018sticky\u2019 business that could help it unlock a $30 billion opportunity"
+      "title": "This investment is safe from both Trump and the Democrats \u2014 and it pays 4.7%"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?"
+      "title": "Marvell is sitting on an incredibly \u2018sticky\u2019 business that could help it unlock a $30 billion opportunity"
     }
   ]
 }
