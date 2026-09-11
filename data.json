@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, September 11 2026  04:40 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, September 11 2026  08:54 PT",
+  "market_status": "Live \u2014 as of 11:54 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7591.7,
-      "change_pct": -0.58
+      "price": 7668.6,
+      "change_pct": 1.01
     },
     "Nasdaq": {
-      "price": 26081.72,
-      "change_pct": -0.65
+      "price": 26387.76,
+      "change_pct": 1.17
     },
     "Dow Jones": {
-      "price": 52064.1,
-      "change_pct": -0.6
+      "price": 52572.58,
+      "change_pct": 0.98
     },
     "Russell 2000": {
-      "price": 2890.95,
-      "change_pct": -1.04
+      "price": 2908.86,
+      "change_pct": 0.62
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4378.3,
-      "change_pct": 0.77
+      "price": 4415.2,
+      "change_pct": 1.62
     },
     "Oil (WTI)": {
-      "price": 99.51,
-      "change_pct": -3.59
+      "price": 99.41,
+      "change_pct": -3.69
     },
     "Silver": {
-      "price": 64.36,
-      "change_pct": 1.24
+      "price": 65.09,
+      "change_pct": 2.39
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76835,
-      "change_pct": -1.51
+      "price": 78385,
+      "change_pct": 1.59
     },
     "ETH": {
-      "price": 2454.47,
-      "change_pct": -0.54
+      "price": 2602.18,
+      "change_pct": 6.74
     },
     "SOL": {
-      "price": 98.85,
-      "change_pct": -2.54
+      "price": 102.87,
+      "change_pct": 3.27
     },
     "BNB": {
-      "price": 711.23,
-      "change_pct": -0.95
+      "price": 735.33,
+      "change_pct": 3.94
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow futures jump more than 200 points as oil prices slide; consumer inflation data ahead: Live updates"
+      "title": "Here\u2019s the inflation breakdown for August 2026 \u2014 in one chart"
     },
     {
       "source": "CNBC",
-      "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect"
+      "title": "25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access"
     },
     {
       "source": "MarketWatch",
-      "title": "On my late husband\u2019s birthday, I want to pay for every customer at his favorite restaurant. Is this a good idea?"
+      "title": "Investors are all wrong about demography"
     },
     {
       "source": "MarketWatch",
-      "title": "The four reasons stocks could embark on a \u2018face-ripper rally\u2019 as soon as this morning"
+      "title": "Forget the Fed. The Bank of Japan could deliver next week\u2019s market shock."
     }
   ]
 }
