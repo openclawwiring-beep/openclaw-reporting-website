@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, September 10 2026  23:24 PT",
+  "generated_at": "Friday, September 11 2026  04:40 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4400.7,
+      "price": 4378.3,
       "change_pct": 0.77
     },
     "Oil (WTI)": {
-      "price": 100.8,
-      "change_pct": -1.63
+      "price": 99.51,
+      "change_pct": -3.59
     },
     "Silver": {
-      "price": 64.66,
-      "change_pct": 1.09
+      "price": 64.36,
+      "change_pct": 1.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77276,
-      "change_pct": -1.15
+      "price": 76835,
+      "change_pct": -1.51
     },
     "ETH": {
-      "price": 2467.22,
-      "change_pct": -0.2
+      "price": 2454.47,
+      "change_pct": -0.54
     },
     "SOL": {
-      "price": 99.82,
-      "change_pct": -1.6
+      "price": 98.85,
+      "change_pct": -2.54
     },
     "BNB": {
-      "price": 716.07,
-      "change_pct": -0.39
+      "price": 711.23,
+      "change_pct": -0.95
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure"
+      "title": "Dow futures jump more than 200 points as oil prices slide; consumer inflation data ahead: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy"
+      "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect"
     },
     {
       "source": "MarketWatch",
-      "title": "Oracle\u2019s AI bet pays off as cloud momentum helps drive a rosier forecast"
+      "title": "On my late husband\u2019s birthday, I want to pay for every customer at his favorite restaurant. Is this a good idea?"
     },
     {
       "source": "MarketWatch",
-      "title": "Adobe\u2019s latest earnings leave Wall Street wanting more"
+      "title": "The four reasons stocks could embark on a \u2018face-ripper rally\u2019 as soon as this morning"
     }
   ]
 }
