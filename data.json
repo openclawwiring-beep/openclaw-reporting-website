@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, September 10 2026  18:19 PT",
+  "generated_at": "Thursday, September 10 2026  23:24 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4376.3,
-      "change_pct": -1.7
+      "price": 4400.7,
+      "change_pct": 0.77
     },
     "Oil (WTI)": {
-      "price": 102.39,
-      "change_pct": 6.55
+      "price": 100.8,
+      "change_pct": -1.63
     },
     "Silver": {
-      "price": 64.25,
-      "change_pct": -5.52
+      "price": 64.66,
+      "change_pct": 1.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76874,
-      "change_pct": -1.73
+      "price": 77276,
+      "change_pct": -1.15
     },
     "ETH": {
-      "price": 2455.7,
-      "change_pct": -0.38
+      "price": 2467.22,
+      "change_pct": -0.2
     },
     "SOL": {
-      "price": 99.35,
-      "change_pct": -1.71
+      "price": 99.82,
+      "change_pct": -1.6
     },
     "BNB": {
-      "price": 713.28,
-      "change_pct": -1.24
+      "price": 716.07,
+      "change_pct": -0.39
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says"
+      "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure"
     },
     {
       "source": "CNBC",
