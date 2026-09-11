@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, September 10 2026  16:19 PT",
+  "generated_at": "Thursday, September 10 2026  18:19 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4358.9,
-      "change_pct": -2.09
+      "price": 4376.3,
+      "change_pct": -1.7
     },
     "Oil (WTI)": {
-      "price": 103.78,
-      "change_pct": 7.99
+      "price": 102.39,
+      "change_pct": 6.55
     },
     "Silver": {
-      "price": 64.04,
-      "change_pct": -5.81
+      "price": 64.25,
+      "change_pct": -5.52
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76583,
-      "change_pct": -1.96
+      "price": 76874,
+      "change_pct": -1.73
     },
     "ETH": {
-      "price": 2436.7,
-      "change_pct": -0.94
+      "price": 2455.7,
+      "change_pct": -0.38
     },
     "SOL": {
-      "price": 98.8,
-      "change_pct": -2.58
+      "price": 99.35,
+      "change_pct": -1.71
     },
     "BNB": {
-      "price": 708.97,
-      "change_pct": -1.65
+      "price": 713.28,
+      "change_pct": -1.24
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oracle's stock edges up on earnings beat as cloud infrastructure revenue more than doubles"
+      "title": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says"
     },
     {
       "source": "CNBC",
-      "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect"
+      "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy"
     },
     {
       "source": "MarketWatch",
-      "title": "All the ways record-high diesel and rising gas prices are about to make your life more expensive \u2014 from commuting to grocery shopping"
+      "title": "Oracle\u2019s AI bet pays off as cloud momentum helps drive a rosier forecast"
     },
     {
       "source": "MarketWatch",
-      "title": "Want Apple\u2019s $1,999 foldable iPhone Duo? Here\u2019s what T-Mobile, AT&T and Verizon are doing to lower the cost."
+      "title": "Adobe\u2019s latest earnings leave Wall Street wanting more"
     }
   ]
 }
