@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, September 12 2026  08:43 PT",
+  "generated_at": "Saturday, September 12 2026  11:06 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77401,
-      "change_pct": -1.68
+      "price": 77178,
+      "change_pct": 0.17
     },
     "ETH": {
-      "price": 2534.22,
-      "change_pct": -2.95
+      "price": 2524.33,
+      "change_pct": -1.01
     },
     "SOL": {
-      "price": 102.0,
-      "change_pct": -1.24
+      "price": 101.88,
+      "change_pct": 0.59
     },
     "BNB": {
-      "price": 735.58,
-      "change_pct": -0.53
+      "price": 730.61,
+      "change_pct": 0.87
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Here\u2019s the inflation breakdown for August 2026 \u2014 in one chart"
+      "title": "Oil's roundtrip back to $100. Why China could determine what happens next"
     },
     {
       "source": "CNBC",
-      "title": "Tehran won\u2019t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace"
+      "title": "Anthropic's Amodei proposes plan to 'slow the pace' of advancing AI capabilities"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?"
+      "title": "Elon Musk backs Anthropic\u2019s call to slow down AI progress before rogue bots take over the entire internet"
     },
     {
       "source": "MarketWatch",
-      "title": "My 87-year-old mother wants to pay for my brother\u2019s kids\u2019 education. I don\u2019t have children. How is that fair?"
+      "title": "\u2018I still don\u2019t have my MRI\u2019: My health insurer canceled my plan without warning. Is that legal?"
     }
   ]
 }
