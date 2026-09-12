@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, September 11 2026  16:52 PT",
+  "generated_at": "Friday, September 11 2026  20:13 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -11,7 +11,7 @@
       "change_pct": 0.96
     },
     "Dow Jones": {
-      "price": 52573.29,
+      "price": 52573.3,
       "change_pct": 0.98
     },
     "Russell 2000": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77159,
-      "change_pct": 0.59
+      "price": 77297,
+      "change_pct": 0.67
     },
     "ETH": {
-      "price": 2512.14,
-      "change_pct": 2.94
+      "price": 2514.98,
+      "change_pct": 2.9
     },
     "SOL": {
-      "price": 102.41,
-      "change_pct": 3.42
+      "price": 101.85,
+      "change_pct": 2.73
     },
     "BNB": {
-      "price": 726.96,
-      "change_pct": 2.4
+      "price": 734.93,
+      "change_pct": 3.4
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "This investment is safe from both Trump and the Democrats \u2014 and it pays 4.7%"
+      "title": "The Fed could raise interest rates three times. Here\u2019s where the market could face the stiffest test."
     },
     {
       "source": "MarketWatch",
-      "title": "Marvell is sitting on an incredibly \u2018sticky\u2019 business that could help it unlock a $30 billion opportunity"
+      "title": "This investment is safe from both Trump and the Democrats \u2014 and it pays 4.7%"
     }
   ]
 }
