@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, September 12 2026  01:03 PT",
+  "generated_at": "Saturday, September 12 2026  05:16 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77262,
-      "change_pct": 0.05
+      "price": 77313,
+      "change_pct": 0.48
     },
     "ETH": {
-      "price": 2523.37,
-      "change_pct": 2.27
+      "price": 2533.14,
+      "change_pct": 3.25
     },
     "SOL": {
-      "price": 101.63,
-      "change_pct": 1.91
+      "price": 102.2,
+      "change_pct": 2.96
     },
     "BNB": {
-      "price": 733.55,
-      "change_pct": 2.71
+      "price": 736.09,
+      "change_pct": 3.4
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq"
+      "title": "Tehran won\u2019t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace"
     },
     {
       "source": "MarketWatch",
-      "title": "The Fed could raise interest rates three times. Here\u2019s where the market could face the stiffest test."
+      "title": "\u2018I still don\u2019t have my MRI\u2019: My health insurer canceled my plan without warning. Is that legal?"
     },
     {
       "source": "MarketWatch",
-      "title": "This investment is safe from both Trump and the Democrats \u2014 and it pays 4.7%"
+      "title": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?"
     }
   ]
 }
