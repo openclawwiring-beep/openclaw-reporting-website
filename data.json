@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, September 12 2026  11:06 PT",
+  "generated_at": "Saturday, September 12 2026  13:46 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77178,
-      "change_pct": 0.17
+      "price": 77177,
+      "change_pct": -0.28
     },
     "ETH": {
-      "price": 2524.33,
-      "change_pct": -1.01
+      "price": 2522.13,
+      "change_pct": -0.57
     },
     "SOL": {
-      "price": 101.88,
-      "change_pct": 0.59
+      "price": 101.47,
+      "change_pct": -1.1
     },
     "BNB": {
-      "price": 730.61,
-      "change_pct": 0.87
+      "price": 726.93,
+      "change_pct": -0.01
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Anthropic's Amodei proposes plan to 'slow the pace' of advancing AI capabilities"
+      "title": "Anthropic\u2019s Amodei shares plan to \u2018slow the pace\u2019 of growing AI capabilities; Musk and Altman express support"
     },
     {
       "source": "MarketWatch",
