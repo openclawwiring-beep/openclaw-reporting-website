@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, September 12 2026  05:16 PT",
+  "generated_at": "Saturday, September 12 2026  08:43 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77313,
-      "change_pct": 0.48
+      "price": 77401,
+      "change_pct": -1.68
     },
     "ETH": {
-      "price": 2533.14,
-      "change_pct": 3.25
+      "price": 2534.22,
+      "change_pct": -2.95
     },
     "SOL": {
-      "price": 102.2,
-      "change_pct": 2.96
+      "price": 102.0,
+      "change_pct": -1.24
     },
     "BNB": {
-      "price": 736.09,
-      "change_pct": 3.4
+      "price": 735.58,
+      "change_pct": -0.53
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I still don\u2019t have my MRI\u2019: My health insurer canceled my plan without warning. Is that legal?"
+      "title": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m the executor\u2019: My two siblings and I inherited an IRA. Can we just cash it out?"
+      "title": "My 87-year-old mother wants to pay for my brother\u2019s kids\u2019 education. I don\u2019t have children. How is that fair?"
     }
   ]
 }
