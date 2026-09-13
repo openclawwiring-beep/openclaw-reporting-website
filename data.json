@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, September 13 2026  04:07 PT",
+  "generated_at": "Sunday, September 13 2026  07:58 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76651,
-      "change_pct": -0.86
+      "price": 77156,
+      "change_pct": -0.38
     },
     "ETH": {
-      "price": 2475.8,
-      "change_pct": -2.23
+      "price": 2490.64,
+      "change_pct": -1.92
     },
     "SOL": {
-      "price": 99.67,
-      "change_pct": -2.4
+      "price": 100.61,
+      "change_pct": -1.35
     },
     "BNB": {
-      "price": 714.87,
-      "change_pct": -3.11
+      "price": 718.14,
+      "change_pct": -2.25
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock"
+      "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive"
     },
     {
       "source": "MarketWatch",
-      "title": "Why OpenAI\u2019s Sam Altman says an IPO isn\u2019t in the cards this year"
+      "title": "\u2018We fear financial exploitation\u2019: Who will manage our finances if my wife and I become incapacitated?"
     },
     {
       "source": "MarketWatch",
-      "title": "Elon Musk backs Anthropic\u2019s call to slow down AI progress before rogue bots take over the entire internet"
+      "title": "My 87-year-old mother wants to pay for my brother\u2019s kids\u2019 education. I don\u2019t have children. How is that fair?"
     }
   ]
 }
