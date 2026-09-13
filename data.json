@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, September 13 2026  14:00 PT",
+  "generated_at": "Sunday, September 13 2026  16:18 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4408.9,
-      "change_pct": 1.47
+      "price": 4382.5,
+      "change_pct": -0.6
     },
     "Oil (WTI)": {
-      "price": 100.05,
-      "change_pct": -3.07
+      "price": 102.38,
+      "change_pct": 2.33
     },
     "Silver": {
-      "price": 65.19,
-      "change_pct": 2.55
+      "price": 64.64,
+      "change_pct": -0.84
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77312,
-      "change_pct": 0.21
+      "price": 76688,
+      "change_pct": -0.74
     },
     "ETH": {
-      "price": 2512.1,
-      "change_pct": -0.32
+      "price": 2473.4,
+      "change_pct": -1.99
     },
     "SOL": {
-      "price": 101.43,
-      "change_pct": 0.09
+      "price": 99.55,
+      "change_pct": -2.13
     },
     "BNB": {
-      "price": 722.08,
-      "change_pct": -0.57
+      "price": 716.28,
+      "change_pct": -1.47
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown"
+      "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Your Social Security COLA could go up another $71 per month in 2027. That\u2019s not necessarily good news."
+      "title": "These are the 10 biggest retirement fears \u2014 and what you can do about them"
     },
     {
       "source": "MarketWatch",
-      "title": "This simple mistake can give your money to the wrong person when you die. Here\u2019s how to protect your estate."
+      "title": "I\u2019m locked into a 10-year annuity and now I\u2019m strapped for cash. What are my options?"
     }
   ]
 }
