@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, September 13 2026  07:58 PT",
+  "generated_at": "Sunday, September 13 2026  11:02 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77156,
-      "change_pct": -0.38
+      "price": 77300,
+      "change_pct": 0.15
     },
     "ETH": {
-      "price": 2490.64,
-      "change_pct": -1.92
+      "price": 2504.12,
+      "change_pct": -0.82
     },
     "SOL": {
-      "price": 100.61,
-      "change_pct": -1.35
+      "price": 100.96,
+      "change_pct": -0.93
     },
     "BNB": {
-      "price": 718.14,
-      "change_pct": -2.25
+      "price": 720.89,
+      "change_pct": -1.33
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast"
+      "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown"
     },
     {
       "source": "CNBC",
-      "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive"
+      "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We fear financial exploitation\u2019: Who will manage our finances if my wife and I become incapacitated?"
+      "title": "\u2018I still don\u2019t have my MRI\u2019: My health insurer canceled my plan without warning. Is that legal?"
     },
     {
       "source": "MarketWatch",
-      "title": "My 87-year-old mother wants to pay for my brother\u2019s kids\u2019 education. I don\u2019t have children. How is that fair?"
+      "title": "I\u2019m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?"
     }
   ]
 }
