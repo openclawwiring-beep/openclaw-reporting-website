@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, September 13 2026  16:18 PT",
+  "generated_at": "Sunday, September 13 2026  18:21 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4382.5,
-      "change_pct": -0.6
+      "price": 4374.9,
+      "change_pct": -0.77
     },
     "Oil (WTI)": {
-      "price": 102.38,
-      "change_pct": 2.33
+      "price": 103.08,
+      "change_pct": 3.03
     },
     "Silver": {
-      "price": 64.64,
-      "change_pct": -0.84
+      "price": 64.37,
+      "change_pct": -1.25
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76688,
+      "price": 76700,
       "change_pct": -0.74
     },
     "ETH": {
-      "price": 2473.4,
-      "change_pct": -1.99
+      "price": 2478.06,
+      "change_pct": -1.85
     },
     "SOL": {
-      "price": 99.55,
-      "change_pct": -2.13
+      "price": 99.42,
+      "change_pct": -2.5
     },
     "BNB": {
-      "price": 716.28,
-      "change_pct": -1.47
+      "price": 716.39,
+      "change_pct": -1.72
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "These are the 10 biggest retirement fears \u2014 and what you can do about them"
+      "title": "\u2018I still don\u2019t have my MRI\u2019: My health insurer canceled my plan without warning. Is that legal?"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m locked into a 10-year annuity and now I\u2019m strapped for cash. What are my options?"
+      "title": "These are the 10 biggest retirement fears \u2014 and what you can do about them"
     }
   ]
 }
