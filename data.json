@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, September 13 2026  18:21 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Sunday, September 13 2026  23:44 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7656.98,
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4374.9,
-      "change_pct": -0.77
+      "price": 4370.5,
+      "change_pct": -0.0
     },
     "Oil (WTI)": {
-      "price": 103.08,
-      "change_pct": 3.03
+      "price": 102.28,
+      "change_pct": -0.94
     },
     "Silver": {
-      "price": 64.37,
-      "change_pct": -1.25
+      "price": 64.35,
+      "change_pct": -0.1
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76700,
-      "change_pct": -0.74
+      "price": 77542,
+      "change_pct": 0.36
     },
     "ETH": {
-      "price": 2478.06,
-      "change_pct": -1.85
+      "price": 2517.42,
+      "change_pct": -0.05
     },
     "SOL": {
-      "price": 99.42,
-      "change_pct": -2.5
+      "price": 101.52,
+      "change_pct": 0.12
     },
     "BNB": {
-      "price": 716.39,
-      "change_pct": -1.72
+      "price": 723.21,
+      "change_pct": -0.0
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes"
+      "title": "Trump says U.S. may keep Iranian oil 'like Venezuela' as Gulf-Iran Hormuz talks stall"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates"
+      "title": "Anthropic walks tightrope to Nasdaq, pushing for a slowdown while pursuing $2 trillion valuation"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My 87-year-old mother wants to pay for my brother\u2019s kids\u2019 education. I don\u2019t have children. How is that fair?"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018I still don\u2019t have my MRI\u2019: My health insurer canceled my plan without warning. Is that legal?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "These are the 10 biggest retirement fears \u2014 and what you can do about them"
     }
   ]
 }
