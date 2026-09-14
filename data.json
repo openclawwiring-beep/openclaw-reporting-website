@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, September 14 2026  12:01 PT",
-  "market_status": "Live \u2014 as of 15:01 ET",
+  "generated_at": "Monday, September 14 2026  15:37 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7632.09,
-      "change_pct": -0.31
+      "price": 7619.98,
+      "change_pct": -0.48
     },
     "Nasdaq": {
-      "price": 26260.46,
-      "change_pct": -0.28
+      "price": 26186.41,
+      "change_pct": -0.56
     },
     "Dow Jones": {
-      "price": 52462.8,
-      "change_pct": -0.19
+      "price": 52421.2,
+      "change_pct": -0.29
     },
     "Russell 2000": {
-      "price": 2898.52,
-      "change_pct": -0.2
+      "price": 2892.24,
+      "change_pct": -0.4
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4345.4,
-      "change_pct": -0.58
+      "price": 4335.3,
+      "change_pct": -0.81
     },
     "Oil (WTI)": {
-      "price": 100.68,
-      "change_pct": -2.49
+      "price": 101.97,
+      "change_pct": -1.24
     },
     "Silver": {
-      "price": 64.14,
-      "change_pct": -0.42
+      "price": 63.71,
+      "change_pct": -1.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79209,
-      "change_pct": 2.44
+      "price": 78528,
+      "change_pct": 2.26
     },
     "ETH": {
-      "price": 2538.48,
-      "change_pct": 1.18
+      "price": 2539.23,
+      "change_pct": 2.42
     },
     "SOL": {
-      "price": 103.6,
-      "change_pct": 2.41
+      "price": 103.03,
+      "change_pct": 3.2
     },
     "BNB": {
-      "price": 727.13,
-      "change_pct": 0.72
+      "price": 722.9,
+      "change_pct": 0.88
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike"
+      "title": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation"
     },
     {
       "source": "CNBC",
-      "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei"
+      "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike"
     },
     {
       "source": "MarketWatch",
-      "title": "30-year mortgage rate jumps to 7.17% \u2014 a nearly 2-year high \u2014 in the latest blow to the housing market"
+      "title": "The murky AI milestone that has some of the industry\u2019s leading voices increasingly on edge"
     },
     {
       "source": "MarketWatch",
-      "title": "The Fed may be on the verge of a serious mistake, prominent economists warn"
+      "title": "The oil market is sending an increasingly loud warning about gas prices at the pump"
     }
   ]
 }
