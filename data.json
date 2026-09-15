@@ -1,9 +1,9 @@
 {
-  "generated_at": "Tuesday, September 15 2026  13:00 PT",
+  "generated_at": "Tuesday, September 15 2026  15:50 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7586.04,
+      "price": 7585.73,
       "change_pct": -0.45
     },
     "Nasdaq": {
@@ -11,62 +11,62 @@
       "change_pct": -0.78
     },
     "Dow Jones": {
-      "price": 52099.29,
-      "change_pct": -0.61
+      "price": 52093.11,
+      "change_pct": -0.63
     },
     "Russell 2000": {
-      "price": 2868.04,
-      "change_pct": -0.84
+      "price": 2870.29,
+      "change_pct": -0.76
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4338.9,
-      "change_pct": -0.14
+      "price": 4337.3,
+      "change_pct": -0.18
     },
     "Oil (WTI)": {
-      "price": 105.74,
-      "change_pct": 2.73
+      "price": 105.31,
+      "change_pct": 2.31
     },
     "Silver": {
-      "price": 64.2,
-      "change_pct": 0.53
+      "price": 64.33,
+      "change_pct": 0.74
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76030,
-      "change_pct": -3.74
+      "price": 75647,
+      "change_pct": -3.73
     },
     "ETH": {
-      "price": 2411.95,
-      "change_pct": -5.06
+      "price": 2397.51,
+      "change_pct": -5.43
     },
     "SOL": {
-      "price": 97.9,
-      "change_pct": -5.09
+      "price": 97.09,
+      "change_pct": -5.61
     },
     "BNB": {
-      "price": 718.61,
-      "change_pct": -0.9
+      "price": 713.37,
+      "change_pct": -1.09
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran war has cost on average $246 million per day in its first five months, CBO finds"
+      "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce"
     },
     {
       "source": "CNBC",
-      "title": "Trump says Kennedy Center will stay closed without renovation unless his name is added back"
+      "title": "Iran war has cost on average $246 million per day in its first five months, CBO finds"
     },
     {
       "source": "MarketWatch",
-      "title": "Is the shingles vaccine the secret to living longer and delaying dementia? Here\u2019s what the science says."
+      "title": "\u2018My total balance should be $20 million\u2019: I invested $1.1 million in a crypto platform. Have I lost it all?"
     },
     {
       "source": "MarketWatch",
-      "title": "The Fed\u2019s expected interest-rate hike on Wednesday could be the start of something more troubling for investors"
+      "title": "\u2018There might be a silver lining\u2019: My friend\u2019s wife died at 60 after a high-earning career. Can he claim her Social Security?"
     }
   ]
 }
