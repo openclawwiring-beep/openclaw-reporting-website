@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, September 15 2026  04:59 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, September 15 2026  09:49 PT",
+  "market_status": "Live \u2014 as of 12:49 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7619.98,
-      "change_pct": -0.48
+      "price": 7584.6,
+      "change_pct": -0.47
     },
     "Nasdaq": {
-      "price": 26186.41,
-      "change_pct": -0.56
+      "price": 25998.34,
+      "change_pct": -0.72
     },
     "Dow Jones": {
-      "price": 52421.2,
-      "change_pct": -0.29
+      "price": 52004.28,
+      "change_pct": -0.8
     },
     "Russell 2000": {
-      "price": 2892.24,
-      "change_pct": -0.4
+      "price": 2870.35,
+      "change_pct": -0.76
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4324.1,
-      "change_pct": -0.48
+      "price": 4333.7,
+      "change_pct": -0.26
     },
     "Oil (WTI)": {
-      "price": 102.31,
-      "change_pct": -0.6
+      "price": 105.72,
+      "change_pct": 2.71
     },
     "Silver": {
-      "price": 63.75,
-      "change_pct": -0.17
+      "price": 63.9,
+      "change_pct": 0.05
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76885,
-      "change_pct": -1.07
+      "price": 76350,
+      "change_pct": -3.06
     },
     "ETH": {
-      "price": 2475.25,
-      "change_pct": -1.27
+      "price": 2421.34,
+      "change_pct": -4.28
     },
     "SOL": {
-      "price": 100.75,
-      "change_pct": -0.55
+      "price": 99.12,
+      "change_pct": -3.36
     },
     "BNB": {
-      "price": 718.23,
-      "change_pct": -0.45
+      "price": 718.9,
+      "change_pct": -0.94
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise"
+      "title": "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown"
     },
     {
       "source": "CNBC",
-      "title": "No one and done: The Fed will hike at least two times over the next year, according to CNBC survey"
+      "title": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC"
     },
     {
       "source": "MarketWatch",
-      "title": "Traditional bond investors have lost money for years. These five-star portfolio managers show a better way."
+      "title": "Institutional investors are dangerously overinvested in stocks"
     },
     {
       "source": "MarketWatch",
-      "title": "It might be time to consider the \u2018most hated, under-owned asset class,\u2019 says this strategist"
+      "title": "What investors need to do \u2014 and mistakes not to make \u2014 in today\u2019s uncertain world"
     }
   ]
 }
