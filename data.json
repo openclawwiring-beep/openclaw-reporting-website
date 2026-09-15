@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, September 14 2026  18:10 PT",
+  "generated_at": "Monday, September 14 2026  23:26 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4333.4,
-      "change_pct": -0.85
+      "price": 4329.9,
+      "change_pct": -0.28
     },
     "Oil (WTI)": {
-      "price": 102.77,
-      "change_pct": -0.46
+      "price": 103.2,
+      "change_pct": 0.28
     },
     "Silver": {
-      "price": 63.66,
-      "change_pct": -1.16
+      "price": 63.65,
+      "change_pct": -0.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77810,
-      "change_pct": 1.38
+      "price": 77459,
+      "change_pct": -0.23
     },
     "ETH": {
-      "price": 2511.27,
-      "change_pct": 1.13
+      "price": 2491.0,
+      "change_pct": -1.07
     },
     "SOL": {
-      "price": 102.4,
-      "change_pct": 2.74
+      "price": 101.16,
+      "change_pct": -0.33
     },
     "BNB": {
-      "price": 718.72,
-      "change_pct": -0.02
+      "price": 720.34,
+      "change_pct": -0.45
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation"
+      "title": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise"
     },
     {
       "source": "CNBC",
-      "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike"
+      "title": "Weapon shortfalls, 'hundreds' of buildings and aircraft damaged, $33.4 billion spent: the U.S. government tallies costs of the Iran war"
     },
     {
       "source": "MarketWatch",
