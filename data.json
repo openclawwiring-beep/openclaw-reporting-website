@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, September 15 2026  09:49 PT",
-  "market_status": "Live \u2014 as of 12:49 ET",
+  "generated_at": "Tuesday, September 15 2026  13:00 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7584.6,
-      "change_pct": -0.47
+      "price": 7586.04,
+      "change_pct": -0.45
     },
     "Nasdaq": {
-      "price": 25998.34,
-      "change_pct": -0.72
+      "price": 25981.57,
+      "change_pct": -0.78
     },
     "Dow Jones": {
-      "price": 52004.28,
-      "change_pct": -0.8
+      "price": 52099.29,
+      "change_pct": -0.61
     },
     "Russell 2000": {
-      "price": 2870.35,
-      "change_pct": -0.76
+      "price": 2868.04,
+      "change_pct": -0.84
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4333.7,
-      "change_pct": -0.26
+      "price": 4338.9,
+      "change_pct": -0.14
     },
     "Oil (WTI)": {
-      "price": 105.72,
-      "change_pct": 2.71
+      "price": 105.74,
+      "change_pct": 2.73
     },
     "Silver": {
-      "price": 63.9,
-      "change_pct": 0.05
+      "price": 64.2,
+      "change_pct": 0.53
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76350,
-      "change_pct": -3.06
+      "price": 76030,
+      "change_pct": -3.74
     },
     "ETH": {
-      "price": 2421.34,
-      "change_pct": -4.28
+      "price": 2411.95,
+      "change_pct": -5.06
     },
     "SOL": {
-      "price": 99.12,
-      "change_pct": -3.36
+      "price": 97.9,
+      "change_pct": -5.09
     },
     "BNB": {
-      "price": 718.9,
-      "change_pct": -0.94
+      "price": 718.61,
+      "change_pct": -0.9
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown"
+      "title": "Iran war has cost on average $246 million per day in its first five months, CBO finds"
     },
     {
       "source": "CNBC",
-      "title": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC"
+      "title": "Trump says Kennedy Center will stay closed without renovation unless his name is added back"
     },
     {
       "source": "MarketWatch",
-      "title": "Institutional investors are dangerously overinvested in stocks"
+      "title": "Is the shingles vaccine the secret to living longer and delaying dementia? Here\u2019s what the science says."
     },
     {
       "source": "MarketWatch",
-      "title": "What investors need to do \u2014 and mistakes not to make \u2014 in today\u2019s uncertain world"
+      "title": "The Fed\u2019s expected interest-rate hike on Wednesday could be the start of something more troubling for investors"
     }
   ]
 }
