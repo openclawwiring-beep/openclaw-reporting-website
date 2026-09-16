@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, September 15 2026  23:25 PT",
+  "generated_at": "Wednesday, September 16 2026  04:55 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4366.1,
-      "change_pct": -0.03
+      "price": 4391.1,
+      "change_pct": 0.55
     },
     "Oil (WTI)": {
-      "price": 104.73,
-      "change_pct": -0.05
+      "price": 103.4,
+      "change_pct": -1.32
     },
     "Silver": {
-      "price": 65.13,
-      "change_pct": 0.03
+      "price": 65.4,
+      "change_pct": 0.45
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75893,
-      "change_pct": -2.01
+      "price": 76197,
+      "change_pct": -0.9
     },
     "ETH": {
-      "price": 2400.95,
-      "change_pct": -3.6
+      "price": 2420.13,
+      "change_pct": -2.22
     },
     "SOL": {
-      "price": 97.16,
-      "change_pct": -3.94
+      "price": 98.05,
+      "change_pct": -2.63
     },
     "BNB": {
-      "price": 713.57,
-      "change_pct": -0.92
+      "price": 714.1,
+      "change_pct": -0.54
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce"
+      "title": "The Federal Reserve is expected to hike rates for the first time in three years: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Oil falls as U.S. crude inventories reportedly rise, traders weigh Saudi pipeline closure"
+      "title": "Canada invited to become EU\u2019s first \u2018associate member\u2019 as Trump trade war intensifies"
     },
     {
       "source": "MarketWatch",
-      "title": "Medicare is using AI to approve claims. The result has been \u2018alarmingly high denial rates.\u2019"
+      "title": "Intel\u2019s stock rises as investors hope memory chips can mark the next step in its turnaround"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My total balance should be $20 million\u2019: I invested $1.1 million in a crypto platform. Have I lost it all?"
+      "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don\u2019t want to do this anymore?"
     }
   ]
 }
