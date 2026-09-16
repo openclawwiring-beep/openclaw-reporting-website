@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, September 16 2026  04:55 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, September 16 2026  09:13 PT",
+  "market_status": "Live \u2014 as of 12:13 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7585.73,
-      "change_pct": -0.45
+      "price": 7613.67,
+      "change_pct": 0.37
     },
     "Nasdaq": {
-      "price": 25981.57,
-      "change_pct": -0.78
+      "price": 26160.43,
+      "change_pct": 0.69
     },
     "Dow Jones": {
-      "price": 52093.11,
-      "change_pct": -0.63
+      "price": 52102.05,
+      "change_pct": 0.02
     },
     "Russell 2000": {
-      "price": 2870.29,
-      "change_pct": -0.76
+      "price": 2884.86,
+      "change_pct": 0.53
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4391.1,
-      "change_pct": 0.55
+      "price": 4391.8,
+      "change_pct": 0.56
     },
     "Oil (WTI)": {
-      "price": 103.4,
-      "change_pct": -1.32
+      "price": 102.37,
+      "change_pct": -2.3
     },
     "Silver": {
-      "price": 65.4,
-      "change_pct": 0.45
+      "price": 65.02,
+      "change_pct": -0.14
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76197,
-      "change_pct": -0.9
+      "price": 75694,
+      "change_pct": -0.83
     },
     "ETH": {
-      "price": 2420.13,
-      "change_pct": -2.22
+      "price": 2392.13,
+      "change_pct": -1.04
     },
     "SOL": {
-      "price": 98.05,
-      "change_pct": -2.63
+      "price": 97.1,
+      "change_pct": -1.91
     },
     "BNB": {
-      "price": 714.1,
-      "change_pct": -0.54
+      "price": 711.3,
+      "change_pct": -0.75
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "The Federal Reserve is expected to hike rates for the first time in three years: Live updates"
+      "title": "Fed meeting live updates: Rate hike expected for the first time in three years"
     },
     {
       "source": "CNBC",
-      "title": "Canada invited to become EU\u2019s first \u2018associate member\u2019 as Trump trade war intensifies"
+      "title": "World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market"
     },
     {
       "source": "MarketWatch",
-      "title": "Intel\u2019s stock rises as investors hope memory chips can mark the next step in its turnaround"
+      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?"
     },
     {
       "source": "MarketWatch",
-      "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don\u2019t want to do this anymore?"
+      "title": "15 stocks that have grown dividends the most \u2014 and nearly all have beaten the S&P 500"
     }
   ]
 }
