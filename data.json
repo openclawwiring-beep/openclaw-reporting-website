@@ -1,64 +1,64 @@
 {
-  "generated_at": "Wednesday, September 16 2026  09:13 PT",
-  "market_status": "Live \u2014 as of 12:13 ET",
+  "generated_at": "Wednesday, September 16 2026  12:38 PT",
+  "market_status": "Live \u2014 as of 15:38 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7613.67,
-      "change_pct": 0.37
+      "price": 7532.4,
+      "change_pct": -0.7
     },
     "Nasdaq": {
-      "price": 26160.43,
-      "change_pct": 0.69
+      "price": 25907.67,
+      "change_pct": -0.28
     },
     "Dow Jones": {
-      "price": 52102.05,
-      "change_pct": 0.02
+      "price": 51322.1,
+      "change_pct": -1.48
     },
     "Russell 2000": {
-      "price": 2884.86,
-      "change_pct": 0.53
+      "price": 2834.41,
+      "change_pct": -1.23
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4391.8,
-      "change_pct": 0.56
+      "price": 4288.8,
+      "change_pct": -1.8
     },
     "Oil (WTI)": {
-      "price": 102.37,
-      "change_pct": -2.3
+      "price": 102.16,
+      "change_pct": -2.5
     },
     "Silver": {
-      "price": 65.02,
-      "change_pct": -0.14
+      "price": 62.95,
+      "change_pct": -3.32
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75694,
-      "change_pct": -0.83
+      "price": 75671,
+      "change_pct": -0.26
     },
     "ETH": {
-      "price": 2392.13,
-      "change_pct": -1.04
+      "price": 2397.37,
+      "change_pct": -0.26
     },
     "SOL": {
-      "price": 97.1,
-      "change_pct": -1.91
+      "price": 97.69,
+      "change_pct": 0.05
     },
     "BNB": {
-      "price": 711.3,
-      "change_pct": -0.75
+      "price": 716.47,
+      "change_pct": -0.33
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fed meeting live updates: Rate hike expected for the first time in three years"
+      "title": "Dow falls 700 points as losses accelerate after the Fed hikes rates, Warsh highlights inflation risk: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market"
+      "title": "Fed meeting recap: Warsh says inflation is still too high as Fed hikes for the first time since 2023"
     },
     {
       "source": "MarketWatch",
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "15 stocks that have grown dividends the most \u2014 and nearly all have beaten the S&P 500"
+      "title": "As Fed rolls out its first interest-rate hike in 3 years, officials are divided on what to do next"
     }
   ]
 }
