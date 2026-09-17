@@ -1,72 +1,64 @@
 {
-  "generated_at": "Thursday, September 17 2026  04:58 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, September 17 2026  09:47 PT",
+  "market_status": "Live \u2014 as of 12:47 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7551.81,
-      "change_pct": -0.45
+      "price": 7637.96,
+      "change_pct": 1.12
     },
     "Nasdaq": {
-      "price": 25978.43,
-      "change_pct": -0.01
+      "price": 26407.24,
+      "change_pct": 1.65
     },
     "Dow Jones": {
-      "price": 51461.9,
-      "change_pct": -1.21
+      "price": 51849.42,
+      "change_pct": 0.72
     },
     "Russell 2000": {
-      "price": 2858.81,
-      "change_pct": -0.4
+      "price": 2890.54,
+      "change_pct": 1.1
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4371.0,
-      "change_pct": 0.82
+      "price": 4398.9,
+      "change_pct": 1.46
     },
     "Oil (WTI)": {
-      "price": 100.73,
-      "change_pct": -1.51
+      "price": 101.58,
+      "change_pct": -0.67
     },
     "Silver": {
-      "price": 64.67,
-      "change_pct": 0.72
+      "price": 66.15,
+      "change_pct": 3.05
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76178,
-      "change_pct": -0.01
+      "price": 76627,
+      "change_pct": 1.25
     },
     "ETH": {
-      "price": 2430.15,
-      "change_pct": 0.44
+      "price": 2462.17,
+      "change_pct": 3.05
     },
     "SOL": {
-      "price": 99.71,
-      "change_pct": 1.81
+      "price": 101.07,
+      "change_pct": 4.06
     },
     "BNB": {
-      "price": 722.22,
-      "change_pct": 1.16
+      "price": 727.01,
+      "change_pct": 2.11
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal \u2018laughable\u2019"
+      "title": "Here are five key takeaways from Wednesday's Fed rate hike"
     },
     {
       "source": "CNBC",
-      "title": "Trump says U.S. \u2018hopefully\u2019 nearing end of Iran war as Saudi Arabia, Houthis trade strikes"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018I just want out\u2019: Why Jeffrey Gundlach is moving his money as far from AI as possible \u2014 and what he\u2019s doing instead"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How can I get my employees to stop oversharing at work?"
+      "title": "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure"
     }
   ]
 }
