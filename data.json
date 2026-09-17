@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, September 16 2026  23:26 PT",
+  "generated_at": "Thursday, September 17 2026  04:58 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4345.5,
-      "change_pct": 0.23
+      "price": 4371.0,
+      "change_pct": 0.82
     },
     "Oil (WTI)": {
-      "price": 101.32,
-      "change_pct": -0.93
+      "price": 100.73,
+      "change_pct": -1.51
     },
     "Silver": {
-      "price": 64.19,
-      "change_pct": -0.02
+      "price": 64.67,
+      "change_pct": 0.72
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76281,
-      "change_pct": 0.56
+      "price": 76178,
+      "change_pct": -0.01
     },
     "ETH": {
-      "price": 2434.21,
-      "change_pct": 1.41
+      "price": 2430.15,
+      "change_pct": 0.44
     },
     "SOL": {
-      "price": 99.43,
-      "change_pct": 2.37
+      "price": 99.71,
+      "change_pct": 1.81
     },
     "BNB": {
-      "price": 723.81,
-      "change_pct": 1.47
+      "price": 722.22,
+      "change_pct": 1.16
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal"
+      "title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal \u2018laughable\u2019"
     },
     {
       "source": "CNBC",
-      "title": "Trump plans to meet Gulf leaders at UN next week on Iran war's endgame: report"
+      "title": "Trump says U.S. \u2018hopefully\u2019 nearing end of Iran war as Saudi Arabia, Houthis trade strikes"
     },
     {
       "source": "MarketWatch",
-      "title": "Intel\u2019s stock rises as investors hope memory chips can mark the next step in its turnaround"
+      "title": "\u2018I just want out\u2019: Why Jeffrey Gundlach is moving his money as far from AI as possible \u2014 and what he\u2019s doing instead"
     },
     {
       "source": "MarketWatch",
-      "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases"
+      "title": "How can I get my employees to stop oversharing at work?"
     }
   ]
 }
