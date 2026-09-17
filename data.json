@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, September 17 2026  12:59 PT",
-  "market_status": "Live \u2014 as of 15:59 ET",
+  "generated_at": "Thursday, September 17 2026  15:47 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7638.88,
-      "change_pct": 1.13
+      "price": 7637.76,
+      "change_pct": 1.14
     },
     "Nasdaq": {
-      "price": 26423.33,
-      "change_pct": 1.71
+      "price": 26418.3,
+      "change_pct": 1.69
     },
     "Dow Jones": {
-      "price": 51784.59,
-      "change_pct": 0.6
+      "price": 51778.04,
+      "change_pct": 0.61
     },
     "Russell 2000": {
-      "price": 2877.6,
-      "change_pct": 0.65
+      "price": 2874.63,
+      "change_pct": 0.55
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4383.7,
-      "change_pct": 1.11
+      "price": 4387.6,
+      "change_pct": 1.2
     },
     "Oil (WTI)": {
-      "price": 101.21,
-      "change_pct": -1.04
+      "price": 101.19,
+      "change_pct": -1.06
     },
     "Silver": {
-      "price": 65.82,
-      "change_pct": 2.52
+      "price": 65.87,
+      "change_pct": 2.6
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76501,
-      "change_pct": 0.69
+      "price": 76362,
+      "change_pct": 0.8
     },
     "ETH": {
-      "price": 2449.03,
-      "change_pct": 1.8
+      "price": 2445.25,
+      "change_pct": 2.04
     },
     "SOL": {
-      "price": 100.79,
-      "change_pct": 2.77
+      "price": 101.33,
+      "change_pct": 3.8
     },
     "BNB": {
-      "price": 731.96,
-      "change_pct": 1.85
+      "price": 734.3,
+      "change_pct": 2.08
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stocks rise, lifted by falling oil and yields as market attempts comeback after Fed sell-off: Live updates"
-    },
-    {
-      "source": "CNBC",
       "title": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most"
     },
     {
-      "source": "MarketWatch",
-      "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz"
+      "source": "CNBC",
+      "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development"
     },
     {
       "source": "MarketWatch",
-      "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don\u2019t want to do this anymore?"
+      "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway."
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks"
     }
   ]
 }
