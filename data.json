@@ -1,64 +1,72 @@
 {
-  "generated_at": "Thursday, September 17 2026  09:47 PT",
-  "market_status": "Live \u2014 as of 12:47 ET",
+  "generated_at": "Thursday, September 17 2026  12:59 PT",
+  "market_status": "Live \u2014 as of 15:59 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7637.96,
-      "change_pct": 1.12
+      "price": 7638.88,
+      "change_pct": 1.13
     },
     "Nasdaq": {
-      "price": 26407.24,
-      "change_pct": 1.65
+      "price": 26423.33,
+      "change_pct": 1.71
     },
     "Dow Jones": {
-      "price": 51849.42,
-      "change_pct": 0.72
+      "price": 51784.59,
+      "change_pct": 0.6
     },
     "Russell 2000": {
-      "price": 2890.54,
-      "change_pct": 1.1
+      "price": 2877.6,
+      "change_pct": 0.65
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4398.9,
-      "change_pct": 1.46
+      "price": 4383.7,
+      "change_pct": 1.11
     },
     "Oil (WTI)": {
-      "price": 101.58,
-      "change_pct": -0.67
+      "price": 101.21,
+      "change_pct": -1.04
     },
     "Silver": {
-      "price": 66.15,
-      "change_pct": 3.05
+      "price": 65.82,
+      "change_pct": 2.52
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76627,
-      "change_pct": 1.25
+      "price": 76501,
+      "change_pct": 0.69
     },
     "ETH": {
-      "price": 2462.17,
-      "change_pct": 3.05
+      "price": 2449.03,
+      "change_pct": 1.8
     },
     "SOL": {
-      "price": 101.07,
-      "change_pct": 4.06
+      "price": 100.79,
+      "change_pct": 2.77
     },
     "BNB": {
-      "price": 727.01,
-      "change_pct": 2.11
+      "price": 731.96,
+      "change_pct": 1.85
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Here are five key takeaways from Wednesday's Fed rate hike"
+      "title": "Stocks rise, lifted by falling oil and yields as market attempts comeback after Fed sell-off: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure"
+      "title": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don\u2019t want to do this anymore?"
     }
   ]
 }
