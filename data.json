@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, September 18 2026  14:25 PT",
+  "generated_at": "Friday, September 18 2026  16:28 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81161,
-      "change_pct": 6.13
+      "price": 81016,
+      "change_pct": 6.0
     },
     "ETH": {
-      "price": 2632.63,
-      "change_pct": 7.46
+      "price": 2614.33,
+      "change_pct": 6.82
     },
     "SOL": {
-      "price": 113.33,
-      "change_pct": 12.03
+      "price": 113.07,
+      "change_pct": 11.43
     },
     "BNB": {
-      "price": 763.63,
-      "change_pct": 4.04
+      "price": 762.62,
+      "change_pct": 3.57
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes"
+      "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark"
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s almost impossible to sell a condo unit these days: \u2018I feel trapped\u2019"
+      "title": "\u2018I\u2019m burned out\u2019: I\u2019m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?"
     },
     {
       "source": "MarketWatch",
-      "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts"
+      "title": "\u2018My total balance should be $20 million\u2019: I invested $1.1 million in a crypto platform. Have I lost it all?"
     }
   ]
 }
