@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, September 17 2026  23:19 PT",
+  "generated_at": "Friday, September 18 2026  04:36 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4426.6,
-      "change_pct": 0.58
+      "price": 4421.3,
+      "change_pct": 0.56
     },
     "Oil (WTI)": {
-      "price": 100.85,
-      "change_pct": -0.35
+      "price": 96.21,
+      "change_pct": -4.9
     },
     "Silver": {
-      "price": 67.24,
-      "change_pct": 1.27
+      "price": 67.68,
+      "change_pct": 1.65
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77490,
-      "change_pct": 1.51
+      "price": 78042,
+      "change_pct": 2.4
     },
     "ETH": {
-      "price": 2483.8,
-      "change_pct": 1.92
+      "price": 2505.51,
+      "change_pct": 3.06
     },
     "SOL": {
-      "price": 105.55,
-      "change_pct": 6.1
+      "price": 105.61,
+      "change_pct": 5.91
     },
     "BNB": {
-      "price": 752.97,
-      "change_pct": 3.93
+      "price": 750.03,
+      "change_pct": 3.99
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report"
+      "title": "Warren Buffett stepping down as chairman of Berkshire Hathaway: 'Father Time always wins'"
     },
     {
       "source": "CNBC",
-      "title": "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes"
+      "title": "AI safety debate meets reality at Dreamforce as business leaders say last year's models are enough"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A sideways market and rising earnings are presenting a buying opportunity for this crucial sector"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "More Americans are about to get scammed by the coming peptide rush"
     }
   ]
 }
