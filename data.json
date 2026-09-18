@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, September 18 2026  04:36 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, September 18 2026  08:52 PT",
+  "market_status": "Live \u2014 as of 11:52 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7637.76,
-      "change_pct": 1.14
+      "price": 7621.2,
+      "change_pct": -0.21
     },
     "Nasdaq": {
-      "price": 26418.3,
-      "change_pct": 1.69
+      "price": 26382.35,
+      "change_pct": -0.14
     },
     "Dow Jones": {
-      "price": 51778.04,
-      "change_pct": 0.61
+      "price": 51542.88,
+      "change_pct": -0.45
     },
     "Russell 2000": {
-      "price": 2874.63,
-      "change_pct": 0.55
+      "price": 2852.01,
+      "change_pct": -0.8
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4421.3,
-      "change_pct": 0.56
+      "price": 4388.5,
+      "change_pct": -0.18
     },
     "Oil (WTI)": {
-      "price": 96.21,
-      "change_pct": -4.9
+      "price": 96.96,
+      "change_pct": -4.16
     },
     "Silver": {
-      "price": 67.68,
-      "change_pct": 1.65
+      "price": 66.76,
+      "change_pct": 0.27
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78042,
-      "change_pct": 2.4
+      "price": 80678,
+      "change_pct": 5.31
     },
     "ETH": {
-      "price": 2505.51,
-      "change_pct": 3.06
+      "price": 2577.29,
+      "change_pct": 4.49
     },
     "SOL": {
-      "price": 105.61,
-      "change_pct": 5.91
+      "price": 110.8,
+      "change_pct": 9.77
     },
     "BNB": {
-      "price": 750.03,
-      "change_pct": 3.99
+      "price": 755.48,
+      "change_pct": 3.94
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Warren Buffett stepping down as chairman of Berkshire Hathaway: 'Father Time always wins'"
+      "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC"
     },
     {
       "source": "CNBC",
-      "title": "AI safety debate meets reality at Dreamforce as business leaders say last year's models are enough"
+      "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'"
     },
     {
       "source": "MarketWatch",
-      "title": "A sideways market and rising earnings are presenting a buying opportunity for this crucial sector"
+      "title": "A happier retirement contains these 3 elements"
     },
     {
       "source": "MarketWatch",
-      "title": "More Americans are about to get scammed by the coming peptide rush"
+      "title": "Many young investors can\u2019t afford to invest without their parents\u2019 help"
     }
   ]
 }
