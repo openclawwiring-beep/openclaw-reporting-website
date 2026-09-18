@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, September 17 2026  18:02 PT",
+  "generated_at": "Thursday, September 17 2026  23:19 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4392.8,
-      "change_pct": 1.32
+      "price": 4426.6,
+      "change_pct": 0.58
     },
     "Oil (WTI)": {
-      "price": 100.97,
-      "change_pct": -1.27
+      "price": 100.85,
+      "change_pct": -0.35
     },
     "Silver": {
-      "price": 66.18,
-      "change_pct": 3.08
+      "price": 67.24,
+      "change_pct": 1.27
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76547,
-      "change_pct": 0.47
+      "price": 77490,
+      "change_pct": 1.51
     },
     "ETH": {
-      "price": 2447.4,
-      "change_pct": 1.41
+      "price": 2483.8,
+      "change_pct": 1.92
     },
     "SOL": {
-      "price": 101.37,
-      "change_pct": 2.96
+      "price": 105.55,
+      "change_pct": 6.1
     },
     "BNB": {
-      "price": 737.41,
-      "change_pct": 2.0
+      "price": 752.97,
+      "change_pct": 3.93
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most"
+      "title": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report"
     },
     {
       "source": "CNBC",
-      "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway."
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks"
+      "title": "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes"
     }
   ]
 }
