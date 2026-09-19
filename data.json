@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, September 18 2026  23:28 PT",
+  "generated_at": "Saturday, September 19 2026  04:23 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80910,
-      "change_pct": 4.27
+      "price": 81320,
+      "change_pct": 4.2
     },
     "ETH": {
-      "price": 2620.57,
-      "change_pct": 5.46
+      "price": 2639.79,
+      "change_pct": 5.5
     },
     "SOL": {
-      "price": 111.27,
-      "change_pct": 5.27
+      "price": 111.94,
+      "change_pct": 6.11
     },
     "BNB": {
-      "price": 761.2,
-      "change_pct": 1.12
+      "price": 765.91,
+      "change_pct": 2.13
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m in my 50s. My mother died from Alzheimer\u2019s. Do I need long-term-care insurance?"
+      "title": "AI leaders want to \u2018pace the frontier\u2019 as part of a safety slowdown. But how?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m burned out\u2019: I\u2019m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?"
+      "title": "I\u2019m in my 50s. My mother died from Alzheimer\u2019s. Do I need long-term-care insurance?"
     }
   ]
 }
