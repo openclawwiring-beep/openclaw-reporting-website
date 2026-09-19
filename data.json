@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, September 19 2026  10:47 PT",
+  "generated_at": "Saturday, September 19 2026  13:04 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81464,
-      "change_pct": 0.89
+      "price": 81359,
+      "change_pct": 0.32
     },
     "ETH": {
-      "price": 2645.96,
-      "change_pct": 1.93
+      "price": 2634.84,
+      "change_pct": 0.13
     },
     "SOL": {
-      "price": 111.52,
-      "change_pct": -0.73
+      "price": 111.14,
+      "change_pct": -2.4
     },
     "BNB": {
-      "price": 762.98,
-      "change_pct": 0.49
+      "price": 763.0,
+      "change_pct": -0.15
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "The AI kill switch, explained: 'It's not too little, but it's probably too late'"
+      "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "These are the 10 biggest retirement fears \u2014 and what you can do about them"
+      "title": "It\u2019s almost impossible to sell a condo unit these days: \u2018I feel trapped\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "What happens if you never buy a house? What renters are gaining \u2014 and giving up."
+      "title": "90% of retirees are making this miscalculation with their savings"
     }
   ]
 }
