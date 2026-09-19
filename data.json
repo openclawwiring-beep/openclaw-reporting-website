@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, September 19 2026  04:23 PT",
+  "generated_at": "Saturday, September 19 2026  07:38 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81320,
-      "change_pct": 4.2
+      "price": 81499,
+      "change_pct": 1.15
     },
     "ETH": {
-      "price": 2639.79,
-      "change_pct": 5.5
+      "price": 2640.55,
+      "change_pct": 2.72
     },
     "SOL": {
-      "price": 111.94,
-      "change_pct": 6.11
+      "price": 111.85,
+      "change_pct": 2.14
     },
     "BNB": {
-      "price": 765.91,
-      "change_pct": 2.13
+      "price": 770.05,
+      "change_pct": 1.61
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says he's banning MS NOW, CNN and Politico from White House"
+      "title": "The AI kill switch, explained: 'It's not too little, but it's probably too late'"
     },
     {
       "source": "CNBC",
-      "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark"
+      "title": "MS NOW, CNN journalists blocked from White House after Trump bans three media outlets"
     },
     {
       "source": "MarketWatch",
-      "title": "AI leaders want to \u2018pace the frontier\u2019 as part of a safety slowdown. But how?"
+      "title": "Classic budgeting rules don\u2019t work anymore \u2014 even if your household makes $100,000. Here\u2019s what does."
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m in my 50s. My mother died from Alzheimer\u2019s. Do I need long-term-care insurance?"
+      "title": "Traditional bond investors have lost money for years. These five-star portfolio managers show a better way."
     }
   ]
 }
