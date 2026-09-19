@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, September 18 2026  16:28 PT",
+  "generated_at": "Friday, September 18 2026  18:28 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81016,
-      "change_pct": 6.0
+      "price": 81279,
+      "change_pct": 6.22
     },
     "ETH": {
-      "price": 2614.33,
-      "change_pct": 6.82
+      "price": 2611.77,
+      "change_pct": 6.67
     },
     "SOL": {
-      "price": 113.07,
-      "change_pct": 11.43
+      "price": 113.36,
+      "change_pct": 11.5
     },
     "BNB": {
-      "price": 762.62,
-      "change_pct": 3.57
+      "price": 762.36,
+      "change_pct": 2.99
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m burned out\u2019: I\u2019m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?"
+      "title": "I\u2019m in my 50s. My mother died from Alzheimer\u2019s. Do I need long-term-care insurance?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My total balance should be $20 million\u2019: I invested $1.1 million in a crypto platform. Have I lost it all?"
+      "title": "\u2018I\u2019m burned out\u2019: I\u2019m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?"
     }
   ]
 }
