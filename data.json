@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, September 19 2026  07:38 PT",
+  "generated_at": "Saturday, September 19 2026  10:47 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81499,
-      "change_pct": 1.15
+      "price": 81464,
+      "change_pct": 0.89
     },
     "ETH": {
-      "price": 2640.55,
-      "change_pct": 2.72
+      "price": 2645.96,
+      "change_pct": 1.93
     },
     "SOL": {
-      "price": 111.85,
-      "change_pct": 2.14
+      "price": 111.52,
+      "change_pct": -0.73
     },
     "BNB": {
-      "price": 770.05,
-      "change_pct": 1.61
+      "price": 762.98,
+      "change_pct": 0.49
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "MS NOW, CNN journalists blocked from White House after Trump bans three media outlets"
+      "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban"
     },
     {
       "source": "MarketWatch",
-      "title": "Classic budgeting rules don\u2019t work anymore \u2014 even if your household makes $100,000. Here\u2019s what does."
+      "title": "These are the 10 biggest retirement fears \u2014 and what you can do about them"
     },
     {
       "source": "MarketWatch",
-      "title": "Traditional bond investors have lost money for years. These five-star portfolio managers show a better way."
+      "title": "What happens if you never buy a house? What renters are gaining \u2014 and giving up."
     }
   ]
 }
