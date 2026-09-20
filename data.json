@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, September 20 2026  10:33 PT",
+  "generated_at": "Sunday, September 20 2026  13:21 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81197,
-      "change_pct": -0.39
+      "price": 81110,
+      "change_pct": -0.27
     },
     "ETH": {
-      "price": 2624.64,
-      "change_pct": -0.84
+      "price": 2630.61,
+      "change_pct": -0.16
     },
     "SOL": {
-      "price": 109.68,
-      "change_pct": -1.75
+      "price": 110.22,
+      "change_pct": -0.84
     },
     "BNB": {
-      "price": 761.11,
-      "change_pct": -0.41
+      "price": 767.82,
+      "change_pct": 0.75
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate"
+      "title": "\u2018It's awful\u2019: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies"
     },
     {
       "source": "CNBC",
