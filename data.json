@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, September 19 2026  17:15 PT",
+  "generated_at": "Saturday, September 19 2026  22:11 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -25,30 +25,30 @@
       "change_pct": 0.64
     },
     "Oil (WTI)": {
-      "price": 100.3,
-      "change_pct": -0.86
+      "price": 96.08,
+      "change_pct": -5.03
     },
     "Silver": {
-      "price": 66.56,
-      "change_pct": -0.04
+      "price": 67.15,
+      "change_pct": 0.85
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81245,
-      "change_pct": 0.41
+      "price": 80479,
+      "change_pct": -0.74
     },
     "ETH": {
-      "price": 2628.28,
-      "change_pct": 0.73
+      "price": 2579.16,
+      "change_pct": -1.76
     },
     "SOL": {
-      "price": 110.86,
-      "change_pct": -1.67
+      "price": 109.0,
+      "change_pct": -3.22
     },
     "BNB": {
-      "price": 761.21,
-      "change_pct": -0.01
+      "price": 749.18,
+      "change_pct": -1.63
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s almost impossible to sell a condo unit these days: \u2018I feel trapped\u2019"
+      "title": "\u2018My total balance should be $20 million\u2019: I invested $1.1 million in a crypto platform. Have I lost it all?"
     },
     {
       "source": "MarketWatch",
-      "title": "90% of retirees are making this miscalculation with their savings"
+      "title": "\u2018I\u2019m burned out\u2019: I\u2019m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?"
     }
   ]
 }
