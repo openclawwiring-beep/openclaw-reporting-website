@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, September 20 2026  02:57 PT",
+  "generated_at": "Sunday, September 20 2026  07:02 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80435,
-      "change_pct": -1.06
+      "price": 80532,
+      "change_pct": -0.96
     },
     "ETH": {
-      "price": 2580.68,
-      "change_pct": -2.3
+      "price": 2579.78,
+      "change_pct": -2.19
     },
     "SOL": {
-      "price": 108.37,
-      "change_pct": -3.14
+      "price": 108.17,
+      "change_pct": -3.08
     },
     "BNB": {
-      "price": 751.56,
-      "change_pct": -1.97
+      "price": 751.51,
+      "change_pct": -2.34
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'"
+      "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate"
     },
     {
       "source": "CNBC",
-      "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban"
+      "title": "\u2018It's awful\u2019: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies"
     },
     {
       "source": "MarketWatch",
@@ -66,7 +66,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m burned out\u2019: I\u2019m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?"
+      "title": "China is chasing SpaceX and setting its sights on the global space economy"
     }
   ]
 }
