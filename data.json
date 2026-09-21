@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, September 20 2026  17:50 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Sunday, September 20 2026  22:54 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7650.5,
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4412.4,
-      "change_pct": -0.28
+      "price": 4392.2,
+      "change_pct": -0.08
     },
     "Oil (WTI)": {
-      "price": 94.42,
-      "change_pct": -1.73
+      "price": 94.43,
+      "change_pct": 0.49
     },
     "Silver": {
-      "price": 67.08,
-      "change_pct": -0.1
+      "price": 66.63,
+      "change_pct": -0.02
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81808,
-      "change_pct": 0.67
+      "price": 81546,
+      "change_pct": 1.36
     },
     "ETH": {
-      "price": 2702.2,
-      "change_pct": 2.83
+      "price": 2664.99,
+      "change_pct": 3.44
     },
     "SOL": {
-      "price": 112.7,
-      "change_pct": 1.57
+      "price": 111.81,
+      "change_pct": 2.91
     },
     "BNB": {
-      "price": 781.78,
-      "change_pct": 2.53
+      "price": 772.41,
+      "change_pct": 2.98
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "\u2018It's awful\u2019: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies"
+      "title": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?"
+      "title": "\u2018My total balance should be $20 million\u2019: I invested $1.1 million in a crypto platform. Have I lost it all?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?"
+      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?"
     }
   ]
 }
