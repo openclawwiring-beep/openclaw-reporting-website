@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, September 20 2026  15:36 PT",
+  "generated_at": "Sunday, September 20 2026  17:50 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4414.8,
-      "change_pct": -0.23
+      "price": 4412.4,
+      "change_pct": -0.28
     },
     "Oil (WTI)": {
-      "price": 96.52,
-      "change_pct": 0.46
+      "price": 94.42,
+      "change_pct": -1.73
     },
     "Silver": {
-      "price": 66.89,
-      "change_pct": -0.39
+      "price": 67.08,
+      "change_pct": -0.1
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81130,
-      "change_pct": 0.06
+      "price": 81808,
+      "change_pct": 0.67
     },
     "ETH": {
-      "price": 2637.65,
-      "change_pct": 0.56
+      "price": 2702.2,
+      "change_pct": 2.83
     },
     "SOL": {
-      "price": 110.43,
-      "change_pct": 0.16
+      "price": 112.7,
+      "change_pct": 1.57
     },
     "BNB": {
-      "price": 770.13,
-      "change_pct": 1.34
+      "price": 781.78,
+      "change_pct": 2.53
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit"
+      "title": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit"
     },
     {
       "source": "MarketWatch",
