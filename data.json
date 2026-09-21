@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, September 21 2026  11:16 PT",
-  "market_status": "Live \u2014 as of 14:16 ET",
+  "generated_at": "Monday, September 21 2026  15:06 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7763.91,
-      "change_pct": 1.48
+      "price": 7764.7,
+      "change_pct": 1.49
     },
     "Nasdaq": {
-      "price": 27091.48,
-      "change_pct": 2.15
+      "price": 27122.09,
+      "change_pct": 2.26
     },
     "Dow Jones": {
-      "price": 52025.37,
-      "change_pct": 0.66
+      "price": 52048.83,
+      "change_pct": 0.71
     },
     "Russell 2000": {
-      "price": 2875.53,
-      "change_pct": 0.53
+      "price": 2875.36,
+      "change_pct": 0.52
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4384.2,
-      "change_pct": -0.26
+      "price": 4381.0,
+      "change_pct": -0.34
     },
     "Oil (WTI)": {
-      "price": 92.22,
-      "change_pct": -1.86
+      "price": 91.97,
+      "change_pct": -2.13
     },
     "Silver": {
-      "price": 66.43,
-      "change_pct": -0.33
+      "price": 66.53,
+      "change_pct": -0.17
     }
   },
   "crypto": {
     "BTC": {
-      "price": 85997,
-      "change_pct": 6.04
+      "price": 86671,
+      "change_pct": 7.14
     },
     "ETH": {
-      "price": 2750.96,
-      "change_pct": 4.78
+      "price": 2776.01,
+      "change_pct": 5.48
     },
     "SOL": {
-      "price": 117.48,
-      "change_pct": 7.02
+      "price": 119.46,
+      "change_pct": 8.62
     },
     "BNB": {
-      "price": 800.05,
-      "change_pct": 4.54
+      "price": 806.05,
+      "change_pct": 5.12
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed"
+      "title": "Much of Trump\u2019s promised midterm election spending has yet to surface, new filing shows"
     },
     {
       "source": "CNBC",
-      "title": "AMD hits $1 trillion market cap for the first time as stock rides 5-day rally"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018She says it\u2019s just money\u2019: My friend pays for everything. I should be grateful, but I can\u2019t stand her anymore."
+      "title": "Stocks had a great day on the surface. But something alarming occurred not seen since 1999"
     },
     {
       "source": "MarketWatch",
       "title": "Meta\u2019s stock is enjoying its best month in 13 years thanks to the company\u2019s hot new AI assistant"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AT&T\u2019s stock looks like the smartest bet in the wireless sector, analyst says"
     }
   ]
 }
