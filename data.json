@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, September 21 2026  18:00 PT",
+  "generated_at": "Monday, September 21 2026  23:34 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4394.0,
-      "change_pct": -0.04
+      "price": 4355.9,
+      "change_pct": -0.64
     },
     "Oil (WTI)": {
-      "price": 92.71,
-      "change_pct": -1.34
+      "price": 93.73,
+      "change_pct": 0.92
     },
     "Silver": {
-      "price": 66.96,
-      "change_pct": 0.48
+      "price": 65.81,
+      "change_pct": -1.44
     }
   },
   "crypto": {
     "BTC": {
-      "price": 85873,
-      "change_pct": 5.25
+      "price": 85413,
+      "change_pct": 4.42
     },
     "ETH": {
-      "price": 2754.93,
-      "change_pct": 2.44
+      "price": 2729.36,
+      "change_pct": 2.22
     },
     "SOL": {
-      "price": 118.14,
-      "change_pct": 5.21
+      "price": 116.59,
+      "change_pct": 3.79
     },
     "BNB": {
-      "price": 794.41,
-      "change_pct": 1.9
+      "price": 787.28,
+      "change_pct": 1.69
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Much of Trump\u2019s promised midterm election spending has yet to surface, new filing shows"
+      "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch"
     },
     {
       "source": "CNBC",
-      "title": "Stocks had a great day on the surface. But something alarming occurred not seen since 1999"
+      "title": "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Princeton\u2019s 15-year run as the nation\u2019s top college is over. MIT is now No. 1."
     },
     {
       "source": "MarketWatch",
       "title": "Meta\u2019s stock is enjoying its best month in 13 years thanks to the company\u2019s hot new AI assistant"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AT&T\u2019s stock looks like the smartest bet in the wireless sector, analyst says"
     }
   ]
 }
