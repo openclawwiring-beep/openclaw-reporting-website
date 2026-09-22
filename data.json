@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, September 22 2026  13:21 PT",
+  "generated_at": "Tuesday, September 22 2026  16:08 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4399.2,
-      "change_pct": 0.46
+      "price": 4400.4,
+      "change_pct": 0.49
     },
     "Oil (WTI)": {
-      "price": 89.6,
-      "change_pct": -3.62
+      "price": 89.66,
+      "change_pct": -3.56
     },
     "Silver": {
-      "price": 67.67,
-      "change_pct": 1.79
+      "price": 67.81,
+      "change_pct": 1.99
     }
   },
   "crypto": {
     "BTC": {
-      "price": 86214,
-      "change_pct": -0.85
+      "price": 86292,
+      "change_pct": -0.31
     },
     "ETH": {
-      "price": 2750.52,
-      "change_pct": -1.4
-    },
-    "SOL": {
-      "price": 117.96,
+      "price": 2760.34,
       "change_pct": -0.86
     },
+    "SOL": {
+      "price": 118.82,
+      "change_pct": -0.72
+    },
     "BNB": {
-      "price": 784.76,
-      "change_pct": -2.37
+      "price": 788.5,
+      "change_pct": -1.74
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon"
+      "title": "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud"
     },
     {
       "source": "MarketWatch",
-      "title": "Jet fuel is following diesel\u2019s price jump as the Hormuz supply shock hits the skies"
+      "title": "The Nasdaq\u2019s rapid rise to a record is sending a message to investors: Don\u2019t wait for a pullback to buy"
     },
     {
       "source": "MarketWatch",
-      "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades."
+      "title": "Sandisk\u2019s stock is rising: Why one analyst says AI could help it reach new heights"
     }
   ]
 }
