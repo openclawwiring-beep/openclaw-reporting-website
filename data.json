@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, September 21 2026  23:34 PT",
+  "generated_at": "Tuesday, September 22 2026  05:21 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4355.9,
-      "change_pct": -0.64
+      "price": 4359.0,
+      "change_pct": -0.46
     },
     "Oil (WTI)": {
-      "price": 93.73,
-      "change_pct": 0.92
+      "price": 90.67,
+      "change_pct": -2.47
     },
     "Silver": {
-      "price": 65.81,
-      "change_pct": -1.44
+      "price": 66.11,
+      "change_pct": -0.56
     }
   },
   "crypto": {
     "BTC": {
-      "price": 85413,
-      "change_pct": 4.42
+      "price": 85807,
+      "change_pct": 0.73
     },
     "ETH": {
-      "price": 2729.36,
-      "change_pct": 2.22
+      "price": 2737.95,
+      "change_pct": 0.35
     },
     "SOL": {
-      "price": 116.59,
-      "change_pct": 3.79
+      "price": 116.97,
+      "change_pct": 0.08
     },
     "BNB": {
-      "price": 787.28,
-      "change_pct": 1.69
+      "price": 784.89,
+      "change_pct": -0.72
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Princeton\u2019s 15-year run as the nation\u2019s top college is over. MIT is now No. 1."
+      "title": "McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect"
     },
     {
       "source": "MarketWatch",
       "title": "Meta\u2019s stock is enjoying its best month in 13 years thanks to the company\u2019s hot new AI assistant"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How this market-beating fund is constantly shifting to keep up with the AI trade"
     }
   ]
 }
