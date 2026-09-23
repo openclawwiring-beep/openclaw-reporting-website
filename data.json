@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, September 22 2026  18:38 PT",
+  "generated_at": "Wednesday, September 23 2026  00:22 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -11,7 +11,7 @@
       "change_pct": 0.45
     },
     "Dow Jones": {
-      "price": 51863.69,
+      "price": 51863.7,
       "change_pct": -0.36
     },
     "Russell 2000": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4380.7,
-      "change_pct": 0.04
+      "price": 4363.8,
+      "change_pct": -0.37
     },
     "Oil (WTI)": {
-      "price": 90.2,
-      "change_pct": -2.98
+      "price": 89.52,
+      "change_pct": 0.19
     },
     "Silver": {
-      "price": 67.36,
-      "change_pct": 1.32
+      "price": 66.25,
+      "change_pct": -1.23
     }
   },
   "crypto": {
     "BTC": {
-      "price": 86517,
-      "change_pct": 0.87
+      "price": 86371,
+      "change_pct": 1.22
     },
     "ETH": {
-      "price": 2760.29,
-      "change_pct": 0.31
+      "price": 2750.25,
+      "change_pct": 0.81
     },
     "SOL": {
-      "price": 118.61,
-      "change_pct": 0.6
+      "price": 118.89,
+      "change_pct": 1.99
     },
     "BNB": {
-      "price": 790.4,
-      "change_pct": -0.54
+      "price": 790.02,
+      "change_pct": 0.54
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says"
+      "title": "Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms"
     },
     {
       "source": "CNBC",
-      "title": "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud"
+      "title": "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege \u2014 not a right'"
     },
     {
       "source": "MarketWatch",
-      "title": "The Nasdaq\u2019s rapid rise to a record is sending a message to investors: Don\u2019t wait for a pullback to buy"
+      "title": "\u2018It doesn\u2019t seem fair\u2019: I\u2019m retired and have plenty of money. Why can\u2019t I qualify for a retail credit card?"
     },
     {
       "source": "MarketWatch",
-      "title": "Sandisk\u2019s stock is rising: Why one analyst says AI could help it reach new heights"
+      "title": "\u2018She gave a neighbor $2,000\u2019: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?"
     }
   ]
 }
