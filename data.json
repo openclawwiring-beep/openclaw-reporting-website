@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, September 23 2026  10:42 PT",
-  "market_status": "Live \u2014 as of 13:42 ET",
+  "generated_at": "Wednesday, September 23 2026  14:06 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7708.43,
-      "change_pct": -0.72
+      "price": 7706.03,
+      "change_pct": -0.75
     },
     "Nasdaq": {
-      "price": 26920.88,
-      "change_pct": -1.19
+      "price": 26936.04,
+      "change_pct": -1.13
     },
     "Dow Jones": {
-      "price": 51565.25,
-      "change_pct": -0.58
+      "price": 51511.59,
+      "change_pct": -0.68
     },
     "Russell 2000": {
-      "price": 2844.86,
-      "change_pct": -1.59
+      "price": 2838.66,
+      "change_pct": -1.77
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4313.7,
-      "change_pct": -1.51
+      "price": 4324.4,
+      "change_pct": -1.27
     },
     "Oil (WTI)": {
-      "price": 91.83,
-      "change_pct": 2.78
+      "price": 92.72,
+      "change_pct": 3.77
     },
     "Silver": {
-      "price": 64.85,
-      "change_pct": -3.32
+      "price": 64.94,
+      "change_pct": -3.18
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84027,
-      "change_pct": -2.87
+      "price": 84259,
+      "change_pct": -2.35
     },
     "ETH": {
-      "price": 2660.02,
-      "change_pct": -3.29
+      "price": 2670.42,
+      "change_pct": -2.9
     },
     "SOL": {
-      "price": 114.23,
-      "change_pct": -3.09
+      "price": 114.03,
+      "change_pct": -3.38
     },
     "BNB": {
-      "price": 765.54,
-      "change_pct": -2.77
+      "price": 765.1,
+      "change_pct": -2.56
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "10-year Treasury yield leaps to fresh 19-year high after hot economic readings"
+      "title": "Here's what happens to the economy when Treasury yields soar like they are now"
     },
     {
       "source": "CNBC",
-      "title": "Trump faces Xi as strains with allies complicate U.S. pressure on China"
+      "title": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'"
     },
     {
       "source": "MarketWatch",
-      "title": "Fuel prices keep rising \u2014 and so do Democrats\u2019 chances for winning both the House and Senate"
+      "title": "Fewer stocks are carrying the market than at any time since the dot-com peak"
     },
     {
       "source": "MarketWatch",
-      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?"
+      "title": "I\u2019m in my 50s. My mother died from Alzheimer\u2019s. Do I need long-term-care insurance?"
     }
   ]
 }
