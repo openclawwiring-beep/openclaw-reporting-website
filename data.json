@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, September 24 2026  01:39 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, September 24 2026  07:01 PT",
+  "market_status": "Live \u2014 as of 10:01 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7706.03,
-      "change_pct": -0.75
+      "price": 7687.08,
+      "change_pct": -0.28
     },
     "Nasdaq": {
-      "price": 26936.04,
-      "change_pct": -1.13
+      "price": 26783.04,
+      "change_pct": -0.57
     },
     "Dow Jones": {
-      "price": 51511.59,
-      "change_pct": -0.68
+      "price": 51342.09,
+      "change_pct": -0.35
     },
     "Russell 2000": {
-      "price": 2838.66,
-      "change_pct": -1.77
+      "price": 2826.36,
+      "change_pct": -0.44
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4300.0,
-      "change_pct": -0.44
+      "price": 4305.8,
+      "change_pct": -0.3
     },
     "Oil (WTI)": {
-      "price": 94.55,
-      "change_pct": 3.56
+      "price": 94.19,
+      "change_pct": 3.17
     },
     "Silver": {
-      "price": 64.06,
-      "change_pct": -0.85
+      "price": 63.77,
+      "change_pct": -1.29
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83785,
-      "change_pct": -2.77
+      "price": 84150,
+      "change_pct": -1.91
     },
     "ETH": {
-      "price": 2670.7,
-      "change_pct": -2.72
+      "price": 2666.9,
+      "change_pct": -1.8
     },
     "SOL": {
-      "price": 114.26,
-      "change_pct": -3.19
+      "price": 114.84,
+      "change_pct": -1.68
     },
     "BNB": {
-      "price": 770.13,
-      "change_pct": -2.52
+      "price": 776.25,
+      "change_pct": -0.61
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'"
+      "title": "30-year Treasury yield hits highest level since 2004 as bond market rout continues"
     },
     {
       "source": "CNBC",
-      "title": "Judge lifts Trump ban on CNN, MS NOW, Politico from White House"
+      "title": "Judge lifts Trump ban of media outlets from White House \u2014 access still denied for some"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It doesn\u2019t seem fair\u2019: I\u2019m retired and have plenty of money. Why can\u2019t I qualify for a retail credit card?"
+      "title": "Social Security checks are projected to be cut by $540 a month in just six years"
     },
     {
       "source": "MarketWatch",
-      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?"
+      "title": "With the stock market \u2018priced for perfection,\u2019 the S&P 500 is in danger of a 20% slump next year"
     }
   ]
 }
