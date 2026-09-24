@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, September 23 2026  16:51 PT",
+  "generated_at": "Wednesday, September 23 2026  20:16 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -11,7 +11,7 @@
       "change_pct": -1.13
     },
     "Dow Jones": {
-      "price": 51511.59,
+      "price": 51511.6,
       "change_pct": -0.68
     },
     "Russell 2000": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4321.8,
-      "change_pct": -1.33
+      "price": 4323.2,
+      "change_pct": -1.3
     },
     "Oil (WTI)": {
-      "price": 92.11,
-      "change_pct": 3.09
+      "price": 91.3,
+      "change_pct": 2.18
     },
     "Silver": {
-      "price": 64.82,
-      "change_pct": -3.35
+      "price": 64.56,
+      "change_pct": -3.75
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84415,
-      "change_pct": -2.0
+      "price": 84257,
+      "change_pct": -2.6
     },
     "ETH": {
-      "price": 2682.37,
-      "change_pct": -2.58
+      "price": 2680.45,
+      "change_pct": -3.01
     },
     "SOL": {
-      "price": 114.88,
-      "change_pct": -2.99
+      "price": 115.12,
+      "change_pct": -2.93
     },
     "BNB": {
-      "price": 767.12,
-      "change_pct": -2.65
+      "price": 771.41,
+      "change_pct": -2.88
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump faces Xi as strains with allies complicate U.S. pressure on China"
+      "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit"
     },
     {
       "source": "CNBC",
-      "title": "10-year Treasury yield rockets to 19-year high. Here's what's driving the spike"
+      "title": "Chinese authorities reportedly in possession of F-35 components in Hong Kong"
     },
     {
       "source": "MarketWatch",
