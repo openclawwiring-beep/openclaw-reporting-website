@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, September 25 2026  08:25 PT",
-  "market_status": "Live \u2014 as of 11:25 ET",
+  "generated_at": "Friday, September 25 2026  12:25 PT",
+  "market_status": "Live \u2014 as of 15:25 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7716.37,
-      "change_pct": 0.16
+      "price": 7733.79,
+      "change_pct": 0.39
     },
     "Nasdaq": {
-      "price": 26992.16,
-      "change_pct": 0.2
+      "price": 27043.94,
+      "change_pct": 0.39
     },
     "Dow Jones": {
-      "price": 51527.14,
-      "change_pct": 0.35
+      "price": 51744.4,
+      "change_pct": 0.77
     },
     "Russell 2000": {
-      "price": 2833.67,
-      "change_pct": -0.07
+      "price": 2842.09,
+      "change_pct": 0.22
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4314.5,
-      "change_pct": 0.2
+      "price": 4331.0,
+      "change_pct": 0.59
     },
     "Oil (WTI)": {
-      "price": 94.05,
-      "change_pct": 1.0
+      "price": 92.5,
+      "change_pct": -0.67
     },
     "Silver": {
-      "price": 64.61,
-      "change_pct": 0.82
+      "price": 65.0,
+      "change_pct": 1.41
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83868,
-      "change_pct": -0.29
+      "price": 84017,
+      "change_pct": -0.68
     },
     "ETH": {
-      "price": 2692.0,
-      "change_pct": 0.76
+      "price": 2693.75,
+      "change_pct": 0.01
     },
     "SOL": {
-      "price": 120.72,
-      "change_pct": 4.39
+      "price": 122.03,
+      "change_pct": 3.82
     },
     "BNB": {
-      "price": 775.66,
-      "change_pct": -0.44
+      "price": 775.01,
+      "change_pct": -0.72
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks"
+      "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways"
     },
     {
       "source": "CNBC",
-      "title": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says"
+      "title": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage"
     },
     {
       "source": "MarketWatch",
-      "title": "8% mortgage rates are \u2018not an impossibility\u2019 as the 30-year fixed rate surges"
+      "title": "Microsoft\u2019s stock has roared back to life and is now headed for its highest close of the year"
     },
     {
       "source": "MarketWatch",
-      "title": "A new bill in Congress would lower the retirement age to 60. See who would qualify."
+      "title": "Nike\u2019s stock is one of the worst in the S&P 500 \u2014 and BofA says it\u2019s not done sliding"
     }
   ]
 }
