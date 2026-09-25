@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, September 25 2026  12:25 PT",
-  "market_status": "Live \u2014 as of 15:25 ET",
+  "generated_at": "Friday, September 25 2026  15:39 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7733.79,
-      "change_pct": 0.39
+      "price": 7743.41,
+      "change_pct": 0.51
     },
     "Nasdaq": {
-      "price": 27043.94,
-      "change_pct": 0.39
+      "price": 27068.72,
+      "change_pct": 0.48
     },
     "Dow Jones": {
-      "price": 51744.4,
-      "change_pct": 0.77
+      "price": 51828.62,
+      "change_pct": 0.93
     },
     "Russell 2000": {
-      "price": 2842.09,
-      "change_pct": 0.22
+      "price": 2837.55,
+      "change_pct": 0.07
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4331.0,
-      "change_pct": 0.59
+      "price": 4320.5,
+      "change_pct": 0.34
     },
     "Oil (WTI)": {
-      "price": 92.5,
-      "change_pct": -0.67
+      "price": 92.44,
+      "change_pct": -0.73
     },
     "Silver": {
-      "price": 65.0,
-      "change_pct": 1.41
+      "price": 64.71,
+      "change_pct": 0.97
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84017,
-      "change_pct": -0.68
+      "price": 84033,
+      "change_pct": -0.09
     },
     "ETH": {
-      "price": 2693.75,
-      "change_pct": 0.01
+      "price": 2693.4,
+      "change_pct": 0.45
     },
     "SOL": {
-      "price": 122.03,
-      "change_pct": 3.82
+      "price": 122.25,
+      "change_pct": 5.04
     },
     "BNB": {
-      "price": 775.01,
-      "change_pct": -0.72
+      "price": 775.64,
+      "change_pct": -0.12
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage"
+      "title": "Airlines waive change fees ahead of nor'easter as flight delays trickle in"
     },
     {
       "source": "MarketWatch",
-      "title": "Microsoft\u2019s stock has roared back to life and is now headed for its highest close of the year"
+      "title": "\u2018She says it\u2019s just money\u2019: My friend pays for everything. I should be grateful, but I can\u2019t stand her anymore."
     },
     {
       "source": "MarketWatch",
-      "title": "Nike\u2019s stock is one of the worst in the S&P 500 \u2014 and BofA says it\u2019s not done sliding"
+      "title": "A \u2018death cross\u2019 is coming for the dollar. Why Trump will be happy."
     }
   ]
 }
