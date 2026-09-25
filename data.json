@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, September 24 2026  17:24 PT",
+  "generated_at": "Thursday, September 24 2026  22:12 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4301.3,
-      "change_pct": -0.41
+      "price": 4295.7,
+      "change_pct": -0.74
     },
     "Oil (WTI)": {
-      "price": 93.9,
-      "change_pct": 2.85
+      "price": 93.03,
+      "change_pct": -0.1
     },
     "Silver": {
-      "price": 64.08,
-      "change_pct": -0.8
+      "price": 63.95,
+      "change_pct": -0.61
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84563,
-      "change_pct": 0.24
+      "price": 84198,
+      "change_pct": -0.13
     },
     "ETH": {
-      "price": 2691.07,
-      "change_pct": 0.16
+      "price": 2678.98,
+      "change_pct": -0.63
     },
     "SOL": {
-      "price": 117.37,
-      "change_pct": 1.82
+      "price": 116.42,
+      "change_pct": 0.5
     },
     "BNB": {
-      "price": 777.46,
-      "change_pct": 1.39
+      "price": 773.35,
+      "change_pct": -0.09
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Senate narrowly votes down resolution calling for end to Iran war"
+      "title": "Trump, Xi to attend state dinner after White House meeting"
     },
     {
       "source": "CNBC",
-      "title": "Trump, Xi to attend state dinner after White House meeting"
+      "title": "Oil falls amid optimism over potential diplomatic solution to the Iran conflict"
     },
     {
       "source": "MarketWatch",
