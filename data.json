@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, September 24 2026  14:58 PT",
+  "generated_at": "Thursday, September 24 2026  17:24 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4310.1,
-      "change_pct": -0.2
+      "price": 4301.3,
+      "change_pct": -0.41
     },
     "Oil (WTI)": {
-      "price": 94.76,
-      "change_pct": 3.79
+      "price": 93.9,
+      "change_pct": 2.85
     },
     "Silver": {
-      "price": 64.28,
-      "change_pct": -0.51
+      "price": 64.08,
+      "change_pct": -0.8
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84369,
-      "change_pct": -0.09
+      "price": 84563,
+      "change_pct": 0.24
     },
     "ETH": {
-      "price": 2687.81,
-      "change_pct": 0.36
+      "price": 2691.07,
+      "change_pct": 0.16
     },
     "SOL": {
-      "price": 117.02,
-      "change_pct": 2.07
+      "price": 117.37,
+      "change_pct": 1.82
     },
     "BNB": {
-      "price": 778.94,
-      "change_pct": 1.67
+      "price": 777.46,
+      "change_pct": 1.39
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed"
+      "title": "Trump, Xi to attend state dinner after White House meeting"
     },
     {
       "source": "MarketWatch",
-      "title": "Why investors aren\u2019t buying yet another attempt by the Treasury to calm the rattled bond market"
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?"
     },
     {
       "source": "MarketWatch",
-      "title": "Costco earnings beat expectations, thanks to tariff refunds"
+      "title": "3 things Micron investors need to watch as the stakes get higher"
     }
   ]
 }
