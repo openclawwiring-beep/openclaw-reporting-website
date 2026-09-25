@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, September 24 2026  22:12 PT",
+  "generated_at": "Friday, September 25 2026  03:24 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4295.7,
-      "change_pct": -0.74
+      "price": 4341.4,
+      "change_pct": 0.83
     },
     "Oil (WTI)": {
-      "price": 93.03,
-      "change_pct": -0.1
+      "price": 92.69,
+      "change_pct": -0.46
     },
     "Silver": {
-      "price": 63.95,
-      "change_pct": -0.61
+      "price": 65.25,
+      "change_pct": 1.82
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84198,
-      "change_pct": -0.13
+      "price": 84459,
+      "change_pct": 1.44
     },
     "ETH": {
-      "price": 2678.98,
-      "change_pct": -0.63
+      "price": 2701.84,
+      "change_pct": 2.43
     },
     "SOL": {
-      "price": 116.42,
-      "change_pct": 0.5
+      "price": 118.13,
+      "change_pct": 4.43
     },
     "BNB": {
-      "price": 773.35,
-      "change_pct": -0.09
+      "price": 775.13,
+      "change_pct": 1.16
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump, Xi to attend state dinner after White House meeting"
+      "title": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks"
     },
     {
       "source": "CNBC",
-      "title": "Oil falls amid optimism over potential diplomatic solution to the Iran conflict"
+      "title": "See which incumbents have the biggest cash advantage in the tightest U.S. House races"
     },
     {
       "source": "MarketWatch",
-      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?"
+      "title": "After capital-markets day flop, Novo strikes licensing deal that sends a Swedish company\u2019s stock soaring"
     },
     {
       "source": "MarketWatch",
-      "title": "3 things Micron investors need to watch as the stakes get higher"
+      "title": "The low-key California property portfolio of \u2018Wednesday\u2019 star Jenna Ortega"
     }
   ]
 }
