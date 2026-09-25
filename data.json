@@ -1,54 +1,54 @@
 {
-  "generated_at": "Friday, September 25 2026  03:24 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, September 25 2026  08:25 PT",
+  "market_status": "Live \u2014 as of 11:25 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7704.13,
-      "change_pct": -0.02
+      "price": 7716.37,
+      "change_pct": 0.16
     },
     "Nasdaq": {
-      "price": 26939.37,
-      "change_pct": 0.01
+      "price": 26992.16,
+      "change_pct": 0.2
     },
     "Dow Jones": {
-      "price": 51349.98,
-      "change_pct": -0.31
+      "price": 51527.14,
+      "change_pct": 0.35
     },
     "Russell 2000": {
-      "price": 2835.57,
-      "change_pct": -0.11
+      "price": 2833.67,
+      "change_pct": -0.07
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4341.4,
-      "change_pct": 0.83
+      "price": 4314.5,
+      "change_pct": 0.2
     },
     "Oil (WTI)": {
-      "price": 92.69,
-      "change_pct": -0.46
+      "price": 94.05,
+      "change_pct": 1.0
     },
     "Silver": {
-      "price": 65.25,
-      "change_pct": 1.82
+      "price": 64.61,
+      "change_pct": 0.82
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84459,
-      "change_pct": 1.44
+      "price": 83868,
+      "change_pct": -0.29
     },
     "ETH": {
-      "price": 2701.84,
-      "change_pct": 2.43
+      "price": 2692.0,
+      "change_pct": 0.76
     },
     "SOL": {
-      "price": 118.13,
-      "change_pct": 4.43
+      "price": 120.72,
+      "change_pct": 4.39
     },
     "BNB": {
-      "price": 775.13,
-      "change_pct": 1.16
+      "price": 775.66,
+      "change_pct": -0.44
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "See which incumbents have the biggest cash advantage in the tightest U.S. House races"
+      "title": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says"
     },
     {
       "source": "MarketWatch",
-      "title": "After capital-markets day flop, Novo strikes licensing deal that sends a Swedish company\u2019s stock soaring"
+      "title": "8% mortgage rates are \u2018not an impossibility\u2019 as the 30-year fixed rate surges"
     },
     {
       "source": "MarketWatch",
-      "title": "The low-key California property portfolio of \u2018Wednesday\u2019 star Jenna Ortega"
+      "title": "A new bill in Congress would lower the retirement age to 60. See who would qualify."
     }
   ]
 }
