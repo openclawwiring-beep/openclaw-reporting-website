@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, September 26 2026  04:40 PT",
+  "generated_at": "Saturday, September 26 2026  08:49 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84174,
-      "change_pct": -0.78
+      "price": 84083,
+      "change_pct": 0.79
     },
     "ETH": {
-      "price": 2689.4,
-      "change_pct": -1.31
+      "price": 2690.02,
+      "change_pct": 0.65
     },
     "SOL": {
-      "price": 121.26,
-      "change_pct": 0.0
+      "price": 121.67,
+      "change_pct": 2.02
     },
     "BNB": {
-      "price": 775.6,
-      "change_pct": -0.54
+      "price": 773.67,
+      "change_pct": 0.22
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways"
+      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here"
     },
     {
       "source": "CNBC",
-      "title": "Airlines waive change fees ahead of nor'easter as flight delays trickle in"
+      "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics"
     },
     {
       "source": "MarketWatch",
-      "title": "Meta turned Muse into a viral hit. Now comes the hard part."
+      "title": "Tax-free bond yields are in a sweet spot. Get in before it\u2019s too late."
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?"
+      "title": "\u2018She says it\u2019s just money\u2019: My friend pays for everything. I should be grateful, but I can\u2019t stand her anymore."
     }
   ]
 }
