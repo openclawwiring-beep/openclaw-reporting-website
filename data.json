@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, September 25 2026  15:39 PT",
+  "generated_at": "Friday, September 25 2026  18:11 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84033,
-      "change_pct": -0.09
+      "price": 83905,
+      "change_pct": -0.99
     },
     "ETH": {
-      "price": 2693.4,
-      "change_pct": 0.45
+      "price": 2689.13,
+      "change_pct": -0.27
     },
     "SOL": {
-      "price": 122.25,
-      "change_pct": 5.04
+      "price": 121.57,
+      "change_pct": 3.32
     },
     "BNB": {
-      "price": 775.64,
-      "change_pct": -0.12
+      "price": 775.67,
+      "change_pct": -0.36
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She says it\u2019s just money\u2019: My friend pays for everything. I should be grateful, but I can\u2019t stand her anymore."
+      "title": "I\u2019m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?"
     },
     {
       "source": "MarketWatch",
-      "title": "A \u2018death cross\u2019 is coming for the dollar. Why Trump will be happy."
+      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?"
     }
   ]
 }
