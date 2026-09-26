@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, September 25 2026  23:24 PT",
+  "generated_at": "Saturday, September 26 2026  04:40 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 83911,
-      "change_pct": -0.35
+      "price": 84174,
+      "change_pct": -0.78
     },
     "ETH": {
-      "price": 2685.3,
-      "change_pct": 0.18
+      "price": 2689.4,
+      "change_pct": -1.31
     },
     "SOL": {
-      "price": 120.39,
-      "change_pct": 3.28
+      "price": 121.26,
+      "change_pct": 0.0
     },
     "BNB": {
-      "price": 772.31,
-      "change_pct": -0.37
+      "price": 775.6,
+      "change_pct": -0.54
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?"
+      "title": "Meta turned Muse into a viral hit. Now comes the hard part."
     },
     {
       "source": "MarketWatch",
-      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?"
+      "title": "I\u2019m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?"
     }
   ]
 }
