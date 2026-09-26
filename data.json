@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, September 26 2026  08:49 PT",
+  "generated_at": "Saturday, September 26 2026  12:01 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84083,
-      "change_pct": 0.79
+      "price": 83986,
+      "change_pct": 0.06
     },
     "ETH": {
-      "price": 2690.02,
-      "change_pct": 0.65
+      "price": 2684.59,
+      "change_pct": -0.3
     },
     "SOL": {
-      "price": 121.67,
-      "change_pct": 2.02
+      "price": 121.02,
+      "change_pct": -0.72
     },
     "BNB": {
-      "price": 773.67,
-      "change_pct": 0.22
+      "price": 770.9,
+      "change_pct": -0.51
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Tax-free bond yields are in a sweet spot. Get in before it\u2019s too late."
+      "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She says it\u2019s just money\u2019: My friend pays for everything. I should be grateful, but I can\u2019t stand her anymore."
+      "title": "Social Security checks are projected to be cut by $540 a month in just six years"
     }
   ]
 }
