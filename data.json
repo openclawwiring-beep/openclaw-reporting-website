@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, September 26 2026  23:14 PT",
+  "generated_at": "Sunday, September 27 2026  05:17 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84574,
-      "change_pct": 0.79
+      "price": 84979,
+      "change_pct": 0.98
     },
     "ETH": {
-      "price": 2708.53,
-      "change_pct": 0.84
+      "price": 2714.61,
+      "change_pct": 0.92
     },
     "SOL": {
-      "price": 121.44,
-      "change_pct": 0.88
+      "price": 124.2,
+      "change_pct": 2.3
     },
     "BNB": {
-      "price": 774.19,
-      "change_pct": 0.23
+      "price": 781.68,
+      "change_pct": 0.85
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge"
+      "title": "Debt-hungry AI companies face increased risk as bond yields spike"
     },
     {
       "source": "CNBC",
-      "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics"
+      "title": "At NFL games this season, drone defense tech aims to bring down disruptions"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging"
     },
     {
       "source": "MarketWatch",
       "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?"
     }
   ]
 }
