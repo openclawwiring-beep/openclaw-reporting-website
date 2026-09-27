@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, September 27 2026  10:08 PT",
+  "generated_at": "Sunday, September 27 2026  13:17 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84426,
-      "change_pct": 0.43
+      "price": 84788,
+      "change_pct": 0.92
     },
     "ETH": {
-      "price": 2688.15,
-      "change_pct": 0.0
-    },
-    "SOL": {
-      "price": 121.91,
+      "price": 2695.17,
       "change_pct": 0.49
     },
+    "SOL": {
+      "price": 123.33,
+      "change_pct": 1.92
+    },
     "BNB": {
-      "price": 775.81,
-      "change_pct": 0.29
+      "price": 778.8,
+      "change_pct": 1.1
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Debt-hungry AI companies face increased risk as bond yields spike"
-    },
-    {
-      "source": "CNBC",
       "title": "At NFL games this season, drone defense tech aims to bring down disruptions"
     },
     {
-      "source": "MarketWatch",
-      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?"
+      "source": "CNBC",
+      "title": "Debt-hungry AI companies face increased risk as bond yields spike"
     },
     {
       "source": "MarketWatch",
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?"
+      "title": "A \u2018death cross\u2019 is coming for the dollar. Why Trump will be happy."
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?"
     }
   ]
 }
