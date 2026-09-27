@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, September 26 2026  15:04 PT",
+  "generated_at": "Saturday, September 26 2026  17:45 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84174,
-      "change_pct": 0.44
+      "price": 84332,
+      "change_pct": 0.55
     },
     "ETH": {
-      "price": 2686.39,
-      "change_pct": 0.16
+      "price": 2694.31,
+      "change_pct": 0.37
     },
     "SOL": {
-      "price": 121.4,
-      "change_pct": 0.28
+      "price": 121.0,
+      "change_pct": -0.4
     },
     "BNB": {
-      "price": 772.25,
-      "change_pct": -0.1
+      "price": 773.04,
+      "change_pct": -0.31
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here"
+      "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge"
     },
     {
       "source": "CNBC",
