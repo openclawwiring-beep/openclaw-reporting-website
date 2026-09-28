@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, September 28 2026  01:14 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, September 28 2026  09:53 PT",
+  "market_status": "Live \u2014 as of 12:53 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7743.41,
-      "change_pct": 0.51
+      "price": 7699.02,
+      "change_pct": -0.56
     },
     "Nasdaq": {
-      "price": 27068.72,
-      "change_pct": 0.48
+      "price": 26888.51,
+      "change_pct": -0.67
     },
     "Dow Jones": {
-      "price": 51828.62,
-      "change_pct": 0.93
+      "price": 51567.8,
+      "change_pct": -0.5
     },
     "Russell 2000": {
-      "price": 2837.55,
-      "change_pct": 0.07
+      "price": 2825.81,
+      "change_pct": -0.44
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4188.8,
-      "change_pct": -0.99
+      "price": 4166.0,
+      "change_pct": -1.52
     },
     "Oil (WTI)": {
-      "price": 94.6,
-      "change_pct": 0.65
+      "price": 93.12,
+      "change_pct": -0.93
     },
     "Silver": {
-      "price": 61.48,
-      "change_pct": -1.58
+      "price": 61.62,
+      "change_pct": -1.37
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82957,
-      "change_pct": -2.15
+      "price": 83580,
+      "change_pct": -0.96
     },
     "ETH": {
-      "price": 2647.48,
-      "change_pct": -2.56
+      "price": 2680.2,
+      "change_pct": -0.2
     },
     "SOL": {
-      "price": 118.35,
-      "change_pct": -4.71
+      "price": 118.98,
+      "change_pct": -2.31
     },
     "BNB": {
-      "price": 762.31,
-      "change_pct": -1.99
+      "price": 766.28,
+      "change_pct": -1.1
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Police 'investigate Iran link' to suspected bomb plot at UK air base used by U.S."
+      "title": "Nvidia share buyback plan gets $150 billion boost"
     },
     {
       "source": "CNBC",
-      "title": "Brent crude tops $107 as Trump rejects Iranian proposal to reopen Hormuz Strait"
+      "title": "SpaceX launches its massive Starship rocket into orbit for the first time"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?"
+      "title": "Nvidia is right: Its stock is a bargain by this measure"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?"
+      "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?"
     }
   ]
 }
