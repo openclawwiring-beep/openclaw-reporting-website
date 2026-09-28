@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, September 27 2026  16:14 PT",
+  "generated_at": "Sunday, September 27 2026  18:51 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4299.4,
-      "change_pct": -0.5
+      "price": 4245.3,
+      "change_pct": -1.76
     },
     "Oil (WTI)": {
-      "price": 93.39,
-      "change_pct": 1.06
+      "price": 93.51,
+      "change_pct": 1.19
     },
     "Silver": {
-      "price": 64.22,
-      "change_pct": -0.89
+      "price": 62.99,
+      "change_pct": -2.79
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84169,
-      "change_pct": -0.19
+      "price": 83833,
+      "change_pct": -0.73
     },
     "ETH": {
-      "price": 2674.64,
-      "change_pct": -0.66
+      "price": 2665.88,
+      "change_pct": -1.1
     },
     "SOL": {
-      "price": 121.44,
-      "change_pct": -0.04
+      "price": 121.02,
+      "change_pct": -0.06
     },
     "BNB": {
-      "price": 775.2,
-      "change_pct": 0.28
+      "price": 775.22,
+      "change_pct": 0.25
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures slip after winning week on Wall Street: Live updates"
+      "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August"
     },
     {
       "source": "CNBC",
-      "title": "At NFL games this season, drone defense tech aims to bring down disruptions"
+      "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait"
     },
     {
       "source": "MarketWatch",
