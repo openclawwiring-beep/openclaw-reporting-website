@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, September 28 2026  09:53 PT",
-  "market_status": "Live \u2014 as of 12:53 ET",
+  "generated_at": "Monday, September 28 2026  15:24 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7699.02,
-      "change_pct": -0.56
+      "price": 7683.69,
+      "change_pct": -0.77
     },
     "Nasdaq": {
-      "price": 26888.51,
-      "change_pct": -0.67
+      "price": 26820.38,
+      "change_pct": -0.92
     },
     "Dow Jones": {
-      "price": 51567.8,
-      "change_pct": -0.5
+      "price": 51481.51,
+      "change_pct": -0.67
     },
     "Russell 2000": {
-      "price": 2825.81,
-      "change_pct": -0.44
+      "price": 2817.91,
+      "change_pct": -0.69
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4166.0,
-      "change_pct": -1.52
+      "price": 4153.9,
+      "change_pct": -1.81
     },
     "Oil (WTI)": {
-      "price": 93.12,
-      "change_pct": -0.93
+      "price": 93.17,
+      "change_pct": -0.87
     },
     "Silver": {
-      "price": 61.62,
-      "change_pct": -1.37
+      "price": 61.2,
+      "change_pct": -2.03
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83580,
-      "change_pct": -0.96
+      "price": 83199,
+      "change_pct": -1.51
     },
     "ETH": {
-      "price": 2680.2,
-      "change_pct": -0.2
+      "price": 2673.45,
+      "change_pct": -0.24
     },
     "SOL": {
-      "price": 118.98,
-      "change_pct": -2.31
+      "price": 117.68,
+      "change_pct": -3.39
     },
     "BNB": {
-      "price": 766.28,
-      "change_pct": -1.1
+      "price": 759.69,
+      "change_pct": -2.25
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia share buyback plan gets $150 billion boost"
+      "title": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history"
     },
     {
       "source": "CNBC",
-      "title": "SpaceX launches its massive Starship rocket into orbit for the first time"
+      "title": "AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion"
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia is right: Its stock is a bargain by this measure"
+      "title": "SpaceX\u2019s next big growth engine isn\u2019t rockets \u2014 it\u2019s this play on AI power, analysts say"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?"
+      "title": "AMD makes a big bet on the next era of AI with World Labs acquisition"
     }
   ]
 }
