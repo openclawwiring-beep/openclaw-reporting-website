@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, September 28 2026  15:24 PT",
+  "generated_at": "Monday, September 28 2026  19:09 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,48 +21,48 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4153.9,
-      "change_pct": -1.81
+      "price": 4166.4,
+      "change_pct": -1.52
     },
     "Oil (WTI)": {
-      "price": 93.17,
-      "change_pct": -0.87
+      "price": 93.59,
+      "change_pct": -0.43
     },
     "Silver": {
-      "price": 61.2,
-      "change_pct": -2.03
+      "price": 61.12,
+      "change_pct": -2.16
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83199,
-      "change_pct": -1.51
+      "price": 83013,
+      "change_pct": -0.71
     },
     "ETH": {
-      "price": 2673.45,
-      "change_pct": -0.24
+      "price": 2660.39,
+      "change_pct": 0.18
     },
     "SOL": {
-      "price": 117.68,
-      "change_pct": -3.39
+      "price": 116.93,
+      "change_pct": -3.24
     },
     "BNB": {
-      "price": 759.69,
-      "change_pct": -2.25
+      "price": 756.78,
+      "change_pct": -2.23
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history"
+      "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate"
     },
     {
       "source": "CNBC",
-      "title": "AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion"
+      "title": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history"
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX\u2019s next big growth engine isn\u2019t rockets \u2014 it\u2019s this play on AI power, analysts say"
+      "title": "Anthropic\u2019s potential $2 trillion IPO comes with the following fine print"
     },
     {
       "source": "MarketWatch",
