@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, September 28 2026  19:09 PT",
+  "generated_at": "Tuesday, September 29 2026  01:51 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,35 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4166.4,
-      "change_pct": -1.52
+      "price": 4171.0,
+      "change_pct": 0.17
     },
     "Oil (WTI)": {
-      "price": 93.59,
-      "change_pct": -0.43
+      "price": 92.92,
+      "change_pct": -1.27
     },
     "Silver": {
-      "price": 61.12,
-      "change_pct": -2.16
+      "price": 61.01,
+      "change_pct": 0.2
     }
   },
-  "crypto": {
-    "BTC": {
-      "price": 83013,
-      "change_pct": -0.71
-    },
-    "ETH": {
-      "price": 2660.39,
-      "change_pct": 0.18
-    },
-    "SOL": {
-      "price": 116.93,
-      "change_pct": -3.24
-    },
-    "BNB": {
-      "price": 756.78,
-      "change_pct": -2.23
-    }
-  },
+  "crypto": {},
   "headlines": [
     {
       "source": "CNBC",
-      "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate"
+      "title": "Mistral CEO says U.S. AI safety debate masks competitors\u2019 'negligence'"
     },
     {
       "source": "CNBC",
-      "title": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history"
+      "title": "Anthropic warns investors of AI\u2019s 'existential risk to humanity' in IPO prospectus, reports say"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The stock market usually booms in the November-to-April stretch. This indicator suggests otherwise."
     },
     {
       "source": "MarketWatch",
       "title": "Anthropic\u2019s potential $2 trillion IPO comes with the following fine print"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AMD makes a big bet on the next era of AI with World Labs acquisition"
     }
   ]
 }
