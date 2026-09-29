@@ -1,55 +1,55 @@
 {
-  "generated_at": "Tuesday, September 29 2026  08:22 PT",
-  "market_status": "Live \u2014 as of 11:22 ET",
+  "generated_at": "Tuesday, September 29 2026  13:07 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7661.91,
-      "change_pct": -0.29
+      "price": 7670.84,
+      "change_pct": -0.17
     },
     "Nasdaq": {
-      "price": 26789.49,
-      "change_pct": -0.12
+      "price": 26797.54,
+      "change_pct": -0.09
     },
     "Dow Jones": {
-      "price": 51159.06,
-      "change_pct": -0.63
+      "price": 51349.92,
+      "change_pct": -0.26
     },
     "Russell 2000": {
-      "price": 2805.16,
-      "change_pct": -0.47
+      "price": 2807.23,
+      "change_pct": -0.4
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4194.5,
-      "change_pct": 0.73
+      "price": 4207.7,
+      "change_pct": 1.05
     },
     "Oil (WTI)": {
-      "price": 91.61,
-      "change_pct": -2.67
+      "price": 89.21,
+      "change_pct": -5.22
     },
     "Silver": {
-      "price": 61.42,
-      "change_pct": 0.89
+      "price": 61.78,
+      "change_pct": 1.47
     }
   },
   "crypto": {},
   "headlines": [
     {
       "source": "CNBC",
-      "title": "OpenAI DevDay live updates: Altman faces safety questions, Meta AI chief pokes fun at rival"
+      "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect"
     },
     {
       "source": "CNBC",
-      "title": "Consumer optimism slides sharply as fears escalate over rising prices and jobs"
+      "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'"
     },
     {
       "source": "MarketWatch",
-      "title": "Medicare Advantage plans will be cheaper next year. Here\u2019s the new cost."
+      "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?"
+      "title": "The real prize in AMD\u2019s $8 billion World Labs acquisition isn\u2019t what you\u2019d think"
     }
   ]
 }
