@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, September 29 2026  13:07 PT",
+  "generated_at": "Tuesday, September 29 2026  16:52 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,41 +15,41 @@
       "change_pct": -0.26
     },
     "Russell 2000": {
-      "price": 2807.23,
-      "change_pct": -0.4
+      "price": 2807.92,
+      "change_pct": -0.35
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4207.7,
-      "change_pct": 1.05
+      "price": 4212.4,
+      "change_pct": 1.16
     },
     "Oil (WTI)": {
       "price": 89.21,
       "change_pct": -5.22
     },
     "Silver": {
-      "price": 61.78,
-      "change_pct": 1.47
+      "price": 61.9,
+      "change_pct": 1.66
     }
   },
   "crypto": {},
   "headlines": [
     {
       "source": "CNBC",
-      "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect"
+      "title": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue"
     },
     {
       "source": "CNBC",
-      "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'"
+      "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?"
+      "title": "I\u2019m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?"
     },
     {
       "source": "MarketWatch",
-      "title": "The real prize in AMD\u2019s $8 billion World Labs acquisition isn\u2019t what you\u2019d think"
+      "title": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?"
     }
   ]
 }
