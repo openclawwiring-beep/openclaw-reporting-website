@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, September 29 2026  21:05 PT",
+  "generated_at": "Wednesday, September 30 2026  03:38 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4205.7,
-      "change_pct": 1.0
+      "price": 4219.3,
+      "change_pct": 0.33
     },
     "Oil (WTI)": {
-      "price": 89.77,
-      "change_pct": -4.62
+      "price": 90.38,
+      "change_pct": 0.65
     },
     "Silver": {
-      "price": 61.37,
-      "change_pct": 0.8
+      "price": 61.23,
+      "change_pct": -0.19
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83339,
-      "change_pct": 0.38
+      "price": 83835,
+      "change_pct": -0.22
     },
     "ETH": {
-      "price": 2672.68,
-      "change_pct": 0.36
+      "price": 2695.55,
+      "change_pct": -0.58
     },
     "SOL": {
-      "price": 119.27,
-      "change_pct": 1.49
+      "price": 119.8,
+      "change_pct": 0.39
     },
     "BNB": {
-      "price": 761.47,
-      "change_pct": 0.48
+      "price": 768.97,
+      "change_pct": 0.72
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue"
+      "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect"
     },
     {
       "source": "CNBC",
-      "title": "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?"
+      "title": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?"
+      "title": "Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?"
+      "title": "He\u2019s been badmouthing Treasury bonds since 2020, but now \u2018the big fat cushion\u2019 of 5.25% yields is turning this strategist bullish"
     }
   ]
 }
