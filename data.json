@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, September 30 2026  09:39 PT",
-  "market_status": "Live \u2014 as of 12:39 ET",
+  "generated_at": "Wednesday, September 30 2026  14:12 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7707.94,
-      "change_pct": 0.47
+      "price": 7651.54,
+      "change_pct": -0.25
     },
     "Nasdaq": {
-      "price": 27051.29,
-      "change_pct": 0.95
+      "price": 26861.06,
+      "change_pct": 0.24
     },
     "Dow Jones": {
-      "price": 51296.43,
-      "change_pct": -0.12
+      "price": 50906.05,
+      "change_pct": -0.86
     },
     "Russell 2000": {
-      "price": 2813.97,
-      "change_pct": 0.21
+      "price": 2796.86,
+      "change_pct": -0.39
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4192.1,
-      "change_pct": -0.32
+      "price": 4189.1,
+      "change_pct": -0.39
     },
     "Oil (WTI)": {
-      "price": 91.4,
-      "change_pct": 1.78
+      "price": 90.34,
+      "change_pct": 0.6
     },
     "Silver": {
-      "price": 60.66,
-      "change_pct": -1.12
+      "price": 60.76,
+      "change_pct": -0.96
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84232,
-      "change_pct": 1.25
+      "price": 83720,
+      "change_pct": 0.24
     },
     "ETH": {
-      "price": 2684.37,
-      "change_pct": 0.1
+      "price": 2683.22,
+      "change_pct": -0.17
     },
     "SOL": {
-      "price": 119.59,
-      "change_pct": 0.86
+      "price": 118.07,
+      "change_pct": -0.85
     },
     "BNB": {
-      "price": 768.91,
-      "change_pct": 1.7
+      "price": 767.48,
+      "change_pct": 1.29
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fed\u2019s preferred gauge showed core inflation at 3.0% in August, much lighter than expected"
+      "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold"
     },
     {
       "source": "CNBC",
-      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks"
+      "title": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing"
     },
     {
       "source": "MarketWatch",
-      "title": "Wall Street may be sleeping on this networking stock tied to Google and OpenAI"
+      "title": "How the \u2018AI Put\u2019 has become the only thing that matters for stocks"
     },
     {
       "source": "MarketWatch",
-      "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters."
+      "title": "A brutal September for bonds points to an even darker October"
     }
   ]
 }
