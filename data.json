@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, September 29 2026  16:52 PT",
+  "generated_at": "Tuesday, September 29 2026  21:05 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,19 +21,36 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4212.4,
-      "change_pct": 1.16
+      "price": 4205.7,
+      "change_pct": 1.0
     },
     "Oil (WTI)": {
-      "price": 89.21,
-      "change_pct": -5.22
+      "price": 89.77,
+      "change_pct": -4.62
     },
     "Silver": {
-      "price": 61.9,
-      "change_pct": 1.66
+      "price": 61.37,
+      "change_pct": 0.8
     }
   },
-  "crypto": {},
+  "crypto": {
+    "BTC": {
+      "price": 83339,
+      "change_pct": 0.38
+    },
+    "ETH": {
+      "price": 2672.68,
+      "change_pct": 0.36
+    },
+    "SOL": {
+      "price": 119.27,
+      "change_pct": 1.49
+    },
+    "BNB": {
+      "price": 761.47,
+      "change_pct": 0.48
+    }
+  },
   "headlines": [
     {
       "source": "CNBC",
@@ -41,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect"
+      "title": "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?"
+      "title": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018We lived within our means\u2019: I earned $30,000 as a pastor and still retired comfortably. Why don\u2019t you tell people that?"
+      "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?"
     }
   ]
 }
