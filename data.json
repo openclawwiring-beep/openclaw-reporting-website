@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, October 01 2026  07:11 PT",
-  "market_status": "Live \u2014 as of 10:11 ET",
+  "generated_at": "Thursday, October 01 2026  12:40 PT",
+  "market_status": "Live \u2014 as of 15:40 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7641.38,
-      "change_pct": -0.16
+      "price": 7676.7,
+      "change_pct": 0.3
     },
     "Nasdaq": {
-      "price": 26877.96,
-      "change_pct": 0.06
+      "price": 26930.45,
+      "change_pct": 0.26
     },
     "Dow Jones": {
-      "price": 50696.15,
-      "change_pct": -0.45
+      "price": 50975.19,
+      "change_pct": 0.1
     },
     "Russell 2000": {
-      "price": 2787.51,
-      "change_pct": -0.35
+      "price": 2809.88,
+      "change_pct": 0.45
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4188.9,
-      "change_pct": -0.39
+      "price": 4207.4,
+      "change_pct": 0.05
     },
     "Oil (WTI)": {
-      "price": 91.49,
-      "change_pct": 2.64
+      "price": 93.22,
+      "change_pct": 4.58
     },
     "Silver": {
-      "price": 61.27,
-      "change_pct": -0.3
+      "price": 61.3,
+      "change_pct": -0.25
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83845,
-      "change_pct": -0.54
+      "price": 84606,
+      "change_pct": 0.89
     },
     "ETH": {
-      "price": 2690.71,
-      "change_pct": -0.41
+      "price": 2693.29,
+      "change_pct": 0.58
     },
     "SOL": {
-      "price": 117.73,
-      "change_pct": -2.42
+      "price": 117.64,
+      "change_pct": -0.37
     },
     "BNB": {
-      "price": 769.52,
-      "change_pct": -0.05
+      "price": 768.31,
+      "change_pct": 0.15
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "10-year Treasury yield hits highest level since 2002 as global bond rout gathers pace"
+      "title": "Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East"
     },
     {
       "source": "CNBC",
-      "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold"
+      "title": "The September jobs report will be released Friday. Here's what to expect"
     },
     {
       "source": "MarketWatch",
-      "title": "More than 10 million older adults are now living in poverty as Social Security cuts loom: \u2018I don\u2019t know how anyone is making it\u2019"
+      "title": "Financial stocks are falling below a key chart level to warn the worst is yet to come"
     },
     {
       "source": "MarketWatch",
-      "title": "These bond strategies can help you get a safe 5% return on your cash"
+      "title": "This silent alarm in the bond market tells you which stocks to buy and which to avoid"
     }
   ]
 }
