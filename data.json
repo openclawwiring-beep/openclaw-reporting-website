@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, September 30 2026  23:50 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, October 01 2026  07:11 PT",
+  "market_status": "Live \u2014 as of 10:11 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7651.54,
-      "change_pct": -0.25
+      "price": 7641.38,
+      "change_pct": -0.16
     },
     "Nasdaq": {
-      "price": 26861.06,
-      "change_pct": 0.24
+      "price": 26877.96,
+      "change_pct": 0.06
     },
     "Dow Jones": {
-      "price": 50906.05,
-      "change_pct": -0.86
+      "price": 50696.15,
+      "change_pct": -0.45
     },
     "Russell 2000": {
-      "price": 2796.86,
-      "change_pct": -0.39
+      "price": 2787.51,
+      "change_pct": -0.35
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4212.9,
-      "change_pct": 0.18
+      "price": 4188.9,
+      "change_pct": -0.39
     },
     "Oil (WTI)": {
-      "price": 90.27,
-      "change_pct": 1.27
+      "price": 91.49,
+      "change_pct": 2.64
     },
     "Silver": {
-      "price": 61.37,
-      "change_pct": -0.15
+      "price": 61.27,
+      "change_pct": -0.3
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84144,
-      "change_pct": 1.42
+      "price": 83845,
+      "change_pct": -0.54
     },
     "ETH": {
-      "price": 2714.92,
-      "change_pct": 2.15
+      "price": 2690.71,
+      "change_pct": -0.41
     },
     "SOL": {
-      "price": 119.22,
-      "change_pct": 0.96
+      "price": 117.73,
+      "change_pct": -2.42
     },
     "BNB": {
-      "price": 771.07,
-      "change_pct": 1.91
+      "price": 769.52,
+      "change_pct": -0.05
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation"
+      "title": "10-year Treasury yield hits highest level since 2002 as global bond rout gathers pace"
     },
     {
       "source": "CNBC",
-      "title": "Passengers and crew foil co-pilot's apparent attempt to crash FlyDubai flight to Israel"
+      "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold"
     },
     {
       "source": "MarketWatch",
-      "title": "Cars have become unaffordable for many Americans. Here\u2019s what the numbers show."
+      "title": "More than 10 million older adults are now living in poverty as Social Security cuts loom: \u2018I don\u2019t know how anyone is making it\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?"
+      "title": "These bond strategies can help you get a safe 5% return on your cash"
     }
   ]
 }
