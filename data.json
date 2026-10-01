@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, September 30 2026  17:40 PT",
+  "generated_at": "Wednesday, September 30 2026  23:50 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4172.6,
-      "change_pct": -0.78
+      "price": 4212.9,
+      "change_pct": 0.18
     },
     "Oil (WTI)": {
-      "price": 90.6,
-      "change_pct": 0.89
+      "price": 90.27,
+      "change_pct": 1.27
     },
     "Silver": {
-      "price": 60.37,
-      "change_pct": -1.59
+      "price": 61.37,
+      "change_pct": -0.15
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83450,
-      "change_pct": -0.05
+      "price": 84144,
+      "change_pct": 1.42
     },
     "ETH": {
-      "price": 2681.04,
-      "change_pct": 0.36
+      "price": 2714.92,
+      "change_pct": 2.15
     },
     "SOL": {
-      "price": 117.92,
-      "change_pct": -0.75
+      "price": 119.22,
+      "change_pct": 0.96
     },
     "BNB": {
-      "price": 769.06,
-      "change_pct": 1.34
+      "price": 771.07,
+      "change_pct": 1.91
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump 'thinking about' diesel export ban, but says it could have 'negative impact' on gasoline"
+      "title": "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation"
     },
     {
       "source": "CNBC",
-      "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold"
+      "title": "Passengers and crew foil co-pilot's apparent attempt to crash FlyDubai flight to Israel"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?"
+      "title": "Cars have become unaffordable for many Americans. Here\u2019s what the numbers show."
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?"
+      "title": "\u2018I\u2019m never selling\u2019: I\u2019m 47 and buy bitcoin with every dollar I earn. Am I crazy?"
     }
   ]
 }
