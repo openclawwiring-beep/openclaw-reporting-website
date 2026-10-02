@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, October 02 2026  03:38 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, October 02 2026  09:29 PT",
+  "market_status": "Live \u2014 as of 12:29 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7666.45,
-      "change_pct": 0.19
+      "price": 7720.94,
+      "change_pct": 0.68
     },
     "Nasdaq": {
-      "price": 26871.6,
-      "change_pct": 0.04
+      "price": 27195.6,
+      "change_pct": 1.21
     },
     "Dow Jones": {
-      "price": 50926.56,
-      "change_pct": 0.04
+      "price": 51099.62,
+      "change_pct": 0.32
     },
     "Russell 2000": {
-      "price": 2806.63,
-      "change_pct": 0.35
+      "price": 2833.91,
+      "change_pct": 0.97
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4202.2,
-      "change_pct": -0.08
+      "price": 4166.9,
+      "change_pct": -0.92
     },
     "Oil (WTI)": {
-      "price": 89.58,
-      "change_pct": -3.29
+      "price": 90.51,
+      "change_pct": -2.29
     },
     "Silver": {
-      "price": 61.29,
-      "change_pct": -0.28
+      "price": 60.4,
+      "change_pct": -1.72
     }
   },
   "crypto": {
     "BTC": {
-      "price": 86430,
-      "change_pct": 3.24
+      "price": 85203,
+      "change_pct": 1.13
     },
     "ETH": {
-      "price": 2746.92,
-      "change_pct": 2.05
+      "price": 2692.98,
+      "change_pct": 0.38
     },
     "SOL": {
-      "price": 121.91,
-      "change_pct": 3.62
+      "price": 120.06,
+      "change_pct": 2.32
     },
     "BNB": {
-      "price": 776.53,
-      "change_pct": 0.97
+      "price": 773.77,
+      "change_pct": 0.91
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices fall over 3% on report of potential diesel, crude stock release; Brent back below $100"
+      "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter"
     },
     {
       "source": "CNBC",
-      "title": "The September jobs report will be released Friday. Here's what to expect"
+      "title": "Men are losing ground in the labor market. Here's why"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s the bond-market alternative as U.S. and other developed markets debt deteriorate"
+      "title": "More than 10 million older adults are now living in poverty as Social Security cuts loom: \u2018I don\u2019t know how anyone is making it\u2019"
     },
     {
       "source": "MarketWatch",
-      "title": "Brazil is holding an election \u2014 and for the stock market, there\u2019s more to gain than to lose, says fund manager"
+      "title": "Europe\u2019s leaders rush to release diesel from stockpiles as fuel-shock hangs over U.S. midterms"
     }
   ]
 }
