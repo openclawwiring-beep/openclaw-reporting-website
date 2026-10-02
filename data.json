@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, October 01 2026  21:10 PT",
+  "generated_at": "Friday, October 02 2026  03:38 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4208.4,
-      "change_pct": 0.78
+      "price": 4202.2,
+      "change_pct": -0.08
     },
     "Oil (WTI)": {
-      "price": 92.48,
-      "change_pct": -0.45
+      "price": 89.58,
+      "change_pct": -3.29
     },
     "Silver": {
-      "price": 61.51,
-      "change_pct": 1.48
+      "price": 61.29,
+      "change_pct": -0.28
     }
   },
   "crypto": {
     "BTC": {
-      "price": 85454,
-      "change_pct": 2.01
+      "price": 86430,
+      "change_pct": 3.24
     },
     "ETH": {
-      "price": 2715.31,
-      "change_pct": 0.71
+      "price": 2746.92,
+      "change_pct": 2.05
     },
     "SOL": {
-      "price": 120.91,
-      "change_pct": 1.95
+      "price": 121.91,
+      "change_pct": 3.62
     },
     "BNB": {
-      "price": 775.39,
-      "change_pct": 0.82
+      "price": 776.53,
+      "change_pct": 0.97
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump could target three Fed governors. Removing them may be harder than it looks"
+      "title": "Oil prices fall over 3% on report of potential diesel, crude stock release; Brent back below $100"
     },
     {
       "source": "CNBC",
-      "title": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call"
+      "title": "The September jobs report will be released Friday. Here's what to expect"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?"
+      "title": "Here\u2019s the bond-market alternative as U.S. and other developed markets debt deteriorate"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?"
+      "title": "Brazil is holding an election \u2014 and for the stock market, there\u2019s more to gain than to lose, says fund manager"
     }
   ]
 }
