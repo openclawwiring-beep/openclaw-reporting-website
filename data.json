@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, October 01 2026  16:41 PT",
+  "generated_at": "Thursday, October 01 2026  21:10 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,58 +15,58 @@
       "change_pct": 0.04
     },
     "Russell 2000": {
-      "price": 2806.62,
+      "price": 2806.63,
       "change_pct": 0.35
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4211.2,
-      "change_pct": 0.14
+      "price": 4208.4,
+      "change_pct": 0.78
     },
     "Oil (WTI)": {
-      "price": 93.01,
-      "change_pct": 4.34
+      "price": 92.48,
+      "change_pct": -0.45
     },
     "Silver": {
-      "price": 61.45,
-      "change_pct": -0.01
+      "price": 61.51,
+      "change_pct": 1.48
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84800,
-      "change_pct": 1.43
+      "price": 85454,
+      "change_pct": 2.01
     },
     "ETH": {
-      "price": 2705.93,
-      "change_pct": 0.64
+      "price": 2715.31,
+      "change_pct": 0.71
     },
     "SOL": {
-      "price": 118.38,
-      "change_pct": 0.19
+      "price": 120.91,
+      "change_pct": 1.95
     },
     "BNB": {
-      "price": 770.54,
-      "change_pct": 0.06
+      "price": 775.39,
+      "change_pct": 0.82
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring"
-    },
-    {
-      "source": "CNBC",
       "title": "Trump could target three Fed governors. Removing them may be harder than it looks"
     },
     {
-      "source": "MarketWatch",
-      "title": "This could be the worst year ever for Nike\u2019s stock, with sales set to fall further"
+      "source": "CNBC",
+      "title": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s who\u2019s joining the S&P 500 in the index\u2019s latest shakeup"
+      "title": "\u2018I have $400,000 in equity\u2019: I\u2019m 80. Should I sell my house because of dangerous stairs \u2014 or spend thousands renovating?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?"
     }
   ]
 }
