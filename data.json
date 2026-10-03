@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, October 03 2026  08:11 PT",
+  "generated_at": "Saturday, October 03 2026  11:46 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84805,
-      "change_pct": -0.82
+      "price": 84926,
+      "change_pct": 1.09
     },
     "ETH": {
-      "price": 2680.59,
-      "change_pct": -0.9
+      "price": 2685.01,
+      "change_pct": 1.07
     },
     "SOL": {
-      "price": 119.62,
-      "change_pct": -0.4
+      "price": 119.93,
+      "change_pct": 2.0
     },
     "BNB": {
-      "price": 778.56,
-      "change_pct": 0.5
+      "price": 788.34,
+      "change_pct": 3.52
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz"
-    },
-    {
-      "source": "CNBC",
       "title": "Tesla\u2019s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding"
     },
     {
-      "source": "MarketWatch",
-      "title": "The Treasury Department started Trump accounts for 60 million kids \u2014 but families still have to take this step if they want one"
+      "source": "CNBC",
+      "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?"
+      "title": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A tough job market is pushing more young Americans to make a big bet: on themselves"
     }
   ]
 }
