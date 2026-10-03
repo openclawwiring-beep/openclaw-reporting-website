@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, October 02 2026  13:54 PT",
+  "generated_at": "Friday, October 02 2026  17:09 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4167.5,
-      "change_pct": -0.9
+      "price": 4172.1,
+      "change_pct": -0.79
     },
     "Oil (WTI)": {
-      "price": 91.38,
-      "change_pct": -1.35
+      "price": 91.26,
+      "change_pct": -1.48
     },
     "Silver": {
-      "price": 60.69,
-      "change_pct": -1.26
+      "price": 60.71,
+      "change_pct": -1.23
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84428,
-      "change_pct": -0.21
+      "price": 84456,
+      "change_pct": -0.38
     },
     "ETH": {
-      "price": 2662.89,
-      "change_pct": -1.29
+      "price": 2666.18,
+      "change_pct": -1.38
     },
     "SOL": {
-      "price": 117.98,
-      "change_pct": -0.13
+      "price": 118.56,
+      "change_pct": 0.16
     },
     "BNB": {
-      "price": 764.42,
-      "change_pct": -0.65
+      "price": 768.2,
+      "change_pct": -0.37
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Men are losing ground in the labor market. Here's why"
+      "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue"
     },
     {
       "source": "MarketWatch",
-      "title": "Why mixing politics with your stock portfolio might be costing you money"
+      "title": "Why Western Digital and Seagate are seeing big stock drops today"
     },
     {
       "source": "MarketWatch",
-      "title": "Does AI have a soul? Pope Leo and Anthropic clash."
+      "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging"
     }
   ]
 }
