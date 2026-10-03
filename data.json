@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, October 02 2026  22:34 PT",
+  "generated_at": "Saturday, October 03 2026  04:08 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84620,
-      "change_pct": -1.93
+      "price": 84629,
+      "change_pct": -2.05
     },
     "ETH": {
-      "price": 2677.63,
-      "change_pct": -1.82
+      "price": 2683.39,
+      "change_pct": -2.34
     },
     "SOL": {
-      "price": 119.58,
-      "change_pct": -2.63
+      "price": 119.38,
+      "change_pct": -2.33
     },
     "BNB": {
-      "price": 767.22,
-      "change_pct": -1.44
+      "price": 769.03,
+      "change_pct": -0.97
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter"
+      "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These companies look set to face high-profile hearings and other scrutiny if Democrats win the House"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why Western Digital and Seagate are seeing big stock drops today"
     }
   ]
 }
