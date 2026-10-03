@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, October 03 2026  04:08 PT",
+  "generated_at": "Saturday, October 03 2026  08:11 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84629,
-      "change_pct": -2.05
+      "price": 84805,
+      "change_pct": -0.82
     },
     "ETH": {
-      "price": 2683.39,
-      "change_pct": -2.34
+      "price": 2680.59,
+      "change_pct": -0.9
     },
     "SOL": {
-      "price": 119.38,
-      "change_pct": -2.33
+      "price": 119.62,
+      "change_pct": -0.4
     },
     "BNB": {
-      "price": 769.03,
-      "change_pct": -0.97
+      "price": 778.56,
+      "change_pct": 0.5
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "America\u2019s data center fight is a preview of what's to come for the rest of the world"
-    },
-    {
-      "source": "CNBC",
       "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz"
     },
     {
-      "source": "MarketWatch",
-      "title": "These companies look set to face high-profile hearings and other scrutiny if Democrats win the House"
+      "source": "CNBC",
+      "title": "Tesla\u2019s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?"
+      "title": "The Treasury Department started Trump accounts for 60 million kids \u2014 but families still have to take this step if they want one"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?"
     }
   ]
 }
