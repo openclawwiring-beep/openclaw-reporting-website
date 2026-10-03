@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, October 02 2026  17:09 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, October 02 2026  22:34 PT",
+  "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7722.72,
@@ -15,58 +15,58 @@
       "change_pct": 0.49
     },
     "Russell 2000": {
-      "price": 2832.89,
+      "price": 2832.9,
       "change_pct": 0.94
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4172.1,
-      "change_pct": -0.79
+      "price": 4162.3,
+      "change_pct": -1.03
     },
     "Oil (WTI)": {
-      "price": 91.26,
-      "change_pct": -1.48
+      "price": 91.11,
+      "change_pct": -1.64
     },
     "Silver": {
-      "price": 60.71,
-      "change_pct": -1.23
+      "price": 59.98,
+      "change_pct": -2.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84456,
-      "change_pct": -0.38
+      "price": 84620,
+      "change_pct": -1.93
     },
     "ETH": {
-      "price": 2666.18,
-      "change_pct": -1.38
+      "price": 2677.63,
+      "change_pct": -1.82
     },
     "SOL": {
-      "price": 118.56,
-      "change_pct": 0.16
+      "price": 119.58,
+      "change_pct": -2.63
     },
     "BNB": {
-      "price": 768.2,
-      "change_pct": -0.37
+      "price": 767.22,
+      "change_pct": -1.44
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter"
+      "title": "America\u2019s data center fight is a preview of what's to come for the rest of the world"
     },
     {
       "source": "CNBC",
-      "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue"
+      "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?"
     },
     {
       "source": "MarketWatch",
       "title": "Why Western Digital and Seagate are seeing big stock drops today"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging"
     }
   ]
 }
