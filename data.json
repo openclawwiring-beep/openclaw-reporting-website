@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, October 03 2026  14:58 PT",
+  "generated_at": "Saturday, October 03 2026  17:28 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 84697,
-      "change_pct": 0.22
+      "price": 84849,
+      "change_pct": 0.39
     },
     "ETH": {
-      "price": 2684.72,
-      "change_pct": 0.74
+      "price": 2692.33,
+      "change_pct": 0.81
     },
     "SOL": {
-      "price": 119.62,
-      "change_pct": 1.22
+      "price": 120.0,
+      "change_pct": 0.91
     },
     "BNB": {
-      "price": 785.36,
-      "change_pct": 2.52
+      "price": 786.24,
+      "change_pct": 2.33
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?"
+      "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I don\u2019t want to die on the sales floor\u2019: I\u2019m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?"
+      "title": "Falling wages, soaring energy prices and inflation: It\u2019s beginning to look a lot like the 1970s"
     }
   ]
 }
