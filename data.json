@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, October 04 2026  13:20 PT",
+  "generated_at": "Sunday, October 04 2026  16:28 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4162.3,
-      "change_pct": -1.03
+      "price": 4172.9,
+      "change_pct": 0.25
     },
     "Oil (WTI)": {
-      "price": 91.11,
-      "change_pct": -1.64
+      "price": 91.08,
+      "change_pct": -0.03
     },
     "Silver": {
-      "price": 60.42,
-      "change_pct": -1.71
+      "price": 61.01,
+      "change_pct": 0.98
     }
   },
   "crypto": {
     "BTC": {
-      "price": 85456,
-      "change_pct": 0.68
+      "price": 86607,
+      "change_pct": 2.18
     },
     "ETH": {
-      "price": 2700.9,
-      "change_pct": 0.48
+      "price": 2731.45,
+      "change_pct": 1.65
     },
     "SOL": {
-      "price": 120.94,
-      "change_pct": 0.79
+      "price": 121.87,
+      "change_pct": 1.8
     },
     "BNB": {
-      "price": 789.71,
-      "change_pct": 0.09
+      "price": 795.86,
+      "change_pct": 1.09
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Sports betting is increasingly the norm for Gen Z.  Here\u2019s why some financial and mental health experts are worried"
+      "title": "Stock futures are flat as investors grapple with higher yields, await Fed minutes: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?"
+      "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?"
     },
     {
       "source": "MarketWatch",
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?"
+      "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?"
     }
   ]
 }
