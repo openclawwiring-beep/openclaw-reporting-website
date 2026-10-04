@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, October 03 2026  17:28 PT",
+  "generated_at": "Saturday, October 03 2026  23:13 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -29,26 +29,26 @@
       "change_pct": -1.64
     },
     "Silver": {
-      "price": 59.98,
-      "change_pct": -2.42
+      "price": 60.42,
+      "change_pct": -1.71
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84849,
-      "change_pct": 0.39
+      "price": 84909,
+      "change_pct": 0.33
     },
     "ETH": {
-      "price": 2692.33,
-      "change_pct": 0.81
+      "price": 2694.54,
+      "change_pct": 0.7
     },
     "SOL": {
-      "price": 120.0,
-      "change_pct": 0.91
+      "price": 120.88,
+      "change_pct": 1.17
     },
     "BNB": {
-      "price": 786.24,
-      "change_pct": 2.33
+      "price": 786.45,
+      "change_pct": 2.56
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz"
+      "title": "Ukraine\u2019s surprise robot offensive exposes a vulnerability in Putin\u2019s war machine"
     },
     {
       "source": "MarketWatch",
