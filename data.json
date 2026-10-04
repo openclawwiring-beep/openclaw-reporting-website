@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, October 03 2026  23:13 PT",
+  "generated_at": "Sunday, October 04 2026  05:44 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -29,32 +29,32 @@
       "change_pct": -1.64
     },
     "Silver": {
-      "price": 60.42,
+      "price": 60.41,
       "change_pct": -1.71
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84909,
-      "change_pct": 0.33
+      "price": 85232,
+      "change_pct": 0.51
     },
     "ETH": {
-      "price": 2694.54,
-      "change_pct": 0.7
+      "price": 2701.0,
+      "change_pct": 0.75
     },
     "SOL": {
-      "price": 120.88,
-      "change_pct": 1.17
+      "price": 121.5,
+      "change_pct": 1.86
     },
     "BNB": {
-      "price": 786.45,
-      "change_pct": 2.56
+      "price": 788.71,
+      "change_pct": 2.32
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Tesla\u2019s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding"
+      "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it."
+      "title": "Fed minutes coming this week could give markets important clues about future rate hikes"
     },
     {
       "source": "MarketWatch",
-      "title": "Falling wages, soaring energy prices and inflation: It\u2019s beginning to look a lot like the 1970s"
+      "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it."
     }
   ]
 }
