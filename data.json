@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, October 04 2026  16:28 PT",
+  "generated_at": "Sunday, October 04 2026  19:17 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4172.9,
-      "change_pct": 0.25
+      "price": 4187.9,
+      "change_pct": 0.62
     },
     "Oil (WTI)": {
-      "price": 91.08,
-      "change_pct": -0.03
+      "price": 90.0,
+      "change_pct": -1.22
     },
     "Silver": {
-      "price": 61.01,
-      "change_pct": 0.98
+      "price": 61.74,
+      "change_pct": 2.18
     }
   },
   "crypto": {
     "BTC": {
-      "price": 86607,
-      "change_pct": 2.18
+      "price": 86660,
+      "change_pct": 2.19
     },
     "ETH": {
-      "price": 2731.45,
-      "change_pct": 1.65
+      "price": 2733.63,
+      "change_pct": 1.53
     },
     "SOL": {
-      "price": 121.87,
-      "change_pct": 1.8
+      "price": 121.62,
+      "change_pct": 1.31
     },
     "BNB": {
-      "price": 795.86,
-      "change_pct": 1.09
+      "price": 807.44,
+      "change_pct": 3.18
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures are flat as investors grapple with higher yields, await Fed minutes: Live updates"
+      "title": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'"
     },
     {
       "source": "CNBC",
-      "title": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance"
+      "title": "Why surging Treasury yields don\u2019t signal a U.S. 'fiscal apocalypse' \u2014 yet"
     },
     {
       "source": "MarketWatch",
