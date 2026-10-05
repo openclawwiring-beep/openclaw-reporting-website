@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, October 04 2026  19:17 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Monday, October 05 2026  02:27 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7722.72,
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4187.9,
-      "change_pct": 0.62
+      "price": 4194.6,
+      "change_pct": 0.54
     },
     "Oil (WTI)": {
-      "price": 90.0,
-      "change_pct": -1.22
+      "price": 90.89,
+      "change_pct": 1.08
     },
     "Silver": {
-      "price": 61.74,
-      "change_pct": 2.18
+      "price": 62.08,
+      "change_pct": 0.9
     }
   },
   "crypto": {
     "BTC": {
-      "price": 86660,
-      "change_pct": 2.19
+      "price": 85885,
+      "change_pct": 0.8
     },
     "ETH": {
-      "price": 2733.63,
-      "change_pct": 1.53
+      "price": 2719.72,
+      "change_pct": 0.64
     },
     "SOL": {
-      "price": 121.62,
-      "change_pct": 1.31
+      "price": 120.74,
+      "change_pct": -0.42
     },
     "BNB": {
-      "price": 807.44,
-      "change_pct": 3.18
+      "price": 786.91,
+      "change_pct": -0.91
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Why surging Treasury yields don\u2019t signal a U.S. 'fiscal apocalypse' \u2014 yet"
+      "title": "Cut spending to curb runaway borrowing costs, Goldman's Gutman tells governments"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I\u2019d rather be on a beach in Bali\u2019: My husband resents my $8 million net worth. Should I pay for his retirement?"
+      "title": "What Bessent is now saying after bond yields didn\u2019t stop rising on \u2018I am the house\u2019 remark"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 71 and still working. I earn $108,000 a year. Am I doing the right thing?"
+      "title": "Larry Ellison to list Palm Beach property for $165 million"
     }
   ]
 }
