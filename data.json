@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, October 06 2026  12:42 PT",
-  "market_status": "Live \u2014 as of 15:42 ET",
+  "generated_at": "Tuesday, October 06 2026  16:34 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7824.45,
-      "change_pct": 0.65
+      "price": 7818.93,
+      "change_pct": 0.58
     },
     "Nasdaq": {
-      "price": 27630.59,
-      "change_pct": 0.56
+      "price": 27599.89,
+      "change_pct": 0.45
     },
     "Dow Jones": {
-      "price": 51549.59,
-      "change_pct": 0.54
+      "price": 51521.28,
+      "change_pct": 0.49
     },
     "Russell 2000": {
-      "price": 2828.34,
-      "change_pct": -0.65
+      "price": 2830.3,
+      "change_pct": -0.59
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4199.0,
-      "change_pct": 1.07
+      "price": 4194.2,
+      "change_pct": 0.96
     },
     "Oil (WTI)": {
-      "price": 89.7,
-      "change_pct": -0.06
+      "price": 89.89,
+      "change_pct": 0.16
     },
     "Silver": {
-      "price": 61.87,
-      "change_pct": 1.43
+      "price": 61.69,
+      "change_pct": 1.15
     }
   },
   "crypto": {
     "BTC": {
-      "price": 85519,
-      "change_pct": -0.21
+      "price": 85414,
+      "change_pct": -0.52
     },
     "ETH": {
-      "price": 2688.75,
-      "change_pct": -0.79
+      "price": 2695.93,
+      "change_pct": -0.68
     },
     "SOL": {
-      "price": 120.61,
-      "change_pct": 0.44
+      "price": 120.52,
+      "change_pct": -0.16
     },
     "BNB": {
-      "price": 779.05,
-      "change_pct": -0.92
+      "price": 779.1,
+      "change_pct": -1.07
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year"
+      "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record"
     },
     {
       "source": "CNBC",
-      "title": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks"
+      "title": "Trump hedges on paying back government for ads that already aired"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain"
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Trump accounts\u2019 could force MAGA children to own New York Times stock"
+      "title": "The S&P 500 is back in record territory as the \u2018Magnificent Seven\u2019 ride to the rescue"
     }
   ]
 }
