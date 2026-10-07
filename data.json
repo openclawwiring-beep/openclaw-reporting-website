@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, October 06 2026  21:26 PT",
+  "generated_at": "Wednesday, October 07 2026  04:16 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4168.0,
-      "change_pct": -0.3
+      "price": 4145.3,
+      "change_pct": -0.6
     },
     "Oil (WTI)": {
-      "price": 90.16,
-      "change_pct": -0.06
+      "price": 89.8,
+      "change_pct": -0.45
     },
     "Silver": {
-      "price": 61.16,
-      "change_pct": -0.63
+      "price": 60.28,
+      "change_pct": -1.5
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84080,
-      "change_pct": -1.77
+      "price": 83810,
+      "change_pct": -2.73
     },
     "ETH": {
-      "price": 2607.87,
-      "change_pct": -3.55
+      "price": 2582.15,
+      "change_pct": -4.8
     },
     "SOL": {
-      "price": 118.22,
-      "change_pct": -1.7
+      "price": 117.7,
+      "change_pct": -2.08
     },
     "BNB": {
-      "price": 766.43,
-      "change_pct": -1.94
+      "price": 767.81,
+      "change_pct": -1.99
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record"
+      "title": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate"
     },
     {
       "source": "CNBC",
-      "title": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery"
+      "title": "Trading platform Webull's China ties create national security risk, congressional panel finds"
     },
     {
       "source": "MarketWatch",
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
+      "title": "SpaceX reportedly is looking to borrow as much money as the company generates in revenue to buy Nvidia chips"
     },
     {
       "source": "MarketWatch",
-      "title": "The S&P 500 is back in record territory as the \u2018Magnificent Seven\u2019 ride to the rescue"
+      "title": "Elon Musk and Intel CEO shore up chipmaker\u2019s role in Terafab project \u2014 and here\u2019s what the news is doing to the stock."
     }
   ]
 }
