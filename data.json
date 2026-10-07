@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, October 06 2026  16:34 PT",
+  "generated_at": "Tuesday, October 06 2026  21:26 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -7,7 +7,7 @@
       "change_pct": 0.58
     },
     "Nasdaq": {
-      "price": 27599.89,
+      "price": 27599.79,
       "change_pct": 0.45
     },
     "Dow Jones": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4194.2,
-      "change_pct": 0.96
+      "price": 4168.0,
+      "change_pct": -0.3
     },
     "Oil (WTI)": {
-      "price": 89.89,
-      "change_pct": 0.16
+      "price": 90.16,
+      "change_pct": -0.06
     },
     "Silver": {
-      "price": 61.69,
-      "change_pct": 1.15
+      "price": 61.16,
+      "change_pct": -0.63
     }
   },
   "crypto": {
     "BTC": {
-      "price": 85414,
-      "change_pct": -0.52
+      "price": 84080,
+      "change_pct": -1.77
     },
     "ETH": {
-      "price": 2695.93,
-      "change_pct": -0.68
+      "price": 2607.87,
+      "change_pct": -3.55
     },
     "SOL": {
-      "price": 120.52,
-      "change_pct": -0.16
+      "price": 118.22,
+      "change_pct": -1.7
     },
     "BNB": {
-      "price": 779.1,
-      "change_pct": -1.07
+      "price": 766.43,
+      "change_pct": -1.94
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Trump hedges on paying back government for ads that already aired"
+      "title": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery"
     },
     {
       "source": "MarketWatch",
