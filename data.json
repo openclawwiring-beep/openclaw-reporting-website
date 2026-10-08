@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, October 07 2026  19:31 PT",
+  "generated_at": "Thursday, October 08 2026  03:01 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4161.2,
-      "change_pct": -0.22
+      "price": 4146.4,
+      "change_pct": -0.34
     },
     "Oil (WTI)": {
-      "price": 89.56,
-      "change_pct": -0.72
+      "price": 91.89,
+      "change_pct": 2.25
     },
     "Silver": {
-      "price": 60.62,
-      "change_pct": -0.93
+      "price": 59.12,
+      "change_pct": -1.88
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83111,
-      "change_pct": -0.88
+      "price": 83061,
+      "change_pct": -0.85
     },
     "ETH": {
-      "price": 2576.91,
-      "change_pct": -1.36
+      "price": 2566.19,
+      "change_pct": -1.15
     },
     "SOL": {
-      "price": 116.41,
-      "change_pct": -1.18
+      "price": 115.11,
+      "change_pct": -2.23
     },
     "BNB": {
-      "price": 772.97,
-      "change_pct": 0.91
+      "price": 768.61,
+      "change_pct": -0.12
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fed officials see another hike coming, but no sign as to when, minutes show"
+      "title": "Trump says he doesn't want Iran deal as U.S. reportedly prepares for 'massive bombing'"
     },
     {
       "source": "CNBC",
-      "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand"
+      "title": "America shut out Chinese EVs. Britain welcomed them \u2014 and now faces a difficult choice"
     },
     {
       "source": "MarketWatch",
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
+      "title": "Samsung just did something no tech company has ever done, and investors still aren\u2019t satisfied"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018He grew up wealthy\u2019: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who\u2019s right?"
+      "title": "Oil prices are jumping again. How the S&P 500 has performed on days crude has seen big gains may be surprising."
     }
   ]
 }
