@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, October 07 2026  15:44 PT",
+  "generated_at": "Wednesday, October 07 2026  19:31 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4129.8,
-      "change_pct": -0.97
+      "price": 4161.2,
+      "change_pct": -0.22
     },
     "Oil (WTI)": {
-      "price": 89.0,
-      "change_pct": -1.34
+      "price": 89.56,
+      "change_pct": -0.72
     },
     "Silver": {
-      "price": 60.01,
-      "change_pct": -1.93
+      "price": 60.62,
+      "change_pct": -0.93
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83192,
-      "change_pct": -2.75
+      "price": 83111,
+      "change_pct": -0.88
     },
     "ETH": {
-      "price": 2566.92,
-      "change_pct": -4.79
+      "price": 2576.91,
+      "change_pct": -1.36
     },
     "SOL": {
-      "price": 115.86,
-      "change_pct": -4.29
+      "price": 116.41,
+      "change_pct": -1.18
     },
     "BNB": {
-      "price": 770.31,
-      "change_pct": -1.18
+      "price": 772.97,
+      "change_pct": 0.91
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip"
+      "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand"
     },
     {
       "source": "MarketWatch",
-      "title": "Rising yields are quietly crashing the stock market\u2019s earlier winners of 2026"
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?"
     },
     {
       "source": "MarketWatch",
-      "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters"
+      "title": "\u2018He grew up wealthy\u2019: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who\u2019s right?"
     }
   ]
 }
