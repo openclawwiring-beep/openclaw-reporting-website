@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, October 08 2026  03:01 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, October 08 2026  10:29 PT",
+  "market_status": "Live \u2014 as of 13:29 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7801.77,
-      "change_pct": -0.22
+      "price": 7736.48,
+      "change_pct": -0.82
     },
     "Nasdaq": {
-      "price": 27538.69,
-      "change_pct": -0.22
+      "price": 27089.5,
+      "change_pct": -1.63
     },
     "Dow Jones": {
-      "price": 51179.87,
-      "change_pct": -0.66
+      "price": 51072.1,
+      "change_pct": -0.19
     },
     "Russell 2000": {
-      "price": 2793.2,
-      "change_pct": -1.31
+      "price": 2785.0,
+      "change_pct": -0.31
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4146.4,
-      "change_pct": -0.34
+      "price": 4170.5,
+      "change_pct": 0.24
     },
     "Oil (WTI)": {
-      "price": 91.89,
-      "change_pct": 2.25
+      "price": 90.9,
+      "change_pct": 1.15
     },
     "Silver": {
-      "price": 59.12,
-      "change_pct": -1.88
+      "price": 59.57,
+      "change_pct": -1.13
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83061,
-      "change_pct": -0.85
+      "price": 80427,
+      "change_pct": -3.33
     },
     "ETH": {
-      "price": 2566.19,
-      "change_pct": -1.15
+      "price": 2409.84,
+      "change_pct": -5.87
     },
     "SOL": {
-      "price": 115.11,
-      "change_pct": -2.23
+      "price": 105.85,
+      "change_pct": -9.06
     },
     "BNB": {
-      "price": 768.61,
-      "change_pct": -0.12
+      "price": 718.03,
+      "change_pct": -6.74
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says he doesn't want Iran deal as U.S. reportedly prepares for 'massive bombing'"
+      "title": "Trump says U.S. will not attack Iran before midterm election"
     },
     {
       "source": "CNBC",
-      "title": "America shut out Chinese EVs. Britain welcomed them \u2014 and now faces a difficult choice"
+      "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says"
     },
     {
       "source": "MarketWatch",
-      "title": "Samsung just did something no tech company has ever done, and investors still aren\u2019t satisfied"
+      "title": "How to provide guaranteed retirement income while paying no commissions"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil prices are jumping again. How the S&P 500 has performed on days crude has seen big gains may be surprising."
+      "title": "I keep comparing myself to my more financially successful friends. How can I stop?"
     }
   ]
 }
