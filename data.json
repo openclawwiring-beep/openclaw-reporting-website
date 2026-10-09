@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, October 09 2026  02:26 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, October 09 2026  09:26 PT",
+  "market_status": "Live \u2014 as of 12:26 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7765.36,
-      "change_pct": -0.47
+      "price": 7805.18,
+      "change_pct": 0.51
     },
     "Nasdaq": {
-      "price": 27193.34,
-      "change_pct": -1.25
+      "price": 27348.84,
+      "change_pct": 0.57
     },
     "Dow Jones": {
-      "price": 51231.64,
-      "change_pct": 0.1
+      "price": 51577.97,
+      "change_pct": 0.69
     },
     "Russell 2000": {
-      "price": 2794.13,
-      "change_pct": 0.03
+      "price": 2804.15,
+      "change_pct": 0.37
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4210.5,
-      "change_pct": 0.2
+      "price": 4217.5,
+      "change_pct": 0.36
     },
     "Oil (WTI)": {
-      "price": 90.58,
-      "change_pct": 0.17
+      "price": 91.57,
+      "change_pct": 1.26
     },
     "Silver": {
-      "price": 60.6,
-      "change_pct": 0.25
+      "price": 61.2,
+      "change_pct": 1.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82604,
-      "change_pct": -0.45
+      "price": 82707,
+      "change_pct": 1.72
     },
     "ETH": {
-      "price": 2505.34,
-      "change_pct": -2.18
+      "price": 2489.96,
+      "change_pct": 2.4
     },
     "SOL": {
-      "price": 110.58,
-      "change_pct": -3.79
+      "price": 109.5,
+      "change_pct": 0.59
     },
     "BNB": {
-      "price": 742.84,
-      "change_pct": -3.23
+      "price": 739.99,
+      "change_pct": 0.97
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures edge higher after OpenAI's revenue report prompts tech sector turmoil: Live updates"
+      "title": "Americans' debt problems are flashing a warning not seen since the Great Recession"
     },
     {
       "source": "CNBC",
-      "title": "Nobel Peace Prize awarded to former International Criminal Court judge Navanethem Pillay"
+      "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I feel like a loser\u2019: My ETFs go up one day and crash the next. Is this a bad sign?"
+      "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here\u2019s who could pay the most."
     },
     {
       "source": "MarketWatch",
-      "title": "Why the price of this one exchange-traded fund has suddenly gone exponential"
+      "title": "Hurricane Isaias to \u2018stress test\u2019 oil markets already hobbled by tight fuel supplies"
     }
   ]
 }
