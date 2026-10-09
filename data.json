@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, October 09 2026  09:26 PT",
-  "market_status": "Live \u2014 as of 12:26 ET",
+  "generated_at": "Friday, October 09 2026  14:07 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7805.18,
-      "change_pct": 0.51
+      "price": 7811.54,
+      "change_pct": 0.59
     },
     "Nasdaq": {
-      "price": 27348.84,
-      "change_pct": 0.57
+      "price": 27366.17,
+      "change_pct": 0.64
     },
     "Dow Jones": {
-      "price": 51577.97,
-      "change_pct": 0.69
+      "price": 51654.95,
+      "change_pct": 0.83
     },
     "Russell 2000": {
-      "price": 2804.15,
-      "change_pct": 0.37
+      "price": 2806.98,
+      "change_pct": 0.46
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4217.5,
-      "change_pct": 0.36
+      "price": 4220.4,
+      "change_pct": 0.43
     },
     "Oil (WTI)": {
-      "price": 91.57,
-      "change_pct": 1.26
+      "price": 91.68,
+      "change_pct": 1.38
     },
     "Silver": {
-      "price": 61.2,
-      "change_pct": 1.24
+      "price": 61.1,
+      "change_pct": 1.08
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82707,
-      "change_pct": 1.72
+      "price": 82485,
+      "change_pct": 1.06
     },
     "ETH": {
-      "price": 2489.96,
-      "change_pct": 2.4
+      "price": 2481.85,
+      "change_pct": 0.48
     },
     "SOL": {
-      "price": 109.5,
-      "change_pct": 0.59
+      "price": 109.0,
+      "change_pct": -0.58
     },
     "BNB": {
-      "price": 739.99,
-      "change_pct": 0.97
+      "price": 740.56,
+      "change_pct": 1.04
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Americans' debt problems are flashing a warning not seen since the Great Recession"
+      "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets"
     },
     {
       "source": "CNBC",
-      "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook"
+      "title": "Americans' debt problems are flashing a warning not seen since the Great Recession"
     },
     {
       "source": "MarketWatch",
-      "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here\u2019s who could pay the most."
+      "title": "I\u2019m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?"
     },
     {
       "source": "MarketWatch",
-      "title": "Hurricane Isaias to \u2018stress test\u2019 oil markets already hobbled by tight fuel supplies"
+      "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be \u2018too little, too late,\u2019 says strategist."
     }
   ]
 }
