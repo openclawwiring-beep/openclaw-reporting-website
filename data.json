@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, October 08 2026  19:24 PT",
+  "generated_at": "Friday, October 09 2026  02:26 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4196.3,
-      "change_pct": 0.86
+      "price": 4210.5,
+      "change_pct": 0.2
     },
     "Oil (WTI)": {
-      "price": 90.9,
-      "change_pct": 1.15
+      "price": 90.58,
+      "change_pct": 0.17
     },
     "Silver": {
-      "price": 60.33,
-      "change_pct": 0.12
+      "price": 60.6,
+      "change_pct": 0.25
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81921,
-      "change_pct": -1.36
+      "price": 82604,
+      "change_pct": -0.45
     },
     "ETH": {
-      "price": 2479.17,
-      "change_pct": -3.77
+      "price": 2505.34,
+      "change_pct": -2.18
     },
     "SOL": {
-      "price": 109.62,
-      "change_pct": -5.78
+      "price": 110.58,
+      "change_pct": -3.79
     },
     "BNB": {
-      "price": 736.52,
-      "change_pct": -4.66
+      "price": 742.84,
+      "change_pct": -3.23
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report"
+      "title": "Stock futures edge higher after OpenAI's revenue report prompts tech sector turmoil: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility"
+      "title": "Nobel Peace Prize awarded to former International Criminal Court judge Navanethem Pillay"
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX\u2019s Starlink Mobile plans are pressuring AT&T and Verizon shares"
+      "title": "\u2018I feel like a loser\u2019: My ETFs go up one day and crash the next. Is this a bad sign?"
     },
     {
       "source": "MarketWatch",
-      "title": "How to downsize like a pro \u2014 and free yourself from being a \u2018prisoner of your possessions\u2019"
+      "title": "Why the price of this one exchange-traded fund has suddenly gone exponential"
     }
   ]
 }
