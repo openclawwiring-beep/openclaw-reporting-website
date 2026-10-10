@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, October 09 2026  14:07 PT",
+  "generated_at": "Friday, October 09 2026  18:05 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4220.4,
+      "price": 4220.3,
       "change_pct": 0.43
     },
     "Oil (WTI)": {
-      "price": 91.68,
-      "change_pct": 1.38
+      "price": 91.66,
+      "change_pct": 1.36
     },
     "Silver": {
-      "price": 61.1,
-      "change_pct": 1.08
+      "price": 61.11,
+      "change_pct": 1.09
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82485,
-      "change_pct": 1.06
+      "price": 82499,
+      "change_pct": 0.91
     },
     "ETH": {
-      "price": 2481.85,
-      "change_pct": 0.48
+      "price": 2487.15,
+      "change_pct": 0.49
     },
     "SOL": {
-      "price": 109.0,
-      "change_pct": -0.58
+      "price": 109.27,
+      "change_pct": 0.07
     },
     "BNB": {
-      "price": 740.56,
-      "change_pct": 1.04
+      "price": 742.38,
+      "change_pct": 1.11
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets"
+      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?"
+      "title": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children."
     },
     {
       "source": "MarketWatch",
-      "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be \u2018too little, too late,\u2019 says strategist."
+      "title": "\u2018I feel like a loser\u2019: I check my ETFs every day. They\u2019re up one minute, down the next. Should I be worried?"
     }
   ]
 }
