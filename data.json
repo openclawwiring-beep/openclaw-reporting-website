@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, October 10 2026  11:45 PT",
+  "generated_at": "Saturday, October 10 2026  15:13 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 82962,
-      "change_pct": 0.68
+      "price": 82963,
+      "change_pct": 0.67
     },
     "ETH": {
-      "price": 2508.85,
-      "change_pct": 1.14
+      "price": 2506.13,
+      "change_pct": 1.07
     },
     "SOL": {
-      "price": 110.2,
-      "change_pct": 0.88
+      "price": 110.21,
+      "change_pct": 1.41
     },
     "BNB": {
-      "price": 749.31,
-      "change_pct": 1.46
+      "price": 749.99,
+      "change_pct": 1.23
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them"
+      "title": "Microsoft's Nadella says AI needs an \u2018emergency brake\u2019 that humans control"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Is it finally time to worry?"
+      "title": "Should I put my nest egg in a 30-year Treasury bond?"
     },
     {
       "source": "MarketWatch",
-      "title": "Elon Musk is now richer than any American ever \u2014 and it\u2019s not even close"
+      "title": "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How to protect your aging parents."
     }
   ]
 }
