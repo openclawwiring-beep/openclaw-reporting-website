@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, October 10 2026  00:31 PT",
+  "generated_at": "Saturday, October 10 2026  07:14 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 82573,
-      "change_pct": 0.14
+      "price": 82729,
+      "change_pct": -0.03
     },
     "ETH": {
-      "price": 2491.02,
-      "change_pct": -0.33
+      "price": 2495.3,
+      "change_pct": 0.5
     },
     "SOL": {
-      "price": 109.77,
-      "change_pct": -0.59
+      "price": 109.71,
+      "change_pct": 0.12
     },
     "BNB": {
-      "price": 747.62,
-      "change_pct": 0.62
+      "price": 749.84,
+      "change_pct": 1.57
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law"
+      "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them"
     },
     {
       "source": "CNBC",
-      "title": "The world needs Ukraine\u2019s grain. Its farmers are running out of reasons to plant"
+      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Should I be worried?"
+      "title": "Flu season is already here. Here\u2019s what to know about this year\u2019s flu shots."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children."
+      "title": "\u2018People in the U.S. need to wake up\u2019: As a mortgage loan officer, I rejected applications from wealthy couples. Here\u2019s why."
     }
   ]
 }
