@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, October 11 2026  07:39 PT",
+  "generated_at": "Sunday, October 11 2026  12:20 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 83069,
-      "change_pct": 0.16
+      "price": 83639,
+      "change_pct": 0.82
     },
     "ETH": {
-      "price": 2504.49,
-      "change_pct": -0.16
+      "price": 2533.68,
+      "change_pct": 0.91
     },
     "SOL": {
-      "price": 109.57,
-      "change_pct": -0.79
+      "price": 111.26,
+      "change_pct": 0.89
     },
     "BNB": {
-      "price": 749.1,
-      "change_pct": -0.39
+      "price": 752.17,
+      "change_pct": 0.29
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "We\u2019re about to get a huge read on whether earnings can keep propping up the stock market"
+      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year"
     },
     {
       "source": "MarketWatch",
-      "title": "The bull market is turning 4 years old \u2014 but yields could crash the party"
+      "title": "We\u2019re about to get a huge read on whether earnings can keep propping up the stock market"
     }
   ]
 }
