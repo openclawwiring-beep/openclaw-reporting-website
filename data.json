@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, October 11 2026  12:20 PT",
+  "generated_at": "Sunday, October 11 2026  16:02 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4216.3,
-      "change_pct": 0.33
+      "price": 4210.6,
+      "change_pct": -0.14
     },
     "Oil (WTI)": {
-      "price": 91.85,
-      "change_pct": 1.57
+      "price": 92.42,
+      "change_pct": 0.62
     },
     "Silver": {
-      "price": 61.05,
-      "change_pct": 0.99
+      "price": 61.19,
+      "change_pct": 0.22
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83639,
-      "change_pct": 0.82
+      "price": 83575,
+      "change_pct": 0.66
     },
     "ETH": {
-      "price": 2533.68,
-      "change_pct": 0.91
+      "price": 2531.77,
+      "change_pct": 0.96
     },
     "SOL": {
-      "price": 111.26,
-      "change_pct": 0.89
+      "price": 110.98,
+      "change_pct": 0.53
     },
     "BNB": {
-      "price": 752.17,
-      "change_pct": 0.29
+      "price": 752.76,
+      "change_pct": 0.26
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "AI\u2019s quiet safety gatekeepers are stepping into the spotlight"
+      "title": "S&P 500 futures are little changed with big banks set to kick off earnings season: Live updates"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year"
+      "title": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children."
     },
     {
       "source": "MarketWatch",
-      "title": "We\u2019re about to get a huge read on whether earnings can keep propping up the stock market"
+      "title": "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Is it finally time to worry?"
     }
   ]
 }
