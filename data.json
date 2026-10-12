@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, October 12 2026  03:15 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, October 12 2026  12:55 PT",
+  "market_status": "Live \u2014 as of 15:55 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7811.54,
-      "change_pct": 0.59
+      "price": 7805.11,
+      "change_pct": -0.08
     },
     "Nasdaq": {
-      "price": 27366.17,
-      "change_pct": 0.64
+      "price": 27245.79,
+      "change_pct": -0.44
     },
     "Dow Jones": {
-      "price": 51654.95,
-      "change_pct": 0.83
+      "price": 51839.03,
+      "change_pct": 0.36
     },
     "Russell 2000": {
-      "price": 2806.98,
-      "change_pct": 0.46
+      "price": 2795.88,
+      "change_pct": -0.4
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4198.3,
-      "change_pct": -0.69
+      "price": 4191.3,
+      "change_pct": -0.85
     },
     "Oil (WTI)": {
-      "price": 92.63,
-      "change_pct": 2.55
+      "price": 93.36,
+      "change_pct": 3.35
     },
     "Silver": {
-      "price": 60.97,
-      "change_pct": -0.54
+      "price": 60.43,
+      "change_pct": -1.43
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83414,
-      "change_pct": 0.55
+      "price": 82722,
+      "change_pct": -1.06
     },
     "ETH": {
-      "price": 2552.66,
-      "change_pct": 2.13
+      "price": 2517.71,
+      "change_pct": -0.64
     },
     "SOL": {
-      "price": 111.5,
-      "change_pct": 1.9
+      "price": 108.2,
+      "change_pct": -2.76
     },
     "BNB": {
-      "price": 749.25,
-      "change_pct": 0.28
+      "price": 745.89,
+      "change_pct": -0.85
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Brent tops $106 as doubts grow over supply boost from Trump\u2019s \u2018energy ceasefire\u2019"
+      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging"
     },
     {
       "source": "CNBC",
-      "title": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford"
+      "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay"
     },
     {
       "source": "MarketWatch",
-      "title": "The bond market is doing the Fed\u2019s job, and that could be good news for stocks, says Morgan Stanley strategist"
+      "title": "Meta is back on the AI leaderboard with its new family of Wonder models"
     },
     {
       "source": "MarketWatch",
-      "title": "My sister moved in with our widowed mother, 78, and says she deserves the family home. Is she right?"
+      "title": "Trump\u2019s \u2018energy ceasefire\u2019 collides with real-world problems of dwindling fuel supplies"
     }
   ]
 }
