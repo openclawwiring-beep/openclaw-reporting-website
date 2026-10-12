@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, October 11 2026  16:02 PT",
+  "generated_at": "Sunday, October 11 2026  19:34 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4210.6,
-      "change_pct": -0.14
+      "price": 4235.4,
+      "change_pct": 0.45
     },
     "Oil (WTI)": {
-      "price": 92.42,
-      "change_pct": 0.62
+      "price": 90.1,
+      "change_pct": -1.91
     },
     "Silver": {
-      "price": 61.19,
-      "change_pct": 0.22
+      "price": 61.51,
+      "change_pct": 0.76
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83575,
-      "change_pct": 0.66
+      "price": 83849,
+      "change_pct": 1.03
     },
     "ETH": {
-      "price": 2531.77,
-      "change_pct": 0.96
+      "price": 2552.51,
+      "change_pct": 1.73
     },
     "SOL": {
-      "price": 110.98,
-      "change_pct": 0.53
+      "price": 112.05,
+      "change_pct": 1.87
     },
     "BNB": {
-      "price": 752.76,
-      "change_pct": 0.26
+      "price": 753.98,
+      "change_pct": 0.81
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 futures are little changed with big banks set to kick off earnings season: Live updates"
+      "title": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine"
     },
     {
       "source": "CNBC",
-      "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike"
+      "title": "S&P 500 futures are little changed with big banks set to kick off earnings season: Live updates"
     },
     {
       "source": "MarketWatch",
