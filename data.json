@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, October 11 2026  19:34 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Monday, October 12 2026  03:15 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7811.54,
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4235.4,
-      "change_pct": 0.45
+      "price": 4198.3,
+      "change_pct": -0.69
     },
     "Oil (WTI)": {
-      "price": 90.1,
-      "change_pct": -1.91
+      "price": 92.63,
+      "change_pct": 2.55
     },
     "Silver": {
-      "price": 61.51,
-      "change_pct": 0.76
+      "price": 60.97,
+      "change_pct": -0.54
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83849,
-      "change_pct": 1.03
+      "price": 83414,
+      "change_pct": 0.55
     },
     "ETH": {
-      "price": 2552.51,
-      "change_pct": 1.73
+      "price": 2552.66,
+      "change_pct": 2.13
     },
     "SOL": {
-      "price": 112.05,
-      "change_pct": 1.87
+      "price": 111.5,
+      "change_pct": 1.9
     },
     "BNB": {
-      "price": 753.98,
-      "change_pct": 0.81
+      "price": 749.25,
+      "change_pct": 0.28
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine"
+      "title": "Brent tops $106 as doubts grow over supply boost from Trump\u2019s \u2018energy ceasefire\u2019"
     },
     {
       "source": "CNBC",
-      "title": "S&P 500 futures are little changed with big banks set to kick off earnings season: Live updates"
+      "title": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children."
+      "title": "The bond market is doing the Fed\u2019s job, and that could be good news for stocks, says Morgan Stanley strategist"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Is it finally time to worry?"
+      "title": "My sister moved in with our widowed mother, 78, and says she deserves the family home. Is she right?"
     }
   ]
 }
