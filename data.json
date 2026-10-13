@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, October 12 2026  18:50 PT",
+  "generated_at": "Tuesday, October 13 2026  01:57 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4180.9,
-      "change_pct": -1.1
+      "price": 4211.7,
+      "change_pct": 0.01
     },
     "Oil (WTI)": {
-      "price": 92.79,
-      "change_pct": 2.72
+      "price": 92.05,
+      "change_pct": -0.64
     },
     "Silver": {
-      "price": 60.05,
-      "change_pct": -2.05
+      "price": 60.76,
+      "change_pct": 0.07
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82250,
-      "change_pct": -1.44
+      "price": 83588,
+      "change_pct": 0.16
     },
     "ETH": {
-      "price": 2457.02,
-      "change_pct": -2.99
+      "price": 2521.0,
+      "change_pct": -1.16
     },
     "SOL": {
-      "price": 104.93,
-      "change_pct": -5.38
+      "price": 107.8,
+      "change_pct": -3.45
     },
     "BNB": {
-      "price": 734.82,
-      "change_pct": -2.05
+      "price": 743.61,
+      "change_pct": -0.99
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 futures are flat ahead of bank earnings; South Korea's Kospi falls below 6,000: Live updates"
+      "title": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads"
     },
     {
       "source": "CNBC",
-      "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'"
+      "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen"
     },
     {
       "source": "MarketWatch",
-      "title": "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst cautions"
+      "title": "Was Broadcom CEO bullish or bearish on AI? \u2018Gamblers\u2019 comment creates storm"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The house is worth $925,000\u2019: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?"
+      "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits."
     }
   ]
 }
