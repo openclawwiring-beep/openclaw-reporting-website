@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, October 12 2026  12:55 PT",
-  "market_status": "Live \u2014 as of 15:55 ET",
+  "generated_at": "Monday, October 12 2026  18:50 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7805.11,
-      "change_pct": -0.08
+      "price": 7807.24,
+      "change_pct": -0.06
     },
     "Nasdaq": {
-      "price": 27245.79,
+      "price": 27245.9,
       "change_pct": -0.44
     },
     "Dow Jones": {
-      "price": 51839.03,
-      "change_pct": 0.36
+      "price": 51850.55,
+      "change_pct": 0.38
     },
     "Russell 2000": {
-      "price": 2795.88,
-      "change_pct": -0.4
+      "price": 2794.48,
+      "change_pct": -0.45
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4191.3,
-      "change_pct": -0.85
+      "price": 4180.9,
+      "change_pct": -1.1
     },
     "Oil (WTI)": {
-      "price": 93.36,
-      "change_pct": 3.35
+      "price": 92.79,
+      "change_pct": 2.72
     },
     "Silver": {
-      "price": 60.43,
-      "change_pct": -1.43
+      "price": 60.05,
+      "change_pct": -2.05
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82722,
-      "change_pct": -1.06
+      "price": 82250,
+      "change_pct": -1.44
     },
     "ETH": {
-      "price": 2517.71,
-      "change_pct": -0.64
+      "price": 2457.02,
+      "change_pct": -2.99
     },
     "SOL": {
-      "price": 108.2,
-      "change_pct": -2.76
+      "price": 104.93,
+      "change_pct": -5.38
     },
     "BNB": {
-      "price": 745.89,
-      "change_pct": -0.85
+      "price": 734.82,
+      "change_pct": -2.05
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging"
+      "title": "S&P 500 futures are flat ahead of bank earnings; South Korea's Kospi falls below 6,000: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay"
+      "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'"
     },
     {
       "source": "MarketWatch",
-      "title": "Meta is back on the AI leaderboard with its new family of Wonder models"
+      "title": "The SpaceX threat could loom over AT&T\u2019s stock for a prolonged stretch, analyst cautions"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump\u2019s \u2018energy ceasefire\u2019 collides with real-world problems of dwindling fuel supplies"
+      "title": "\u2018The house is worth $925,000\u2019: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?"
     }
   ]
 }
