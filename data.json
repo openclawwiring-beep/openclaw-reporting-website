@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, October 13 2026  17:52 PT",
+  "generated_at": "Tuesday, October 13 2026  22:49 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4180.6,
-      "change_pct": -0.72
+      "price": 4181.3,
+      "change_pct": 0.03
     },
     "Oil (WTI)": {
-      "price": 94.92,
-      "change_pct": 2.46
+      "price": 94.58,
+      "change_pct": -0.32
     },
     "Silver": {
-      "price": 59.28,
-      "change_pct": -2.37
+      "price": 59.34,
+      "change_pct": 0.08
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83447,
-      "change_pct": 2.87
+      "price": 83567,
+      "change_pct": 0.03
     },
     "ETH": {
-      "price": 2511.44,
-      "change_pct": 3.97
+      "price": 2507.06,
+      "change_pct": -0.69
     },
     "SOL": {
-      "price": 107.59,
-      "change_pct": 4.35
+      "price": 107.17,
+      "change_pct": -0.81
     },
     "BNB": {
-      "price": 744.19,
-      "change_pct": 2.83
+      "price": 743.26,
+      "change_pct": -0.22
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "More Republicans come out against Trump's diesel deal with Putin"
+      "title": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico"
     },
     {
       "source": "CNBC",
-      "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market"
+      "title": "ASML says it's getting order interest through 2030 as profit smashes expectations"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018I am a pretty cautious person\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife says we can\u2019t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?"
     }
   ]
 }
