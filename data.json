@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, October 14 2026  12:58 PT",
-  "market_status": "Live \u2014 as of 15:58 ET",
+  "generated_at": "Wednesday, October 14 2026  16:06 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7714.0,
-      "change_pct": -1.17
+      "price": 7718.94,
+      "change_pct": -1.11
     },
     "Nasdaq": {
-      "price": 26671.37,
-      "change_pct": -1.96
+      "price": 26692.87,
+      "change_pct": -1.88
     },
     "Dow Jones": {
-      "price": 51573.94,
-      "change_pct": -0.19
+      "price": 51621.48,
+      "change_pct": -0.09
     },
     "Russell 2000": {
-      "price": 2724.02,
-      "change_pct": -2.15
+      "price": 2729.53,
+      "change_pct": -1.93
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4122.5,
-      "change_pct": -1.5
+      "price": 4129.3,
+      "change_pct": -1.34
     },
     "Oil (WTI)": {
-      "price": 95.1,
-      "change_pct": 0.33
+      "price": 94.97,
+      "change_pct": 0.19
     },
     "Silver": {
-      "price": 55.74,
-      "change_pct": -6.2
+      "price": 55.83,
+      "change_pct": -6.07
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81728,
-      "change_pct": -1.77
+      "price": 81600,
+      "change_pct": -2.01
     },
     "ETH": {
-      "price": 2428.45,
-      "change_pct": -3.09
+      "price": 2418.03,
+      "change_pct": -3.33
     },
     "SOL": {
-      "price": 104.15,
-      "change_pct": -3.09
+      "price": 104.47,
+      "change_pct": -2.11
     },
     "BNB": {
-      "price": 729.18,
-      "change_pct": -1.64
+      "price": 729.36,
+      "change_pct": -1.67
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge"
-    },
-    {
-      "source": "CNBC",
       "title": "How high inflation became a 'fact of life' in the U.S."
     },
     {
-      "source": "MarketWatch",
-      "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?"
+      "source": "CNBC",
+      "title": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?"
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Rocket Lab\u2019s stock slides as the company pushes back Neutron\u2019s first launch"
     }
   ]
 }
