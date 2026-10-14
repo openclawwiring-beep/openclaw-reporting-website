@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, October 14 2026  04:13 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, October 14 2026  08:53 PT",
+  "market_status": "Live \u2014 as of 11:53 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7805.45,
-      "change_pct": -0.02
+      "price": 7735.1,
+      "change_pct": -0.9
     },
     "Nasdaq": {
-      "price": 27204.38,
-      "change_pct": -0.15
+      "price": 26846.35,
+      "change_pct": -1.32
     },
     "Dow Jones": {
-      "price": 51670.1,
-      "change_pct": -0.35
+      "price": 51619.53,
+      "change_pct": -0.1
     },
     "Russell 2000": {
-      "price": 2783.37,
-      "change_pct": -0.4
+      "price": 2739.16,
+      "change_pct": -1.6
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4159.7,
-      "change_pct": -0.61
+      "price": 4104.7,
+      "change_pct": -1.93
     },
     "Oil (WTI)": {
-      "price": 95.54,
-      "change_pct": 0.79
+      "price": 94.93,
+      "change_pct": 0.15
     },
     "Silver": {
-      "price": 58.63,
-      "change_pct": -1.34
+      "price": 55.99,
+      "change_pct": -5.8
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83338,
-      "change_pct": 0.21
+      "price": 81688,
+      "change_pct": -1.89
     },
     "ETH": {
-      "price": 2501.3,
-      "change_pct": 0.36
+      "price": 2434.55,
+      "change_pct": -2.94
     },
     "SOL": {
-      "price": 106.76,
-      "change_pct": 0.85
+      "price": 104.14,
+      "change_pct": -2.6
     },
     "BNB": {
-      "price": 741.52,
-      "change_pct": 0.54
+      "price": 730.55,
+      "change_pct": -1.59
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Bank of America posts third-quarter profit drop due to $1.2 billion Treasury fine"
+      "title": "Here's the inflation breakdown for September 2026 \u2014 in one chart"
     },
     {
       "source": "CNBC",
-      "title": "The latest inflation data is expected to show price increases are accelerating"
+      "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks"
     },
     {
       "source": "MarketWatch",
-      "title": "BlackRock\u2019s assets equal half the size of the U.S. economy after 15% growth"
+      "title": "Your Social Security check will rise 3.6% next year, but will it be able to keep up with inflation?"
     },
     {
       "source": "MarketWatch",
-      "title": "My wife says we can\u2019t afford to retire, so I vetoed her $8,000 trip to Italy. We have $4 million saved. Do I keep working?"
+      "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?"
     }
   ]
 }
