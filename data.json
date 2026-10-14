@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, October 13 2026  22:49 PT",
+  "generated_at": "Wednesday, October 14 2026  04:13 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4181.3,
-      "change_pct": 0.03
+      "price": 4159.7,
+      "change_pct": -0.61
     },
     "Oil (WTI)": {
-      "price": 94.58,
-      "change_pct": -0.32
+      "price": 95.54,
+      "change_pct": 0.79
     },
     "Silver": {
-      "price": 59.34,
-      "change_pct": 0.08
+      "price": 58.63,
+      "change_pct": -1.34
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83567,
-      "change_pct": 0.03
+      "price": 83338,
+      "change_pct": 0.21
     },
     "ETH": {
-      "price": 2507.06,
-      "change_pct": -0.69
+      "price": 2501.3,
+      "change_pct": 0.36
     },
     "SOL": {
-      "price": 107.17,
-      "change_pct": -0.81
+      "price": 106.76,
+      "change_pct": 0.85
     },
     "BNB": {
-      "price": 743.26,
-      "change_pct": -0.22
+      "price": 741.52,
+      "change_pct": 0.54
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico"
+      "title": "Bank of America posts third-quarter profit drop due to $1.2 billion Treasury fine"
     },
     {
       "source": "CNBC",
-      "title": "ASML says it's getting order interest through 2030 as profit smashes expectations"
+      "title": "The latest inflation data is expected to show price increases are accelerating"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I am a pretty cautious person\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?"
+      "title": "BlackRock\u2019s assets equal half the size of the U.S. economy after 15% growth"
     },
     {
       "source": "MarketWatch",
-      "title": "My wife says we can\u2019t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?"
+      "title": "My wife says we can\u2019t afford to retire, so I vetoed her $8,000 trip to Italy. We have $4 million saved. Do I keep working?"
     }
   ]
 }
