@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, October 14 2026  08:53 PT",
-  "market_status": "Live \u2014 as of 11:53 ET",
+  "generated_at": "Wednesday, October 14 2026  12:58 PT",
+  "market_status": "Live \u2014 as of 15:58 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7735.1,
-      "change_pct": -0.9
+      "price": 7714.0,
+      "change_pct": -1.17
     },
     "Nasdaq": {
-      "price": 26846.35,
-      "change_pct": -1.32
+      "price": 26671.37,
+      "change_pct": -1.96
     },
     "Dow Jones": {
-      "price": 51619.53,
-      "change_pct": -0.1
+      "price": 51573.94,
+      "change_pct": -0.19
     },
     "Russell 2000": {
-      "price": 2739.16,
-      "change_pct": -1.6
+      "price": 2724.02,
+      "change_pct": -2.15
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4104.7,
-      "change_pct": -1.93
+      "price": 4122.5,
+      "change_pct": -1.5
     },
     "Oil (WTI)": {
-      "price": 94.93,
-      "change_pct": 0.15
+      "price": 95.1,
+      "change_pct": 0.33
     },
     "Silver": {
-      "price": 55.99,
-      "change_pct": -5.8
+      "price": 55.74,
+      "change_pct": -6.2
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81688,
-      "change_pct": -1.89
+      "price": 81728,
+      "change_pct": -1.77
     },
     "ETH": {
-      "price": 2434.55,
-      "change_pct": -2.94
+      "price": 2428.45,
+      "change_pct": -3.09
     },
     "SOL": {
-      "price": 104.14,
-      "change_pct": -2.6
+      "price": 104.15,
+      "change_pct": -3.09
     },
     "BNB": {
-      "price": 730.55,
-      "change_pct": -1.59
+      "price": 729.18,
+      "change_pct": -1.64
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Here's the inflation breakdown for September 2026 \u2014 in one chart"
+      "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge"
     },
     {
       "source": "CNBC",
-      "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Your Social Security check will rise 3.6% next year, but will it be able to keep up with inflation?"
+      "title": "How high inflation became a 'fact of life' in the U.S."
     },
     {
       "source": "MarketWatch",
       "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?"
     }
   ]
 }
