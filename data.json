@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, October 14 2026  18:39 PT",
+  "generated_at": "Wednesday, October 14 2026  23:58 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4163.7,
-      "change_pct": -0.52
+      "price": 4157.6,
+      "change_pct": -0.2
     },
     "Oil (WTI)": {
-      "price": 94.27,
-      "change_pct": -0.55
+      "price": 94.16,
+      "change_pct": 0.16
     },
     "Silver": {
-      "price": 56.31,
-      "change_pct": -5.25
+      "price": 56.23,
+      "change_pct": -0.06
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81724,
-      "change_pct": -1.74
+      "price": 80756,
+      "change_pct": -3.16
     },
     "ETH": {
-      "price": 2418.1,
-      "change_pct": -3.27
+      "price": 2354.17,
+      "change_pct": -5.99
     },
     "SOL": {
-      "price": 104.39,
-      "change_pct": -2.44
+      "price": 101.9,
+      "change_pct": -4.89
     },
     "BNB": {
-      "price": 729.48,
-      "change_pct": -1.69
+      "price": 715.67,
+      "change_pct": -3.56
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "How high inflation became a 'fact of life' in the U.S."
+      "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems"
     },
     {
       "source": "CNBC",
-      "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount"
+      "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom"
     },
     {
       "source": "MarketWatch",
