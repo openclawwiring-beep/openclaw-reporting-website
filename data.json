@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, October 15 2026  05:34 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, October 15 2026  10:36 PT",
+  "market_status": "Live \u2014 as of 13:36 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7718.94,
-      "change_pct": -1.11
+      "price": 7735.11,
+      "change_pct": 0.18
     },
     "Nasdaq": {
-      "price": 26692.87,
-      "change_pct": -1.88
+      "price": 26652.97,
+      "change_pct": -0.15
     },
     "Dow Jones": {
-      "price": 51621.48,
-      "change_pct": -0.09
+      "price": 52125.39,
+      "change_pct": 0.96
     },
     "Russell 2000": {
-      "price": 2729.53,
-      "change_pct": -1.93
+      "price": 2750.79,
+      "change_pct": 0.77
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4174.5,
-      "change_pct": 0.21
+      "price": 4170.8,
+      "change_pct": 0.12
     },
     "Oil (WTI)": {
-      "price": 93.84,
-      "change_pct": -0.18
+      "price": 96.57,
+      "change_pct": 2.72
     },
     "Silver": {
-      "price": 56.9,
-      "change_pct": 1.45
+      "price": 57.18,
+      "change_pct": 1.96
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80676,
-      "change_pct": -2.57
+      "price": 82311,
+      "change_pct": 0.69
     },
     "ETH": {
-      "price": 2351.11,
-      "change_pct": -5.53
+      "price": 2444.4,
+      "change_pct": 0.34
     },
     "SOL": {
-      "price": 101.74,
-      "change_pct": -4.02
+      "price": 105.94,
+      "change_pct": 1.11
     },
     "BNB": {
-      "price": 718.09,
-      "change_pct": -2.74
+      "price": 732.5,
+      "change_pct": 0.48
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022"
+      "title": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries"
     },
     {
       "source": "CNBC",
-      "title": "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on"
+      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022"
     },
     {
       "source": "MarketWatch",
-      "title": "There\u2019s a \u2018monstrous bull market\u2019 developing under the surface of the S&P 500. This hedge-fund manager tells you where it\u2019s at."
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?"
     },
     {
       "source": "MarketWatch",
-      "title": "This 30-year market veteran is alarmed by a record-chasing S&P 500. Here\u2019s where he\u2019s investing instead."
+      "title": "\u2018I like the idea of a big return\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?"
     }
   ]
 }
