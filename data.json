@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, October 15 2026  13:57 PT",
+  "generated_at": "Thursday, October 15 2026  16:35 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4190.6,
-      "change_pct": 0.6
+      "price": 4182.5,
+      "change_pct": 0.41
     },
     "Oil (WTI)": {
-      "price": 96.16,
-      "change_pct": 2.29
+      "price": 96.1,
+      "change_pct": 2.22
     },
     "Silver": {
-      "price": 57.56,
-      "change_pct": 2.64
+      "price": 57.31,
+      "change_pct": 2.18
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82003,
-      "change_pct": 0.32
+      "price": 82151,
+      "change_pct": 0.85
     },
     "ETH": {
-      "price": 2450.34,
-      "change_pct": 1.2
+      "price": 2440.7,
+      "change_pct": 1.09
     },
     "SOL": {
-      "price": 105.58,
-      "change_pct": 1.35
+      "price": 105.33,
+      "change_pct": 1.1
     },
     "BNB": {
-      "price": 729.54,
-      "change_pct": 0.25
+      "price": 727.53,
+      "change_pct": -0.21
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt"
+      "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice"
     },
     {
       "source": "CNBC",
-      "title": "Tesla plans next-generation Roadster reveal after almost a decade of delays"
+      "title": "Dow rises more than 500 points as investors rotate away from AI trade: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Investors are dumping AI stocks as \u2018tech wreck\u2019 worsens. Here\u2019s where they\u2019re turning now."
+      "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke"
     },
     {
       "source": "MarketWatch",
-      "title": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets"
+      "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?"
     }
   ]
 }
