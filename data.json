@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, October 14 2026  23:58 PT",
+  "generated_at": "Thursday, October 15 2026  05:34 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4157.6,
-      "change_pct": -0.2
+      "price": 4174.5,
+      "change_pct": 0.21
     },
     "Oil (WTI)": {
-      "price": 94.16,
-      "change_pct": 0.16
+      "price": 93.84,
+      "change_pct": -0.18
     },
     "Silver": {
-      "price": 56.23,
-      "change_pct": -0.06
+      "price": 56.9,
+      "change_pct": 1.45
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80756,
-      "change_pct": -3.16
+      "price": 80676,
+      "change_pct": -2.57
     },
     "ETH": {
-      "price": 2354.17,
-      "change_pct": -5.99
+      "price": 2351.11,
+      "change_pct": -5.53
     },
     "SOL": {
-      "price": 101.9,
-      "change_pct": -4.89
+      "price": 101.74,
+      "change_pct": -4.02
     },
     "BNB": {
-      "price": 715.67,
-      "change_pct": -3.56
+      "price": 718.09,
+      "change_pct": -2.74
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems"
+      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022"
     },
     {
       "source": "CNBC",
-      "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom"
+      "title": "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on"
     },
     {
       "source": "MarketWatch",
-      "title": "Anthropic\u2019s slowing growth could be the AI trade\u2019s latest red flag"
+      "title": "There\u2019s a \u2018monstrous bull market\u2019 developing under the surface of the S&P 500. This hedge-fund manager tells you where it\u2019s at."
     },
     {
       "source": "MarketWatch",
-      "title": "Rocket Lab\u2019s stock slides as the company pushes back Neutron\u2019s first launch"
+      "title": "This 30-year market veteran is alarmed by a record-chasing S&P 500. Here\u2019s where he\u2019s investing instead."
     }
   ]
 }
