@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, October 15 2026  16:35 PT",
+  "generated_at": "Thursday, October 15 2026  20:14 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -11,7 +11,7 @@
       "change_pct": 0.08
     },
     "Dow Jones": {
-      "price": 52177.69,
+      "price": 52177.7,
       "change_pct": 1.08
     },
     "Russell 2000": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4182.5,
-      "change_pct": 0.41
+      "price": 4193.9,
+      "change_pct": 0.68
     },
     "Oil (WTI)": {
-      "price": 96.1,
-      "change_pct": 2.22
+      "price": 95.87,
+      "change_pct": 1.98
     },
     "Silver": {
-      "price": 57.31,
-      "change_pct": 2.18
+      "price": 57.88,
+      "change_pct": 3.2
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82151,
-      "change_pct": 0.85
+      "price": 82066,
+      "change_pct": 1.13
     },
     "ETH": {
-      "price": 2440.7,
-      "change_pct": 1.09
+      "price": 2440.17,
+      "change_pct": 3.15
     },
     "SOL": {
-      "price": 105.33,
-      "change_pct": 1.1
+      "price": 105.47,
+      "change_pct": 3.11
     },
     "BNB": {
-      "price": 727.53,
-      "change_pct": -0.21
+      "price": 728.91,
+      "change_pct": 1.57
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Dow rises more than 500 points as investors rotate away from AI trade: Live updates"
+      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tesla finally delivers on its promise to create a flying car"
     },
     {
       "source": "MarketWatch",
       "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?"
     }
   ]
 }
