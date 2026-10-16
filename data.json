@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, October 16 2026  06:25 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, October 16 2026  10:35 PT",
+  "market_status": "Live \u2014 as of 13:35 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7744.06,
-      "change_pct": 0.33
+      "price": 7674.64,
+      "change_pct": -0.89
     },
     "Nasdaq": {
-      "price": 26713.03,
-      "change_pct": 0.08
+      "price": 26234.01,
+      "change_pct": -1.79
     },
     "Dow Jones": {
-      "price": 52177.69,
-      "change_pct": 1.08
+      "price": 52027.66,
+      "change_pct": -0.28
     },
     "Russell 2000": {
-      "price": 2767.27,
-      "change_pct": 1.38
+      "price": 2720.8,
+      "change_pct": -1.67
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4187.9,
-      "change_pct": -0.39
+      "price": 4180.9,
+      "change_pct": -0.56
     },
     "Oil (WTI)": {
-      "price": 95.91,
-      "change_pct": 0.25
+      "price": 98.63,
+      "change_pct": 3.09
     },
     "Silver": {
-      "price": 57.67,
-      "change_pct": -0.69
+      "price": 57.33,
+      "change_pct": -1.27
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81960,
-      "change_pct": 2.01
+      "price": 81017,
+      "change_pct": -1.55
     },
     "ETH": {
-      "price": 2462.38,
-      "change_pct": 5.01
+      "price": 2407.28,
+      "change_pct": -1.5
     },
     "SOL": {
-      "price": 105.53,
-      "change_pct": 3.84
+      "price": 103.42,
+      "change_pct": -2.35
     },
     "BNB": {
-      "price": 727.23,
-      "change_pct": 1.29
+      "price": 720.56,
+      "change_pct": -1.61
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Tesla unveils long-delayed Roadster, showing off its flying-car ambitions"
+      "title": "S&P 500 dragged down by AI stocks as chip shares head for worst week since July: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Trump says he won't use nuclear weapons or send ground troops to Iran"
+      "title": "Why Trump and the GOP's billion-dollar midterm blitz isn\u2019t working"
     },
     {
       "source": "MarketWatch",
-      "title": "Is Apple\u2019s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones."
+      "title": "Here\u2019s how the Fed should reveal its outlook for the economy"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It\u2019s a wait-and-see situation\u2019: I\u2019m 63 and diagnosed with lymphoma. Should I take my Social Security next year?"
+      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash \u2014 then IRA."
     }
   ]
 }
