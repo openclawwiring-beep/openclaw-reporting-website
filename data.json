@@ -1,68 +1,68 @@
 {
-  "generated_at": "Friday, October 16 2026  10:35 PT",
-  "market_status": "Live \u2014 as of 13:35 ET",
+  "generated_at": "Friday, October 16 2026  13:31 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7674.64,
-      "change_pct": -0.89
+      "price": 7659.44,
+      "change_pct": -1.09
     },
     "Nasdaq": {
-      "price": 26234.01,
-      "change_pct": -1.79
+      "price": 26140.03,
+      "change_pct": -2.14
     },
     "Dow Jones": {
-      "price": 52027.66,
-      "change_pct": -0.28
+      "price": 52002.41,
+      "change_pct": -0.34
     },
     "Russell 2000": {
-      "price": 2720.8,
-      "change_pct": -1.67
+      "price": 2721.37,
+      "change_pct": -1.66
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4180.9,
-      "change_pct": -0.56
+      "price": 4187.5,
+      "change_pct": -0.4
     },
     "Oil (WTI)": {
-      "price": 98.63,
-      "change_pct": 3.09
+      "price": 98.87,
+      "change_pct": 3.34
     },
     "Silver": {
-      "price": 57.33,
-      "change_pct": -1.27
+      "price": 57.12,
+      "change_pct": -1.62
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81017,
-      "change_pct": -1.55
+      "price": 81583,
+      "change_pct": -0.88
     },
     "ETH": {
-      "price": 2407.28,
-      "change_pct": -1.5
+      "price": 2412.24,
+      "change_pct": -1.88
     },
     "SOL": {
-      "price": 103.42,
-      "change_pct": -2.35
+      "price": 103.65,
+      "change_pct": -2.12
     },
     "BNB": {
-      "price": 720.56,
-      "change_pct": -1.61
+      "price": 721.17,
+      "change_pct": -1.42
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 dragged down by AI stocks as chip shares head for worst week since July: Live updates"
+      "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries"
     },
     {
       "source": "CNBC",
-      "title": "Why Trump and the GOP's billion-dollar midterm blitz isn\u2019t working"
+      "title": "Katie Zacharia out as Trump's White House press secretary"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s how the Fed should reveal its outlook for the economy"
+      "title": "EchoStar\u2019s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says"
     },
     {
       "source": "MarketWatch",
