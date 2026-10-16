@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, October 16 2026  13:31 PT",
+  "generated_at": "Friday, October 16 2026  16:15 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4187.5,
-      "change_pct": -0.4
+      "price": 4186.7,
+      "change_pct": -0.42
     },
     "Oil (WTI)": {
-      "price": 98.87,
-      "change_pct": 3.34
+      "price": 99.04,
+      "change_pct": 3.52
     },
     "Silver": {
-      "price": 57.12,
-      "change_pct": -1.62
+      "price": 57.13,
+      "change_pct": -1.6
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81583,
-      "change_pct": -0.88
+      "price": 81663,
+      "change_pct": -0.55
     },
     "ETH": {
-      "price": 2412.24,
-      "change_pct": -1.88
+      "price": 2421.23,
+      "change_pct": -0.82
     },
     "SOL": {
-      "price": 103.65,
-      "change_pct": -2.12
+      "price": 104.26,
+      "change_pct": -0.98
     },
     "BNB": {
-      "price": 721.17,
-      "change_pct": -1.42
+      "price": 721.73,
+      "change_pct": -0.67
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "EchoStar\u2019s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says"
+      "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike"
     },
     {
       "source": "MarketWatch",
-      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash \u2014 then IRA."
+      "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash"
     }
   ]
 }
