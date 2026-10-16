@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, October 15 2026  20:14 PT",
+  "generated_at": "Friday, October 16 2026  01:23 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -11,7 +11,7 @@
       "change_pct": 0.08
     },
     "Dow Jones": {
-      "price": 52177.7,
+      "price": 52177.69,
       "change_pct": 1.08
     },
     "Russell 2000": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4193.9,
-      "change_pct": 0.68
+      "price": 4202.0,
+      "change_pct": -0.06
     },
     "Oil (WTI)": {
-      "price": 95.87,
-      "change_pct": 1.98
+      "price": 95.73,
+      "change_pct": 0.06
     },
     "Silver": {
-      "price": 57.88,
-      "change_pct": 3.2
+      "price": 57.85,
+      "change_pct": -0.38
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82066,
-      "change_pct": 1.13
+      "price": 82120,
+      "change_pct": 1.19
     },
     "ETH": {
-      "price": 2440.17,
-      "change_pct": 3.15
+      "price": 2452.14,
+      "change_pct": 3.54
     },
     "SOL": {
-      "price": 105.47,
-      "change_pct": 3.11
+      "price": 106.2,
+      "change_pct": 3.22
     },
     "BNB": {
-      "price": 728.91,
-      "change_pct": 1.57
+      "price": 730.11,
+      "change_pct": 1.38
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice"
+      "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'"
     },
     {
       "source": "CNBC",
-      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt"
+      "title": "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here are the key things Fed Chairman Kevin Warsh said \u2014 and didn\u2019t say \u2014 while Americans were sleeping Thursday night"
     },
     {
       "source": "MarketWatch",
       "title": "Tesla finally delivers on its promise to create a flying car"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke"
     }
   ]
 }
