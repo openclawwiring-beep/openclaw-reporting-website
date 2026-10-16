@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, October 16 2026  01:23 PT",
+  "generated_at": "Friday, October 16 2026  06:25 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4202.0,
-      "change_pct": -0.06
+      "price": 4187.9,
+      "change_pct": -0.39
     },
     "Oil (WTI)": {
-      "price": 95.73,
-      "change_pct": 0.06
+      "price": 95.91,
+      "change_pct": 0.25
     },
     "Silver": {
-      "price": 57.85,
-      "change_pct": -0.38
+      "price": 57.67,
+      "change_pct": -0.69
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82120,
-      "change_pct": 1.19
+      "price": 81960,
+      "change_pct": 2.01
     },
     "ETH": {
-      "price": 2452.14,
-      "change_pct": 3.54
+      "price": 2462.38,
+      "change_pct": 5.01
     },
     "SOL": {
-      "price": 106.2,
-      "change_pct": 3.22
+      "price": 105.53,
+      "change_pct": 3.84
     },
     "BNB": {
-      "price": 730.11,
-      "change_pct": 1.38
+      "price": 727.23,
+      "change_pct": 1.29
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'"
+      "title": "Tesla unveils long-delayed Roadster, showing off its flying-car ambitions"
     },
     {
       "source": "CNBC",
-      "title": "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge"
+      "title": "Trump says he won't use nuclear weapons or send ground troops to Iran"
     },
     {
       "source": "MarketWatch",
-      "title": "Here are the key things Fed Chairman Kevin Warsh said \u2014 and didn\u2019t say \u2014 while Americans were sleeping Thursday night"
+      "title": "Is Apple\u2019s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones."
     },
     {
       "source": "MarketWatch",
-      "title": "Tesla finally delivers on its promise to create a flying car"
+      "title": "\u2018It\u2019s a wait-and-see situation\u2019: I\u2019m 63 and diagnosed with lymphoma. Should I take my Social Security next year?"
     }
   ]
 }
