@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, October 17 2026  03:10 PT",
+  "generated_at": "Saturday, October 17 2026  06:50 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81498,
-      "change_pct": -0.38
+      "price": 81403,
+      "change_pct": -0.45
     },
     "ETH": {
-      "price": 2432.27,
-      "change_pct": -0.46
+      "price": 2421.61,
+      "change_pct": -1.2
     },
     "SOL": {
-      "price": 104.58,
-      "change_pct": -1.14
+      "price": 103.77,
+      "change_pct": -1.45
     },
     "BNB": {
-      "price": 720.32,
-      "change_pct": -1.22
+      "price": 718.78,
+      "change_pct": -0.98
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries"
+      "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest"
     },
     {
       "source": "CNBC",
-      "title": "Trump's Russia diesel deal may offer Putin more than money \u2014 and spell trouble for Ukraine"
+      "title": "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan"
     },
     {
       "source": "MarketWatch",
-      "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike"
+      "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?"
     },
     {
       "source": "MarketWatch",
-      "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash"
+      "title": "Meet the home buyers totally unfazed by 7% mortgage rates"
     }
   ]
 }
