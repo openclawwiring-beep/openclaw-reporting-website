@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, October 16 2026  22:53 PT",
+  "generated_at": "Saturday, October 17 2026  03:10 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81489,
-      "change_pct": -0.76
+      "price": 81498,
+      "change_pct": -0.38
     },
     "ETH": {
-      "price": 2425.35,
-      "change_pct": -0.87
+      "price": 2432.27,
+      "change_pct": -0.46
     },
     "SOL": {
-      "price": 104.69,
-      "change_pct": -1.17
+      "price": 104.58,
+      "change_pct": -1.14
     },
     "BNB": {
-      "price": 721.29,
-      "change_pct": -1.25
+      "price": 720.32,
+      "change_pct": -1.22
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Katie Zacharia out as Trump's White House press secretary"
+      "title": "Trump's Russia diesel deal may offer Putin more than money \u2014 and spell trouble for Ukraine"
     },
     {
       "source": "MarketWatch",
