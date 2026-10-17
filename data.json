@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, October 17 2026  12:01 PT",
+  "generated_at": "Saturday, October 17 2026  14:35 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81433,
-      "change_pct": 0.46
+      "price": 80989,
+      "change_pct": -0.84
     },
     "ETH": {
-      "price": 2414.4,
-      "change_pct": 0.42
+      "price": 2386.52,
+      "change_pct": -1.29
     },
     "SOL": {
-      "price": 103.82,
-      "change_pct": 0.86
+      "price": 102.39,
+      "change_pct": -1.83
     },
     "BNB": {
-      "price": 715.17,
-      "change_pct": -0.61
+      "price": 713.37,
+      "change_pct": -1.16
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest"
+      "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Fake shopping sprees and \u2018happiness insurance\u2019: The latest fintech apps reveal our financial anxieties"
+      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers."
     },
     {
       "source": "MarketWatch",
-      "title": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful"
+      "title": "Fake shopping sprees and \u2018happiness insurance\u2019: The latest fintech apps reveal our financial anxieties"
     }
   ]
 }
