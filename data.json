@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, October 17 2026  06:50 PT",
+  "generated_at": "Saturday, October 17 2026  09:50 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81403,
-      "change_pct": -0.45
+      "price": 81222,
+      "change_pct": -0.16
     },
     "ETH": {
-      "price": 2421.61,
-      "change_pct": -1.2
+      "price": 2404.16,
+      "change_pct": -1.13
     },
     "SOL": {
-      "price": 103.77,
-      "change_pct": -1.45
+      "price": 103.33,
+      "change_pct": -0.71
     },
     "BNB": {
-      "price": 718.78,
-      "change_pct": -0.98
+      "price": 713.82,
+      "change_pct": -1.3
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan"
+      "title": "Software\u2019s new consolidator gets big vote of confidence from Berkshire"
     },
     {
       "source": "MarketWatch",
