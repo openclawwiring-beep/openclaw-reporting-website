@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, October 17 2026  09:50 PT",
+  "generated_at": "Saturday, October 17 2026  12:01 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81222,
-      "change_pct": -0.16
+      "price": 81433,
+      "change_pct": 0.46
     },
     "ETH": {
-      "price": 2404.16,
-      "change_pct": -1.13
+      "price": 2414.4,
+      "change_pct": 0.42
     },
     "SOL": {
-      "price": 103.33,
-      "change_pct": -0.71
+      "price": 103.82,
+      "change_pct": 0.86
     },
     "BNB": {
-      "price": 713.82,
-      "change_pct": -1.3
+      "price": 715.17,
+      "change_pct": -0.61
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?"
+      "title": "Fake shopping sprees and \u2018happiness insurance\u2019: The latest fintech apps reveal our financial anxieties"
     },
     {
       "source": "MarketWatch",
-      "title": "Meet the home buyers totally unfazed by 7% mortgage rates"
+      "title": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful"
     }
   ]
 }
