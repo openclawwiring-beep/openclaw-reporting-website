@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, October 18 2026  05:42 PT",
+  "generated_at": "Sunday, October 18 2026  09:21 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -29,44 +29,44 @@
       "change_pct": 3.5
     },
     "Silver": {
-      "price": 57.3,
+      "price": 57.31,
       "change_pct": -1.31
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81889,
-      "change_pct": 0.58
+      "price": 81024,
+      "change_pct": -0.24
     },
     "ETH": {
-      "price": 2413.58,
-      "change_pct": -0.55
+      "price": 2364.53,
+      "change_pct": -1.71
     },
     "SOL": {
-      "price": 103.97,
-      "change_pct": -0.21
+      "price": 101.86,
+      "change_pct": -1.44
     },
     "BNB": {
-      "price": 722.35,
-      "change_pct": 0.44
+      "price": 711.07,
+      "change_pct": -0.36
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy"
+      "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink"
     },
     {
       "source": "CNBC",
-      "title": "Why hedge funds could be making a bond market shock more likely"
+      "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes"
     },
     {
       "source": "MarketWatch",
-      "title": "There is a silent market rotation inside the S&P 500 that\u2019s warning of more weakness ahead"
+      "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?"
     },
     {
       "source": "MarketWatch",
-      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers."
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?"
     }
   ]
 }
