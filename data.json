@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, October 18 2026  09:21 PT",
+  "generated_at": "Sunday, October 18 2026  11:46 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 81024,
-      "change_pct": -0.24
+      "price": 81046,
+      "change_pct": -0.52
     },
     "ETH": {
-      "price": 2364.53,
-      "change_pct": -1.71
+      "price": 2361.31,
+      "change_pct": -2.26
     },
     "SOL": {
-      "price": 101.86,
-      "change_pct": -1.44
+      "price": 101.98,
+      "change_pct": -1.82
     },
     "BNB": {
-      "price": 711.07,
-      "change_pct": -0.36
+      "price": 711.04,
+      "change_pct": -0.6
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?"
+      "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?"
     },
     {
       "source": "MarketWatch",
-      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?"
+      "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?"
     }
   ]
 }
