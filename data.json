@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, October 18 2026  14:15 PT",
+  "generated_at": "Sunday, October 18 2026  16:29 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4181.1,
-      "change_pct": -0.55
+      "price": 4196.8,
+      "change_pct": 0.38
     },
     "Oil (WTI)": {
-      "price": 99.02,
-      "change_pct": 3.5
+      "price": 98.1,
+      "change_pct": -0.93
     },
     "Silver": {
-      "price": 57.31,
-      "change_pct": -1.31
+      "price": 57.43,
+      "change_pct": 0.22
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80949,
-      "change_pct": -0.78
+      "price": 81905,
+      "change_pct": 0.85
     },
     "ETH": {
-      "price": 2355.93,
-      "change_pct": -2.69
+      "price": 2403.81,
+      "change_pct": 0.47
     },
     "SOL": {
-      "price": 101.33,
-      "change_pct": -2.61
+      "price": 103.93,
+      "change_pct": 0.9
     },
     "BNB": {
-      "price": 709.03,
-      "change_pct": -1.48
+      "price": 722.01,
+      "change_pct": 0.92
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink"
+      "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East"
     },
     {
       "source": "CNBC",
-      "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes"
+      "title": "Nasdaq futures gain as investors buy the dip in the AI trade: Live updates"
     },
     {
       "source": "MarketWatch",
