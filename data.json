@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, October 17 2026  20:08 PT",
+  "generated_at": "Sunday, October 18 2026  01:13 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -25,40 +25,40 @@
       "change_pct": -0.55
     },
     "Oil (WTI)": {
-      "price": 101.41,
-      "change_pct": 6.0
+      "price": 99.02,
+      "change_pct": 3.5
     },
     "Silver": {
-      "price": 56.99,
-      "change_pct": -1.84
+      "price": 57.31,
+      "change_pct": -1.31
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81767,
-      "change_pct": 0.51
+      "price": 81601,
+      "change_pct": -0.03
     },
     "ETH": {
-      "price": 2416.35,
-      "change_pct": -0.06
+      "price": 2405.83,
+      "change_pct": -1.06
     },
     "SOL": {
-      "price": 103.95,
-      "change_pct": -0.42
+      "price": 103.14,
+      "change_pct": -1.7
     },
     "BNB": {
-      "price": 721.44,
-      "change_pct": 0.18
+      "price": 719.75,
+      "change_pct": -0.25
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'"
+      "title": "Why hedge funds could be making a bond market shock more likely"
     },
     {
       "source": "CNBC",
-      "title": "Software\u2019s new consolidator gets big vote of confidence from Berkshire"
+      "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'"
     },
     {
       "source": "MarketWatch",
