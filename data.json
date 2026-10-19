@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, October 18 2026  16:29 PT",
+  "generated_at": "Sunday, October 18 2026  18:34 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4196.8,
-      "change_pct": 0.38
+      "price": 4189.0,
+      "change_pct": 0.05
     },
     "Oil (WTI)": {
-      "price": 98.1,
-      "change_pct": -0.93
+      "price": 97.79,
+      "change_pct": -1.26
     },
     "Silver": {
-      "price": 57.43,
-      "change_pct": 0.22
+      "price": 57.48,
+      "change_pct": 0.6
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81905,
-      "change_pct": 0.85
+      "price": 82437,
+      "change_pct": 1.1
     },
     "ETH": {
-      "price": 2403.81,
-      "change_pct": 0.47
+      "price": 2423.19,
+      "change_pct": 0.75
     },
     "SOL": {
-      "price": 103.93,
-      "change_pct": 0.9
+      "price": 104.81,
+      "change_pct": 1.18
     },
     "BNB": {
-      "price": 722.01,
-      "change_pct": 0.92
+      "price": 725.68,
+      "change_pct": 0.98
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East"
+      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy"
     },
     {
       "source": "CNBC",
-      "title": "Nasdaq futures gain as investors buy the dip in the AI trade: Live updates"
+      "title": "Meta Platforms and Tesla are among the companies set to report next week. What to expect"
     },
     {
       "source": "MarketWatch",
