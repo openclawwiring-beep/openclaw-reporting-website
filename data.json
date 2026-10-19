@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, October 18 2026  18:34 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Monday, October 19 2026  00:19 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7659.44,
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4189.0,
-      "change_pct": 0.05
+      "price": 4206.8,
+      "change_pct": 0.27
     },
     "Oil (WTI)": {
-      "price": 97.79,
-      "change_pct": -1.26
+      "price": 96.94,
+      "change_pct": -0.43
     },
     "Silver": {
-      "price": 57.48,
-      "change_pct": 0.6
+      "price": 57.85,
+      "change_pct": 0.26
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82437,
-      "change_pct": 1.1
+      "price": 82826,
+      "change_pct": 1.47
     },
     "ETH": {
-      "price": 2423.19,
-      "change_pct": 0.75
+      "price": 2433.07,
+      "change_pct": 1.06
     },
     "SOL": {
-      "price": 104.81,
-      "change_pct": 1.18
+      "price": 105.79,
+      "change_pct": 2.24
     },
     "BNB": {
-      "price": 725.68,
-      "change_pct": 0.98
+      "price": 727.42,
+      "change_pct": 1.04
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy"
+      "title": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine"
     },
     {
       "source": "CNBC",
-      "title": "Meta Platforms and Tesla are among the companies set to report next week. What to expect"
+      "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire"
     },
     {
       "source": "MarketWatch",
