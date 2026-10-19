@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, October 19 2026  13:21 PT",
+  "generated_at": "Monday, October 19 2026  16:51 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4159.4,
-      "change_pct": -0.99
+      "price": 4154.5,
+      "change_pct": -1.11
     },
     "Oil (WTI)": {
-      "price": 98.45,
-      "change_pct": 1.12
+      "price": 98.26,
+      "change_pct": 0.92
     },
     "Silver": {
-      "price": 57.21,
-      "change_pct": -1.2
+      "price": 57.07,
+      "change_pct": -1.44
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81971,
-      "change_pct": 1.53
+      "price": 81927,
+      "change_pct": -0.05
     },
     "ETH": {
-      "price": 2399.82,
-      "change_pct": 2.45
+      "price": 2406.73,
+      "change_pct": 0.02
     },
     "SOL": {
-      "price": 104.52,
-      "change_pct": 3.66
+      "price": 105.0,
+      "change_pct": 1.01
     },
     "BNB": {
-      "price": 728.02,
-      "change_pct": 3.04
+      "price": 732.13,
+      "change_pct": 1.36
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nasdaq climbs more than 1% as AI trade makes a comeback"
+      "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets"
     },
     {
       "source": "CNBC",
-      "title": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay"
+      "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround"
     },
     {
       "source": "MarketWatch",
-      "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust."
+      "title": "Blood clots are \u2018incredibly common,\u2019 even for pro athletes like Jalen Hurts. Here\u2019s what to know."
     },
     {
       "source": "MarketWatch",
-      "title": "SpaceX earnings will be all about AI \u2014 for better or for worse"
+      "title": "When should you dump your target-date funds?"
     }
   ]
 }
