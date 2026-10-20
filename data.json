@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, October 20 2026  07:24 PT",
-  "market_status": "Live \u2014 as of 10:24 ET",
+  "generated_at": "Tuesday, October 20 2026  11:36 PT",
+  "market_status": "Live \u2014 as of 14:36 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7732.78,
-      "change_pct": 0.53
+      "price": 7712.62,
+      "change_pct": 0.27
     },
     "Nasdaq": {
-      "price": 26517.57,
-      "change_pct": 0.33
+      "price": 26438.14,
+      "change_pct": 0.03
     },
     "Dow Jones": {
-      "price": 52504.71,
-      "change_pct": 1.02
+      "price": 52446.9,
+      "change_pct": 0.91
     },
     "Russell 2000": {
-      "price": 2756.5,
-      "change_pct": 1.05
+      "price": 2777.06,
+      "change_pct": 1.8
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4149.8,
-      "change_pct": -0.37
+      "price": 4142.8,
+      "change_pct": -0.54
     },
     "Oil (WTI)": {
-      "price": 97.75,
-      "change_pct": -0.85
+      "price": 97.88,
+      "change_pct": -0.72
     },
     "Silver": {
-      "price": 57.85,
-      "change_pct": 0.39
+      "price": 58.01,
+      "change_pct": 0.67
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82850,
-      "change_pct": 0.87
+      "price": 82465,
+      "change_pct": 0.81
     },
     "ETH": {
-      "price": 2452.83,
-      "change_pct": 2.4
+      "price": 2436.62,
+      "change_pct": 1.76
     },
     "SOL": {
-      "price": 107.26,
-      "change_pct": 3.28
+      "price": 105.92,
+      "change_pct": 2.02
     },
     "BNB": {
-      "price": 737.46,
-      "change_pct": 1.49
+      "price": 736.21,
+      "change_pct": 1.44
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow jumps 300 points as solid earnings steady market amid AI selling: Live updates"
+      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes"
     },
     {
       "source": "CNBC",
-      "title": "SpaceX earnings live updates: Starlink growth, AI revenue and merger speculation"
+      "title": "SpaceX earnings live updates: Here's why analysts are bullish ahead of the report"
     },
     {
       "source": "MarketWatch",
-      "title": "When should you dump your target-date funds?"
+      "title": "Here\u2019s what matters most to Tesla investors heading into earnings"
     },
     {
       "source": "MarketWatch",
-      "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates"
+      "title": "Investors\u2019 search for safety has made toothpaste stocks more expensive than tech"
     }
   ]
 }
