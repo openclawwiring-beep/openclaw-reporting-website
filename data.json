@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, October 20 2026  02:07 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, October 20 2026  07:24 PT",
+  "market_status": "Live \u2014 as of 10:24 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7690.73,
-      "change_pct": 0.41
+      "price": 7732.78,
+      "change_pct": 0.53
     },
     "Nasdaq": {
-      "price": 26430.89,
-      "change_pct": 1.11
+      "price": 26517.57,
+      "change_pct": 0.33
     },
     "Dow Jones": {
-      "price": 51966.03,
-      "change_pct": -0.07
+      "price": 52504.71,
+      "change_pct": 1.02
     },
     "Russell 2000": {
-      "price": 2728.3,
-      "change_pct": 0.25
+      "price": 2756.5,
+      "change_pct": 1.05
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4137.9,
-      "change_pct": -0.66
+      "price": 4149.8,
+      "change_pct": -0.37
     },
     "Oil (WTI)": {
-      "price": 100.29,
-      "change_pct": 1.72
+      "price": 97.75,
+      "change_pct": -0.85
     },
     "Silver": {
-      "price": 57.42,
-      "change_pct": -0.34
+      "price": 57.85,
+      "change_pct": 0.39
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81390,
-      "change_pct": -1.65
+      "price": 82850,
+      "change_pct": 0.87
     },
     "ETH": {
-      "price": 2379.99,
-      "change_pct": -2.19
+      "price": 2452.83,
+      "change_pct": 2.4
     },
     "SOL": {
-      "price": 103.94,
-      "change_pct": -1.46
+      "price": 107.26,
+      "change_pct": 3.28
     },
     "BNB": {
-      "price": 726.86,
-      "change_pct": 0.15
+      "price": 737.46,
+      "change_pct": 1.49
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures mixed as chip stocks come under pressure in premarket: Live updates"
+      "title": "Dow jumps 300 points as solid earnings steady market amid AI selling: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise"
+      "title": "SpaceX earnings live updates: Starlink growth, AI revenue and merger speculation"
     },
     {
       "source": "MarketWatch",
-      "title": "The multi-million dollar real estate portfolio of Buffalo Bills QB Josh Allen and actress Hailee Steinfeld"
+      "title": "When should you dump your target-date funds?"
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s a rough housing market, and Goldman Sachs expects it to get worse"
+      "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates"
     }
   ]
 }
