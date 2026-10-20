@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, October 19 2026  16:51 PT",
+  "generated_at": "Monday, October 19 2026  20:30 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -11,7 +11,7 @@
       "change_pct": 1.11
     },
     "Dow Jones": {
-      "price": 51966.03,
+      "price": 51966.0,
       "change_pct": -0.07
     },
     "Russell 2000": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4154.5,
-      "change_pct": -1.11
+      "price": 4162.0,
+      "change_pct": -0.93
     },
     "Oil (WTI)": {
-      "price": 98.26,
-      "change_pct": 0.92
+      "price": 98.9,
+      "change_pct": 1.58
     },
     "Silver": {
-      "price": 57.07,
-      "change_pct": -1.44
+      "price": 57.56,
+      "change_pct": -0.6
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81927,
-      "change_pct": -0.05
+      "price": 81811,
+      "change_pct": -0.83
     },
     "ETH": {
-      "price": 2406.73,
-      "change_pct": 0.02
+      "price": 2403.36,
+      "change_pct": -0.83
     },
     "SOL": {
-      "price": 105.0,
-      "change_pct": 1.01
+      "price": 104.9,
+      "change_pct": -0.29
     },
     "BNB": {
-      "price": 732.13,
-      "change_pct": 1.36
+      "price": 728.97,
+      "change_pct": 0.49
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets"
+      "title": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise"
     },
     {
       "source": "CNBC",
-      "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround"
+      "title": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion"
     },
     {
       "source": "MarketWatch",
