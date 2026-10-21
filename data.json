@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, October 20 2026  17:45 PT",
+  "generated_at": "Tuesday, October 20 2026  22:43 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4138.3,
-      "change_pct": -0.65
+      "price": 4143.5,
+      "change_pct": 0.21
     },
     "Oil (WTI)": {
-      "price": 98.51,
-      "change_pct": -0.08
+      "price": 99.06,
+      "change_pct": 0.3
     },
     "Silver": {
-      "price": 58.12,
-      "change_pct": 0.88
+      "price": 57.62,
+      "change_pct": -0.2
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83048,
-      "change_pct": 1.75
+      "price": 82682,
+      "change_pct": 0.99
     },
     "ETH": {
-      "price": 2452.28,
-      "change_pct": 2.29
+      "price": 2441.46,
+      "change_pct": 1.67
     },
     "SOL": {
-      "price": 106.71,
-      "change_pct": 1.91
+      "price": 105.78,
+      "change_pct": 1.04
     },
     "BNB": {
-      "price": 742.83,
-      "change_pct": 1.99
+      "price": 742.46,
+      "change_pct": 1.68
     }
   },
   "headlines": [
@@ -58,7 +58,7 @@
     },
     {
       "source": "CNBC",
-      "title": "Japan exports post huge miss in September as growth slows to 16.7%"
+      "title": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant"
     },
     {
       "source": "MarketWatch",
