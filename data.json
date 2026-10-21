@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, October 20 2026  15:06 PT",
+  "generated_at": "Tuesday, October 20 2026  17:45 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4142.5,
-      "change_pct": -0.55
+      "price": 4138.3,
+      "change_pct": -0.65
     },
     "Oil (WTI)": {
-      "price": 98.18,
-      "change_pct": -0.42
+      "price": 98.51,
+      "change_pct": -0.08
     },
     "Silver": {
-      "price": 58.14,
-      "change_pct": 0.9
+      "price": 58.12,
+      "change_pct": 0.88
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82981,
-      "change_pct": 1.14
+      "price": 83048,
+      "change_pct": 1.75
     },
     "ETH": {
-      "price": 2459.17,
+      "price": 2452.28,
       "change_pct": 2.29
     },
     "SOL": {
-      "price": 106.81,
-      "change_pct": 1.65
+      "price": 106.71,
+      "change_pct": 1.91
     },
     "BNB": {
-      "price": 740.81,
-      "change_pct": 1.38
+      "price": 742.83,
+      "change_pct": 1.99
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance"
+      "title": "Japan exports post huge miss in September as growth slows to 16.7%"
     },
     {
       "source": "MarketWatch",
-      "title": "Walmart takes aim at Amazon and Costco with new membership program \u2014 but is it a good deal?"
+      "title": "Bull markets tend to peak with a whimper, not a bang \u2014 but a 15% correction for the S&P 500 may be next"
     },
     {
       "source": "MarketWatch",
-      "title": "It\u2019s no secret what the best financial advice for retirement is \u2014 but most people ignore it anyway"
+      "title": "Super Micro\u2019s stock soars after surprise update \u2014 with Dell and HPE shares joining the rally"
     }
   ]
 }
