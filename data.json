@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, October 21 2026  09:02 PT",
-  "market_status": "Live \u2014 as of 12:02 ET",
+  "generated_at": "Wednesday, October 21 2026  13:17 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7753.09,
-      "change_pct": 0.54
+      "price": 7757.17,
+      "change_pct": 0.58
     },
     "Nasdaq": {
-      "price": 26714.67,
-      "change_pct": 1.1
+      "price": 26702.86,
+      "change_pct": 1.05
     },
     "Dow Jones": {
-      "price": 52645.76,
-      "change_pct": 0.28
+      "price": 52856.09,
+      "change_pct": 0.69
     },
     "Russell 2000": {
-      "price": 2786.56,
-      "change_pct": 0.47
+      "price": 2781.03,
+      "change_pct": 0.27
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4151.8,
-      "change_pct": 0.38
+      "price": 4153.3,
+      "change_pct": 0.42
     },
     "Oil (WTI)": {
-      "price": 97.07,
-      "change_pct": -2.2
+      "price": 97.94,
+      "change_pct": -1.32
     },
     "Silver": {
-      "price": 57.73,
-      "change_pct": 0.46
+      "price": 58.07,
+      "change_pct": 1.05
     }
   },
   "crypto": {
     "BTC": {
-      "price": 84480,
+      "price": 84497,
       "change_pct": 2.36
     },
     "ETH": {
-      "price": 2510.28,
-      "change_pct": 2.93
+      "price": 2492.83,
+      "change_pct": 2.3
     },
     "SOL": {
-      "price": 108.44,
-      "change_pct": 2.45
+      "price": 108.2,
+      "change_pct": 2.07
     },
     "BNB": {
-      "price": 748.88,
-      "change_pct": 2.08
+      "price": 748.8,
+      "change_pct": 1.35
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "How Ukraine\u2019s drone strikes on Russia crippled the world\u2019s second largest diesel supplier"
+      "title": "Tesla beats on earnings and sales even as auto revenue declines"
     },
     {
       "source": "CNBC",
-      "title": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up"
+      "title": "Meta posts Q3 revenue beat and strong guidance: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Polymarket traders see a 10% chance the AI bubble bursts before New Year\u2019s Day"
+      "title": "The Social Security Administration wants more babies signed up for \u2018Trump accounts.\u2019 But there\u2019s still a catch."
     },
     {
       "source": "MarketWatch",
-      "title": "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your breath"
+      "title": "\u2018Super\u2019 El Ni\u00f1o may soon make your coffee super expensive"
     }
   ]
 }
