@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, October 21 2026  04:12 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, October 21 2026  09:02 PT",
+  "market_status": "Live \u2014 as of 12:02 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7712.57,
-      "change_pct": 0.28
+      "price": 7753.09,
+      "change_pct": 0.54
     },
     "Nasdaq": {
-      "price": 26424.82,
-      "change_pct": -0.02
+      "price": 26714.67,
+      "change_pct": 1.1
     },
     "Dow Jones": {
-      "price": 52495.88,
-      "change_pct": 1.02
+      "price": 52645.76,
+      "change_pct": 0.28
     },
     "Russell 2000": {
-      "price": 2773.42,
-      "change_pct": 1.65
+      "price": 2786.56,
+      "change_pct": 0.47
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4146.4,
-      "change_pct": 0.25
+      "price": 4151.8,
+      "change_pct": 0.38
     },
     "Oil (WTI)": {
-      "price": 99.37,
-      "change_pct": 0.12
+      "price": 97.07,
+      "change_pct": -2.2
     },
     "Silver": {
-      "price": 57.69,
-      "change_pct": 0.39
+      "price": 57.73,
+      "change_pct": 0.46
     }
   },
   "crypto": {
     "BTC": {
-      "price": 83388,
-      "change_pct": 2.25
+      "price": 84480,
+      "change_pct": 2.36
     },
     "ETH": {
-      "price": 2460.64,
-      "change_pct": 3.07
+      "price": 2510.28,
+      "change_pct": 2.93
     },
     "SOL": {
-      "price": 106.77,
-      "change_pct": 2.38
+      "price": 108.44,
+      "change_pct": 2.45
     },
     "BNB": {
-      "price": 746.39,
-      "change_pct": 2.5
+      "price": 748.88,
+      "change_pct": 2.08
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SpaceX up over 8% in premarket after earnings beat and Musk hints at Tesla tie-up"
+      "title": "How Ukraine\u2019s drone strikes on Russia crippled the world\u2019s second largest diesel supplier"
     },
     {
       "source": "CNBC",
-      "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further"
+      "title": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up"
     },
     {
       "source": "MarketWatch",
-      "title": "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?"
+      "title": "Polymarket traders see a 10% chance the AI bubble bursts before New Year\u2019s Day"
     },
     {
       "source": "MarketWatch",
-      "title": "Opposition to data centers will drive up inflation, says BlackRock\u2019s Larry Fink"
+      "title": "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your breath"
     }
   ]
 }
