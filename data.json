@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, October 20 2026  22:43 PT",
+  "generated_at": "Wednesday, October 21 2026  04:12 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4143.5,
-      "change_pct": 0.21
+      "price": 4146.4,
+      "change_pct": 0.25
     },
     "Oil (WTI)": {
-      "price": 99.06,
-      "change_pct": 0.3
+      "price": 99.37,
+      "change_pct": 0.12
     },
     "Silver": {
-      "price": 57.62,
-      "change_pct": -0.2
+      "price": 57.69,
+      "change_pct": 0.39
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82682,
-      "change_pct": 0.99
+      "price": 83388,
+      "change_pct": 2.25
     },
     "ETH": {
-      "price": 2441.46,
-      "change_pct": 1.67
+      "price": 2460.64,
+      "change_pct": 3.07
     },
     "SOL": {
-      "price": 105.78,
-      "change_pct": 1.04
+      "price": 106.77,
+      "change_pct": 2.38
     },
     "BNB": {
-      "price": 742.46,
-      "change_pct": 1.68
+      "price": 746.39,
+      "change_pct": 2.5
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Musk says Tesla and SpaceX formed special committees to discuss merger: Live updates"
+      "title": "SpaceX up over 8% in premarket after earnings beat and Musk hints at Tesla tie-up"
     },
     {
       "source": "CNBC",
-      "title": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant"
+      "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further"
     },
     {
       "source": "MarketWatch",
-      "title": "Bull markets tend to peak with a whimper, not a bang \u2014 but a 15% correction for the S&P 500 may be next"
+      "title": "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?"
     },
     {
       "source": "MarketWatch",
-      "title": "Super Micro\u2019s stock soars after surprise update \u2014 with Dell and HPE shares joining the rally"
+      "title": "Opposition to data centers will drive up inflation, says BlackRock\u2019s Larry Fink"
     }
   ]
 }
