@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, October 22 2026  07:21 PT",
-  "market_status": "Live \u2014 as of 10:21 ET",
+  "generated_at": "Thursday, October 22 2026  11:42 PT",
+  "market_status": "Live \u2014 as of 14:42 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7678.58,
-      "change_pct": -1.01
+      "price": 7643.12,
+      "change_pct": -1.47
     },
     "Nasdaq": {
-      "price": 26212.34,
-      "change_pct": -1.83
+      "price": 25956.98,
+      "change_pct": -2.79
     },
     "Dow Jones": {
-      "price": 52739.18,
-      "change_pct": -0.21
+      "price": 52733.47,
+      "change_pct": -0.22
     },
     "Russell 2000": {
-      "price": 2781.65,
-      "change_pct": 0.01
+      "price": 2777.23,
+      "change_pct": -0.15
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4068.2,
-      "change_pct": -0.95
+      "price": 4053.2,
+      "change_pct": -1.32
     },
     "Oil (WTI)": {
-      "price": 99.03,
-      "change_pct": 0.52
+      "price": 99.47,
+      "change_pct": 0.96
     },
     "Silver": {
-      "price": 55.38,
-      "change_pct": -1.77
+      "price": 54.9,
+      "change_pct": -2.63
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81618,
-      "change_pct": -2.62
+      "price": 81177,
+      "change_pct": -4.16
     },
     "ETH": {
-      "price": 2405.03,
-      "change_pct": -2.62
+      "price": 2376.08,
+      "change_pct": -5.53
     },
     "SOL": {
-      "price": 104.86,
-      "change_pct": -1.61
+      "price": 103.56,
+      "change_pct": -4.93
     },
     "BNB": {
-      "price": 732.68,
-      "change_pct": -1.61
+      "price": 729.01,
+      "change_pct": -2.87
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nasdaq tumbles on AI spending concerns and jump in oil prices: Live updates"
+      "title": "Meta stock sinks 7% as AI spend pushes free cash flow negative"
     },
     {
       "source": "CNBC",
-      "title": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce"
+      "title": "Elon Musk invests about $1 billion in Skydance"
     },
     {
       "source": "MarketWatch",
-      "title": "My father-in-law, 81, sold his $75,000 home and paid off his daughter\u2019s $50,000 debt. What happens to him now?"
+      "title": "Moderna\u2019s stock tumbles after reported leak of data for cancer vaccine"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 58 and hate annuities. How can I get dependable income in retirement?"
+      "title": "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your breath"
     }
   ]
 }
