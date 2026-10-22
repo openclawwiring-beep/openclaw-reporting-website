@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, October 21 2026  20:23 PT",
+  "generated_at": "Thursday, October 22 2026  01:49 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4125.4,
-      "change_pct": -0.25
+      "price": 4104.0,
+      "change_pct": -0.08
     },
     "Oil (WTI)": {
-      "price": 98.43,
-      "change_pct": -0.83
+      "price": 99.93,
+      "change_pct": 1.43
     },
     "Silver": {
-      "price": 56.58,
-      "change_pct": -1.53
+      "price": 56.05,
+      "change_pct": -0.59
     }
   },
   "crypto": {
     "BTC": {
-      "price": 82790,
-      "change_pct": 0.14
+      "price": 81883,
+      "change_pct": -1.68
     },
     "ETH": {
-      "price": 2438.44,
-      "change_pct": -0.24
+      "price": 2407.0,
+      "change_pct": -2.01
     },
     "SOL": {
-      "price": 105.51,
-      "change_pct": -0.37
+      "price": 103.71,
+      "change_pct": -2.81
     },
     "BNB": {
-      "price": 741.09,
-      "change_pct": 0.14
+      "price": 733.18,
+      "change_pct": -1.74
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "James Talarico fires back at Elon Musk in Texas Senate race feud"
+      "title": "Nasdaq futures down 1.8% as investors digest earnings from Meta and Tesla: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Meta reports third-quarter revenue beat and issues strong guidance"
+      "title": "World's largest wealth fund posts $30 billion loss after bond market turbulence"
     },
     {
       "source": "MarketWatch",
-      "title": "My father-in-law, 81, sold his $75,000 home and paid off his daughter\u2019s $50,000 debt. What happens to him now?"
+      "title": "Why a global bank is slashing thousands of jobs \u2014 and what the Fed says about AI replacing workers"
     },
     {
       "source": "MarketWatch",
-      "title": "The Social Security Administration wants more babies signed up for \u2018Trump accounts.\u2019 But there\u2019s still a catch."
+      "title": "Tesla\u2019s stock falls as Elon Musk leaves investors wanting more"
     }
   ]
 }
