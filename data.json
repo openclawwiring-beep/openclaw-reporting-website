@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, October 22 2026  11:42 PT",
-  "market_status": "Live \u2014 as of 14:42 ET",
+  "generated_at": "Thursday, October 22 2026  15:06 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7643.12,
-      "change_pct": -1.47
+      "price": 7663.43,
+      "change_pct": -1.21
     },
     "Nasdaq": {
-      "price": 25956.98,
-      "change_pct": -2.79
+      "price": 26008.86,
+      "change_pct": -2.59
     },
     "Dow Jones": {
-      "price": 52733.47,
-      "change_pct": -0.22
+      "price": 52867.98,
+      "change_pct": 0.03
     },
     "Russell 2000": {
-      "price": 2777.23,
-      "change_pct": -0.15
+      "price": 2784.03,
+      "change_pct": 0.1
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4053.2,
-      "change_pct": -1.32
+      "price": 4039.8,
+      "change_pct": -1.64
     },
     "Oil (WTI)": {
-      "price": 99.47,
-      "change_pct": 0.96
+      "price": 99.1,
+      "change_pct": 0.59
     },
     "Silver": {
-      "price": 54.9,
-      "change_pct": -2.63
+      "price": 54.63,
+      "change_pct": -3.11
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81177,
-      "change_pct": -4.16
+      "price": 81416,
+      "change_pct": -3.82
     },
     "ETH": {
-      "price": 2376.08,
-      "change_pct": -5.53
+      "price": 2393.1,
+      "change_pct": -3.94
     },
     "SOL": {
-      "price": 103.56,
-      "change_pct": -4.93
+      "price": 103.67,
+      "change_pct": -3.85
     },
     "BNB": {
-      "price": 729.01,
-      "change_pct": -2.87
+      "price": 731.94,
+      "change_pct": -2.29
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Meta stock sinks 7% as AI spend pushes free cash flow negative"
-    },
-    {
-      "source": "CNBC",
       "title": "Elon Musk invests about $1 billion in Skydance"
     },
     {
-      "source": "MarketWatch",
-      "title": "Moderna\u2019s stock tumbles after reported leak of data for cancer vaccine"
+      "source": "CNBC",
+      "title": "Moderna shares plunge after cancer vaccine data leaks \u2014 despite positive results"
     },
     {
       "source": "MarketWatch",
-      "title": "Elon Musk promised a SpaceX share to every kid in America \u2014 don\u2019t hold your breath"
+      "title": "Treasury yields see extreme plunge. Why investors are ducking for cover."
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Americans are having fewer babies \u2014 and pampering them with luxury diapers"
     }
   ]
 }
