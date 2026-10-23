@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, October 23 2026  12:46 PT",
-  "market_status": "Live \u2014 as of 15:46 ET",
+  "generated_at": "Friday, October 23 2026  15:54 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7627.0,
-      "change_pct": -0.48
+      "price": 7623.68,
+      "change_pct": -0.52
     },
     "Nasdaq": {
-      "price": 25960.77,
-      "change_pct": -0.22
+      "price": 25955.34,
+      "change_pct": -0.24
     },
     "Dow Jones": {
-      "price": 52263.42,
-      "change_pct": -1.13
+      "price": 52215.16,
+      "change_pct": -1.22
     },
     "Russell 2000": {
-      "price": 2776.81,
-      "change_pct": -0.26
+      "price": 2775.9,
+      "change_pct": -0.29
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4012.1,
-      "change_pct": -0.45
+      "price": 4010.0,
+      "change_pct": -0.5
     },
     "Oil (WTI)": {
-      "price": 103.66,
-      "change_pct": 3.67
+      "price": 103.44,
+      "change_pct": 3.45
     },
     "Silver": {
-      "price": 54.07,
-      "change_pct": 0.2
+      "price": 53.96,
+      "change_pct": 0.01
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81258,
-      "change_pct": -0.03
+      "price": 80729,
+      "change_pct": -0.64
     },
     "ETH": {
-      "price": 2395.51,
-      "change_pct": 0.69
+      "price": 2361.35,
+      "change_pct": -0.87
     },
     "SOL": {
-      "price": 103.68,
-      "change_pct": 0.36
+      "price": 102.17,
+      "change_pct": -1.02
     },
     "BNB": {
-      "price": 742.02,
-      "change_pct": 1.59
+      "price": 735.68,
+      "change_pct": 0.76
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race"
+      "title": "Trump dropping some Canada tariffs but 'replacing' them with other products"
     },
     {
       "source": "CNBC",
-      "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising"
+      "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
+      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?"
     },
     {
       "source": "MarketWatch",
-      "title": "Even the wealthy increasingly want all-inclusive resorts"
+      "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork."
     }
   ]
 }
