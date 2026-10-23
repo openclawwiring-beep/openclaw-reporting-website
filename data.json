@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, October 22 2026  22:44 PT",
+  "generated_at": "Friday, October 23 2026  04:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4035.7,
-      "change_pct": 0.17
+      "price": 4034.9,
+      "change_pct": 0.12
     },
     "Oil (WTI)": {
-      "price": 100.53,
-      "change_pct": 0.75
+      "price": 101.05,
+      "change_pct": 1.06
     },
     "Silver": {
-      "price": 54.46,
-      "change_pct": 0.94
+      "price": 53.94,
+      "change_pct": -0.04
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81681,
-      "change_pct": -1.33
+      "price": 81530,
+      "change_pct": -0.47
     },
     "ETH": {
-      "price": 2401.75,
-      "change_pct": -1.52
+      "price": 2391.27,
+      "change_pct": -0.46
     },
     "SOL": {
-      "price": 104.37,
-      "change_pct": -0.66
+      "price": 103.81,
+      "change_pct": -0.54
     },
     "BNB": {
-      "price": 741.02,
-      "change_pct": 0.31
+      "price": 744.86,
+      "change_pct": 1.5
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "SK Hynix shares rebound after initial drop on scrapped Solidigm IPO plans"
+      "title": "U.S. oil holds above $100, Brent at five-month high as Iran says it\u2019s prepared for warfare"
     },
     {
       "source": "CNBC",
-      "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing\u2019s tax net widens"
+      "title": "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'"
     },
     {
       "source": "MarketWatch",
-      "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?"
+      "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here\u2019s what\u2019s going on."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?"
+      "title": "France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around."
     }
   ]
 }
