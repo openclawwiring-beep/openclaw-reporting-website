@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, October 23 2026  04:02 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, October 23 2026  08:49 PT",
+  "market_status": "Live \u2014 as of 11:49 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7663.43,
-      "change_pct": -1.21
+      "price": 7647.12,
+      "change_pct": -0.21
     },
     "Nasdaq": {
-      "price": 26008.86,
-      "change_pct": -2.59
+      "price": 26048.15,
+      "change_pct": 0.12
     },
     "Dow Jones": {
-      "price": 52867.98,
-      "change_pct": 0.03
+      "price": 52327.87,
+      "change_pct": -1.01
     },
     "Russell 2000": {
-      "price": 2784.03,
-      "change_pct": 0.1
+      "price": 2775.79,
+      "change_pct": -0.29
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4034.9,
-      "change_pct": 0.12
+      "price": 4008.6,
+      "change_pct": -0.53
     },
     "Oil (WTI)": {
-      "price": 101.05,
-      "change_pct": 1.06
+      "price": 102.99,
+      "change_pct": 3.0
     },
     "Silver": {
-      "price": 53.94,
-      "change_pct": -0.04
+      "price": 54.15,
+      "change_pct": 0.35
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81530,
-      "change_pct": -0.47
+      "price": 81397,
+      "change_pct": -0.07
     },
     "ETH": {
-      "price": 2391.27,
-      "change_pct": -0.46
+      "price": 2399.13,
+      "change_pct": 0.32
     },
     "SOL": {
-      "price": 103.81,
-      "change_pct": -0.54
+      "price": 104.25,
+      "change_pct": -0.05
     },
     "BNB": {
-      "price": 744.86,
-      "change_pct": 1.5
+      "price": 746.96,
+      "change_pct": 2.4
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. oil holds above $100, Brent at five-month high as Iran says it\u2019s prepared for warfare"
+      "title": "AI's 'Black October':\u00a0Critical PHP flaws set off global security scramble"
     },
     {
       "source": "CNBC",
-      "title": "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'"
+      "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses"
     },
     {
       "source": "MarketWatch",
-      "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here\u2019s what\u2019s going on."
+      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
     },
     {
       "source": "MarketWatch",
-      "title": "France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around."
+      "title": "Everyone\u2019s talking about Roth conversions, but here\u2019s how few people really do them \u2014 and why you shouldn\u2019t have FOMO about it"
     }
   ]
 }
