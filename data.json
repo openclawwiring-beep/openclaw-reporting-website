@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, October 23 2026  08:49 PT",
-  "market_status": "Live \u2014 as of 11:49 ET",
+  "generated_at": "Friday, October 23 2026  12:46 PT",
+  "market_status": "Live \u2014 as of 15:46 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7647.12,
-      "change_pct": -0.21
+      "price": 7627.0,
+      "change_pct": -0.48
     },
     "Nasdaq": {
-      "price": 26048.15,
-      "change_pct": 0.12
+      "price": 25960.77,
+      "change_pct": -0.22
     },
     "Dow Jones": {
-      "price": 52327.87,
-      "change_pct": -1.01
+      "price": 52263.42,
+      "change_pct": -1.13
     },
     "Russell 2000": {
-      "price": 2775.79,
-      "change_pct": -0.29
+      "price": 2776.81,
+      "change_pct": -0.26
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4008.6,
-      "change_pct": -0.53
+      "price": 4012.1,
+      "change_pct": -0.45
     },
     "Oil (WTI)": {
-      "price": 102.99,
-      "change_pct": 3.0
+      "price": 103.66,
+      "change_pct": 3.67
     },
     "Silver": {
-      "price": 54.15,
-      "change_pct": 0.35
+      "price": 54.07,
+      "change_pct": 0.2
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81397,
-      "change_pct": -0.07
+      "price": 81258,
+      "change_pct": -0.03
     },
     "ETH": {
-      "price": 2399.13,
-      "change_pct": 0.32
+      "price": 2395.51,
+      "change_pct": 0.69
     },
     "SOL": {
-      "price": 104.25,
-      "change_pct": -0.05
+      "price": 103.68,
+      "change_pct": 0.36
     },
     "BNB": {
-      "price": 746.96,
-      "change_pct": 2.4
+      "price": 742.02,
+      "change_pct": 1.59
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "AI's 'Black October':\u00a0Critical PHP flaws set off global security scramble"
+      "title": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race"
     },
     {
       "source": "CNBC",
-      "title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses"
+      "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising"
     },
     {
       "source": "MarketWatch",
-      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
+      "title": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
     },
     {
       "source": "MarketWatch",
-      "title": "Everyone\u2019s talking about Roth conversions, but here\u2019s how few people really do them \u2014 and why you shouldn\u2019t have FOMO about it"
+      "title": "Even the wealthy increasingly want all-inclusive resorts"
     }
   ]
 }
