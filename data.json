@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, October 22 2026  15:06 PT",
+  "generated_at": "Thursday, October 22 2026  17:48 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4039.8,
-      "change_pct": -1.64
+      "price": 4033.5,
+      "change_pct": -1.8
     },
     "Oil (WTI)": {
-      "price": 99.1,
-      "change_pct": 0.59
+      "price": 99.18,
+      "change_pct": 0.67
     },
     "Silver": {
-      "price": 54.63,
-      "change_pct": -3.11
+      "price": 54.51,
+      "change_pct": -3.33
     }
   },
   "crypto": {
     "BTC": {
-      "price": 81416,
-      "change_pct": -3.82
+      "price": 81388,
+      "change_pct": -3.42
     },
     "ETH": {
-      "price": 2393.1,
-      "change_pct": -3.94
+      "price": 2390.82,
+      "change_pct": -3.45
     },
     "SOL": {
-      "price": 103.67,
-      "change_pct": -3.85
+      "price": 103.84,
+      "change_pct": -3.27
     },
     "BNB": {
-      "price": 731.94,
-      "change_pct": -2.29
+      "price": 730.81,
+      "change_pct": -2.34
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Elon Musk invests about $1 billion in Skydance"
+      "title": "Stock futures are little changed after tech sector sell-off: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Moderna shares plunge after cancer vaccine data leaks \u2014 despite positive results"
+      "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports"
     },
     {
       "source": "MarketWatch",
-      "title": "Treasury yields see extreme plunge. Why investors are ducking for cover."
+      "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?"
     },
     {
       "source": "MarketWatch",
-      "title": "Americans are having fewer babies \u2014 and pampering them with luxury diapers"
+      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?"
     }
   ]
 }
