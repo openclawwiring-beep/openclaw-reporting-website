@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, October 24 2026  07:44 PT",
+  "generated_at": "Saturday, October 24 2026  10:50 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80076,
-      "change_pct": -1.96
+      "price": 80156,
+      "change_pct": -1.73
     },
     "ETH": {
-      "price": 2340.31,
-      "change_pct": -2.73
+      "price": 2319.13,
+      "change_pct": -3.62
     },
     "SOL": {
-      "price": 100.36,
-      "change_pct": -3.99
+      "price": 100.3,
+      "change_pct": -3.92
     },
     "BNB": {
-      "price": 726.68,
-      "change_pct": -2.87
+      "price": 724.45,
+      "change_pct": -2.74
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks."
+      "title": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?"
     },
     {
       "source": "MarketWatch",
-      "title": "Everyone\u2019s talking about Roth conversions, but here\u2019s how few people really do them \u2014 and why you shouldn\u2019t have FOMO about it"
+      "title": "Over 40% of Americans are heading toward retirement \u2018blind\u2019 \u2014 with no plan"
     }
   ]
 }
