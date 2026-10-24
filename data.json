@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, October 24 2026  04:24 PT",
+  "generated_at": "Saturday, October 24 2026  07:44 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80531,
-      "change_pct": -1.23
+      "price": 80076,
+      "change_pct": -1.96
     },
     "ETH": {
-      "price": 2364.8,
-      "change_pct": -1.24
+      "price": 2340.31,
+      "change_pct": -2.73
     },
     "SOL": {
-      "price": 101.45,
-      "change_pct": -2.42
+      "price": 100.36,
+      "change_pct": -3.99
     },
     "BNB": {
-      "price": 731.44,
-      "change_pct": -1.75
+      "price": 726.68,
+      "change_pct": -2.87
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it"
+      "title": "Why popular airplanes are getting scrapped years early"
     },
     {
       "source": "CNBC",
-      "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit"
+      "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer"
     },
     {
       "source": "MarketWatch",
-      "title": "Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness."
+      "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
+      "title": "Everyone\u2019s talking about Roth conversions, but here\u2019s how few people really do them \u2014 and why you shouldn\u2019t have FOMO about it"
     }
   ]
 }
