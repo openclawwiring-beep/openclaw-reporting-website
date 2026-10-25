@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, October 25 2026  14:04 PT",
+  "generated_at": "Sunday, October 25 2026  16:26 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,40 +21,40 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4007.9,
-      "change_pct": -0.55
+      "price": 4011.4,
+      "change_pct": 0.09
     },
     "Oil (WTI)": {
-      "price": 103.27,
-      "change_pct": 3.28
+      "price": 102.27,
+      "change_pct": -0.97
     },
     "Silver": {
-      "price": 53.95,
-      "change_pct": -0.01
+      "price": 54.08,
+      "change_pct": 0.23
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80391,
-      "change_pct": -0.02
+      "price": 80228,
+      "change_pct": -0.36
     },
     "ETH": {
-      "price": 2344.1,
-      "change_pct": 0.14
+      "price": 2334.75,
+      "change_pct": -0.31
     },
     "SOL": {
-      "price": 101.52,
-      "change_pct": 0.18
+      "price": 101.44,
+      "change_pct": -0.11
     },
     "BNB": {
-      "price": 739.55,
-      "change_pct": 1.05
+      "price": 739.42,
+      "change_pct": 0.58
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs"
+      "title": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates"
     },
     {
       "source": "CNBC",
