@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, October 24 2026  17:50 PT",
+  "generated_at": "Saturday, October 24 2026  22:42 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -29,26 +29,26 @@
       "change_pct": 3.28
     },
     "Silver": {
-      "price": 53.71,
-      "change_pct": -0.46
+      "price": 53.95,
+      "change_pct": -0.01
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80797,
-      "change_pct": 0.24
+      "price": 80557,
+      "change_pct": -0.15
     },
     "ETH": {
-      "price": 2358.52,
-      "change_pct": -0.43
+      "price": 2352.5,
+      "change_pct": -0.98
     },
     "SOL": {
-      "price": 102.39,
-      "change_pct": 0.4
+      "price": 102.01,
+      "change_pct": -0.24
     },
     "BNB": {
-      "price": 739.68,
-      "change_pct": 0.69
+      "price": 745.52,
+      "change_pct": 1.02
     }
   },
   "headlines": [
