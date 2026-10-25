@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, October 25 2026  07:49 PT",
+  "generated_at": "Sunday, October 25 2026  11:08 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -30,25 +30,25 @@
     },
     "Silver": {
       "price": 53.95,
-      "change_pct": -0.02
+      "change_pct": -0.01
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80324,
-      "change_pct": 0.28
+      "price": 80719,
+      "change_pct": 0.64
     },
     "ETH": {
-      "price": 2332.92,
-      "change_pct": -0.34
+      "price": 2354.68,
+      "change_pct": 1.35
     },
     "SOL": {
-      "price": 100.85,
-      "change_pct": 0.43
+      "price": 101.79,
+      "change_pct": 1.24
     },
     "BNB": {
-      "price": 737.89,
-      "change_pct": 1.53
+      "price": 742.02,
+      "change_pct": 2.34
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis"
+      "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs"
     },
     {
       "source": "MarketWatch",
-      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
+      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
+      "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?"
     }
   ]
 }
