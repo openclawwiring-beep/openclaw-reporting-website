@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, October 25 2026  11:08 PT",
+  "generated_at": "Sunday, October 25 2026  14:04 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80719,
-      "change_pct": 0.64
+      "price": 80391,
+      "change_pct": -0.02
     },
     "ETH": {
-      "price": 2354.68,
-      "change_pct": 1.35
+      "price": 2344.1,
+      "change_pct": 0.14
     },
     "SOL": {
-      "price": 101.79,
-      "change_pct": 1.24
+      "price": 101.52,
+      "change_pct": 0.18
     },
     "BNB": {
-      "price": 742.02,
-      "change_pct": 2.34
+      "price": 739.55,
+      "change_pct": 1.05
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "What Democrats and Republicans fear most about each other: CNBC survey has the answers"
-    },
-    {
-      "source": "CNBC",
       "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs"
     },
     {
-      "source": "MarketWatch",
-      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?"
+      "source": "CNBC",
+      "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification"
     },
     {
       "source": "MarketWatch",
-      "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?"
+      "title": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?"
     }
   ]
 }
