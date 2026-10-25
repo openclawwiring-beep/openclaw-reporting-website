@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, October 25 2026  03:46 PT",
+  "generated_at": "Sunday, October 25 2026  07:49 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,34 +35,34 @@
   },
   "crypto": {
     "BTC": {
-      "price": 80247,
-      "change_pct": -0.44
+      "price": 80324,
+      "change_pct": 0.28
     },
     "ETH": {
-      "price": 2325.19,
-      "change_pct": -1.85
+      "price": 2332.92,
+      "change_pct": -0.34
     },
     "SOL": {
-      "price": 100.68,
-      "change_pct": -0.97
+      "price": 100.85,
+      "change_pct": 0.43
     },
     "BNB": {
-      "price": 737.88,
-      "change_pct": 0.71
+      "price": 737.89,
+      "change_pct": 1.53
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer"
+      "title": "What Democrats and Republicans fear most about each other: CNBC survey has the answers"
     },
     {
       "source": "CNBC",
-      "title": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification"
+      "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis"
     },
     {
       "source": "MarketWatch",
-      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?"
+      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
     },
     {
       "source": "MarketWatch",
