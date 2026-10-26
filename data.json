@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, October 26 2026  06:54 PT",
-  "market_status": "Live \u2014 as of 09:54 ET",
+  "generated_at": "Monday, October 26 2026  12:44 PT",
+  "market_status": "Live \u2014 as of 15:44 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7662.98,
-      "change_pct": 0.52
+      "price": 7681.23,
+      "change_pct": 0.76
     },
     "Nasdaq": {
-      "price": 26069.79,
-      "change_pct": 0.45
+      "price": 26209.16,
+      "change_pct": 0.98
     },
     "Dow Jones": {
-      "price": 52413.73,
-      "change_pct": 0.39
+      "price": 52326.88,
+      "change_pct": 0.23
     },
     "Russell 2000": {
-      "price": 2781.99,
-      "change_pct": 0.25
+      "price": 2788.09,
+      "change_pct": 0.47
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4014.6,
-      "change_pct": -0.17
+      "price": 4024.3,
+      "change_pct": 0.07
     },
     "Oil (WTI)": {
-      "price": 101.62,
-      "change_pct": 0.65
+      "price": 102.34,
+      "change_pct": 1.37
     },
     "Silver": {
-      "price": 53.6,
-      "change_pct": -1.05
+      "price": 53.94,
+      "change_pct": -0.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79611,
-      "change_pct": -0.87
+      "price": 79929,
+      "change_pct": -0.73
     },
     "ETH": {
-      "price": 2302.8,
-      "change_pct": -1.35
+      "price": 2316.25,
+      "change_pct": -1.43
     },
     "SOL": {
-      "price": 100.88,
-      "change_pct": -0.09
+      "price": 100.44,
+      "change_pct": -1.26
     },
     "BNB": {
-      "price": 737.7,
-      "change_pct": 0.12
+      "price": 742.18,
+      "change_pct": -0.02
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Anthropic IPO live updates: AI lab lost $80.7 billion in first half of 2026"
+      "title": "Anthropic IPO live updates: Here's when the stock lock-ups expire after the first trade"
     },
     {
       "source": "CNBC",
-      "title": "Meta announces $95 billion stock offering to fund AI expansion"
+      "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push"
     },
     {
       "source": "MarketWatch",
-      "title": "The excitement around Moderna\u2019s cancer vaccine is cooling. Here\u2019s why."
+      "title": "The house, the kids\u2019 college and the raise: Where people in their 30s and 40s go wrong"
     },
     {
       "source": "MarketWatch",
-      "title": "Retail investors are getting cold feet about stocks, just when the market needs them most"
+      "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?"
     }
   ]
 }
