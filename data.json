@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, October 25 2026  18:29 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Sunday, October 25 2026  23:51 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7623.68,
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4010.5,
-      "change_pct": 0.06
+      "price": 4020.1,
+      "change_pct": 0.39
     },
     "Oil (WTI)": {
-      "price": 101.45,
-      "change_pct": -1.92
+      "price": 101.21,
+      "change_pct": 0.25
     },
     "Silver": {
-      "price": 54.15,
-      "change_pct": 0.36
+      "price": 53.99,
+      "change_pct": 0.08
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79957,
-      "change_pct": -0.95
+      "price": 79966,
+      "change_pct": -0.58
     },
     "ETH": {
-      "price": 2323.48,
-      "change_pct": -1.35
+      "price": 2314.99,
+      "change_pct": -1.06
     },
     "SOL": {
-      "price": 101.18,
-      "change_pct": -1.01
+      "price": 100.78,
+      "change_pct": -0.57
     },
     "BNB": {
-      "price": 740.43,
-      "change_pct": -0.06
+      "price": 737.67,
+      "change_pct": -0.63
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Brazil's Lula wins presidential election in runoff vote"
+      "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede"
     },
     {
       "source": "CNBC",
-      "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says"
+      "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Musk says SpaceX landed a $40 billion debt deal \u2014 and forecasts doom for some AI rivals"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018I don\u2019t feel sorry for myself\u2019: I\u2019m 64 and will be renting for the rest of my life. Is that so bad?"
     }
   ]
 }
