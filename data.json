@@ -1,72 +1,72 @@
 {
-  "generated_at": "Sunday, October 25 2026  23:51 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, October 26 2026  06:54 PT",
+  "market_status": "Live \u2014 as of 09:54 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7623.68,
-      "change_pct": -0.52
+      "price": 7662.98,
+      "change_pct": 0.52
     },
     "Nasdaq": {
-      "price": 25955.34,
-      "change_pct": -0.24
+      "price": 26069.79,
+      "change_pct": 0.45
     },
     "Dow Jones": {
-      "price": 52215.16,
-      "change_pct": -1.22
+      "price": 52413.73,
+      "change_pct": 0.39
     },
     "Russell 2000": {
-      "price": 2775.9,
-      "change_pct": -0.29
+      "price": 2781.99,
+      "change_pct": 0.25
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4020.1,
-      "change_pct": 0.39
+      "price": 4014.6,
+      "change_pct": -0.17
     },
     "Oil (WTI)": {
-      "price": 101.21,
-      "change_pct": 0.25
+      "price": 101.62,
+      "change_pct": 0.65
     },
     "Silver": {
-      "price": 53.99,
-      "change_pct": 0.08
+      "price": 53.6,
+      "change_pct": -1.05
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79966,
-      "change_pct": -0.58
+      "price": 79611,
+      "change_pct": -0.87
     },
     "ETH": {
-      "price": 2314.99,
-      "change_pct": -1.06
+      "price": 2302.8,
+      "change_pct": -1.35
     },
     "SOL": {
-      "price": 100.78,
-      "change_pct": -0.57
+      "price": 100.88,
+      "change_pct": -0.09
     },
     "BNB": {
-      "price": 737.67,
-      "change_pct": -0.63
+      "price": 737.7,
+      "change_pct": 0.12
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede"
+      "title": "Anthropic IPO live updates: AI lab lost $80.7 billion in first half of 2026"
     },
     {
       "source": "CNBC",
-      "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction"
+      "title": "Meta announces $95 billion stock offering to fund AI expansion"
     },
     {
       "source": "MarketWatch",
-      "title": "Musk says SpaceX landed a $40 billion debt deal \u2014 and forecasts doom for some AI rivals"
+      "title": "The excitement around Moderna\u2019s cancer vaccine is cooling. Here\u2019s why."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
+      "title": "Retail investors are getting cold feet about stocks, just when the market needs them most"
     }
   ]
 }
