@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, October 27 2026  13:26 PT",
+  "generated_at": "Tuesday, October 27 2026  16:55 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4074.3,
-      "change_pct": 1.1
+      "price": 4073.5,
+      "change_pct": 1.08
     },
     "Oil (WTI)": {
-      "price": 100.02,
-      "change_pct": -0.76
+      "price": 100.08,
+      "change_pct": -0.7
     },
     "Silver": {
-      "price": 54.51,
-      "change_pct": 1.42
+      "price": 54.53,
+      "change_pct": 1.44
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80627,
-      "change_pct": 1.02
+      "price": 80822,
+      "change_pct": 1.03
     },
     "ETH": {
-      "price": 2343.4,
-      "change_pct": 1.33
+      "price": 2349.05,
+      "change_pct": 1.29
     },
     "SOL": {
-      "price": 101.01,
-      "change_pct": 0.74
+      "price": 101.27,
+      "change_pct": 0.56
     },
     "BNB": {
-      "price": 747.07,
-      "change_pct": 0.71
+      "price": 744.12,
+      "change_pct": 0.39
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Is that used EV worth the price? This checklist could save you thousands of dollars."
+      "title": "Retail traders buy the dip on chip stocks \u2014 but Robinhood gets burned by the crypto market"
     },
     {
       "source": "MarketWatch",
-      "title": "A hidden \u2018triple top\u2019 in oil price charts suggests the rally has run out of gas"
+      "title": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
     }
   ]
 }
