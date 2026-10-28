@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, October 27 2026  16:55 PT",
+  "generated_at": "Tuesday, October 27 2026  21:06 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4073.5,
-      "change_pct": 1.08
+      "price": 4056.7,
+      "change_pct": 0.67
     },
     "Oil (WTI)": {
-      "price": 100.08,
-      "change_pct": -0.7
+      "price": 101.42,
+      "change_pct": 0.63
     },
     "Silver": {
-      "price": 54.53,
-      "change_pct": 1.44
+      "price": 54.11,
+      "change_pct": 0.67
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80822,
-      "change_pct": 1.03
+      "price": 81002,
+      "change_pct": 1.6
     },
     "ETH": {
-      "price": 2349.05,
-      "change_pct": 1.29
+      "price": 2355.94,
+      "change_pct": 1.94
     },
     "SOL": {
-      "price": 101.27,
-      "change_pct": 0.56
+      "price": 101.88,
+      "change_pct": 1.84
     },
     "BNB": {
-      "price": 744.12,
-      "change_pct": 0.39
+      "price": 746.11,
+      "change_pct": 1.1
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain"
+      "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion"
     },
     {
       "source": "CNBC",
-      "title": "Speaker Mike Johnson calls election-transfer concerns \u2018absurd\u2019"
+      "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble"
     },
     {
       "source": "MarketWatch",
       "title": "Retail traders buy the dip on chip stocks \u2014 but Robinhood gets burned by the crypto market"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018She\u2019s living the dream\u2019: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
     }
   ]
 }
