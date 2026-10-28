@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, October 28 2026  09:59 PT",
-  "market_status": "Live \u2014 as of 12:59 ET",
+  "generated_at": "Wednesday, October 28 2026  14:35 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7743.46,
+      "price": 7743.98,
       "change_pct": 0.27
     },
     "Nasdaq": {
-      "price": 26498.79,
-      "change_pct": 0.09
+      "price": 26549.85,
+      "change_pct": 0.28
     },
     "Dow Jones": {
-      "price": 52551.43,
-      "change_pct": 0.31
+      "price": 52475.1,
+      "change_pct": 0.17
     },
     "Russell 2000": {
-      "price": 2819.14,
-      "change_pct": 0.0
+      "price": 2830.51,
+      "change_pct": 0.41
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4052.8,
-      "change_pct": -0.09
+      "price": 4081.2,
+      "change_pct": 0.61
     },
     "Oil (WTI)": {
-      "price": 103.39,
-      "change_pct": 2.02
+      "price": 101.94,
+      "change_pct": 0.59
     },
     "Silver": {
-      "price": 53.7,
-      "change_pct": -0.76
+      "price": 54.04,
+      "change_pct": -0.13
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80523,
-      "change_pct": 0.01
+      "price": 81098,
+      "change_pct": -0.03
     },
     "ETH": {
-      "price": 2332.26,
-      "change_pct": -0.55
+      "price": 2353.89,
+      "change_pct": -0.15
     },
     "SOL": {
-      "price": 101.03,
-      "change_pct": 0.18
+      "price": 102.13,
+      "change_pct": 0.61
     },
     "BNB": {
-      "price": 747.61,
-      "change_pct": -0.33
+      "price": 754.83,
+      "change_pct": 0.88
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fed meeting live updates: No hike expected, but investors watching Warsh for what's next"
+      "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027"
     },
     {
       "source": "CNBC",
-      "title": "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain"
+      "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat"
     },
     {
       "source": "MarketWatch",
-      "title": "Healthcare stocks are on their biggest hot streak in a generation. Think twice before chasing the rally."
+      "title": "We\u2019re in our 70s. Should we pay off our 2.5% mortgage \u2014 or put the money in a high-yield savings account?"
     },
     {
       "source": "MarketWatch",
-      "title": "Trump administration clears the way for production of peptides like BPC-157 and TB-500"
+      "title": "Why did the Fed hold off on raising interest rates? Warsh says it\u2019s because an \u2018information-rich\u2019 period is coming."
     }
   ]
 }
