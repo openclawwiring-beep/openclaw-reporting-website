@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, October 28 2026  18:33 PT",
+  "generated_at": "Thursday, October 29 2026  01:02 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4073.3,
-      "change_pct": 0.42
+      "price": 4036.6,
+      "change_pct": -0.36
     },
     "Oil (WTI)": {
-      "price": 102.14,
-      "change_pct": 0.79
+      "price": 101.95,
+      "change_pct": 0.52
     },
     "Silver": {
-      "price": 54.2,
-      "change_pct": 0.17
+      "price": 52.79,
+      "change_pct": -0.91
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80740,
-      "change_pct": 0.07
+      "price": 79782,
+      "change_pct": -1.54
     },
     "ETH": {
-      "price": 2340.6,
-      "change_pct": -0.23
+      "price": 2308.06,
+      "change_pct": -2.2
     },
     "SOL": {
-      "price": 101.24,
-      "change_pct": 0.0
+      "price": 99.69,
+      "change_pct": -2.55
     },
     "BNB": {
-      "price": 754.05,
-      "change_pct": 1.45
+      "price": 747.83,
+      "change_pct": 0.31
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027"
+      "title": "Nasdaq-100 futures fall over 1% as Alphabet shares sell off after earnings report: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Lumentum\u2019s stock pops as investors cheer a possible sale to Marvell"
+      "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high"
     },
     {
       "source": "MarketWatch",
       "title": "Why Alphabet\u2019s stock could see its worst drop in years after the latest results"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Lumentum\u2019s stock pops as investors cheer a possible sale to Marvell"
     }
   ]
 }
