@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, October 29 2026  01:02 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, October 29 2026  08:24 PT",
+  "market_status": "Live \u2014 as of 11:24 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7743.98,
-      "change_pct": 0.27
+      "price": 7720.67,
+      "change_pct": -0.35
     },
     "Nasdaq": {
-      "price": 26549.85,
-      "change_pct": 0.28
+      "price": 26226.46,
+      "change_pct": -1.26
     },
     "Dow Jones": {
-      "price": 52475.1,
-      "change_pct": 0.17
+      "price": 52345.36,
+      "change_pct": -0.33
     },
     "Russell 2000": {
-      "price": 2830.51,
-      "change_pct": 0.41
+      "price": 2859.32,
+      "change_pct": 1.04
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4036.6,
-      "change_pct": -0.36
+      "price": 4035.6,
+      "change_pct": -0.38
     },
     "Oil (WTI)": {
-      "price": 101.95,
-      "change_pct": 0.52
+      "price": 100.18,
+      "change_pct": -1.22
     },
     "Silver": {
-      "price": 52.79,
-      "change_pct": -0.91
+      "price": 52.55,
+      "change_pct": -1.37
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79782,
-      "change_pct": -1.54
+      "price": 81418,
+      "change_pct": 0.98
     },
     "ETH": {
-      "price": 2308.06,
-      "change_pct": -2.2
+      "price": 2355.19,
+      "change_pct": 0.79
     },
     "SOL": {
-      "price": 99.69,
-      "change_pct": -2.55
+      "price": 102.0,
+      "change_pct": 0.89
     },
     "BNB": {
-      "price": 747.83,
-      "change_pct": 0.31
+      "price": 750.67,
+      "change_pct": 0.25
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nasdaq-100 futures fall over 1% as Alphabet shares sell off after earnings report: Live updates"
+      "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates"
     },
     {
       "source": "CNBC",
-      "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high"
+      "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search"
     },
     {
       "source": "MarketWatch",
-      "title": "Why Alphabet\u2019s stock could see its worst drop in years after the latest results"
+      "title": "Caterpillar\u2019s stock is sinking. Here\u2019s what that means for the Dow."
     },
     {
       "source": "MarketWatch",
-      "title": "Lumentum\u2019s stock pops as investors cheer a possible sale to Marvell"
+      "title": "Consumer spending flattens out after U.S. inflation surge"
     }
   ]
 }
