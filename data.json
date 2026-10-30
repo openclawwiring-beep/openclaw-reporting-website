@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, October 29 2026  17:06 PT",
+  "generated_at": "Thursday, October 29 2026  23:12 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4019.4,
-      "change_pct": -0.78
+      "price": 4000.6,
+      "change_pct": -0.09
     },
     "Oil (WTI)": {
-      "price": 102.79,
-      "change_pct": 1.35
+      "price": 103.24,
+      "change_pct": -0.05
     },
     "Silver": {
-      "price": 51.94,
-      "change_pct": -2.52
+      "price": 51.09,
+      "change_pct": -0.68
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77987,
-      "change_pct": -3.99
+      "price": 78505,
+      "change_pct": -1.99
     },
     "ETH": {
-      "price": 2250.31,
-      "change_pct": -4.51
+      "price": 2240.82,
+      "change_pct": -3.27
     },
     "SOL": {
-      "price": 95.47,
-      "change_pct": -6.63
+      "price": 97.79,
+      "change_pct": -2.35
     },
     "BNB": {
-      "price": 695.9,
-      "change_pct": -8.37
+      "price": 716.02,
+      "change_pct": -4.88
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged"
+      "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout"
     },
     {
       "source": "CNBC",
-      "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance"
+      "title": "Israel faces weeks of coalition haggling as Netanyahu\u2019s party claims election 'stolen'"
     },
     {
       "source": "MarketWatch",
-      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?"
+      "title": "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to live there."
     },
     {
       "source": "MarketWatch",
-      "title": "Amazon\u2019s bold cloud forecast isn\u2019t enough to stave off a stock drop"
+      "title": "Amazon\u2019s stock drops \u2014\u00a0even in the face of a bold new cloud forecast"
     }
   ]
 }
