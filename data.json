@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, October 29 2026  23:12 PT",
+  "generated_at": "Friday, October 30 2026  06:19 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4000.6,
-      "change_pct": -0.09
+      "price": 3949.4,
+      "change_pct": -1.36
     },
     "Oil (WTI)": {
-      "price": 103.24,
-      "change_pct": -0.05
+      "price": 103.79,
+      "change_pct": 0.6
     },
     "Silver": {
-      "price": 51.09,
-      "change_pct": -0.68
+      "price": 49.7,
+      "change_pct": -3.18
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78505,
-      "change_pct": -1.99
+      "price": 77251,
+      "change_pct": -3.61
     },
     "ETH": {
-      "price": 2240.82,
-      "change_pct": -3.27
+      "price": 2227.48,
+      "change_pct": -4.23
     },
     "SOL": {
-      "price": 97.79,
-      "change_pct": -2.35
+      "price": 96.33,
+      "change_pct": -4.31
     },
     "BNB": {
-      "price": 716.02,
-      "change_pct": -4.88
+      "price": 699.82,
+      "change_pct": -5.62
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout"
+      "title": "Nasdaq futures fall more than 2% as Amazon and Intel tumble after earnings: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Israel faces weeks of coalition haggling as Netanyahu\u2019s party claims election 'stolen'"
+      "title": "Hackers steal $6.3 billion from Binance in biggest-ever cryptocurrency theft"
     },
     {
       "source": "MarketWatch",
-      "title": "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to live there."
+      "title": "My father has early Alzheimer\u2019s and his caregiver is using his debit card for DoorDash. What can I do?"
     },
     {
       "source": "MarketWatch",
-      "title": "Amazon\u2019s stock drops \u2014\u00a0even in the face of a bold new cloud forecast"
+      "title": "Bitcoin slides after crypto\u2019s nightmare scenario: a historic $6.3 billion heist"
     }
   ]
 }
