@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, October 29 2026  13:26 PT",
+  "generated_at": "Thursday, October 29 2026  17:06 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4037.1,
-      "change_pct": -0.35
+      "price": 4019.4,
+      "change_pct": -0.78
     },
     "Oil (WTI)": {
-      "price": 102.82,
-      "change_pct": 1.38
+      "price": 102.79,
+      "change_pct": 1.35
     },
     "Silver": {
-      "price": 52.26,
-      "change_pct": -1.91
+      "price": 51.94,
+      "change_pct": -2.52
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80270,
-      "change_pct": -1.08
+      "price": 77987,
+      "change_pct": -3.99
     },
     "ETH": {
-      "price": 2315.23,
-      "change_pct": -1.77
+      "price": 2250.31,
+      "change_pct": -4.51
     },
     "SOL": {
-      "price": 99.17,
-      "change_pct": -2.98
+      "price": 95.47,
+      "change_pct": -6.63
     },
     "BNB": {
-      "price": 739.49,
-      "change_pct": -1.78
+      "price": 695.9,
+      "change_pct": -8.37
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Amazon misses on earnings and holds capex steady, adding to AI spending jitters"
+      "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged"
     },
     {
       "source": "CNBC",
-      "title": "Intel stock plunges 20% as chipmaker blames PC slowdown for weak guidance"
+      "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance"
     },
     {
       "source": "MarketWatch",
-      "title": "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock closed at a record high."
+      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?"
     },
     {
       "source": "MarketWatch",
-      "title": "The midterms are crucial to the future of Social Security \u2014 no matter how old you are"
+      "title": "Amazon\u2019s bold cloud forecast isn\u2019t enough to stave off a stock drop"
     }
   ]
 }
