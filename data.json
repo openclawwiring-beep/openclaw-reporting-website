@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, October 30 2026  15:47 PT",
+  "generated_at": "Friday, October 30 2026  19:01 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 76891,
-      "change_pct": -2.49
+      "price": 77299,
+      "change_pct": 0.83
     },
     "ETH": {
-      "price": 2235.66,
-      "change_pct": -1.54
+      "price": 2241.84,
+      "change_pct": 2.29
     },
     "SOL": {
-      "price": 95.75,
-      "change_pct": -1.44
+      "price": 96.63,
+      "change_pct": 3.04
     },
     "BNB": {
-      "price": 699.23,
-      "change_pct": -0.33
+      "price": 706.23,
+      "change_pct": 0.54
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "This cybersecurity stock will be the next to join the S&P 500"
+      "title": "Has the tech bubble burst? Why the Nasdaq\u2019s rough ride looks eerily like 2000."
     },
     {
       "source": "MarketWatch",
-      "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters"
+      "title": "This cybersecurity stock will be the next to join the S&P 500"
     }
   ]
 }
