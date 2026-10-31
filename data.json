@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, October 31 2026  01:39 PT",
+  "generated_at": "Saturday, October 31 2026  08:02 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77195,
-      "change_pct": -0.97
+      "price": 77362,
+      "change_pct": 0.26
     },
     "ETH": {
-      "price": 2237.27,
-      "change_pct": 0.41
+      "price": 2245.27,
+      "change_pct": 0.21
     },
     "SOL": {
-      "price": 95.15,
-      "change_pct": -2.09
+      "price": 95.68,
+      "change_pct": 0.9
     },
     "BNB": {
-      "price": 698.78,
-      "change_pct": -0.94
+      "price": 707.18,
+      "change_pct": 1.11
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake"
+      "title": "Anthropic's path to the Nasdaq just got a lot bumpier"
     },
     {
       "source": "CNBC",
-      "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months"
+      "title": "Trump promised to slash energy costs  \u2014 but gasoline, diesel and jet fuel all soared instead"
     },
     {
       "source": "MarketWatch",
-      "title": "Grand Theft Callout: \u2018GTA 6\u2019 fans are missing work on the game\u2019s release day because they \u2018don\u2019t want to wait\u2019 anymore"
+      "title": "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash. Do I intervene?"
     },
     {
       "source": "MarketWatch",
-      "title": "Has the tech bubble burst? Why the Nasdaq\u2019s rough ride looks eerily like 2000."
+      "title": "The S&P 500 isn\u2019t the big winner you may think it is"
     }
   ]
 }
