@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, October 31 2026  08:02 PT",
+  "generated_at": "Saturday, October 31 2026  12:26 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 77362,
-      "change_pct": 0.26
+      "price": 77532,
+      "change_pct": 1.42
     },
     "ETH": {
-      "price": 2245.27,
-      "change_pct": 0.21
+      "price": 2252.73,
+      "change_pct": 1.04
     },
     "SOL": {
-      "price": 95.68,
-      "change_pct": 0.9
+      "price": 95.84,
+      "change_pct": 1.55
     },
     "BNB": {
-      "price": 707.18,
-      "change_pct": 1.11
+      "price": 706.18,
+      "change_pct": 1.3
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Anthropic's path to the Nasdaq just got a lot bumpier"
+      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My father has Alzheimer\u2019s and his caregiver is using his debit card for DoorDash. Do I intervene?"
+      "title": "This is where most people go wrong in their 30s and 40s"
     },
     {
       "source": "MarketWatch",
-      "title": "The S&P 500 isn\u2019t the big winner you may think it is"
+      "title": "We\u2019re in our 70s. Should we pay off our 2.5% mortgage \u2014 or put the money in a high-yield savings account?"
     }
   ]
 }
