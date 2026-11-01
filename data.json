@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, November 01 2026  07:45 PT",
+  "generated_at": "Sunday, November 01 2026  12:11 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78034,
-      "change_pct": 0.71
+      "price": 77775,
+      "change_pct": 0.31
     },
     "ETH": {
-      "price": 2268.03,
-      "change_pct": 0.86
+      "price": 2257.33,
+      "change_pct": 0.14
     },
     "SOL": {
-      "price": 94.83,
-      "change_pct": -1.02
+      "price": 93.93,
+      "change_pct": -1.99
     },
     "BNB": {
-      "price": 713.37,
-      "change_pct": 1.05
+      "price": 708.09,
+      "change_pct": 0.27
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Why AI is boosting Meta's ad business while hurting Google search"
+      "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal"
     },
     {
       "source": "CNBC",
-      "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered"
+      "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election"
     },
     {
       "source": "MarketWatch",
-      "title": "Apple\u2019s new earnings era begins at a critical time for Big Tech"
+      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?"
     },
     {
       "source": "MarketWatch",
-      "title": "This is the biggest threat to the AI-powered bull market"
+      "title": "\u2018Showy jewelry and fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend it all?"
     }
   ]
 }
