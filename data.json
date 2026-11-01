@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, November 01 2026  12:11 PT",
+  "generated_at": "Sunday, November 01 2026  15:45 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,44 +21,44 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3898.9,
-      "change_pct": -2.62
+      "price": 3904.3,
+      "change_pct": 0.14
     },
     "Oil (WTI)": {
-      "price": 104.12,
-      "change_pct": 0.92
+      "price": 102.45,
+      "change_pct": -1.6
     },
     "Silver": {
-      "price": 49.28,
-      "change_pct": -4.01
+      "price": 49.63,
+      "change_pct": 0.72
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77775,
-      "change_pct": 0.31
+      "price": 78181,
+      "change_pct": 0.94
     },
     "ETH": {
-      "price": 2257.33,
-      "change_pct": 0.14
+      "price": 2271.55,
+      "change_pct": 0.82
     },
     "SOL": {
-      "price": 93.93,
-      "change_pct": -1.99
+      "price": 94.33,
+      "change_pct": -1.03
     },
     "BNB": {
-      "price": 708.09,
-      "change_pct": 0.27
+      "price": 710.82,
+      "change_pct": 1.18
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal"
+      "title": "Stock futures tick higher ahead of busy week of earnings, jobs data and the midterm elections: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election"
+      "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal"
     },
     {
       "source": "MarketWatch",
