@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, November 01 2026  01:43 PT",
+  "generated_at": "Sunday, November 01 2026  07:45 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 78064,
-      "change_pct": 1.07
+      "price": 78034,
+      "change_pct": 0.71
     },
     "ETH": {
-      "price": 2271.3,
-      "change_pct": 1.47
+      "price": 2268.03,
+      "change_pct": 0.86
     },
     "SOL": {
-      "price": 95.52,
-      "change_pct": 0.3
+      "price": 94.83,
+      "change_pct": -1.02
     },
     "BNB": {
-      "price": 709.33,
-      "change_pct": 1.48
+      "price": 713.37,
+      "change_pct": 1.05
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday"
+      "title": "Why AI is boosting Meta's ad business while hurting Google search"
     },
     {
       "source": "CNBC",
-      "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice"
+      "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered"
     },
     {
       "source": "MarketWatch",
-      "title": "My abusive ex-husband promised $20,000 for our kids\u2019 education. Now he refuses to pay. Is he legally obligated?"
+      "title": "Apple\u2019s new earnings era begins at a critical time for Big Tech"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Showy jewelry and fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend it all?"
+      "title": "This is the biggest threat to the AI-powered bull market"
     }
   ]
 }
