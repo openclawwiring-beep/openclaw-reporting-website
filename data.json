@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, November 01 2026  20:33 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Monday, November 02 2026  05:05 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7580.07,
@@ -21,48 +21,48 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3914.0,
-      "change_pct": 0.39
+      "price": 3910.5,
+      "change_pct": 0.01
     },
     "Oil (WTI)": {
-      "price": 100.62,
-      "change_pct": -3.36
+      "price": 99.55,
+      "change_pct": -1.22
     },
     "Silver": {
-      "price": 50.1,
-      "change_pct": 1.67
+      "price": 50.15,
+      "change_pct": 0.13
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78568,
-      "change_pct": 1.08
+      "price": 77678,
+      "change_pct": -0.34
     },
     "ETH": {
-      "price": 2305.65,
-      "change_pct": 1.75
+      "price": 2281.5,
+      "change_pct": 0.82
     },
     "SOL": {
-      "price": 95.41,
-      "change_pct": -0.09
+      "price": 93.95,
+      "change_pct": -0.89
     },
     "BNB": {
-      "price": 713.2,
-      "change_pct": 1.17
+      "price": 703.4,
+      "change_pct": -1.37
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures tick higher ahead of busy week of earnings, jobs data and the midterm elections: Live updates"
+      "title": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts"
     },
     {
       "source": "CNBC",
-      "title": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes"
+      "title": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks"
     },
     {
       "source": "MarketWatch",
-      "title": "Want to help your adult kids and grandkids? Give them money while you\u2019re still alive."
+      "title": "Marvell and Lumentum officially plan to combine. Here\u2019s what to know."
     },
     {
       "source": "MarketWatch",
