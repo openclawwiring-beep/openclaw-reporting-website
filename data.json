@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, November 02 2026  05:05 PT",
+  "generated_at": "Monday, November 02 2026  14:24 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7580.07,
-      "change_pct": -1.83
+      "price": 7541.4,
+      "change_pct": -0.52
     },
     "Nasdaq": {
-      "price": 25437.0,
-      "change_pct": -2.87
-    },
-    "Dow Jones": {
-      "price": 51770.31,
+      "price": 25164.32,
       "change_pct": -1.09
     },
+    "Dow Jones": {
+      "price": 51983.98,
+      "change_pct": 0.41
+    },
     "Russell 2000": {
-      "price": 2811.84,
-      "change_pct": -1.65
+      "price": 2805.88,
+      "change_pct": -0.22
     }
   },
   "commodities": {
     "Gold": {
-      "price": 3910.5,
-      "change_pct": 0.01
+      "price": 3956.6,
+      "change_pct": 1.19
     },
     "Oil (WTI)": {
-      "price": 99.55,
-      "change_pct": -1.22
+      "price": 96.26,
+      "change_pct": -4.49
     },
     "Silver": {
-      "price": 50.15,
-      "change_pct": 0.13
+      "price": 50.71,
+      "change_pct": 1.25
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77678,
-      "change_pct": -0.34
+      "price": 76862,
+      "change_pct": -0.98
     },
     "ETH": {
-      "price": 2281.5,
-      "change_pct": 0.82
+      "price": 2254.35,
+      "change_pct": 0.11
     },
     "SOL": {
-      "price": 93.95,
-      "change_pct": -0.89
+      "price": 92.02,
+      "change_pct": -1.38
     },
     "BNB": {
-      "price": 703.4,
-      "change_pct": -1.37
+      "price": 698.77,
+      "change_pct": -0.86
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts"
+      "title": "Apple beats on quarterly revenue in CEO John Ternus' first earnings report: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks"
+      "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time"
     },
     {
       "source": "MarketWatch",
-      "title": "Marvell and Lumentum officially plan to combine. Here\u2019s what to know."
+      "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned"
     },
     {
       "source": "MarketWatch",
-      "title": "This is the biggest threat to the AI-powered bull market"
+      "title": "Wall Street\u2019s most hated stocks are faring far better than its favorites"
     }
   ]
 }
