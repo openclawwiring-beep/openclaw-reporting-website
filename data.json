@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, November 01 2026  15:45 PT",
+  "generated_at": "Sunday, November 01 2026  20:33 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3904.3,
-      "change_pct": 0.14
+      "price": 3914.0,
+      "change_pct": 0.39
     },
     "Oil (WTI)": {
-      "price": 102.45,
-      "change_pct": -1.6
+      "price": 100.62,
+      "change_pct": -3.36
     },
     "Silver": {
-      "price": 49.63,
-      "change_pct": 0.72
+      "price": 50.1,
+      "change_pct": 1.67
     }
   },
   "crypto": {
     "BTC": {
-      "price": 78181,
-      "change_pct": 0.94
+      "price": 78568,
+      "change_pct": 1.08
     },
     "ETH": {
-      "price": 2271.55,
-      "change_pct": 0.82
+      "price": 2305.65,
+      "change_pct": 1.75
     },
     "SOL": {
-      "price": 94.33,
-      "change_pct": -1.03
+      "price": 95.41,
+      "change_pct": -0.09
     },
     "BNB": {
-      "price": 710.82,
-      "change_pct": 1.18
+      "price": 713.2,
+      "change_pct": 1.17
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal"
+      "title": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes"
     },
     {
       "source": "MarketWatch",
-      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?"
+      "title": "Want to help your adult kids and grandkids? Give them money while you\u2019re still alive."
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Showy jewelry and fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend it all?"
+      "title": "This is the biggest threat to the AI-powered bull market"
     }
   ]
 }
