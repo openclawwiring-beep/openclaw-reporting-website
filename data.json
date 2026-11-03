@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, November 03 2026  03:37 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Tuesday, November 03 2026  11:04 PT",
+  "market_status": "Live \u2014 as of 14:04 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7541.4,
-      "change_pct": -0.52
+      "price": 7586.13,
+      "change_pct": 0.58
     },
     "Nasdaq": {
-      "price": 25164.31,
-      "change_pct": -1.09
+      "price": 25432.06,
+      "change_pct": 1.04
     },
     "Dow Jones": {
-      "price": 51983.98,
-      "change_pct": 0.41
+      "price": 51870.64,
+      "change_pct": -0.23
     },
     "Russell 2000": {
-      "price": 2805.88,
-      "change_pct": -0.22
+      "price": 2828.2,
+      "change_pct": 0.81
     }
   },
   "commodities": {
     "Gold": {
-      "price": 3913.9,
-      "change_pct": -0.48
+      "price": 3937.4,
+      "change_pct": 0.11
     },
     "Oil (WTI)": {
-      "price": 98.42,
-      "change_pct": 1.38
+      "price": 95.92,
+      "change_pct": -1.19
     },
     "Silver": {
-      "price": 48.97,
-      "change_pct": -1.27
+      "price": 49.7,
+      "change_pct": 0.21
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77034,
-      "change_pct": -1.0
+      "price": 77498,
+      "change_pct": 0.82
     },
     "ETH": {
-      "price": 2264.58,
-      "change_pct": -0.84
+      "price": 2288.92,
+      "change_pct": 1.8
     },
     "SOL": {
-      "price": 92.37,
-      "change_pct": -1.6
+      "price": 93.34,
+      "change_pct": 1.41
     },
     "BNB": {
-      "price": 696.93,
-      "change_pct": -0.94
+      "price": 696.46,
+      "change_pct": -0.1
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Oil prices climb after U.S. strikes Iran's Qeshm Island"
+      "title": "Midterm elections 2026 live updates: Economy, inflation and other voter concerns"
     },
     {
       "source": "CNBC",
-      "title": "Apple shares slide after weak margin outlook; Palantir slumps 8% after earnings"
+      "title": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps"
     },
     {
       "source": "MarketWatch",
-      "title": "Oil has had a massive run, but a prominent bull sees a turning point on midterm eve"
+      "title": "My wife and I have no kids and a 99% chance of outliving our life savings. Why not spend it all?"
     },
     {
       "source": "MarketWatch",
-      "title": "Thousands of Disney job cuts may be coming. Investors are asking what comes next."
+      "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?"
     }
   ]
 }
