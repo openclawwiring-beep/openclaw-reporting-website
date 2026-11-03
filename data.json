@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, November 02 2026  19:35 PT",
+  "generated_at": "Tuesday, November 03 2026  03:37 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -7,7 +7,7 @@
       "change_pct": -0.52
     },
     "Nasdaq": {
-      "price": 25164.36,
+      "price": 25164.31,
       "change_pct": -1.09
     },
     "Dow Jones": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3945.0,
-      "change_pct": 0.9
+      "price": 3913.9,
+      "change_pct": -0.48
     },
     "Oil (WTI)": {
-      "price": 96.64,
-      "change_pct": -4.11
+      "price": 98.42,
+      "change_pct": 1.38
     },
     "Silver": {
-      "price": 49.97,
-      "change_pct": -0.23
+      "price": 48.97,
+      "change_pct": -1.27
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76727,
-      "change_pct": -2.37
+      "price": 77034,
+      "change_pct": -1.0
     },
     "ETH": {
-      "price": 2247.27,
-      "change_pct": -2.65
+      "price": 2264.58,
+      "change_pct": -0.84
     },
     "SOL": {
-      "price": 91.8,
-      "change_pct": -3.97
+      "price": 92.37,
+      "change_pct": -1.6
     },
     "BNB": {
-      "price": 694.85,
-      "change_pct": -2.79
+      "price": 696.93,
+      "change_pct": -0.94
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for \u2018negotiated settlement\u2019 with Tehran"
+      "title": "Oil prices climb after U.S. strikes Iran's Qeshm Island"
     },
     {
       "source": "CNBC",
-      "title": "Australia hikes rates to 18-year high to fight inflation"
+      "title": "Apple shares slide after weak margin outlook; Palantir slumps 8% after earnings"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s why Palantir\u2019s stock is down despite a \u2018bombastic\u2019 quarter"
+      "title": "Oil has had a massive run, but a prominent bull sees a turning point on midterm eve"
     },
     {
       "source": "MarketWatch",
-      "title": "Apple\u2019s iPhone business is booming. Here\u2019s why the stock is falling anyway."
+      "title": "Thousands of Disney job cuts may be coming. Investors are asking what comes next."
     }
   ]
 }
