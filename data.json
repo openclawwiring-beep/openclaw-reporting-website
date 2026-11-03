@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, November 02 2026  14:24 PT",
+  "generated_at": "Monday, November 02 2026  19:35 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -7,7 +7,7 @@
       "change_pct": -0.52
     },
     "Nasdaq": {
-      "price": 25164.32,
+      "price": 25164.36,
       "change_pct": -1.09
     },
     "Dow Jones": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3956.6,
-      "change_pct": 1.19
+      "price": 3945.0,
+      "change_pct": 0.9
     },
     "Oil (WTI)": {
-      "price": 96.26,
-      "change_pct": -4.49
+      "price": 96.64,
+      "change_pct": -4.11
     },
     "Silver": {
-      "price": 50.71,
-      "change_pct": 1.25
+      "price": 49.97,
+      "change_pct": -0.23
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76862,
-      "change_pct": -0.98
+      "price": 76727,
+      "change_pct": -2.37
     },
     "ETH": {
-      "price": 2254.35,
-      "change_pct": 0.11
+      "price": 2247.27,
+      "change_pct": -2.65
     },
     "SOL": {
-      "price": 92.02,
-      "change_pct": -1.38
+      "price": 91.8,
+      "change_pct": -3.97
     },
     "BNB": {
-      "price": 698.77,
-      "change_pct": -0.86
+      "price": 694.85,
+      "change_pct": -2.79
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Apple beats on quarterly revenue in CEO John Ternus' first earnings report: Live updates"
+      "title": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for \u2018negotiated settlement\u2019 with Tehran"
     },
     {
       "source": "CNBC",
-      "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time"
+      "title": "Australia hikes rates to 18-year high to fight inflation"
     },
     {
       "source": "MarketWatch",
-      "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned"
+      "title": "Here\u2019s why Palantir\u2019s stock is down despite a \u2018bombastic\u2019 quarter"
     },
     {
       "source": "MarketWatch",
-      "title": "Wall Street\u2019s most hated stocks are faring far better than its favorites"
+      "title": "Apple\u2019s iPhone business is booming. Here\u2019s why the stock is falling anyway."
     }
   ]
 }
