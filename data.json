@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, November 04 2026  07:05 PT",
-  "market_status": "Live \u2014 as of 10:05 ET",
+  "generated_at": "Wednesday, November 04 2026  13:24 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7701.07,
-      "change_pct": 1.75
+      "price": 7688.62,
+      "change_pct": 1.59
     },
     "Nasdaq": {
-      "price": 25962.42,
-      "change_pct": 2.35
+      "price": 25736.51,
+      "change_pct": 1.46
     },
     "Dow Jones": {
-      "price": 52902.4,
-      "change_pct": 2.17
+      "price": 53356.12,
+      "change_pct": 3.05
     },
     "Russell 2000": {
-      "price": 2865.7,
-      "change_pct": 1.85
+      "price": 2856.95,
+      "change_pct": 1.54
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4046.0,
-      "change_pct": 2.0
+      "price": 4075.9,
+      "change_pct": 2.76
     },
     "Oil (WTI)": {
-      "price": 93.31,
-      "change_pct": -2.6
+      "price": 88.44,
+      "change_pct": -7.68
     },
     "Silver": {
-      "price": 52.03,
-      "change_pct": 4.16
+      "price": 52.38,
+      "change_pct": 4.84
     }
   },
   "crypto": {
     "BTC": {
-      "price": 79427,
-      "change_pct": 2.79
+      "price": 80113,
+      "change_pct": 2.93
     },
     "ETH": {
-      "price": 2401.17,
-      "change_pct": 5.16
+      "price": 2420.69,
+      "change_pct": 5.53
     },
     "SOL": {
-      "price": 95.48,
-      "change_pct": 2.43
+      "price": 94.8,
+      "change_pct": 1.18
     },
     "BNB": {
-      "price": 710.93,
-      "change_pct": 1.88
+      "price": 716.98,
+      "change_pct": 2.49
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans"
+      "title": "Trump tells CNBC he can work with Dems on \u2018many more things than people understand\u2019: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Midterm elections 2026 live updates: What's next after Democrats flip Congress in blue wave"
+      "title": "Dow soars 1,500 points for best day since April 2025 on clear-cut Democratic win, falling oil: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Three things that explain what\u2019s changing with Obamacare in 2027"
+      "title": "Apple cements its status as tech\u2019s biggest heavyweight with the stock\u2019s best day in over a year"
     },
     {
       "source": "MarketWatch",
-      "title": "Midterm elections deliver a \u2018blue wave.\u2019 The stock market sees green."
+      "title": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have $500 in savings. What politician speaks for me?"
     }
   ]
 }
