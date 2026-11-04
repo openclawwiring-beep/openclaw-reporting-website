@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, November 03 2026  22:50 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, November 04 2026  07:05 PT",
+  "market_status": "Live \u2014 as of 10:05 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7568.92,
-      "change_pct": 0.35
+      "price": 7701.07,
+      "change_pct": 1.75
     },
     "Nasdaq": {
-      "price": 25372.01,
-      "change_pct": 0.8
+      "price": 25962.42,
+      "change_pct": 2.35
     },
     "Dow Jones": {
-      "price": 51786.72,
-      "change_pct": -0.39
+      "price": 52902.4,
+      "change_pct": 2.17
     },
     "Russell 2000": {
-      "price": 2812.45,
-      "change_pct": 0.25
+      "price": 2865.7,
+      "change_pct": 1.85
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4030.3,
-      "change_pct": 1.61
+      "price": 4046.0,
+      "change_pct": 2.0
     },
     "Oil (WTI)": {
-      "price": 96.32,
-      "change_pct": 1.23
+      "price": 93.31,
+      "change_pct": -2.6
     },
     "Silver": {
-      "price": 51.72,
-      "change_pct": 3.54
+      "price": 52.03,
+      "change_pct": 4.16
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77853,
-      "change_pct": 1.81
+      "price": 79427,
+      "change_pct": 2.79
     },
     "ETH": {
-      "price": 2293.17,
-      "change_pct": 2.23
+      "price": 2401.17,
+      "change_pct": 5.16
     },
     "SOL": {
-      "price": 92.83,
-      "change_pct": 1.62
+      "price": 95.48,
+      "change_pct": 2.43
     },
     "BNB": {
-      "price": 699.61,
-      "change_pct": 1.05
+      "price": 710.93,
+      "change_pct": 1.88
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Midterm elections 2026 live updates: Democrats flip Senate after winning House"
+      "title": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures fall as Democrats win big in midterms with traders betting they slow data center buildout: Live updates"
+      "title": "Midterm elections 2026 live updates: What's next after Democrats flip Congress in blue wave"
     },
     {
       "source": "MarketWatch",
-      "title": "Democrats win the House and Senate. Here\u2019s what it means for your finances."
+      "title": "Three things that explain what\u2019s changing with Obamacare in 2027"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s why AMD\u2019s stock is rising \u2014 and sending a confident message about the AI trade"
+      "title": "Midterm elections deliver a \u2018blue wave.\u2019 The stock market sees green."
     }
   ]
 }
