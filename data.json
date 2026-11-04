@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, November 03 2026  16:04 PT",
+  "generated_at": "Tuesday, November 03 2026  22:50 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3943.8,
-      "change_pct": 0.28
+      "price": 4030.3,
+      "change_pct": 1.61
     },
     "Oil (WTI)": {
-      "price": 96.62,
-      "change_pct": -0.47
+      "price": 96.32,
+      "change_pct": 1.23
     },
     "Silver": {
-      "price": 49.81,
-      "change_pct": 0.43
+      "price": 51.72,
+      "change_pct": 3.54
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77356,
-      "change_pct": 0.86
+      "price": 77853,
+      "change_pct": 1.81
     },
     "ETH": {
-      "price": 2272.2,
-      "change_pct": 1.04
+      "price": 2293.17,
+      "change_pct": 2.23
     },
     "SOL": {
-      "price": 92.79,
-      "change_pct": 1.0
+      "price": 92.83,
+      "change_pct": 1.62
     },
     "BNB": {
-      "price": 697.5,
-      "change_pct": -0.09
+      "price": 699.61,
+      "change_pct": 1.05
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Midterm elections 2026 live updates: First polls close as House, Senate control hang in balance"
+      "title": "Midterm elections 2026 live updates: Democrats flip Senate after winning House"
     },
     {
       "source": "CNBC",
-      "title": "AMD stock jumps 8% on earnings as data center revenue nearly doubles"
+      "title": "Stock futures fall as Democrats win big in midterms with traders betting they slow data center buildout: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "What analysts are telling us while Apple\u2019s stock falls after earnings report"
+      "title": "Democrats win the House and Senate. Here\u2019s what it means for your finances."
     },
     {
       "source": "MarketWatch",
-      "title": "Shopify\u2019s stock slides after earnings. This is what\u2019s worrying Wall Street."
+      "title": "Here\u2019s why AMD\u2019s stock is rising \u2014 and sending a confident message about the AI trade"
     }
   ]
 }
