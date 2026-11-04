@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, November 03 2026  11:04 PT",
-  "market_status": "Live \u2014 as of 14:04 ET",
+  "generated_at": "Tuesday, November 03 2026  16:04 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7586.13,
-      "change_pct": 0.58
+      "price": 7568.92,
+      "change_pct": 0.35
     },
     "Nasdaq": {
-      "price": 25432.06,
-      "change_pct": 1.04
+      "price": 25372.01,
+      "change_pct": 0.8
     },
     "Dow Jones": {
-      "price": 51870.64,
-      "change_pct": -0.23
+      "price": 51786.72,
+      "change_pct": -0.39
     },
     "Russell 2000": {
-      "price": 2828.2,
-      "change_pct": 0.81
+      "price": 2812.45,
+      "change_pct": 0.25
     }
   },
   "commodities": {
     "Gold": {
-      "price": 3937.4,
-      "change_pct": 0.11
+      "price": 3943.8,
+      "change_pct": 0.28
     },
     "Oil (WTI)": {
-      "price": 95.92,
-      "change_pct": -1.19
+      "price": 96.62,
+      "change_pct": -0.47
     },
     "Silver": {
-      "price": 49.7,
-      "change_pct": 0.21
+      "price": 49.81,
+      "change_pct": 0.43
     }
   },
   "crypto": {
     "BTC": {
-      "price": 77498,
-      "change_pct": 0.82
+      "price": 77356,
+      "change_pct": 0.86
     },
     "ETH": {
-      "price": 2288.92,
-      "change_pct": 1.8
+      "price": 2272.2,
+      "change_pct": 1.04
     },
     "SOL": {
-      "price": 93.34,
-      "change_pct": 1.41
+      "price": 92.79,
+      "change_pct": 1.0
     },
     "BNB": {
-      "price": 696.46,
-      "change_pct": -0.1
+      "price": 697.5,
+      "change_pct": -0.09
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Midterm elections 2026 live updates: Economy, inflation and other voter concerns"
+      "title": "Midterm elections 2026 live updates: First polls close as House, Senate control hang in balance"
     },
     {
       "source": "CNBC",
-      "title": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps"
+      "title": "AMD stock jumps 8% on earnings as data center revenue nearly doubles"
     },
     {
       "source": "MarketWatch",
-      "title": "My wife and I have no kids and a 99% chance of outliving our life savings. Why not spend it all?"
+      "title": "What analysts are telling us while Apple\u2019s stock falls after earnings report"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?"
+      "title": "Shopify\u2019s stock slides after earnings. This is what\u2019s worrying Wall Street."
     }
   ]
 }
