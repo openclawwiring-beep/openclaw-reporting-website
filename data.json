@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, November 04 2026  17:38 PT",
+  "generated_at": "Thursday, November 05 2026  00:58 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4109.8,
-      "change_pct": 3.61
+      "price": 4134.5,
+      "change_pct": -0.37
     },
     "Oil (WTI)": {
-      "price": 87.27,
-      "change_pct": -8.9
+      "price": 88.17,
+      "change_pct": 1.74
     },
     "Silver": {
-      "price": 52.51,
-      "change_pct": 5.11
+      "price": 52.72,
+      "change_pct": -0.71
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80484,
-      "change_pct": 4.68
+      "price": 80451,
+      "change_pct": 2.65
     },
     "ETH": {
-      "price": 2420.71,
-      "change_pct": 7.06
+      "price": 2418.74,
+      "change_pct": 4.23
     },
     "SOL": {
-      "price": 95.74,
-      "change_pct": 4.24
+      "price": 96.64,
+      "change_pct": 3.69
     },
     "BNB": {
-      "price": 717.4,
-      "change_pct": 3.58
+      "price": 714.69,
+      "change_pct": 1.83
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one"
+      "title": "Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings"
     },
     {
       "source": "MarketWatch",
-      "title": "Qualcomm\u2019s stock falls as twin forces pressure sales"
+      "title": "Dow scores its best day in 18 months in a broad relief rally after Democrats sweep to power in Congress"
     },
     {
       "source": "MarketWatch",
-      "title": "This year\u2019s worst-performing S&P 500 stock is finally seeing some major relief"
+      "title": "Most investors are blind to the possibility of a market crash. Here is the five-part strategy to survive one."
     }
   ]
 }
