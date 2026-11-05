@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, November 05 2026  09:16 PT",
-  "market_status": "Live \u2014 as of 12:16 ET",
+  "generated_at": "Thursday, November 05 2026  14:45 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7427.84,
-      "change_pct": -3.39
+      "price": 7353.73,
+      "change_pct": -4.36
     },
     "Nasdaq": {
-      "price": 24568.15,
-      "change_pct": -4.55
+      "price": 24315.0,
+      "change_pct": -5.54
     },
     "Dow Jones": {
-      "price": 51972.25,
-      "change_pct": -2.6
+      "price": 51523.06,
+      "change_pct": -3.44
     },
     "Russell 2000": {
-      "price": 2753.8,
-      "change_pct": -3.61
+      "price": 2729.89,
+      "change_pct": -4.45
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4128.8,
-      "change_pct": -0.51
+      "price": 4097.9,
+      "change_pct": -1.25
     },
     "Oil (WTI)": {
-      "price": 90.12,
-      "change_pct": 3.99
+      "price": 91.2,
+      "change_pct": 5.24
     },
     "Silver": {
-      "price": 52.71,
-      "change_pct": -0.73
+      "price": 51.83,
+      "change_pct": -2.38
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76112,
-      "change_pct": -5.19
+      "price": 75790,
+      "change_pct": -6.24
     },
     "ETH": {
-      "price": 2256.06,
-      "change_pct": -6.89
+      "price": 2232.27,
+      "change_pct": -8.55
     },
     "SOL": {
-      "price": 89.92,
-      "change_pct": -6.26
+      "price": 89.68,
+      "change_pct": -6.52
     },
     "BNB": {
-      "price": 692.04,
-      "change_pct": -3.24
+      "price": 688.33,
+      "change_pct": -4.74
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nasdaq plummets 4% into correction territory, Dow drops more than 1,000 points as traders dump tech stocks: Live updates"
+      "title": "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next"
     },
     {
       "source": "CNBC",
-      "title": "Here's what the Democratic election rout could mean for the U.S. economy"
+      "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge"
     },
     {
       "source": "MarketWatch",
-      "title": "Is this \u2018the big one\u2019 for the stock market? Wall Street sounds off as tech plunges."
+      "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be."
     },
     {
       "source": "MarketWatch",
-      "title": "How to buy a new car for under $30,000 in this economy"
+      "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?"
     }
   ]
 }
