@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, November 04 2026  13:24 PT",
+  "generated_at": "Wednesday, November 04 2026  17:38 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4075.9,
-      "change_pct": 2.76
+      "price": 4109.8,
+      "change_pct": 3.61
     },
     "Oil (WTI)": {
-      "price": 88.44,
-      "change_pct": -7.68
+      "price": 87.27,
+      "change_pct": -8.9
     },
     "Silver": {
-      "price": 52.38,
-      "change_pct": 4.84
+      "price": 52.51,
+      "change_pct": 5.11
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80113,
-      "change_pct": 2.93
+      "price": 80484,
+      "change_pct": 4.68
     },
     "ETH": {
-      "price": 2420.69,
-      "change_pct": 5.53
+      "price": 2420.71,
+      "change_pct": 7.06
     },
     "SOL": {
-      "price": 94.8,
-      "change_pct": 1.18
+      "price": 95.74,
+      "change_pct": 4.24
     },
     "BNB": {
-      "price": 716.98,
-      "change_pct": 2.49
+      "price": 717.4,
+      "change_pct": 3.58
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump tells CNBC he can work with Dems on \u2018many more things than people understand\u2019: Live updates"
+      "title": "What was really behind Wednesday's monster rally? Trump quickly making peace"
     },
     {
       "source": "CNBC",
-      "title": "Dow soars 1,500 points for best day since April 2025 on clear-cut Democratic win, falling oil: Live updates"
+      "title": "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one"
     },
     {
       "source": "MarketWatch",
-      "title": "Apple cements its status as tech\u2019s biggest heavyweight with the stock\u2019s best day in over a year"
+      "title": "Qualcomm\u2019s stock falls as twin forces pressure sales"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have $500 in savings. What politician speaks for me?"
+      "title": "This year\u2019s worst-performing S&P 500 stock is finally seeing some major relief"
     }
   ]
 }
