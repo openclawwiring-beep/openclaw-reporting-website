@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, November 05 2026  00:58 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, November 05 2026  09:16 PT",
+  "market_status": "Live \u2014 as of 12:16 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7688.62,
-      "change_pct": 1.59
+      "price": 7427.84,
+      "change_pct": -3.39
     },
     "Nasdaq": {
-      "price": 25736.51,
-      "change_pct": 1.46
+      "price": 24568.15,
+      "change_pct": -4.55
     },
     "Dow Jones": {
-      "price": 53356.12,
-      "change_pct": 3.05
+      "price": 51972.25,
+      "change_pct": -2.6
     },
     "Russell 2000": {
-      "price": 2856.95,
-      "change_pct": 1.54
+      "price": 2753.8,
+      "change_pct": -3.61
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4134.5,
-      "change_pct": -0.37
+      "price": 4128.8,
+      "change_pct": -0.51
     },
     "Oil (WTI)": {
-      "price": 88.17,
-      "change_pct": 1.74
+      "price": 90.12,
+      "change_pct": 3.99
     },
     "Silver": {
-      "price": 52.72,
-      "change_pct": -0.71
+      "price": 52.71,
+      "change_pct": -0.73
     }
   },
   "crypto": {
     "BTC": {
-      "price": 80451,
-      "change_pct": 2.65
+      "price": 76112,
+      "change_pct": -5.19
     },
     "ETH": {
-      "price": 2418.74,
-      "change_pct": 4.23
+      "price": 2256.06,
+      "change_pct": -6.89
     },
     "SOL": {
-      "price": 96.64,
-      "change_pct": 3.69
+      "price": 89.92,
+      "change_pct": -6.26
     },
     "BNB": {
-      "price": 714.69,
-      "change_pct": 1.83
+      "price": 692.04,
+      "change_pct": -3.24
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "What was really behind Wednesday's monster rally? Trump quickly making peace"
+      "title": "Nasdaq plummets 4% into correction territory, Dow drops more than 1,000 points as traders dump tech stocks: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings"
+      "title": "Here's what the Democratic election rout could mean for the U.S. economy"
     },
     {
       "source": "MarketWatch",
-      "title": "Dow scores its best day in 18 months in a broad relief rally after Democrats sweep to power in Congress"
+      "title": "Is this \u2018the big one\u2019 for the stock market? Wall Street sounds off as tech plunges."
     },
     {
       "source": "MarketWatch",
-      "title": "Most investors are blind to the possibility of a market crash. Here is the five-part strategy to survive one."
+      "title": "How to buy a new car for under $30,000 in this economy"
     }
   ]
 }
