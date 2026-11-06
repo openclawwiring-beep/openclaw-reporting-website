@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, November 05 2026  19:11 PT",
+  "generated_at": "Friday, November 06 2026  03:18 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4072.8,
-      "change_pct": -1.86
+      "price": 4075.1,
+      "change_pct": 0.53
     },
     "Oil (WTI)": {
-      "price": 91.38,
-      "change_pct": 5.45
+      "price": 90.8,
+      "change_pct": -0.71
     },
     "Silver": {
-      "price": 51.94,
-      "change_pct": -2.18
+      "price": 51.87,
+      "change_pct": 0.62
     }
   },
   "crypto": {
     "BTC": {
-      "price": 76166,
-      "change_pct": -5.37
+      "price": 75960,
+      "change_pct": -5.33
     },
     "ETH": {
-      "price": 2241.72,
-      "change_pct": -7.59
+      "price": 2233.95,
+      "change_pct": -7.58
     },
     "SOL": {
-      "price": 90.28,
-      "change_pct": -6.11
+      "price": 90.0,
+      "change_pct": -6.74
     },
     "BNB": {
-      "price": 694.88,
-      "change_pct": -2.83
+      "price": 694.14,
+      "change_pct": -3.14
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures fall after Nasdaq correction; Japan's Nikkei 225 enters bear market: Live updates"
+      "title": "The October jobs report is out Friday. Here's everything to expect"
     },
     {
       "source": "CNBC",
-      "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble"
+      "title": "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?"
+      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?"
     },
     {
       "source": "MarketWatch",
-      "title": "Here\u2019s what\u2019s driving Iren\u2019s stock higher after a brutal selloff"
+      "title": "Is it the end of the Cybertruck? Elon Musk announces factory will shift production"
     }
   ]
 }
