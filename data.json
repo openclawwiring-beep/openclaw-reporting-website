@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, November 05 2026  14:45 PT",
+  "generated_at": "Thursday, November 05 2026  19:11 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4097.9,
-      "change_pct": -1.25
+      "price": 4072.8,
+      "change_pct": -1.86
     },
     "Oil (WTI)": {
-      "price": 91.2,
-      "change_pct": 5.24
+      "price": 91.38,
+      "change_pct": 5.45
     },
     "Silver": {
-      "price": 51.83,
-      "change_pct": -2.38
+      "price": 51.94,
+      "change_pct": -2.18
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75790,
-      "change_pct": -6.24
+      "price": 76166,
+      "change_pct": -5.37
     },
     "ETH": {
-      "price": 2232.27,
-      "change_pct": -8.55
+      "price": 2241.72,
+      "change_pct": -7.59
     },
     "SOL": {
-      "price": 89.68,
-      "change_pct": -6.52
+      "price": 90.28,
+      "change_pct": -6.11
     },
     "BNB": {
-      "price": 688.33,
-      "change_pct": -4.74
+      "price": 694.88,
+      "change_pct": -2.83
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next"
+      "title": "Stock futures fall after Nasdaq correction; Japan's Nikkei 225 enters bear market: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge"
+      "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble"
     },
     {
       "source": "MarketWatch",
-      "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be."
+      "title": "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?"
     },
     {
       "source": "MarketWatch",
-      "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?"
+      "title": "Here\u2019s what\u2019s driving Iren\u2019s stock higher after a brutal selloff"
     }
   ]
 }
