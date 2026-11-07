@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, November 07 2026  02:33 PT",
+  "generated_at": "Saturday, November 07 2026  08:44 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75896,
-      "change_pct": -0.3
+      "price": 75711,
+      "change_pct": 0.13
     },
     "ETH": {
-      "price": 2241.01,
-      "change_pct": 0.14
+      "price": 2233.58,
+      "change_pct": 0.4
     },
     "SOL": {
-      "price": 89.72,
-      "change_pct": -0.46
+      "price": 89.55,
+      "change_pct": -0.83
     },
     "BNB": {
-      "price": 693.8,
-      "change_pct": -0.03
+      "price": 693.49,
+      "change_pct": -0.11
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump says U.S. carried out \u2018minor strikes\u2019 on Iran as missiles hit Qeshm Island"
+      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline"
     },
     {
       "source": "CNBC",
-      "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain"
+      "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?"
+      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives."
     },
     {
       "source": "MarketWatch",
-      "title": "Elon Musk opens the door for a big SpaceX acquisition"
+      "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be."
     }
   ]
 }
