@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, November 08 2026  05:47 PT",
+  "generated_at": "Sunday, November 08 2026  10:39 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75852,
-      "change_pct": -0.06
+      "price": 75867,
+      "change_pct": 0.14
     },
     "ETH": {
-      "price": 2234.63,
-      "change_pct": -0.42
+      "price": 2233.01,
+      "change_pct": -0.07
     },
     "SOL": {
-      "price": 89.26,
-      "change_pct": -0.8
+      "price": 89.55,
+      "change_pct": -0.05
     },
     "BNB": {
-      "price": 696.76,
-      "change_pct": 0.24
+      "price": 696.87,
+      "change_pct": 0.19
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Cathie Wood 'always feels better when the market is worried' \u2014 here's why"
+      "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link"
     },
     {
       "source": "MarketWatch",
-      "title": "This market signal called the tech selloff. Now it\u2019s sending another warning."
+      "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?"
     },
     {
       "source": "MarketWatch",
-      "title": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar"
+      "title": "Two months after my father\u2019s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?"
     }
   ]
 }
