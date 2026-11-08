@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, November 07 2026  22:29 PT",
+  "generated_at": "Sunday, November 08 2026  05:47 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75755,
-      "change_pct": -0.28
+      "price": 75852,
+      "change_pct": -0.06
     },
     "ETH": {
-      "price": 2232.92,
-      "change_pct": -0.48
+      "price": 2234.63,
+      "change_pct": -0.42
     },
     "SOL": {
-      "price": 89.11,
-      "change_pct": -1.06
+      "price": 89.26,
+      "change_pct": -0.8
     },
     "BNB": {
-      "price": 696.56,
-      "change_pct": 0.31
+      "price": 696.76,
+      "change_pct": 0.24
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers"
+      "title": "How Democrats will try to end Trump's tariffs"
     },
     {
       "source": "CNBC",
-      "title": "Trump offers UFC chief Dana White press secretary job"
+      "title": "Cathie Wood 'always feels better when the market is worried' \u2014 here's why"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This market signal called the tech selloff. Now it\u2019s sending another warning."
     },
     {
       "source": "MarketWatch",
       "title": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Second-guessing my adviser: Is an annuity the right move in this market?"
     }
   ]
 }
