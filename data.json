@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, November 08 2026  10:39 PT",
+  "generated_at": "Sunday, November 08 2026  14:39 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75867,
-      "change_pct": 0.14
+      "price": 74204,
+      "change_pct": -1.98
     },
     "ETH": {
-      "price": 2233.01,
-      "change_pct": -0.07
+      "price": 2119.43,
+      "change_pct": -5.04
     },
     "SOL": {
-      "price": 89.55,
-      "change_pct": -0.05
+      "price": 85.73,
+      "change_pct": -3.95
     },
     "BNB": {
-      "price": 696.87,
-      "change_pct": 0.19
+      "price": 681.59,
+      "change_pct": -2.0
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "How Democrats will try to end Trump's tariffs"
+      "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy"
     },
     {
       "source": "CNBC",
-      "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link"
+      "title": "Trump says renewed Iran strikes \u2018highly unlikely\u2019 if talks progress but warns he could still strike"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia\u2019s board will probe CEO Jensen Huang\u2019s relationship with an alleged spy. Here\u2019s what to know."
     },
     {
       "source": "MarketWatch",
       "title": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Two months after my father\u2019s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?"
     }
   ]
 }
