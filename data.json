@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, November 07 2026  12:39 PT",
+  "generated_at": "Saturday, November 07 2026  16:12 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,26 +35,26 @@
   },
   "crypto": {
     "BTC": {
-      "price": 75671,
-      "change_pct": -0.13
+      "price": 75738,
+      "change_pct": -0.17
     },
     "ETH": {
-      "price": 2230.19,
-      "change_pct": -0.02
+      "price": 2236.08,
+      "change_pct": -0.16
     },
     "SOL": {
-      "price": 89.38,
-      "change_pct": -0.57
+      "price": 89.62,
+      "change_pct": -0.56
     },
     "BNB": {
-      "price": 695.65,
-      "change_pct": 0.48
+      "price": 695.39,
+      "change_pct": 0.26
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections"
+      "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers"
     },
     {
       "source": "CNBC",
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Second-guessing my adviser: Is an annuity the right move in this market?"
+      "title": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar"
     },
     {
       "source": "MarketWatch",
-      "title": "Here are the 2027 capital-gains tax rates for each income level"
+      "title": "Second-guessing my adviser: Is an annuity the right move in this market?"
     }
   ]
 }
