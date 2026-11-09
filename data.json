@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, November 09 2026  02:03 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Monday, November 09 2026  12:56 PT",
+  "market_status": "Live \u2014 as of 15:56 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7376.86,
-      "change_pct": 0.27
+      "price": 7555.2,
+      "change_pct": 2.45
     },
     "Nasdaq": {
-      "price": 24579.43,
-      "change_pct": 1.04
+      "price": 25278.88,
+      "change_pct": 2.87
     },
     "Dow Jones": {
-      "price": 51285.73,
-      "change_pct": -0.46
+      "price": 52398.34,
+      "change_pct": 2.2
     },
     "Russell 2000": {
-      "price": 2754.11,
-      "change_pct": 0.91
+      "price": 2849.33,
+      "change_pct": 3.47
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4107.1,
-      "change_pct": -0.63
+      "price": 4149.5,
+      "change_pct": 0.39
     },
     "Oil (WTI)": {
-      "price": 90.34,
-      "change_pct": -1.06
+      "price": 87.04,
+      "change_pct": -4.68
     },
     "Silver": {
-      "price": 52.58,
-      "change_pct": -1.02
+      "price": 53.39,
+      "change_pct": 0.52
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74196,
-      "change_pct": -2.16
+      "price": 74777,
+      "change_pct": -1.23
     },
     "ETH": {
-      "price": 2105.95,
-      "change_pct": -5.71
+      "price": 2129.98,
+      "change_pct": -4.27
     },
     "SOL": {
-      "price": 86.3,
-      "change_pct": -3.23
+      "price": 86.74,
+      "change_pct": -2.72
     },
     "BNB": {
-      "price": 680.25,
-      "change_pct": -2.41
+      "price": 688.92,
+      "change_pct": -1.07
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang\u2019s relationship with alleged Chinese spy"
+      "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO"
     },
     {
       "source": "CNBC",
-      "title": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses"
+      "title": "Dow rallies 1,200 points, Nasdaq jumps 3% as stocks climb out of postelection slump: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "Brewers star Christian Yelich is selling his hillside Malibu mansion for $30 million"
+      "title": "Analysts say these chip stocks are bargains. Is it time to buy?"
     },
     {
       "source": "MarketWatch",
-      "title": "How Wall Street is reacting to the news of Nvidia\u2019s investigation into Jensen Huang spy claims"
+      "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test."
     }
   ]
 }
