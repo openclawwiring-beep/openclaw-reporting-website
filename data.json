@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, November 08 2026  18:22 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Monday, November 09 2026  02:03 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7376.86,
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4137.7,
-      "change_pct": 1.54
+      "price": 4107.1,
+      "change_pct": -0.63
     },
     "Oil (WTI)": {
-      "price": 90.78,
-      "change_pct": -0.06
+      "price": 90.34,
+      "change_pct": -1.06
     },
     "Silver": {
-      "price": 53.3,
-      "change_pct": 2.61
+      "price": 52.58,
+      "change_pct": -1.02
     }
   },
   "crypto": {
     "BTC": {
-      "price": 75290,
-      "change_pct": -0.46
+      "price": 74196,
+      "change_pct": -2.16
     },
     "ETH": {
-      "price": 2148.05,
-      "change_pct": -3.69
+      "price": 2105.95,
+      "change_pct": -5.71
     },
     "SOL": {
-      "price": 88.05,
-      "change_pct": -0.97
+      "price": 86.3,
+      "change_pct": -3.23
     },
     "BNB": {
-      "price": 688.97,
-      "change_pct": -0.74
+      "price": 680.25,
+      "change_pct": -2.41
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy"
+      "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang\u2019s relationship with alleged Chinese spy"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures rise slightly as investors eye AI trade, brace for more data and earnings: Live updates"
+      "title": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?"
+      "title": "Brewers star Christian Yelich is selling his hillside Malibu mansion for $30 million"
     },
     {
       "source": "MarketWatch",
-      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives."
+      "title": "How Wall Street is reacting to the news of Nvidia\u2019s investigation into Jensen Huang spy claims"
     }
   ]
 }
