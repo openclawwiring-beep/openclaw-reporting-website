@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, November 09 2026  19:15 PT",
+  "generated_at": "Tuesday, November 10 2026  03:30 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4122.2,
-      "change_pct": -0.27
+      "price": 4083.7,
+      "change_pct": -1.0
     },
     "Oil (WTI)": {
-      "price": 85.98,
-      "change_pct": -5.84
+      "price": 85.91,
+      "change_pct": 0.28
     },
     "Silver": {
-      "price": 53.03,
-      "change_pct": -0.16
+      "price": 52.42,
+      "change_pct": -1.56
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74712,
-      "change_pct": -0.33
+      "price": 74200,
+      "change_pct": -0.27
     },
     "ETH": {
-      "price": 2118.73,
-      "change_pct": -0.98
+      "price": 2093.31,
+      "change_pct": -1.13
     },
     "SOL": {
-      "price": 86.05,
-      "change_pct": -1.55
+      "price": 84.43,
+      "change_pct": -2.35
     },
     "BNB": {
-      "price": 688.23,
-      "change_pct": 0.19
+      "price": 687.82,
+      "change_pct": 0.53
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO"
+      "title": "Nvidia stock edges higher as investors weigh potential fallout of CEO's affair with alleged spy"
     },
     {
       "source": "CNBC",
-      "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'"
+      "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect"
     },
     {
       "source": "MarketWatch",
-      "title": "The short seller who saw signs of Nvidia\u2019s China scandal months ago claims Megaspeed isn\u2019t the only company helping China access chips"
+      "title": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?"
     },
     {
       "source": "MarketWatch",
-      "title": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar"
+      "title": "Anthropic reportedly retracts IPO terms sent to banks by mistake, exposing jitters over AI investments"
     }
   ]
 }
