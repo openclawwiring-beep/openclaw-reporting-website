@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, November 10 2026  11:20 PT",
-  "market_status": "Live \u2014 as of 14:20 ET",
+  "generated_at": "Tuesday, November 10 2026  16:09 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7505.31,
-      "change_pct": -0.58
+      "price": 7520.93,
+      "change_pct": -0.37
     },
     "Nasdaq": {
-      "price": 24983.36,
-      "change_pct": -1.06
+      "price": 25065.88,
+      "change_pct": -0.73
     },
     "Dow Jones": {
-      "price": 52183.28,
-      "change_pct": -0.39
+      "price": 52231.89,
+      "change_pct": -0.3
     },
     "Russell 2000": {
-      "price": 2816.11,
-      "change_pct": -0.87
+      "price": 2821.38,
+      "change_pct": -0.69
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4037.8,
-      "change_pct": -2.11
+      "price": 4045.2,
+      "change_pct": -1.93
     },
     "Oil (WTI)": {
-      "price": 85.96,
-      "change_pct": 0.34
+      "price": 86.21,
+      "change_pct": 0.63
     },
     "Silver": {
-      "price": 51.37,
-      "change_pct": -3.52
+      "price": 51.56,
+      "change_pct": -3.16
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73348,
-      "change_pct": -1.7
+      "price": 73680,
+      "change_pct": -2.18
     },
     "ETH": {
-      "price": 2040.87,
-      "change_pct": -3.83
+      "price": 2050.08,
+      "change_pct": -3.87
     },
     "SOL": {
-      "price": 82.78,
-      "change_pct": -4.32
+      "price": 83.36,
+      "change_pct": -3.8
     },
     "BNB": {
-      "price": 673.53,
-      "change_pct": -1.92
+      "price": 679.53,
+      "change_pct": -1.73
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Here's the inflation breakdown for October 2026 \u2014 in one chart"
+      "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation"
     },
     {
       "source": "CNBC",
-      "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia\u2019s China problem"
+      "title": "Hegseth impeachment effort torpedoed in House"
     },
     {
       "source": "MarketWatch",
-      "title": "AMD\u2019s stock fades as investors weigh whether Nvidia\u2019s turmoil will mean lasting wins"
+      "title": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home"
+      "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?"
     }
   ]
 }
