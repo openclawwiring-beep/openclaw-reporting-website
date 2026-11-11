@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, November 10 2026  16:09 PT",
+  "generated_at": "Tuesday, November 10 2026  22:55 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -7,7 +7,7 @@
       "change_pct": -0.37
     },
     "Nasdaq": {
-      "price": 25065.88,
+      "price": 25065.87,
       "change_pct": -0.73
     },
     "Dow Jones": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 4045.2,
-      "change_pct": -1.93
+      "price": 4063.1,
+      "change_pct": 0.33
     },
     "Oil (WTI)": {
-      "price": 86.21,
-      "change_pct": 0.63
+      "price": 86.66,
+      "change_pct": -0.01
     },
     "Silver": {
-      "price": 51.56,
-      "change_pct": -3.16
+      "price": 52.95,
+      "change_pct": 1.16
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73680,
-      "change_pct": -2.18
+      "price": 73506,
+      "change_pct": -1.45
     },
     "ETH": {
-      "price": 2050.08,
-      "change_pct": -3.87
+      "price": 2052.09,
+      "change_pct": -3.03
     },
     "SOL": {
-      "price": 83.36,
-      "change_pct": -3.8
+      "price": 82.53,
+      "change_pct": -4.04
     },
     "BNB": {
-      "price": 679.53,
-      "change_pct": -1.73
+      "price": 676.62,
+      "change_pct": -1.74
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Hegseth impeachment effort torpedoed in House"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?"
+      "title": "Bessent reportedly moved to military base over Iranian threats on his life"
     },
     {
       "source": "MarketWatch",
       "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "One reason Children\u2019s Place is filing for bankruptcy? Not enough children."
     }
   ]
 }
