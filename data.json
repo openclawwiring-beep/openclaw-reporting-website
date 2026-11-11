@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, November 10 2026  22:55 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, November 11 2026  06:55 PT",
+  "market_status": "Live \u2014 as of 09:55 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7520.93,
-      "change_pct": -0.37
+      "price": 7581.3,
+      "change_pct": 0.78
     },
     "Nasdaq": {
-      "price": 25065.87,
-      "change_pct": -0.73
+      "price": 25365.12,
+      "change_pct": 1.18
     },
     "Dow Jones": {
-      "price": 52231.89,
-      "change_pct": -0.3
+      "price": 52197.16,
+      "change_pct": -0.07
     },
     "Russell 2000": {
-      "price": 2821.38,
-      "change_pct": -0.69
+      "price": 2836.77,
+      "change_pct": 0.55
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4063.1,
-      "change_pct": 0.33
+      "price": 4023.1,
+      "change_pct": -0.76
     },
     "Oil (WTI)": {
-      "price": 86.66,
-      "change_pct": -0.01
+      "price": 87.46,
+      "change_pct": 0.95
     },
     "Silver": {
-      "price": 52.95,
-      "change_pct": 1.16
+      "price": 52.28,
+      "change_pct": -0.46
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73506,
-      "change_pct": -1.45
+      "price": 73637,
+      "change_pct": -0.65
     },
     "ETH": {
-      "price": 2052.09,
-      "change_pct": -3.03
+      "price": 2054.61,
+      "change_pct": -1.03
     },
     "SOL": {
-      "price": 82.53,
-      "change_pct": -4.04
+      "price": 84.05,
+      "change_pct": 0.12
     },
     "BNB": {
-      "price": 676.62,
-      "change_pct": -1.74
+      "price": 680.6,
+      "change_pct": -0.99
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation"
+      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes"
     },
     {
       "source": "CNBC",
-      "title": "Bessent reportedly moved to military base over Iranian threats on his life"
+      "title": "CoreWeave CEO says 'new political reality' after midterms won't slow buildout"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?"
+      "title": "My friend hates her job but shuts down when I give her advice. How can I help her?"
     },
     {
       "source": "MarketWatch",
-      "title": "One reason Children\u2019s Place is filing for bankruptcy? Not enough children."
+      "title": "Forget happy hour. \u2018Money parties\u2019 are having a moment."
     }
   ]
 }
