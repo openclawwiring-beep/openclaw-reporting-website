@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, November 11 2026  06:55 PT",
-  "market_status": "Live \u2014 as of 09:55 ET",
+  "generated_at": "Wednesday, November 11 2026  13:44 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7581.3,
-      "change_pct": 0.78
+      "price": 7619.38,
+      "change_pct": 1.29
     },
     "Nasdaq": {
-      "price": 25365.12,
-      "change_pct": 1.18
+      "price": 25466.19,
+      "change_pct": 1.58
     },
     "Dow Jones": {
-      "price": 52197.16,
-      "change_pct": -0.07
+      "price": 52486.49,
+      "change_pct": 0.48
     },
     "Russell 2000": {
-      "price": 2836.77,
-      "change_pct": 0.55
+      "price": 2846.26,
+      "change_pct": 0.88
     }
   },
   "commodities": {
     "Gold": {
-      "price": 4023.1,
-      "change_pct": -0.76
+      "price": 3991.2,
+      "change_pct": -1.55
     },
     "Oil (WTI)": {
-      "price": 87.46,
-      "change_pct": 0.95
+      "price": 86.38,
+      "change_pct": -0.3
     },
     "Silver": {
-      "price": 52.28,
-      "change_pct": -0.46
+      "price": 51.69,
+      "change_pct": -1.57
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73637,
-      "change_pct": -0.65
+      "price": 74463,
+      "change_pct": 0.92
     },
     "ETH": {
-      "price": 2054.61,
-      "change_pct": -1.03
+      "price": 2074.52,
+      "change_pct": 0.88
     },
     "SOL": {
-      "price": 84.05,
-      "change_pct": 0.12
+      "price": 84.64,
+      "change_pct": 1.55
     },
     "BNB": {
-      "price": 680.6,
-      "change_pct": -0.99
+      "price": 686.01,
+      "change_pct": 1.38
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes"
+      "title": "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report"
     },
     {
       "source": "CNBC",
-      "title": "CoreWeave CEO says 'new political reality' after midterms won't slow buildout"
+      "title": "Canada\u2019s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment"
     },
     {
       "source": "MarketWatch",
-      "title": "My friend hates her job but shuts down when I give her advice. How can I help her?"
+      "title": "Falling oil prices are no longer enough to bring down borrowing costs in the world\u2019s most important bond market"
     },
     {
       "source": "MarketWatch",
-      "title": "Forget happy hour. \u2018Money parties\u2019 are having a moment."
+      "title": "Sandisk\u2019s stock just staged a big gain. Here\u2019s how it could march even higher."
     }
   ]
 }
