@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, November 12 2026  10:41 PT",
-  "market_status": "Live \u2014 as of 13:41 ET",
+  "generated_at": "Thursday, November 12 2026  15:57 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7624.55,
-      "change_pct": 0.09
+      "price": 7592.4,
+      "change_pct": -0.33
     },
     "Nasdaq": {
-      "price": 25467.67,
-      "change_pct": 0.01
+      "price": 25366.09,
+      "change_pct": -0.39
     },
     "Dow Jones": {
-      "price": 52565.78,
-      "change_pct": 0.17
+      "price": 52297.09,
+      "change_pct": -0.34
     },
     "Russell 2000": {
-      "price": 2819.92,
-      "change_pct": -0.91
+      "price": 2799.06,
+      "change_pct": -1.65
     }
   },
   "commodities": {
     "Gold": {
-      "price": 3884.1,
-      "change_pct": -2.42
+      "price": 3887.7,
+      "change_pct": -2.33
     },
     "Oil (WTI)": {
-      "price": 88.28,
-      "change_pct": 3.53
+      "price": 88.77,
+      "change_pct": 4.1
     },
     "Silver": {
-      "price": 50.12,
-      "change_pct": -2.54
+      "price": 50.06,
+      "change_pct": -2.66
     }
   },
   "crypto": {
     "BTC": {
-      "price": 71916,
-      "change_pct": -3.45
+      "price": 71390,
+      "change_pct": -3.54
     },
     "ETH": {
-      "price": 2021.64,
-      "change_pct": -3.07
+      "price": 2018.29,
+      "change_pct": -1.94
     },
     "SOL": {
-      "price": 81.7,
-      "change_pct": -4.05
+      "price": 81.69,
+      "change_pct": -1.98
     },
     "BNB": {
-      "price": 655.9,
-      "change_pct": -4.55
+      "price": 656.27,
+      "change_pct": -3.43
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia live updates: Jensen Huang agrees to testify before Congress following resignation"
+      "title": "Alice Huang tied to Nvidia\u2019s biggest Chinese competitor"
     },
     {
       "source": "CNBC",
-      "title": "Buy Nvidia with 'both hands' because the valuation is at 'stupid' levels, says analyst Meeks"
+      "title": "Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. inflation is already bad enough. It might get worse."
+      "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles."
     },
     {
       "source": "MarketWatch",
-      "title": "The 2027 401(k) limits are here. See how much more you can save next year."
+      "title": "Opening trading-card packs has become a $2 billion market"
     }
   ]
 }
