@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, November 11 2026  13:44 PT",
+  "generated_at": "Wednesday, November 11 2026  18:41 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3991.2,
-      "change_pct": -1.55
+      "price": 3992.8,
+      "change_pct": -1.51
     },
     "Oil (WTI)": {
-      "price": 86.38,
-      "change_pct": -0.3
+      "price": 85.92,
+      "change_pct": -0.83
     },
     "Silver": {
-      "price": 51.69,
-      "change_pct": -1.57
+      "price": 51.71,
+      "change_pct": -1.55
     }
   },
   "crypto": {
     "BTC": {
-      "price": 74463,
-      "change_pct": 0.92
+      "price": 73760,
+      "change_pct": 0.31
     },
     "ETH": {
-      "price": 2074.52,
-      "change_pct": 0.88
+      "price": 2055.36,
+      "change_pct": -0.11
     },
     "SOL": {
-      "price": 84.64,
-      "change_pct": 1.55
+      "price": 83.3,
+      "change_pct": -0.1
     },
     "BNB": {
-      "price": 686.01,
-      "change_pct": 1.38
+      "price": 679.24,
+      "change_pct": -0.2
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report"
+      "title": "Nvidia prepares to oust Jensen Huang, WSJ reports \u2014 stock sinks"
     },
     {
       "source": "CNBC",
-      "title": "Canada\u2019s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment"
+      "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports"
     },
     {
       "source": "MarketWatch",
-      "title": "Falling oil prices are no longer enough to bring down borrowing costs in the world\u2019s most important bond market"
+      "title": "I\u2019m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?"
     },
     {
       "source": "MarketWatch",
-      "title": "Sandisk\u2019s stock just staged a big gain. Here\u2019s how it could march even higher."
+      "title": "Nvidia\u2019s stock drops as the board reportedly prepares to remove CEO Jensen Huang"
     }
   ]
 }
