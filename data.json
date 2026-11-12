@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, November 11 2026  18:41 PT",
+  "generated_at": "Thursday, November 12 2026  02:39 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,48 +21,48 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3992.8,
-      "change_pct": -1.51
+      "price": 3950.8,
+      "change_pct": -0.75
     },
     "Oil (WTI)": {
-      "price": 85.92,
-      "change_pct": -0.83
+      "price": 85.83,
+      "change_pct": 0.66
     },
     "Silver": {
-      "price": 51.71,
-      "change_pct": -1.55
+      "price": 51.12,
+      "change_pct": -0.6
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73760,
-      "change_pct": 0.31
+      "price": 73480,
+      "change_pct": -0.76
     },
     "ETH": {
-      "price": 2055.36,
-      "change_pct": -0.11
+      "price": 2048.25,
+      "change_pct": -0.67
     },
     "SOL": {
-      "price": 83.3,
-      "change_pct": -0.1
+      "price": 83.18,
+      "change_pct": -0.97
     },
     "BNB": {
-      "price": 679.24,
-      "change_pct": -0.2
+      "price": 672.33,
+      "change_pct": -1.31
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia prepares to oust Jensen Huang, WSJ reports \u2014 stock sinks"
+      "title": "Nvidia stock falls 6% as investors await Jensen Huang\u2019s fate"
     },
     {
       "source": "CNBC",
-      "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports"
+      "title": "Nasdaq-100 futures slide, dragged lower as Nvidia sell-off resumes: Live updates"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?"
+      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?"
     },
     {
       "source": "MarketWatch",
