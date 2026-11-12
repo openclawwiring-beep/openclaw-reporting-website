@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, November 12 2026  02:39 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Thursday, November 12 2026  10:41 PT",
+  "market_status": "Live \u2014 as of 13:41 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7619.38,
-      "change_pct": 1.29
+      "price": 7624.55,
+      "change_pct": 0.09
     },
     "Nasdaq": {
-      "price": 25466.19,
-      "change_pct": 1.58
+      "price": 25467.67,
+      "change_pct": 0.01
     },
     "Dow Jones": {
-      "price": 52486.49,
-      "change_pct": 0.48
+      "price": 52565.78,
+      "change_pct": 0.17
     },
     "Russell 2000": {
-      "price": 2846.26,
-      "change_pct": 0.88
+      "price": 2819.92,
+      "change_pct": -0.91
     }
   },
   "commodities": {
     "Gold": {
-      "price": 3950.8,
-      "change_pct": -0.75
+      "price": 3884.1,
+      "change_pct": -2.42
     },
     "Oil (WTI)": {
-      "price": 85.83,
-      "change_pct": 0.66
+      "price": 88.28,
+      "change_pct": 3.53
     },
     "Silver": {
-      "price": 51.12,
-      "change_pct": -0.6
+      "price": 50.12,
+      "change_pct": -2.54
     }
   },
   "crypto": {
     "BTC": {
-      "price": 73480,
-      "change_pct": -0.76
+      "price": 71916,
+      "change_pct": -3.45
     },
     "ETH": {
-      "price": 2048.25,
-      "change_pct": -0.67
+      "price": 2021.64,
+      "change_pct": -3.07
     },
     "SOL": {
-      "price": 83.18,
-      "change_pct": -0.97
+      "price": 81.7,
+      "change_pct": -4.05
     },
     "BNB": {
-      "price": 672.33,
-      "change_pct": -1.31
+      "price": 655.9,
+      "change_pct": -4.55
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia stock falls 6% as investors await Jensen Huang\u2019s fate"
+      "title": "Nvidia live updates: Jensen Huang agrees to testify before Congress following resignation"
     },
     {
       "source": "CNBC",
-      "title": "Nasdaq-100 futures slide, dragged lower as Nvidia sell-off resumes: Live updates"
+      "title": "Buy Nvidia with 'both hands' because the valuation is at 'stupid' levels, says analyst Meeks"
     },
     {
       "source": "MarketWatch",
-      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?"
+      "title": "U.S. inflation is already bad enough. It might get worse."
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia\u2019s stock drops as the board reportedly prepares to remove CEO Jensen Huang"
+      "title": "The 2027 401(k) limits are here. See how much more you can save next year."
     }
   ]
 }
