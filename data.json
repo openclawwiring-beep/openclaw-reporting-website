@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, November 13 2026  23:50 PT",
+  "generated_at": "Saturday, November 14 2026  06:45 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 66999,
-      "change_pct": -2.44
+      "price": 65983,
+      "change_pct": -4.44
     },
     "ETH": {
-      "price": 1892.48,
-      "change_pct": -2.42
+      "price": 1852.15,
+      "change_pct": -5.52
     },
     "SOL": {
-      "price": 75.09,
-      "change_pct": -6.08
+      "price": 74.02,
+      "change_pct": -8.74
     },
     "BNB": {
-      "price": 614.55,
-      "change_pct": -2.63
+      "price": 599.4,
+      "change_pct": -6.29
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump doesn\u2019t plan to raise Nvidia, spy issue during China trip: U.S. officials"
+      "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed"
     },
     {
       "source": "CNBC",
-      "title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend"
+      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home"
     },
     {
       "source": "MarketWatch",
-      "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover"
+      "title": "U.S. air travel could take days to recover after FAA\u2019s lifting of rare nationwide ground stop"
     },
     {
       "source": "MarketWatch",
-      "title": "14 dividend stocks selected for long-term growth"
+      "title": "What\u2019s the most tax-efficient way to donate to charity?"
     }
   ]
 }
