@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, November 14 2026  06:45 PT",
+  "generated_at": "Saturday, November 14 2026  11:42 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65983,
-      "change_pct": -4.44
+      "price": 65592,
+      "change_pct": -4.97
     },
     "ETH": {
-      "price": 1852.15,
-      "change_pct": -5.52
+      "price": 1829.68,
+      "change_pct": -6.16
     },
     "SOL": {
-      "price": 74.02,
-      "change_pct": -8.74
+      "price": 72.18,
+      "change_pct": -9.88
     },
     "BNB": {
-      "price": 599.4,
-      "change_pct": -6.29
+      "price": 589.05,
+      "change_pct": -7.7
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed"
+      "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT\u2019s Duffy"
     },
     {
       "source": "CNBC",
-      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home"
+      "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. air travel could take days to recover after FAA\u2019s lifting of rare nationwide ground stop"
+      "title": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?"
     },
     {
       "source": "MarketWatch",
-      "title": "What\u2019s the most tax-efficient way to donate to charity?"
+      "title": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?"
     }
   ]
 }
