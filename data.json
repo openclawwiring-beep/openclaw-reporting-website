@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, November 13 2026  12:57 PT",
-  "market_status": "Live \u2014 as of 15:57 ET",
+  "generated_at": "Friday, November 13 2026  17:20 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7562.37,
-      "change_pct": -0.39
+      "price": 7561.67,
+      "change_pct": -0.4
     },
     "Nasdaq": {
-      "price": 25146.94,
-      "change_pct": -0.85
+      "price": 25136.27,
+      "change_pct": -0.9
     },
     "Dow Jones": {
-      "price": 52335.63,
-      "change_pct": 0.08
+      "price": 52347.55,
+      "change_pct": 0.1
     },
     "Russell 2000": {
-      "price": 2786.2,
-      "change_pct": -0.47
+      "price": 2790.49,
+      "change_pct": -0.32
     }
   },
   "commodities": {
     "Gold": {
-      "price": 3878.5,
-      "change_pct": -0.99
+      "price": 3887.6,
+      "change_pct": -0.75
     },
     "Oil (WTI)": {
-      "price": 88.86,
-      "change_pct": 0.69
+      "price": 88.92,
+      "change_pct": 0.76
     },
     "Silver": {
-      "price": 48.76,
-      "change_pct": -2.95
+      "price": 48.65,
+      "change_pct": -3.17
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68860,
-      "change_pct": -3.58
+      "price": 68186,
+      "change_pct": -3.88
     },
     "ETH": {
-      "price": 1947.59,
-      "change_pct": -3.29
+      "price": 1926.99,
+      "change_pct": -4.09
     },
     "SOL": {
-      "price": 80.02,
-      "change_pct": -1.62
+      "price": 77.34,
+      "change_pct": -5.03
     },
     "BNB": {
-      "price": 637.55,
-      "change_pct": -2.51
+      "price": 629.9,
+      "change_pct": -3.77
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Lutnick faces questions over Nvidia spy scandal. His sons\u2019 firm has deep ties to the chipmaker"
+      "title": "FAA grounds departing flights nationwide, citing air traffic communication system outage"
     },
     {
       "source": "CNBC",
-      "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services"
+      "title": "Trump doesn\u2019t plan to raise Nvidia, spy issue during China trip: U.S. officials"
     },
     {
       "source": "MarketWatch",
-      "title": "How to figure out a key question this open-enrollment season: Are you overpaying for health insurance?"
+      "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far"
     },
     {
       "source": "MarketWatch",
-      "title": "Jensen Huang was a \u2018China salesman\u2019 for Nvidia. His exit is weighing on Chinese tech stocks."
+      "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?"
     }
   ]
 }
