@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, November 13 2026  17:20 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, November 13 2026  23:50 PT",
+  "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 7561.67,
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3887.6,
-      "change_pct": -0.75
+      "price": 3886.3,
+      "change_pct": -0.79
     },
     "Oil (WTI)": {
-      "price": 88.92,
-      "change_pct": 0.76
+      "price": 88.56,
+      "change_pct": 0.35
     },
     "Silver": {
-      "price": 48.65,
-      "change_pct": -3.17
+      "price": 49.03,
+      "change_pct": -2.42
     }
   },
   "crypto": {
     "BTC": {
-      "price": 68186,
-      "change_pct": -3.88
+      "price": 66999,
+      "change_pct": -2.44
     },
     "ETH": {
-      "price": 1926.99,
-      "change_pct": -4.09
+      "price": 1892.48,
+      "change_pct": -2.42
     },
     "SOL": {
-      "price": 77.34,
-      "change_pct": -5.03
+      "price": 75.09,
+      "change_pct": -6.08
     },
     "BNB": {
-      "price": 629.9,
-      "change_pct": -3.77
+      "price": 614.55,
+      "change_pct": -2.63
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "FAA grounds departing flights nationwide, citing air traffic communication system outage"
-    },
-    {
-      "source": "CNBC",
       "title": "Trump doesn\u2019t plan to raise Nvidia, spy issue during China trip: U.S. officials"
     },
     {
-      "source": "MarketWatch",
-      "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far"
+      "source": "CNBC",
+      "title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?"
+      "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "14 dividend stocks selected for long-term growth"
     }
   ]
 }
