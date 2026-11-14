@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, November 14 2026  11:42 PT",
+  "generated_at": "Saturday, November 14 2026  15:37 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 65592,
-      "change_pct": -4.97
+      "price": 63583,
+      "change_pct": -6.65
     },
     "ETH": {
-      "price": 1829.68,
-      "change_pct": -6.16
+      "price": 1742.6,
+      "change_pct": -9.39
     },
     "SOL": {
-      "price": 72.18,
-      "change_pct": -9.88
+      "price": 69.18,
+      "change_pct": -11.22
     },
     "BNB": {
-      "price": 589.05,
-      "change_pct": -7.7
+      "price": 575.97,
+      "change_pct": -8.4
     }
   },
   "headlines": [
@@ -59,14 +59,6 @@
     {
       "source": "CNBC",
       "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "\u2018I\u2019m sick of flying\u2019: I paid for priority boarding, but the overhead bins were full. Was I duped?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?"
     }
   ]
 }
