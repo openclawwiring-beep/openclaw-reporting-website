@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, November 14 2026  20:54 PT",
+  "generated_at": "Sunday, November 15 2026  04:30 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -29,36 +29,36 @@
       "change_pct": 0.35
     },
     "Silver": {
-      "price": 49.03,
-      "change_pct": -2.42
+      "price": 49.12,
+      "change_pct": -2.24
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65075,
-      "change_pct": -2.93
+      "price": 65427,
+      "change_pct": -2.53
     },
     "ETH": {
-      "price": 1819.71,
-      "change_pct": -4.08
+      "price": 1829.26,
+      "change_pct": -4.04
     },
     "SOL": {
-      "price": 71.14,
-      "change_pct": -5.75
+      "price": 72.63,
+      "change_pct": -4.18
     },
     "BNB": {
-      "price": 595.98,
-      "change_pct": -3.31
+      "price": 597.15,
+      "change_pct": -2.91
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT\u2019s Duffy"
+      "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business"
     },
     {
       "source": "CNBC",
-      "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors"
+      "title": "Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright spot"
     },
     {
       "source": "MarketWatch",
