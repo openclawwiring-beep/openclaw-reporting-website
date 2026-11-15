@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, November 14 2026  15:37 PT",
+  "generated_at": "Saturday, November 14 2026  20:54 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 63583,
-      "change_pct": -6.65
+      "price": 65075,
+      "change_pct": -2.93
     },
     "ETH": {
-      "price": 1742.6,
-      "change_pct": -9.39
+      "price": 1819.71,
+      "change_pct": -4.08
     },
     "SOL": {
-      "price": 69.18,
-      "change_pct": -11.22
+      "price": 71.14,
+      "change_pct": -5.75
     },
     "BNB": {
-      "price": 575.97,
-      "change_pct": -8.4
+      "price": 595.98,
+      "change_pct": -3.31
     }
   },
   "headlines": [
@@ -59,6 +59,14 @@
     {
       "source": "CNBC",
       "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I\u2019m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?"
     }
   ]
 }
