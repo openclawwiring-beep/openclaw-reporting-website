@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, November 15 2026  15:27 PT",
+  "generated_at": "Sunday, November 15 2026  18:57 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3881.5,
+      "price": 3881.6,
       "change_pct": -0.12
     },
     "Oil (WTI)": {
-      "price": 88.31,
-      "change_pct": -0.28
+      "price": 87.85,
+      "change_pct": -0.8
     },
     "Silver": {
-      "price": 48.62,
-      "change_pct": -1.01
+      "price": 47.38,
+      "change_pct": -3.55
     }
   },
   "crypto": {
     "BTC": {
-      "price": 65088,
-      "change_pct": 2.05
+      "price": 65042,
+      "change_pct": 0.45
     },
     "ETH": {
-      "price": 1825.38,
-      "change_pct": 4.25
+      "price": 1822.04,
+      "change_pct": 0.57
     },
     "SOL": {
-      "price": 72.28,
-      "change_pct": 4.14
+      "price": 72.13,
+      "change_pct": 1.44
     },
     "BNB": {
-      "price": 594.66,
-      "change_pct": 2.98
+      "price": 594.26,
+      "change_pct": 0.34
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Bessent calls for \u2018dramatic shakeup\u2019 at Nvidia, urges outside CEO"
+      "title": "Tech world's calls for Jensen Huang to return to Nvidia are growing"
     },
     {
       "source": "CNBC",
-      "title": "Stock futures tick higher as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates"
+      "title": "China\u2019s slowdown deepens in October as industrial output, retail sales, investment miss estimates"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018It leaves me with a sour taste\u2019: My elderly mother gave our cousin $800 for a car repair. Should I be worried?"
     },
     {
       "source": "MarketWatch",
       "title": "Should a widow leave her late partner\u2019s home to her stepkids \u2014 or cut off contact with them?"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My older brother, who has no children, cut our only sister out of his will. I\u2019ll get everything. Do I tell her?"
     }
   ]
 }
