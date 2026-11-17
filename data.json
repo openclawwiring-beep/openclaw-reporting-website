@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, November 16 2026  19:24 PT",
+  "generated_at": "Tuesday, November 17 2026  04:16 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3875.8,
-      "change_pct": 0.15
+      "price": 3870.5,
+      "change_pct": -0.17
     },
     "Oil (WTI)": {
-      "price": 85.11,
-      "change_pct": -3.66
+      "price": 86.27,
+      "change_pct": 1.48
     },
     "Silver": {
-      "price": 47.46,
-      "change_pct": 0.29
+      "price": 47.61,
+      "change_pct": 0.26
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64716,
-      "change_pct": -0.69
+      "price": 64773,
+      "change_pct": 1.19
     },
     "ETH": {
-      "price": 1825.29,
-      "change_pct": 0.07
+      "price": 1811.08,
+      "change_pct": 0.93
     },
     "SOL": {
-      "price": 72.27,
-      "change_pct": -0.11
+      "price": 73.1,
+      "change_pct": 3.24
     },
     "BNB": {
-      "price": 592.47,
-      "change_pct": -0.35
+      "price": 592.6,
+      "change_pct": 0.99
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Trump\u2019s accounts traded up to $97.5 million in Nvidia as Huang gained White House access"
+      "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC"
     },
     {
       "source": "CNBC",
-      "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means"
+      "title": "Trump has arrived in Asia. Here\u2019s what he said about Iran and Deutsche Bank"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
+      "title": "\u2018It is heartbreaking, exhausting and downright dirty\u2019: My brother took over our ailing mother\u2019s life and finances. What can I do?"
     },
     {
       "source": "MarketWatch",
-      "title": "United Airlines resolves system outage that delayed flights Monday"
+      "title": "Pick the two sectors where earnings growth will accelerate \u2014 as long as the 10-year stays below this key level, say strategists"
     }
   ]
 }
