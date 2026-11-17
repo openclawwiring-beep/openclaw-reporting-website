@@ -1,72 +1,72 @@
 {
-  "generated_at": "Tuesday, November 17 2026  04:16 PT",
+  "generated_at": "Tuesday, November 17 2026  13:11 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7416.59,
-      "change_pct": -1.91
+      "price": 7340.53,
+      "change_pct": -1.07
     },
     "Nasdaq": {
-      "price": 24509.76,
-      "change_pct": -2.47
+      "price": 24328.38,
+      "change_pct": -0.77
     },
     "Dow Jones": {
-      "price": 51608.17,
-      "change_pct": -1.4
+      "price": 50759.42,
+      "change_pct": -1.68
     },
     "Russell 2000": {
-      "price": 2742.94,
-      "change_pct": -1.69
+      "price": 2700.67,
+      "change_pct": -1.56
     }
   },
   "commodities": {
     "Gold": {
-      "price": 3870.5,
-      "change_pct": -0.17
+      "price": 3852.0,
+      "change_pct": -0.65
     },
     "Oil (WTI)": {
-      "price": 86.27,
-      "change_pct": 1.48
+      "price": 85.68,
+      "change_pct": 0.79
     },
     "Silver": {
-      "price": 47.61,
-      "change_pct": 0.26
+      "price": 47.22,
+      "change_pct": -0.56
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64773,
-      "change_pct": 1.19
+      "price": 63950,
+      "change_pct": -1.53
     },
     "ETH": {
-      "price": 1811.08,
-      "change_pct": 0.93
+      "price": 1796.68,
+      "change_pct": -1.18
     },
     "SOL": {
-      "price": 73.1,
-      "change_pct": 3.24
+      "price": 73.08,
+      "change_pct": 2.37
     },
     "BNB": {
-      "price": 592.6,
-      "change_pct": 0.99
+      "price": 589.11,
+      "change_pct": -0.39
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC"
+      "title": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster"
     },
     {
       "source": "CNBC",
-      "title": "Trump has arrived in Asia. Here\u2019s what he said about Iran and Deutsche Bank"
+      "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It is heartbreaking, exhausting and downright dirty\u2019: My brother took over our ailing mother\u2019s life and finances. What can I do?"
+      "title": "\u2018It leaves me with a sour taste\u2019: My elderly mother gave our cousin $800 for a car repair. Should I be worried?"
     },
     {
       "source": "MarketWatch",
-      "title": "Pick the two sectors where earnings growth will accelerate \u2014 as long as the 10-year stays below this key level, say strategists"
+      "title": "Summit Therapeutics\u2019 stock tumbles again as FDA recommends new trial for lung-cancer drug"
     }
   ]
 }
