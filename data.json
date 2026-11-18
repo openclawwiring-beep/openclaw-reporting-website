@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, November 18 2026  04:03 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Wednesday, November 18 2026  12:47 PT",
+  "market_status": "Live \u2014 as of 15:47 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7340.53,
-      "change_pct": -1.07
+      "price": 7325.06,
+      "change_pct": -0.21
     },
     "Nasdaq": {
-      "price": 24328.38,
-      "change_pct": -0.77
+      "price": 24412.75,
+      "change_pct": 0.37
     },
     "Dow Jones": {
-      "price": 50759.42,
-      "change_pct": -1.68
+      "price": 50210.6,
+      "change_pct": -1.08
     },
     "Russell 2000": {
-      "price": 2701.87,
-      "change_pct": -1.51
+      "price": 2716.21,
+      "change_pct": 0.48
     }
   },
   "commodities": {
     "Gold": {
-      "price": 3763.2,
-      "change_pct": -0.62
+      "price": 3731.7,
+      "change_pct": -1.46
     },
     "Oil (WTI)": {
-      "price": 83.9,
-      "change_pct": -0.99
+      "price": 82.06,
+      "change_pct": -3.16
     },
     "Silver": {
-      "price": 45.54,
-      "change_pct": -0.59
+      "price": 44.98,
+      "change_pct": -1.81
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64108,
-      "change_pct": -1.18
+      "price": 62453,
+      "change_pct": -2.27
     },
     "ETH": {
-      "price": 1795.84,
-      "change_pct": -1.17
+      "price": 1747.71,
+      "change_pct": -2.7
     },
     "SOL": {
-      "price": 74.31,
-      "change_pct": 1.33
+      "price": 72.88,
+      "change_pct": -0.03
     },
     "BNB": {
-      "price": 588.83,
-      "change_pct": -0.75
+      "price": 577.78,
+      "change_pct": -1.85
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia\u2019s Kress faces a divided workforce as some employees push for Huang\u2019s return"
+      "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say"
     },
     {
       "source": "CNBC",
-      "title": "Trump lands in China for historic meeting with Xi, Putin"
+      "title": "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands meeting since Jensen Huang exit"
     },
     {
       "source": "MarketWatch",
-      "title": "The Fed is tightening, the economy is slowing \u2014 and that\u2019s the perfect setup to buy bonds, this trader argues"
+      "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI"
     },
     {
       "source": "MarketWatch",
-      "title": "Target is seeing a revival \u2014\u00a0but it still needs to work on shoes and women\u2019s clothing"
+      "title": "Grand Theft Callout: \u2018GTA 6\u2019 fans are missing work to play \u2014 and some companies are making the game\u2019s release a holiday"
     }
   ]
 }
