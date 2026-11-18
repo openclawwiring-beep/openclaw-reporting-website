@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, November 17 2026  13:11 PT",
+  "generated_at": "Tuesday, November 17 2026  19:01 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -15,58 +15,58 @@
       "change_pct": -1.68
     },
     "Russell 2000": {
-      "price": 2700.67,
-      "change_pct": -1.56
+      "price": 2701.87,
+      "change_pct": -1.51
     }
   },
   "commodities": {
     "Gold": {
-      "price": 3852.0,
-      "change_pct": -0.65
+      "price": 3799.3,
+      "change_pct": -2.01
     },
     "Oil (WTI)": {
-      "price": 85.68,
-      "change_pct": 0.79
+      "price": 85.04,
+      "change_pct": 0.04
     },
     "Silver": {
-      "price": 47.22,
-      "change_pct": -0.56
+      "price": 46.01,
+      "change_pct": -3.11
     }
   },
   "crypto": {
     "BTC": {
-      "price": 63950,
-      "change_pct": -1.53
+      "price": 64265,
+      "change_pct": -0.32
     },
     "ETH": {
-      "price": 1796.68,
-      "change_pct": -1.18
+      "price": 1802.14,
+      "change_pct": -0.62
     },
     "SOL": {
-      "price": 73.08,
-      "change_pct": 2.37
+      "price": 74.46,
+      "change_pct": 3.83
     },
     "BNB": {
-      "price": 589.11,
-      "change_pct": -0.39
+      "price": 591.36,
+      "change_pct": 0.24
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster"
+      "title": "Nvidia\u2019s Kress tells CNBC's Jim Cramer that 'customers continue to be with us\u2019"
     },
     {
       "source": "CNBC",
-      "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything"
+      "title": "China\u2019s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018It leaves me with a sour taste\u2019: My elderly mother gave our cousin $800 for a car repair. Should I be worried?"
+      "title": "CoreWeave\u2019s stock pops \u2014 even as Nvidia talks up a \u2018disciplined\u2019 approach to financing"
     },
     {
       "source": "MarketWatch",
-      "title": "Summit Therapeutics\u2019 stock tumbles again as FDA recommends new trial for lung-cancer drug"
+      "title": "Medicare Part B premiums rise due higher healthcare spending"
     }
   ]
 }
