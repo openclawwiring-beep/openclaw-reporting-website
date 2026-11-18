@@ -1,5 +1,5 @@
 {
-  "generated_at": "Tuesday, November 17 2026  19:01 PT",
+  "generated_at": "Wednesday, November 18 2026  04:03 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3799.3,
-      "change_pct": -2.01
+      "price": 3763.2,
+      "change_pct": -0.62
     },
     "Oil (WTI)": {
-      "price": 85.04,
-      "change_pct": 0.04
+      "price": 83.9,
+      "change_pct": -0.99
     },
     "Silver": {
-      "price": 46.01,
-      "change_pct": -3.11
+      "price": 45.54,
+      "change_pct": -0.59
     }
   },
   "crypto": {
     "BTC": {
-      "price": 64265,
-      "change_pct": -0.32
+      "price": 64108,
+      "change_pct": -1.18
     },
     "ETH": {
-      "price": 1802.14,
-      "change_pct": -0.62
+      "price": 1795.84,
+      "change_pct": -1.17
     },
     "SOL": {
-      "price": 74.46,
-      "change_pct": 3.83
+      "price": 74.31,
+      "change_pct": 1.33
     },
     "BNB": {
-      "price": 591.36,
-      "change_pct": 0.24
+      "price": 588.83,
+      "change_pct": -0.75
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nvidia\u2019s Kress tells CNBC's Jim Cramer that 'customers continue to be with us\u2019"
+      "title": "Nvidia\u2019s Kress faces a divided workforce as some employees push for Huang\u2019s return"
     },
     {
       "source": "CNBC",
-      "title": "China\u2019s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin"
+      "title": "Trump lands in China for historic meeting with Xi, Putin"
     },
     {
       "source": "MarketWatch",
-      "title": "CoreWeave\u2019s stock pops \u2014 even as Nvidia talks up a \u2018disciplined\u2019 approach to financing"
+      "title": "The Fed is tightening, the economy is slowing \u2014 and that\u2019s the perfect setup to buy bonds, this trader argues"
     },
     {
       "source": "MarketWatch",
-      "title": "Medicare Part B premiums rise due higher healthcare spending"
+      "title": "Target is seeing a revival \u2014\u00a0but it still needs to work on shoes and women\u2019s clothing"
     }
   ]
 }
