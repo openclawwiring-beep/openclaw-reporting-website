@@ -1,5 +1,5 @@
 {
-  "generated_at": "Thursday, November 19 2026  17:23 PT",
+  "generated_at": "Friday, November 20 2026  00:53 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3607.2,
-      "change_pct": -3.14
+      "price": 3586.2,
+      "change_pct": 1.51
     },
     "Oil (WTI)": {
-      "price": 82.7,
-      "change_pct": 0.58
+      "price": 81.3,
+      "change_pct": -2.04
     },
     "Silver": {
-      "price": 42.54,
-      "change_pct": -5.64
+      "price": 42.51,
+      "change_pct": 2.78
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62409,
-      "change_pct": -0.69
+      "price": 61845,
+      "change_pct": -2.63
     },
     "ETH": {
-      "price": 1762.86,
-      "change_pct": -0.87
+      "price": 1753.43,
+      "change_pct": -2.47
     },
     "SOL": {
-      "price": 73.16,
-      "change_pct": -0.22
+      "price": 72.57,
+      "change_pct": -2.38
     },
     "BNB": {
-      "price": 579.79,
-      "change_pct": -0.39
+      "price": 572.05,
+      "change_pct": -2.82
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI"
+      "title": "Nasdaq futures fall after Anthropic fails to lift market sentiment: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "AMD dives on short seller report of alleged China exposure"
+      "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI"
     },
     {
       "source": "MarketWatch",
-      "title": "After Anthropic\u2019s \u2018bittersweet\u2019 IPO, here\u2019s what lies ahead"
+      "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm?"
     },
     {
       "source": "MarketWatch",
-      "title": "These were the only stocks that rose amid the stock market\u2019s wipeout Thursday"
+      "title": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?"
     }
   ]
 }
