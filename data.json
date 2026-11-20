@@ -1,72 +1,72 @@
 {
-  "generated_at": "Thursday, November 19 2026  11:21 PT",
-  "market_status": "Live \u2014 as of 14:21 ET",
+  "generated_at": "Thursday, November 19 2026  17:23 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7210.6,
-      "change_pct": -1.53
+      "price": 7175.83,
+      "change_pct": -2.0
     },
     "Nasdaq": {
-      "price": 24030.01,
-      "change_pct": -1.62
+      "price": 23879.2,
+      "change_pct": -2.24
     },
     "Dow Jones": {
-      "price": 49299.39,
-      "change_pct": -1.78
+      "price": 49097.06,
+      "change_pct": -2.18
     },
     "Russell 2000": {
-      "price": 2670.09,
-      "change_pct": -1.64
+      "price": 2655.11,
+      "change_pct": -2.19
     }
   },
   "commodities": {
     "Gold": {
-      "price": 3675.8,
-      "change_pct": -1.3
+      "price": 3607.2,
+      "change_pct": -3.14
     },
     "Oil (WTI)": {
-      "price": 83.03,
-      "change_pct": 0.99
+      "price": 82.7,
+      "change_pct": 0.58
     },
     "Silver": {
-      "price": 44.2,
-      "change_pct": -1.96
+      "price": 42.54,
+      "change_pct": -5.64
     }
   },
   "crypto": {
     "BTC": {
-      "price": 62670,
-      "change_pct": -0.18
+      "price": 62409,
+      "change_pct": -0.69
     },
     "ETH": {
-      "price": 1774.1,
-      "change_pct": 0.8
+      "price": 1762.86,
+      "change_pct": -0.87
     },
     "SOL": {
-      "price": 73.74,
-      "change_pct": 0.4
+      "price": 73.16,
+      "change_pct": -0.22
     },
     "BNB": {
-      "price": 585.14,
-      "change_pct": 0.72
+      "price": 579.79,
+      "change_pct": -0.39
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap after record offering"
+      "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI"
     },
     {
       "source": "CNBC",
-      "title": "Dow dives 900 points as Anthropic IPO milestone causes investors to take profits: Live updates"
+      "title": "AMD dives on short seller report of alleged China exposure"
     },
     {
       "source": "MarketWatch",
-      "title": "We\u2019re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?"
+      "title": "After Anthropic\u2019s \u2018bittersweet\u2019 IPO, here\u2019s what lies ahead"
     },
     {
       "source": "MarketWatch",
-      "title": "The surprising reason the U.S. economy is speeding up \u2014 and might have more room to run"
+      "title": "These were the only stocks that rose amid the stock market\u2019s wipeout Thursday"
     }
   ]
 }
