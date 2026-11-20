@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, November 20 2026  00:53 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, November 20 2026  09:32 PT",
+  "market_status": "Live \u2014 as of 12:32 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7175.83,
-      "change_pct": -2.0
+      "price": 7031.28,
+      "change_pct": -2.04
     },
     "Nasdaq": {
-      "price": 23879.2,
-      "change_pct": -2.24
+      "price": 23071.07,
+      "change_pct": -3.4
     },
     "Dow Jones": {
-      "price": 49097.06,
-      "change_pct": -2.18
+      "price": 48826.26,
+      "change_pct": -0.58
     },
     "Russell 2000": {
-      "price": 2655.11,
-      "change_pct": -2.19
+      "price": 2609.48,
+      "change_pct": -1.76
     }
   },
   "commodities": {
     "Gold": {
-      "price": 3586.2,
-      "change_pct": 1.51
+      "price": 3524.7,
+      "change_pct": -0.23
     },
     "Oil (WTI)": {
-      "price": 81.3,
-      "change_pct": -2.04
+      "price": 82.47,
+      "change_pct": -0.63
     },
     "Silver": {
-      "price": 42.51,
-      "change_pct": 2.78
+      "price": 40.97,
+      "change_pct": -0.93
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61845,
-      "change_pct": -2.63
+      "price": 59222,
+      "change_pct": -6.0
     },
     "ETH": {
-      "price": 1753.43,
-      "change_pct": -2.47
+      "price": 1629.9,
+      "change_pct": -8.25
     },
     "SOL": {
-      "price": 72.57,
-      "change_pct": -2.38
+      "price": 69.05,
+      "change_pct": -6.57
     },
     "BNB": {
-      "price": 572.05,
-      "change_pct": -2.82
+      "price": 541.9,
+      "change_pct": -7.61
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nasdaq futures fall after Anthropic fails to lift market sentiment: Live updates"
+      "title": "S&P 500 and Dow enter correction, Nasdaq wipes out 2026 gain as Anthropic leads AI sell-off: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI"
+      "title": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says"
     },
     {
       "source": "MarketWatch",
-      "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm?"
+      "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?"
+      "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who\u2019s right?"
     }
   ]
 }
