@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, November 21 2026  06:14 PT",
+  "generated_at": "Saturday, November 21 2026  12:37 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,30 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60375,
-      "change_pct": -2.32
+      "price": 60342,
+      "change_pct": 3.69
     },
     "ETH": {
-      "price": 1694.98,
-      "change_pct": -3.15
+      "price": 1683.39,
+      "change_pct": 6.01
     },
     "SOL": {
-      "price": 70.43,
-      "change_pct": -1.11
+      "price": 70.47,
+      "change_pct": 4.55
     },
     "BNB": {
-      "price": 546.91,
-      "change_pct": -3.9
+      "price": 548.08,
+      "change_pct": 3.09
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 correction: Five forces behind the market sell-off"
+      "title": "Anthropic\u2019s record IPO collides with tech\u2019s worst week on Wall Street since 2020"
     },
     {
       "source": "CNBC",
-      "title": "Tech outages are fueling a new doomsday economy"
+      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018It\u2019s downright dirty\u2019: My brother moved in with our ailing mother and closed her bank account. What can I do?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?"
     }
   ]
 }
