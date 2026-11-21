@@ -1,6 +1,6 @@
 {
-  "generated_at": "Friday, November 20 2026  15:41 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, November 20 2026  21:43 PT",
+  "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 6910.39,
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3539.0,
-      "change_pct": 0.17
+      "price": 3515.4,
+      "change_pct": -0.5
     },
     "Oil (WTI)": {
-      "price": 83.62,
-      "change_pct": 0.76
+      "price": 83.98,
+      "change_pct": 1.19
     },
     "Silver": {
-      "price": 41.08,
-      "change_pct": -0.68
+      "price": 41.03,
+      "change_pct": -0.79
     }
   },
   "crypto": {
     "BTC": {
-      "price": 58931,
-      "change_pct": -4.54
+      "price": 55827,
+      "change_pct": -9.41
     },
     "ETH": {
-      "price": 1621.3,
-      "change_pct": -7.27
+      "price": 1559.54,
+      "change_pct": -9.77
     },
     "SOL": {
-      "price": 69.18,
-      "change_pct": -5.19
+      "price": 65.4,
+      "change_pct": -9.53
     },
     "BNB": {
-      "price": 539.52,
-      "change_pct": -6.75
+      "price": 511.62,
+      "change_pct": -9.92
     }
   },
   "headlines": [
@@ -62,11 +62,11 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020"
+      "title": "Tech outages are rattling Americans so much that they\u2019re stockpiling cash and supplies"
     },
     {
       "source": "MarketWatch",
-      "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade"
+      "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020"
     }
   ]
 }
