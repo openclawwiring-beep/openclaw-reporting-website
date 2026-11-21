@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, November 20 2026  21:43 PT",
+  "generated_at": "Saturday, November 21 2026  06:14 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,30 @@
   },
   "crypto": {
     "BTC": {
-      "price": 55827,
-      "change_pct": -9.41
+      "price": 60375,
+      "change_pct": -2.32
     },
     "ETH": {
-      "price": 1559.54,
-      "change_pct": -9.77
+      "price": 1694.98,
+      "change_pct": -3.15
     },
     "SOL": {
-      "price": 65.4,
-      "change_pct": -9.53
+      "price": 70.43,
+      "change_pct": -1.11
     },
     "BNB": {
-      "price": 511.62,
-      "change_pct": -9.92
+      "price": 546.91,
+      "change_pct": -3.9
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam"
+      "title": "S&P 500 correction: Five forces behind the market sell-off"
     },
     {
       "source": "CNBC",
-      "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tech outages are rattling Americans so much that they\u2019re stockpiling cash and supplies"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020"
+      "title": "Tech outages are fueling a new doomsday economy"
     }
   ]
 }
