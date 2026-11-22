@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, November 21 2026  23:52 PT",
+  "generated_at": "Sunday, November 22 2026  07:55 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 59044,
-      "change_pct": 2.02
+      "price": 60874,
+      "change_pct": 1.7
     },
     "ETH": {
-      "price": 1664.78,
-      "change_pct": 2.21
+      "price": 1717.27,
+      "change_pct": 2.11
     },
     "SOL": {
-      "price": 69.16,
-      "change_pct": 2.5
+      "price": 70.29,
+      "change_pct": -0.05
     },
     "BNB": {
-      "price": 539.92,
-      "change_pct": 2.98
+      "price": 556.67,
+      "change_pct": 1.95
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Anthropic\u2019s record IPO collides with tech\u2019s worst week on Wall Street since 2020"
+      "title": "Tech outages are fueling a new doomsday economy"
     },
     {
       "source": "CNBC",
-      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack"
+      "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem"
     },
     {
       "source": "MarketWatch",
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
+      "title": "Corporate America hunts for \u2018generational\u2019 growth in AI, trading cards and the L.A. airport"
     },
     {
       "source": "MarketWatch",
-      "title": "My wife is bankrolling her family\u2019s trips to New York and it\u2019s draining our savings. Should I ask her to stop?"
+      "title": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next."
     }
   ]
 }
