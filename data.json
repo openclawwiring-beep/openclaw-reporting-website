@@ -1,5 +1,5 @@
 {
-  "generated_at": "Saturday, November 21 2026  16:57 PT",
+  "generated_at": "Saturday, November 21 2026  23:52 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -25,30 +25,30 @@
       "change_pct": -0.5
     },
     "Oil (WTI)": {
-      "price": 83.98,
-      "change_pct": 1.19
+      "price": 83.41,
+      "change_pct": 0.51
     },
     "Silver": {
-      "price": 41.03,
-      "change_pct": -0.79
+      "price": 41.07,
+      "change_pct": -0.7
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60080,
-      "change_pct": 1.85
+      "price": 59044,
+      "change_pct": 2.02
     },
     "ETH": {
-      "price": 1680.55,
-      "change_pct": 3.64
+      "price": 1664.78,
+      "change_pct": 2.21
     },
     "SOL": {
-      "price": 70.19,
-      "change_pct": 1.89
+      "price": 69.16,
+      "change_pct": 2.5
     },
     "BNB": {
-      "price": 548.9,
-      "change_pct": 1.76
+      "price": 539.92,
+      "change_pct": 2.98
     }
   },
   "headlines": [
@@ -59,6 +59,14 @@
     {
       "source": "CNBC",
       "title": "Trump says there could be a 'positive spin' from the latest FBI database hack"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife is bankrolling her family\u2019s trips to New York and it\u2019s draining our savings. Should I ask her to stop?"
     }
   ]
 }
