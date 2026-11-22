@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, November 22 2026  07:55 PT",
+  "generated_at": "Sunday, November 22 2026  13:33 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -35,38 +35,38 @@
   },
   "crypto": {
     "BTC": {
-      "price": 60874,
-      "change_pct": 1.7
+      "price": 60916,
+      "change_pct": 0.99
     },
     "ETH": {
-      "price": 1717.27,
-      "change_pct": 2.11
+      "price": 1722.84,
+      "change_pct": 2.34
     },
     "SOL": {
-      "price": 70.29,
-      "change_pct": -0.05
+      "price": 70.27,
+      "change_pct": -0.18
     },
     "BNB": {
-      "price": 556.67,
-      "change_pct": 1.95
+      "price": 557.18,
+      "change_pct": 1.65
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Tech outages are fueling a new doomsday economy"
+      "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages"
     },
     {
       "source": "CNBC",
-      "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem"
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens"
     },
     {
       "source": "MarketWatch",
-      "title": "Corporate America hunts for \u2018generational\u2019 growth in AI, trading cards and the L.A. airport"
+      "title": "Ron Johnson\u2019s Social Security gaffe buried important news"
     },
     {
       "source": "MarketWatch",
-      "title": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next."
+      "title": "Social Security should be shut down, this Republican senator says"
     }
   ]
 }
