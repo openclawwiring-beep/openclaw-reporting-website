@@ -1,5 +1,5 @@
 {
-  "generated_at": "Sunday, November 22 2026  13:33 PT",
+  "generated_at": "Sunday, November 22 2026  18:14 PT",
   "market_status": "Friday close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3515.4,
-      "change_pct": -0.5
+      "price": 3599.5,
+      "change_pct": 2.39
     },
     "Oil (WTI)": {
-      "price": 83.41,
-      "change_pct": 0.51
+      "price": 83.29,
+      "change_pct": -0.14
     },
     "Silver": {
-      "price": 41.07,
-      "change_pct": -0.7
+      "price": 42.06,
+      "change_pct": 2.4
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60916,
-      "change_pct": 0.99
+      "price": 60749,
+      "change_pct": 1.33
     },
     "ETH": {
-      "price": 1722.84,
-      "change_pct": 2.34
+      "price": 1706.81,
+      "change_pct": 1.4
     },
     "SOL": {
-      "price": 70.27,
-      "change_pct": -0.18
+      "price": 70.32,
+      "change_pct": 0.12
     },
     "BNB": {
-      "price": 557.18,
-      "change_pct": 1.65
+      "price": 554.95,
+      "change_pct": 1.23
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens"
+      "title": "S&P 500 futures rebound sharply to rise 2%, kick-starting shortened week after tech rout: Live updates"
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Corporate America hunts for \u2018generational\u2019 growth in AI, trading cards and the L.A. airport"
     },
     {
       "source": "MarketWatch",
       "title": "Ron Johnson\u2019s Social Security gaffe buried important news"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Social Security should be shut down, this Republican senator says"
     }
   ]
 }
