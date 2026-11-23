@@ -1,6 +1,6 @@
 {
-  "generated_at": "Sunday, November 22 2026  18:14 PT",
-  "market_status": "Friday close \u2014 market closed",
+  "generated_at": "Monday, November 23 2026  03:01 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
       "price": 6910.39,
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3599.5,
-      "change_pct": 2.39
+      "price": 3624.7,
+      "change_pct": 0.47
     },
     "Oil (WTI)": {
-      "price": 83.29,
-      "change_pct": -0.14
+      "price": 82.61,
+      "change_pct": -1.03
     },
     "Silver": {
-      "price": 42.06,
-      "change_pct": 2.4
+      "price": 42.51,
+      "change_pct": 1.05
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60749,
-      "change_pct": 1.33
+      "price": 61375,
+      "change_pct": 0.99
     },
     "ETH": {
-      "price": 1706.81,
-      "change_pct": 1.4
+      "price": 1723.54,
+      "change_pct": 0.95
     },
     "SOL": {
-      "price": 70.32,
-      "change_pct": 0.12
+      "price": 72.28,
+      "change_pct": 2.46
     },
     "BNB": {
-      "price": 554.95,
-      "change_pct": 1.23
+      "price": 556.07,
+      "change_pct": 0.82
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages"
+      "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff"
     },
     {
       "source": "CNBC",
-      "title": "S&P 500 futures rebound sharply to rise 2%, kick-starting shortened week after tech rout: Live updates"
+      "title": "CrowdStrike bets on network security with $43.9 billion Zscaler deal"
     },
     {
       "source": "MarketWatch",
-      "title": "Corporate America hunts for \u2018generational\u2019 growth in AI, trading cards and the L.A. airport"
+      "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says"
     },
     {
       "source": "MarketWatch",
-      "title": "Ron Johnson\u2019s Social Security gaffe buried important news"
+      "title": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang"
     }
   ]
 }
