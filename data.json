@@ -1,72 +1,72 @@
 {
-  "generated_at": "Monday, November 23 2026  03:01 PT",
+  "generated_at": "Monday, November 23 2026  14:49 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 6910.39,
-      "change_pct": -3.72
+      "price": 7237.17,
+      "change_pct": 4.61
     },
     "Nasdaq": {
-      "price": 22617.73,
-      "change_pct": -5.29
+      "price": 24089.56,
+      "change_pct": 6.35
     },
     "Dow Jones": {
-      "price": 48147.33,
-      "change_pct": -1.97
+      "price": 49595.31,
+      "change_pct": 2.93
     },
     "Russell 2000": {
-      "price": 2581.79,
-      "change_pct": -2.8
+      "price": 2669.66,
+      "change_pct": 3.38
     }
   },
   "commodities": {
     "Gold": {
-      "price": 3624.7,
-      "change_pct": 0.47
+      "price": 3634.4,
+      "change_pct": 0.73
     },
     "Oil (WTI)": {
-      "price": 82.61,
-      "change_pct": -1.03
+      "price": 80.25,
+      "change_pct": -3.86
     },
     "Silver": {
-      "price": 42.51,
-      "change_pct": 1.05
+      "price": 42.99,
+      "change_pct": 2.19
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61375,
-      "change_pct": 0.99
+      "price": 61047,
+      "change_pct": 0.47
     },
     "ETH": {
-      "price": 1723.54,
-      "change_pct": 0.95
+      "price": 1705.3,
+      "change_pct": -0.4
     },
     "SOL": {
-      "price": 72.28,
-      "change_pct": 2.46
+      "price": 71.68,
+      "change_pct": 2.34
     },
     "BNB": {
-      "price": 556.07,
-      "change_pct": 0.82
+      "price": 554.71,
+      "change_pct": -0.07
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff"
+      "title": "Nvidia surge: What investors should do with the stock and the AI trade now"
     },
     {
       "source": "CNBC",
-      "title": "CrowdStrike bets on network security with $43.9 billion Zscaler deal"
+      "title": "Peterson: Here\u2019s what Bessent\u2019s about-face on Jensen Huang reveals about Trump and China"
     },
     {
       "source": "MarketWatch",
-      "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says"
+      "title": "Nvidia\u2019s stock is surging again. What to know before chasing the AI rally."
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia stock bounces as Trump administration pushes for rehiring of Jensen Huang"
+      "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm"
     }
   ]
 }
