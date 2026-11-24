@@ -1,5 +1,5 @@
 {
-  "generated_at": "Monday, November 23 2026  14:49 PT",
+  "generated_at": "Monday, November 23 2026  22:45 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,34 +21,34 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3634.4,
-      "change_pct": 0.73
+      "price": 3619.5,
+      "change_pct": -0.29
     },
     "Oil (WTI)": {
-      "price": 80.25,
-      "change_pct": -3.86
+      "price": 79.7,
+      "change_pct": -0.11
     },
     "Silver": {
-      "price": 42.99,
-      "change_pct": 2.19
+      "price": 42.01,
+      "change_pct": -0.92
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61047,
-      "change_pct": 0.47
+      "price": 60438,
+      "change_pct": -1.57
     },
     "ETH": {
-      "price": 1705.3,
-      "change_pct": -0.4
+      "price": 1699.93,
+      "change_pct": -1.26
     },
     "SOL": {
-      "price": 71.68,
-      "change_pct": 2.34
+      "price": 71.71,
+      "change_pct": -0.05
     },
     "BNB": {
-      "price": 554.71,
-      "change_pct": -0.07
+      "price": 552.34,
+      "change_pct": -0.86
     }
   },
   "headlines": [
@@ -58,15 +58,15 @@
     },
     {
       "source": "CNBC",
-      "title": "Peterson: Here\u2019s what Bessent\u2019s about-face on Jensen Huang reveals about Trump and China"
+      "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions"
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia\u2019s stock is surging again. What to know before chasing the AI rally."
+      "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?"
     },
     {
       "source": "MarketWatch",
-      "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm"
+      "title": "HPE just posted its strongest growth ever \u2014 but its stock is sinking"
     }
   ]
 }
