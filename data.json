@@ -1,72 +1,72 @@
 {
-  "generated_at": "Wednesday, November 25 2026  04:12 PT",
+  "generated_at": "Wednesday, November 25 2026  13:54 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7201.09,
-      "change_pct": -0.49
+      "price": 7182.78,
+      "change_pct": -0.27
     },
     "Nasdaq": {
-      "price": 23733.54,
-      "change_pct": -1.49
+      "price": 23585.8,
+      "change_pct": -0.63
     },
     "Dow Jones": {
-      "price": 50018.7,
-      "change_pct": 0.84
+      "price": 50182.95,
+      "change_pct": 0.31
     },
     "Russell 2000": {
-      "price": 2684.94,
-      "change_pct": 0.6
+      "price": 2704.06,
+      "change_pct": 0.73
     }
   },
   "commodities": {
     "Gold": {
-      "price": 3525.0,
-      "change_pct": -0.68
+      "price": 3603.7,
+      "change_pct": 1.54
     },
     "Oil (WTI)": {
-      "price": 81.82,
-      "change_pct": 1.35
+      "price": 84.1,
+      "change_pct": 4.17
     },
     "Silver": {
-      "price": 39.71,
-      "change_pct": -2.17
+      "price": 41.42,
+      "change_pct": 2.06
     }
   },
   "crypto": {
     "BTC": {
-      "price": 58459,
-      "change_pct": -2.93
+      "price": 60264,
+      "change_pct": 0.74
     },
     "ETH": {
-      "price": 1638.91,
-      "change_pct": -3.42
+      "price": 1686.97,
+      "change_pct": 0.5
     },
     "SOL": {
-      "price": 67.58,
-      "change_pct": -4.3
+      "price": 70.7,
+      "change_pct": 1.9
     },
     "BNB": {
-      "price": 538.69,
-      "change_pct": -1.99
+      "price": 553.54,
+      "change_pct": 0.88
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Nasdaq futures tumble as AI sell-off returns with Nvidia, Anthropic leading the way: Live updates"
+      "title": "Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Trump\u2019s meddling in Huang scandal reignites voter angst over tech\u2019s outsized political power"
+      "title": "Vance says he was assured Jensen Huang was not under DOJ investigation"
     },
     {
       "source": "MarketWatch",
-      "title": "The S&P 500 is headed to 8,200 \u2014 and downturns like this one are actually part of the reason, says JPMorgan"
+      "title": "Nvidia\u2019s stock has given back more than half of Monday\u2019s rally as dip buyers cash in"
     },
     {
       "source": "MarketWatch",
-      "title": "This strategist\u2019s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he argues"
+      "title": "Elon Musk and SpaceX to donate roughly $17.8 billion to \u2018Trump accounts\u2019"
     }
   ]
 }
