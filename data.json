@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, November 25 2026  19:57 PT",
+  "generated_at": "Thursday, November 26 2026  05:39 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3609.3,
-      "change_pct": 1.7
+      "price": 3595.4,
+      "change_pct": 1.31
     },
     "Oil (WTI)": {
-      "price": 84.39,
-      "change_pct": 4.53
+      "price": 84.63,
+      "change_pct": 4.83
     },
     "Silver": {
-      "price": 42.03,
-      "change_pct": 3.55
+      "price": 41.6,
+      "change_pct": 2.5
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60759,
-      "change_pct": 2.53
+      "price": 60814,
+      "change_pct": 4.34
     },
     "ETH": {
-      "price": 1698.35,
-      "change_pct": 2.31
+      "price": 1703.47,
+      "change_pct": 4.06
     },
     "SOL": {
-      "price": 71.12,
-      "change_pct": 2.89
+      "price": 70.89,
+      "change_pct": 5.46
     },
     "BNB": {
-      "price": 559.04,
-      "change_pct": 3.15
+      "price": 552.47,
+      "change_pct": 3.11
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk"
+      "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts"
     },
     {
       "source": "CNBC",
-      "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU"
+      "title": "Trump, NATO chief caution Russia as attacks on Ukraine\u2019s energy infrastructure intensify"
     },
     {
       "source": "MarketWatch",
-      "title": "We are living in perilous times if Nvidia\u2019s Jensen Huang dictates your 401(k) balance"
+      "title": "Roth IRA conversions aren\u2019t free money. Watch out for these 5 costly mistakes."
     },
     {
       "source": "MarketWatch",
-      "title": "Why this stock-market selloff is probably going to get worse before it gets better"
+      "title": "\u2018I felt so seen\u2019: Why families across America are laughing \u2014 and crying \u2014 over SNL\u2019s \u2018Sister\u2019 sketch"
     }
   ]
 }
