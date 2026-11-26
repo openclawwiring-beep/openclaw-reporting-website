@@ -1,5 +1,5 @@
 {
-  "generated_at": "Wednesday, November 25 2026  13:54 PT",
+  "generated_at": "Wednesday, November 25 2026  19:57 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3603.7,
-      "change_pct": 1.54
+      "price": 3609.3,
+      "change_pct": 1.7
     },
     "Oil (WTI)": {
-      "price": 84.1,
-      "change_pct": 4.17
+      "price": 84.39,
+      "change_pct": 4.53
     },
     "Silver": {
-      "price": 41.42,
-      "change_pct": 2.06
+      "price": 42.03,
+      "change_pct": 3.55
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60264,
-      "change_pct": 0.74
+      "price": 60759,
+      "change_pct": 2.53
     },
     "ETH": {
-      "price": 1686.97,
-      "change_pct": 0.5
+      "price": 1698.35,
+      "change_pct": 2.31
     },
     "SOL": {
-      "price": 70.7,
-      "change_pct": 1.9
+      "price": 71.12,
+      "change_pct": 2.89
     },
     "BNB": {
-      "price": 553.54,
-      "change_pct": 0.88
+      "price": 559.04,
+      "change_pct": 3.15
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates"
+      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk"
     },
     {
       "source": "CNBC",
-      "title": "Vance says he was assured Jensen Huang was not under DOJ investigation"
+      "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU"
     },
     {
       "source": "MarketWatch",
-      "title": "Nvidia\u2019s stock has given back more than half of Monday\u2019s rally as dip buyers cash in"
+      "title": "We are living in perilous times if Nvidia\u2019s Jensen Huang dictates your 401(k) balance"
     },
     {
       "source": "MarketWatch",
-      "title": "Elon Musk and SpaceX to donate roughly $17.8 billion to \u2018Trump accounts\u2019"
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better"
     }
   ]
 }
