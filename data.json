@@ -1,72 +1,72 @@
 {
-  "generated_at": "Friday, November 27 2026  06:42 PT",
-  "market_status": "Live \u2014 as of 09:42 ET",
+  "generated_at": "Friday, November 27 2026  15:14 PT",
+  "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
-      "price": 7227.58,
-      "change_pct": 0.62
+      "price": 7297.49,
+      "change_pct": 1.6
     },
     "Nasdaq": {
-      "price": 23768.13,
-      "change_pct": 0.8
+      "price": 24129.5,
+      "change_pct": 2.33
     },
     "Dow Jones": {
-      "price": 50510.98,
-      "change_pct": 0.66
+      "price": 50774.94,
+      "change_pct": 1.18
     },
     "Russell 2000": {
-      "price": 2704.06,
-      "change_pct": 0.73
+      "price": 2750.3,
+      "change_pct": 1.73
     }
   },
   "commodities": {
     "Gold": {
-      "price": 3665.7,
-      "change_pct": 1.25
+      "price": 3668.5,
+      "change_pct": 1.33
     },
     "Oil (WTI)": {
-      "price": 84.02,
-      "change_pct": -0.47
+      "price": 83.08,
+      "change_pct": -1.59
     },
     "Silver": {
-      "price": 44.19,
-      "change_pct": 5.0
+      "price": 43.7,
+      "change_pct": 3.84
     }
   },
   "crypto": {
     "BTC": {
-      "price": 60272,
-      "change_pct": -0.75
+      "price": 59780,
+      "change_pct": -1.07
     },
     "ETH": {
-      "price": 1690.56,
-      "change_pct": -0.53
+      "price": 1657.88,
+      "change_pct": -1.76
     },
     "SOL": {
-      "price": 71.87,
-      "change_pct": 0.83
+      "price": 71.46,
+      "change_pct": 0.79
     },
     "BNB": {
-      "price": 554.4,
-      "change_pct": 0.39
+      "price": 553.18,
+      "change_pct": 0.04
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates"
+      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday"
     },
     {
       "source": "CNBC",
-      "title": "Trump demands probe into \u2018record setting error\u2019 after third-quarter GDP data gets massive revision higher"
+      "title": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher"
     },
     {
       "source": "MarketWatch",
-      "title": "How much more are richest Americans spending on the holidays compared to everyone else?"
+      "title": "These stocks soared the most during a wild week highlighted by Huang\u2019s return to Nvidia"
     },
     {
       "source": "MarketWatch",
-      "title": "Clearing out my parents\u2019 house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
+      "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest"
     }
   ]
 }
