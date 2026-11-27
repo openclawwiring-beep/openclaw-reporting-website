@@ -1,18 +1,18 @@
 {
-  "generated_at": "Thursday, November 26 2026  20:47 PT",
-  "market_status": "Prior close \u2014 market closed",
+  "generated_at": "Friday, November 27 2026  06:42 PT",
+  "market_status": "Live \u2014 as of 09:42 ET",
   "stocks": {
     "S&P 500": {
-      "price": 7182.78,
-      "change_pct": -0.27
+      "price": 7227.58,
+      "change_pct": 0.62
     },
     "Nasdaq": {
-      "price": 23585.8,
-      "change_pct": -0.63
+      "price": 23768.13,
+      "change_pct": 0.8
     },
     "Dow Jones": {
-      "price": 50182.95,
-      "change_pct": 0.31
+      "price": 50510.98,
+      "change_pct": 0.66
     },
     "Russell 2000": {
       "price": 2704.06,
@@ -21,52 +21,52 @@
   },
   "commodities": {
     "Gold": {
-      "price": 3661.8,
-      "change_pct": 3.18
+      "price": 3665.7,
+      "change_pct": 1.25
     },
     "Oil (WTI)": {
-      "price": 85.8,
-      "change_pct": 6.28
+      "price": 84.02,
+      "change_pct": -0.47
     },
     "Silver": {
-      "price": 43.72,
-      "change_pct": 7.74
+      "price": 44.19,
+      "change_pct": 5.0
     }
   },
   "crypto": {
     "BTC": {
-      "price": 61457,
-      "change_pct": 0.84
+      "price": 60272,
+      "change_pct": -0.75
     },
     "ETH": {
-      "price": 1734.88,
-      "change_pct": 1.92
+      "price": 1690.56,
+      "change_pct": -0.53
     },
     "SOL": {
-      "price": 72.82,
-      "change_pct": 2.38
+      "price": 71.87,
+      "change_pct": 0.83
     },
     "BNB": {
-      "price": 563.59,
-      "change_pct": 0.69
+      "price": 554.4,
+      "change_pct": 0.39
     }
   },
   "headlines": [
     {
       "source": "CNBC",
-      "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates"
+      "title": "Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates"
     },
     {
       "source": "CNBC",
-      "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends \u2018whenever I want it\u2019"
+      "title": "Trump demands probe into \u2018record setting error\u2019 after third-quarter GDP data gets massive revision higher"
     },
     {
       "source": "MarketWatch",
-      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it\u2019s done for my 401(k). Am I a hypocrite?"
+      "title": "How much more are richest Americans spending on the holidays compared to everyone else?"
     },
     {
       "source": "MarketWatch",
-      "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?"
+      "title": "Clearing out my parents\u2019 house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?"
     }
   ]
 }
