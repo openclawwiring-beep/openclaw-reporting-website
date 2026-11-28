@@ -1,5 +1,5 @@
 {
-  "generated_at": "Friday, November 27 2026  15:14 PT",
+  "generated_at": "Friday, November 27 2026  20:52 PT",
   "market_status": "Prior close \u2014 market closed",
   "stocks": {
     "S&P 500": {
@@ -11,7 +11,7 @@
       "change_pct": 2.33
     },
     "Dow Jones": {
-      "price": 50774.94,
+      "price": 50774.9,
       "change_pct": 1.18
     },
     "Russell 2000": {
@@ -35,20 +35,20 @@
   },
   "crypto": {
     "BTC": {
-      "price": 59780,
-      "change_pct": -1.07
+      "price": 59978,
+      "change_pct": -2.38
     },
     "ETH": {
-      "price": 1657.88,
-      "change_pct": -1.76
+      "price": 1662.7,
+      "change_pct": -4.04
     },
     "SOL": {
-      "price": 71.46,
-      "change_pct": 0.79
+      "price": 71.61,
+      "change_pct": -1.63
     },
     "BNB": {
-      "price": 553.18,
-      "change_pct": 0.04
+      "price": 554.64,
+      "change_pct": -1.59
     }
   },
   "headlines": [
@@ -59,14 +59,6 @@
     {
       "source": "CNBC",
       "title": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "These stocks soared the most during a wild week highlighted by Huang\u2019s return to Nvidia"
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest"
     }
   ]
 }
